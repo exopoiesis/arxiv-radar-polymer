@@ -1,0 +1,240 @@
+---
+layout: page
+title: "monte-carlo (90d)"
+current_tag: monte-carlo
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>monte-carlo — 90d</h1>
+  <span class="paper-count">37 papers</span>
+  <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27558.html">Computation of frequency- and time-domain Jacobians in optical tomography with Monte Carlo simulations</a></div></td>
+<td>Pauliina Hirvi et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27558">2604.27558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26264.html">Accelerated Prediction of Surface Stability and Particle Morphology in Ionic Crystals via Electrostatic Screening</a></div><div class="paper-tags"><a href="high-throughput-screening-90d.html">high-throughput-screening</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Sourav Baiju et al.</td>
+<td><a href="http://arxiv.org/abs/2604.26264">2604.26264</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24883.html">Uncovering Exotic Paired States in the 2D Spin-Imbalanced Fermi Gas with Neural Wave Functions</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Wan Tong Lou et al.</td>
+<td><a href="http://arxiv.org/abs/2604.24883">2604.24883</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12877.html">Fidelity of Machine Learned Potentials: Quantitative Assessment for Protonated Oxalate</a></div></td>
+<td>Chen Qu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.12877">2604.12877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18183.html">The Metal Content of Resolved Galaxies</a></div></td>
+<td>Lidia N. Makarova et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18183">2604.18183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17631.html">Conjugate Beamforming Variants for Multicasting in Cell-Free Massive MIMO Systems</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Alejandro de la Fuente et al.</td>
+<td><a href="http://arxiv.org/abs/2604.17631">2604.17631</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16267.html">Improved Desalination by Polymer Grafting</a></div><div class="paper-tags"><a href="block-copolymer-90d.html">block-copolymer</a></div></td>
+<td>Mamta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2604.16267">2604.16267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15433.html">The Phase Transitions in a $p$ spin Glass Model: A Numerical Study</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
+<td>Prerak Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15433">2604.15433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24303.html">Mixing, segregation, and collapse transitions of interacting copolymer rings</a></div></td>
+<td>EJ Janse van Rensburg et al.</td>
+<td><a href="http://arxiv.org/abs/2512.24303">2512.24303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14289.html">Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Zhou-Quan Wan et al.</td>
+<td><a href="http://arxiv.org/abs/2604.14289">2604.14289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09908.html">Collapse of a single polymer chain: Effects of chain stiffness and attraction range</a></div></td>
+<td>Yanyan Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2601.09908">2601.09908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td>Hongbin Ni et al.</td>
+<td><a href="http://arxiv.org/abs/2604.10798">2604.10798</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28672.html">How Many Qubits Can Be Teleported? Scalability of Fidelity-Constrained Quantum Applications</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
+<td>Oscar Adamuz-Hinojosa et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28672">2603.28672</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06764.html">Towards National Quantum Communication in Europe: Planning and Sizing Terrestrial QKD Networks</a></div></td>
+<td>Sebastian Raubitzek et al.</td>
+<td><a href="http://arxiv.org/abs/2604.06764">2604.06764</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21290.html">Molecular motion at the experimental glass transition</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Romain Simon et al.</td>
+<td><a href="http://arxiv.org/abs/2506.21290">2506.21290</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28609.html">Rounded hard squares confined in a circle</a></div></td>
+<td>Zhongtian Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28609">2603.28609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11843.html">Self-organized defect-phases along dislocations in irradiated alloys</a></div></td>
+<td>N. Saunders et al.</td>
+<td><a href="http://arxiv.org/abs/2601.11843">2601.11843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17848.html">Scaling Kinetic Monte-Carlo Simulations of Grain Growth with Combined Convolutional and Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Zhihui Tian et al.</td>
+<td><a href="http://arxiv.org/abs/2511.17848">2511.17848</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17180.html">Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Pietro Miotti et al.</td>
+<td><a href="http://arxiv.org/abs/2603.17180">2603.17180</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01062.html">Quantifying Student Success with Generative AI: A Monte Carlo Simulation Informed by Systematic Review</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Seyma Yaman Kayadibi</td>
+<td><a href="http://arxiv.org/abs/2507.01062">2507.01062</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19749.html">The extraordinary importance of self-avoiding behavior in two-dimensional polymers: Insights from large-deviation theory</a></div></td>
+<td>Eleftherios Mainas et al.</td>
+<td><a href="http://arxiv.org/abs/2512.19749">2512.19749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14555.html">Retrieval of multiple fibre orientations using X-ray dark-field signal modelling</a></div></td>
+<td>Lorenzo Massimi et al.</td>
+<td><a href="http://arxiv.org/abs/2603.14555">2603.14555</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12081.html">Direct Boltzmann inversion method from particle configurations at arbitrary state points</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Olivier Coquand et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12081">2603.12081</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12334.html">Quantum algorithms for compact polymer thermodynamics</a></div></td>
+<td>Davide Rattacaso et al.</td>
+<td><a href="http://arxiv.org/abs/2603.12334">2603.12334</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07103.html">Ultra-Sharp Upright Photon Radiotherapy via Low Energy Extended Distance: An Alternative to FLASH for high flux Sources</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="composites-90d.html">composites</a></div></td>
+<td>Lloyd E Kamole Ghomsi et al.</td>
+<td><a href="http://arxiv.org/abs/2603.07103">2603.07103</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05674.html">SAFT-P: A plaquette level perturbation for self-assembly in patchy colloids</a></div></td>
+<td>Hamza Coban et al.</td>
+<td><a href="http://arxiv.org/abs/2603.05674">2603.05674</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01642.html">Magnetization plateaus, spin-canted orders and field-induced transitions in a spin-1/2 Heisenberg antiferromagnet on a distorted diamond-decorated honeycomb lattice</a></div></td>
+<td>Katarina Karlova et al.</td>
+<td><a href="http://arxiv.org/abs/2603.01642">2603.01642</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01715.html">Power and Sample Size Calculations for Bayes Factors in two-arm clinical Phase II Trials with binary Endpoints</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Riko Kelter</td>
+<td><a href="http://arxiv.org/abs/2603.01715">2603.01715</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24203.html">Vacancy-induced local moments in quantum paramagnetic phases: An SU($N$) designer Hamiltonian study</a></div></td>
+<td>Md Zahid Ansari et al.</td>
+<td><a href="http://arxiv.org/abs/2602.24203">2602.24203</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22382.html">Field-induced phase transitions in ferro-antiferromagnetic diblock copolymers</a></div></td>
+<td>Alberto Raiola et al.</td>
+<td><a href="http://arxiv.org/abs/2602.22382">2602.22382</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03472.html">Kinetic theory of dilute weakly charged granular gases with hard-core and inverse power-law interactions under uniform shear flow</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Yuria Kobayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2601.03472">2601.03472</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18648.html">Optimal Signal Extraction from Order Flow: A Matched Filter Perspective on Normalization and Market Microstructure</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Sungwoo Kang</td>
+<td><a href="http://arxiv.org/abs/2512.18648">2512.18648</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00093.html">Adaptive Uncertainty-Guided Surrogates for Efficient phase field Modeling of Dendritic Solidification</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
+<td>Eider Garate-Perez et al.</td>
+<td><a href="http://arxiv.org/abs/2603.00093">2603.00093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11630.html">Revisiting vestigial order in nematic superconductors: gauge-field mechanisms and model constraints</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Ilaria Maccari et al.</td>
+<td><a href="http://arxiv.org/abs/2505.11630">2505.11630</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14097.html">Delocalisation explains efficient transport and charge generation in neat Y6 organic photovoltaics</a></div><div class="paper-tags"><a href="organic-photovoltaics-90d.html">organic-photovoltaics</a></div></td>
+<td>Daniel Balzer et al.</td>
+<td><a href="http://arxiv.org/abs/2602.14097">2602.14097</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10353.html">Self-pinning mechanism for grain boundary stabilization</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Omar Hussein et al.</td>
+<td><a href="http://arxiv.org/abs/2602.10353">2602.10353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09120.html">SpinCastML an Open Decision-Making Application for Inverse Design of Electrospinning Manufacturing: A Machine Learning, Optimal Sampling and Inverse Monte Carlo Approach</a></div><div class="paper-tags"><a href="inverse-design-90d.html">inverse-design</a></div></td>
+<td>Elisa Roldan et al.</td>
+<td><a href="http://arxiv.org/abs/2602.09120">2602.09120</a></td>
+</tr>
+</tbody></table>

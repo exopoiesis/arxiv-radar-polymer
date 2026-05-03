@@ -1,0 +1,135 @@
+base_url: "https://arxiv.paperswithcode.com/api/v0/papers/"
+user_name: "exopoiesis"
+repo_name: "arxiv-radar-polymer"
+show_authors: True
+show_links: True
+show_badge: True
+max_results: 10
+
+publish_readme: True
+publish_gitpage: True
+publish_wechat: False
+
+# file paths
+json_readme_path: './docs/polymer-arxiv-daily.json'
+json_gitpage_path: './docs/polymer-arxiv-daily-web.json'
+json_wechat_path: './docs/polymer-arxiv-daily-wechat.json'
+
+md_readme_path: 'README.md'
+md_gitpage_path: './docs/index.md'
+md_wechat_path: './docs/wechat.md'
+
+# Search filters per topic, seeded from daily-arxiv-ai4polymer.
+#
+# Each filter becomes part of an OR-joined arXiv search query. Three forms:
+#   - "single phrase"  -> single-word, used bare
+#   - "Multi word"     -> quoted as phrase
+#   - "RAW:expr"       -> expression passed through verbatim, wrapped in parens.
+#
+# Generic ML phrases are ANDed with polymer context to avoid fetching broad
+# non-polymer machine-learning papers.
+keywords:
+    "Representation & Foundation Models":
+        filters:
+          - "Polymer Language Models"
+          - "PolymerLLM"
+          - "SMILES for Polymers"
+          - "BigSMILES"
+          - "SELFIES"
+          - "Polymer Embedding"
+          - "Polymer Fingerprints"
+          - "Macromolecular Representation"
+          - 'RAW:("Graph Neural Networks" OR GNNs OR "Self-Supervised Learning" OR "Cross-Modal Learning") AND (polymer OR polymers OR macromolecular OR macromolecule OR copolymer OR monomer OR BigSMILES OR hydrogel OR elastomer OR thermoplastic OR resin)'
+
+    "Property Prediction & QSPR":
+        filters:
+          - "Structure-Property Relationship"
+          - "QSPR for Polymers"
+          - "Glass Transition Temperature"
+          - "Tg Prediction"
+          - "Thermal Conductivity"
+          - "Dielectric Properties"
+          - "Elastic Modulus"
+          - "Viscoelasticity"
+          - "Band Gap Prediction"
+          - "Solubility Parameter"
+          - "Flory-Huggins Parameter"
+
+    "Generative Design & Inverse Design":
+        filters:
+          - "De Novo Polymer Design"
+          - "Generative Models for Polymers"
+          - "Polymer Generation"
+          - 'RAW:("Inverse Design" OR "Diffusion Models" OR "Variational Autoencoder" OR VAE OR "Generative Adversarial Networks" OR GAN OR "Bayesian Optimization" OR "Active Learning") AND (polymer OR polymers OR macromolecular OR macromolecule OR copolymer OR monomer OR BigSMILES OR hydrogel OR elastomer OR thermoplastic OR resin)'
+
+    "Molecular Dynamics & Multiscale Modeling":
+        filters:
+          - "Machine Learning Force Fields"
+          - "MLFF"
+          - "Neural Network Potentials"
+          - "Coarse-grained Simulation"
+          - "CGMD"
+          - "Multiscale Modeling"
+          - "Enhanced Sampling"
+          - "Statistical Mechanics"
+          - "Monte Carlo Simulation"
+          - "Soft Matter Physics"
+          - "Molecular Dynamics Acceleration"
+
+    "Microstructure, Morphology & Characterization":
+        filters:
+          - "Polymer Morphology"
+          - "Phase Separation"
+          - "Block Copolymer Self-assembly"
+          - "Crystallinity Prediction"
+          - "Microstructure Characterization"
+          - "Image Segmentation for Polymers"
+          - "SAXS Analysis"
+          - "TEM Image Analysis"
+          - "Spectroscopy Analysis"
+          - "GPC Data Interpretation"
+
+    "Synthesis, Kinetics & Automation":
+        filters:
+          - "Polymerization Reaction Prediction"
+          - "Reaction Yield"
+          - "Polymerization Kinetics Modeling"
+          - "Catalyst Design"
+          - "Retrosynthesis"
+          - "Controlled Radical Polymerization"
+          - "Ring-Opening Polymerization"
+          - "Automated Synthesis"
+          - "Reaction Condition Screening"
+
+    "Processing, Manufacturing & Composites":
+        filters:
+          - "Process-Structure-Property Relationship"
+          - "Rheology Modeling"
+          - "Extrusion Simulation"
+          - "Injection Molding AI"
+          - "Additive Manufacturing"
+          - "3D Printing Polymers"
+          - "Polymer Matrix Composites"
+          - "Filler Dispersion Prediction"
+          - "Nanocomposites"
+
+    "Sustainability & Functional Applications":
+        filters:
+          - "Sustainable Polymers"
+          - "Biodegradable Polymers"
+          - "Plastic Recycling"
+          - "Upcycling Technology"
+          - "Polymer Degradation"
+          - "Life Cycle Assessment"
+          - "Polymer Electrolytes"
+          - "Organic Photovoltaics"
+          - "Hydrogels"
+          - "Membrane Separation"
+
+    "Informatics & Data Infrastructure":
+        filters:
+          - "Polymer Informatics"
+          - "Polymer Database"
+          - "Polymer Genome"
+          - "Curated Polymer Dataset"
+          - 'RAW:("High-throughput Screening" OR HTS OR Benchmarking OR benchmarks OR PoSIT) AND (polymer OR polymers OR macromolecular OR macromolecule OR copolymer OR monomer OR BigSMILES OR hydrogel OR elastomer OR thermoplastic OR resin)'

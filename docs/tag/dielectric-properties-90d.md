@@ -1,0 +1,54 @@
+---
+layout: page
+title: "dielectric-properties (90d)"
+current_tag: dielectric-properties
+current_window: 90d
+---
+
+<header class="tag-header">
+  <h1>dielectric-properties — 90d</h1>
+  <span class="paper-count">6 papers</span>
+  <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <strong>90d</strong> <a href="dielectric-properties-360d.html">360d</a> <a href="dielectric-properties-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15137.html">Deformation of Bacterial Cell Membranes by Action of Metal Surface under Plasmon Resonance Condition</a></div></td>
+<td>Taras Vasyliev et al.</td>
+<td><a href="http://arxiv.org/abs/2604.15137">2604.15137</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13653.html">Ternary liquid crystalline mixture showing broad antiferroelectric smectic C$_A$* and glassy hexatic smectic X$_A$* phases</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2604.13653">2604.13653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21827.html">Invariant ionic conductance in an atomically thin polar nanopore</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Shengping Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2603.21827">2603.21827</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06897.html">Correlations Between the Dielectric Properties, Domain Structure Morphology and Phase State of Bi1-xSmxFeO3 Nanoparticles</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Oleksandr S. Pylypchuk et al.</td>
+<td><a href="http://arxiv.org/abs/2603.06897">2603.06897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14725.html">Ion Permeation in Nanoscale Films: Fundamental Limitation and Evaluation of Dielectric Properties</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a></div></td>
+<td>Jay Prakash Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2509.14725">2509.14725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10534.html">Probing Plasmonic Oscillations in 2D Moiré Nanocrystal Superlattices by Low-Loss EELS</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a> · <a href="tem-90d.html">tem</a></div></td>
+<td>Swarnendu Das et al.</td>
+<td><a href="http://arxiv.org/abs/2602.10534">2602.10534</a></td>
+</tr>
+</tbody></table>

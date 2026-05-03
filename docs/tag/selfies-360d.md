@@ -1,0 +1,108 @@
+---
+layout: page
+title: "selfies (360d)"
+current_tag: selfies
+current_window: 360d
+---
+
+<header class="tag-header">
+  <h1>selfies — 360d</h1>
+  <span class="paper-count">15 papers</span>
+  <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <strong>360d</strong> <a href="selfies-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-03-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19373.html">Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models</a></div></td>
+<td>Weidi Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2504.19373">2504.19373</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22405.html">MolFM-Lite: Multi-Modal Molecular Property Prediction with Conformer Ensemble Attention and Cross-Modal Fusion</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Syed Omer Shah et al.</td>
+<td><a href="http://arxiv.org/abs/2602.22405">2602.22405</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10991.html">MolSculpt: Sculpting 3D Molecular Geometries from Chemical Syntax</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Zhanpeng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2512.10991">2512.10991</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23886.html">Generating Fit Check Videos with a Handheld Camera</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Bowei Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2505.23886">2505.23886</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02769.html">STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Bum Chul Kwon et al.</td>
+<td><a href="http://arxiv.org/abs/2511.02769">2511.02769</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26294.html">Leveraging Large-Scale Face Datasets for Deep Periocular Recognition via Ocular Cropping</a></div></td>
+<td>Fernando Alonso-Fernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2510.26294">2510.26294</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td>Anagha Savit et al.</td>
+<td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23099.html">How to Make Large Language Models Generate 100% Valid Molecules?</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Wen Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2509.23099">2509.23099</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25198.html">SOLD: SELFIES-based Objective-driven Latent Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Elbert Ho</td>
+<td><a href="http://arxiv.org/abs/2509.25198">2509.25198</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14980.html">Paired-Sampling Contrastive Framework for Joint Physical-Digital Face Attack Detection</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Andrei Balykin et al.</td>
+<td><a href="http://arxiv.org/abs/2508.14980">2508.14980</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03283.html">MolVision: Molecular Property Prediction with Vision Language Models</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Deepan Adak et al.</td>
+<td><a href="http://arxiv.org/abs/2507.03283">2507.03283</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22746.html">Phone physics and the Gateway Arch: Fun with friends and physics at the AAPT Winter Meeting in St. Louis</a></div></td>
+<td>David Marasco et al.</td>
+<td><a href="http://arxiv.org/abs/2506.22746">2506.22746</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20182.html">Chemical Language Model Linker: blending text and molecules with modular adapters</a></div></td>
+<td>Yifan Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2410.20182">2410.20182</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02810.html">Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Chanhui Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2502.02810">2502.02810</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12534.html">ChemPile: A 250GB Diverse and Curated Dataset for Chemical Foundation Models</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="catalyst-design-360d.html">catalyst-design</a></div></td>
+<td>Adrian Mirza et al.</td>
+<td><a href="http://arxiv.org/abs/2505.12534">2505.12534</a></td>
+</tr>
+</tbody></table>

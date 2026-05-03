@@ -1,0 +1,132 @@
+---
+layout: page
+title: "extrusion (360d)"
+current_tag: extrusion
+current_window: 360d
+---
+
+<header class="tag-header">
+  <h1>extrusion — 360d</h1>
+  <span class="paper-count">19 papers</span>
+  <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <a href="extrusion-90d.html">90d</a> <strong>360d</strong> <a href="extrusion-all.html">all</a></nav>
+  <a class="back-link" href="../">← all tags</a>
+</header>
+
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20617.html">Mass conservation analysis of extrusion-based 3D printing simulations based on the level-set method</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Carlos J. G. Rojas et al.</td>
+<td><a href="http://arxiv.org/abs/2508.20617">2508.20617</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01991.html">Integrated Identification of Collaborative Robots for Robot Assisted 3D Printing Processes</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Alessandro Dimauro et al.</td>
+<td><a href="http://arxiv.org/abs/2604.01991">2604.01991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20636.html">Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Ziyue Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2511.20636">2511.20636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09353.html">Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Engin Deniz Erkan et al.</td>
+<td><a href="http://arxiv.org/abs/2603.09353">2603.09353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24970.html">Trichome entanglement enhances damage tolerance in microstructured biocomposites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Israel Kellersztein et al.</td>
+<td><a href="http://arxiv.org/abs/2510.24970">2510.24970</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24905.html">One-Shot Camera-Based Extrusion Optimization for High Speed Fused Filament Fabrication</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Yufan Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2512.24905">2512.24905</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00073.html">Non-Contact and Non-Destructive Detection of Structural Defects in Bioprinted Constructs Using Video-Based Vibration Analysis</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Md Anisur Rahman et al.</td>
+<td><a href="http://arxiv.org/abs/2601.00073">2601.00073</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16333.html">Closed Loop Reference Optimization for Extrusion Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Rawan Hoteit et al.</td>
+<td><a href="http://arxiv.org/abs/2512.16333">2512.16333</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24994.html">Defect Mitigation for Robot Arm-based Additive Manufacturing Utilizing Intelligent Control and IOT</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Matsive Ali et al.</td>
+<td><a href="http://arxiv.org/abs/2510.24994">2510.24994</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14307.html">LLM-3D Print: Large Language Models To Monitor and Control 3D Printing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Yayati Jadhav et al.</td>
+<td><a href="http://arxiv.org/abs/2408.14307">2408.14307</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12436.html">A Meshing Framework for Digital Twins for Extrusion based Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Lucas Gallup et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12436">2509.12436</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04180.html">Slice-100K: A Multimodal Dataset for Extrusion-based 3D Printing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Anushrut Jignasu et al.</td>
+<td><a href="http://arxiv.org/abs/2407.04180">2407.04180</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22021.html">Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td>Alan Eduardo Avila Ramirez et al.</td>
+<td><a href="http://arxiv.org/abs/2507.22021">2507.22021</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00894.html">Additive Manufacturing of PEEK/Lunar Regolith Composites for Sustainable Lunar Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Mohammad Azami et al.</td>
+<td><a href="http://arxiv.org/abs/2508.00894">2508.00894</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15857.html">Development and in vitro Characterization of a Novel Bioactive Hydrogel for Bioprinting Uterine Constructs</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
+<td>Abbas Fazel Anvari Yazdi et al.</td>
+<td><a href="http://arxiv.org/abs/2506.15857">2506.15857</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19830.html">Statistical physics of active matter, cell division and cell aggregation</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
+<td>Jean-François Joanny et al.</td>
+<td><a href="http://arxiv.org/abs/2505.19830">2505.19830</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17396.html">Cross-scale Modeling of Polymer Topology Impact on Extrudability through Molecular Dynamics and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yawei Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2505.17396">2505.17396</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15349.html">Simulation of Micro-Void Development within Large Scale Additively Manufactured Polymer Composite Deposition Beads</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a> · <a href="rheology-360d.html">rheology</a></div></td>
+<td>Aigbe E. Awenlimobor</td>
+<td><a href="http://arxiv.org/abs/2501.15349">2501.15349</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05097.html">Mean pairwise distances in Rouse polymer subject to fast loop extrusion</a></div></td>
+<td>Ilya Nikitin et al.</td>
+<td><a href="http://arxiv.org/abs/2505.05097">2505.05097</a></td>
+</tr>
+</tbody></table>

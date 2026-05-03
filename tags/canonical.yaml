@@ -1,0 +1,407 @@
+# Canonical tags for Polymer arxiv-radar.
+#
+# Seed vocabulary derived from daily-arxiv-ai4polymer/config.yaml. These tags
+# are used only for deterministic keyword matching after fetch; arXiv fetch
+# queries remain in config.yaml.
+
+polymer-language-model:
+  group: representation
+  synonyms:
+    - polymer language model
+    - polymer language models
+    - polymerllm
+    - macromolecular language model
+    - macromolecular language models
+
+bigsmiles:
+  group: representation
+  synonyms: [bigsmiles, big smiles]
+
+selfies:
+  group: representation
+  synonyms: [selfies]
+
+polymer-representation:
+  group: representation
+  synonyms:
+    - polymer embedding
+    - polymer embeddings
+    - polymer fingerprint
+    - polymer fingerprints
+    - macromolecular representation
+    - smiles for polymers
+
+gnn:
+  group: representation
+  synonyms:
+    - graph neural network
+    - graph neural networks
+    - graph neural networks for polymers
+    - gnns
+    - message passing neural network
+    - mpnn
+
+qspr:
+  group: properties
+  synonyms:
+    - qspr
+    - qspr for polymers
+    - structure-property relationship
+    - structure property relationship
+    - process-structure-property relationship
+    - process structure property relationship
+
+glass-transition:
+  group: properties
+  synonyms:
+    - glass transition temperature
+    - glass-transition temperature
+    - tg prediction
+    - glass transition
+
+thermal-conductivity:
+  group: properties
+  synonyms: [thermal conductivity]
+
+dielectric-properties:
+  group: properties
+  synonyms:
+    - dielectric property
+    - dielectric properties
+
+mechanical-properties:
+  group: properties
+  synonyms:
+    - elastic modulus
+    - mechanical property
+    - mechanical properties
+    - tensile strength
+    - toughness
+    - viscoelasticity
+    - viscoelastic
+
+band-gap:
+  group: properties
+  synonyms:
+    - band gap
+    - bandgap
+    - band gap prediction
+
+flory-huggins:
+  group: properties
+  synonyms:
+    - flory-huggins
+    - flory huggins
+    - flory-huggins parameter
+    - flory huggins parameter
+
+inverse-design:
+  group: design
+  synonyms:
+    - inverse design
+    - de novo polymer design
+    - polymer generation
+    - polymer design
+
+generative-model:
+  group: design
+  synonyms:
+    - generative model
+    - generative models
+    - generative models for polymers
+    - variational autoencoder
+    - vae
+    - generative adversarial network
+    - generative adversarial networks
+    - gan
+
+diffusion-model:
+  group: design
+  synonyms:
+    - diffusion model
+    - diffusion models
+
+active-learning:
+  group: design
+  synonyms: [active learning]
+
+bayesian-optimization:
+  group: design
+  synonyms: [bayesian optimization]
+
+molecular-dynamics:
+  group: simulation
+  synonyms:
+    - molecular dynamics
+    - molecular dynamics acceleration
+    - md simulation
+    - md simulations
+
+mlff:
+  group: simulation
+  synonyms:
+    - machine learning force field
+    - machine learning force fields
+    - neural network potential
+    - neural network potentials
+    - mlff
+    - force field
+    - force fields
+
+coarse-grained:
+  group: simulation
+  synonyms:
+    - coarse-grained
+    - coarse grained
+    - coarse-grained simulation
+    - coarse grained simulation
+    - cgmd
+
+multiscale-modeling:
+  group: simulation
+  synonyms:
+    - multiscale modeling
+    - multiscale modelling
+    - multi-scale modeling
+    - multi-scale modelling
+
+enhanced-sampling:
+  group: simulation
+  synonyms: [enhanced sampling]
+
+monte-carlo:
+  group: simulation
+  synonyms:
+    - monte carlo
+    - monte carlo simulation
+    - monte carlo simulations
+
+soft-matter:
+  group: simulation
+  synonyms:
+    - soft matter
+    - soft matter physics
+
+polymer-morphology:
+  group: morphology
+  synonyms:
+    - polymer morphology
+    - morphology
+    - microstructure
+    - microstructure characterization
+
+phase-separation:
+  group: morphology
+  synonyms: [phase separation]
+
+block-copolymer:
+  group: morphology
+  synonyms:
+    - block copolymer
+    - block copolymer self-assembly
+    - block copolymer self assembly
+
+crystallinity:
+  group: morphology
+  synonyms:
+    - crystallinity
+    - crystallinity prediction
+    - crystalline polymer
+    - amorphous polymer
+
+saxs:
+  group: characterization
+  synonyms:
+    - saxs
+    - saxs analysis
+    - small-angle x-ray scattering
+    - small angle x-ray scattering
+
+tem:
+  group: characterization
+  synonyms:
+    - tem
+    - tem image analysis
+    - transmission electron microscopy
+
+spectroscopy:
+  group: characterization
+  synonyms:
+    - spectroscopy
+    - spectroscopy analysis
+    - spectroscopic
+
+gpc:
+  group: characterization
+  synonyms:
+    - gpc
+    - gpc data interpretation
+    - gel permeation chromatography
+
+polymerization:
+  group: synthesis
+  synonyms:
+    - polymerization
+    - polymerisation
+    - polymerization reaction prediction
+    - polymerization kinetics
+    - polymerization kinetics modeling
+    - polymerisation kinetics
+
+radical-polymerization:
+  group: synthesis
+  synonyms:
+    - controlled radical polymerization
+    - controlled radical polymerisation
+    - radical polymerization
+    - radical polymerisation
+
+ring-opening-polymerization:
+  group: synthesis
+  synonyms:
+    - ring-opening polymerization
+    - ring opening polymerization
+    - ring-opening polymerisation
+    - ring opening polymerisation
+
+catalyst-design:
+  group: synthesis
+  synonyms:
+    - catalyst design
+    - catalyst
+    - catalysts
+
+automated-synthesis:
+  group: synthesis
+  synonyms:
+    - automated synthesis
+    - autonomous synthesis
+    - reaction condition screening
+
+rheology:
+  group: processing
+  synonyms:
+    - rheology
+    - rheology modeling
+    - rheological
+
+extrusion:
+  group: processing
+  synonyms:
+    - extrusion
+    - extrusion simulation
+
+injection-molding:
+  group: processing
+  synonyms:
+    - injection molding
+    - injection moulding
+    - injection molding ai
+
+additive-manufacturing:
+  group: processing
+  synonyms:
+    - additive manufacturing
+    - 3d printing polymers
+    - 3d printing polymer
+    - printed polymers
+
+composites:
+  group: processing
+  synonyms:
+    - polymer matrix composite
+    - polymer matrix composites
+    - composite
+    - composites
+    - filler dispersion
+    - filler dispersion prediction
+
+nanocomposites:
+  group: processing
+  synonyms:
+    - nanocomposite
+    - nanocomposites
+
+sustainable-polymers:
+  group: sustainability
+  synonyms:
+    - sustainable polymer
+    - sustainable polymers
+    - biodegradable polymer
+    - biodegradable polymers
+
+plastic-recycling:
+  group: sustainability
+  synonyms:
+    - plastic recycling
+    - polymer recycling
+    - upcycling technology
+    - plastic upcycling
+
+polymer-degradation:
+  group: sustainability
+  synonyms:
+    - polymer degradation
+    - degradation
+    - degradation of polymers
+
+life-cycle-assessment:
+  group: sustainability
+  synonyms:
+    - life cycle assessment
+    - lca
+
+polymer-electrolytes:
+  group: applications
+  synonyms:
+    - polymer electrolyte
+    - polymer electrolytes
+    - solid polymer electrolyte
+    - gel polymer electrolyte
+
+organic-photovoltaics:
+  group: applications
+  synonyms:
+    - organic photovoltaic
+    - organic photovoltaics
+    - organic solar cell
+    - organic solar cells
+
+hydrogels:
+  group: applications
+  synonyms:
+    - hydrogel
+    - hydrogels
+
+membranes:
+  group: applications
+  synonyms:
+    - membrane separation
+    - polymer membrane
+    - polymer membranes
+    - membranes
+
+polymer-informatics:
+  group: informatics
+  synonyms:
+    - polymer informatics
+    - polymer database
+    - polymer databases
+    - polymer genome
+    - curated polymer dataset
+    - curated polymer datasets
+
+high-throughput-screening:
+  group: informatics
+  synonyms:
+    - high-throughput screening
+    - high throughput screening
+    - hts
+
+benchmarking:
+  group: informatics
+  synonyms:
+    - benchmarking
+    - benchmark
+    - benchmarks
+    - posit

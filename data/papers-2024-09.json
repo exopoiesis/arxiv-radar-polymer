@@ -1,0 +1,2603 @@
+{
+ "2407.04192": {
+  "abstract": "Kolmogorov-Arnold networks (KANs) as an alternative to multi-layer perceptrons (MLPs) are a recent development demonstrating strong potential for data-driven modeling. This work applies KANs as the backbone of a neural ordinary differential equation (ODE) framework, generalizing their use to the time-dependent and temporal grid-sensitive cases often seen in dynamical systems and scientific machine learning applications. The proposed KAN-ODEs retain the flexible dynamical system modeling framework of Neural ODEs while leveraging the many benefits of KANs compared to MLPs, including higher accuracy and faster neural scaling, stronger interpretability and generalizability, and lower parameter counts. First, we quantitatively demonstrated these improvements in a comprehensive study of the classical Lotka-Volterra predator-prey model. We then showcased the KAN-ODE framework's ability to learn symbolic source terms and complete solution profiles in higher-complexity and data-lean scenarios including wave propagation and shock formation, the complex Schrödinger equation, and the Allen-Cahn phase separation equation. The successful training of KAN-ODEs, and their improved performance compared to traditional Neural ODEs, implies significant potential in leveraging this novel network architecture in myriad scientific machine learning applications for discovering hidden physics and predicting dynamic evolution.",
+  "authors": [
+   "Benjamin C. Koenig",
+   "Suyong Kim",
+   "Sili Deng"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "B.C.K. and S.K. contributed equally to this work. 21 pages, 10 figures, and 4 tables. Updated after acceptance to journal",
+  "first_author": "Benjamin C. Koenig",
+  "pdf_url": "http://arxiv.org/pdf/2407.04192",
+  "primary_category": "cs.LG",
+  "published": "2024-07-05",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "KAN-ODEs: Kolmogorov-Arnold Network Ordinary Differential Equations for Learning Dynamical Systems and Hidden Physics",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-19"
+ },
+ "2407.13707": {
+  "abstract": "Nonequilibrium systems, in particular living organisms, are maintained by irreversible transformations of energy that drive diverse functions. Quantifying their irreversibility, as measured by energy dissipation, is essential for understanding the underlying mechanisms. However, existing techniques usually overlook experimental limitations, either by assuming full information or by employing a coarse-graining method that requires knowledge of the structure behind hidden degrees of freedom. Here, we study the inference of dissipation from finite-resolution measurements by employing a recently developed model-free estimator that considers both the sequence of coarse-grained transitions and the waiting time distributions: $σ_2=σ_2^\\ell + σ_2^t$. The dominant term $σ_2^\\ell$ originates from the sequence of observed transitions; we find that it scales with resolution following a power law. Comparing the scaling exponent with a previous estimator highlights the importance of accounting for flux correlations at lower resolutions. $σ_2^t$ comes from asymmetries in waiting time distributions. It is non-monotonic in resolution, with its peak position revealing characteristic scales of the underlying dissipative process, consistent with observations in the actomyosin cortex of starfish oocytes. Alternatively, the characteristic scale can be detected in a crossover of the scaling of $σ_2^\\ell$. This provides a novel perspective for extracting otherwise hidden characteristic dissipative scales directly from dissipation measurements. We illustrate these results in biochemical models as well as complex networks. Overall, this study highlights the significance of resolution considerations in nonequilibrium systems, providing insights into the interplay between experimental resolution, entropy production, and underlying complexity.",
+  "authors": [
+   "Qiwei Yu",
+   "Pedro E. Harunari"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Qiwei Yu",
+  "pdf_url": "http://arxiv.org/pdf/2407.13707",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-07-18",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Dissipation at limited resolutions: Power law and detection of hidden dissipative scales",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-30"
+ },
+ "2407.14187": {
+  "abstract": "Including the previously ignored dispersion of phonons we revisit the metal-insulator transition problem in one-dimensional electron-phonon systems on the basis of a modified spinless fermion Holstein model. Using matrix-product-state techniques we determine the global ground-state phase diagram in the thermodynamic limit for the half-filled band case, and show that in particular the curvature of the bare phonon band has a significant effect, not only on the transport properties characterized by the conductance and the Luttinger liquid parameter, but also on the phase space structure of the model as a whole. While a downward curved (convex) dispersion of the phonons only shifts the Tomonaga-Luttinger-liquid to charge-density-wave quantum phase transition towards stronger EP coupling, an upward curved (concave) phonon band leads to a new phase-separated state which, in the case of strong dispersion, can even completely cover the charge-density wave. Such phase separation does not occur in the related Edwards fermion-boson model.",
+  "authors": [
+   "Florian Lange",
+   "Holger Fehske"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Florian Lange",
+  "pdf_url": "http://arxiv.org/pdf/2407.14187",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-07-19",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Metal-insulator transition of spinless fermions coupled to dispersive optical bosons",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-17"
+ },
+ "2408.03754": {
+  "abstract": "Many application domains, e.g., in medicine and manufacturing, can greatly benefit from pneumatic Soft Robots (SRs). However, the accurate control of SRs has remained a significant challenge to date, mainly due to their nonlinear dynamics and viscoelastic material properties. Conventional control design methods often rely on either complex system modeling or time-intensive manual tuning, both of which require significant amounts of human expertise and thus limit their practicality. In recent works, the data-driven method, Automatic Neural ODE Control (ANODEC) has been successfully used to -- fully automatically and utilizing only input-output data -- design controllers for various nonlinear systems in silico, and without requiring prior model knowledge or extensive manual tuning. In this work, we successfully apply ANODEC to automatically learn to perform agile, non-repetitive reference tracking motion tasks in a real-world SR and within a finite time horizon. To the best of the authors' knowledge, ANODEC achieves, for the first time, performant control of a SR with hysteresis effects from only 30 seconds of input-output data and without any prior model knowledge. We show that for multiple, qualitatively different and even out-of-training-distribution reference signals, a single feedback controller designed by ANODEC outperforms a manually tuned PID baseline consistently. Overall, this contribution not only further strengthens the validity of ANODEC, but it marks an important step towards more practical, easy-to-use SRs that can automatically learn to perform agile motions from minimal experimental interaction time.",
+  "authors": [
+   "Simon Bachhuber",
+   "Alexander Pawluchin",
+   "Arka Pal",
+   "Ivo Boblan",
+   "Thomas Seel"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "Submitted to the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2024)",
+  "first_author": "Simon Bachhuber",
+  "pdf_url": "http://arxiv.org/pdf/2408.03754",
+  "primary_category": "cs.RO",
+  "published": "2024-08-07",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A Soft Robotic System Automatically Learns Precise Agile Motions Without Model Information",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2408.04695": {
+  "abstract": "Sufficiently old white dwarfs cool down through a convective envelope that directly couples their degenerate cores to the surface. Magnetic fields may inhibit this convection by stiffening the criterion for convective instability. We consistently implemented the modified criterion in the stellar evolution code MESA, and computed the cooling of white dwarfs as a function of their mass and magnetic field $B$. In contrast to previous estimates, we find that magnetic fields can significantly change the cooling time $t$ even if they are relatively weak $B^2\\ll 8πP$, where $P$ is the pressure at the edge of the degenerate core. Fields $B\\gtrsim 1\\textrm{ MG}$ open a radiative window that decouples the core from the convective envelope, effectively lowering the luminosity to that of a fully radiative white dwarf. We identified a population of observed white dwarfs that are younger by $Δt\\sim$ Gyr than currently thought due to this magnetic inhibition of convective energy transfer - comparable to the cooling delay due to carbon-oxygen phase separation. In volume-limited samples, the frequency and strength of magnetic fields increase with age. Accounting for magnetic inhibition is therefore essential for accurate cooling models for cosmic chronology and for determining the origin of the magnetic fields.",
+  "authors": [
+   "Sivan Ginzburg"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": "matches published version",
+  "first_author": "Sivan Ginzburg",
+  "pdf_url": "http://arxiv.org/pdf/2408.04695",
+  "primary_category": "astro-ph.SR",
+  "published": "2024-08-08",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Younger age for the oldest magnetic white dwarfs",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2408.04800": {
+  "abstract": "Additive manufacturing holds more potential to enable the development of ceramic-based components. Ceramics offer high resistance to heat, high fracture toughness, and are extremely corrosion resistant. Thus, ceramics are widely used in sectors such as the aerospace industry, automotive, microelectronics, and biomedicine. Using various additive manufacturing platforms, ceramics with complex and uniquely designed geometry can be developed to suit specific applications. This project aims at innovating high-temperature thermocouples by embedding conductive metal pastes into a ceramic structure. The paste used includes tungsten, molybdenum, and antimony. The metal pastes are precisely extruded into a T-shaped trench inside the ceramic matrix. Following specific temperature ranges, the ceramic matrix is sintered to improve the properties of the material. The sensors produced can function at extremely high temperatures and are thereby suitable for high-temperature environments. Comparative testing of the 3D sintered sensors with conventional temperature sensors shows high correlation between the two classes of sensors. The resulting R-squared value of 0.9885 is satisfactory which implies the reliability and accuracy of 3D sintering sensors are satisfactory in temperature sensing applications.",
+  "authors": [
+   "Azizul Islam",
+   "Aayush Alok",
+   "Vamsi Borra",
+   "Pedro Cortes"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "12 pages, 5 figures",
+  "first_author": "Azizul Islam",
+  "pdf_url": "http://arxiv.org/pdf/2408.04800",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-08-09",
+  "tags": [
+   "additive-manufacturing",
+   "mechanical-properties"
+  ],
+  "title": "A High-Temperature Thermocouple Development by Additive Manufacturing: Tungsten-Nickel (W-Ni) and Molybdenum (Mo) Integration with Ceramic Structures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-18"
+ },
+ "2409.01054": {
+  "abstract": "Maximizing the power conversion efficiency of solar cells plays a crucial role in upscaling solar energy production. Combining two or more solar cells with different bandgaps into a multi-junction tandem solar cells lowers thermalization losses and increases the power conversion efficiency. Whilst the best efficiencies have been achieved by vertically stacking solar cells, the fabrication process is technologically demanding and leads to high production costs. Novel photovoltaic materials such as organic photovoltaics allow solution processing, which enables the cost effective production of lateral multijunctions, where the single subcells are aligned side by side. To fully unlock their optimal performance, lateral tandems require careful light management, redirecting different spectral bands to the corresponding solar cell. So far, solar spectral splitters suffered from a strong angle dependency, which caused a degradation in performance at the slightest deviation from normal incidence. In this contribution, we reduce this limitation and achieve an enhancement in the conversion efficiency across a wide range of incident angles by inverse designing a solar spectral splitter comprised of two free-form microstructured surfaces on the top and bottom of a supporting glass substrate. Moreover, thanks to the versatility of our methodology, we can tailor the angle-dependent functionality of our device. As such, we also design devices that are optimized to provide enhanced performance at certain oblique angles, which correspond to different times of the day, e.g., when the unit price of energy is higher.",
+  "authors": [
+   "M. L. Schubert",
+   "J. D. Fischbach",
+   "M. Nyman",
+   "L. Lüer",
+   "C. J. Brabec",
+   "C. Rockstuhl",
+   "T. J. Sturges"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "M. L. Schubert",
+  "pdf_url": "http://arxiv.org/pdf/2409.01054",
+  "primary_category": "physics.optics",
+  "published": "2024-09-02",
+  "tags": [
+   "organic-photovoltaics",
+   "polymer-degradation"
+  ],
+  "title": "Wide angle tolerant solar spectral splitter for lateral tandem solar cells",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01149": {
+  "abstract": "We study the conformation and topological properties of cyclical star polymers with $f$ ring arms, each made of $n$ beads. We find that the conformational properties of unlinked cyclical star polymers are compatible to those of linear star polymers with $2f$ arms made of $n/2$ beads each. This compatibility vanishes when the topology of the star, measured as the degree of linking between arms, changes. In fact, when links are allowed we notice that the gyration radius decreases as a function of the absolute linking number $\\vert Lk \\vert$ of the arms, regardless of the protocol that is employed to introduce said links. Furthermore, the internal structure of the macromolecules, as highlighted by the radial density function, changes qualitatively for large values of $\\vert Lk \\vert$.",
+  "authors": [
+   "Davide Breoni",
+   "Emanuele Locatelli",
+   "Luca Tubiana"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 11 figures",
+  "first_author": "Davide Breoni",
+  "pdf_url": "http://arxiv.org/pdf/2409.01149",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-02",
+  "tags": [],
+  "title": "Conformation and topology of cyclical star polymers",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01229": {
+  "abstract": "In this paper, we study the thermo-elastodynamics of nonlinearly viscous solids in the Kelvin-Voigt rheology where both the elastic and the viscous stress tensors comply with the frame-indifference principle. The system features a force balance including inertia in the frame of nonsimple materials and a heat-transfer equation which is governed by the Fourier law in the deformed configuration. Combining a staggered minimizing movement scheme for quasi-static thermoviscoelasticity with a variational approach to hyperbolic PDEs, our main result consists in establishing the existence of weak solutions in the dynamic case. This is first achieved by including an additional higher-order regularization for the dissipation. Afterwards, this regularization can be removed by passing to a weaker formulation of the heat-transfer equation which complies with a total energy balance. The latter description hinges on regularity theory for the fourth order $p$-Laplacian which induces regularity estimates of the deformation beyond the standard estimates available from energy bounds. Besides being crucial for the proof, these extra regularity properties might be of independent interest and seem to be new in the setting of nonlinear viscoelasticity, also in the static or quasi-static case.",
+  "authors": [
+   "S. Almi",
+   "R. Badal",
+   "M. Friedrich",
+   "S. Schwarzacher"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "S. Almi",
+  "pdf_url": "http://arxiv.org/pdf/2409.01229",
+  "primary_category": "math.AP",
+  "published": "2024-09-02",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Thermo-elastodynamics of nonlinearly viscous solids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01471": {
+  "abstract": "Semicrystalline polymers (SCP) represent important class of materials used in many applications from packaging to transportation to electronics to pharmaceuticals. Understanding the structure and dynamics of the crystalline and amorphous fractions within SCP is an important challenge for both experimentalists and theoreticians. Recently, Cheng et al. (S. Cheng et al., J. Chem. Phys. 160, 114904 (2024)) utilized Broadband Dielectric Spectroscopy (BDS) to explore the relaxation time profiles within the amorphous region of a semi-crystalline poly(L-lactic acid) (PLLA) with ordered alternative stacking of crystalline/amorphous phases. Here, we build on those initial results and model the relaxation time distribution using the combination of the Doolittle free volume theory (FVT) and the compressible Self-Consistent Field Theory (cSCFT). We show that the new modeling framework successfully captures the temperature and position dependence of the local relaxation time of the semicrystalline PLLA above the glass transition temperature of the amorphous region. Finally, we derive a new empirical equation for the relaxation time profiles in amorphous regions of SCPs.",
+  "authors": [
+   "Valeriy V. Ginzburg"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Valeriy V. Ginzburg",
+  "pdf_url": "http://arxiv.org/pdf/2409.01471",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-02",
+  "tags": [
+   "glass-transition",
+   "spectroscopy"
+  ],
+  "title": "Modeling the Dielectric Relaxation in Semicrystalline Polymers -- Understanding the Role of the Interphase between the Amorphous and Crystalline Domains",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.01529": {
+  "abstract": "The formation, dissolution, and dynamics of multi-particle complexes is of fundamental interest in the study of stochastic chemical systems. In 1976, Masao Doi introduced a Fock space formalism for modeling classical particles. Doi's formalism, however, does not support the assembly of multiple particles into complexes. Starting in the 2000's, multiple groups developed rule-based methods for computationally simulating biochemical systems involving large macromolecular complexes. However, these methods are based on graph-rewriting rules and/or process algebras that are mathematically disconnected from the statistical physics methods generally used to analyze equilibrium and nonequilibrium systems. Here we bridge these two approaches by introducing an operator algebra for the rule-based modeling of multi-particle complexes. Our formalism is based on a Fock space that supports not only the creation and annihilation of classical particles, but also the assembly of multiple particles into complexes, as well as the disassembly of complexes into their components. Rules are specified by algebraic operators that act on particles through a manifestation of Wick's theorem. We further describe diagrammatic methods that facilitate rule specification and analytic calculations. We demonstrate our formalism on systems in and out of thermal equilibrium, and for nonequilibrium systems we present a stochastic simulation algorithm based on our formalism. The results provide a unified approach to the mathematical and computational study of stochastic chemical systems in which multi-particle complexes play an important role.",
+  "authors": [
+   "Rebecca J. Rousseau",
+   "Justin B. Kinney"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.stat-mech",
+   "q-bio.MN",
+   "q-bio.QM"
+  ],
+  "comment": "26 pages, 9 figures",
+  "first_author": "Rebecca J. Rousseau",
+  "pdf_url": "http://arxiv.org/pdf/2409.01529",
+  "primary_category": "physics.bio-ph",
+  "published": "2024-09-03",
+  "tags": [],
+  "title": "Algebraic and diagrammatic methods for the rule-based modeling of multi-particle complexes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-03"
+ },
+ "2409.01533": {
+  "abstract": "Mechanical metamaterials are renowned for their ability to achieve high stiffness and strength at low densities, often at the expense of low ductility and stretchability-a persistent trade-off in materials. In contrast, materials such as double-network hydrogels feature interpenetrating compliant and stiff polymer networks, and exhibit unprecedented combinations of high stiffness and stretchability, resulting in exceptional toughness. Here, we present double-network-inspired (DNI) metamaterials by integrating monolithic truss (stiff) and woven (compliant) components into a metamaterial architecture, which achieve a tenfold increase in stiffness and stretchability compared to their pure woven and truss counterparts, respectively. Nonlinear computational mechanics models elucidate that enhanced energy dissipation in these DNI metamaterials stems from increased frictional dissipation due to entanglements between the two networks. Through introduction of internal defects, which typically degrade mechanical properties, we demonstrate an opposite effect of a threefold increase in energy dissipation for these metamaterials via failure delocalization. This work opens avenues for developing new classes of metamaterials in a high-compliance regime inspired by polymer network topologies.",
+  "authors": [
+   "James Utama Surjadi",
+   "Bastien F. G. Aymon",
+   "Molly Carton",
+   "Carlos M. Portela"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.app-ph"
+  ],
+  "comment": "37 pages, 16 Figures",
+  "first_author": "James Utama Surjadi",
+  "pdf_url": "http://arxiv.org/pdf/2409.01533",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-03",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties"
+  ],
+  "title": "Double-network-inspired mechanical metamaterials",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-03"
+ },
+ "2409.02419": {
+  "abstract": "The vertical transport of solid material in a stratified medium is fundamental to a number of environmental applications, with implications for the carbon cycle and nutrient transport in marine ecosystems. In this work, we study the diffusion-limited settling of highly porous particles in a density-stratified fluid through a combination of experiment, analysis, and numerical simulation. By delineating and appealing to the diffusion-limited regime wherein buoyancy effects due to mass adaptation dominate hydrodynamic drag, we derive a simple expression for the steady settling velocity of a sphere as a function of the density, size, and diffusivity of the solid, as well as the density gradient of the background fluid. In this regime, smaller particles settle faster, in contrast with most conventional hydrodynamic drag mechanisms. Furthermore, we outline a general mathematical framework for computing the steady settling speed of a body of arbitrary shape in this regime and compute exact results for the case of general ellipsoids. Using hydrogels as a highly porous model system, we validate the predictions with laboratory experiments in linear stratification for a wide range of parameters. Lastly, we show how the predictions can be applied to arbitrary slowly varying background density profiles and demonstrate how a measured particle position over time can be used to reconstruct the background density profile.",
+  "authors": [
+   "Robert Hunt",
+   "Roberto Camassa",
+   "Richard M. McLaughlin",
+   "Daniel M. Harris"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Robert Hunt",
+  "pdf_url": "http://arxiv.org/pdf/2409.02419",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-04",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Diffusion-limited settling of highly porous particles in density-stratified fluids",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-04"
+ },
+ "2409.02461": {
+  "abstract": "Given the wide range of length scales, the analysis of polymer systems often requires coarse-graining, for which various levels of description may be possible depending on the phenomenon under consideration. Here, we provide a super-coarse grained description, where polymers are represented as a succession of mesosopic soft beads which are allowed to overlap with others. We then investigate the phase separation behaviors in a mixture of such homopolymers based on mean-field theory, and discuss universal aspects of the miscibility phase diagram in comparison with the numerical simulation. We also discuss an extension of our analysis to mixtures involving random copolymers, which might be interesting in the context of chromatin organization in a cell nucleus.",
+  "authors": [
+   "Naoki Iso",
+   "Yuki Norizoe",
+   "Takahiro Sakaue"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "9 pages, 7 figures",
+  "first_author": "Naoki Iso",
+  "pdf_url": "http://arxiv.org/pdf/2409.02461",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-04",
+  "tags": [
+   "coarse-grained",
+   "phase-separation"
+  ],
+  "title": "Phase separation in soft repulsive polymer mixtures: foundation and implication for chromatin organization",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-04"
+ },
+ "2409.02904": {
+  "abstract": "In this study, we explore a mathematical model for tissue growth focusing on the interplay between multiple cell subpopulations with distinct phenotypic characteristics. The model addresses the dynamics of tissue growth influenced by phenotype-dependent growth rates and collective population pressure, governed by Brinkman's law. We examine two primary objectives: the joint limit where viscosity tends to zero while the number of species approaches infinity, yielding an inviscid Darcy-type model with a continuous phenotype variable, and the continuous phenotype limit where the number of species becomes infinite with a fixed viscosity, resulting in a novel viscoelastic tissue growth model. In this sense, this paper provides a comprehensive framework that elucidates the relationships between four different modelling paradigms in tissue growth.",
+  "authors": [
+   "Tomasz Dębiec",
+   "Mainak Mandal",
+   "Markus Schmidtchen"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Tomasz Dębiec",
+  "pdf_url": "http://arxiv.org/pdf/2409.02904",
+  "primary_category": "math.AP",
+  "published": "2024-09-04",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "From Finite to Continuous Phenotypes in (Visco-)Elastic Tissue Growth Models",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-04"
+ },
+ "2409.03173": {
+  "abstract": "Thermal conductivity coefficient $κ$ measures the ability of a material to conduct a heat current. In particular, $κ$ is an important property that often dictates the usefulness of a material over a wide range of environmental conditions. For example, while a low $κ$ is desirable for the thermoelectric applications, a large $κ$ is needed when a material is used under the high temperature conditions. These materials range from common crystals to commodity amorphous polymers. The latter is of particular importance because of their use in designing light weight high performance functional materials. In this context, however, one of the major limitations of the amorphous polymers is their low $κ$, reaching a maximum value of about 0.4 W/Km that is 2--3 orders of magnitude smaller than the standard crystals. Moreover, when energy is predominantly transferred through the bonded connections, $κ\\ge 100$ W/Km. Recently, extensive efforts have been devoted to attain a tunability in $κ$ via macromolecular engineering. In this work, an overview of the recent results on the $κ$ behavior in polymers and polymeric solids is presented. In particular, computational and theoretical results are discussed within the context of complimentary experiments. Future directions are also highlighted.",
+  "authors": [
+   "Debashish Mukherji"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Debashish Mukherji",
+  "pdf_url": "http://arxiv.org/pdf/2409.03173",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-05",
+  "tags": [
+   "thermal-conductivity"
+  ],
+  "title": "Thermal conductivity of polymers: A simple matter where complexity matters",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-05"
+ },
+ "2409.03629": {
+  "abstract": "Emulsions ripen with an average droplet size increasing in time. In chemically active emulsions, coarsening can be absent, leading to a non-equilibrium steady state with mono-disperse droplet sizes. By considering a minimal model for phase separation and chemical reactions maintained away from equilibrium, we show that there is a critical transition in the conserved quantity between two classes of chemically active droplets: intensive and extensive ones. Single intensive active droplets reach a stationary size mainly controlled by the reaction-diffusion length scales. Intensive droplets in an emulsion interact only weakly, and the stationary size of a single droplet approximately sets the size of each droplet. On the contrary, the size of a single extensive active droplet scales with the system size, similar to passive phases. In an emulsion of many extensive droplets, their sizes become stationary only due to interactions among them. We discuss how the critical transition between intensive and extensive active droplets affects shape instabilities, including the division of active droplets, paving the way for the observation of successive division events in chemically active emulsions",
+  "authors": [
+   "Jonathan Bauermann",
+   "Giacomo Bartolucci",
+   "Job Boekhoven",
+   "Frank Jülicher",
+   "Christoph A. Weber"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Jonathan Bauermann",
+  "pdf_url": "http://arxiv.org/pdf/2409.03629",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-05",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Critical transition between intensive and extensive active droplets",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-05"
+ },
+ "2409.03882": {
+  "abstract": "Recently, nanofluidics experiments have been used to characterize the behavior of single DNA molecules confined to narrow slits etched with arrays of nanopits. Analysis of the experimental data relies on analytical estimates of the underlying free-energy landscape. In this study we use computer simulations to explicitly calculate the free energy and test the approximations employed in such analytical models. Specifically, Monte Carlo simulations were used to study a polymer confined to complex geometry consisting of a nanoslit with two square nanopits embedded in one of the surfaces. The two-dimensional Weighted Histogram Analysis Method (WHAM2D) is used to calculate the free energy, $F$, as a function of the sum ($λ_1$) and the difference ($λ_2$) of the length of the polymer contour contained in the two nanopits. We find the variation of the free-energy function with respect to confinement dimensions to be comparable to the analytical predictions that employ a simplistic theoretical model. However, there are some noteworthy quantitative discrepancies, particularly between the predicted and observed variation of $F$ with respect to $λ_1$. Our study provides a useful lesson on the limitations of using simplistic analytical expressions for polymer free-energy landscapes to interpret results for experiments of DNA confined to a complex geometry and points to the value of carrying out accurate numerical calculations of the free energy instead.",
+  "authors": [
+   "James M. Polson",
+   "Matthew Kozma"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "14 pages, 9 figures",
+  "first_author": "James M. Polson",
+  "pdf_url": "http://arxiv.org/pdf/2409.03882",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-05",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Free-energy landscape of a polymer in the presence of two nanofluidic entropic traps",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-05"
+ },
+ "2409.04139": {
+  "abstract": "The presented studies of resistivity (R), thermal conductivity (k) and specific heat (C) at low temperature 1.8-7 K in magnetic field up to 90 kOe made it possible to detect for the first time the exponential field dependences R(H), 1/k(H), $C(H) \\sim \\exp(-μ_{\\rm eff}H/kBT)$ of the charge transport and thermal characteristics in the so-called antiferroquadrupole (AFQ) phase of the archetypal heavy-fermion CeB$_6$ hexaboride. From magnetoresistance measurements it is shown that in the AFQ state the effective magnetic moment varies in the range $μ_{\\rm eff}(T) = 1.4$-1.9$μ$B, and its value is very close to $μ_{\\rm eff}(τ)(T) = 2μ$B, derived from the field dependence of the relaxation time $|tau(H)$ observed in the heat capacity and thermal conductivity experiments. The phenomenological model proposed here allowed us to attribute the magnetic moments to spin droplets (ferrons), that appear in the bulk AFQ phase of CeB$_6$ crystals. The relevant electron phase separation at the nanoscale, manifested by dynamic charge stripes, that leads to the formation of ferrons, was revealed from the analysis of low-temperature X-ray diffraction experiments using the maximum entropy method. We argue that the Jahn-Teller collective mode of B$_6$ clusters is responsible for the charge stripe formation, which subsequently induces transverse quasi-local vibrations of Ce ions in the form of pairs and triples. These lead to 4f-5d spin fluctuations providing spin-polarons (ferrons) in the CeB$_6$ matrix.",
+  "authors": [
+   "A. N. Azarevich",
+   "O. N. Khrykina",
+   "N. B. Bolotina",
+   "V. G. Gridchina",
+   "A. V. Bogach",
+   "S. V. Demishev",
+   "V. N. Krasnorussky",
+   "S. Yu. Gavrilkin",
+   "A. Yu. Tsvetkov",
+   "N. Yu. Shitsevalova",
+   "V. V. Voronov",
+   "K. I. Kugel",
+   "A. L. Rakhmanov",
+   "S. Gabani",
+   "K. Flachbart",
+   "N. E. Sluchanko"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "25 pages, 9 figires and 2 tables",
+  "first_author": "A. N. Azarevich",
+  "pdf_url": "http://arxiv.org/pdf/2409.04139",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-09-06",
+  "tags": [
+   "phase-separation",
+   "thermal-conductivity"
+  ],
+  "title": "Evidence for spin droplets (ferrons) formation in the heavy fermion metal CeB$_6$ with dynamic charge stripes",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.04141": {
+  "abstract": "Non-equilibrium clustering and percolation are investigated in an archetypal model of two-dimensional active matter using dynamic simulations of self-propelled Brownian repulsive particles. We concentrate on the single-phase region up to moderate levels of activity, before motility-induced phase separation (MIPS) sets in. Weak activity promotes cluster formation and lowers the percolation threshold. However, driving the system further out of equilibrium partly reverses this effect, resulting in a minimum in the critical density for the formation of system-spanning clusters and introducing re-entrant percolation as a function of activity in the pre-MIPS regime. This non-monotonic behaviour arises from competition between activity-induced effective attraction (which eventually leads to MIPS) and activity-driven cluster breakup. Using an adapted iterative Boltzmann inversion method, we derive effective potentials to map weakly active cases onto a passive (equilibrium) model with conservative attraction, which can be characterised by Monte Carlo simulations. While the active and passive systems have practically identical radial distribution functions, we find decisive differences in higher-order structural correlations, to which the percolation threshold is highly sensitive. For sufficiently strong activity, no passive pairwise potential can reproduce the radial distribution function of the active system.",
+  "authors": [
+   "David Evans",
+   "José Martín-Roca",
+   "Nathan J. Harmer",
+   "Chantal Valeriani",
+   "Mark A. Miller"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "David Evans",
+  "pdf_url": "http://arxiv.org/pdf/2409.04141",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-06",
+  "tags": [
+   "monte-carlo",
+   "phase-separation"
+  ],
+  "title": "Re-entrant percolation in active Brownian hard disks",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.04199": {
+  "abstract": "Over a century ago, Einstein formulated a precise mathematical model for describing Brownian motion. While this model adequately explains the diffusion of micron-sized particles in fluids, its limitations become apparent when applied to molecular self-diffusion in fluids. The foundational principles of Gaussianity and Markovianity, central to the Brownian diffusion paradigm, are insufficient for describing molecular diffusion, particularly in complex fluids characterized by intricate intermolecular interactions and hindered relaxation processes. This perspective delves into the nuanced behavior observed in diverse complex fluids, including molecular self-assembly, deep eutectic solvents, and ionic liquids, with a specific focus on modeling self-diffusion within these media. We explore the potential of extending diffusion models to incorporate non-Gaussian and non-Markovian effects by augmenting the Brownian model using non-local diffusion equations. Further, we validate the applicability of these models by utilizing them to describe results from quasielastic neutron scattering and MD simulations.",
+  "authors": [
+   "Harish Srinivasan",
+   "V. K. Sharma",
+   "S. Mitra"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Harish Srinivasan",
+  "pdf_url": "http://arxiv.org/pdf/2409.04199",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-06",
+  "tags": [
+   "diffusion-model",
+   "molecular-dynamics"
+  ],
+  "title": "Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.04430": {
+  "abstract": "Path-integral molecular dynamics (PIMD) simulations are crucial for accurately capturing nuclear quantum effects in materials. However, their computational intensity and reliance on multiple software packages often limit their applicability at large scales. Here, we present an integration of PIMD methods, including thermostatted ring-polymer molecular dynamics (TRPMD), into the open-source GPUMD package, combined with highly accurate and efficient machine-learned neuroevolution potential (NEP) models. This approach achieves almost the accuracy of first-principles calculations with the computational efficiency of empirical potentials, enabling large-scale atomistic simulations that incorporate nuclear quantum effects. We demonstrate the efficacy of the combined NEP-PIMD approach by examining various thermal properties of diverse materials, including lithium hydride (LiH), three porous metal-organic frameworks (MOFs), liquid water, and elemental aluminum. For LiH, our NEP-PIMD simulations successfully capture the isotope effect, reproducing the experimentally observed dependence of the lattice parameter on the reduced mass. For MOFs, our results reveal that achieving good agreement with experimental data requires consideration of both nuclear quantum effects and dispersive interactions. For water, our PIMD simulations capture the significant impact of nuclear quantum effects on its microscopic structure. For aluminum, the TRPMD method effectively captures thermal expansion and phonon properties, aligning well with quantum mechanical predictions. This efficient NEP-PIMD approach opens new avenues for exploring complex material properties influenced by nuclear quantum effects, with potential applications across a broad range of materials.",
+  "authors": [
+   "Penghua Ying",
+   "Wenjiang Zhou",
+   "Lucas Svensson",
+   "Esmée Berger",
+   "Erik Fransson",
+   "Fredrik Eriksson",
+   "Ke Xu",
+   "Ting Liang",
+   "Jianbin Xu",
+   "Bai Song",
+   "Shunda Chen",
+   "Paul Erhart",
+   "Zheyong Fan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "16 pages, 9 figures in the main text; 1 table and 8 figures in the SI",
+  "first_author": "Penghua Ying",
+  "pdf_url": "http://arxiv.org/pdf/2409.04430",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-06",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal properties of materials",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-28"
+ },
+ "2409.04603": {
+  "abstract": "Colloidoscope is a deep learning pipeline employing a 3D residual Unet architecture, designed to enhance the tracking of dense colloidal suspensions through confocal microscopy. This methodology uses a simulated training dataset that reflects a wide array of real-world imaging conditions, specifically targeting high colloid volume fraction and low-contrast scenarios where traditional detection methods struggle. Central to our approach is the use of experimental signal-to-noise ratio (SNR), contrast-to-noise ratio (CNR), and point-spread-functions (PSFs) to accurately quantify and simulate the experimental data. Our findings reveal that Colloidoscope achieves superior recall in particle detection (finds more particles) compared to conventional heuristic methods. Simultaneously, high precision is maintained (high fraction of true positives.) The model demonstrates a notable robustness to photobleached samples, thereby prolonging the imaging time and number of frames than may be acquired. Furthermore, Colloidoscope maintains small scale resolution sufficient to classify local structural motifs. Evaluated across both simulated and experimental datasets, Colloidoscope brings the advancements in computer vision offered by deep learning to particle tracking at high volume fractions. We offer a promising tool for researchers in the soft matter community, this model is deployed and available to use pretrained: https://github.com/wahabk/colloidoscope.",
+  "authors": [
+   "Abdelwahab Kawafi",
+   "Lars Kürten",
+   "Levke Ortlieb",
+   "Yushi Yang",
+   "Abraham Mauleon Amieva",
+   "James E. Hallett",
+   "C. Patrick Royall"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "20 pages",
+  "first_author": "Abdelwahab Kawafi",
+  "pdf_url": "http://arxiv.org/pdf/2409.04603",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-06",
+  "tags": [
+   "soft-matter"
+  ],
+  "title": "Colloidoscope: Detecting Dense Colloids in 3d with Deep Learning",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.04646": {
+  "abstract": "We show that a variety of non-monotonic ratchet effects can arise when mesophase pattern-forming systems, which exhibit anisotropic crystal, stripe, and bubble reigmes, are coupled to one-dimensional asymmetric substrates under ac driving. The ratchet efficiency and direction of motion are determined by how well the mesophase morphology matches the periodicity and shape of the substrate. Stripe states that are aligned with the substrate show the strongest ratchet effect, large bubbles show a weak ratchet effect, and small bubbles show a strong ratchet effect with an efficiency that oscillates as a function of ac drive amplitude. We map out the different rectification phases as a function of the pattern morphology, substrate strength, and ac drive amplitude. The pronounced ratchet effects that we observe in some regimes can be exploited for pattern sorting in hard and soft matter systems.",
+  "authors": [
+   "C. Reichhardt",
+   "C. J. O. Reichhardt"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.mes-hall",
+   "cond-mat.soft"
+  ],
+  "comment": "6 pages, 4 figures, 2 supplemental pages",
+  "first_author": "C. Reichhardt",
+  "pdf_url": "http://arxiv.org/pdf/2409.04646",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-06",
+  "tags": [
+   "polymer-morphology",
+   "soft-matter"
+  ],
+  "title": "Stripe and Bubble Ratchets on Asymmetric Substrates",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-06"
+ },
+ "2409.04748": {
+  "abstract": "Inspired by biology and implemented using nanotechnology, the self-assembly of patchy particles has emerged as a pivotal mechanism for constructing complex structures that mimic natural systems with diverse functionalities. Here, we explore the dissipative self-assembly of patchy particles under nonequilibrium conditions, with the aim of overcoming the constraints imposed by equilibrium assembly. Utilizing extensive Monte Carlo (MC) and Molecular Dynamics (MD) simulations, we provide insight into the effects of external forces that mirror natural and chemical processes on the assembly rates and the stability of the resulting assemblies comprising $8$, $10$, and $13$ patchy particles. Implemented by a favorable bond-promoting drive in MC or a pulsed square wave potential in MD, our simulations reveal the role these external drives play in accelerating assembly kinetics and enhancing structural stability, evidenced by a decrease in the time to first assembly and an increase in the duration the system remains in an assembled state. Through the analysis of an order parameter, entropy production, bond dynamics, and interparticle forces, we unravel the underlying mechanisms driving these advancements. We also validated our key findings by simulating a larger system of $100$ patchy particles. Our comprehensive results not only shed light on the impact of external stimuli on self-assembly processes but also open a promising pathway for expanding the application by leveraging patchy particles for novel nanostructures.",
+  "authors": [
+   "Shubhadeep Nag",
+   "Gili Bisker"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": "74 pages and 21 figures",
+  "first_author": "Shubhadeep Nag",
+  "pdf_url": "http://arxiv.org/pdf/2409.04748",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-07",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Dissipative self-assembly of patchy particles under nonequilibrium drive: a computational study",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-07"
+ },
+ "2409.05097": {
+  "abstract": "The interplay among solute and solvent molecules in lyotropic mesophases governs their physicochemical properties, such as phase behaviors and viscoelasticity. In our model system, a lyotropic chromonic liquid crystal (LCLC) made by disodium cromoglycate (DSCG), charged plank-like molecules self-assemble to form elongated aggregates via non-covalent attractions in water (H$_{2}$O). The aggregates align to exhibit liquid crystalline phases: nematic and columnar phases. Here, we report the isotopic effect on the phase behavior of the LCLC when D$_2$O is substituted for H$_2$O. D$_2$O-DSCG exhibits higher nematic-to-isotropic phase transition temperatures than H$_2$O-DSCG. X-ray scattering reveals considerably longer inter-aggregate correlation lengths in D$_2$O-LCLCs. In contrast, the other microstructural properties, such as inter-aggregate distances and intra-aggregate correlation lengths, remain almost the same. Our $^{23}$Na FT-NMR measurement reveals that D$_2$O-DSCG aggregates are less charged with more counter-ions, Na$^+$, bound to them than H$_2$O-DSCG aggregates. Weaker electrostatic repulsion between aggregates may stabilize the nematic phase, and this solvent isotopic effect may generally apply to diverse aqueous lyotropic mesophases with electrostatic interactions.",
+  "authors": [
+   "Jiyong Cheon",
+   "Joonwoo Jeong"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Jiyong Cheon",
+  "pdf_url": "http://arxiv.org/pdf/2409.05097",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Solvent isotopic effect on the phase transition of lyotropic chromonic liquid crystals: Heavy water makes mesogens less charged",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-08"
+ },
+ "2409.05240": {
+  "abstract": "Achieving superior polymeric components through additive manufacturing (AM) relies on precise control of rheology. One key rheological property particularly relevant to AM is melt viscosity ($η$). Melt viscosity is influenced by polymer chemistry, molecular weight ($M_w$), polydispersity, induced shear rate ($\\dotγ$), and processing temperature ($T$). The relationship of $η$ with $M_w$, $\\dotγ$, and $T$ may be captured by parameterized equations. Several physical experiments are required to fit the parameters, so predicting $η$ of a new polymer material in unexplored physical domains is a laborious process. Here, we develop a Physics-Enforced Neural Network (PENN) model that predicts the empirical parameters and encodes the parametrized equations to calculate $η$ as a function of polymer chemistry, $M_w$, polydispersity, $\\dotγ$, and $T$. We benchmark our PENN against physics-unaware Artificial Neural Network (ANN) and Gaussian Process Regression (GPR) models. Finally, we demonstrate that the PENN offers superior values of $η$ when extrapolating to unseen values of $M_w$, $\\dotγ$, and $T$ for sparsely seen polymers.",
+  "authors": [
+   "Ayush Jain",
+   "Rishi Gurnani",
+   "Arunkumar Rajan",
+   "H. Jerry Qi",
+   "Rampi Ramprasad"
+  ],
+  "categories": [
+   "cs.CE",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ayush Jain",
+  "pdf_url": "http://arxiv.org/pdf/2409.05240",
+  "primary_category": "cs.CE",
+  "published": "2024-09-08",
+  "tags": [
+   "additive-manufacturing",
+   "benchmarking",
+   "rheology"
+  ],
+  "title": "A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-08"
+ },
+ "2409.05382": {
+  "abstract": "The present study aims to detect helium-3 in nickel-based metal nano-composites doped with zirconia, which exhibited anomalous heat generation when exposed to hydrogen gas at approximately 450°C. Two complementary analytical techniques were employed: Nuclear Reaction Analysis (NRA) utilizing 1.4 MeV deuteron beams from a tandem accelerator, and Thermal Desorption Spectrometry (TDS) using a quadrupole mass spectrometer. Both methods successfully detected helium-3 in the samples. Given the extreme rarity of this isotope, its presence strongly suggests the occurrence of nuclear reactions within the nickel-containing materials. These findings lend support to the 4H/TSC (4 Hydrogen/Tetrahedral Symmetric Condensate) model, which uniquely predicts helium-3 as one of the primary reaction products.",
+  "authors": [
+   "Tomoya Yamauchi",
+   "Yutaka Mori",
+   "Shuto Higashi",
+   "Hayato Seiichi",
+   "Masahiko Hasegawa",
+   "Akito Takahashi",
+   "Akira Taniike",
+   "Masato Kanasaki"
+  ],
+  "categories": [
+   "physics.ins-det"
+  ],
+  "comment": "18 pages, 7 figures. This is the version of the article before peer review, as submitted by an author to Japanese Journal of Applied Physics",
+  "first_author": "Tomoya Yamauchi",
+  "pdf_url": "http://arxiv.org/pdf/2409.05382",
+  "primary_category": "physics.ins-det",
+  "published": "2024-09-09",
+  "tags": [
+   "composites"
+  ],
+  "title": "Detections of He-3 in Ni-based binary metal nanocomposites with Cu in zirconia exposed to hydrogen gas at elevated temperatures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.05472": {
+  "abstract": "This study employs an integral transform approach for Love wave propagation in a rotating composite structure having an interfacial crack. The structure comprises an initially stressed functionally graded piezoelectric viscoelastic half-space bonded to a piezoelectric viscoelastic half-space. The study focuses on two material systems: Epoxy-BNKLBT paired with Epoxy-KNLNTS and Epoxy-BNKLBT paired with Epoxy-PZT7A. The viscoelastic materials are modeled to reflect their complex behavior under rotational and stress conditions. The Galilean transformation is applied to convert the Cartesian coordinates system into a moving reference frame aligned with the Love wave's propagation. Employing Bessel function properties, the system is converted into a set of double integral equations and subsequently reformulated into simultaneous Fredholm integral equations. Numerical solutions to these Fredholm integral equations are used to calculate the electric displacement intensity factor (EDIF) and stress intensity factor (SIF) near the interfacial crack. The key objective of this study is to visualize the impact of different material parameters, like piezoelectric constants, dielectric constants, initial stress, interface electric displacement, interface stress, and rotation, on SIF and EDIF. The investigations of this study will be helpful for advanced technologies like surface acoustic wave (SAW) sensors and piezoelectric actuators, as well as to enhance SAW bio-sensor sensitivity and stability for early cancer detection and biomedical implants.",
+  "authors": [
+   "Diksha",
+   "Soniya Chaudhary",
+   "Pawan Kumar Sharma"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Diksha",
+  "pdf_url": "http://arxiv.org/pdf/2409.05472",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-09",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "Integral transform technique for determining stress intensity factor in wave propagation through functionally graded piezoelectric-viscoelastic structure",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.05478": {
+  "abstract": "Full thickness crevasses can transport water from the glacier surface to the bedrock where high water pressures can open kilometre-long cracks along the basal interface, which can accelerate glacier flow. We present a first computational modelling study that describes time-dependent fracture propagation in an idealised glacier causing rapid supraglacial lake drainage. A novel two-scale numerical method is developed to capture the elastic and viscoelastic deformations of ice along with crevasse propagation. The fluid-conserving thermo-hydro-mechanical model incorporates turbulent fluid flow and accounts for melting/refreezing in fractures. Applying this model to observational data from a 2008 rapid lake drainage event indicates that viscous deformation exerts a much stronger control on hydrofracture propagation compared to thermal effects. This finding contradicts the conventional assumption that elastic deformation is adequate to describe fracture propagation in glaciers over short timescales (minutes to several hours) and instead demonstrates that viscous deformation must be considered to reproduce observations of lake drainage rate and local ice surface elevation change. As supraglacial lakes continue expanding inland and as Greenland Ice Sheet temperatures become warmer than -8 degree C, our results suggest rapid lake drainages are likely to occur without refreezing, which has implications for the rate of sea level rise.",
+  "authors": [
+   "Tim Hageman",
+   "Jessica Mejía",
+   "Ravindra Duddu",
+   "Emilio Martínez-Pañeda"
+  ],
+  "categories": [
+   "cs.CE",
+   "physics.ao-ph",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Tim Hageman",
+  "pdf_url": "http://arxiv.org/pdf/2409.05478",
+  "primary_category": "cs.CE",
+  "published": "2024-09-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Ice viscosity governs hydraulic fracture that causes rapid drainage of supraglacial lakes",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.05510": {
+  "abstract": "Coarse-grained models have played an important role in the study of the behavior of DNA at length scales beyond a few hundred base pairs. Traditionally, these models have relied on structurally featureless and sequence-independent approaches, such as the twistable worm-like chain. However, research over the past decade has illuminated the substantial impact of DNA sequence even at the kilo-base pair scale. Several robust sequence-dependent models have emerged, capturing intricacies at the base pair-step level. Here we introduce an analytical framework for coarse-graining such models to the 2 to 40-base pair scale while preserving essential structural and dynamical features. These faithful coarse-grained parametrizations enable efficient sampling of large molecules. Rather than providing a fully parametrized model, we present the methodology and software necessary for mapping any base pair-step model to the desired level of coarse-graining. Finally, we provide application examples of our method, including estimates of the persistence length and effective torsional stiffness of DNA in a setup mimicking a freely orbiting tweezer, as well as simulations of intrinsically helical DNA.",
+  "authors": [
+   "Enrico Skoruppa",
+   "Helmut Schiessel"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "23 pages, 9 figures",
+  "first_author": "Enrico Skoruppa",
+  "pdf_url": "http://arxiv.org/pdf/2409.05510",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-09",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Systematic Coarse-Graining of Sequence-Dependent Structure and Elasticity of Double-Stranded DNA",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.05651": {
+  "abstract": "We experimentally study the statistics of the transition path time taken by a submicron bead to successfully traverse an energy barrier created by two optical tweezers in two prototypical viscoelastic fluids, namely, aqueous polymer and micellar solutions. We find a very good agreement between our experimental distributions and a theoretical expression derived from the generalized Langevin equation for the particle motion. Our results reveal that the mean transition path time measured in such viscoelastic fluids have a non-trivial dependence on the barrier curvature and they can be significantly reduced when compared with those determined in Newtonian fluids of the same zero-shear viscosity. We verify that the decrease of the mean transition path time can be described in terms of an effective viscosity that quantitatively coincides with that measured by linear microrheology at a frequency determined by the reactive mode that gives rise to the unstable motion over the barrier. Therefore, our results uncover the linear response of the particle during its thermally activated escape from a metastable state even when taking place in a non-Markovian bath.",
+  "authors": [
+   "Brandon R. Ferrer",
+   "Alejandro V. Arzola",
+   "Denis Boyer",
+   "Juan Ruben Gomez-Solano"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "4 figures",
+  "first_author": "Brandon R. Ferrer",
+  "pdf_url": "http://arxiv.org/pdf/2409.05651",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Transition path time over a barrier of a colloidal particle in a viscoelastic bath",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.05765": {
+  "abstract": "Hybrid double-network hydrogels are a class of material that comprise transiently and permanently crosslinked polymer networks and exhibit an enhanced toughness that is believed to be governed by the yielding of the transient polymer network. The precise role of the two polymer networks in this yielding transition and their interplay remains an open question that we address here through constructing a series of hydrogel designs in which the interaction within and between the two polymer networks are systematically inhibited or enhanced. We characterise each of the hydrogel designs using large amplitude oscillatory shear rheology (LAOS). Inspecting yielding through elastic stress across hydrogel designs, we elucidate that the hybrid double-network hydrogel exhibits a two-step yielding behaviour that originates from to the presence of transient crosslinks. Examining the rheological response within each oscillatory cycle and across the hydrogel designs, we show that the micro-structural changes in the transient network are crucial in the second stage of this yielding. We surmise that the first step of yielding is determined by the intermolecular interactions between the two polymer networks by systematically altering the strength of the interactions. These interactions also influence the second step of yielding, which we show is governed by the transient intermolecular interactions within the polymer networks. Our study therefore reveals that the interactions between the polymer networks are as crucial as within the polymer networks and therefore provides insights into how the yielding mechanisms in soft composite materials can be identified, adjusted, and controlled.",
+  "authors": [
+   "Vinay Kopnar",
+   "Adam O'Connell",
+   "Natasha Shirshova",
+   "Anders Aufderhorst-Roberts"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Vinay Kopnar",
+  "pdf_url": "http://arxiv.org/pdf/2409.05765",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-09",
+  "tags": [
+   "composites",
+   "hydrogels",
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.05917": {
+  "abstract": "The viscosity of crude oil is an important physical property that largely determines the fluidity of oil and its ability to seep through porous media such as geological rock. Predicting crude oil viscosity requires the development of reliable models that can reproduce viscosity over a wide range of temperatures and pressures. Such viscosity models must operate with a set of physical characteristics that are sufficient to describe the viscosity of an extremely complex multi-phase and multi-component system such as crude oil. The present work considers empirical data on the temperature dependence of the viscosity of crude oil samples from various fields in Russia, China, Saudi Arabia, Nigeria, Kuwait and the North Sea. For the first time, within the reduced temperature concept and using the universal scaling viscosity model, the viscosity of crude oil can be accurately determined over a wide temperature range: from low temperatures corresponding to the amorphous state to relatively high temperatures, at which all oil fractions appear as melts. A novel methodology for determining the glass transition temperature and the activation energy of viscous flow of crude oil is proposed. A relationship between the parameters of the universal scaling model for viscosity, the API gravity, the fragility index, the glass transition temperature and the activation energy of viscous has been established for the first time. It is shown that the accuracy of the results of the universal scaling model significantly exceeds the accuracy of known empirical equations, including those developed directly to describe the viscosity of petroleum products.",
+  "authors": [
+   "Bulat Galimzyanov",
+   "Maria Doronina",
+   "Anatolii Mokshin"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "24 pages, 5 figures, 1 table",
+  "first_author": "Bulat Galimzyanov",
+  "pdf_url": "http://arxiv.org/pdf/2409.05917",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-07",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Unified scaling model for viscosity of crude oil over extended temperature range",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-07"
+ },
+ "2409.06102": {
+  "abstract": "Elastodynamic Green's functions are an essential ingredient in seismology as they form the connection between direct observations of seismic waves and the earthquake source. They are also fundamental to various seismological techniques including physics-based ground motion prediction and kinematic or dynamic source inversions. In regions with established 3D models of the Earth's elastic structure, 3D Green's functions can be computed using numerical simulations of seismic wave propagation. However, such simulations are computationally expensive which poses challenges for real-time ground motion prediction. Here, we use a reduced-order model (ROM) approach that enables the rapid evaluation of approximate Green's functions. The ROM technique developed approximates three-component surface velocity wavefields obtained from numerical simulations of seismic wave propagation. We apply our ROM approach to a 50 km x 40 km area in the greater Los Angeles area accounting for topography, site effects, 3D subsurface velocity structure, and viscoelastic attenuation. The ROM constructed for this region enables rapid computation (0.001 CPU hours) of complete, high-resolution, 0.5 Hz surface velocity wavefields that are accurate for a shortest wavelength of 1.0 km. Using leave-one-out cross validation, we measure the accuracy of our Green's functions in both the time-domain and frequency-domain. Averaged across all sources and receivers, the error in the rapid seismograms is less than 0.01 cm/s. We demonstrate that the ROM can accurately and rapidly reproduce simulated seismograms for generalized moment tensor sources in our region, as well as kinematic sources by using a finite fault model of the 1987 Mw 5.9 Whittier Narrows earthquake as an example. We envision that our rapid, approximate Green's functions will be useful for constructing rapid ground motion synthetics with high spatial resolution.",
+  "authors": [
+   "John M. Rekoske",
+   "Dave A. May",
+   "Alice-Agnes Gabriel"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "John M. Rekoske",
+  "pdf_url": "http://arxiv.org/pdf/2409.06102",
+  "primary_category": "physics.geo-ph",
+  "published": "2024-09-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Reduced-order modeling for complex 3D seismic wave propagation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-09"
+ },
+ "2409.06370": {
+  "abstract": "The evolution of surface layers of a glassy material heated by a laser pulse above the glass transition temperature and cooled by heat diffusion is considered as the flow of a stretchable viscous fluid. The strong dependence of viscosity on temperature and pressure leads to the appearance of a hump with reduced density. This hydrodynamic model for laser swelling is formulated in general form. We present a 1D solution for laser swelling of a thin glassy polymer film on a strongly thermally conductive substrate for laser pulses long enough that the sound confinement effect can be neglected. It is shown that within this condition the evolution of the film thickness over time can be addressed using a second-order ordinary differential equation. It is also shown that in some cases this equation can be reduced to a first-order differential equation resembling the phenomenological equation of the previously published relaxation model of laser swelling. The main features of the dependence of laser swelling on laser fluence, namely the threshold at low fluencies and saturation at high fluencies, have been clarified allowing for the dependence of viscosity on pressure, which was not taken into account in the previous theoretical studies of laser swelling. Typical regimes of the film thickness evolution are considered and compared to existing experimental data.",
+  "authors": [
+   "Nikita Bityurin",
+   "Natalia Sapogova"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Nikita Bityurin",
+  "pdf_url": "http://arxiv.org/pdf/2409.06370",
+  "primary_category": "physics.optics",
+  "published": "2024-09-10",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Hydrodynamic model for laser swelling",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-10"
+ },
+ "2409.06582": {
+  "abstract": "The non-equilibrium atom-by-atom growth of Cu-rich Cu-Zr thin films has been investigated by a combination of magnetron sputter deposition and molecular dynamics simulations. We focus on the role of Zr in the transition from large solid solution crystals through a nanocomposite (around ~5 at.% Zr) to a metallic glass. We find, contrary to the assumption based on equilibrium phase diagram, that in this nonequilibrium case most of the grain refinement and most of the hardness enhancement (from 2.5-3 to 4-5 GPa) takes place in the compositional range (up to ~3 at.% Zr) where many or even most Zr atoms (depending on the sputtering regime) are in the supersaturated solid solution rather than at the grain boundaries. The results are important for the design and understanding of technologically important nanostructured metallic films. In parallel, from the methodology point of view, the results include an early example of modelling the atom-by-atom nanocomposite growth.",
+  "authors": [
+   "Jiri Houska",
+   "Mariia Zhadko",
+   "Radomir Cerstvy",
+   "Deepika Thakur",
+   "Petr Zeman"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiri Houska",
+  "pdf_url": "http://arxiv.org/pdf/2409.06582",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-10",
+  "tags": [
+   "molecular-dynamics",
+   "nanocomposites"
+  ],
+  "title": "Role of Zr in Cu-rich single-phase and nanocomposite Cu-Zr: molecular dynamics and experimental study",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-10"
+ },
+ "2409.06939": {
+  "abstract": "In this paper we investigate a nonlinear fluid-structure interaction (FSI) problem involving the Navier-Stokes equations, which describe the flow of an incompressible, viscous fluid in a 3D domain interacting with a thin viscoelastic lateral wall. The wall's elastodynamics is modeled by a two-dimensional plate equation with fractional damping, accounting for displacement in all three directions. The system is nonlinearly coupled through kinematic and dynamic conditions imposed at the time-varying fluid-structure interface, whose location is not known a priori. We establish three key results, particularly significant for FSI problems that account for vector displacements of thin structures. Specifically, we first establish a hidden spatial regularity for the structure displacement, which forms the basis for proving that self-contact of the structure will not occur within a finite time interval. Secondly, we demonstrate temporal regularity for both the structure and fluid velocities, which enables a new compactness result for three-dimensional structural displacements. Finally, building on these regularity results, we prove the existence of a local-in-time weak solution to the FSI problem. This is done through a constructive proof using time discretization via the Lie operator splitting method. These results are significant because they address the well-known issues associated with the analysis of nonlinearly coupled FSI problems capturing vector displacements of elastic/viscoelastic structures in 3D, such as spatial and temporal regularity of weak solutions and their well-posedness.",
+  "authors": [
+   "Sunčica Čanić",
+   "Boris Muha",
+   "Krutika Tawri"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Sunčica Čanić",
+  "pdf_url": "http://arxiv.org/pdf/2409.06939",
+  "primary_category": "math.AP",
+  "published": "2024-09-11",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Existence and Regularity Results for a Nonlinear Fluid-Structure Interaction Problem with Three-Dimensional Structural Displacement",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.07066": {
+  "abstract": "We study the coupling of a viscoelastic deformation governed by a Kelvin-Voigt model at equilibrium, based on the concept of second-grade nonsimple materials, with a plastic deformation due to volumetric swelling, described via a phase-field variable subject to a Cahn-Hilliard model expressed in a Lagrangian frame. Such models can be used to describe the time evolution of hydrogels in terms of phase separation within a deformable substrate. The equations are mainly coupled via a multiplicative decomposition of the deformation gradient into both contributions and via a Korteweg term in the Eulerian frame. To treat time-dependent Dirichlet conditions for the deformation, an auxiliary variable with fixed boundary values is introduced, which results in another multiplicative structure. Imposing suitable growth conditions on the elastic and viscous potentials, we construct weak solutions to this quasistatic model as the limit of time-discrete solutions to incremental minimization problems. The limit passage is possible due to additional regularity induced by the hyperelastic and viscous stresses.",
+  "authors": [
+   "Thomas Eiter",
+   "Leonie Schmeller"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Thomas Eiter",
+  "pdf_url": "http://arxiv.org/pdf/2409.07066",
+  "primary_category": "math.AP",
+  "published": "2024-09-11",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties",
+   "phase-separation"
+  ],
+  "title": "Weak solutions to a model for phase separation coupled with finite-strain viscoelasticity subject to external distortion",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-11"
+ },
+ "2409.07095": {
+  "abstract": "Pattern formation inside a liquid phase is a phenomenon involved in many different aspects of life on our planet. The droplet form of a liquid that evaporates can reveal patterns that depend on the chemistry of the droplet and the physical parameters involved. We observed a flower-like deposition pattern of micrometer-sized particles as a result of the evaporation of a droplet containing salt and a non-ionic polymer. We show experimentally that the phase separation of the polymer due to the salting-out effect causes a strong entropic flow, which manifests as vortices. The flow is called phase separation bursting flow, which leads to the axial symmetry breaking and the formation of a radially aligned flower-like pattern. We foresee that understanding the observed flow can provide insights into the fluid physics aspects of phase separation and may have implications for technical applications.",
+  "authors": [
+   "Vahid Nasirimarekani"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Vahid Nasirimarekani",
+  "pdf_url": "http://arxiv.org/pdf/2409.07095",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-11",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Phase separation bursting and symmetry breaking inside an evaporating droplet; formation of a flower-like pattern",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-11"
+ },
+ "2409.07288": {
+  "abstract": "In many modern astronomical facilities, multi-object telescopes are crucial instruments. Most of these telescopes have thousands of robotic fiber positioners(RFPs) installed on their focal plane, sharing an overlapping workspace. Collisions between RFPs during their movement can result in some targets becoming unreachable and cause structural damage. Therefore, it is necessary to reasonably assess and evaluate the collision probability of the RFPs. In this study, we propose a mathematical models of collision probability and validate its results using Monte Carlo simulations. In addition, a new collision calculation method is proposed for faster calculation(nearly 0.15% of original time). Simulation experiments have verified that our method can evaluate the collision probability between RFPs with both equal and unequal arm lengths. Additionally, we found that adopting a target distribution based on a Poisson distribution can reduce the collision probability by approximately 2.6% on average.",
+  "authors": [
+   "Baolong Chen",
+   "Jianping Wang",
+   "Zhigang Liu",
+   "Zengxiang Zhou",
+   "Hongzhuan Hu",
+   "Feifan Zhang"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "20pages,11figures",
+  "first_author": "Baolong Chen",
+  "pdf_url": "http://arxiv.org/pdf/2409.07288",
+  "primary_category": "cs.RO",
+  "published": "2024-09-11",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "General Methods for Evaluating Collision Probability of Different Types of Theta-phi Positioners",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-11"
+ },
+ "2409.07443": {
+  "abstract": "Ellipsoidal particles confined at liquid interfaces exhibit complex self-assembly behaviour due to quadrupolar capillary interactions induced by meniscus deformation. These interactions cause particles to attract each other in either tip-to-tip or side-to-side configurations. However, controlling their interfacial self-assembly is challenging because it is difficult to predict which of these two states will be preferred. In this study, we demonstrate that introducing a soft shell around hard ellipsoidal particles provides a means to control the self-assembly process, allowing us to switch the preferred configuration between these states. We study their interfacial self-assembly and find that pure ellipsoids without a shell consistently form a \"chain-like\" side-to-side assembly, regardless of aspect ratio. In contrast, core-shell ellipsoids transition from \"flower-like\" tip-to-tip to \"chain-like\" side-to-side arrangements as their aspect ratios increase. The critical aspect ratio for transitioning between these structures increases with shell-to-core ratios. Our experimental findings are corroborated by theoretical calculations and Monte Carlo simulations, which map out the phase diagram of thermodynamically preferred self-assembly structures for core-shell ellipsoids as a function of aspect ratio and shell-to-core ratios. This study shows how to program the self-assembly of anisotropic particles by tuning their physicochemical properties, allowing the deterministic realization of distinct structural configurations.",
+  "authors": [
+   "Jack Eatson",
+   "Susann Bauernfeind",
+   "Benjamin Midtvedt",
+   "Antonio Ciarlo",
+   "Johannes Menath",
+   "Giuseppe Pesce",
+   "Andrew B. Schofield",
+   "Giovanni Volpe",
+   "Paul S. Clegg",
+   "Nicolas Vogel",
+   "D. Martin. A. Buzza",
+   "Marcel Rey"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Jack Eatson",
+  "pdf_url": "http://arxiv.org/pdf/2409.07443",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-11",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Programmable self-assembly of core-shell ellipsoids at liquid interfaces",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-11"
+ },
+ "2409.07620": {
+  "abstract": "Multicomponent phase separation is a routine occurrence in both living and synthetic systems. Thermodynamics provides a straightforward path to determine the phase boundaries that characterize these transitions for systems at equilibrium. The prevalence of phase separation in complex systems outside the confines of equilibrium motivates the need for a genuinely nonequilibrium theory of multicomponent phase coexistence. Here, we develop a mechanical theory for coexistence that casts coexistence criteria into the familiar form of equality of state functions. Our theory generalizes traditional equilibrium notions such as the species chemical potential and thermodynamic pressure to systems out of equilibrium. Crucially, while these notions may not be identifiable for all nonequilibrium systems, we numerically verify their existence for a variety of systems by introducing the phenomenological Multicomponent Active Model B+. Our work establishes an initial framework for understanding multicomponent coexistence that we hope can serve as the basis for a comprehensive theory for high-dimensional nonequilibrium phase transitions.",
+  "authors": [
+   "Yu-Jen Chiu",
+   "Daniel Evans",
+   "Ahmad K. Omar"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Yu-Jen Chiu",
+  "pdf_url": "http://arxiv.org/pdf/2409.07620",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-11",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Theory of Nonequilibrium Multicomponent Coexistence",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-19"
+ },
+ "2409.07735": {
+  "abstract": "One long-standing and crucial issues in the study of quasicrystals has been to identify the physical properties characteristic of quasicrystals. The large positive temperature coefficient of thermal conductivity at temperatures above room temperature, which has been observed in several quasicrystals, is one such characteristic property. Here, we show that this is indeed a very distinct property of quasicrystals through analysis using a large physical property database \"Starrydata\". In fact, several quasicrystals ranked nearly first among more than 10,000 samples of various materials (metallic alloys, semiconductors, ceramics, etc.) in terms of the magnitude of the positive temperature coefficient of thermal conductivity. This unique property makes quasicrystals ideal for use in composite thermal diodes. We searched the database for the most suitable materials that can be combined with quasicrystals to create high-performance composite thermal diodes. Analytical calculations using a simple one-dimensional model showed that by selecting the optimal material, a thermal rectification ratio of 3.2 can be obtained. Heat transfer simulations based on the finite element method confirmed that this can be achieved under realistic conditions. This is the highest value of the thermal rectification ratio reported to date for this type of thermal diode.",
+  "authors": [
+   "Takashi Kurono",
+   "Jinjia Zhang",
+   "Yasushi Kamimura",
+   "Keiichi Edagawa"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Takashi Kurono",
+  "pdf_url": "http://arxiv.org/pdf/2409.07735",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-12",
+  "tags": [
+   "composites",
+   "thermal-conductivity"
+  ],
+  "title": "Large-scale database analysis of anomalous thermal conductivity of quasicrystals and its application to thermal diodes",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.07963": {
+  "abstract": "Positron Annihilation Lifetime Spectroscopy (PALS) is a well-established non-destructive technique used for nanostructural characterization of porous materials. It is based on the annihilation of a positron and an electron. Mean positron lifetime in the material depends on the free voids size and molecular environment, allowing the study of porosity and structural transitions in the nanometer scale. We have developed a novel method enabling spatially resolved PALS, thus providing tomography of nanostructural characterization of an extended object. Correlating space (position) and structural (lifetime) information brings new insight in materials studies, especially in the characterization of the purity and pore distribution. For the first time, a porosity image using stationary positron sources for the simultaneous measurement of the porous polymers XAD4, silica aerogel powder IC3100, and polyvinyl toluene scintillator PVT by the J-PET tomograph is demonstrated",
+  "authors": [
+   "K. Dulski",
+   "E. Beyene",
+   "N. Chug",
+   "C. Curceanu",
+   "E. Czerwiński",
+   "M. Das",
+   "M. Gorgol",
+   "B. Jasińska",
+   "K. Kacprzak",
+   "Ł. Kapłon",
+   "G. Korcyl",
+   "T. Kozik",
+   "K. Kubat",
+   "D. Kumar",
+   "E. Lisowski",
+   "F. Lisowski",
+   "J. Mędrala-Sowa",
+   "S. Niedźwiecki",
+   "P. Pandey",
+   "S. Parzych",
+   "E. Perez del Rio",
+   "M. Rädler",
+   "S. Sharma",
+   "M. Skurzok",
+   "K. Tayefi",
+   "P. Tanty",
+   "E. Ł. Stępień",
+   "P. Moskal"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "K. Dulski",
+  "pdf_url": "http://arxiv.org/pdf/2409.07963",
+  "primary_category": "physics.app-ph",
+  "published": "2024-09-12",
+  "tags": [
+   "spectroscopy"
+  ],
+  "title": "Nanoporosity imaging by positronium lifetime tomography",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.08150": {
+  "abstract": "We analyze the steady viscoelastic fluid flow in slowly varying contracting channels of arbitrary shape and present a theory based on the lubrication approximation for calculating the flow rate-pressure drop relation at low and high Deborah ($De$) numbers. Unlike most prior theoretical studies leveraging the Oldroyd-B model, we describe the fluid viscoelasticity using a FENE-CR model and examine how the polymer chains' finite extensibility impacts the pressure drop. We employ the low-Deborah-number lubrication analysis to provide analytical expressions for the pressure drop up to $O(De^4)$. We further consider the ultra-dilute limit and exploit a one-way coupling between the parabolic velocity and elastic stresses to calculate the pressure drop of the FENE-CR fluid for arbitrary values of the Deborah number. Such an approach allows us to elucidate elastic stress contributions governing the pressure drop variations and the effect of finite extensibility for all $De$. We validate our theoretical predictions with two-dimensional numerical simulations and find excellent agreement. We show that, at low Deborah numbers, the pressure drop of the FENE-CR fluid monotonically decreases with $De$, similar to the previous results for the Oldroyd-B and FENE-P fluids. However, at high Deborah numbers, in contrast to a linear decrease for the Oldroyd-B fluid, the pressure drop of the FENE-CR fluid exhibits a non-monotonic variation due to finite extensibility, first decreasing and then increasing with $De$. Nevertheless, even at sufficiently high Deborah numbers, the pressure drop of the FENE-CR fluid in the ultra-dilute and lubrication limits is lower than the corresponding Newtonian pressure drop.",
+  "authors": [
+   "Bimalendu Mahapatra",
+   "Tachin Ruangkriengsin",
+   "Howard A. Stone",
+   "Evgeniy Boyko"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Bimalendu Mahapatra",
+  "pdf_url": "http://arxiv.org/pdf/2409.08150",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-12",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Viscoelastic fluid flow in a slowly varying planar contraction: the role of finite extensibility on the pressure drop",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.08209": {
+  "abstract": "Via numerical simulations and analytical calculations, depletion forces are studied in mixtures of small and big particles that interact via soft repulsive potentials. While big particles are spherical, small particles are nonspherical with shapes that vary gradually, from squares to rods via intermediate shapes. The mixtures are studied for a wide range of densities and temperature. Depletion forces and their resulting potentials depend on the interplay of shape, temperature and density, an argument that is elaborated qualitatively and quantitatively. While in some thermodynamic conditions, depletion potentials of distinct shapes are distinguishable, in different conditions, they are very similar. Finally, I propose novel computational models and experiments for further investigation of the effect of morphology on phase separation in and out of thermal equilibrium.",
+  "authors": [
+   "Itay Azizi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Itay Azizi",
+  "pdf_url": "http://arxiv.org/pdf/2409.08209",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-12",
+  "tags": [
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Shape, temperature and density interplay in depletion forces",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-12"
+ },
+ "2409.08654": {
+  "abstract": "Molecular arrangement in the chiral smectic phases of the glassforming (S)-4'-(1-methylheptylcarbonyl)biphenyl-4-yl 4-[7-(2,2,3,3,4,4,4-heptafluorobutoxy) heptyl-1-oxy]benzoate is investigated by X-ray diffraction. An increased correlation length of the positional short-range order in the supercooled state agrees with the previous assumption of the hexatic smectic phase. However, the registered X-ray diffraction patterns are not typical for the hexatic phases. Comparison of the smectic layer spacing and optical tilt angle indicates a strongly non-linear shape of molecules, which enables choice of the molecular models obtained by DFT calculations, used subsequently to interpret the infra-red spectra. The presumption of the hexatic smectic FA* or IA* phase is supported by the splitting of the absorption bands related to the C=O stretching in the supercooled state, which is absent in the smectic CA* phase above the melting temperature. The glass transition affects the temperature dependence of the smectic layer spacing but only subtly impacts the infra-red spectra. Application of the k-means cluster analysis enables distinction between the infra-red spectra below and above the glass transition temperature, but only for certain spectral ranges.",
+  "authors": [
+   "Aleksandra Deptuch",
+   "Natalia Górska",
+   "Stanisław Baran",
+   "Magdalena Urbańska"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "33 pages, 12 figures",
+  "first_author": "Aleksandra Deptuch",
+  "pdf_url": "http://arxiv.org/pdf/2409.08654",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-13",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Structural and dynamical investigation of glassforming smectogen by X-ray diffraction and infra-red spectroscopy aided by density functional theory calculations",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-13"
+ },
+ "2409.08679": {
+  "abstract": "Although impurities are unavoidable in real-world and experimental systems, most numerical studies on nucleation focus on pure (impurity-free) systems. As a result, the role of impurities in phase transitions remains poorly understood, especially for systems with complex free energy landscapes featuring one or more metastable intermediate phases. In this study, we employed Monte-Carlo simulations to investigate the effects of static impurities (quenched disorder) of varying length scales and surface morphologies on the nucleation mechanism and kinetics in the Gaussian Core Model (GCM) system, a model for soft colloidal systems. We first explored how the nucleation free energy barrier and critical cluster size are influenced by the fraction of pinned particles ($f_{\\rm p}$) and the pinned cluster size ($n_{\\rm p}$). Both the nucleation free energy barrier and critical cluster size increase sharply with increasing $f_{\\rm p}$ but decrease as $n_{\\rm p}$ grows, eventually approaching the homogeneous nucleation limit. On examining the impact of surface morphology on nucleation kinetics, we observed that the nucleation barrier significantly decreases with increasing the spherical pinned cluster (referred to as \"seed\") size of face-centred cubic (FCC), body-centred cubic (BCC), and simple cubic (SC) structures, with BCC showing the greatest facilitation. Interestingly, seeds with random surface roughness had little effect on nucleation kinetics. Additionally, the polymorphic identity of particles in the final crystalline phase is influenced by both seed surface morphology and system size. This study further provides crucial insights into the intricate relationship between substrate-induced local structural fluctuations and the selection of the polymorphic identity in the final crystalline phase, which is essential for understanding and controlling crystallization processes in experiments.",
+  "authors": [
+   "Gadha Ramesh",
+   "Mantu Santra",
+   "Rakesh S. Singh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Gadha Ramesh",
+  "pdf_url": "http://arxiv.org/pdf/2409.08679",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-13",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Effects of quenched disorder on the kinetics and pathways of phase transition in a soft colloidal system",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-13"
+ },
+ "2409.08848": {
+  "abstract": "We establish the phase diagram of the Hubbard model on a cubic lattice for a wide range of temperatures, dopings and interaction strengths, considering both commensurate and incommensurate magnetic orders. We use the dynamical mean-field theory together with an efficient method to compute the free energy which enable the determination of the correct ordering vectors. Besides an antiferromagnetic state close to half-filling, we identify a number of different magnetic spiral phases with ordering vectors $(q,π,π)$, $(q,q,π)$ and $(q,q,q)$ as well as a region with close competition between them, hinting at spatial phase separation or at the onset of a stripe phase. Additionally, we extensively study several thermodynamic properties with direct relevance to cold-atom experiments: the entropy, energy and double-occupancy.",
+  "authors": [
+   "Liam Rampon",
+   "Fedor Šimkovic",
+   "Michel Ferrero"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Liam Rampon",
+  "pdf_url": "http://arxiv.org/pdf/2409.08848",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-09-13",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Magnetic phase diagram of the three-dimensional doped Hubbard model",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-13"
+ },
+ "2409.08927": {
+  "abstract": "Stationary measures of last passage percolation with geometric weights and the log-gamma polymer in a strip of the $\\mathbb Z^2$ lattice are characterized in arXiv:2306.05983 using variants of Schur and Whittaker processes, called two-layer Gibbs measures. In this article, we prove contour integral formulas characterizing the multipoint joint distribution of two-layer Schur and Whittaker processes. We also express them as Doob transformed Markov processes with explicit transition kernels. As an example of application of our formulas, we compute the growth rate of the KPZ equation on $[0,L]$ with arbitrary boundary parameters.",
+  "authors": [
+   "Guillaume Barraquand"
+  ],
+  "categories": [
+   "math.PR",
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": "44 pages. v2: minor edits",
+  "first_author": "Guillaume Barraquand",
+  "pdf_url": "http://arxiv.org/pdf/2409.08927",
+  "primary_category": "math.PR",
+  "published": "2024-09-13",
+  "tags": [],
+  "title": "Integral formulas for two-layer Schur and Whittaker processes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.09728": {
+  "abstract": "Among the popular TE materials, selenides and tellurides are the benchmarks of high-efficiency systems. However, for the high-temperature application (>700 K), it is required to rely on the silicides and the oxides due to their exceptional thermal stability. ZnO is among the first few oxides in the field of thermoelectricity. Al-doped ZnO is a proven material for its high-temperature thermoelectric applications. However, the high grain boundary resistance limits further improvement of the efficiency of this oxide. Band-engineering, band-modification is a successful approach in lowering the grain boundary resistance. The addition of graphite and graphite-based materials at the grain boundaries is shown to serve this purpose. In this work, graphite powder is added in varying proportions to Al-doped ZnO triangular microcrystals. Thus, prepared materials are characterized to confirm the formation and investigate the nature of interface, morphology, etc. TE parameters such as electrical conductivity, Seebeck coefficient, and thermal conductivity of those materials also have been measured. The theoretical calculation of TE efficiency zT often differs from the actual experimental results due to the wide range of preparation methods, leading to changes in porosity, the nature and density defects, and several other factors. In this paper, an effort has been made to estimate the maximum achievable power factor (PFmax) from the measured TE parameters of this set of samples by the Jonker and Ioffe analysis. Based on the predicted PFmax, an appropriate material composition has been identified to achieve that same. Subsequently, including the measured parameters the TE efficiency (zT) is calculated. Further, a sudden dip observed in the thermal conductivity at the high-temperature range (625 K - 1000 K) of the prepared undoped ZnO graphite composite is investigated in this paper.",
+  "authors": [
+   "Soumya Biswas",
+   "Keshav Dabral",
+   "Saptak Majumder",
+   "Rajasekar Parasuraman",
+   "Aditya S. Dutt",
+   "Vinayak B. Kamble"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Soumya Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2409.09728",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-15",
+  "tags": [
+   "benchmarking",
+   "composites",
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Predicting the Realizable Maximum Power Factor using the Jonker and Ioffe formulation: Al-doped ZnO Triangular Microcrystals with Graphite Inclusion Case Study",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-19"
+ },
+ "2409.09864": {
+  "abstract": "The present work emphasizes the relevance of low-field NMR relaxometry to investigate colloid-polymer hydrogels by probing water dynamics across a wide range of formulations between $\\rm 10^{\\circ}C$ and $\\rm 80^{\\circ}C$. By examining the temperature dependence of the transverse relaxation time $T_2$, we demonstrate a clear link between the NMR response and the rheological behavior of the hydrogels. In particular, we show that NMR relaxometry targeting the solvent provides reliable insights into the hydrogel microstructure and allows the detection of phase transitions and aging processes. Our findings suggest that this solvent-focused technique could greatly benefit the soft matter community, complementing other experimental methods in the study of gels.",
+  "authors": [
+   "Léo Hervéou",
+   "Gauthier Legrand",
+   "Thibaut Divoux",
+   "Guilhem P. Baeza"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "6 pages, 4 figures",
+  "first_author": "Léo Hervéou",
+  "pdf_url": "http://arxiv.org/pdf/2409.09864",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-15",
+  "tags": [
+   "hydrogels",
+   "polymer-morphology",
+   "rheology",
+   "soft-matter"
+  ],
+  "title": "Understanding Polymer-Colloid Gels: A Solvent Perspective Using Low-Field NMR",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-15"
+ },
+ "2409.10158": {
+  "abstract": "We investigate a field theory for RNA-like polymers with periodic base sequence GCGCG..., where only single-strands aligned in the same direction form double strands. The field theory is derived from a lattice model that incorporates excluded volume effects, base sequence, and temperature dependent renaturation/denaturation.   The artificial directionality leads to a novel universality class, not related to conventional branched polymers and Lee-Yang field theory. This universality class is unstable against natural pairing, where oppositely aligned single-strands form double strands. The denaturation/renaturation transition is a continuous crossover between two $\\varphi_{n=0}^{4}$ critical points and the critical point of the new universality class.",
+  "authors": [
+   "R. Dengler"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "R. Dengler",
+  "pdf_url": "http://arxiv.org/pdf/2409.10158",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-16",
+  "tags": [],
+  "title": "Pseudo-RNA with parallel aligned single-strands and periodic base sequence as a new universality class",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-16"
+ },
+ "2409.10463": {
+  "abstract": "Multilayer Perceptrons (MLPs) have long been a cornerstone in deep learning, known for their capacity to model complex relationships. Recently, Kolmogorov-Arnold Networks (KANs) have emerged as a compelling alternative, utilizing highly flexible learnable activation functions directly on network edges, a departure from the neuron-centric approach of MLPs. However, KANs significantly increase the number of learnable parameters, raising concerns about their effectiveness in data-scarce environments. This paper presents a comprehensive comparative study of MLPs and KANs from both algorithmic and experimental perspectives, with a focus on low-data regimes. We introduce an effective technique for designing MLPs with unique, parameterized activation functions for each neuron, enabling a more balanced comparison with KANs. Using empirical evaluations on simulated data and two real-world data sets from medicine and engineering, we explore the trade-offs between model complexity and accuracy, with particular attention to the role of network depth. Our findings show that MLPs with individualized activation functions achieve significantly higher predictive accuracy with only a modest increase in parameters, especially when the sample size is limited to around one hundred. For example, in a three-class classification problem within additive manufacturing, MLPs achieve a median accuracy of 0.91, significantly outperforming KANs, which only reach a median accuracy of 0.53 with default hyperparameters. These results offer valuable insights into the impact of activation function selection in neural networks.",
+  "authors": [
+   "Farhad Pourkamali-Anaraki"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.CO",
+   "stat.ML"
+  ],
+  "comment": "15 pages, 9 figures",
+  "first_author": "Farhad Pourkamali-Anaraki",
+  "pdf_url": "http://arxiv.org/pdf/2409.10463",
+  "primary_category": "cs.LG",
+  "published": "2024-09-16",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-16"
+ },
+ "2409.10748": {
+  "abstract": "Understanding the thermal conductivity of chromium doped V2O3 is crucial for optimizing the design of selectors for memory and neuromorphic devices. We utilized the time-domain thermoreflectance technique to measure the thermal conductivity of chromium doped V2O3 across varying concentrations, spanning the doping induced metal-insulator transition. In addition, different oxygen stoichiometries and film thicknesses were investigated in their crystalline and amorphous phases. Chromium doping concentration (0%-30%) and the degree of crystallinity emerged as the predominant factors influencing the thermal properties, while the effect of oxygen flow (600-1400 ppm) during deposition proved to be negligible. Our observations indicate that even in the metallic phase of V2O3, the lattice contribution is the dominant factor in thermal transport with no observable impact from the electrons on heat transport. Finally, the thermal conductivity of both amorphous and crystalline V2O3 was measured at cryogenic temperatures (80-450 K). Our thermal conductivity measurements as a function of temperature reveal that both phases exhibit behavior similar to amorphous materials, indicating pronounced phonon scattering effects in the crystalline phase of V2O3.",
+  "authors": [
+   "Johannes Mohr",
+   "Kiumars Aryana",
+   "Md. Rafiqul Islam",
+   "Dirk J. Wouters",
+   "Rainer Waser",
+   "Patrick E. Hopkins",
+   "Joyeeta Nag",
+   "Daniel Bedau"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Submitted to APL",
+  "first_author": "Johannes Mohr",
+  "pdf_url": "http://arxiv.org/pdf/2409.10748",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-09-16",
+  "tags": [
+   "crystallinity",
+   "thermal-conductivity"
+  ],
+  "title": "Electronic vs. phononic thermal transport in Cr-doped V2O3 thin films across the Mott transition",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-16"
+ },
+ "2409.10778": {
+  "abstract": "In this paper, we explore the feasibility of developing a novel flexible pedicle screw (FPS) for enhanced spinal fixation of osteoporotic vertebrae. Vital for spinal fracture treatment, pedicle screws have been around since the early 20th century and have undergone multiple iterations to enhance internal spinal fixation. However, spinal fixation treatments tend to be problematic for osteoporotic patients due to multiple inopportune variables. The inherent rigid nature of the pedicle screw, along with the forced linear trajectory of the screw path, frequently leads to the placement of these screws in highly osteoporotic regions of the bone. This results in eventual screw slippage and causing neurological and respiratory problems for the patient. To address this problem, we focus on developing a novel FPS that is structurally capable of safely bending to fit curved trajectories drilled by a steerable drilling robot and bypass highly osteoporotic regions of the vertebral body. Afterwards, we simulate its morphability capabilities using finite element analysis (FEA). We then additively manufacture the FPS using stainless steel (SS) 316L alloy through direct metal laser sintering (DMLS). Finally, the fabricated FPS is experimentally evaluated for its bending performance and compared with the FEA results for verification. Results demonstrate the feasibility of additive manufacturing of FPS using DMLS approach and agreement of the developed FEA with the experiments.",
+  "authors": [
+   "Yash Kulkarni",
+   "Susheela Sharma",
+   "Jared Allison",
+   "Jordan Amadio",
+   "Maryam Tilton",
+   "Farshid Alambeigi"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Yash Kulkarni",
+  "pdf_url": "http://arxiv.org/pdf/2409.10778",
+  "primary_category": "cs.RO",
+  "published": "2024-09-16",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Towards the Feasibility Analysis and Additive Manufacturing of a Novel Flexible Pedicle Screw for Spinal Fixation Procedures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-16"
+ },
+ "2409.11438": {
+  "abstract": "In this paper we present a new machine learning workflow with unsupervised learning techniques to identify domains within atomic force microscopy images obtained from polymer films. The goal of the workflow is to identify the spatial location of the two types of polymer domains with little to no manual intervention and calculate the domain size distributions which in turn can help qualify the phase separated state of the material as macrophase or microphase ordered or disordered domains. We briefly review existing approaches used in other fields, computer vision and signal processing that can be applicable for the above tasks that happen frequently in the field of polymer science and engineering. We then test these approaches from computer vision and signal processing on the AFM image dataset to identify the strengths and limitations of each of these approaches for our first task. For our first domain segmentation task, we found that the workflow using discrete Fourier transform or discrete cosine transform with variance statistics as the feature works the best. The popular ResNet50 deep learning approach from computer vision field exhibited relatively poorer performance in the domain segmentation task for our AFM images as compared to the DFT and DCT based workflows. For the second task, for each of 144 input AFM images, we then used an existing porespy python package to calculate the domain size distribution from the output of that image from DFT based workflow. The information and open source codes we share in this paper can serve as a guide for researchers in the polymer and soft materials fields who need ML modeling and workflows for automated analyses of AFM images from polymer samples that may have crystalline or amorphous domains, sharp or rough interfaces between domains, or micro or macrophase separated domains.",
+  "authors": [
+   "Aanish Paruchuri",
+   "Yunfei Wang",
+   "Xiaodan Gu",
+   "Arthi Jayaraman"
+  ],
+  "categories": [
+   "eess.IV",
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "39 pages, 13 figures, 4 tables",
+  "first_author": "Aanish Paruchuri",
+  "pdf_url": "http://arxiv.org/pdf/2409.11438",
+  "primary_category": "eess.IV",
+  "published": "2024-09-15",
+  "tags": [],
+  "title": "Machine Learning for Analyzing Atomic Force Microscopy (AFM) Images Generated from Polymer Blends",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.11519": {
+  "abstract": "One essential goal of constructing coarse-grained molecular dynamics (CGMD) models is to accurately predict non-equilibrium processes beyond the atomistic scale. While a CG model can be constructed by projecting the full dynamics onto a set of resolved variables, the dynamics of the CG variables can recover the full dynamics only when the conditional distribution of the unresolved variables is close to the one associated with the particular projection operator. In particular, the model's applicability to various non-equilibrium processes is generally unwarranted due to the inconsistency in the conditional distribution. Here, we present a data-driven approach for constructing CGMD models that retain certain generalization ability for non-equilibrium processes. Unlike the conventional CG models based on pre-selected CG variables (e.g., the center of mass), the present CG model seeks a set of auxiliary CG variables based on the time-lagged independent component analysis to minimize the entropy contribution of the unresolved variables. This ensures the distribution of the unresolved variables under a broad range of non-equilibrium conditions approaches the one under equilibrium. Numerical results of a polymer melt system demonstrate the significance of this broadly-overlooked metric for the model's generalization ability, and the effectiveness of the present CG model for predicting the complex viscoelastic responses under various non-equilibrium flows.",
+  "authors": [
+   "Liyao Lyu",
+   "Huan Lei"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "math.NA",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Liyao Lyu",
+  "pdf_url": "http://arxiv.org/pdf/2409.11519",
+  "primary_category": "physics.comp-ph",
+  "published": "2024-09-17",
+  "tags": [
+   "coarse-grained",
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-17"
+ },
+ "2409.11712": {
+  "abstract": "The advent of 3D printing has transformed the pharmaceutical industry, enabling precision drug manufacturing with controlled release profiles, dosing, and structural complexity. Additive manufacturing (AM) addresses the growing demand for personalized medicine, overcoming limitations of traditional methods. This technology facilitates tailored dosage forms, complex geometries, and real-time quality control. Recent advancements in drop-on-demand printing, UV curable inks, material science, and regulatory frameworks are discussed. Despite opportunities for cost reduction, flexibility, and decentralized manufacturing, challenges persist in scalability, reproducibility, and regulatory adaptation. This review provides an in-depth analysis of the current state of AM in pharmaceutical manufacturing, exploring recent developments, challenges, and future directions for mainstream integration.",
+  "authors": [
+   "Rahul Kumar",
+   "Vikram Singh",
+   "Priya Gupta"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "submitted to IMECE 2024",
+  "first_author": "Rahul Kumar",
+  "pdf_url": "http://arxiv.org/pdf/2409.11712",
+  "primary_category": "eess.SY",
+  "published": "2024-09-18",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Revolutionizing Pharmaceutical Manufacturing: Advances and Challenges of 3D Printing System and Control",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-18"
+ },
+ "2409.12429": {
+  "abstract": "By exact projection in phase space we derive the generalized Langevin equation (GLE) for time-filtered observables. We employ a general convolution filter that directly acts on arbitrary phase-space observables and can involve low-pass, high-pass, band-pass or band-stop components. The derived filter GLE has the same form and properties as the ordinary GLE but exhibits modified potential, mass and memory friction kernel. Our filter-projection approach has diverse applications and can be used to i) systematically derive temporally coarse-grained models by low-pass filtering, ii) undo data smoothening inherent in any experimental measurement process, iii) decompose data exactly into slow and fast variables that can be analyzed separately and each obey Liouville dynamics. The latter application is suitable for removing slow transient or seasonal (i.e. periodic) components that do not equilibrate over simulation or experimental observation time scales and constitutes an alternative to non-equilibrium approaches. We derive integral formulas for the GLE parameters of filtered data for general systems. For the special case of a Markovian system we derive the filter GLE memory kernel in closed form and show that low-band pass smoothening of data induces exponentially decaying memory.",
+  "authors": [
+   "Roland R. Netz"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Roland R. Netz",
+  "pdf_url": "http://arxiv.org/pdf/2409.12429",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-19",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Temporal coarse-graining and elimination of slow dynamics with the generalized Langevin equation for time-filtered observables",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-19"
+ },
+ "2409.12596": {
+  "abstract": "We report a combined experimental (C-AFM and SThM) and theoretical (DFT) study of the thermoelectric properties of molecular junctions made of self-assembled monolayers on Au of thiolated benzothieno-benzothiophene (BTBT) and alkylated BTBT derivatives (C8-BTBT-C8). We measure the thermal conductance per molecule at 15 pW/K and 8.8 pW/K, respectively, among the lowest values for molecular junctions so far reported (10-50 pW/K). The lower thermal conductance for C8-BTBT-C8 is consistent with two interfacial thermal resistances introduced by the alkyl chains, which reduce the phononic thermal transport in the molecular junction. The Seebeck coefficients are 36 μV/K and 245 μV/K, respectively, the latter due to the weak coupling of the core BTBT with the electrodes. We deduce a thermoelectric figure of merit ZT up to ca. 1E-4 for the BTBT molecular junctions at 300K, on a par with the values reported for archetype molecular junctions (olygo(phenylene ethynylene) derivatives).",
+  "authors": [
+   "Sergio Gonzalez-Casal",
+   "Rémy Jouclas",
+   "Imane Arbouch",
+   "Yves Geerts",
+   "Colin van Dyck",
+   "Jérôme Cornil",
+   "Dominique Vuillaume"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "physics.app-ph"
+  ],
+  "comment": "Full paper and supporting information",
+  "first_author": "Sergio Gonzalez-Casal",
+  "pdf_url": "http://arxiv.org/pdf/2409.12596",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-09-19",
+  "tags": [],
+  "title": "Thermoelectric Properties of Benzothieno-Benzothiophene Self-Assembled Monolayers in Molecular Junctions",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-19"
+ },
+ "2409.12785": {
+  "abstract": "Powder bed fusion (PBF) is an emerging metal additive manufacturing (AM) technology that enables rapid fabrication of complex geometries. However, defects such as pores and balling may occur and lead to structural unconformities, thus compromising the mechanical performance of the part. This has become a critical challenge for quality assurance as the nature of some defects is stochastic during the process and invisible from the exterior. To address this issue, digital twin (DT) using machine learning (ML)-based modeling can be deployed for AM process monitoring and control. Melt pool is one of the most commonly observed physical phenomena for process monitoring, usually by high-speed cameras. Once labeled and preprocessed, the melt pool images are used to train ML-based models for DT applications such as process anomaly detection and print quality evaluation. Nonetheless, the reusability of DTs is restricted due to the wide variability of AM settings, including AM machines and monitoring instruments. The performance of the ML models trained using the dataset collected from one setting is usually compromised when applied to other settings. This paper proposes a knowledge transfer pipeline between different AM settings to enhance the reusability of AM DTs. The source and target datasets are collected from the National Institute of Standards and Technology and National Cheng Kung University with different cameras, materials, AM machines, and process parameters. The proposed pipeline consists of four steps: data preprocessing, data augmentation, domain alignment, and decision alignment. Compared with the model trained only using the source dataset, this pipeline increased the melt pool anomaly detection accuracy by 31% without any labeled training data from the target dataset.",
+  "authors": [
+   "Jiarui Xie",
+   "Zhuo Yang",
+   "Chun-Chun Hu",
+   "Haw-Ching Yang",
+   "Yan Lu",
+   "Yaoyao Fiona Zhao"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": "8 pages, 7 figures, 3 tables. IEEE CASE 2024",
+  "first_author": "Jiarui Xie",
+  "pdf_url": "http://arxiv.org/pdf/2409.12785",
+  "primary_category": "cs.CE",
+  "published": "2024-09-19",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Investigation on domain adaptation of additive manufacturing monitoring systems to enhance digital twin reusability",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.12926": {
+  "abstract": "Activity cliffs, which refer to pairs of molecules that are structurally similar but show significant differences in their potency, can lead to model representation collapse and make the model challenging to distinguish them. Our research indicates that as molecular similarity increases, graph-based methods struggle to capture these nuances, whereas image-based approaches effectively retain the distinctions. Thus, we developed MaskMol, a knowledge-guided molecular image self-supervised learning framework. MaskMol accurately learns the representation of molecular images by considering multiple levels of molecular knowledge, such as atoms, bonds, and substructures. By utilizing pixel masking tasks, MaskMol extracts fine-grained information from molecular images, overcoming the limitations of existing deep learning models in identifying subtle structural changes. Experimental results demonstrate MaskMol's high accuracy and transferability in activity cliff estimation and compound potency prediction across 20 different macromolecular targets, outperforming 25 state-of-the-art deep learning and machine learning approaches. Visualization analyses reveal MaskMol's high biological interpretability in identifying activity cliff-relevant molecular substructures. Notably, through MaskMol, we identified candidate EP4 inhibitors that could be used to treat tumors. This study not only raises awareness about activity cliffs but also introduces a novel method for molecular image representation learning and virtual screening, advancing drug discovery and providing new insights into structure-activity relationships (SAR).",
+  "authors": [
+   "Zhixiang Cheng",
+   "Hongxin Xiang",
+   "Pengsen Ma",
+   "Li Zeng",
+   "Xin Jin",
+   "Xixi Yang",
+   "Jianxin Lin",
+   "Yang Deng",
+   "Bosheng Song",
+   "Xinxin Feng",
+   "Changhui Deng",
+   "Xiangxiang Zeng"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": "33 pages, 5 figures",
+  "first_author": "Zhixiang Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2409.12926",
+  "primary_category": "cs.CV",
+  "published": "2024-09-02",
+  "tags": [],
+  "title": "MaskMol: Knowledge-guided Molecular Image Pre-Training Framework for Activity Cliffs",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2024-09-02"
+ },
+ "2409.13166": {
+  "abstract": "The emergence of modular satellites marks a significant transformation in spacecraft engineering, introducing a new paradigm of flexibility, resilience, and scalability in space exploration endeavors. In addressing complex challenges such as attitude control, both the satellite's morphological architecture and the controller are crucial for optimizing performance. Despite substantial research on optimal control, there remains a significant gap in developing optimized and practical assembly strategies for modular satellites tailored to specific mission constraints. This research gap primarily arises from the inherently complex nature of co-optimizing design and control, a process known for its notorious bi-level optimization loop. Conventionally tackled through artificial evolution, this issue involves optimizing the morphology based on the fitness of individual controllers, which is sample-inefficient and computationally expensive. In this paper, we introduce a novel gradient-based approach to simultaneously optimize both morphology and control for modular satellites, enhancing their performance and efficiency in attitude control missions. Our Monte Carlo simulations demonstrate that this co-optimization approach results in modular satellites with better mission performance compared to those designed by evolution-based approaches. Furthermore, this study discusses potential avenues for future research.",
+  "authors": [
+   "Yuxing Wang",
+   "Jie Li",
+   "Cong Yu",
+   "Xinyang Li",
+   "Simeng Huang",
+   "Yongzhe Chang",
+   "Xueqian Wang",
+   "Bin Liang"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI"
+  ],
+  "comment": "The paper was accepted as an oral presentation by the 75th International Astronautical Congress, Milan, Italy",
+  "first_author": "Yuxing Wang",
+  "pdf_url": "http://arxiv.org/pdf/2409.13166",
+  "primary_category": "cs.RO",
+  "published": "2024-09-20",
+  "tags": [
+   "monte-carlo",
+   "polymer-morphology"
+  ],
+  "title": "Morphology and Behavior Co-Optimization of Modular Satellites for Attitude Control",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.13633": {
+  "abstract": "One great challenge of modeling granular systems lies in capturing the rheologic dependencies on scale. For example, there are marked differences between quasi-static, intermediate, and rapid flow regimes. In this study, we demonstrate that assumptions for infinite stiffness of rigid particles, an assumption upon which the state-of the-art ($μ(I)$-rheology) modeling approaches are constructed, must be relaxed in order to recover the physical mechanisms behind many scale-dependent and non-local rheological effects. Any relaxation of the infinite stiffness assumption allows for particles to compress in series, whereby the number of simultaneously compressed particles controls the extent to which end-member particles experience a modified coefficient of effective friction, analogous to reduced stiffness for springs in series. To demonstrate the importance of such a mechanism in setting the dynamics for dense rigid granular systems, we show that modifying simple models to include the kinematics introduced by compression in series captures the emergence of thin layer stability, a widely observed yet incompletely explained non-local granular phenomenon. We also discuss, in general, how knowledge of the contact network and softness provides a potential physical basis for the diffusion of granular temperature.",
+  "authors": [
+   "Christopher Harper",
+   "Josef Dufek",
+   "Eric C. P. Breard"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Christopher Harper",
+  "pdf_url": "http://arxiv.org/pdf/2409.13633",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-20",
+  "tags": [
+   "rheology"
+  ],
+  "title": "The role of compressional dynamics in setting the scale-dependent rheology of granular flows: Application to the emergence of thin layer stability",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.13649": {
+  "abstract": "Camera-based tactile sensors can provide high resolution positional and local geometry information for robotic manipulation. Curved and rounded fingers are often advantageous, but it can be difficult to derive illumination systems that work well within curved geometries. To address this issue, we introduce RainbowSight, a family of curved, compact, camera-based tactile sensors which use addressable RGB LEDs illuminated in a novel rainbow spectrum pattern. In addition to being able to scale the illumination scheme to different sensor sizes and shapes to fit on a variety of end effector configurations, the sensors can be easily manufactured and require minimal optical tuning to obtain high resolution depth reconstructions of an object deforming the sensor's soft elastomer surface. Additionally, we show the advantages of our new hardware design and improvements in calibration methods for accurate depth map generation when compared to alternative lighting methods commonly implemented in previous camera-based tactile sensors. With these advancements, we make the integration of tactile sensors more accessible to roboticists by allowing them the flexibility to easily customize, fabricate, and calibrate camera-based tactile sensors to best fit the needs of their robotic systems.",
+  "authors": [
+   "Megha H. Tippur",
+   "Edward H. Adelson"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "ICRA 2024",
+  "first_author": "Megha H. Tippur",
+  "pdf_url": "http://arxiv.org/pdf/2409.13649",
+  "primary_category": "cs.RO",
+  "published": "2024-09-20",
+  "tags": [],
+  "title": "RainbowSight: A Family of Generalizable, Curved, Camera-Based Tactile Sensors For Shape Reconstruction",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.13895": {
+  "abstract": "At sufficiently high pressures (~Mbar) and low temperatures (~1e3-1eK), hydrogen and helium become partly immiscible. Interpretations of Jupiter and Saturn's magnetic fields favor the existence of a statically stable layer near the Mbar pressure level. From experimental and computational data for the hydrogen-helium phase diagram we find that moist convection and diffusive convection are inhibited, implying a stable helium rain layer in both Jupiter and Saturn. However, we find a significant difference in terms of structure and evolution: In Jupiter, helium settling leads to a stable yet super-adiabatic temperature gradient that is limited by conductive heat transport. The phase separation region should extend only a few tens of kilometers instead of thousands in current-day models, and be characterized by a sharp increase of the temperature of about 500K for standard phase separation diagrams. In Saturn, helium rains occurs much deeper, implying a larger helium flux relative to planetary mass. We find that the significant latent heat associated with helium condensation implies that a large fraction, perhaps close to 100%, of the planet's intrinsic heat flux may be locally transported by the sinking helium droplets. This implies that Saturn may possess a much more extended helium-rain region. This also accounts, at least qualitatively, for the differences in strength and characteristics of the magnetic fields of the two planets. Dedicated models of magnetic field generation in both planets may offer observational constraints to further refine these findings.",
+  "authors": [
+   "Steve Markham",
+   "Tristan Guillot"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "Accepted to PSJ",
+  "first_author": "Steve Markham",
+  "pdf_url": "http://arxiv.org/pdf/2409.13895",
+  "primary_category": "astro-ph.EP",
+  "published": "2024-09-20",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Stable stratification of the helium rain layer yields vastly different interiors and magnetic fields for Jupiter and Saturn",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-20"
+ },
+ "2409.13908": {
+  "abstract": "Metamaterials, synthetic materials with customized properties, have emerged as a promising field due to advancements in additive manufacturing. These materials derive unique mechanical properties from their internal lattice structures, which are often composed of multiple materials that repeat geometric patterns. While traditional inverse design approaches have shown potential, they struggle to map nonlinear material behavior to multiple possible structural configurations. This paper presents a novel framework leveraging video diffusion models, a type of generative artificial Intelligence (AI), for inverse multi-material design based on nonlinear stress-strain responses. Our approach consists of two key components: (1) a fields generator using a video diffusion model to create solution fields based on target nonlinear stress-strain responses, and (2) a structure identifier employing two UNet models to determine the corresponding multi-material 2D design. By incorporating multiple materials, plasticity, and large deformation, our innovative design method allows for enhanced control over the highly nonlinear mechanical behavior of metamaterials commonly seen in real-world applications. It offers a promising solution for generating next-generation metamaterials with finely tuned mechanical characteristics.",
+  "authors": [
+   "Jaewan Park",
+   "Shashank Kushwaha",
+   "Junyan He",
+   "Seid Koric",
+   "Qibang Liu",
+   "Iwona Jasiuk",
+   "Diab Abueidda"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.CE"
+  ],
+  "comment": "26 pages, 15 figures",
+  "first_author": "Jaewan Park",
+  "pdf_url": "http://arxiv.org/pdf/2409.13908",
+  "primary_category": "cs.AI",
+  "published": "2024-09-20",
+  "tags": [
+   "additive-manufacturing",
+   "diffusion-model",
+   "inverse-design",
+   "mechanical-properties"
+  ],
+  "title": "Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-28"
+ },
+ "2409.14270": {
+  "abstract": "By means of a minimal physical model, we investigate the interplay of two phase transitions at play in chromatin organization: (1) liquid-liquid phase separation (LLPS) within the fluid solvating chromatin, resulting in the formation of biocondensates, and (2) the coil-globule crossover of the chromatin fiber, which drives the condensation or extension of the chain. In our model, a species representing a domain of chromatin is embedded in a binary fluid. This fluid phase separates to form a droplet rich in a macromolecule (B). Chromatin particles are trapped in a harmonic potential to reproduce the coil and globular phases of an isolated polymer chain. We investigate the role of the droplet material B on the radius of gyration of this polymer and find that this radius varies nonmonotonically with respect to the volume fraction of B. This behavior is reminiscent of a phenomenon known as $\\textit{co-non-solvency}$: a polymer chain in good solvent (S) may collapse when a second good solvent (here B) is added in low quantity, and expand at higher B concentration. Additionally, the presence of finite-size effects on the coil-globule transition results in a qualitatively different impact of the droplet material on polymers of various sizes. In the context of genetic regulation, our results suggest that the size of chromatin domains and the quantity of condensate proteins are key parameters to control whether chromatin may respond to an increase of the quantity of chromatin-binding proteins by condensing or expanding.",
+  "authors": [
+   "Reda Tiani",
+   "Marie Jardat",
+   "Vincent Dahirel"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 10 figures",
+  "first_author": "Reda Tiani",
+  "pdf_url": "http://arxiv.org/pdf/2409.14270",
+  "primary_category": "physics.bio-ph",
+  "published": "2024-09-21",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Phase transitions in chromatin: mesoscopic and mean-field approaches",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-21"
+ },
+ "2409.15102": {
+  "abstract": "In biology, cells undergo deformations under the action of flow caused by the fluid surrounding them. These flows lead to shape changes and instabilities that have been explored in detail for single component vesicles. However, cell membranes are often multi-component in nature, made up of multiple phospholipids and cholesterol mixtures that give rise to interesting thermodynamics and fluid mechanics. Our work analyses linear flows around a multi-component vesicle using a small-deformation theory based on vector and scalar spherical harmonics. We set up the problem by laying out the governing momentum equations and the traction {balance } arising from the phase separation and bending. These equations are solved along with a Cahn-Hilliard equation that governs the coarsening dynamics of the phospholipid-cholesterol mixture. We provide a detailed analysis of the vesicle dynamics (e.g., tumbling, breathing, tank-treading, swinging, and phase treading) in two regimes -- when flow is faster than coarsening dynamics (Peclet number $Pe \\gg 1$) and when the two time scales are comparable ($Pe \\sim O(1)$) -- and provide a discussion on {when these behaviours occur}. The analysis aims to provide an experimentalist with important insights pertaining to the phase separation dynamics and their effect on the deformation dynamics of a vesicle.",
+  "authors": [
+   "Anirudh Venkatesh",
+   "Vivek Narsimhan"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Anirudh Venkatesh",
+  "pdf_url": "http://arxiv.org/pdf/2409.15102",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-23",
+  "tags": [
+   "membranes",
+   "phase-separation"
+  ],
+  "title": "Shape dynamics of nearly spherical, multicomponent vesicles under shear flow",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.15223": {
+  "abstract": "We develop off-lattice simulations of semiflexible polymer chains subjected to applied mechanical forces using Markov Chain Monte Carlo. Our approach models the polymer as a chain of fixed-length bonds, with configurations updated through adaptive non-local Monte Carlo moves. This proposed method enables precise calculation of a polymer's response to a wide range of mechanical forces, which traditional on-lattice models cannot achieve. Our approach has shown excellent agreement with theoretical predictions of persistence length and end-to-end distance in quiescent states, as well as stretching distances under tension. Moreover, our model eliminates the orientational bias present in on-lattice models, which significantly impacts calculations such as the scattering function, a crucial technique for revealing polymer conformation.",
+  "authors": [
+   "Lijie Ding",
+   "Chi-Huan Tung",
+   "Bobby G. Sumpter",
+   "Wei-Ren Chen",
+   "Changwoo Do"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 pages, 7 figures",
+  "first_author": "Lijie Ding",
+  "pdf_url": "http://arxiv.org/pdf/2409.15223",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-23",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Off-Lattice Markov Chain Monte Carlo Simulations of Mechanically Driven Polymers",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.15347": {
+  "abstract": "The osmotic second virial coefficient B2 is an important parameter to describe the interactions and phase behavior of protein solutions, including colloidal systems and macromolecular solutions. Another key parameter to describe the driving force of the nucleation of a new phase is the supersaturation, which is used in the classical nucleation theory framework and is connected with the favorable contribution in the Gibbs free energy in the bulk solution. In this article, we establish a connection between B2 calculated from small angle Xray scattering (SAXS) data and the values of B2 obtained from supersaturation measurements using thermodynamics considerations. The values of the second virial coefficient calculated employing this method agree with those determined via SAXS in the region near the liquid liquid phase separation border for human serum albumin and bovine serum albumin. The general relations adopted are shown to be useful for the estimation of the second virial coefficient B2 for globular proteins, in the proximity of the binodal biphasic coexistent region.",
+  "authors": [
+   "Furio Surfaro",
+   "Ralph Maier",
+   "Kai-Florian Pastryk",
+   "Fajun Zhang",
+   "Frank Schreiber",
+   "Roland Roth"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "9 pages, 3 figures",
+  "first_author": "Furio Surfaro",
+  "pdf_url": "http://arxiv.org/pdf/2409.15347",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-10",
+  "tags": [
+   "phase-separation",
+   "saxs"
+  ],
+  "title": "An alternative approach to the osmotic second virial coefficient of protein solutions and its application to liquid liquid phase separation",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.15354": {
+  "abstract": "We present a novel approach to design durable and chemically recyclable ring-opening polymerization (ROP) class polymers. This approach employs digital reactions using virtual forward synthesis (VFS) to generate over 7 million ROP polymers and machine learning techniques to rapidly predict thermal, thermodynamic and mechanical properties crucial for application-specific performance and recyclability. This combined methodology enables the generation and evaluation of millions of hypothetical ROP polymers from known and commercially available molecules, guiding the selection of approximately 35,000 candidates with optimal features for sustainability and practical utility. Three of these recommended candidates have passed validation tests in the physical lab - two of the three by others, as published previously elsewhere, and one of them is a new thiocane polymer synthesized, tested and reported here. This paper presents the framework, methodology, and initial findings of our study, highlighting the potential of VFS and machine learning to enable a large-scale search of the polymer universe and advance the development of recyclable and environmentally benign polymers.",
+  "authors": [
+   "Joseph Kern",
+   "Yongliang Su",
+   "Will Gutekunst",
+   "Rampi Ramprasad"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "26 pages, 6 figures",
+  "first_author": "Joseph Kern",
+  "pdf_url": "http://arxiv.org/pdf/2409.15354",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-09-13",
+  "tags": [
+   "mechanical-properties",
+   "polymerization",
+   "ring-opening-polymerization"
+  ],
+  "title": "An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2024-09-13"
+ },
+ "2409.15358": {
+  "abstract": "The resolution-line edge roughness-sensitivity tradeoff has motivated exploration of potential improvements using defined sequence polymers and polymer-bound photoacid generators and quenchers. In this study we characterize the internal structures of positive tone photoresist polymer films formed from defined sequence polymers and compare them to random copolymers of the same composition. We model their imaging to connect initial to developable film structures. We use a polymer packing algorithm to simulate films of diverse compositions and locations of photoacid generators and quenchers, using the composition of an ESCAP photoresist. We use a simple EUV exposure-deprotection algorithm to model developable image formation within them. In all cases, the spatial distribution of chemical moieties in the film for defined sequence polymers is nearly indistinguishable from random copolymers. We evaluate several exposure-deprotection scenarios, and find that a defined sequence copolymer has a distinctive developable image under certain circumstances. The use of defined sequence polymers within a photoresist layer does not automatically result in improved imaging, however they do have some characteristics different from random polymers of the same composition. Further study of these characteristics may provide a route to improved control over the nanoscale imaging process.",
+  "authors": [
+   "William D. Hinsberg",
+   "Frances A. Houle"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "William D. Hinsberg",
+  "pdf_url": "http://arxiv.org/pdf/2409.15358",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-17",
+  "tags": [],
+  "title": "A Comparison of the Spatial Statistics of Random and Defined-Sequence Photoresist Films",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2024-09-17"
+ },
+ "2409.15508": {
+  "abstract": "Quantifying fiber disarray, which is a prominent maladaptation associated with hypertrophic cardiomyopathy, remains critical to understanding the disease's complex pathophysiology. This study investigates the role of heterogeneous impairment of fiber contractility and fibrosis in the induction of disarray and their subsequent impact on cardiac pumping function. Fiber disarray is modeled via a stress-based fiber reorientation law within a multiscale finite element cardiac modeling framework called MyoFE. Using multiscale modeling capabilities, this study quantifies the distinct impacts of hypocontractility, hypercontractility and fibrosis on the development of fiber disarray and quantifies how their contributions affect the functional characteristics of the heart.",
+  "authors": [
+   "Mohammad Mehri",
+   "Hossein Sharifi",
+   "Kenneth S. Campbell",
+   "Jonathan F. Wenk"
+  ],
+  "categories": [
+   "q-bio.TO"
+  ],
+  "comment": null,
+  "first_author": "Mohammad Mehri",
+  "pdf_url": "http://arxiv.org/pdf/2409.15508",
+  "primary_category": "q-bio.TO",
+  "published": "2024-09-23",
+  "tags": [
+   "multiscale-modeling"
+  ],
+  "title": "Multi-Scale Fiber Remodeling in HCM Using a Stress-Based Fiber Reorientation Law",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-23"
+ },
+ "2409.15775": {
+  "abstract": "We report avalanche criticality of thermal relaxation in glassy systems after a rapid quench by molecular simulation. Our analysis of the energy landscape and the scaling reveals that particle rearrangement is critical. The critical phenomenon has the same origin as avalanches in sheared amorphous solids, but the critical exponent differs from previously observed. Our results suggest that by viewing a glass as a thermally driven elastoplastic material, we can understand dynamics below the glass transition point, such as aging.",
+  "authors": [
+   "Yuki Takaha",
+   "Hideyuki Mizuno",
+   "Atsushi Ikeda"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "6 pages, 4 figures + 5 pages, 6 figures in Supplemental Material",
+  "first_author": "Yuki Takaha",
+  "pdf_url": "http://arxiv.org/pdf/2409.15775",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-24",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Avalanche criticality emerges by thermal fluctuation in a quiescent glass",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-24"
+ },
+ "2409.15856": {
+  "abstract": "Irradiation of materials in nuclear test reactors and power plants is known to alter the properties of the material. The irradiation event happening at pico- or nanosecond time scales are affecting the evolution and properties of the material on macroscopic timescales. Classical Molecular Dynamics simulations, which can capture the cascade event, are typically limited to nanosecond time scales, resulting in high dose rates. To achieve experimental dose rates, larger-scale models like Object Kinetic Monte Carlo are used, while they lack atomistic detail. The exact evolution of cascades in the vicinity of pre-existing defects is known to affect the defects formed, and the structure and morphology of the defects produced are crucial to know for determining macroscopic material behavior. Here we introduce a novel approach to integrate full Molecular Dynamics-based cascades into Object Kinetic Monte Carlo to achieve accurate dose rates, with the atomistic level accuracy of cascade overlap in tungsten. Our study reveals that incorporating full cascades significantly influences defect concentration levels. Not only is the concentration affected, but also the cluster statistics. We observe both that the full cascade can promote vacancy clustering at low temperatures and it can split existing voids at higher temperatures. These effects are missing in conventional Object Kinetic Monte Carlo simulations. This can be especially important in more complex materials, where many cascade-overlap effects are present.",
+  "authors": [
+   "Jintong Wu",
+   "Juan-Pablo Balbuena",
+   "Zhiwei Hu",
+   "Ville Jantunen",
+   "Marie-France Barthe",
+   "Maria Jose Caturla",
+   "Fredric Granberg"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jintong Wu",
+  "pdf_url": "http://arxiv.org/pdf/2409.15856",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-24",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo",
+   "polymer-morphology"
+  ],
+  "title": "High-dose long-time defect evolution in tungsten studied by atomistically informed Object Kinetic Monte Carlo simulations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-24"
+ },
+ "2409.15935": {
+  "abstract": "Elastoviscoplastic (EVP) fluids, which exhibit both solid-like and liquid-like behavior depending on the applied stress, are critical in industrial processes involving complex geometries such as porous media and wavy channels. In this study, we investigate how flow characteristics and channel design affect EVP fluid flow through a wavy channel, using numerical simulations supported by microfluidic experiments. Our results reveal that elasticity significantly influences flow dynamics, reducing pressure drops and expanding unyielded regions. Notably, we find that even minimal elasticity can shift the flow from steady to time-dependent regimes, a transition less pronounced in viscoelastic fluids. Additionally, we show that the development of stagnation regions can be prevented when using a modified EVP fluid with enhanced elasticity, thus providing a full global yielding of the material. This study elucidates the role of elasticity in modifying flow patterns and stress distribution within EVP fluids, offering insights into the optimization of industrial applications, such as the displacement of yield stress fluids in enhanced oil recovery, gas extraction, cementing, and other processes where flow efficiency is critical.",
+  "authors": [
+   "Mohamed S. Abdelgawad",
+   "Simon J. Haward",
+   "Amy Q. Shen",
+   "Marco E. Rosti"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "15 pages, 19 figures",
+  "first_author": "Mohamed S. Abdelgawad",
+  "pdf_url": "http://arxiv.org/pdf/2409.15935",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-09-24",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "The interplay of plasticity and elasticity in elastoviscoplastic flows in wavy channels",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-24"
+ },
+ "2409.16169": {
+  "abstract": "Recent advances in manufacturing of flexible and conformable microelectronics have opened opportunities for health monitoring and disease treatment. Other material engineering advances, such as the development of conductive, skin-like hydrogels, liquid metals, electric textiles, and piezoelectric films provide safe and comfortable means of interfacing with the human body. Together, these advances have enabled the design and engineering of bioelectronic devices with integrated multimodal sensing and stimulation capabilities to be worn nearly anywhere on the body. Of particular interest here, the external ear (auricle) offers a unique opportunity to design scalable bioelectronic devices with a high degree of usability and familiarity given the broad use of headphones. This perspective article discusses recent design and engineering advances in the development of auricular bioelectronic devices capable of physiological and biochemical sensing, cognitive monitoring, targeted neuromodulation, and control for human-computer interactions. Stemming from this scalable foundation, there will be increased growth and competition in research and engineering to advance auricular bioelectronics. This activity will lead to increased adoption of these smart headphone-style devices by patients and consumers for tracking health, treating medical conditions, and enhancing human-computer interactions.",
+  "authors": [
+   "William J. Tyler"
+  ],
+  "categories": [
+   "q-bio.NC"
+  ],
+  "comment": "21 pages, 6 figures",
+  "first_author": "William J. Tyler",
+  "pdf_url": "http://arxiv.org/pdf/2409.16169",
+  "primary_category": "q-bio.NC",
+  "published": "2024-09-24",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Auricular Bioelectronic Devices for Health, Medicine, and Human-Computer Interfaces",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-09-24"
+ },
+ "2409.16250": {
+  "abstract": "The incorporation of ceramics into polymers, forming solid composite electrolytes (SCEs) leads to enhanced electrical performance of all-solid-state lithium metal batteries. This is because the dispersed ceramics particles increase the ionic conductivity, while the polymer matrix leads to better contact performance between the electrolyte and the electrode. In this study, we present a model, based on Hybrid Elements Methods, for the time-dependent Li metal and SCE rough interface mechanics, taking into account for the oxide (ceramics) inclusions (using the Equivalent Inclusion method), and the viscoelasticity of the matrix. We study the effect of LLTO particle size, weight concentration, and spatial distribution on the interface mechanical and electrical response. Moreover, considering the viscoelastic spectrum of a real PEO matrix, under a given stack pressure, we investigate the evolution over time of the mechanical and electrical performance of the interface. The presented theoretical/numerical model might be pivotal in tailoring the development of advanced solid state batteries with superior performance; indeed, we found that conditions in the SCE mixture which optimize both the contact resistivity and the interface stability in time.",
+  "authors": [
+   "Ao Cheng",
+   "Linlin Sun",
+   "Nicola Menga",
+   "Wanyou Yang",
+   "Xin Zhang"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Ao Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2409.16250",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-24",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "Interfacial performance evolution of ceramics-in-polymer composite electrolyte in solid-state lithium metal batteries",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-24"
+ },
+ "2409.16318": {
+  "abstract": "Extrusion 3D-printing of biopolymers and natural fiber-based biocomposites allows for the fabrication of complex structures, ranging from gels for healthcare applications to eco-friendly structural materials. However, traditional polymer extrusion demands high-energy consumption to pre-heat the slurries and reduce material viscosity. Additionally, natural fiber reinforcement often requires harsh treatments to improve adhesion to the matrix. Here, we overcome these challenges by introducing a systematic framework to fabricate natural biocomposite materials via a sustainable and scalable process. Using Chlorella vulgaris microalgae as the matrix, we optimize the bioink composition and the 3D-printing process to fabricate multifunctional, lightweight, hierarchical materials. A systematic dehydration approach prevents cracking and failure of the 3D-printed structure, maintaining a continuous morphology of aggregated microalgae cells that can withstand high shear forces during processing. Hydroxyethyl cellulose acts as a binder and reinforcement for Chlorella cells, leading to biocomposites with a bending stiffness above 1.5 GPa. The Chlorella biocomposites demonstrate isotropic heat transfer, functioning as effective thermal insulators with a thermal conductivity of 0.10 W/mK at room temperature. These materials show promise in applications requiring balanced thermal insulation and structural capabilities, positioning them as a sustainable alternative to conventional materials in response to increasing global materials demand.",
+  "authors": [
+   "Israel Kellersztein",
+   "Daniel Tish",
+   "John Pederson",
+   "Martin Bechthold",
+   "Chiara Daraio"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "17 pages, 4 figures and supporting information",
+  "first_author": "Israel Kellersztein",
+  "pdf_url": "http://arxiv.org/pdf/2409.16318",
+  "primary_category": "physics.bio-ph",
+  "published": "2024-09-17",
+  "tags": [
+   "extrusion",
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Thermo-mechanical Properties of Hierarchical Biocomposite Materials from Photosynthetic Microorganisms",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-17"
+ },
+ "2409.16509": {
+  "abstract": "We study hyperuniform properties for the square-triangle tilings. The tiling is generated by a local growth rule, where squares or triangles are iteratively attached to its boundary. The introduction of the probability $p$ in the growth rule, which controls the expansion of square and triangle domains, enables us to obtain various square-triangle random tilings systematically. We analyze the degree of the regularity of the point configurations, which are defined as the vertices on the square-triangle tilings, in terms of hyperuniformity. It is clarified that for $p<p_c \\; (p_c\\sim 0.5)$, the system can be regarded as a phase separation between square and triangular lattice domains and the variance of the point configurations obeys the scaling law $σ^2\\sim O(R^{2-α})$ with $α<0$. The configurations are antihyperuniform. On the other hand, for $p>p_c$, the squares and triangles are spatially well mixed and the point configurations belong to the hyperuniform class III with the exponent $0<α<1$. This means the existence of the hyperuniform-antihyperuniform transition at $p=p_c$. We also examine the structure factor of the square-triangle tilings. It is clarified that the peak structures in the large-wave-number regime are mostly common to all square-triangle tilings, while those in the small-wave-number regime strongly depend on whether the point configurations are hyperuniform or antihyperuniform.",
+  "authors": [
+   "Akihisa Koga",
+   "Shiro Sakai",
+   "Yushu Matsushita",
+   "Tsutomu Ishimasa"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "14 pages, 18 figures",
+  "first_author": "Akihisa Koga",
+  "pdf_url": "http://arxiv.org/pdf/2409.16509",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-24",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Hyperuniform properties of the square-triangle tilings",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-24"
+ },
+ "2409.16712": {
+  "abstract": "The recent study of viscoelastic amorphous oxychloride electrolytes has opened up a new field of research for solid-state electrolytes. In this work, we chose Li-Al-O-Cl system containing disordered structures with varying O/Cl ratio and Li$^+$ content to study their structural characteristics and ion transport mechanism using ab-initio molecular dynamics (AIMD) simulation and machine learning interatomic potential based molecular dynamics (MLIP-based MD) simulation. It is found that O-doping results in the presence of a skeleton of Al-chains formed by AlOCl tetrahedra and the increase of glass forming ability, causing Cl atoms' rotation around centered-Al within the tetrahedron thus facilitating the motion of Li$^+$ ions. However, further increase of O/Cl ratio decreases the number of rotating Cl atoms, weakening the transport of Li$^+$. So increasing glass forming ability without reducing Cl content or by methods through controlling synthesis conditions, are useful to promote Li$^+$ ion conducting of oxychloride electrolytes.",
+  "authors": [
+   "Yang Qifan",
+   "Xu Jing",
+   "Fu Xiao",
+   "Lian Jingchen",
+   "Wang Liqi",
+   "Gong Xuhe",
+   "Xiao Ruijuan",
+   "Li Hong"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Yang Qifan",
+  "pdf_url": "http://arxiv.org/pdf/2409.16712",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-25",
+  "tags": [
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "Atomic insight into Li$^+$ ion transport in amorphous electrolytes Li$_x$AlO$_y$Cl$_{3+x-2y}$ (0.5 $\\leq$ x $\\leq$ 1.5, 0.25 $\\leq$ y $\\leq$ 0.75)",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-25"
+ },
+ "2409.16725": {
+  "abstract": "The viscosity of supercooled liquids notably increases with decreasing temperature, leading to solidification through a glass transition. This process is accompanied by dynamic heterogeneity, characterized by persistent dynamic spatial correlations. This study investigates how dynamic heterogeneity influences the applicability of the Navier-Stokes equations to the flow of supercooled liquids. Utilizing molecular dynamics simulations, we subjected a two-dimensional supercooled liquid to a localized dipolar force field and compared the resulting steady velocity field with the prediction from the Navier-Stokes equations. Our approach captures a significant breakdown of the Navier-Stokes equations in real space; specifically, supercooled liquids flow more rapidly near the external force than the prediction from the Navier-Stokes equations. Furthermore, this deviation is enhanced by the supercooling and is accompanied by the growth of dynamic heterogeneity.",
+  "authors": [
+   "Kento Maeda",
+   "Atsushi Ikeda"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "8 pages, 6 figures",
+  "first_author": "Kento Maeda",
+  "pdf_url": "http://arxiv.org/pdf/2409.16725",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-25",
+  "tags": [
+   "glass-transition",
+   "mlff",
+   "molecular-dynamics"
+  ],
+  "title": "Flow of supercooled liquids under dipolar force field",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.17292": {
+  "abstract": "Protein compartmentalization in the frame of a liquid-liquid phase separation is a key mechanism to optimize spatiotemporal control of biological systems. Such a compartmentalization process reduces the intrinsic noise in protein concentration due to stochasticity in gene expression. Employing Flory-Huggins solution theory, Avramov/Casalini's model, and the Grüneisen parameter, we unprecedentedly propose a cellular Griffiths-like phase (CGLP), which can impact its functionality and self-organization. The here-proposed CGLP is key ranging from the understanding of primary organisms' evolution to the treatment of diseases. Our findings pave the way for an alternative Biophysics approach to investigate coacervation processes.",
+  "authors": [
+   "Lucas Squillante",
+   "Isys F. Mello",
+   "Luciano S. Ricco",
+   "Marcos F. Minicucci",
+   "Aniekan Magnus Ukpong",
+   "Antonio C. Seridonio",
+   "Roberto E. Lagos-Monaco",
+   "Mariano de Souza"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "13 pages, 2 figures, suppl. material upon request",
+  "first_author": "Lucas Squillante",
+  "pdf_url": "http://arxiv.org/pdf/2409.17292",
+  "primary_category": "physics.bio-ph",
+  "published": "2024-09-25",
+  "tags": [
+   "flory-huggins",
+   "phase-separation"
+  ],
+  "title": "Cellular Griffiths-like phase",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-25"
+ },
+ "2409.17293": {
+  "abstract": "The revolutionary advancements in metal additive manufacturing have enabled the production of alloy-based lattice structures with complex geometrical features and high resolutions. This has encouraged the development of nonlinear material models, including plasticity, damage, etc., for such materials. However, the prohibitive computational cost arising from the high number of degrees of freedom for engineering structures composed of lattice structures highlights the necessity of homogenization techniques, such as the two-scale computational homogenization method. In the present work, a two-scale homogenization approach with on-the-fly exchange of information is adopted to study the elastoplastic behavior of truss-based lattice structures. The macroscopic homogenized structure is represented by a two-dimensional continuum, while the underlying microscale lattices are modeled as a network of one-dimensional truss elements. This helps to significantly reduce the associated computational cost by reducing the microscopic degrees of freedom. The microscale trusses are assumed to exhibit an elastoplastic material behavior characterized by a combination of nonlinear exponential isotropic hardening and linear kinematic hardening. Through multiple numerical examples, the performance of the adopted homogenization approach is examined by comparing forces and displacements with direct numerical simulations of discrete structures for three types of stretching-dominated lattice topologies, including triangular, X-braced and X-Plus-braced unit cells. Furthermore, the principle of scale separation, which emphasizes the need for an adequate separation between the macroscopic and microscopic characteristic lengths, is investigated.",
+  "authors": [
+   "Hooman Danesh",
+   "Lisamarie Heußen",
+   "Francisco J. Montáns",
+   "Stefanie Reese",
+   "Tim Brepols"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Hooman Danesh",
+  "pdf_url": "http://arxiv.org/pdf/2409.17293",
+  "primary_category": "cs.CE",
+  "published": "2024-09-25",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "A two-scale computational homogenization approach for elastoplastic truss-based lattice structures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-25"
+ },
+ "2409.17585": {
+  "abstract": "Heterogeneous distribution of passive and active domains in the chromosome plays a crucial role for its dynamic organization within the cell nucleus. Motivated by that here we investigate the steady-state conformation and dynamics of a model active-block copolymer using numerical simulations. Our results show that depending on the relative arrangements of the active and passive blocks, the polymer shows an unusual swelling, even larger than the corresponding fully active polymer. On the one hand, the dynamics of the full polymer show usual enhanced diffusion and Rouse-like scaling behavior. On the other hand, individual passive and active blocks show anomalous transient super- and sub-diffusive dynamics. We characterize this anomalous dynamics in terms of the dependence of a generalized diffusion constant with the polymer length and activity strength.",
+  "authors": [
+   "Suman Majumder",
+   "Subhajit Paul"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "9 pages, 6 figures",
+  "first_author": "Suman Majumder",
+  "pdf_url": "http://arxiv.org/pdf/2409.17585",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-26",
+  "tags": [
+   "block-copolymer"
+  ],
+  "title": "Anomalous Conformations and Dynamics of Active Block Copolymers",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.17940": {
+  "abstract": "Identifying ordered structures hidden in the packings of particles is a common scientific question in multiple fields. In this work, we investigate the dynamical organizations of a large number of initially randomly packed repulsive particles confined on a disk under the Hamiltonian dynamics by the recently developed algorithm called the random batch method. This algorithm is specifically designed for reducing the computational complexity of long-range interacting particle systems. We highlight the revealed intrinsic statistical regularity of topological charges that is otherwise unattainable by the continuum analysis of particle density. We also identify distinct collective dynamics of the interacting particles under short- and long-range repulsive forces. This work shows the robustness and effectiveness of the concept of topological charge for characterizing the convoluted particle dynamics, and demonstrates the promising potential of the random batch method for exploring fundamental scientific questions arising in a variety of long-range interacting particle systems in soft matter physics and other relevant fields.",
+  "authors": [
+   "Ranzhi Sun",
+   "Zhenwei Yao"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "9 pages, 6 figures",
+  "first_author": "Ranzhi Sun",
+  "pdf_url": "http://arxiv.org/pdf/2409.17940",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-26",
+  "tags": [
+   "soft-matter"
+  ],
+  "title": "Intrinsic statistical regularity of topological charges revealed in dynamical disk model",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.17973": {
+  "abstract": "Fe-based shape memory alloys (Fe-SMAs) belong to smart metallic materials that can memorize or restore their preset shape after experiencing a substantial amount of deformation under heat, stress, or magnetic stimuli. Fe-SMAs have remarkable thermomechanical properties and have attracted significant interest because of their potential merits, such as cost-effective alloying elements, superior workability, weldability, a stable superelastic response, and low-temperature dependence of critical stress required for stress-induced martensitic transformation. Therefore, Fe-SMAs can be an intriguing and economical alternative to other SMAs. The recent advancements in fabrication methods of conventional metals and SMAs are helping the production of customized powder composition and then customized geometries by additive manufacturing (AM). The technology in these areas, i.e., fabrication techniques, experimental characterization, and theoretical formulations of Fe-SMAs for conventional and AM has been rapidly advancing and is lacking a comprehensive review. This paper provides a critical review of the recent developments in Fe-SMAs-related research. The conventional and AM-based methods of producing Fe-SMAs are discussed, and a detailed review of the current research trends on Fe-SMAs including 4-D printing of Fe-SMAs are comprehensively documented. The presented review provides a comprehensive review of experimental methods and processes used to determine the material characteristics and features of Fe-SMAs. In addition, the work provides a review of the reported computational modeling of Fe-SMAs to help design new Fe-SMA composition and geometry. Finally, different Fe-SMAs-based applications such as sensing and damping systems, tube coupling, and reinforced concrete are also discussed.",
+  "authors": [
+   "Anwar Algamal",
+   "Hossein Abedi",
+   "Umesh Gandhi",
+   "Othmane Benafan",
+   "Mohammad Elahinia",
+   "Ala Qattawi"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Comprehensive review on the status of art on producing iron-based shape memory alloy. 42 pages of manuscript excluding references list",
+  "first_author": "Anwar Algamal",
+  "pdf_url": "http://arxiv.org/pdf/2409.17973",
+  "primary_category": "physics.app-ph",
+  "published": "2024-09-26",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Manufacturing, processing, applications, and advancements of Fe-based shape memory alloys",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-09-26"
+ },
+ "2409.18683": {
+  "abstract": "Learning in neural networks critically hinges on the intricate geometry of the loss landscape associated with a given task. Traditionally, most research has focused on finding specific weight configurations that minimize the loss. In this work, born from the cross-fertilization of machine learning and theoretical soft matter physics, we introduce a novel, computationally efficient approach to examine the weight space across all loss values. Employing the Wang-Landau enhanced sampling algorithm, we explore the neural network density of states - the number of network parameter configurations that produce a given loss value - and analyze how it depends on specific features of the training set. Using both real-world and synthetic data, we quantitatively elucidate the relation between data structure and network density of states across different sizes and depths of binary-state networks.",
+  "authors": [
+   "Margherita Mele",
+   "Roberto Menichetti",
+   "Alessandro Ingrosso",
+   "Raffaello Potestio"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Margherita Mele",
+  "pdf_url": "http://arxiv.org/pdf/2409.18683",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-27",
+  "tags": [
+   "enhanced-sampling",
+   "soft-matter"
+  ],
+  "title": "Density of states in neural networks: an in-depth exploration of learning in parameter space",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.18767": {
+  "abstract": "Suppose we have an embedding of a graph $\\mathbf{G}$ created by subdividing the edges of a simpler graph $\\mathbf{G'}$. The edges of $\\mathbf{G}$ can be divided into subsets which join pairs of ``junction'' vertices in $\\mathbf{G'}$. The displacement vectors of the edges in each subset sum to the displacement between junctions. We can construct a family of embeddings of $\\mathbf{G}$ with the same junction positions by rearranging the displacements in each group. In this paper, we show that the average (squared) radius of gyration of these embeddings is given by a simple formula involving a weighted (squared) radius of gyration of the positions of the junctions and the sum of the squares of the lengths of the edges of $\\mathbf{G}$ and $\\mathbf{G'}$. This ensemble of graph embeddings arises naturally in polymer science.",
+  "authors": [
+   "Jason Cantarella",
+   "Henrik Schumacher",
+   "Clayton Shonkwiler"
+  ],
+  "categories": [
+   "math.CO"
+  ],
+  "comment": "19 pages, 3 figures",
+  "first_author": "Jason Cantarella",
+  "pdf_url": "http://arxiv.org/pdf/2409.18767",
+  "primary_category": "math.CO",
+  "published": "2024-09-27",
+  "tags": [],
+  "title": "On the average squared radius of gyration of a family of embeddings of subdivision graphs",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.18929": {
+  "abstract": "Patchy particles are an intriguing subject of study and indeed a model system in the field of soft matter physics. In recent years, patchy particle models have been applied to describe a wide variety of systems, including colloidal crystals, macromolecular interactions, liquid crystals, and nanoparticle assemblies. Given the importance of the topic, rationalizing and capturing the basic features of these models is crucial to their correct application in specific systems. In this study, we extend the ion-activated attractive patchy particles model previously employed to elucidate the phase behavior of protein solutions in the presence of trivalent salts. Our extension incorporates the effect of repulsion between unoccupied and occupied binding sites, depicted as patches. Furthermore, we examine the influence of model parameters on the liquid-vapor coexistence region within the phase diagram, employing numerical methods. A deeper understanding of this model will facilitate a better comprehension of the effects observed in experiments.",
+  "authors": [
+   "Furio Surfaro",
+   "Fajun Zhang",
+   "Frank Schreiber",
+   "Roland Roth"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "10 pages, 8 Figures",
+  "first_author": "Furio Surfaro",
+  "pdf_url": "http://arxiv.org/pdf/2409.18929",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-27",
+  "tags": [
+   "soft-matter"
+  ],
+  "title": "The ion activated attractive patchy particles model and its application to the liquid-vapour phase transitions",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.19124": {
+  "abstract": "In addition to the forward inference of materials properties using machine learning, generative deep learning techniques applied on materials science allow the inverse design of materials, i.e., assessing the composition-processing-(micro-)structure-property relationships in a reversed way. In this review, we focus on the (micro-)structure-property mapping, i.e., crystal structure-intrinsic property and microstructure-extrinsic property, and summarize comprehensively how generative deep learning can be performed. Three key elements, i.e., the construction of latent spaces for both the crystal structures and microstructures, generative learning approaches, and property constraints, are discussed in detail. A perspective is given outlining the challenges of the existing methods in terms of computational resource consumption, data compatibility, and yield of generation.",
+  "authors": [
+   "Teng Long",
+   "Yixuan Zhang",
+   "Hongbin Zhang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "36 pages, 3 figures, 3 tables",
+  "first_author": "Teng Long",
+  "pdf_url": "http://arxiv.org/pdf/2409.19124",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-09-27",
+  "tags": [
+   "inverse-design",
+   "polymer-morphology"
+  ],
+  "title": "Generative deep learning for the inverse design of materials",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-09-27"
+ },
+ "2409.19803": {
+  "abstract": "Molecular-scale computation is crucial for smart materials and nanoscale devices, yet creating single-molecule systems capable of complex computations remains challenging. We present a theoretical framework for a single-molecule computer that performs temporal pattern recognition and complex information processing. Our approach introduces the concept of an energy seascape, extending traditional energy landscapes by incorporating control parameter degrees of freedom. By engineering a kinetic-thermodynamic discrepancy in folding dynamics, we demonstrate that a linear polymer with $N$ binary-state foldable units can function as a deterministic finite automaton, processing $2^N$ configurations. The molecule's dominant configuration evolves deterministically in response to mechanical signals, enabling recognition of complex temporal patterns. This design allows complete state controllability through non-equilibrium driving protocols. Our model opens avenues for molecular-scale computation with applications in biosensing, smart drug delivery, and adaptive materials. We discuss potential experimental realizations using DNA nanotechnology. This work bridges the gap between information processing devices and stochastic molecular systems, paving the way for sophisticated molecular computers rivaling biological systems in complexity and adaptability.",
+  "authors": [
+   "Zhongmin Zhang",
+   "Zhiyue Lu"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Zhongmin Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2409.19803",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-09-29",
+  "tags": [],
+  "title": "Single-molecule Automata: Harnessing Kinetic-Thermodynamic Discrepancy for Temporal Pattern Recognition",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-29"
+ },
+ "2410.00092": {
+  "abstract": "Motivated by the rapid experimental progress in twisted van der Waals materials, we study the triangular trimer model as a representative framework for extended Wannier orbitals in twisted bilayer graphene at 1/3-filling. This deceptively simple model exhibits a rich suite of complex phases, including unusual excitations exhibiting the physics of fractionalization and fractons. For our investigations, we carry out extensive Monte Carlo simulations using an efficient cluster algorithm. The so-obtained finite-temperature phase diagram reveals a novel polar fluid and an ordered brick-wall phase characterized by fractionally charged $e/3$ excitations with subdimensional lineonic dynamics. Notably, we identify a critical trimer liquid phase for the particularly simple model of hard trimers. For this, we derive a new field theory which takes the form of a U(1)$\\times$U(1) gauge theory. Its $e/3$ monomers are fractionalized bionic excitations: they carry a {\\it pair} of emergent gauge charges, as evidenced by algebraic correlations with two distinct exponents. These field theoretical predictions offer theoretical grounds for numerical observations of critical exponents. Our study highlights the triangular trimer model as a new key platform for investigating fractionalization and fractons, where trimer liquid bionic monomers can transform into lineons or fractons in proximate phases, and calls for experimental investigations of this physics in twisted van der Waals materials and a broader class of systems with intermediate-range interactions.",
+  "authors": [
+   "Kevin Zhang",
+   "Dan Mao",
+   "Eun-Ah Kim",
+   "Roderich Moessner"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "8+13 pages",
+  "first_author": "Kevin Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2410.00092",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-09-30",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Bionic fractionalization in the trimer model of twisted bilayer graphene",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-30"
+ },
+ "2410.02824": {
+  "abstract": "The demand for innovative synthetic polymers with improved properties is high, but their structural complexity and vast design space hinder rapid discovery. Machine learning-guided molecular design is a promising approach to accelerate polymer discovery. However, the scarcity of labeled polymer data and the complex hierarchical structure of synthetic polymers make generative design particularly challenging. We advance the current state-of-the-art approaches to generate not only repeating units, but monomer ensembles including their stoichiometry and chain architecture. We build upon a recent polymer representation that includes stoichiometries and chain architectures of monomer ensembles and develop a novel variational autoencoder (VAE) architecture encoding a graph and decoding a string. Using a semi-supervised setup, we enable the handling of partly labelled datasets which can be benefitial for domains with a small corpus of labelled data. Our model learns a continuous, well organized latent space (LS) that enables de-novo generation of copolymer structures including different monomer stoichiometries and chain architectures. In an inverse design case study, we demonstrate our model for in-silico discovery of novel conjugated copolymer photocatalysts for hydrogen production using optimization of the polymer's electron affinity and ionization potential in the latent space.",
+  "authors": [
+   "Gabriel Vogel",
+   "Jana M. Weber"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cs.LG"
+  ],
+  "comment": "24 pages, 20 figures",
+  "first_author": "Gabriel Vogel",
+  "pdf_url": "http://arxiv.org/pdf/2410.02824",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-09-30",
+  "tags": [
+   "generative-model",
+   "inverse-design"
+  ],
+  "title": "Inverse Design of Copolymers Including Stoichiometry and Chain Architecture",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2024-09-30"
+ },
+ "2410.05281": {
+  "abstract": "Heterogeneous materials, crucial in various engineering applications, exhibit complex multiscale behavior, which challenges the effectiveness of traditional computational methods. In this work, we introduce the Micromechanics Transformer ({\\em Micrometer}), an artificial intelligence (AI) framework for predicting the mechanical response of heterogeneous materials, bridging the gap between advanced data-driven methods and complex solid mechanics problems. Trained on a large-scale high-resolution dataset of 2D fiber-reinforced composites, Micrometer can achieve state-of-the-art performance in predicting microscale strain fields across a wide range of microstructures, material properties under any loading conditions and We demonstrate the accuracy and computational efficiency of Micrometer through applications in computational homogenization and multiscale modeling, where Micrometer achieves 1\\% error in predicting macroscale stress fields while reducing computational time by up to two orders of magnitude compared to conventional numerical solvers. We further showcase the adaptability of the proposed model through transfer learning experiments on new materials with limited data, highlighting its potential to tackle diverse scenarios in mechanical analysis of solid materials. Our work represents a significant step towards AI-driven innovation in computational solid mechanics, addressing the limitations of traditional numerical methods and paving the way for more efficient simulations of heterogeneous materials across various industrial applications.",
+  "authors": [
+   "Sifan Wang",
+   "Tong-Rui Liu",
+   "Shyam Sankaran",
+   "Paris Perdikaris"
+  ],
+  "categories": [
+   "cs.CE",
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "physics.comp-ph"
+  ],
+  "comment": "36 pages, 12 figures, 9 tables",
+  "first_author": "Sifan Wang",
+  "pdf_url": "http://arxiv.org/pdf/2410.05281",
+  "primary_category": "cs.CE",
+  "published": "2024-09-23",
+  "tags": [
+   "composites",
+   "multiscale-modeling"
+  ],
+  "title": "Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-09-23"
+ }
+}
