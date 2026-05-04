@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25920.html">Liquid anomalies and Fragility of Supercooled Antimony</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="mlff-90d.html">mlff</a></div></td>
 <td>Flavio Giuliani et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25920">2510.25920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08787.html">Molecular dynamics simulation of silicon nanoparticle crystallization during laser-induced forward transfer printing</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Youwen Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08787">2504.08787</a></td>
 </tr>
 </tbody></table>

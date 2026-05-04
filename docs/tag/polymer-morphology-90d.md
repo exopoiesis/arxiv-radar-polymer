@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div></td>
+<td>Kyra H. M. Klos et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00732">2605.00732</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27726.html">Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
@@ -302,17 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05958.html">Geometry and dynamical morphology of growing bacterial colonies</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Benjamin Evert Himberg et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05958">2602.05958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08787.html">Molecular dynamics simulation of silicon nanoparticle crystallization during laser-induced forward transfer printing</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Youwen Liang et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08787">2504.08787</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01788.html">Morphological Evolution of Nickel-Fullerene Thin Film Mixtures</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Giovanni Ceccio et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01788">2602.01788</a></td>
 </tr>
 </tbody></table>

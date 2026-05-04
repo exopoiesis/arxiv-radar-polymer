@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>extrusion — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <a href="extrusion-90d.html">90d</a> <strong>360d</strong> <a href="extrusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15349.html">Simulation of Micro-Void Development within Large Scale Additively Manufactured Polymer Composite Deposition Beads</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Aigbe E. Awenlimobor</td>
 <td><a href="http://arxiv.org/abs/2501.15349">2501.15349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05097.html">Mean pairwise distances in Rouse polymer subject to fast loop extrusion</a></div></td>
-<td>Ilya Nikitin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05097">2505.05097</a></td>
 </tr>
 </tbody></table>

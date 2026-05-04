@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1880,11 +1880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06153.html">Control of encounter kinetics by chemically active droplets</a></div></td>
 <td>Jacques Fries et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06153">2505.06153</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05377.html">Salt-induced gelation of nonionic sucrose ester dispersions</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="saxs-360d.html">saxs</a></div></td>
-<td>Diana Cholakova et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05377">2505.05377</a></td>
 </tr>
 </tbody></table>

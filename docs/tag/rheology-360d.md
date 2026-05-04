@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -716,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05089.html">Viscoelastic Worthington jets &amp; droplets produced by bursting bubbles</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Ayush K. Dixit et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05089">2408.05089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05377.html">Salt-induced gelation of nonionic sucrose ester dispersions</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="saxs-360d.html">saxs</a></div></td>
-<td>Diana Cholakova et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05377">2505.05377</a></td>
 </tr>
 </tbody></table>

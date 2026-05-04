@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20028.html">Capillary wave formation in conserved active emulsions</a></div></td>
 <td>Florian Raßhofer et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20028">2505.20028</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05290.html">SmartTrap: Automated Precision Experiments with Optical Tweezers</a></div></td>
-<td>Martin Selin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05290">2505.05290</a></td>
 </tr>
 </tbody></table>

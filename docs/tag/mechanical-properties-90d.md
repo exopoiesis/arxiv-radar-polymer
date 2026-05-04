@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">139 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,17 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04005.html">Local strong solutions in a quasilinear Moore-Gibson-Thompson type model for thermoviscoelastic evolution in a standard linear solid</a></div></td>
 <td>Leander Claes et al.</td>
 <td><a href="http://arxiv.org/abs/2602.04005">2602.04005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.01891.html">On Large Deformations of Oldroyd-B Drops in a Steady Electric Field</a></div></td>
-<td>Sarika Shivaji Bangar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.01891">2602.01891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02297.html">Spectral Analysis of Brownian Motion with its Rheological Analogues</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Nicos Makris</td>
-<td><a href="http://arxiv.org/abs/2602.02297">2602.02297</a></td>
 </tr>
 </tbody></table>

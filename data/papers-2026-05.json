@@ -1,0 +1,51 @@
+{
+ "2605.00381": {
+  "abstract": "The study of black hole thermodynamics becomes a central topic in gravitational physics, where the first law and the Smarr relation establish a deep connection between spacetime geometry and thermodynamic laws. As we know, these relations depend on the entropy; any modification to the entropy arising from quantum gravity or generalized statistical mechanics may impact the basic thermodynamic framework of black holes. In this work, we develop a general framework for deriving the first law of black hole thermodynamics and the associated Smarr relation for generic spherically symmetric spacetime under a wide class of generalized entropy models. In addition, a generalized Ruppeiner thermodynamic geometry is developed to utilize the generalized entropy model, from which the curvature scalar is determined in a general form. To demonstrate this framework, we assume the Resinser-Nordström black hole and investigate the corresponding extremal and non-extremal phase transition. Interestingly, our analysis reveals that entropy models consistent with the Abè-type composition rule result in a vanishing thermodynamic curvature, whereas violations of this rule exhibit curvature divergences, suggesting a geometric test for the consistency of generalized entropy models.",
+  "authors": [
+   "Usman Zafar",
+   "Krishnakanta Bhattacharya",
+   "Kazuharu Bamba"
+  ],
+  "categories": [
+   "gr-qc",
+   "hep-th"
+  ],
+  "comment": "15 pages",
+  "first_author": "Usman Zafar",
+  "pdf_url": "http://arxiv.org/pdf/2605.00381",
+  "primary_category": "gr-qc",
+  "published": "2026-05-01",
+  "tags": [],
+  "title": "Generalized First Law and Smarr Formula: Beyond Additivity and Extensivity",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.00732": {
+  "abstract": "Localized topological defects inherently possess a multiscale character. While their microstructure configuration depends on the specific physical system, their topological features and mutual interactions can be described on the macroscale in terms of a particle representation. However, determining the physical properties associated with a given defect pattern often requires knowledge of the underlying microscopic structure. In this work, we extend a Wasserstein generative adversarial neural network by incorporating physical constraints and Fourier-space information to generate microscopic spin configurations consistent with prescribed macroscopic patterns and thermodynamic parameters. Using the two-dimensional XY model as a test case, where vortex-antivortex pairs act as long-range interacting defects, we show that the model generates spin configurations that accurately reproduce magnetization, susceptibility, helicity modulus, and spin-spin correlations over a wide range of temperatures below the Kosterlitz-Thouless transition. At the same time, deviations in the specific heat reveal limitations in reproducing higher order energy fluctuations. A complementary analysis based on topological data analysis uncovers subtle differences in global spin-correlation structures at near critical temperatures that are not apparent from conventional correlation functions alone. These results demonstrate both the promise and current limitations of generative approaches for multiscale studies of defect-dominated spin systems and at the same time highlight topological methods as valuable tools for characterizing critical behavior.",
+  "authors": [
+   "Kyra H. M. Klos",
+   "Jan Disselhoff",
+   "Michael Wand",
+   "Karin Everschor-Sitte",
+   "Friederike Schmid"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Kyra H. M. Klos",
+  "pdf_url": "http://arxiv.org/pdf/2605.00732",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-01",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Reconstruction of spin structures from topological charge distributions via generative neural network systems",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-01"
+ }
+}

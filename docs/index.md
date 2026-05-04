@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-03._
+_Updated 2026-05-04._
 
-**2962** polymer-relevant papers across **22** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**2964** polymer-relevant papers across **23** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00381.html">Generalized First Law and Smarr Formula: Beyond Additivity and Extensivity</a></div></td>
+<td>Usman Zafar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00381">2605.00381</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Kyra H. M. Klos et al.</td>
+<td><a href="http://arxiv.org/abs/2605.00732">2605.00732</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2509.12571.html">Anomalous statistics in the Langevin equation with fluctuating diffusivity: from Brownian yet non-Gaussian diffusion to anomalous diffusion and ergodicity breaking</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-05-03._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25852.html">Efficient boundary elements for the Smoluchowski diffusion equation</a></div><div class="paper-tags"><a href="tag/rheology-30d.html">rheology</a> · <a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
 <td>Ignacio Labarca-Figueroa et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25852">2604.25852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.26033.html">A new diffuse reflector filament for additive manufacturing of 3D printing finely-segmented plastic scintillator</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>A. Krech et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26033">2604.26033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2506.22842.html">Actively induced supercoiling can slow down plasmid solutions by trapping the threading entanglements</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Roman Staňo et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22842">2506.22842</a></td>
 </tr>
 </tbody></table>
