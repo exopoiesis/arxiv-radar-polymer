@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Jingsen Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01774">2605.01774</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25079.html">Lie symmetry classification and invariant solutions of time-fractional telegraph systems with variable coefficients</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Sodbaatar Adiya et al.</td>
@@ -704,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02663.html">Determination of Preferred Fiber Orientation State based on Newton-Raphson Method using Exact Jacobian</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Aigbe Awenlimobor et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02663">2501.02663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05919.html">Efficient parallel algorithms for free-energy calculation of millions of water molecules in the fluid phases</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Luis Enrique Coronas et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05919">2505.05919</a></td>
 </tr>
 </tbody></table>

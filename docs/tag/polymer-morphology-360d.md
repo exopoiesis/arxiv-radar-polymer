@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Jingsen Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01774">2605.01774</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div></td>
 <td>Kyra H. M. Klos et al.</td>
@@ -1070,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17154.html">Phase-field modeling of radiation-induced composition redistribution: An application to additively manufactured austenitic Fe-Cr-Ni</a></div></td>
 <td>Sourabh Bhagwan Kadambi et al.</td>
 <td><a href="http://arxiv.org/abs/2501.17154">2501.17154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06194.html">ProME: An Integrated Computational Platform for Material Properties at Extremes and Its Application in Multicomponent Alloy Design</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Xingyu Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06194">2505.06194</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <strong>90d</strong> <a href="thermal-conductivity-360d.html">360d</a> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.14956.html">Bending strain induced thermal conductivity suppression in freestanding BaTiO3 and SrTiO3 membranes</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>Ziyan Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2601.14956">2601.14956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.04020.html">Thermal conductivity of various CFRPs from 100 mK to 20 K</a></div></td>
-<td>Valentin Sauvage</td>
-<td><a href="http://arxiv.org/abs/2602.04020">2602.04020</a></td>
 </tr>
 </tbody></table>

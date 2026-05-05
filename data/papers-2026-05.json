@@ -47,5 +47,101 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-01"
+ },
+ "2605.01183": {
+  "abstract": "We study one-dimensional viscoelastic phase transitions modeled by a Ginzburg--Landau energy with a non-convex cubic stress-strain law. Extending the isothermal model, we couple the momentum equation to a heat equation for the temperature field, giving a thermoelastic system with viscous, capillary, and thermal-diffusion terms. We prove global existence and uniqueness of classical smooth solutions for the Cauchy problem, using a traveling-wave decomposition, an exponential transformation of the mechanical perturbation, and coupled energy estimates at successive regularity levels. Under additional integrability and small-data assumptions, the temperature perturbation decays algebraically.",
+  "authors": [
+   "M. Affouf"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "18 pages",
+  "first_author": "M. Affouf",
+  "pdf_url": "http://arxiv.org/pdf/2605.01183",
+  "primary_category": "math.AP",
+  "published": "2026-05-02",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01593": {
+  "abstract": "Recent laser-shock experiments on an H--He mixture containing 11~$\\%$ helium (atomic fraction) have suggested the presence of an immiscibility region inside Jupiter. Reflectivity measurements were used as the primary diagnostic of H--He demixing, with discontinuities in the optical reflectivity proposed as a signature of phase separation under conditions relevant to Jupiter's interior. Here, we investigate shock-compressed H--He using \\textit{ab initio} molecular dynamics simulations with optical properties evaluated within the Kubo--Greenwood formalism. The equation of state and ionic configurations were obtained using the thermal Tr$^2$SCANL meta-GGA exchange--correlation (XC) functional, while optical properties were computed using the recently developed RS-KDT0 range-separated thermal hybrid XC, which provides state-of-the-art accuracy for band-gap predictions in the warm dense matter regime. The calculated reflectivity shows overall good agreement with experimental measurements; however, no discontinuity is observed at elevated temperatures. Moreover, the reflectivity predictions for the mixed system are consistent with the experimental measurements in the temperature range where the mixture is inferred to be demixed. These results suggest that reflectivity alone may not provide a unique or sensitive diagnostic of H-He demixing at low helium concentrations under these conditions.",
+  "authors": [
+   "Ammar A. Ellaboudy",
+   "Valentin V. Karasiev",
+   "S. X. Hu"
+  ],
+  "categories": [
+   "cond-mat.other"
+  ],
+  "comment": null,
+  "first_author": "Ammar A. Ellaboudy",
+  "pdf_url": "http://arxiv.org/pdf/2605.01593",
+  "primary_category": "cond-mat.other",
+  "published": "2026-05-02",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "First-principles simulation of shocked H-He mixture along the principal Hugoniot",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01774": {
+  "abstract": "Many transport processes exhibit direction-dependent diffusion, described macroscopically by the full-tensor anisotropic advection--diffusion equation (ADE). Numerical discretization is demanding when the principal axes are rotated relative to the mesh, since mixed derivatives and oblique fluxes amplify grid-orientation errors under large tensor contrasts. This paper develops a local entropic lattice Boltzmann discretization for the general anisotropic ADE. The non-equilibrium population is split into a first-order flux sector and a residual ghost sector. The diffusion tensor is imposed through local tensorial relaxation of the flux, while higher-order kinetic content is controlled by an ADE-corrected entropic stabilizer with positivity fallback. Chapman--Enskog analysis shows the scheme recovers the target full-tensor equation with a discrete-time diffusivity relation between the physical tensor and the flux-relaxation matrix. The update is local, matrix-free, and applies to rotated, spatially varying, heterogeneous, and dynamically coupled tensor transport. We validate it on 3D benchmarks--advected Gaussian plumes, decay of rotated Fourier modes, and source-driven transport with varying tensors--covering off-diagonal diffusion, high-Péclet advection, anisotropy ratios of O(104)O(10^4) O(104), and local contrasts up to $3\\times10^4:1$. It is then applied to orientation-induced Taylor dispersion of Brownian rods, quantifying enhancement from shear-driven rotation. Heat-conduction tests include rotated thermal-conductivity measurements and effective conduction in heterogeneous porous media with anisotropy up to $10^4:1. Finally, anisotropic Rayleigh--Bénard convection is simulated to examine how plume morphology and heat transfer change over seven decades of anisotropy ratios, demonstrating an accurate, stable local solver for strongly anisotropic advection--diffusion.",
+  "authors": [
+   "Jingsen Feng",
+   "Jing Leng",
+   "Jingchao Jiang",
+   "Xu Chu"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Jingsen Feng",
+  "pdf_url": "http://arxiv.org/pdf/2605.01774",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-05-03",
+  "tags": [
+   "benchmarking",
+   "polymer-morphology"
+  ],
+  "title": "Entropic lattice Boltzmann method for general anisotropic advection--diffusion",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-03"
+ },
+ "2605.01820": {
+  "abstract": "Membrane separations rely on balancing rejection and permeability. Extensive work has clarified how pore structure and operating conditions control each quantity in idealized or weakly heterogeneous systems. However, it remains unclear how this trade-off emerges in strongly heterogeneous media, where coupled distributions of pore and particle sizes shape the local balance between advection and diffusion and generate substantial variability in performance among distribution realizations. Here we present a steric hindered-transport framework for spherical particles in cylindrical pores that explicitly resolves both single and coupled dual heterogeneity in size distributions. We show that the ensemble-averaged rejection increases with the particle-pore aspect ratio $λ$ and with the Péclet number $Pe$, while advection enhances steric exclusion by up to $\\sim$20\\% at intermediate $λ$. Dual heterogeneity broadens the distribution of effective $Pe$, increases the variability and incidence of anomalous rejection trends, while systematically shifting the rejection-permeability trade-off toward higher permeability at fixed rejection. These results suggest that controlled heterogeneity can serve as a design lever to expand the attainable operating space for simultaneous high selectivity and high throughput.",
+  "authors": [
+   "Debanik Bhattacharjee",
+   "Yaniv Edery",
+   "Guy Z. Ramon"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Debanik Bhattacharjee",
+  "pdf_url": "http://arxiv.org/pdf/2605.01820",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-03",
+  "tags": [],
+  "title": "Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-03"
  }
 }

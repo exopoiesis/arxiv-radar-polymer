@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-04._
+_Updated 2026-05-05._
 
-**2964** polymer-relevant papers across **23** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**2968** polymer-relevant papers across **23** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Jingsen Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01774">2605.01774</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01820.html">Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs</a></div></td>
+<td>Debanik Bhattacharjee et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01820">2605.01820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01183.html">Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>M. Affouf</td>
+<td><a href="http://arxiv.org/abs/2605.01183">2605.01183</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01593.html">First-principles simulation of shocked H-He mixture along the principal Hugoniot</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Ammar A. Ellaboudy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01593">2605.01593</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00381.html">Generalized First Law and Smarr Formula: Beyond Additivity and Extensivity</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-05-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25105.html">Prominent Signatures of Energy Transfer in Action-Detected Spectra of a Cyanobacterial Photosynthetic Protein</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Sayan Ghosh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25105">2604.25105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25302.html">Moving Cooling Source Induced Phase Separation in Binary Liquids: an interplay of competing velocities</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Lakshmipriya K et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25302">2604.25302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25497.html">Fundamental picture of the conduction mechanism in solid-state polymer electrolytes revealed by terahertz spectroscopy</a></div><div class="paper-tags"><a href="tag/polymer-electrolytes-30d.html">polymer-electrolytes</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Johanna Weidelt et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25497">2604.25497</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25575.html">Topochemical Fluorination of La$_2$NiO$_{4+δ}$ Single Crystals</a></div><div class="paper-tags"><a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Hasan Yilmaz et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25575">2604.25575</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.25852.html">Efficient boundary elements for the Smoluchowski diffusion equation</a></div><div class="paper-tags"><a href="tag/rheology-30d.html">rheology</a> · <a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Ignacio Labarca-Figueroa et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25852">2604.25852</a></td>
 </tr>
 </tbody></table>

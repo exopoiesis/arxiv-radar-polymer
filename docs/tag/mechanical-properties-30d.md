@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01183.html">Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions</a></div></td>
+<td>M. Affouf</td>
+<td><a href="http://arxiv.org/abs/2605.01183">2605.01183</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12571.html">Anomalous statistics in the Langevin equation with fluctuating diffusivity: from Brownian yet non-Gaussian diffusion to anomalous diffusion and ergodicity breaking</a></div></td>
 <td>Takuma Akimoto et al.</td>
@@ -284,11 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09708.html">i-Rheo-Tempo: A Model-Free, Quadrature-Free Reconstruction of the Shear Relaxation Modulus from Complex Viscosity</a></div></td>
 <td>Jorge Ramírez et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09708">2604.09708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03651.html">Pre-yielding mechanical response near the jamming transition</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Hidemasa Bessho et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03651">2604.03651</a></td>
 </tr>
 </tbody></table>
