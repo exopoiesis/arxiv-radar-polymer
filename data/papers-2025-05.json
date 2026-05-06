@@ -1,4 +1,103 @@
 {
+ "2405.00487": {
+  "abstract": "Recoverable strain is the strain recovered once a stress is removed from a body, in the direction opposite to that in which the stress had acted. To date, the phenomenon has been understood as being elastic in origin: polymer chains stretched in the direction of an imposed stress will recoil after the stress is removed, for example. Any unrecoverable strain is instead attributed to irreversible plastic deformations. Here we study theoretically strain recovery within the soft glassy rheology model, aimed at describing the rheology of elastoplastic yield stress fluids and amorphous soft solids. We consider a material subject to the switch-on of a shear stress that is held constant before later being set back to zero, after which the strain recovery is observed. After an initially fast recoil that is indeed elastic in nature, significant further strain recovery then occurs more slowly via the plastic yielding of elements with negative local stresses, opposite to that of the original shear. We elucidate the mechanism that underlies this behaviour, in terms of the evolution of the SGR model's population of elastoplastic elements. In particular, we show that the initial fast elastic recoil brings to a state of negative local stress those elements that had yielded during the forward straining while the load was applied. The subsequent delayed plastic yielding of these elements with negative stress is the origin of the slow ongoing strain recovery. In this way, counterintuitively, elements that had yielded plastically while the load was applied still contribute significantly to strain recovery after the sample is unloaded. This finding has important consequences for constitutive modeling, because such behaviour can only arise in a constitutive model that evolves a full distribution of local stresses (or multiple moments of such a distribution), rather than a single average stress.",
+  "authors": [
+   "Henry A. Lockwood",
+   "Suzanne M. Fielding"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "published in Journal of Rheology, 14 pages, 9 figures",
+  "first_author": "Henry A. Lockwood",
+  "pdf_url": "http://arxiv.org/pdf/2405.00487",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-05-01",
+  "tags": [
+   "rheology"
+  ],
+  "title": "Recoverable strain in amorphous materials: the role of ongoing plastic events following initial elastic recoil",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2025-05-06"
+ },
+ "2405.06007": {
+  "abstract": "Hexagonal boron nitride (h-BN) is a brittle ceramic with a layered structure, however, recent experiments have suggested that inter-layer structural engineering could be key to new structural and functional properties. Here we report the scalable bulk synthesis of high-density crystalline h-BN solids, by using high-temperature spark plasma sintering (SPS) of h-BN powders, which show high values of mechanical strength, ductility, dielectric constant, thermal conductivity, and exceptional neutron radiation shielding capability. Through exhaustive characterizations we reveal that SPS induces non-basal plane crystallinity, twisting of layers, and facilitates inter-grain fusion with a high degree of in-plane alignment across macroscale dimensions, resulting in near-theoretical density and improved properties. Our findings highlight the importance of material design, via new approaches such as layer twisting and interlayer interconnections, to create novel ceramics with properties that could go beyond their intrinsic limits.",
+  "authors": [
+   "Abhijit Biswas",
+   "Peter Serles",
+   "Gustavo A. Alvarez",
+   "Jesse Schimpf",
+   "Michel Hache",
+   "Jonathan Kong",
+   "Pedro Guerra Demingos",
+   "Bo Yuan",
+   "Tymofii S. Pieshkov",
+   "Chenxi Li",
+   "Anand B. Puthirath",
+   "Bin Gao",
+   "Tia Gray",
+   "Xiang Zhang",
+   "Jishnu Murukeshan",
+   "Robert Vajtai",
+   "Pengcheng Dai",
+   "Chandra Veer Singh",
+   "Jane Howe",
+   "Yu Zou",
+   "Lane W. Martin",
+   "James Patrick Clancy",
+   "Zhiting Tian",
+   "Tobin Filleter",
+   "Pulickel M. Ajayan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Authors revised version, 46 pages, 4 Main figures, 16 SI figures",
+  "first_author": "Abhijit Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2405.06007",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-05-09",
+  "tags": [
+   "crystallinity",
+   "thermal-conductivity"
+  ],
+  "title": "Anomalous properties of spark plasma sintered boron nitride solids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2025-05-20"
+ },
+ "2407.00355": {
+  "abstract": "Networks are ubiquitous in various fields, representing systems where nodes and their interconnections constitute their intricate structures. We introduce a network decomposition scheme to reveal multiscale core-periphery structures lurking inside, using the concept of locally defined nodal hub centrality and edge-pruning techniques built upon it. We demonstrate that the hub-centrality-based edge pruning reveals a series of breaking points in network decomposition, which effectively separates a network into its backbone and shell structures. Our local-edge decomposition method iteratively identifies and removes locally least connected nodes, and uncovers an onion-like hierarchical structure as a result. Compared with the conventional $k$-core decomposition method, our method based on relative information residing in local structures exhibits a clear advantage in terms of discovering locally crucial substructures. As an application of the method, we present a scheme to detect multiple core-periphery structures and the decomposition of coarse-grained supernode networks, by combining the method with the network community detection.",
+  "authors": [
+   "Wonhee Jeong",
+   "Unjong Yu",
+   "Sang Hoon Lee"
+  ],
+  "categories": [
+   "physics.soc-ph",
+   "cond-mat.stat-mech",
+   "cs.SI"
+  ],
+  "comment": "12 pages, 11 figures, 1 table",
+  "first_author": "Wonhee Jeong",
+  "pdf_url": "http://arxiv.org/pdf/2407.00355",
+  "primary_category": "physics.soc-ph",
+  "published": "2024-06-29",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Global decomposition of networks into multiple cores formed by local hubs",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-05-12"
+ },
  "2408.05089": {
   "abstract": "Bubble bursting and subsequent collapse of the open cavity at free surfaces of contaminated liquids can generate aerosol droplets, facilitating pathogen transport. After film rupture, capillary waves focus at the cavity base, potentially generating fast Worthington jets that are responsible for ejecting the droplets away from the source. While extensively studied for Newtonian fluids, the influence of non-Newtonian rheology on this process remains poorly understood. Here, we employ direct numerical simulations to investigate the bubble cavity collapse in viscoelastic media, such as polymeric liquids. We find that the jet and drop formation are dictated by two dimensionless parameters: the elastocapillary number $Ec$ (the ratio of the elastic modulus and the Laplace pressure) and the Deborah number $De$ (the ratio of the relaxation time and the inertio-capillary timescale). We show that for low values of $Ec$ and $De$, the viscoelastic liquid adopts a Newtonian-like behavior, where the dynamics are governed by the solvent Ohnesorge number $Oh_s$ (the ratio of visco-capillary and inertio-capillary timescales). In contrast, for large values $Ec$ and $De$, the enhanced elastic stresses completely suppress the formation of the jet. For some cases with intermediate values of $Ec$ and $De$, smaller droplets are produced compared to Newtonian fluids, potentially enhancing aerosol dispersal. By mapping the phase space spanned by $Ec$, $De$, and $Oh_s$, we reveal three distinct flow regimes: (i) jets forming droplets, (ii) jets without droplet formation, and (iii) absence of jet formation. Our results elucidate the mechanisms underlying aerosol suppression versus fine spray formation in polymeric liquids, with implications for pathogen transmission and industrial processes involving viscoelastic fluids.",
   "authors": [
@@ -207,6 +306,30 @@
   ],
   "updated": "2025-05-01"
  },
+ "2410.23575": {
+  "abstract": "We extend the previously published model that distinguishes between the diffusive motion of diamagnetic muons and the dynamics of ions around the muon in matter, and propose a generalized model for {\\sl paramagnetic muons} (Mu$^0$s, bound states of a muon and an unpaired electron) observed in non-metallic host materials. The new model distinguishes among the independent motion of unpaired electron associated with Mu$^0$, the self-diffusive motion of Mu$^0$ as single atomic entity, and that of the ions surrounding Mu$^0$, where the muon spin relaxation is induced by dynamical fluctuations of the hyperfine (HF) field exerted from the unpaired electron (e.g., due to spin/charge exchange reaction) and/or that of the nuclear hyperfine (NHF) interactions between the unpaired electron and the surrounding ions. We have applied this model to the muonated radicals (Mu$^0$s in a polaron state) in conducting polymers, and examined the validity of the interpretations claimed in the earlier literature that the spin relaxation is induced by quasi-one dimensional motion of the unpaired electron. The result suggests that experimental support for such a claim is still inadequate and needs to be reexamined, including the possibility of other origins for the fluctuations. It is expected that our model will prove a useful guide for $μ$SR studies of various local dynamics involving paramagnetic muon states.",
+  "authors": [
+   "Ryosuke Kadono",
+   "Takashi U. Ito"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "10 pages, 13 figures",
+  "first_author": "Ryosuke Kadono",
+  "pdf_url": "http://arxiv.org/pdf/2410.23575",
+  "primary_category": "physics.atom-ph",
+  "published": "2024-10-31",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Distinguishing Ion Dynamics from Muon Diffusion in Muon Spin Relaxation II -- Extension to Paramagnetic Muons",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-05-01"
+ },
  "2411.06488": {
   "abstract": "This paper introduces a stabilized finite element scheme for the Cahn--Hilliard cross-diffusion model, which is characterized by strongly coupled mobilities, nonlinear diffusion, and complex cross-diffusion terms. These features pose significant analytical and computational challenges, particularly due to the destabilizing effects of cross-diffusion and the absence of standard structural properties. To address these issues, we establish discrete energy stability and prove the existence of a finite element solution for the proposed scheme. A key contribution of this work is the derivation of rigorous error estimates, utilizing the novel $L^{\\frac{4}{3}}(0,T; L^{\\frac{6}{5}}(Ω))$ norm for the chemical potential. This enables a comprehensive convergence analysis, where we derive error estimates in the $L^{\\infty}(H^1(Ω))$ and $L^{\\infty}(L^2(Ω))$ norms, and establish convergence of the numerical solution in the $L^{\\frac{4}{3}}(0,T; W^{1,\\frac{6}{5}}(Ω))$ norm. Furthermore, the convergence analysis relies on a uniform bound of the form $\\sum_{k=0}^nτ\\|\\nabla(\\cdot)\\|_{L^{\\frac{6}{5}}}^{\\frac{4}{3}}$ to control the chemical potentials, marking a clear departure from the classical $\\sum_{k=0}^nτ\\|\\nabla(\\cdot)\\|_{L^{2}}^{2}$ estimate commonly used in Cahn--Hilliard-type models. Our approach builds upon and extends existing frameworks, effectively addressing challenges posed by cross-diffusion effects and the lack of uniform estimates. Numerical experiments validate the theoretical results and demonstrate the scheme's ability to capture phase separation dynamics consistent with the Cahn--Hilliard equation.",
   "authors": [
@@ -322,6 +445,7 @@
   ],
   "title": "Electrokinetic nanofluidic sensing of DNA nanostar condensate",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-05-15"
@@ -1180,6 +1304,31 @@
   ],
   "updated": "2025-05-06"
  },
+ "2505.04150": {
+  "abstract": "Evaluating the regeneration process of damaged muscle tissue is a fundamental analysis in muscle research to measure experimental effect sizes and uncover mechanisms behind muscle weakness due to aging and disease. The conventional approach to assessing muscle tissue regeneration involves whole-slide imaging and expert visual inspection of the recovery stages based on the morphological information of cells and fibers. There is a need to replace these tasks with automated methods incorporating machine learning techniques to ensure a quantitative and objective analysis. Given the limited availability of fully labeled data, a possible approach is Learning from Label Proportions (LLP), a weakly supervised learning method using class label proportions. However, current LLP methods have two limitations: (1) they cannot adapt the feature extractor for muscle tissues, and (2) they treat the classes representing recovery stages and cell morphological changes as nominal, resulting in the loss of ordinal information. To address these issues, we propose Ordinal Scale Learning from Similarity Proportion (OSLSP), which uses a similarity proportion loss derived from two bag combinations. OSLSP can update the feature extractor by using class proportion attention to the ordinal scale of the class. Our model with OSLSP outperforms large-scale pre-trained and fine-tuning models in classification tasks of skeletal muscle recovery stages.",
+  "authors": [
+   "Yu Yamaoka",
+   "Weng Ian Chan",
+   "Shigeto Seno",
+   "Soichiro Fukada",
+   "Hideo Matsuda"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "MICCAI2024 workshop ADSMI in Morocco (oral) [Peer-reviewed]",
+  "first_author": "Yu Yamaoka",
+  "pdf_url": "http://arxiv.org/pdf/2505.04150",
+  "primary_category": "cs.CV",
+  "published": "2025-05-07",
+  "tags": [],
+  "title": "Learning from Similarity Proportion Loss for Classifying Skeletal Muscle Recovery Stages",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-05-08"
+ },
  "2505.04298": {
   "abstract": "Systems with quenched disorder possess complex energy landscapes that are challenging to explore under the conventional Monte Carlo method. In this work, we implement an efficient entropy sampling scheme for accurate computation of the entropy function in low-energy regions. The method is applied to the two-dimensional $\\pm J$ random-bond Ising model, where frustration is controlled by the fraction $p$ of ferromagnetic bonds. We investigate the low-temperature paramagnetic--ferromagnetic phase boundary below the multicritical point at $T_N = 0.9530(4)$, $P_N = 0.89078(8)$, as well as the zero-temperature ferromagnetic--spin-glass transition. Finite-size scaling analysis reveals that the phase boundary for $T < T_N$ exhibits reentrant behavior. By analyzing the evolution of the magnetization-resolved density of states $g(E, M)$ and ground-state spin configurations against increasing frustration, we provide strong evidence that the zero-temperature transition is quasi-first order. Finite-size scaling conducted on the spin-glass side supports the validity of $β= 0$, with a correlation length exponent $ν= 1.50(8)$. Our results provide new insights into the nature of the ferromagnetic-to-spin-glass phase transition in an extensively degenerate ground state.",
   "authors": [
@@ -1455,6 +1604,7 @@
   ],
   "title": "Control of encounter kinetics by chemically active droplets",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-05-09"
@@ -1917,6 +2067,7 @@
   ],
   "title": "Computer simulations show that liquid-liquid phase separation enhances self-assembly",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Molecular Dynamics & Multiscale Modeling"
   ],
@@ -2675,6 +2826,35 @@
   ],
   "updated": "2025-05-25"
  },
+ "2505.19044": {
+  "abstract": "Anion-conductive polymer membranes have attracted considerable attention as solid electrolytes for alkaline fuel cells and electrolysis cells. Their hydroxide ion conductivity varies depending on factors such as the type and distribution of quaternary ammonium groups, as well as the structure and connectivity of hydrophilic and hydrophobic domains. In particular, the size and connectivity of hydrophilic domains significantly influence the mobility of hydroxide ions; however, this relationship has remained largely qualitative. In this study, we calculated the number of key constituent elements in the hydrophilic and hydrophobic units based on the copolymer composition, and investigated their relationship with hydroxide ion conductivity by using Bayesian sparse modeling. As a result, we successfully identified composition-derived features that are critical for accurately predicting hydroxide ion conductivity.",
+  "authors": [
+   "Ryo Murakami",
+   "Kenji Miyatake",
+   "Ahmed Mohamed Ahmed Mahmoud",
+   "Hideki Yoshikawa",
+   "Kenji Nagata"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "stat.AP",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Ryo Murakami",
+  "pdf_url": "http://arxiv.org/pdf/2505.19044",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-05-25",
+  "tags": [
+   "conducting-polymers",
+   "membranes"
+  ],
+  "title": "Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-05-25"
+ },
  "2505.19118": {
   "abstract": "We numerically studied active Brownian particles with attractive interactions. Contrary to our intuition, the attractive force between particles disrupts the formation of a single cluster observed in motility-induced phase separation, giving rise to a multi-cluster state characterized by a power-law distribution of cluster sizes. Remarkably, the self-propulsion directions spontaneously align within each cluster, resulting in enhanced cluster motility despite the absence of alignment interactions. This study revealed the intricate role of attractive interactions in the aggregation of motile systems.",
   "authors": [
@@ -2746,6 +2926,7 @@
   ],
   "title": "Fluctuations in DNA Packing Density Drive the Spatial Segregation between Euchromatin and Heterochromatin",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-05-26"

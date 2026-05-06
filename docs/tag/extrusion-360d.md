@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>extrusion — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <a href="extrusion-90d.html">90d</a> <strong>360d</strong> <a href="extrusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16333.html">Closed Loop Reference Optimization for Extrusion Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Rawan Hoteit et al.</td>
 <td><a href="http://arxiv.org/abs/2512.16333">2512.16333</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07264.html">edible polysaccharides as stabilizers and carriers for the delivery of phenolic compounds and pigments in food formulations</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a></div></td>
+<td>Liliane Siqueira de Oliveira et al.</td>
+<td><a href="http://arxiv.org/abs/2511.07264">2511.07264</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-28</td>

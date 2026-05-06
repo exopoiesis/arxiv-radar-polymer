@@ -562,6 +562,35 @@
   ],
   "updated": "2026-03-11"
  },
+ "2509.15019": {
+  "abstract": "Hybrid nanostructures from metal nanoparticles equipped with conducting polymer shells are of great interest for use as functional materials in sensing and optoelectronics, as well as for ink-deposited conductors. Here, we investigate the charge transport mechanism of nanostructures composed of gold nanoparticles coated with a polyaniline shell (Au@PANI). In particular, we focus on how geometry influences the charge transport behavior. Highly ordered linear assemblies of Au@PANI nanoparticles were fabricated using template-assisted assembly, while bulk-like films were obtained via drop-casting. Temperature-dependent transport measurements were analyzed using established conductance models. Linear assemblies exhibit more localized transport, characterized by variable-range hopping (VRH) and thermally assisted tunneling (TAT), whereas bulk-like films show more delocalized transport, dominated by Arrhenius-type and thermionic conduction. These findings highlight the critical role of geometry, also due to its effect on electrical field strength in determining charge transport mechanisms in nanoparticle-based hybrid systems.",
+  "authors": [
+   "Gyusang Yi",
+   "Borja Rodriguez-Barea",
+   "Gabriele Carelli",
+   "Lukas Mielke",
+   "Andreas Fery",
+   "Artur Erbe",
+   "Hendrik Schlicke"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Gyusang Yi",
+  "pdf_url": "http://arxiv.org/pdf/2509.15019",
+  "primary_category": "physics.app-ph",
+  "published": "2025-09-18",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Nanoscale Charge Transport in Au@PANI Assemblies: Bulk-like Films and Linear Assemblies",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-03-12"
+ },
  "2509.15215": {
   "abstract": "Inspired by the recent experimental advances in cold atom quantum simulators, we explore the experimentally implemented bosonic $t$-$t'$-$J$ model on the square lattice using large-scale density matrix renormalization group simulations. By tuning the doping level $δ$ and hopping ratio $t'/t$, we uncover six distinct quantum phases, several of which go far beyond the conventional paradigm of phase-coherent superfluidity (SF) expected for bosonic systems. In particular, in the presence of antiferromagnetic (AFM) order, doped holes are tightly bound into pairs, giving rise to a pair density wave (PDW) phase at low doping and small $|t'/t|$, which is suppressed on the $t'<0$ side, resulting in a disordered PDW state that lacks coherence of either individual bosons or pairs. Upon further doping, bosons can regain phase coherence and form a SF* state, characterized by condensation at emergent incommensurate momenta concurrent with an incommensurate magnetic order. On the $t'>0$ side, the sign-induced kinetic frustration inherently disfavors local AFM correlations, leading to a phase separation in which doped holes cluster into ferromagnetic (FM) domains spatially separated by undoped AFM regions. Upon further doping, this inhomogeneous state evolves into a uniform SF + $xy$-FM phase. Finally, we propose a concrete experimental scheme to realize both signs of $t'/t$ in Rydberg tweezer arrays, with an explicit mapping between model parameters and experimentally accessible regimes. Our results reveal competing and intertwined orders in doped antiferromagnets, which are relevant to central issues in high-$T_c$ superconductivity, reflecting the frustrated interplay between doped holes and spin background.",
   "authors": [
@@ -998,6 +1027,7 @@
   ],
   "title": "Topology Controls the Phase Separation Dynamics of Multicomponent Fluid Mixtures",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-03-04"
@@ -1874,6 +1904,7 @@
   ],
   "title": "All-optical intracellular thermal profiling using nanodiamond-based \"thermal radar\"",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Property Prediction & QSPR"
   ],
@@ -1984,6 +2015,7 @@
   ],
   "title": "Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Property Prediction & QSPR"
   ],
   "updated": "2026-03-04"
@@ -2736,6 +2768,32 @@
   "title": "Effect of Cylindrical Confinement on the Collapse Dynamics of a Polymer",
   "topics": [
    "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-03-10"
+ },
+ "2603.09498": {
+  "abstract": "We study the impact of an external magnetic field on the long-range electron transport in quasi-one-dimensional materials, such as polypeptides, (semi-) conducting polymers and macromolecules, taking into account the electron-lattice interaction. At relatively strong electron-lattice interaction extra electrons get self-trapped in the deformation potential well and form stable bound states, called large polarons which in the continuum approximation are known as solitons. Here we do not use the continuum approximation but solve the system of discrete nonlinear equations numerically. We show that the impact of a magnetic field on polaron dynamics depends not only on the field strength, but also on the parameter values of the system which define the properties of solitons such as their energy, amplitude and width of localisation. We also study the impact of a magnetic field on a polaron created by a donor complex on a chain.",
+  "authors": [
+   "Larissa Brizhik",
+   "B. M. A. G. Piette"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "nlin.PS",
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "23 pages, 14 figures",
+  "first_author": "Larissa Brizhik",
+  "pdf_url": "http://arxiv.org/pdf/2603.09498",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-03-10",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Impact of magnetic fields on polaron dynamics in low-dimensional systems",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2026-03-10"
  },
@@ -5549,6 +5607,7 @@
   ],
   "title": "Low regularity potentials in heterogeneous Cahn--Hilliard functionals",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-03-26"

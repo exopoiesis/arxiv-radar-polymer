@@ -1,4 +1,56 @@
 {
+ "2406.01651": {
+  "abstract": "Predicting drug-target interaction (DTI) is critical in the drug discovery process. Despite remarkable advances in recent DTI models through the integration of representations from diverse drug and target encoders, such models often struggle to capture the fine-grained interactions between drugs and protein, i.e. the binding of specific drug atoms (or substructures) and key amino acids of proteins, which is crucial for understanding the binding mechanisms and optimising drug design. To address this issue, this paper introduces a novel model, called FusionDTI, which uses a token-level Fusion module to effectively learn fine-grained information for Drug-Target Interaction. In particular, our FusionDTI model uses the SELFIES representation of drugs to mitigate sequence fragment invalidation and incorporates the structure-aware (SA) vocabulary of target proteins to address the limitation of amino acid sequences in structural information, additionally leveraging pre-trained language models extensively trained on large-scale biomedical datasets as encoders to capture the complex information of drugs and targets. Experiments on three well-known benchmark datasets show that our proposed FusionDTI model achieves the best performance in DTI prediction compared with seven existing state-of-the-art baselines. Furthermore, our case study indicates that FusionDTI could highlight the potential binding sites, enhancing the explainability of the DTI prediction.",
+  "authors": [
+   "Zhaohan Meng",
+   "Zaiqiao Meng",
+   "Ke Yuan",
+   "Iadh Ounis"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.AI",
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": "Findings of EMNLP 2025",
+  "first_author": "Zhaohan Meng",
+  "pdf_url": "http://arxiv.org/pdf/2406.01651",
+  "primary_category": "q-bio.QM",
+  "published": "2024-06-03",
+  "tags": [
+   "benchmarking",
+   "selfies"
+  ],
+  "title": "FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2025-09-28"
+ },
+ "2406.02941": {
+  "abstract": "This work considers the variable-exponent fractional diffusion-wave equation, which describes, e.g. the propagation of mechanical diffusive waves in viscoelastic media with varying material properties. Rigorous numerical analysis for this model is not available in the literature, partly because the variable-exponent Abel kernel in the leading term may not be positive definite or monotonic. We adopt the idea of model reformulation to obtain a more tractable form, which, however, still involves an ``indefinite-sign, nonpositive-definite, nonmonotonic'' convolution kernel that introduces difficulties in numerical analysis. We address this issue to design two high-order schemes and derive their stability and error estimate based on the proved solution regularity, with $α(0)$-order and second-order accuracy in time, respectively. Numerical experiments are presented to substantiate the theoretical findings and to show the transition behavior of the mechanical (diffusive) wave modeled by variable exponent.",
+  "authors": [
+   "Wenlin Qiu",
+   "Xiangcheng Zheng"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Wenlin Qiu",
+  "pdf_url": "http://arxiv.org/pdf/2406.02941",
+  "primary_category": "math.NA",
+  "published": "2024-06-05",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Numerical analysis of high-order methods for variable-exponent fractional diffusion-wave equation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2025-09-26"
+ },
  "2407.04180": {
   "abstract": "G-code (Geometric code) or RS-274 is the most widely used computer numerical control (CNC) and 3D printing programming language. G-code provides machine instructions for the movement of the 3D printer, especially for the nozzle, stage, and extrusion of material for extrusion-based additive manufacturing. Currently, there does not exist a large repository of curated CAD models along with their corresponding G-code files for additive manufacturing. To address this issue, we present Slice-100K, a first-of-its-kind dataset of over 100,000 G-code files, along with their tessellated CAD model, LVIS (Large Vocabulary Instance Segmentation) categories, geometric properties, and renderings. We build our dataset from triangulated meshes derived from Objaverse-XL and Thingi10K datasets. We demonstrate the utility of this dataset by finetuning GPT-2 on a subset of the dataset for G-code translation from a legacy G-code format (Sailfish) to a more modern, widely used format (Marlin). Our dataset can be found at https://github.com/idealab-isu/Slice-100K. Slice-100K will be the first step in developing a multimodal foundation model for digital manufacturing.",
   "authors": [
@@ -2082,6 +2134,27 @@
   ],
   "updated": "2025-09-09"
  },
+ "2509.08297": {
+  "abstract": "Electroactive polymers are smart materials that can be used as actuators, sensors, or energy harvesters. We focus on a pseudo trilayer based on PEDOT, a semiconductor polymer: the central part consists of two interpenetrating polymers and PEDOT is polymerized on each side; the whole blade is saturated with an ionic liquid. A pseudo trilayer is obtained, the two outer layers acting as electrodes. When an electric field is applied, the cations move towards the negative electrode, making it swell, while the volume decreases on the opposite side; this results in the bending of the strip. Conversely, the film deflection generates an electric potential difference between the electrodes. We model this system and establish its constitutive relations using the thermodynamics of irreversible processes; we obtain a Kelvin--Voigt stress--strain relation and generalized Fourier's and Darcy's laws. We validate our model in the static case: we apply the latter to a cantilever blade subject to a continuous potential electric difference at the constant temperature. We draw the profiles of the different quantities and evaluate the tip displacement and the blocking force. Our results agree with the experimental data published in the literature.",
+  "authors": [
+   "Mireille Tixier",
+   "J Pouget"
+  ],
+  "categories": [
+   "physics.class-ph"
+  ],
+  "comment": null,
+  "first_author": "Mireille Tixier",
+  "pdf_url": "http://arxiv.org/pdf/2509.08297",
+  "primary_category": "physics.class-ph",
+  "published": "2025-09-10",
+  "tags": [],
+  "title": "Modeling of an electro-active pseudo-trilayer based on PEDOT, a semi-conductor polymer",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-09-10"
+ },
  "2509.08356": {
   "abstract": "Magnetic Resonance Elastography (MRE) noninvasively maps brain biomechanics and is highly sensitive to alterations associated with aging and neurodegenerative disease. Most implementations use a single frequency or a narrow frequency band, limiting the analysis of frequency-dependent viscoelastic parameters.   We developed a dual-actuator wideband MRE (5-50 Hz) protocol and acquired wavefields at 13 frequencies in 24 healthy adults (young: 23-39 years; older: 50-63 years). Shear wave speed (SWS) maps were generated as a proxy for stiffness, and SWS dispersion was modeled using Newtonian, Kelvin-Voigt, and power-law rheological models.   Whole-brain stiffness declined with age, with the strongest effect observed at low frequencies (5-16 Hz: -0.24%/year; p=0.019) compared with mid (20-35 Hz: -0.12%/year; p=0.030) and high frequencies (40-50 Hz: -0.10%/year; p=0.165). Compared to older brains, younger adults showed 14.3% higher baseline stiffness in the power-law model (p=0.001) and 8.5-9.0% higher viscosity according to the Newtonian and Kelvin-Voigt model (p<0.05). White and cortical gray matter exhibited similar age-related decreases, while deep gray matter showed an increase in the power-law exponent (+0.001/year; p=0.036), suggesting a transition toward more fluid-like properties associated with aging.   Wideband MRE revealed frequency-dependent and region-specific biomechanical alterations with aging, with the strongest effects observed at low frequencies. Extending brain MRE into the low frequency regime potentially enhances sensitivity to solid-fluid interactions. Therefore, low frequency MRE may serve as an early biomechanical marker of microstructural brain changes due to aging and neurodegeneration.",
   "authors": [
@@ -2139,6 +2212,7 @@
   ],
   "title": "Quantifying the liquid-liquid transition in cold water/glycerol mixtures by ih-RIDME",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Property Prediction & QSPR"
   ],

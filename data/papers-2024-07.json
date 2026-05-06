@@ -1,4 +1,98 @@
 {
+ "2405.02136": {
+  "abstract": "We introduce a unified Python package for the prediction of protein biophysical properties, streamlining previous tools developed by the Bio2Byte research group. This suite facilitates comprehensive assessments of protein characteristics, incorporating predictors for backbone and sidechain dynamics, local secondary structure propensities, early folding, long disorder, beta-sheet aggregation and FUS-like phase separation. Our package significantly eases the integration and execution of these tools, enhancing accessibility for both computational and experimental researchers.",
+  "authors": [
+   "Jose Gavalda-Garcia",
+   "Adrian Diaz",
+   "Wim Vranken"
+  ],
+  "categories": [
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Jose Gavalda-Garcia",
+  "pdf_url": "http://arxiv.org/pdf/2405.02136",
+  "primary_category": "q-bio.QM",
+  "published": "2024-05-03",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "bio2Byte Tools deployment as a Python package and Galaxy tool to predict protein biophysical properties",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-07-09"
+ },
+ "2405.18957": {
+  "abstract": "Ion partitioning between different compartments (\\emph{e.g.} a porous material and a bulk solution reservoir), known as Donnan equilibrium, plays a fundamental role in various contexts such as energy, environment, or water treatment. The linearized Poisson-Boltzmann (PB) equation, capturing the thermal motion of the ions with mean-field electrostatic interactions, is practically useful to understand and predict ion partitioning, despite its limited applicability to conditions of low salt concentrations and surface charge densities. Here, we investigate the Donnan equilibrium of coarse-grained dilute electrolytes confined in charged slit-pores in equilibrium with a reservoir of ions and solvent. We introduce and use an extension to confined systems of a recently developed hybrid nonequilibrium molecular dynamics / grand canonical Monte Carlo simulation method (\"H4D\"), which enhances the efficiency of solvent and ion-pair exchange via a fourth spatial dimension. We show that the validity range of linearized PB theory to predict the Donnan equilibrium of dilute electrolytes can be extended to highly charged pores, by simply considering \\textit{renormalized} surface charge densities. We compare with simulations of implicit solvent models of electrolytes and show that in the low salt concentrations and thin electric double layer limit considered here, an explicit solvent has a limited effect on the Donnan equilibrium and that the main limitations of the analytical predictions are not due to the breakdown of the mean-field description, but rather to the charge renormalization approximation, because it only focuses on the behavior far from the surfaces.",
+  "authors": [
+   "Jeongmin Kim",
+   "Benjamin Rotenberg"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 8 figures",
+  "first_author": "Jeongmin Kim",
+  "pdf_url": "http://arxiv.org/pdf/2405.18957",
+  "primary_category": "physics.chem-ph",
+  "published": "2024-05-29",
+  "tags": [
+   "coarse-grained",
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-07-15"
+ },
+ "2406.01524": {
+  "abstract": "We propose a sampling algorithm relying on a collective variable (CV) of mid-size dimension modelled by a normalizing flow and using non-equilibrium dynamics to propose full configurational moves from the proposition of a refreshed value of the CV made by the flow. The algorithm takes the form of a Markov chain with non-local updates, allowing jumps through energy barriers across metastable states. The flow is trained throughout the algorithm to reproduce the free energy landscape of the CV. The output of the algorithm are a sample of thermalized configurations and the trained network that can be used to efficiently produce more configurations. We show the functioning of the algorithm first on a test case with a mixture of Gaussians. Then we successfully test it on a higher dimensional system consisting in a polymer in solution with a compact and an extended stable state separated by a high free energy barrier.",
+  "authors": [
+   "Samuel Tamagnone",
+   "Alessandro Laio",
+   "Marylou Gabrié"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Samuel Tamagnone",
+  "pdf_url": "http://arxiv.org/pdf/2406.01524",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-06-03",
+  "tags": [],
+  "title": "Coarse Grained Molecular Dynamics with Normalizing Flows",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-07-26"
+ },
+ "2406.15300": {
+  "abstract": "In the present article we study diffuse interface models for two-phase biomembranes. We will do so by starting off with a diffuse interface model on $\\mathbb{R}^n$ defined by two coupled phase fields $u,v$. The first phase field $u$ is the diffuse approximation of the interior of the membrane; the second phase field $v$ is the diffuse approximation of the two phases of the membrane. We prove a compactness result and a lower bound in the sense of $Γ$-convergence for pairs of phase functions $(u_\\varepsilon,v_\\varepsilon)$. As an application of this first result, we consider a diffuse approximation of a two-phase Willmore functional plus line tension energy.",
+  "authors": [
+   "Benjamin Lledos",
+   "Roberta Marziani",
+   "Heiner Olbermann"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "30 pages. v2: minor corrections",
+  "first_author": "Benjamin Lledos",
+  "pdf_url": "http://arxiv.org/pdf/2406.15300",
+  "primary_category": "math.AP",
+  "published": "2024-06-21",
+  "tags": [],
+  "title": "Interacting phase fields yielding phase separation on surfaces",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-07-23"
+ },
  "2407.00946": {
   "abstract": "The unique properties exhibited in immiscible metals, such as excellent strength, hardness, and radiation-damage tolerance, have stimulated the interest of many researchers. As a typical immiscible metal system, the Cu-W nano-multilayers combine the plasticity of copper and the strength of tungsten, making it a suitable candidate for applications in aerospace, nuclear fusion engineering, and electronic packaging etc. To understand the atomistic origin of the defects and thermodynamics of the Cu-W immiscible system, we have developed an accurate machine learning interatomic potential (ML-IAP) for Cu-W based on the atomic cluster expansion (ACE) method. The Cu-W ACE potential can faithfully reproduce the fundamental properties of Cu and W predicted by density functional theory (DFT). Moreover, the thermodynamical properties, such as the melting point, coefficient of thermal expansion, diffusion coefficient, and equation of the state curve of the Cu-W solid solution, are calculated and compared against DFT and experiments. Monte Carlo Molecular Dynamics (MC-MD) simulations performed with the Cu-W ACE potential predict the experimentally observed phase separation and uphill diffusion phenomena. Our findings not only provide an accurate ACE potential for describing the Cu-W immiscible system, but also shed light on understanding the atomistic mechanism during the Cu-W nano-multilayers formation process.",
   "authors": [
@@ -189,6 +283,7 @@
   ],
   "title": "Manipulating liquid-liquid phase separation using patterned flow",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-07-03"
@@ -630,6 +725,35 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-07-26"
+ },
+ "2407.07400": {
+  "abstract": "Epidermal skin sensors have emerged as a promising approach for continuous and noninvasive monitoring of vital health signals, but to maximize their performance, these sensors must integrate seamlessly with the skin, minimizing impedance while maintaining the skin's natural protective and regulatory functions.In this study, we introduce an imperceptible sweat sensor that achieves this seamless skin integration through interpenetrating networks formed by a porous, ultra-thin, ultra-high molecular weight polyethylene (UHMWPE) nanomembrane. Upon attachment to the skin by van der Waals force, the amphiphilic sweat extrudates infuse into the interconnected nanopores inside the hydrophobic UHWMPE nanomembrane, forming \"pseudo skin\" nanochannels for continuous sweat perspiration. This integration is further enhanced by the osmotic pressure generated during water evaporation. Leveraging the efficient transport of biomarkers through the \"skin\" channels within the porous membrane, we developed an organic electrochemical transducer (OECT) cortisol sensor via in-situ synthesis of a molecularly imprinted polymer (MIP) and poly(3,4 ethylenedioxythiophene) (PEDOT) within the nanomembrane. This demonstrates the capability to detect cortisol concentrations from 0.05 to 0.5 μM for seamless monitoring of stress levels. This work represents a significant advancement in self-adhesive sweat sensors that offer imperceptible and real-time non-invasive health monitoring capabilities.",
+  "authors": [
+   "Yuchen Feng",
+   "Andreas Kenny Oktavius",
+   "Reno Adley Prawoto",
+   "Hing Ni Ko",
+   "Qiao Gu",
+   "Ping Gao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.HC",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Yuchen Feng",
+  "pdf_url": "http://arxiv.org/pdf/2407.07400",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-07-10",
+  "tags": [
+   "oect"
+  ],
+  "title": "Invisible sweat sensor: ultrathin membrane mimics skin for stress monitoring",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2024-07-10"
  },
  "2407.07405": {
   "abstract": "Additive manufacturing (AM; 3D printing) in aluminium using laser powder bed fusion provides a new design space for lightweight mirror production. Printing layer-by-layer enables the use of intricate lattices for mass reduction, as well as organic shapes generated by topology optimisation, resulting in mirrors optimised for function as opposed to subtractive machining. However, porosity, a common AM defect, is present in printed aluminium and it is a result of the printing environment being either too hot or too cold, or gas entrapped bubbles within the aluminium powder. When present in an AM mirror substrates, porosity manifests as pits on the reflective surface, which increases micro-roughness and therefore scattered light. There are different strategies to reduce the impact of porosity: elimination during printing, coating the aluminium print in nickel phosphorous, or to apply a heat and pressure treatment to close the pores, commonly known as a hot isostatic press (HIP).   This paper explores the application of HIP on printed aluminium substrates intended for mirror production using single point diamond turning (SPDT). The objective of the HIP is to reduce porosity whilst targeting a small grain growth within the aluminium, which is important in allowing the SPDT to generate surfaces with low micro-roughness. For this study, three disks, 50 mm diameter by 5 mm, were printed in AlSi10Mg at 0 deg, 45 deg, and 90 deg with respect to the build plate. X-ray computed tomography (XCT) was conducted before and after the HIP cycle to confirm the effectiveness of HIP to close porosity. The disks were SPDT and the micro-roughness evaluated. Mechanical testing and electron backscatter diffraction (EBSD) was used to quantify the mechanical strength and the grain size after HIP.",
@@ -1764,6 +1888,7 @@
   ],
   "title": "Chemically reactive and aging macromolecular mixtures II: Phase separation and coarsening",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-07-25"

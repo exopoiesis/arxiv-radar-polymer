@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>conducting-polymers — 360d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="conducting-polymers-7d.html">7d</a> <a href="conducting-polymers-30d.html">30d</a> <a href="conducting-polymers-90d.html">90d</a> <strong>360d</strong> <a href="conducting-polymers-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-04-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20605.html">An electrically tunable metaatom for visible light</a></div></td>
+<td>Janna Wilhelmsen et al.</td>
+<td><a href="http://arxiv.org/abs/2604.20605">2604.20605</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15019.html">Nanoscale Charge Transport in Au@PANI Assemblies: Bulk-like Films and Linear Assemblies</a></div></td>
+<td>Gyusang Yi et al.</td>
+<td><a href="http://arxiv.org/abs/2509.15019">2509.15019</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09498.html">Impact of magnetic fields on polaron dynamics in low-dimensional systems</a></div></td>
+<td>Larissa Brizhik et al.</td>
+<td><a href="http://arxiv.org/abs/2603.09498">2603.09498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02418.html">Unbounded Systematic Error in Thin Film Conductivity Measurements</a></div></td>
+<td>Yongyi Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2602.02418">2602.02418</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.21629.html">The Origin of Organic Magnetoresistance Using Time-Domain Magnetic Spectroscopy</a></div></td>
 <td>Paul Ben Ishai et al.</td>
 <td><a href="http://arxiv.org/abs/2512.21629">2512.21629</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17869.html">Experimentally Mapping the Phase Diagrams of Photoexcited Small Polarons</a></div></td>
+<td>Jocelyn L. Mendes et al.</td>
+<td><a href="http://arxiv.org/abs/2512.17869">2512.17869</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
@@ -28,9 +58,51 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18536.html">Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
+<td>Yuyang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2508.18536">2508.18536</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05217.html">A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Minas Kouroublakis et al.</td>
+<td><a href="http://arxiv.org/abs/2508.05217">2508.05217</a></td>
+</tr>
+<tr class="paper">
+<td>2025-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01757.html">Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data</a></div></td>
+<td>Renato Colle et al.</td>
+<td><a href="http://arxiv.org/abs/2508.01757">2508.01757</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16626.html">Chemical Control for the Morphogenesis of Conducting Polymer Dendrites in Water</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2507.16626">2507.16626</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06660.html">Organic Electronic Classifiers for Sensing</a></div></td>
+<td>Sébastien Pecqueur</td>
+<td><a href="http://arxiv.org/abs/2507.06660">2507.06660</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22595.html">Simplified Aluminum Nitride Processing for Low-Loss Integrated Photonics and Nonlinear Optics</a></div></td>
+<td>Haochen Yan et al.</td>
+<td><a href="http://arxiv.org/abs/2506.22595">2506.22595</a></td>
+</tr>
+<tr class="paper">
 <td>2025-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="dielectric-properties-360d.html">dielectric-properties</a></div></td>
 <td>Md. Shariful Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07544">2506.07544</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19044.html">Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
+<td>Ryo Murakami et al.</td>
+<td><a href="http://arxiv.org/abs/2505.19044">2505.19044</a></td>
 </tr>
 </tbody></table>

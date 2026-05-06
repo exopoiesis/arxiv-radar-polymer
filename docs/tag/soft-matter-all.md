@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>soft-matter — all</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,5 +440,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06114.html">Motility-induced crystallization and rotating crystallites</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Max Philipp Holl et al.</td>
 <td><a href="http://arxiv.org/abs/2408.06114">2408.06114</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07416.html">A replica theory for the dynamic glass transition of hardspheres with continuous polydispersity</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a></div></td>
+<td>Hyonggi Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07416">2405.07416</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07539.html">Intrinsic Langevin dynamics of rigid inclusions on curved surfaces</a></div></td>
+<td>Balázs Németh et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07539">2405.07539</a></td>
 </tr>
 </tbody></table>

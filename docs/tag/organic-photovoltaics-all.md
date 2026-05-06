@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>organic-photovoltaics — all</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <a href="organic-photovoltaics-90d.html">90d</a> <a href="organic-photovoltaics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,5 +182,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01054.html">Wide angle tolerant solar spectral splitter for lateral tandem solar cells</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
 <td>M. L. Schubert et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01054">2409.01054</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.14203.html">GLaD: Synergizing Molecular Graphs and Language Descriptors for Enhanced Power Conversion Efficiency Prediction in Organic Photovoltaic Devices</a></div></td>
+<td>Thao Nguyen et al.</td>
+<td><a href="http://arxiv.org/abs/2405.14203">2405.14203</a></td>
 </tr>
 </tbody></table>

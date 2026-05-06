@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -232,6 +232,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2501.09064">2501.09064</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16066.html">Constructing Boundary-identical Microstructures via Guided Diffusion for Fast Multiscale Topology Optimization</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Jingxuan Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16066">2406.16066</a></td>
+</tr>
+<tr class="paper">
 <td>2024-12-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11381.html">Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
 <td>Anika Tabassum et al.</td>
@@ -278,5 +284,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08074.html">Smooth Like Butter: Evaluating Multi-Lattice Transitions in Property-Augmented Latent Spaces</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Martha Baldwin et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08074">2407.08074</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04338.html">Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Fangfu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04338">2406.04338</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19082.html">Multiscale simulation of spatially correlated microstructure via a latent space representation</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Reese E. Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19082">2405.19082</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Shaoning Li et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
 </tr>
 </tbody></table>

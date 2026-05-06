@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13818.html">Two-dimensional FrBD friction models for rolling contact: extension to linear viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Luigi Romano</td>
 <td><a href="http://arxiv.org/abs/2601.13818">2601.13818</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25830.html">Universal material basis for biocompatible printed electrolytes in Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="oect-360d.html">oect</a></div></td>
+<td>Moritz Flemming et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25830">2604.25830</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-28</td>
@@ -380,6 +386,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20155.html">Noninvasive rheological inference from stable flows in confined tissues</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Marc Karnat et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20155">2511.20155</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03350.html">A Simplified Model for the Forced Libration of Icy Moons with Subsurface Oceans: Application to Enceladus and Mimas</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2405.03350">2405.03350</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>

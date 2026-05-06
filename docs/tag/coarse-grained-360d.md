@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -575,6 +575,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18660.html">Weak (non)conservation and stochastic dynamics of angular momentum</a></div></td>
+<td>Ashot Matevosyan</td>
+<td><a href="http://arxiv.org/abs/2405.18660">2405.18660</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20100.html">Coarsening dynamics of chemotactic aggregates</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Henrik Weyer et al.</td>
 <td><a href="http://arxiv.org/abs/2409.20100">2409.20100</a></td>
@@ -1034,5 +1040,11 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sarah K. Yorke et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00355.html">Global decomposition of networks into multiple cores formed by local hubs</a></div></td>
+<td>Wonhee Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2407.00355">2407.00355</a></td>
 </tr>
 </tbody></table>

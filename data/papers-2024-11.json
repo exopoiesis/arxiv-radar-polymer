@@ -1,4 +1,82 @@
 {
+ "2406.01865": {
+  "abstract": "Active Brownian disks moving in two dimensions that exchange information about their internal state stochastically are chosen to model epidemic spread in a self-propelled population of agents under the susceptible-infected-recovered-susceptible (SIRS) framework. The state of infection of an agent, or disk, governs its self-propulsion speed; consequently, the activity of the agents in the system varies in time. Two different protocols (one-to-one and one-to-many) are considered for the transmission of disease from the infected to susceptible populations. The effectiveness of the two protocols are practically identical at high values of the infection transmission rate. The one-to-many protocol, however, outperforms the one-to-one protocol at lower values of the infection transmission rate. Salient features of the macroscopic SIRS model are revisited, and compared to predictions from the agent-based model. Lastly, the motility induced phase separation in a population of such agents with a fluctuating fraction of active disks is found to be well-described by theories governing phase separation in a mixture of active and passive particles with a constant fraction of passive disks.",
+  "authors": [
+   "R. Kailasham",
+   "Aditya S. Khair"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "nlin.CG",
+   "physics.soc-ph"
+  ],
+  "comment": "26 pages, 20 figures",
+  "first_author": "R. Kailasham",
+  "pdf_url": "http://arxiv.org/pdf/2406.01865",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-04",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "The influence of active agent motility on SIRS epidemiological dynamics",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-11-20"
+ },
+ "2406.08326": {
+  "abstract": "We explore the ultrahigh-vacuum (UHV) compatibility of Formlabs `Clear Resin' via vat photopolymerization (VPP). We report on a method for using VPP additive manufacturing, specifically Formlabs' widely available stereolithographic (SLA) printing using their `Clear Resin' material, to rapidly and cheaply prototype components for use in high-vacuum (HV) environments. We present pump down curves and residual gas analysis to demonstrate the primary vacuum contaminant from freshly printed SLA plastics is water with no evidence of polymers outgassing from the material and thus the vacuum performance can be controlled with simple treatments which do not involve surface sealing. An unbaked vacuum system containing SLA printed components achieved 1.9e-8 mbar base pressure whilst retaining structural integrity and manufacturing accuracy. Outgassing rates in the HV test chamber and preliminary results in a UHV chamber indicate that our method can be extended to achieve ultrahigh-vacuum compatibility. We further report on the effect of atmospheric exposure to components and present evidence to suggest that water re-ad/absorption occurs exclusively on the surface, by showing that the bulk mass changes of the material is irreversible on the timescale investigated (< 2 weeks).",
+  "authors": [
+   "Aleksandar Radic",
+   "Sam Lambrick",
+   "Sam Rhodes",
+   "David Ward"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "physics.ins-det"
+  ],
+  "comment": "17 pages, 7 figures, 1 table. Poster presentation at EVC-17/ECOSS-37 (2024). Accepted at Vacuum on 5th Nov. 2024",
+  "first_author": "Aleksandar Radic",
+  "pdf_url": "http://arxiv.org/pdf/2406.08326",
+  "primary_category": "physics.app-ph",
+  "published": "2024-06-12",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "On the application of components manufactured with stereolithographic 3D printing in high vacuum systems",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-11-05"
+ },
+ "2406.11616": {
+  "abstract": "The phase separation that occurs in two-temperature mixtures, which are driven out of equilibrium at the local scale, has been thoroughly characterized, but much less is known about the depletion interactions that drive it. Using numerical simulations in dimension 2, we show that the depletion interactions extend beyond two particle diameters in dilute systems, as expected at equilibrium, and decay algebraically with an exponent $-4$. Solving for the $N$-particle distribution function in the stationary state, perturbatively in the interaction potential, we show that algebraic correlations with an exponent $-2d$ arise from triplets of particles at different temperatures in spatial dimension $d$. Finally, simulations allow us to extend our results beyond the perturbative limit.",
+  "authors": [
+   "Pascal Damman",
+   "Vincent Démery",
+   "Guillaume Palumbo",
+   "Quentin Thomas"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Pascal Damman",
+  "pdf_url": "http://arxiv.org/pdf/2406.11616",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-06-17",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Algebraic depletion interactions in two-temperature mixtures",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-11-20"
+ },
  "2407.07833": {
   "abstract": "The dip-coating geometry, where a solid plate is withdrawn from or plunged into a liquid pool, offers a prototypical example of wetting flows involving contact-line motion. Such flows are commonly studied using the lubrication approximation approach which is intrinsically limited to small interface slopes and thus small contact angles. Flows for arbitrary contact angles, however, can be studied using a generalized lubrication theory that builds upon viscous corner flow solutions. Here we derive this generalized lubrication theory for viscoelastic liquids that exhibit normal stress effects and are modelled using the second-order fluid model. We apply our theory to advancing and receding contact lines in the dip-coating geometry, highlighting the influence of viscoelastic normal stresses for contact line motion at arbitrary contact angle.",
   "authors": [
@@ -1033,6 +1111,7 @@
   ],
   "title": "Why can a hydrophilic polyelectrolyte precipitate and redissolve below the critical micelle concentration of an oppositely-charged surfactant ?",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-11-10"
@@ -2019,6 +2098,32 @@
   "title": "On the applicability of CCSD(T) for dispersion interactions in large conjugated systems",
   "topics": [
    "Informatics & Data Infrastructure"
+  ],
+  "updated": "2024-11-21"
+ },
+ "2411.14397": {
+  "abstract": "We propose an approach to quantize discrete networks (graphs with discrete edges). We introduce a new exact solution of discrete Schrodinger equation that is used to write the solution for quantum graphs. Formulation of the problem and derivation of secular equation for arbitrary quantum graphs is presented. Application of the approach for the star graph is demonstrated by obtaining eigenfunctions and eigenvalues explicitely. Practical application of the model in conducting polymers and branched molecular chains is discussed.",
+  "authors": [
+   "M. Akramov",
+   "C. Trunk",
+   "J. Yusupov",
+   "D. Matrasulov"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "M. Akramov",
+  "pdf_url": "http://arxiv.org/pdf/2411.14397",
+  "primary_category": "quant-ph",
+  "published": "2024-11-21",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Discrete Schrodinger equation on graphs: An effective model for branched quantum lattice",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2024-11-21"
  },

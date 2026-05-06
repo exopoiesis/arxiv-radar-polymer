@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rheology — all</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13818.html">Two-dimensional FrBD friction models for rolling contact: extension to linear viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Luigi Romano</td>
 <td><a href="http://arxiv.org/abs/2601.13818">2601.13818</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25830.html">Universal material basis for biocompatible printed electrolytes in Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="oect-all.html">oect</a></div></td>
+<td>Moritz Flemming et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25830">2604.25830</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-28</td>
@@ -383,6 +389,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03350.html">A Simplified Model for the Forced Libration of Icy Moons with Subsurface Oceans: Application to Enceladus and Mimas</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2405.03350">2405.03350</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02239.html">Shear-driven memory effects in carbon black gels</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="saxs-all.html">saxs</a></div></td>
 <td>Julien Bauland et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02239">2508.02239</a></td>
@@ -724,6 +736,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2505.05377">2505.05377</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00487.html">Recoverable strain in amorphous materials: the role of ongoing plastic events following initial elastic recoil</a></div></td>
+<td>Henry A. Lockwood et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00487">2405.00487</a></td>
+</tr>
+<tr class="paper">
 <td>2025-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.03735.html">On various models describing behaviour of thermoviscoelastic rate-type fluids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Miroslav Bulìček et al.</td>
@@ -928,6 +946,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.09864">2409.09864</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09450.html">Hydrodynamics in Semidilute Polyelectrolyte Solutions and Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Shensheng Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2409.09450">2409.09450</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05765.html">Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Vinay Kopnar et al.</td>
@@ -976,6 +1000,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2408.11647">2408.11647</a></td>
 </tr>
 <tr class="paper">
+<td>2024-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14505.html">Dynamics of colloidal rods rotating in viscoelastic media</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>N Narinder et al.</td>
+<td><a href="http://arxiv.org/abs/2406.14505">2406.14505</a></td>
+</tr>
+<tr class="paper">
 <td>2024-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06748.html">Buoyancy induced motion of a Newtonian drop in elastoviscoplastic materials</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Giancarlo Esposito et al.</td>
@@ -998,5 +1028,53 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02860.html">Active Polar Ring Polymer in Shear Flow -- An Analytical Study</a></div></td>
 <td>Roland G. Winkler et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02860">2407.02860</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18978.html">Anisotropic extended Burgers model, its relaxation tensor and properties of the associated Boltzmann viscoelastic system</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Maarten de Hoop et al.</td>
+<td><a href="http://arxiv.org/abs/2406.18978">2406.18978</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06001.html">From yield stress to elastic instabilities: Tuning the extensional behavior of elastoviscoplastic fluid</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Mohamed S. Abdelgawad et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06001">2406.06001</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04420.html">Numerical investigation of fracture behaviour of polyurethane adhesives under the influence of moisture</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
+<td>Siva Pavan Josyula et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04420">2406.04420</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04453.html">Rheological properties of acid-induced carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Gauthier Legrand et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04453">2406.04453</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09496.html">Physics-Informed Neural Network based inverse framework for time-fractional differential equations for rheology</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Sukirt Thakur et al.</td>
+<td><a href="http://arxiv.org/abs/2407.09496">2407.09496</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00813.html">A Thermodynamically Consistent Model for Yield Stress Fluids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Nan Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.00813">2406.00813</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10657.html">Anomalous relaxation of coarsening foams with viscoelastic continuous phase</a></div></td>
+<td>Chiara Guidolin et al.</td>
+<td><a href="http://arxiv.org/abs/2405.10657">2405.10657</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09382.html">Matrix viscoelasticity decouples bubble growth and dynamics in coarsening foams</a></div></td>
+<td>Chiara Guidolin et al.</td>
+<td><a href="http://arxiv.org/abs/2405.09382">2405.09382</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membranes — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <strong>360d</strong> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,6 +302,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06186.html">Transient osmotic flows in a microfluidic channel: measurements of solute permeability and reflection coefficients of hydrogel membranes</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Julien Renaudeau et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06186">2506.06186</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19044.html">Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
+<td>Ryo Murakami et al.</td>
+<td><a href="http://arxiv.org/abs/2505.19044">2505.19044</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-23</td>

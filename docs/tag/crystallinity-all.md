@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystallinity — all</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="crystallinity-7d.html">7d</a> <a href="crystallinity-30d.html">30d</a> <a href="crystallinity-90d.html">90d</a> <a href="crystallinity-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -88,6 +88,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2507.14413">2507.14413</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06007.html">Anomalous properties of spark plasma sintered boron nitride solids</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Abhijit Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2405.06007">2405.06007</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04621.html">Surface-dominant transport in Weyl semimetal NbAs nanowires for next-generation interconnects</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Yeryun Cheon et al.</td>
@@ -146,5 +152,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18585.html">Enhanced Piezoelectricity in Sustainable-by-design Chitosan Nanocomposite Elastomers for Prosthetics, Robotics, and Circular Electronics</a></div></td>
 <td>Jacopo Nicoletti et al.</td>
 <td><a href="http://arxiv.org/abs/2407.18585">2407.18585</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10376.html">Random Close Packing of Semi-Flexible Polymers in Two Dimensions: Emergence of Local and Global Order</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Daniel Martinez-Fernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2406.10376">2406.10376</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02948.html">Liquid Crystalline Assembly of Collagen for Deterministic Alignment and Spread of Human Schwann Cells</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
+<td>Homa Ghaiedi et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02948">2405.02948</a></td>
 </tr>
 </tbody></table>

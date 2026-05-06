@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18090.html">Muscle-inspired magnetic actuators that push, pull, crawl, and grasp</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Muhammad Bilal Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18090">2604.18090</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Biplob Bhattacherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-19</td>

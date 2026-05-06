@@ -1,4 +1,207 @@
 {
+ "2406.00994": {
+  "abstract": "Ferroelectric nematic (NF) liquid crystals present a compelling platform for exploring topological defects in polar fields, while their structural properties can be significantly altered by ionic doping. In this study, we demonstrate that doping the ferroelectric nematic material RM734 with cationic polymers enable the formation of polymeric micelles that connect pairs of half-integer topological defects. Polarizing optical microscopy reveals that these string defects exhibit butterfly textures, featured with a two-dimensional polarization field divided by Néel-type kink-walls into domains exhibiting either uniform polarization or negative splay and bend deformations. Through analysis of electrophoretic motion and direct measurements of polarization divergences, we show that the string micelles are positively charged and their side regions exhibit positive bound charges. To elucidate these observations, we propose a charge double layer model for the string defects: the positive charged cationic polymer chains and densely packed RM734 molecules form a Stern charge layer, while small anionic ions and positive bound charges constitute the charge diffusion layer. Notably, our experiments indicate that only cationic polymer doping effectively induces the formation of these unique string defects. These findings enhance our understanding of ionic doping effects and provide valuable insights for engineering polar topologies in liquid crystal systems.",
+  "authors": [
+   "Zhongjie Ma",
+   "Miao Jiang",
+   "Yaohao Song",
+   "Aile Sun",
+   "Shengzhu Yi",
+   "Chao Zhou",
+   "Xiang Huang",
+   "Mingjun Huang",
+   "Satoshi Aya",
+   "Qi-Huo Wei"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Zhongjie Ma",
+  "pdf_url": "http://arxiv.org/pdf/2406.00994",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-03",
+  "tags": [],
+  "title": "Half-integer Topological Defects Paired via String Micelles in Polar Liquids",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2024-12-14"
+ },
+ "2406.11726": {
+  "abstract": "We study percolation transition of run and tumble particles (RTPs) on a two dimensional square lattice. RTPs in these models run to the nearest neighbour along their internal orientation with unit rate, and to other nearest neighbours with rates $p$. In addition, they tumble to change their internal orientation with rate $ω$. We show that for small tumble rates, RTP-clusters created by joining occupied nearest neighbours irrespective of their orientation form a phase separated state when the rate of positional diffusion $p$ crosses a threshold; with further increase of $p$ the clusters disintegrate and another transition to a mixed phase occurs. The critical exponents of this re-entrant site-percolation transition of RTPs vary continuously along the critical line in the $ω$-$p$ plane, but a scaling function remains invariant. This function is identical to the corresponding universal scaling function of percolation transition observed in the Ising model. We also show that the critical exponents of the underlying motility induced phase separation transition are related to corresponding percolation-critical-exponents by constant multiplicative factors known from the correspondence of magnetic and percolation critical exponents of the Ising model.",
+  "authors": [
+   "Soumya K. Saha",
+   "Aikya Banerjee",
+   "P. K. Mohanty"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "8 pages, 8 figures, Supp. Material (5 pages with 9 figures)",
+  "first_author": "Soumya K. Saha",
+  "pdf_url": "http://arxiv.org/pdf/2406.11726",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-06-17",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Site-percolation transition of run-and-tumble particles",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-12-27"
+ },
+ "2406.13566": {
+  "abstract": "In this work, we present a parametric finite element approximation of two-phase Navier-Stokes flow with viscoelasticity. The free boundary problem is given by the viscoelastic Navier-Stokes equations in the two fluid phases, connected by jump conditions across the interface. The elasticity in the fluids is characterised using the Oldroyd-B model with possible stress diffusion. The model was originally introduced to approximate fluid-structure interaction problems between an incompressible Newtonian fluid and a hyperelastic neo-Hookean solid, which are possible limit cases of the model. We approximate a variational formulation of the model with an unfitted finite element method that uses piecewise linear parametric finite elements. The two-phase Navier-Stokes-Oldroyd-B system in the bulk regions is discretised in a way that guarantees unconditional solvability and stability for the coupled bulk-interface system. Good volume conservation properties for the two phases are observed in the case where the pressure approximation space is enriched with the help of an XFEM function. We show the applicability of our method with some numerical results.",
+  "authors": [
+   "Harald Garcke",
+   "Robert Nürnberg",
+   "Dennis Trautwein"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Harald Garcke",
+  "pdf_url": "http://arxiv.org/pdf/2406.13566",
+  "primary_category": "math.NA",
+  "published": "2024-06-19",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Parametric finite element approximation of two-phase Navier--Stokes flow with viscoelasticity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-12-13"
+ },
+ "2406.18464": {
+  "abstract": "We formulate and solve a Bayesian inverse Navier-Stokes (N-S) problem that assimilates velocimetry data in order to jointly reconstruct a 3D flow field and learn the unknown N-S parameters, including the boundary position. By hardwiring a generalised N-S problem, and regularising its unknown parameters using Gaussian prior distributions, we learn the most likely parameters in a collapsed search space. The most likely flow field reconstruction is then the N-S solution that corresponds to the learned parameters. We develop the method in the variational setting and use a stabilised Nitsche weak form of the N-S problem that permits the control of all N-S parameters. To regularise the inferred the geometry, we use a viscous signed distance field (vSDF) as an auxiliary variable, which is given as the solution of a viscous Eikonal boundary value problem. We devise an algorithm that solves this inverse problem, and numerically implement it using an adjoint-consistent stabilised cut-cell finite element method. We then use this method to reconstruct magnetic resonance velocimetry (flow-MRI) data of a 3D steady laminar flow through a physical model of an aortic arch for two different Reynolds numbers and signal-to-noise ratio (SNR) levels (low/high). We find that the method can accurately i) reconstruct the low SNR data by filtering out the noise/artefacts and recovering flow features that are obscured by noise, and ii) reproduce the high SNR data without overfitting. Although the framework that we develop applies to 3D steady laminar flows in complex geometries, it readily extends to time-dependent laminar and Reynolds-averaged turbulent flows, as well as non-Newtonian (e.g. viscoelastic) fluids.",
+  "authors": [
+   "Alexandros Kontogiannis",
+   "Scott V. Elgersma",
+   "Andrew J. Sederman",
+   "Matthew P. Juniper"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cs.LG",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Alexandros Kontogiannis",
+  "pdf_url": "http://arxiv.org/pdf/2406.18464",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-06-26",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-12-10"
+ },
+ "2406.18511": {
+  "abstract": "Like the letters in the alphabet forming words, reusing components of a heterogeneous mixture is an efficient strategy for assembling a large number of target structures. Examples range from synthetic DNA origami to proteins self-assembling into complexes. The standard self-assembly paradigm views target structures as free-energy minima of a mixture. While this is an appealing picture, at high speed structures may be kinetically trapped in local minima, reducing self-assembly accuracy. How then can high speed, high accuracy, and combinatorial usage of components coexist? We propose to reconcile these three concepts not by avoiding kinetic traps, but by exploiting them to encode target structures. This can be achieved by sculpting the kinetic pathways of the mixture, instead of its free-energy landscape. We formalize these ideas in a minimal toy model, for which we analytically estimate the encoding capacity and kinetic characteristics, in agreement with simulations. Our results may be generalized to other soft-matter systems capable of computation, such as liquid mixtures or elastic networks, and pave the way for high-dimensional information processing far from equilibrium.",
+  "authors": [
+   "Félix Benoist",
+   "Pablo Sartori"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "Main: 6 pages, 4 figures. SI: 3 pages, 3 figures",
+  "first_author": "Félix Benoist",
+  "pdf_url": "http://arxiv.org/pdf/2406.18511",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-06-26",
+  "tags": [],
+  "title": "High-Speed Combinatorial Polymerization through Kinetic-Trap Encoding",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-12-09"
+ },
+ "2406.19586": {
+  "abstract": "Most experiments can only detect a set of coarse-grained clusters of a molecular system, while the internal microstates are often inaccessible. Here, based on an infinitely long coarse-grained trajectory, we obtain a set of sufficient statistics which extracts all statistic information of coarse-grained observations. Based on these sufficient statistics, we set up a theoretical framework of parameter inference and nonequilibrium identification for a general Markovian system with an arbitrary number of microstates and arbitrary coarse-grained partitioning. Our framework can identify whether the sufficient statistics are enough for empirical estimation of all unknown parameters and we can also provide a quantitative criterion that reveals nonequilibrium. Our nonequilibrium criterion generalizes the one obtained [J. Chem. Phys. 132:041102 (2010)] for a three-state system with two coarse-grained clusters, and is capable of detecting a larger nonequilibrium region compared to the classical criterion based on autocorrelation functions.",
+  "authors": [
+   "Bingjie Wu",
+   "Chen Jia"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph",
+   "physics.data-an"
+  ],
+  "comment": null,
+  "first_author": "Bingjie Wu",
+  "pdf_url": "http://arxiv.org/pdf/2406.19586",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-06-28",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Parameter inference and nonequilibrium identification for Markovian systems based on coarse-grained observations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-12-13"
+ },
+ "2407.00458": {
+  "abstract": "We show that spontaneous density segregation in dense systems of aligning circle swimmers is a condensation phenomenon at odds with the phase separation scenarios usually observed in two-dimensional active matter. The condensates, which take the form of vortices or rotating polar packets, can absorb a finite fraction of the particles in the system, and keep a finite or slowly growing size as their mass increases. Our results are obtained both at particle and continuous levels. We consider both ferromagnetic and nematic alignment, and both identical and disordered chiralities. Condensation implies synchronization, even though our systems are in 2D and bear strictly local interactions. We propose a phenomenological theory based on observed mechanisms that accounts qualitatively for our results.",
+  "authors": [
+   "Yujia Wang",
+   "Bruno Ventéjou",
+   "Hugues Chaté",
+   "Xia-qing Shi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "7 pages, 5 figures",
+  "first_author": "Yujia Wang",
+  "pdf_url": "http://arxiv.org/pdf/2407.00458",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-29",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Condensation and Synchronization in Aligning Chiral Active Matter",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-12-19"
+ },
+ "2407.01590": {
+  "abstract": "We present a lattice model for polymer solutions, explicitly incorporating interactions with a bath of solvent and cosolvent molecules. By exploiting the well-known analogy between polymer systems and the $O(n)$-vector spin model in the limit $n \\to 0$, we derive an exact field-theoretic expression for the partition function of the system. The latter is then evaluated at the saddle point, providing a mean-field estimate of the free energy. The resulting expression, which conforms to the Flory-Huggins type, is then used to analyze the system's stability with respect to phase separation, complemented by a numerical approach based on convex hull evaluation. We demonstrate that this simple lattice model can effectively explain the behavior of a variety of seemingly unrelated polymer systems, which have been predominantly investigated in the past only through numerical simulations. This includes both, single-chain and multi-chain, solutions. Our findings emphasize the fundamental, mutually competing, roles of solvent and cosolvent in polymer systems.",
+  "authors": [
+   "Davide Marcato",
+   "Achille Giacometti",
+   "Amos Maritan",
+   "Angelo Rosa"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "12 pages, 6 figures (main); 9 pages, 5 figures (suppl info); Physical Review Materials, accepted for publication",
+  "first_author": "Davide Marcato",
+  "pdf_url": "http://arxiv.org/pdf/2407.01590",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-22",
+  "tags": [
+   "flory-huggins",
+   "phase-separation"
+  ],
+  "title": "Theory of polymers in binary solvent solutions: mean-field free energy and phase behavior",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-12-18"
+ },
  "2407.02239": {
   "abstract": "The Holstein model on a square lattice at half-filling has a well-established finite temperature phase transition to an insulating state with long range charge density wave (CDW) order. Because this CDW formation suppresses pairing, a superconducting (SC) phase emerges only with doping. In this work, we study the effects of dilution of the local phonon degrees of freedom in the Holstein model while keeping the system at half filling. We find not only that the CDW remains present up to a dilution fraction $f \\sim 0.15$, but also that long range pairing is stabilized with increasing $f$, resulting in a {\\it supersolid} regime centered at $f \\approx 0.10$, where long range diagonal and off-diagonal correlations coexist. Further dilution results in a purely SC phase, and ultimately in a normal metal. Our results provide a new route to the supersolid phase via the introduction of impurities at fixed positions which both increase quantum fluctuations and also are immune to the competing tendency to phase separation often observed in the doped case.",
   "authors": [
@@ -1283,6 +1486,42 @@
   ],
   "updated": "2024-12-10"
  },
+ "2412.07609": {
+  "abstract": "This study investigates optical and electrical properties of thin melanin films self-organized grown from water solutions of eumelanin extracted from edible plants. The melanin films exhibit the characteristics of a transparent low conductive polymer with stable in time electrical parameters. The films demonstrate indirect allowed optical transitions, an optical band gap E_g = 1.7 eV and a phonon energy {\\hbar ω} = 0.185 eV as well as a high absorption coefficient in the ultraviolet range, which highlight the film potential for applications as light-absorbing layers in photovoltaic solar energy converters. Analysis of infrared transmission spectra evidences presence of a significant amount of OH groups in the films, pointing to their hydrophilicity, which may have an effect on the film electrical conductivity. It is hypothesized as well that the ratio of sp^3 to sp^2 hybridized CH_n bonds influences the films' optical and electrical properties and that higher concentration of the sp^2 bonds may increase the conductivity due to the enhanced π-electron delocalization.",
+  "authors": [
+   "T. Obukhova",
+   "M. Semenenko",
+   "M. Dusheiko",
+   "S. Davidenko",
+   "Ye. S. Davidenko",
+   "S. S. Davidenko",
+   "S. Malyuta",
+   "S. Shahan",
+   "O. S. Pylypchuk",
+   "P. Mochuk",
+   "M. Voitovych",
+   "T. Kuzmenko",
+   "A. Sarikov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "14 pages, 7 figures",
+  "first_author": "T. Obukhova",
+  "pdf_url": "http://arxiv.org/pdf/2412.07609",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-12-10",
+  "tags": [
+   "band-gap",
+   "conducting-polymers"
+  ],
+  "title": "Optical studies of melanin films as a material for solar light absorbers",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2024-12-10"
+ },
  "2412.07870": {
   "abstract": "We examine quantum statistical properties of transmission and reflection from a chiral waveguide coupled to qubits for arbitrary input powers. We report on several remarkable features of output fields such as transparency, quantum nonreciprocity and the second-order correlation function $g^{(2)}(0)$ values less than unity. In particular, for two qubits detuned antisymmetrically with respect to the central waveguide frequency, we find transparency in forward transmission and in photon numbers for arbitrary values of the input powers provided the phase separation between qubits is an integer multiple of $π$. Values of $g^{(2)}(0)$ less than unity can be reached even for nonzero value of the intrinsic damping by using phase separation different from integer multiple of $π$, marking the transition from classical to quantum light. We also uncover a new type of quantum criticality that enables complete suppression of forward-propagating amplitude transmission at specific driving powers, giving rise to enhanced nonreciprocal effects in both transmission and quantum fluctuations in amplitudes. Forward propagation amplifies the quantum fluctuations in amplitudes, while backward propagation significantly suppresses them. These findings open new pathways for controlling light-matter interactions in chiral quantum electrodynamics, with potential applications in quantum information and nonreciprocal quantum devices.",
   "authors": [
@@ -1524,6 +1763,28 @@
   "title": "FDM-Bench: A Comprehensive Benchmark for Evaluating Large Language Models in Additive Manufacturing Tasks",
   "topics": [
    "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-12-13"
+ },
+ "2412.09999": {
+  "abstract": "Here we report a working physical model of a programmable neural nanonetwork based on a nanostructured conductive polymer - polyaniline. The device can be programmed owing to controlled growth of nanowires, a method developed in our laboratory. The response (output signal) of the network depends on the activated input line, but also on the amplitude of the input signals. The system is able to analyze multiple input signals in parallel and in real time. This is still considered as a challenge.",
+  "authors": [
+   "Jerzy J. Langer"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Jerzy J. Langer",
+  "pdf_url": "http://arxiv.org/pdf/2412.09999",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2024-12-13",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Programmable polyaniline nano neural network. A simple physical model",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2024-12-13"
  },
@@ -1812,6 +2073,33 @@
   ],
   "updated": "2024-12-09"
  },
+ "2412.13415": {
+  "abstract": "Multi-component polymer mixtures are ubiquitous in biological self-organization but are notoriously difficult to study computationally. Plagued by both slow single molecule relaxation times and slow equilibration within dense mixtures, molecular dynamics simulations are typically infeasible at the spatial scales required to study the stability of mesophase structure. Polymer field theories offer an attractive alternative, but analytical calculations are only tractable for mean-field theories and nearby perturbations, constraints that become especially problematic for fluctuation-induced effects such as coacervation. Here, we show that a recently developed technique for obtaining numerical solutions to partial differential equations based on operator learning, *neural operators*, lends itself to a highly scalable training strategy by parallelizing per-species operator maps. We illustrate the efficacy of our approach on six-component mixtures with randomly selected compositions and that it significantly outperforms the state-of-the-art pseudospectral integrators for field-theoretic simulations, especially as polymer lengths become long.",
+  "authors": [
+   "Emmit K. Pert",
+   "Clay H. Batton",
+   "Sherry Li",
+   "Steven Dunne",
+   "Grant M. Rotskoff"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Emmit K. Pert",
+  "pdf_url": "http://arxiv.org/pdf/2412.13415",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-12-18",
+  "tags": [
+   "coacervates",
+   "molecular-dynamics"
+  ],
+  "title": "Scaling field-theoretic simulation for multi-component mixtures with neural operators",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2024-12-18"
+ },
  "2412.13694": {
   "abstract": "Organic photovoltaics are a promising solar cell technology well-suited to mass production using roll-to-roll processes. The efficiency of lab-scale solar cells has exceeded 20% and considerable attention is currently being given to understanding and minimising the remaining loss mechanisms preventing higher efficiencies. While recent efficiency improvements are partly owed to reducing non-radiative recombination losses at open-circuit, the low fill factor due to a significant transport resistance is becoming the Achilles heel of organic photovoltaics. The term transport resistance refers to a voltage and light intensity dependent charge collection loss in low-mobility materials. In this Perspective, we demonstrate that even the highest efficiency organic solar cells reported to-date have significant performance losses that can be attributed to transport resistance and that lead to high fill factor losses. We provide a closer look at the transport resistance and the material properties influencing it. We describe how to experimentally characterise and quantify the transport resistance by providing easy to follow instructions. Furthermore, the causes and theory behind transport resistance are detailed. In particular, we integrate the relevant figures of merit and different viewpoints on the transport resistance. Finally, we outline strategies that can be followed to minimise these charge collection losses in future solar cells.",
   "authors": [
@@ -1997,6 +2285,7 @@
   ],
   "title": "Network-forming phase separation of oppositely charged polyelectrolytes forming coacervates in a solvent",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-12-20"

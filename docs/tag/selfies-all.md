@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>selfies — all</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <a href="selfies-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22405.html">MolFM-Lite: Multi-Modal Molecular Property Prediction with Conformer Ensemble Attention and Cross-Modal Fusion</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
 <td>Syed Omer Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22405">2602.22405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16041.html">Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a></div><div class="paper-tags"><a href="qspr-all.html">qspr</a></div></td>
+<td>Zhenzhong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16041">2405.16041</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-09</td>
@@ -56,6 +62,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
 <td>Anagha Savit et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Zhaohan Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-27</td>
@@ -158,5 +170,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.12152.html">A Hitchhiker&#x27;s Guide to Deep Chemical Language Processing for Bioactivity Prediction</a></div></td>
 <td>Rıza Özçelik et al.</td>
 <td><a href="http://arxiv.org/abs/2407.12152">2407.12152</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15996.html">Selfie Taking with Facial Expression Recognition Using Omni-directional Camera</a></div></td>
+<td>Kazutaka Kiuchi et al.</td>
+<td><a href="http://arxiv.org/abs/2405.15996">2405.15996</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00401.html">Optimized Drug Design using Multi-Objective Evolutionary Algorithms with SELFIES</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Tomoya Hömberg et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00401">2405.00401</a></td>
 </tr>
 </tbody></table>

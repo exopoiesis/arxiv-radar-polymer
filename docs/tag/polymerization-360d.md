@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymerization — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <strong>360d</strong> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -154,6 +154,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2410.20447">2410.20447</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18536.html">Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
+<td>Yuyang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2508.18536">2508.18536</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15571.html">Controlling polymerization-induced phase separation in the synthesis of porous gels</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Yanxia Feng et al.</td>
@@ -170,6 +176,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08391.html">Effects of knotting on the collapse of active ring polymers</a></div></td>
 <td>Davide Breoni et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08391">2507.08391</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="tem-360d.html">tem</a></div></td>
+<td>Gabriel Paciaroni et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-16</td>

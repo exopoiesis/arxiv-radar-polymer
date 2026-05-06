@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>selfies — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <strong>360d</strong> <a href="selfies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22405.html">MolFM-Lite: Multi-Modal Molecular Property Prediction with Conformer Ensemble Attention and Cross-Modal Fusion</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Syed Omer Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22405">2602.22405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16041.html">Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a></div><div class="paper-tags"><a href="qspr-360d.html">qspr</a></div></td>
+<td>Zhenzhong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16041">2405.16041</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-09</td>
@@ -56,6 +62,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Anagha Savit et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Zhaohan Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-27</td>

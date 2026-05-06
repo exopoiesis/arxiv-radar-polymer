@@ -7,7 +7,7 @@ title: "Polymer arxiv-radar"
 
 _Updated 2026-05-06._
 
-**2985** polymer-relevant papers across **23** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3244** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -154,6 +154,12 @@ _Updated 2026-05-06._
 </tr>
 <tr class="paper">
 <td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2406.02522.html">Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Nisha Rokaya et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02522">2406.02522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2509.12571.html">Anomalous statistics in the Langevin equation with fluctuating diffusivity: from Brownian yet non-Gaussian diffusion to anomalous diffusion and ergodicity breaking</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Takuma Akimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12571">2509.12571</a></td>
@@ -187,11 +193,5 @@ _Updated 2026-05-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27726.html">Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Ilya Olevsko et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27726">2604.27726</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27978.html">On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Miroslav Bulíček et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27978">2604.27978</a></td>
 </tr>
 </tbody></table>

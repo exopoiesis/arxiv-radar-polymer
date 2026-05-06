@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dielectric-properties — all</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <a href="dielectric-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,5 +116,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09502.html">The Electrical Design of a Membrane Antenna for Lunar-based Low-frequency Radio Telescope</a></div></td>
 <td>Suonanben et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09502">2408.09502</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03527.html">Dielectric Properties of Disordered A6B2O17 (A = Zr; B = Nb, Ta) Phases</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>R. Jackson Spurling et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03527">2405.03527</a></td>
 </tr>
 </tbody></table>

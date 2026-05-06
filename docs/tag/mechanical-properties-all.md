@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">708 papers</span>
+  <span class="paper-count">753 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1481,6 +1481,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03350.html">A Simplified Model for the Forced Libration of Icy Moons with Subsurface Oceans: Application to Enceladus and Mimas</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2405.03350">2405.03350</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02239.html">Shear-driven memory effects in carbon black gels</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="rheology-all.html">rheology</a> · <a href="saxs-all.html">saxs</a></div></td>
 <td>Julien Bauland et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02239">2508.02239</a></td>
@@ -1844,6 +1850,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23658.html">Twist-Free Enhancement of Strength and Modulus in Electrospun Yarns via Liquid-Assisted Capillary Densification</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Saujatya Mandal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23658">2509.23658</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02941.html">Numerical analysis of high-order methods for variable-exponent fractional diffusion-wave equation</a></div></td>
+<td>Wenlin Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02941">2406.02941</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-25</td>
@@ -2843,6 +2855,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17895.html">On the mechanics of inhaled bronchial transmission of pathogenic microdroplets generated from the upper respiratory tract, with implications for infection onset</a></div></td>
+<td>Saikat Basu</td>
+<td><a href="http://arxiv.org/abs/2406.17895">2406.17895</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03150.html">On the Energy Spectrum of Non-Newtonian Turbulence</a></div></td>
 <td>Esteban Calzetta</td>
 <td><a href="http://arxiv.org/abs/2409.03150">2409.03150</a></td>
@@ -3167,6 +3185,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07078.html">Stability of elastoviscoplastic plane Couette flow</a></div></td>
+<td>Ramkarn Patne</td>
+<td><a href="http://arxiv.org/abs/2405.07078">2405.07078</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09611.html">Extension of Sequence of Physical Processes framework relating the second Piola-Kirchhoff stress tensor to the Green-Lagrange strain tensor</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
 <td>Louis-Vincent Bouthier et al.</td>
 <td><a href="http://arxiv.org/abs/2503.09611">2503.09611</a></td>
@@ -3206,6 +3230,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17208.html">A highly sensitive, self-adhesive, biocompatible DLP 3D printed organohydrogel for flexible sensors and wearable devices</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
 <td>Ze Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2502.17208">2502.17208</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10764.html">Deformable porous media with degenerate hysteresis in gravity field</a></div></td>
+<td>Chiara Gavioli et al.</td>
+<td><a href="http://arxiv.org/abs/2405.10764">2405.10764</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-17</td>
@@ -3323,6 +3353,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-01-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17092.html">Hydrodynamic modes in holographic multiple-axion model</a></div></td>
+<td>Ling-Zheng Xia et al.</td>
+<td><a href="http://arxiv.org/abs/2405.17092">2405.17092</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16468.html">Microrheological model for Kelvin-Voigt materials with micro-heterogeneities</a></div></td>
 <td>T. N. Azevedo et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16468">2501.16468</a></td>
@@ -3424,6 +3460,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.16652">2410.16652</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16066.html">Constructing Boundary-identical Microstructures via Guided Diffusion for Fast Multiscale Topology Optimization</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="generative-model-all.html">generative-model</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Jingxuan Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16066">2406.16066</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.01597.html">Turbulent Pipe Flow of Thixotropic Fluids</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="rheology-all.html">rheology</a></div></td>
 <td>Noman Yousuf et al.</td>
@@ -3497,6 +3539,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13566.html">Parametric finite element approximation of two-phase Navier--Stokes flow with viscoelasticity</a></div></td>
+<td>Harald Garcke et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13566">2406.13566</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03182.html">Enhancement of adhesion strength through microvibrations: modeling and experiments</a></div></td>
 <td>Michele Tricarico et al.</td>
 <td><a href="http://arxiv.org/abs/2411.03182">2411.03182</a></td>
@@ -3512,6 +3560,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08242.html">Viscoelastic lubrication of a submerged cylinder sliding down an incline</a></div></td>
 <td>Alexandros T. Oratis et al.</td>
 <td><a href="http://arxiv.org/abs/2412.08242">2412.08242</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18464.html">Bayesian inverse Navier-Stokes problems: joint flow field reconstruction and parameter learning</a></div></td>
+<td>Alexandros Kontogiannis et al.</td>
+<td><a href="http://arxiv.org/abs/2406.18464">2406.18464</a></td>
 </tr>
 <tr class="paper">
 <td>2024-12-09</td>
@@ -3743,6 +3797,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13218.html">Lipid membrane domains control actin network viscoelasticity</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="membranes-all.html">membranes</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Daniel P. Arnold et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13218">2406.13218</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.16880.html">Viscoelastic thin film lubrication in finite width channels</a></div></td>
 <td>Humayun Ahmed et al.</td>
 <td><a href="http://arxiv.org/abs/2410.16880">2410.16880</a></td>
@@ -3952,6 +4012,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.05097">2409.05097</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16180.html">Physical phenomena during nanoindentation deformation of amorphous glassy polymers</a></div></td>
+<td>Prakash Sarkar et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16180">2405.16180</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02904.html">From Finite to Continuous Phenotypes in (Visco-)Elastic Tissue Growth Models</a></div></td>
 <td>Tomasz Dębiec et al.</td>
@@ -4070,6 +4136,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11647.html">Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
 <td>Anoop Mutneja et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11647">2408.11647</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18577.html">Nanodiamond-based spatial-temporal deformation sensing for cell mechanics</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Yue Cui et al.</td>
+<td><a href="http://arxiv.org/abs/2406.18577">2406.18577</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14505.html">Dynamics of colloidal rods rotating in viscoelastic media</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>N Narinder et al.</td>
+<td><a href="http://arxiv.org/abs/2406.14505">2406.14505</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-17</td>
@@ -4262,5 +4340,197 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01347.html">Bulk and fracture process zone contribution to the rate-dependent adhesion amplification in viscoelastic broad-band materials</a></div></td>
 <td>Ali Maghami et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01347">2407.01347</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18978.html">Anisotropic extended Burgers model, its relaxation tensor and properties of the associated Boltzmann viscoelastic system</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Maarten de Hoop et al.</td>
+<td><a href="http://arxiv.org/abs/2406.18978">2406.18978</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15432.html">A theoretical framework for multi-physics modeling of poro-visco-hyperelasticity-induced time-dependent fracture of blood clots</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
+<td>Dongxu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15432">2406.15432</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16703.html">Velocity-vorticity-pressure mixed formulation for the Kelvin-Voigt-Brinkman-Forchheimer equations</a></div></td>
+<td>Sergio Caucao et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16703">2406.16703</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16139.html">Brownian friction dynamics: fluctuations in sliding distance</a></div></td>
+<td>Ruibin Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16139">2406.16139</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14707.html">A nanoindentation study of attenuation in geological materials</a></div></td>
+<td>Nir Z. Badt et al.</td>
+<td><a href="http://arxiv.org/abs/2406.14707">2406.14707</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13525.html">On energy-dissipative finite element approximations for rate-type viscoelastic fluids with stress diffusion</a></div></td>
+<td>Dennis Trautwein</td>
+<td><a href="http://arxiv.org/abs/2406.13525">2406.13525</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02874.html">Weakening the effect of boundaries: `diffusion-free&#x27; boundary conditions as a `do least harm&#x27; alternative to Neumann</a></div></td>
+<td>Yufeng Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02874">2405.02874</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12741.html">Characterization of Additive Manufacturing Materials for String Assembly in Cleanroom</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
+<td>Jacopo Bernardini et al.</td>
+<td><a href="http://arxiv.org/abs/2406.12741">2406.12741</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04338.html">Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="generative-model-all.html">generative-model</a></div></td>
+<td>Fangfu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04338">2406.04338</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06001.html">From yield stress to elastic instabilities: Tuning the extensional behavior of elastoviscoplastic fluid</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Mohamed S. Abdelgawad et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06001">2406.06001</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06200.html">Inequalities of energy release rates in compression of nano-porous materials predict its imminent breakdown</a></div></td>
+<td>Diksha et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06200">2406.06200</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05511.html">Micromechanically motivated finite-strain phase-field fracture model to investigate damage in crosslinked elastomers</a></div></td>
+<td>S. P. Josyula et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05511">2406.05511</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04720.html">Long-term memory induced correction to Arrhenius law</a></div></td>
+<td>A. Barbier-Chebbah et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04720">2406.04720</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04970.html">Programmable Multi-responsive Nanocellulose-based Hydrogels with Embodied Logic</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
+<td>Beatriz Arsuffi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04970">2406.04970</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05278.html">Modelling effects of moisture on mechanical properties of crosslinked polyurethane adhesives</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a></div></td>
+<td>S. P. Josyula et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05278">2406.05278</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04420.html">Numerical investigation of fracture behaviour of polyurethane adhesives under the influence of moisture</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="rheology-all.html">rheology</a></div></td>
+<td>Siva Pavan Josyula et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04420">2406.04420</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04453.html">Rheological properties of acid-induced carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="rheology-all.html">rheology</a></div></td>
+<td>Gauthier Legrand et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04453">2406.04453</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09496.html">Physics-Informed Neural Network based inverse framework for time-fractional differential equations for rheology</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Sukirt Thakur et al.</td>
+<td><a href="http://arxiv.org/abs/2407.09496">2407.09496</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02113.html">Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Vinay Vaibhav et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02113">2406.02113</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02303.html">When does the elastic regime begin in viscoelastic pinch-off?</a></div></td>
+<td>A. Gaillard et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02303">2406.02303</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01165.html">Evaluating the potential of thermoplastic polymers for cryogenic sealing applications: strain rate and temperature effects</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Zhenzhou Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01165">2406.01165</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01181.html">Q-BiC: A biocompatible integrated chip for in vitro and in vivo spin-based quantum sensing</a></div></td>
+<td>Louise Shanahan et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01181">2406.01181</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00813.html">A Thermodynamically Consistent Model for Yield Stress Fluids</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Nan Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.00813">2406.00813</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-electrolytes-all.html">polymer-electrolytes</a></div></td>
+<td>Ganesh K Rajahmundry et al.</td>
+<td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20920.html">On the viscoelastic-electromagnetic-gravitational analogy</a></div></td>
+<td>Jose&#x27; M. Carcione et al.</td>
+<td><a href="http://arxiv.org/abs/2405.20920">2405.20920</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18185.html">Revisiting the strain-induced softening behaviour in hydrogels</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
+<td>L. K. R. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18185">2405.18185</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17274.html">Global existence for wave and beam equations with double damping and a new power nonlinearity</a></div></td>
+<td>Khaldi Said et al.</td>
+<td><a href="http://arxiv.org/abs/2405.17274">2405.17274</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16317.html">Delayed Gravitational Collapse of Attractive Colloidal Suspensions</a></div></td>
+<td>Kim William Torre et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16317">2405.16317</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07384.html">Water-enhancing gels exhibiting heat-activated formation of silica aerogels for protection of critical infrastructure during catastrophic wildfire</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
+<td>Changxin Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07384">2405.07384</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11596.html">Bioinspired Nested-Isotropic Lattices with Tunable Anisotropy for Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
+<td>R. Boda et al.</td>
+<td><a href="http://arxiv.org/abs/2405.11596">2405.11596</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07721.html">High-frequency Optimally Windowed Chirp rheometry for rapidly evolving viscoelastic materials: application to a crosslinking thermoset</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Thanasis Athanasiou et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07721">2405.07721</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03090.html">A continuum and computational framework for viscoelastodynamics: III. A nonlinear theory</a></div></td>
+<td>Ju Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03090">2405.03090</a></td>
 </tr>
 </tbody></table>

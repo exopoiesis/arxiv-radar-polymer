@@ -1,4 +1,25 @@
 {
+ "2405.16188": {
+  "abstract": "Molecular chains of elastomer networks are modeled as ideal, finite, Freely Jointed Chains (FJCs). We first develop a compact, closed-form, mathematically accurate representation of this model. We begin with the closed form of the Pade-like approximations for the Inverse Langevin Function, modified by the method by Slater (2003), to map to the ideal FJC model. We fit the generalized form of this expression to exact the series expression by Treloar (1975) for the probability density function. The resulting fit yields the exact expression with respect to the Treloar expression. We verify this exact fit from the precise correlation of the moments from the fitted probability distribution with the analytical FJC distribution moments. These expressions are incorporated into the 8-chain geometry, to yield the affine network elasticity expression. We extend the exact and compact expression of an ideal FJC to determine the fluctuation distribution (about its mean position), of the junction between two ideal FJCs. The fluctuation is the conditional probability of the junction, given the separation of the distal points of the connected FJCs. The fluctuation distribution corresponds to an ideal FJC, whose effective number of segments, decreases linearly with the distal end separation. Finally, we develop the elasticity relationship for such an ideal network whose junctions can fluctuate to reduce the strain energy density. However, this reduction itself decreases with deformation, which is incorporated in developing the elasticity expression for a phantom network of finite chains.",
+  "authors": [
+   "Hemant Nanavati",
+   "Sushanta Das"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "43 Pages (Including 29 Pages for Main Text, 11 Pages for Appendices), 23 Figures (including 9 in Appendices)",
+  "first_author": "Hemant Nanavati",
+  "pdf_url": "http://arxiv.org/pdf/2405.16188",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-05-25",
+  "tags": [],
+  "title": "Phantom Networks of Finite Chains",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2025-08-18"
+ },
  "2408.03932": {
   "abstract": "The formation of dynamical patterns is one of the most striking features of nonequilibrium physical systems. Recent work has shown that such patterns arise generically from forces that violate Newton's third law, known as nonreciprocal interactions. These nonequilibrium phenomena are challenging for modern theories. Here, we introduce a model mixture of active (self-propelled) and passive (diffusive) particles amenable to exact mathematical analysis. We exploit state-of-the-art methods to derive exact hydrodynamic equations for the particle densities, which reveal effective nonreciprocal couplings between the active and passive species. We study the resulting collective behavior, including the linear stability of homogeneous states and phase coexistence in large systems. This reveals a novel phase diagram with the spinodal associated with active phase separation protruding through the associated binodal, heralding the emergence of dynamical steady states. We analyze these states in the thermodynamic limit of large system size, showing, for example, that sharp interfaces may travel at finite velocities, but traveling phase-separated states are forbidden. The model's mathematical tractability enables precise new conclusions beyond those available by numerical simulation of particle models or field theories.",
   "authors": [
@@ -962,6 +983,31 @@
   ],
   "updated": "2025-08-19"
  },
+ "2508.00663": {
+  "abstract": "Hybrid oscillator architectures that combine feedback oscillators with self-sustained negative resistance oscillators have emerged as a promising platform for artificial neuron design. In this work, we introduce a modeling and analysis framework for amplifier-assisted organic electrochemical neurons, leveraging nonlinear dynamical systems theory. By formulating the system as coupled differential equations describing membrane voltage and internal state variables, we identify the conditions for self-sustained oscillations and characterize the resulting dynamics through nullclines, phase-space analysis, and bifurcation behavior, providing complementary insight to standard circuit-theoretic arguments of the operation of oscillators. Our simplified yet rigorous model enables tractable analysis of circuits integrating classical feedback components (e.g., operational amplifiers) with novel devices exhibiting negative differential resistance, such as organic electrochemical transistors (OECT). This approach reveals the core mechanisms behind oscillation generation, demonstrating the utility of dynamic systems theory in understanding and designing complex hybrid circuits. Beyond neuromorphic and bioelectronic applications, the proposed framework offers a generalizable foundation for developing tunable, biologically inspired oscillatory systems in sensing, signal processing, and adaptive control.",
+  "authors": [
+   "Gonzalo Rivera-Sierra",
+   "Roberto Fenollosa",
+   "Juan Bisquert"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Gonzalo Rivera-Sierra",
+  "pdf_url": "http://arxiv.org/pdf/2508.00663",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-08-01",
+  "tags": [
+   "oect"
+  ],
+  "title": "Organic Electrochemical Neurons: Nonlinear Tools for Complex Dynamics",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-08-01"
+ },
  "2508.01328": {
   "abstract": "The functionalities and applications of complex coacervates -- liquid condensates resulting from liquid-liquid phase separation of charged polymers -- are significantly influenced by the dispersion and aggregation states of guest macromolecules. Intriguingly, guest macromolecules exhibit a strong tendency to aggregate within coacervates even in the absence of apparent chemical incompatibility, indicating a universal aggregation mechanism at play in these environments. Using extensive MD simulations, we identify electrostatic depletion -- a strong force arising from electrostatic correlations within the host polyelectrolyte network that drives guest aggregations. Due to electrostatic depletion, neutral polymers, low-charge-density polyelectrolytes, and intrinsically disordered proteins (IDPs) exhibit effective attractions in coacervates, in stark contrast to their behavior in dilute solutions. Unlike traditional depletion effect that requires mismatched length scale and morphology, electrostatic depletion is relevant in fluid systems where solute and solvent are both polymers with comparable size. Our discovery bridges a critical knowledge gap in the molecular physics of densely charged, crowded liquids and holds significant implications for the design of synthetic protocells and advanced drug delivery systems.",
   "authors": [
@@ -984,6 +1030,7 @@
   ],
   "title": "Electrostatic Depletion Force in Complex Coacervates",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-08-02"
@@ -1012,6 +1059,31 @@
    "Synthesis, Kinetics & Automation"
   ],
   "updated": "2025-08-02"
+ },
+ "2508.01757": {
+  "abstract": "We present absorption coefficient α(ω), transverse dielectric function ε(ω), optical conductivity σ(ω), and reflectance R(ω) calculated for an emeraldine salt conducting polymer in its crystalline three-dimensional polaronic structure. We utilize Kohn-Sham DFT electronic wavefunctions and energies implemented in the expression of the macroscopic transverse dielectric function in the framework of the band theory without the electron-hole interaction. Contributions of intra-band transitions are taken into account by adding a Drude-like term to the dielectric function calculated ab-initio. Comparison with optical properties, recently measured on high-quality emeraldine salts (Nature 441(2006)65-68), and with optical absorption spectra, recorded on other emeraldine salts, is very satisfactory. The calculated spectra are discussed in terms of energy-band structure, density of states, inter- and intra-band transitions and transverse dielectric function.",
+  "authors": [
+   "Renato Colle",
+   "Pietro Parruccini",
+   "Andrea Benassi",
+   "Carlo Cavazzoni"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Renato Colle",
+  "pdf_url": "http://arxiv.org/pdf/2508.01757",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-08-03",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-08-03"
  },
  "2508.02399": {
   "abstract": "Responsive hydrogels can sense environmental stimuli and respond as actuators by expelling water and changing shape. In this article, we develop theory to demonstrate that groups of responsive hydrogels can also communicate with each other, by utilising the effect of elastic deformation on chemical reaction dynamics. Specifically, we consider a system of two spatially-separated chemically responsive hydrogels suspended in a solution in which a Belousov-Zhabotinsky (BZ)-type reaction occurs. Solving for the gel dynamics with the transport of solvent through the poroelastic network and the chemical kinetics, we show how the periodic swelling-deswelling oscillations of each gel can become coupled, and how this coupling can be exploited to send signals from one gel to the other via mechanical manipulation of the sender that affect the local (and thus global) frequency of oscillation.",
@@ -1424,6 +1496,32 @@
   "title": "Order-Disorder Transition in Delay Vicsek Model",
   "topics": [
    "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2025-08-07"
+ },
+ "2508.05217": {
+  "abstract": "This paper presents a time-domain implementation of the Method of Auxiliary Sources (MAS) combined with the Standard Impedance Boundary Condition (SIBC) for electromagnetic scattering problems involving cylindrical scatterers with finite but moderate conductivity. The proposed approach focuses on solving the two-dimensional problem using a first-order SIBC, which is valid when the conductivity is sufficiently higher than the maximum spectral frequency times the dielectric permittivity of the scatterer. This regime includes moderately conductive materials--such as carbon-based composites, conductive polymers, and doped dielectrics--that are increasingly used in real-world radio-frequency applications, including wearable electronics, electromagnetic interference shielding, and biomedical sensors. Under the above validity conditions, the interaction between the incident wave and the scatterer is dominated by surface effects, allowing for an efficient and accurate modeling strategy without the need to compute internal fields. The theoretical formulation of the time-domain MAS-SIBC method is developed, followed by extensive numerical testing on various geometries whose cross section is a closed curve. Such geometries include circular, elliptical, super-circular, rounded-triangular, and inverted-elliptical scatterers. A planar geometry is also tested. All results are validated against analytical solutions and commercial frequency-domain solvers, demonstrating the accuracy and practical potential of the proposed method. The findings suggest that time-domain MAS-SIBC offers a promising and computationally efficient approach for modeling scattering from materials even with moderate conductivity.",
+  "authors": [
+   "Minas Kouroublakis",
+   "Nikolaos L. Tsitsas",
+   "Yehuda Leviatan"
+  ],
+  "categories": [
+   "physics.class-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Minas Kouroublakis",
+  "pdf_url": "http://arxiv.org/pdf/2508.05217",
+  "primary_category": "physics.class-ph",
+  "published": "2025-08-07",
+  "tags": [
+   "composites",
+   "conducting-polymers"
+  ],
+  "title": "A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-08-07"
  },
@@ -2841,6 +2939,47 @@
   ],
   "updated": "2025-08-23"
  },
+ "2508.18536": {
+  "abstract": "In situ polymerization of conductive polymers (CPs) represents a transformative approach in bioelectronics, by enabling the controlled growth of electrically active materials right at the tissue or device surface to create seamless biotic-abiotic interfaces. Traditional CP deposition techniques often use high anodic potentials, non-physiological electrolytes, or strong oxidants, making them harmful to adjacent tissues. A possible solution is enzymatic polymerization which operates under milder conditions, but it is limited by the stability and activity window of the enzyme catalysts, low throughput, and challenges in spatially confining polymer growth. To resolve these issues, here we developed one-dimensional porous Au-coated Ag nanowires with horseradish peroxidase (HRP)-like catalytic properties, thereby for the first time enabling mild in situ enzyme-free polymerization of conductive polymers near neutral pH. The enzyme-free polymerization is demonstrated both in aqueous dispersions at pH=6 and in situ onto porous Au coated Ag nanowire based stretchable electrodes. Following enzyme-free catalytic polymerization, the electrically conducting polymer coating on the electrode greatly improves the impedance and achieves an impedance of 2.6 kOhm at 1 kHz for 50x50 um large electrodes.",
+  "authors": [
+   "Yuyang Li",
+   "Changbai Li",
+   "Yangpeiqi Yi",
+   "Nader Marzban",
+   "Chengzhuo Yu",
+   "Tobias Abrahamsson",
+   "Zesheng Liu",
+   "Justinas Palisaitis",
+   "Xianjie Liu",
+   "Zhixing Wu",
+   "Eylul Ceylan",
+   "Per O. Å. Persson",
+   "Mats Fahlman",
+   "Xenofon Strakosas",
+   "Magnus Berggren Daniel T. Simon",
+   "Klas Tybrandt"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.app-ph",
+   "physics.bio-ph"
+  ],
+  "comment": "13 pages, 4 figures",
+  "first_author": "Yuyang Li",
+  "pdf_url": "http://arxiv.org/pdf/2508.18536",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-08-25",
+  "tags": [
+   "catalyst-design",
+   "conducting-polymers",
+   "polymerization"
+  ],
+  "title": "Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-08-25"
+ },
  "2508.18574": {
   "abstract": "The liquid-liquid phase separation of biomolecules is an important process for intracellular organization. Biomolecular sequence combinatorics leads to a large variety of proteins and nucleic acids which can interact to form a diversity of dense liquid (`condensate') phases. The relationship between sequence design and the diversity of the resultant phases is therefore of interest. Here, we explore this question using the DNA nanostar system which permits the creation of multi-phase condensate droplets through sequence engineering of the sticky end bonds that drive particle-particle attraction. We explore the theoretical limits of nanostar phase diversity, then experimentally demonstrate the ability to create 9 distinct, non-adhering nanostar phases that do not share components. We further study how thermal processing affects the morphology and dynamics of such a highly diverse condensate system. We particularly show that a rapid temperature quench leads to the formation of a densely packed 2-D layer of droplets that is transiently stabilized by caging effects enabled by the phase diversity, leading to glassy dynamics, such as slow coarsening and dynamic heterogeneity. Generally, our work provides experimental insight into the thermodynamics of phase separation of complex mixtures and demonstrates the rational engineering of complex, long-range, multi-phase droplet structures.",
   "authors": [
@@ -2863,6 +3002,7 @@
   ],
   "title": "Diverse, Distinct, and Densely Packed DNA Droplets",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-08-26"

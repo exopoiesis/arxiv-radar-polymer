@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-separation — all</h1>
-  <span class="paper-count">484 papers</span>
+  <span class="paper-count">528 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,6 +146,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18211.html">Weak solutions and weak-strong uniqueness for a Cahn-Hilliard type model with chemotaxis</a></div></td>
 <td>Robert Lasarzik et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18211">2604.18211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="composites-all.html">composites</a></div></td>
+<td>Biplob Bhattacherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-19</td>
@@ -1163,6 +1169,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19984.html">Hydrodynamics of a hard-core active lattice gas</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Ritwik Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19984">2405.19984</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16150.html">Absorbed power in ultracold polarized Fermi mixtures at normal-superfluid separation phase: Mass-imbalanced effect</a></div></td>
 <td>Neda Ebrahimian</td>
 <td><a href="http://arxiv.org/abs/2510.16150">2510.16150</a></td>
@@ -1636,6 +1648,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2507.15030">2507.15030</a></td>
 </tr>
 <tr class="paper">
+<td>2025-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19114.html">Fingerprints of a charge ice state in the doped Mott insulator Nb$_3$Cl$_8$</a></div></td>
+<td>Evgeny A. Stepanov</td>
+<td><a href="http://arxiv.org/abs/2405.19114">2405.19114</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13964.html">Long-time analysis of a pair of on-lattice and continuous run-and-tumble particles with jamming interactions</a></div></td>
 <td>Arnaud Guillin et al.</td>
@@ -1814,6 +1832,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00194.html">Minimal Models for RNA Simulations</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
 <td>D. Thirumalai et al.</td>
 <td><a href="http://arxiv.org/abs/2501.00194">2501.00194</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02409.html">Universal limiting behaviour of reaction-diffusion systems with conservation laws</a></div></td>
+<td>Joshua F. Robinson et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02409">2406.02409</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-02</td>
@@ -2206,6 +2230,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2503.04955">2503.04955</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12292.html">Theory of fractional quantum Hall liquids coupled to quantum light and emergent graviton-polaritons</a></div></td>
+<td>Zeno Bacciconi et al.</td>
+<td><a href="http://arxiv.org/abs/2405.12292">2405.12292</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13785.html">Bose-Fermi $N$-polaron state emergence from correlation-mediated blocking of phase separation</a></div></td>
 <td>Felipe Gómez-Lozada et al.</td>
@@ -2258,6 +2288,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09197.html">Water-in-water PEG/DEX/protein microgel emulsions: effect of microgel particle size on the rate of emulsion phase separation</a></div></td>
 <td>Andrzej Balis et al.</td>
 <td><a href="http://arxiv.org/abs/2502.09197">2502.09197</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18561.html">Cu NMR study of lightly doped La$_{2-x}$Sr$_{x}$CuO$_4$</a></div></td>
+<td>Marija Vučković et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18561">2405.18561</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-06</td>
@@ -2333,6 +2369,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11726.html">Site-percolation transition of run-and-tumble particles</a></div></td>
+<td>Soumya K. Saha et al.</td>
+<td><a href="http://arxiv.org/abs/2406.11726">2406.11726</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.19875.html">Biological Insights from Integrative Modeling of Intrinsically Disordered Protein Systems</a></div></td>
 <td>Zi Hao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2412.19875">2412.19875</a></td>
@@ -2351,9 +2393,21 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00458.html">Condensation and Synchronization in Aligning Chiral Active Matter</a></div></td>
+<td>Yujia Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2407.00458">2407.00458</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15175.html">Effective Energy, Interactions And Out Of Equilibrium Nature Of Scalar Active Matter</a></div></td>
 <td>Antonin Brossollet et al.</td>
 <td><a href="http://arxiv.org/abs/2412.15175">2412.15175</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01590.html">Theory of polymers in binary solvent solutions: mean-field free energy and phase behavior</a></div><div class="paper-tags"><a href="flory-huggins-all.html">flory-huggins</a></div></td>
+<td>Davide Marcato et al.</td>
+<td><a href="http://arxiv.org/abs/2407.01590">2407.01590</a></td>
 </tr>
 <tr class="paper">
 <td>2024-12-17</td>
@@ -2438,6 +2492,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15835.html">Neural density functional theory of liquid-gas phase coexistence</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Florian Sammüller et al.</td>
 <td><a href="http://arxiv.org/abs/2408.15835">2408.15835</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01865.html">The influence of active agent motility on SIRS epidemiological dynamics</a></div></td>
+<td>R. Kailasham et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01865">2406.01865</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11616.html">Algebraic depletion interactions in two-temperature mixtures</a></div></td>
+<td>Pascal Damman et al.</td>
+<td><a href="http://arxiv.org/abs/2406.11616">2406.11616</a></td>
 </tr>
 <tr class="paper">
 <td>2024-11-19</td>
@@ -2549,6 +2615,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13218.html">Lipid membrane domains control actin network viscoelasticity</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="membranes-all.html">membranes</a></div></td>
+<td>Daniel P. Arnold et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13218">2406.13218</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17026.html">From bubbles to clusters: Multiple solutions to the Allen--Cahn system</a></div></td>
 <td>João Henrique de Andrade et al.</td>
 <td><a href="http://arxiv.org/abs/2410.17026">2410.17026</a></td>
@@ -2585,6 +2657,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14256.html">Microscopic and stochastic simulations of chemically active droplets</a></div></td>
+<td>Roxanne Berthin et al.</td>
+<td><a href="http://arxiv.org/abs/2406.14256">2406.14256</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.08778.html">Theory for sequence selection via phase separation and oligomerization</a></div></td>
 <td>Ivar S. Haugerud et al.</td>
 <td><a href="http://arxiv.org/abs/2410.08778">2410.08778</a></td>
@@ -2612,6 +2690,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.07058.html">Active fluids form system-spanning filamentary networks</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
 <td>Paarth Gulati et al.</td>
 <td><a href="http://arxiv.org/abs/2410.07058">2410.07058</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11642.html">Activity-induced phase transition and coarsening dynamics in dry apolar active nematics</a></div></td>
+<td>Arpan Sinha et al.</td>
+<td><a href="http://arxiv.org/abs/2405.11642">2405.11642</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-05</td>
@@ -2648,6 +2732,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00955.html">Itinerant magnetism in Hubbard models with long-range interactions</a></div></td>
 <td>Johannes Dieplinger et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00955">2410.00955</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06119.html">Gradient Flow Based Phase-Field Modeling Using Separable Neural Networks</a></div></td>
+<td>Revanth Mattey et al.</td>
+<td><a href="http://arxiv.org/abs/2405.06119">2405.06119</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10794.html">Inverse magnetocaloric effect and phase separation induced by giant van Hove singularity in itinerant ferromagnetic metal</a></div></td>
+<td>Petr A. Igoshev et al.</td>
+<td><a href="http://arxiv.org/abs/2405.10794">2405.10794</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-27</td>
@@ -2734,6 +2830,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.07095">2409.07095</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00508.html">Hyperuniformity in phase ordering: the roles of activity, noise, and non-constant mobility</a></div></td>
+<td>Filippo De Luca et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00508">2405.00508</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04139.html">Evidence for spin droplets (ferrons) formation in the heavy fermion metal CeB$_6$ with dynamic charge stripes</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>A. N. Azarevich et al.</td>
@@ -2804,6 +2906,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07876.html">Active Liquid-Liquid Phase-Separation in a Confining Environment</a></div></td>
 <td>Chen Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2408.07876">2408.07876</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06974.html">Decoupling elasticity and electrical conductivity of carbon black gels filled with insulating non-Brownian grains</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
+<td>Thomas Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2405.06974">2405.06974</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-12</td>
@@ -2890,6 +2998,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.07826">2407.07826</a></td>
 </tr>
 <tr class="paper">
+<td>2024-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02136.html">bio2Byte Tools deployment as a Python package and Galaxy tool to predict protein biophysical properties</a></div></td>
+<td>Jose Gavalda-Garcia et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02136">2405.02136</a></td>
+</tr>
+<tr class="paper">
 <td>2024-07-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01803.html">Error analysis for a viscoelastic phase separation model</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Aaron Brunk et al.</td>
@@ -2918,5 +3032,155 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00946.html">Atomic cluster expansion interatomic potential for defects and thermodynamics of Cu-W system</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Jiahao Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00946">2407.00946</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19266.html">Phase boundaries promote chemical reactions through localized fluxes</a></div></td>
+<td>Alexandra Shelest et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19266">2406.19266</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19779.html">Structuring in Thin Films during Meniscus-Guided Deposition</a></div></td>
+<td>René de Bruijn et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19779">2406.19779</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17704.html">Alignment-Induced Self-Organization of Autonomously Steering Microswimmers: Turbulence, Vortices, and Jets</a></div></td>
+<td>Segun Goh et al.</td>
+<td><a href="http://arxiv.org/abs/2406.17704">2406.17704</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16539.html">Apparent phase transitions and critical-like behavior in multi-component mixtures</a></div></td>
+<td>Felix Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16539">2406.16539</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16024.html">Atmospheric Helium Abundances in the Giant Planets</a></div></td>
+<td>N. Nettelmann et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16024">2406.16024</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15072.html">Features of heterogeneously charged systems at their liquid-liquid critical point</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Daniele Notarmuzi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15072">2406.15072</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13550.html">Local structure maturation in high entropy oxide (Mg,Co,Ni,Cu,Zn)1-x(Cr,Mn)xO thin films</a></div><div class="paper-tags"><a href="tem-all.html">tem</a></div></td>
+<td>Gabriela E. Niculescu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13550">2406.13550</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12250.html">Observation of stacking engineered magnetic phase transitions within moiré supercells of twisted van der Waals magnets</a></div></td>
+<td>Senlei Li et al.</td>
+<td><a href="http://arxiv.org/abs/2406.12250">2406.12250</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11679.html">Voltage control of spin resonance in phase change materials</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Tian-Yue Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2406.11679">2406.11679</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11976.html">Inevitable First Order Phase Transitions in 3D Quantum Hall Systems</a></div></td>
+<td>Kaiyuan Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.11976">2406.11976</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10495.html">Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Dorothy Gogoi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.10495">2406.10495</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02384.html">Second-order optimality conditions for the sparse optimal control of nonviscous Cahn-Hilliard systems</a></div></td>
+<td>Pierluigi Colli et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02384">2406.02384</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06138.html">Power-law correlation in the homogeneous disordered state of anisotropically self-propelled systems</a></div></td>
+<td>Kyosuke Adachi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06138">2406.06138</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08496.html">Modelling the Impact of Organic Molecules and Phosphate Ions on Biosilica Pattern Formation in Diatoms</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Svetlana Petrenko et al.</td>
+<td><a href="http://arxiv.org/abs/2405.08496">2405.08496</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01947.html">Complex pattern formation governed by a Cahn-Hilliard-Swift-Hohenberg system: Analysis and numerical simulations</a></div></td>
+<td>Harald Garcke et al.</td>
+<td><a href="http://arxiv.org/abs/2405.01947">2405.01947</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01038.html">Dynamical clustering and wetting phenomena in inertial active matter</a></div></td>
+<td>Lorenzo Caprini et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01038">2406.01038</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20651.html">Active Young-Dupré Equation: How Self-organized Currents Stabilize Partial Wetting</a></div></td>
+<td>Yongfeng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2405.20651">2405.20651</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20807.html">On the Cahn-Hilliard equation with kinetic rate dependent dynamic boundary condition and non-smooth potential: separation property and long-time behavior</a></div></td>
+<td>Maoyin Lv et al.</td>
+<td><a href="http://arxiv.org/abs/2405.20807">2405.20807</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16425.html">Dipolar bosons in a twisted bilayer geometry</a></div></td>
+<td>Chao Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16425">2405.16425</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12481.html">On the role of Loewner entropy in statistical mechanics of 2D Ising system</a></div></td>
+<td>Yusuke Shibasaki</td>
+<td><a href="http://arxiv.org/abs/2405.12481">2405.12481</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.15803.html">Arbitrage equilibria in active matter systems</a></div></td>
+<td>Venkat Venkatasubramanian et al.</td>
+<td><a href="http://arxiv.org/abs/2405.15803">2405.15803</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10181.html">Phase behavior of metastable water from large-scale simulations of a quantitative accurate model: The liquid-liquid critical point</a></div></td>
+<td>Luis Enrique Coronas et al.</td>
+<td><a href="http://arxiv.org/abs/2405.10181">2405.10181</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07701.html">Phase separation in a binary mixture of sticky spheres</a></div></td>
+<td>D. C. Thakur et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07701">2405.07701</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08109.html">Sequence Dependence of Critical Properties for 2-letter Chains</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Athanassios Z. Panagiotopoulos</td>
+<td><a href="http://arxiv.org/abs/2405.08109">2405.08109</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02046.html">Cu$_x$Al$_{1-x}$ films as Alternatives to Copper for Advanced Interconnect Metallization</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Jean-Philippe Soulié et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02046">2405.02046</a></td>
 </tr>
 </tbody></table>

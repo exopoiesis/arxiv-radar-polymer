@@ -1,4 +1,27 @@
 {
+ "2405.19114": {
+  "abstract": "The interplay between strong electronic correlations and the inherent frustration of certain lattice geometries is a common mechanism for the formation of nontrivial states of matter. In this work, we theoretically explore the collective electronic effects in the monolayer Nb$_3$Cl$_8$, a recently discovered triangular lattice Mott insulator. Our advanced many-body numerical simulations predict the emergence of a phase separation region upon doping this material. Notably, in close proximity to the phase separation, the static charge susceptibility undergoes a drastic change and reveals a distinctive bow-tie structure in momentum space. The appearance of such a fingerprint in the context of spin degrees of freedom would indicate the formation of a spin ice state. This finding allows us to associate the observed phase separation to a charge ice state, a state with a remarkable power law dependence of both the effective exchange interaction and correlations between electronic densities in real space.",
+  "authors": [
+   "Evgeny A. Stepanov"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Evgeny A. Stepanov",
+  "pdf_url": "http://arxiv.org/pdf/2405.19114",
+  "primary_category": "cond-mat.str-el",
+  "published": "2024-05-29",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Fingerprints of a charge ice state in the doped Mott insulator Nb$_3$Cl$_8$",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2025-07-18"
+ },
  "2407.06462": {
   "abstract": "Homogeneous nucleation, a textbook transition path for phase transitions, is typically understood on thermodynamic grounds through the prism of classical nucleation theory. However, recent studies have suggested the applicability of classical nucleation theory to systems far from equilibrium. In this Article, we formulate a purely mechanical perspective of homogeneous nucleation and growth, elucidating the criteria for the properties of a critical nucleus without appealing to equilibrium notions. Applying this theory to active fluids undergoing motility-induced phase separation, we find that nucleation proceeds in a qualitatively similar fashion to equilibrium systems, with concepts such as the Gibbs-Thomson effect and nucleation barriers remaining valid. We further demonstrate that the recovery of such concepts allows us to extend classical theories of nucleation rates and coarsening dynamics to active systems upon using the mechanically-derived definitions of the nucleation barrier and surface tensions. Three distinct surface tensions -- the mechanical, capillary, and Ostwald tensions -- play a central role in our theory. While these three surface tensions are identical in equilibrium, our work highlights the distinctive role of each tension in the stability of active interfaces and the nucleation and growth of motility-induced phases.",
   "authors": [
@@ -78,6 +101,7 @@
   ],
   "title": "Material properties of biomolecular condensates emerge from nanoscale dynamics",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Property Prediction & QSPR"
   ],
@@ -773,6 +797,31 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2025-07-30"
+ },
+ "2503.13092": {
+  "abstract": "A new algorithm has been developed at LHCb which is able to reconstruct and select very displaced vertices in real-time at the first level of the trigger (HLT1). It makes use of the Upstream Tracker (UT) and the Scintillator Fiber detector (SciFi) of LHCb and it is executed on GPUs inside the Allen framework. In addition to an optimized strategy, it utilizes a Neural Network (NN) implementation to increase the track efficiency and reduce the ghost rates, with very high throughput and limited time budget. Besides serving to reconstruct $K_{s}^{0}$ and $Λ$ particles from the Standard Model, the Downstream algorithm and the associated two-track vertexing could largely increase the LHCb physics potential for detecting long-lived particles during the Run 3.",
+  "authors": [
+   "V. Kholoimov",
+   "B. Kishor Jashal",
+   "A. Oyanguren",
+   "V. Svintozelskyi",
+   "J. Zhuo"
+  ],
+  "categories": [
+   "hep-ex",
+   "physics.ins-det"
+  ],
+  "comment": "Published in Computing and Software for Big Science, V2.0",
+  "first_author": "V. Kholoimov",
+  "pdf_url": "http://arxiv.org/pdf/2503.13092",
+  "primary_category": "hep-ex",
+  "published": "2025-03-17",
+  "tags": [],
+  "title": "A Downstream and vertexing algorithm for Long Lived Particles (LLP) selection at the first High-level trigger (HLT1) of LHCb",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-07-14"
  },
  "2503.14817": {
   "abstract": "We introduce a simple theoretical model, the Freely Jointed Chain with quenched hinges (qFJC), which captures the quenched disorder in the local bending stiffness of the polymer. In this article, we analyze the tensile elasticity of the qFJC in the Gibbs (fixed-force) ensemble. For finite-size systems, we obtain a recurrence relation of the exact free energy, which allows us to calculate the exact force-extension relation numerically for an arbitrary size of the system. In the thermodynamic limit, when $L({\\rm contour \\;length})\\gg L_p({\\rm persistence \\;length})$, we obtain a framework to deal with quenched disorder in the polymer configuration. This allows us to obtain the response function for the discrete and continuous qFJC in the thermodynamic limit. It turns out that the extension of the continuous qFJC can be cast in a simple form. Furthermore, we have applied our analysis to rod-coil multiblock copolymers.",
@@ -1827,6 +1876,28 @@
   ],
   "updated": "2025-07-11"
  },
+ "2507.06660": {
+  "abstract": "This monograph describes nine years of research carried out at the Institute for Electronics, Micro-electronics and Nanotechnologies (IEMN), developed around defining a generic concept for detection, filling a void between metrological sensors and biological senses, sensing an environment's qualities along with their measurable properties in information generation technologies. The first chapter introduces fundamental notions of recognition for complex environments, such as for their chemistry, for which organic semiconductors can embed two new functionalities in consumer electronics. The second and third chapters mostly summarize contributions to the state-of-the-art literature on these matters: in the second chapter, on studying conducting polymers as both chemical detectors and conductimetric transducers, and the third chapter, on studying electropolymerization sensitivity to conceptualize evolutionary electronics. The fourth chapter presents several results on the conception of several \"classifiers\" exploiting both functionalities: in tasks aiming at integrating different sensitivities at a very small scale, at broadening sensing devices' receptive fields based on experience, and at physically engraving the experience data in a sensing hardware. Along with this monograph are also associated four appendices, summarizing different elements related to the context of this research.",
+  "authors": [
+   "Sébastien Pecqueur"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Sébastien Pecqueur",
+  "pdf_url": "http://arxiv.org/pdf/2507.06660",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2025-07-09",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Organic Electronic Classifiers for Sensing",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-07-09"
+ },
  "2507.06727": {
   "abstract": "This study presents fast and accurate analytical methods for transient thermal modeling in multi-layer composites with an arbitrary number of layers. The proposed approach accounts for internal heat generation and non-homogeneities in the heat diffusion equation. The separation of variables (SOV) method is employed to decouple spatial and temporal components, enabling the determination of eigenvalues. The orthogonal expansion (OE) technique is then applied to compute Fourier coefficients using 'natural' orthogonality. An analytical solution for composites with constant heat sources is developed by combining the SOV method and OE technique. Additionally, a Green's function (GF) based approach is formulated to handle transient heat sources and other non-homogeneous conditions, including temperature-dependent thermal conductivity. The results demonstrate that the proposed method offers significantly faster computations compared to finite element (FE) methods, while maintaining high accuracy. This forward modeling approach serves as an efficient basis for inverse modeling, aimed at estimating unknown material properties and geometric deformations, which are explored in Part II of this study.",
   "authors": [
@@ -1995,6 +2066,35 @@
   "title": "Deep Learning based 3D Volume Correlation for Additive Manufacturing Using High-Resolution Industrial X-ray Computed Tomography",
   "topics": [
    "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2025-07-10"
+ },
+ "2507.07849": {
+  "abstract": "Composite materials based on Poly(3,4-ethylenedioxythiophene) (PEDOT) and CoFe$_2$O$_4$ magnetic nanoparticles (NP) were synthesized by chemical oxidative polymerization with varying monomer and surfactant (DBSA) concentrations, and were compared to PEDOT samples synthesized without NP. Electrical conductivity measurements were performed, which revealed that the composites are more conductive than the pure PEDOT samples, with this effect depending on EDOT and DBSA contents. Characterizations by SEM and TEM microscopies, UV-Vis, FTIR and Raman spectroscopies, X-ray diffraction and dynamic light scattering were carried out in order to associate the morphology and structure of these materials to their electrical conductivity, and to explain how EDOT and DBSA concentrations, and also the presence of NP, affects those properties. It was found that the NP play a significant role in the polymerization of EDOT, influencing the formation and arrangement of polymer chains, as well as their conjugation length, oxidation state, and resonant structures. These effects are also dependent on the DBSA content. To describe the conductivity of the composites, a two-phase model based on general effective media theory was introduced. The analysis revealed that, at low reactant concentrations, the NP increase the conductivity of the adjacent PEDOT by over two orders of magnitude.",
+  "authors": [
+   "Gabriel Paciaroni",
+   "María Ana Castro",
+   "Carlos Acha",
+   "Paula Soledad Antonel"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "42 pages, 7 figures",
+  "first_author": "Gabriel Paciaroni",
+  "pdf_url": "http://arxiv.org/pdf/2507.07849",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-07-10",
+  "tags": [
+   "composites",
+   "polymer-morphology",
+   "polymerization",
+   "tem"
+  ],
+  "title": "Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-07-10"
  },
@@ -2869,7 +2969,37 @@
   ],
   "title": "Cooperation and competition of basepairing and electrostatic interactions in mixtures of DNA nanostars and polylysine",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2025-07-22"
+ },
+ "2507.16626": {
+  "abstract": "Conducting polymer dendrite (CPD) morphogenesis is an electrochemical process that unlocks the potential to implement in materio evolving intelligence in electrical systems: As an electronic device experiences transient voltages in an open-space wet environment, electrically conductive structures physically change over time, programming the filtering properties of an interconnect as a non-linear analog device. Mimicking the self-preservation strategies of some sessile organisms, CPDs adapt their morphology to the environment they grow in. Either studied as an electrochemical experiment or as neuromorphic devices, the dependence of CPDs' electrical properties on the chemical nature of their environment is still unreported, despite the inter-dependence between the electrical properties of the electrogenerated material and the chemical composition of their growth medium. In this study, we report on the existing intrication between the nature and concentration of the electrolytes, electroactive compounds and co-solvents and the electrical and the electrochemical properties of CPDs in water. CPDs exhibit various chemical sensitivities in water: their morphology is highly dependent on the nature of the chemical resources available in their environment. The selection of these resources therefore critically influence morphogenesis. Also, concentrations have different impacts on growth dynamics, conditioning the balance between thermodynamic and kinetic control on polymer electrosynthesis. By correlating the dependencies of these evolving objects with the availability of the chemical resources in an aqueous environment, this study proposes guidelines to tune the degree of evolution of electronic materials in water. Such hardware is envisioned to exploit the chemical complexity of real world environments as part of information processing technologies.",
+  "authors": [
+   "Antoine Baron",
+   "Corentin Scholaert",
+   "David Guérin",
+   "Yannick Coffinier",
+   "Fabien Alibart",
+   "Sébastien Pecqueur"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Antoine Baron",
+  "pdf_url": "http://arxiv.org/pdf/2507.16626",
+  "primary_category": "physics.chem-ph",
+  "published": "2025-07-22",
+  "tags": [
+   "conducting-polymers",
+   "polymer-morphology"
+  ],
+  "title": "Chemical Control for the Morphogenesis of Conducting Polymer Dendrites in Water",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-07-22"
  },
@@ -3437,6 +3567,7 @@
   ],
   "title": "Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2025-07-29"

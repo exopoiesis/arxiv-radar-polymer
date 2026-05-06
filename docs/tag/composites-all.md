@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">222 papers</span>
+  <span class="paper-count">239 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18090.html">Muscle-inspired magnetic actuators that push, pull, crawl, and grasp</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Muhammad Bilal Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18090">2604.18090</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Biplob Bhattacherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-19</td>
@@ -700,6 +706,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.13648">2506.13648</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05217.html">A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
+<td>Minas Kouroublakis et al.</td>
+<td><a href="http://arxiv.org/abs/2508.05217">2508.05217</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02534.html">Radiation stability of nanocomposite scintillators</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
 <td>L. Prouzova Prochazkova et al.</td>
@@ -764,6 +776,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19758.html">Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO$_3$ Nanocomposites with Enhanced Photocatalytic Efficiency</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="nanocomposites-all.html">nanocomposites</a> · <a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>P. Princeya Mary et al.</td>
 <td><a href="http://arxiv.org/abs/2504.19758">2504.19758</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="polymerization-all.html">polymerization</a> · <a href="tem-all.html">tem</a></div></td>
+<td>Gabriel Paciaroni et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-09</td>
@@ -983,6 +1001,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05603.html">Geometric Optimization of Patterned Conductive Polymer Composite-based Strain Sensors Toward Enhanced Sensing Performance</a></div></td>
+<td>Jia-Chen Shang</td>
+<td><a href="http://arxiv.org/abs/2503.05603">2503.05603</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05616.html">Equilibrium phases and phase transitions in multicritical magnetic polymers</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Alberto Raiola et al.</td>
 <td><a href="http://arxiv.org/abs/2503.05616">2503.05616</a></td>
@@ -1198,6 +1222,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.19172">2410.19172</a></td>
 </tr>
 <tr class="paper">
+<td>2024-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13218.html">Lipid membrane domains control actin network viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="membranes-all.html">membranes</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Daniel P. Arnold et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13218">2406.13218</a></td>
+</tr>
+<tr class="paper">
 <td>2024-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01414.html">Exact Results for Scaling Dimensions of Neutral Operators in scalar CFTs</a></div></td>
 <td>Oleg Antipin et al.</td>
@@ -1294,6 +1324,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.05765">2409.05765</a></td>
 </tr>
 <tr class="paper">
+<td>2024-08-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10103.html">One-step Pulsed Laser Deposition of Metal oxynitride/Carbon Composites for Supercapacitor Application</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
+<td>Subrata Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2405.10103">2405.10103</a></td>
+</tr>
+<tr class="paper">
 <td>2024-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14824.html">Nonvolatile magneto-thermal switching driven by vortex trapping in commercial In-Sn solder</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Poonam Rani et al.</td>
@@ -1310,6 +1346,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06891.html">Automatic Feature Recognition and Dimensional Attributes Extraction From CAD Models for Hybrid Additive-Subtractive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
 <td>Muhammad Tayyab Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2408.06891">2408.06891</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06974.html">Decoupling elasticity and electrical conductivity of carbon black gels filled with insulating non-Brownian grains</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Thomas Larsen et al.</td>
+<td><a href="http://arxiv.org/abs/2405.06974">2405.06974</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-12</td>
@@ -1346,5 +1388,65 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07032.html">Acoustic waves in a halfspace material filled with random particulate</a></div></td>
 <td>Paulo S. Piva et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07032">2407.07032</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07157.html">Machine learning potential for the Cu-W system</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
+<td>Manura Liyanage et al.</td>
+<td><a href="http://arxiv.org/abs/2406.07157">2406.07157</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06190.html">Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="membranes-all.html">membranes</a></div></td>
+<td>Malak Alaa Eddine et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06190">2406.06190</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05461.html">Pyroresistive response of percolating conductive polymer composites</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
+<td>Ettore Barbieri et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05461">2406.05461</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04799.html">The origin of g $\approx$ 4 EPR line in magnetic nanocomposites: Manifestation of double quantum transitions in ferromagnetic granules</a></div></td>
+<td>A. B. Drovosekov et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04799">2406.04799</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04970.html">Programmable Multi-responsive Nanocellulose-based Hydrogels with Embodied Logic</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Beatriz Arsuffi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04970">2406.04970</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19835.html">Anomalously Strong Size Effect on Thermal Conductivity of Diamond Microparticles</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Yufeng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19835">2405.19835</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13330.html">Magnetic structure of EuCd$_2$Sb$_2$ single-crystal thin-film</a></div></td>
+<td>Eliot Heinrich et al.</td>
+<td><a href="http://arxiv.org/abs/2405.13330">2405.13330</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07721.html">High-frequency Optimally Windowed Chirp rheometry for rapidly evolving viscoelastic materials: application to a crosslinking thermoset</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Thanasis Athanasiou et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07721">2405.07721</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07758.html">Significant improvement in sensitivity of an anomalous Nernst heat flux sensor by composite structure</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Hiroto Imaeda et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07758">2405.07758</a></td>
 </tr>
 </tbody></table>

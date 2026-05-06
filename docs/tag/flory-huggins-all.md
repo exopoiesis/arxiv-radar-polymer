@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>flory-huggins — all</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <a href="flory-huggins-90d.html">90d</a> <a href="flory-huggins-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,6 +104,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05776.html">A positivity-preserving, second-order energy stable and convergent numerical scheme for a ternary system of macromolecular microsphere composite hydrogels</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
 <td>Lixiu Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2501.05776">2501.05776</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01590.html">Theory of polymers in binary solvent solutions: mean-field free energy and phase behavior</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Davide Marcato et al.</td>
+<td><a href="http://arxiv.org/abs/2407.01590">2407.01590</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-15</td>

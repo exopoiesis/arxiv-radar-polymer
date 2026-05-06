@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21512.html">How to quantify long-time rotational motion in molecular systems</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Romain Simon et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21512">2604.21512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Biplob Bhattacherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-20</td>
@@ -518,6 +524,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01365.html">RheOFormer: A generative transformer model for simulation of complex fluids and flows</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Maedeh Saberi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01365">2510.01365</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
+<td>Zhaohan Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-24</td>

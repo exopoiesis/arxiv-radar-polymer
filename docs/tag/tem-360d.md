@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tem — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="tem-7d.html">7d</a> <a href="tem-30d.html">30d</a> <a href="tem-90d.html">90d</a> <strong>360d</strong> <a href="tem-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20439.html">Toughening beta-Ga2O3 via mechanically seeded dislocations</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Zanlin Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20439">2508.20439</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
+<td>Gabriel Paciaroni et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-02</td>

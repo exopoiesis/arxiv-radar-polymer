@@ -1,4 +1,28 @@
 {
+ "2406.17895": {
+  "abstract": "Could the microdroplets formed by viscoelastic stretching and break-up of mucosal liquids in the upper respiratory tract (URT), when inhaled further downwind, explain the brisk pace at which deep lung infections emerge following onset of initial infection at the URT? While it is well-established that particulates inhaled from outside can possibly penetrate to the lower airway only if they are < 5 microns, the fate of particulates (many > 5-microns in diameter) sheared away from the intra-URT mucosa during inhalation remains an open question. These particulates predominantly originate at the nasopharynx, oropharynx, and laryngeal chamber with the vocal folds. To resolve the posed question, this study considers a CT-based 3D anatomical airway reconstruction and isolates the tract from the laryngeal vocal fold region, mapping the entire tracheal cavity and concluding at generation 2 of the tracheobronchial tree. Through the delineated geometry, airflow simulation is conducted using the LES scheme to replicate relaxed inhalation at 15 L/min. Against the ambient air flux, numerical experiments have been performed to monitor the transport of liquid particulates with diameters 1-30 microns, bearing physical properties akin to aerosolized mucus with embedded virions. The full-scale numerical transmission trends to the lower airway were found consistent with the findings from a reduced-order mathematical model that conceptualized the impact of intra-airway vortex instabilities on local particle transport through point vortex idealization in an anatomy-guided 2D potential flow domain. The results collectively demonstrate markedly elevated trends of deep lung penetration by the URT-derived particulates, even if they are as large as 10- and 15 microns. The high viral load carried by such droplets to the bronchial spaces could mechanistically explain the accelerated seeding of infection in the lungs.",
+  "authors": [
+   "Saikat Basu"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.bio-ph",
+   "physics.med-ph"
+  ],
+  "comment": "18 pages, 8 figures, 2 tables",
+  "first_author": "Saikat Basu",
+  "pdf_url": "http://arxiv.org/pdf/2406.17895",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-06-25",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "On the mechanics of inhaled bronchial transmission of pathogenic microdroplets generated from the upper respiratory tract, with implications for infection onset",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2025-04-28"
+ },
  "2407.08676": {
   "abstract": "In contrast to equilibrium systems, inertia can profoundly impact the phase behavior of active systems. This has been made particularly evident in recent years, with motility-induced phase separation (MIPS) exhibiting several intriguing dependencies on translational inertia. Here we report extensive simulations characterizing the phase behavior of inertial active matter and develop a mechanical theory for the complete phase diagram without appealing to equilibrium notions. Our theory qualitatively captures all aspects of liquid-gas coexistence, including the critical value of inertia above which MIPS ceases. Notably, our findings highlight that particle softness, and not inertia, is responsible for the MIPS reentrance effect at the center of a proposed active refrigeration cycle.",
   "authors": [
@@ -178,6 +202,7 @@
   ],
   "title": "Phase Separation on Deformable Membranes: interplay of mechanical coupling and dynamic surface geometry",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-04-03"
@@ -435,6 +460,7 @@
   ],
   "title": "A phase-field model for solutions of DNA-made particles",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-04-22"
@@ -1272,6 +1298,36 @@
   ],
   "updated": "2025-04-06"
  },
+ "2504.05179": {
+  "abstract": "Anion exchange membranes (AEMs) are promising candidates for replacing proton exchange membranes (PEMs) in electrochemical devices such as fuel cells, electrolyzers, batteries, and osmotic energy extraction systems. However, optimizing the AEM design requires a deeper understanding of the ionic conduction mechanism in the hydrated polymer matrix. This study investigates this mechanism by seeking to understand the relationship between ion exchange capacity (IEC), water absorption, and ionic conductivity in polynorbornene-based thin films. We combine experimental measurements with computational simulations using a newly developed minimal model of the polymer film. Our model is able to reproduce key experimental observations, including water sorption isotherms and ion conduction behavior as a function of relative humidity, and successfully captures the relationship between them. By comparing experimental data with computational results, we explain the commonly reported correlation between conductivity and hydration level and show how the correlation between these variables is affected by the charge density and temperature of the material. Our research advances our understanding of the physical mechanisms that govern the performance of the polyelectrolyte membrane, which is essential for the development of more efficient, stable, and environmentally friendly electrochemical systems.",
+  "authors": [
+   "Joan Montes de Oca",
+   "Ruilin Dong",
+   "Gervasio Zaldivar",
+   "Ge Sun",
+   "Zhongyang Wang",
+   "Shrayesh N. Patel",
+   "Paul F. Nealey",
+   "Juan J. de Pablo"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 8 figures in the main article. The submission also includes a Supporting Information appendix with 23 additional pages and 15 figures",
+  "first_author": "Joan Montes de Oca",
+  "pdf_url": "http://arxiv.org/pdf/2504.05179",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-04-07",
+  "tags": [
+   "membranes"
+  ],
+  "title": "IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-04-07"
+ },
  "2504.05564": {
   "abstract": "Cholesterol plays an essential role in biological membranes and is crucial for maintaining their stability and functionality. It is necessary for a variety of membranes, including planar bilayers, liposomes, curved bilayers, nanodiscs, and proteoliposomes. Cholesterol regulates membrane properties by influencing the density of lipids, phase separation into liquid-ordered (Lo) and liquid-disordered (Ld) areas, and stability of protein--membrane interactions. For planar bilayers, cholesterol thickens the membrane, decreases permeability, and brings lipids into well-ordered domains, adding rigidity and fluidity. It modulates membrane curvature in curved bilayers and vesicles, and stabilises low-curvature regions, which are important for structural integrity. In liposomes, cholesterol facilitates drug encapsulation and release by controlling bilayer flexibility and stability. In nanodiscs, cholesterol enhances structural integrity and protein compatibility, which enables the investigation of protein--lipid interactions under physiological conditions. In proteoliposomes, cholesterol regulates the conformational stability of embedded proteins that have implications for protein--lipid interaction. Developments in molecular dynamics (MD) techniques, from coarse-grained to all-atom simulations, have shown how cholesterol modulates lipid tail ordering, membrane curvature, and flip-flop behaviour in response to concentration. Such simulations provide insights into the mechanisms underlying membrane-associated diseases, aiding in the design of efficient drug delivery systems. In this review, we combine results from MD simulations to provide a synoptic explanation of cholesterols complex function in regulating membrane behaviour.",
   "authors": [
@@ -2090,6 +2146,73 @@
   "title": "Topologically Directed Simulations Reveal the Impact of Geometric Constraints on Knotted Proteins",
   "topics": [
    "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-04-17"
+ },
+ "2504.12861": {
+  "abstract": "Conventional electronics is founded on a paradigm where shaping perfect electrical elements is done at the fabrication plant, so as to make devices and systems identical, \"eternally immutable\". In nature, morphogenic evolutions are observed in most living organisms and exploit topological plasticity as a low-resource mechanism for in operando manufacturing and computation. Often fractal, the resulting topologies feature inherent disorder: a property which is never exploited in conventional electronics manufacturing, while necessary for data generation and security in software. In this study, we present how such properties can be exploited to implement long-term and evolvable synaptic plasticity in an electronic hardware. The rich topology of conducting polymer dendrites (CPDs) is exploited to program the non-ideality of their electrochemical capacitances containing constant-phase-elements. Their evolution through structural changes alters the characteristic time constants for them to charge and discharge with the applied voltage stimuli. Under a train of voltage spikes, the evolvable current relaxation of the electrochemical systems promotes short-term plasticity with timescales ranging from milliseconds to seconds. This large window depends on the temporality of the voltage pulses used for reading, but also on the structure of a pair of CPDs on two electrodes, grown by voltage pulses. This study demonstrates how relevant physically transient and non-ideal electrochemical components can be exploited for unconventional electronics, with the aim to mimic a universal property of living organisms which could barely be replicated in a silicon monocrystal.",
+  "authors": [
+   "Antoine Baron",
+   "Enrique H. Balaguera",
+   "Corentin Scholaert",
+   "Fabien Alibart",
+   "Sébastien Pecqueur"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Antoine Baron",
+  "pdf_url": "http://arxiv.org/pdf/2504.12861",
+  "primary_category": "physics.app-ph",
+  "published": "2025-04-17",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Hardware Implementation of Tunable Fractional-Order Capacitors by Morphogenesis of Conducting Polymer Dendrites",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2025-04-17"
+ },
+ "2504.13344": {
+  "abstract": "AI-powered autonomous experimentation (AI/AE) can accelerate materials discovery but its effectiveness for electronic materials is hindered by data scarcity from lengthy and complex design-fabricate-test-analyze cycles. Unlike experienced human scientists, even advanced AI algorithms in AI/AE lack the adaptability to make informative real-time decisions with limited datasets. Here, we address this challenge by developing and implementing an AI decision interface on our AI/AE system. The central element of the interface is an AI advisor that performs real-time progress monitoring, data analysis, and interactive human-AI collaboration for actively adapting to experiments in different stages and types. We applied this platform to an emerging type of electronic materials-mixed ion-electron conducting polymers (MIECPs) -- to engineer and study the relationships between multiscale morphology and properties. Using organic electrochemical transistors (OECT) as the testing-bed device for evaluating the mixed-conducting figure-of-merit -- the product of charge-carrier mobility and the volumetric capacitance (μC*), our adaptive AI/AE platform achieved a 150% increase in μC* compared to the commonly used spin-coating method, reaching 1,275 F cm-1 V-1 s-1 in just 64 autonomous experimental trials. A study of 10 statistically selected samples identifies two key structural factors for achieving higher volumetric capacitance: larger crystalline lamellar spacing and higher specific surface area, while also uncovering a new polymer polymorph in this material.",
+  "authors": [
+   "Yahao Dai",
+   "Henry Chan",
+   "Aikaterini Vriza",
+   "Fredrick Kim",
+   "Yunfei Wang",
+   "Wei Liu",
+   "Naisong Shan",
+   "Jing Xu",
+   "Max Weires",
+   "Yukun Wu",
+   "Zhiqiang Cao",
+   "C. Suzanne Miller",
+   "Ralu Divan",
+   "Xiaodan Gu",
+   "Chenhui Zhu",
+   "Sihong Wang",
+   "Jie Xu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yahao Dai",
+  "pdf_url": "http://arxiv.org/pdf/2504.13344",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2025-04-17",
+  "tags": [
+   "conducting-polymers",
+   "oect",
+   "polymer-morphology"
+  ],
+  "title": "Adaptive AI decision interface for autonomous electronic material discovery",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-04-17"
  },

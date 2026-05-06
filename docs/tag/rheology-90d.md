@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13818.html">Two-dimensional FrBD friction models for rolling contact: extension to linear viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Luigi Romano</td>
 <td><a href="http://arxiv.org/abs/2601.13818">2601.13818</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25830.html">Universal material basis for biocompatible printed electrolytes in Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="oect-90d.html">oect</a></div></td>
+<td>Moritz Flemming et al.</td>
+<td><a href="http://arxiv.org/abs/2604.25830">2604.25830</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-28</td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">321 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,6 +146,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18211.html">Weak solutions and weak-strong uniqueness for a Cahn-Hilliard type model with chemotaxis</a></div></td>
 <td>Robert Lasarzik et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18211">2604.18211</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="composites-360d.html">composites</a></div></td>
+<td>Biplob Bhattacherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-19</td>
@@ -1163,6 +1169,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19984.html">Hydrodynamics of a hard-core active lattice gas</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Ritwik Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19984">2405.19984</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16150.html">Absorbed power in ultracold polarized Fermi mixtures at normal-superfluid separation phase: Mass-imbalanced effect</a></div></td>
 <td>Neda Ebrahimian</td>
 <td><a href="http://arxiv.org/abs/2510.16150">2510.16150</a></td>
@@ -1636,6 +1648,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2507.15030">2507.15030</a></td>
 </tr>
 <tr class="paper">
+<td>2025-07-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19114.html">Fingerprints of a charge ice state in the doped Mott insulator Nb$_3$Cl$_8$</a></div></td>
+<td>Evgeny A. Stepanov</td>
+<td><a href="http://arxiv.org/abs/2405.19114">2405.19114</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13964.html">Long-time analysis of a pair of on-lattice and continuous run-and-tumble particles with jamming interactions</a></div></td>
 <td>Arnaud Guillin et al.</td>
@@ -1814,6 +1832,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00194.html">Minimal Models for RNA Simulations</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>D. Thirumalai et al.</td>
 <td><a href="http://arxiv.org/abs/2501.00194">2501.00194</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02409.html">Universal limiting behaviour of reaction-diffusion systems with conservation laws</a></div></td>
+<td>Joshua F. Robinson et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02409">2406.02409</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-02</td>

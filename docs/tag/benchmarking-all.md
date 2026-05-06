@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>benchmarking — all</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,6 +38,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21512.html">How to quantify long-time rotational motion in molecular systems</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a></div></td>
 <td>Romain Simon et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21512">2604.21512</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Biplob Bhattacherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-20</td>
@@ -520,6 +526,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.01365">2510.01365</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div><div class="paper-tags"><a href="selfies-all.html">selfies</a></div></td>
+<td>Zhaohan Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
+</tr>
+<tr class="paper">
 <td>2025-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20526.html">Fundamental Scaling Constraints for Equilibrium Molecular Computing</a></div></td>
 <td>Erin Crawley et al.</td>
@@ -884,5 +896,35 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04839.html">Bayesian Analysis Reveals the Key to Extracting Pair Potentials from Neutron Scattering Data</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
 <td>Brennon L. Shanks et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04839">2407.04839</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18366.html">Room temperature detection of the (H2)2 dimer</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>H. Fleurbaey et al.</td>
+<td><a href="http://arxiv.org/abs/2407.18366">2407.18366</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19145.html">Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate</a></div></td>
+<td>Amin Alibakhshi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19145">2406.19145</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05213.html">Exponential time propagators for elastodynamics</a></div></td>
+<td>Paavai Pari et al.</td>
+<td><a href="http://arxiv.org/abs/2405.05213">2405.05213</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02046.html">Cu$_x$Al$_{1-x}$ films as Alternatives to Copper for Advanced Interconnect Metallization</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Jean-Philippe Soulié et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02046">2405.02046</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00401.html">Optimized Drug Design using Multi-Objective Evolutionary Algorithms with SELFIES</a></div><div class="paper-tags"><a href="selfies-all.html">selfies</a></div></td>
+<td>Tomoya Hömberg et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00401">2405.00401</a></td>
 </tr>
 </tbody></table>

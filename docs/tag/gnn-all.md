@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,6 +158,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.17815.html">TopoQA: a topological deep learning-based approach for protein complex structure interface quality assessment</a></div></td>
 <td>Bingqing Han et al.</td>
 <td><a href="http://arxiv.org/abs/2410.17815">2410.17815</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08628.html">Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Killian Sheriff et al.</td>
+<td><a href="http://arxiv.org/abs/2405.08628">2405.08628</a></td>
 </tr>
 <tr class="paper">
 <td>2024-07-18</td>

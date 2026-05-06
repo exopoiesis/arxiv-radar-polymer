@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,6 +266,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21368.html">The 2/3 Rule of Glass Physics Implies Universalities in Crystal Melting</a></div></td>
 <td>Peter Lunkenheimer et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21368">2511.21368</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02733.html">Chain-length-dependent correlated molecular motion in polymers</a></div></td>
+<td>Matthew Reynolds et al.</td>
+<td><a href="http://arxiv.org/abs/2405.02733">2405.02733</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-21</td>
@@ -776,5 +782,65 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13272.html">Thermal modification of ZrCu metallic glass nanolaminates: Structure and mechanical properties</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Andrea Brognara et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13272">2407.13272</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20018.html">Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case</a></div></td>
+<td>Artem Glova et al.</td>
+<td><a href="http://arxiv.org/abs/2406.20018">2406.20018</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="composites-all.html">composites</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03469.html">Unifying atoms and colloids near the glass transition through bond-order topology</a></div></td>
+<td>Laura Stricker et al.</td>
+<td><a href="http://arxiv.org/abs/2406.03469">2406.03469</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02113.html">Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Vinay Vaibhav et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02113">2406.02113</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01165.html">Evaluating the potential of thermoplastic polymers for cryogenic sealing applications: strain rate and temperature effects</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Zhenzhou Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01165">2406.01165</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11362.html">The Role of a Diluent in Deformation-Induced Bonding of Glassy Polymer Bidisperse Blends</a></div></td>
+<td>Ajay Vallabh et al.</td>
+<td><a href="http://arxiv.org/abs/2405.11362">2405.11362</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11091.html">Electrically Poled Vapor-Deposited Organic Glasses for Integrated Electro-Optics</a></div></td>
+<td>Lauren Dallachiesa et al.</td>
+<td><a href="http://arxiv.org/abs/2405.11091">2405.11091</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08665.html">Note: Shoving model and the glass transition in one-component plasma</a></div></td>
+<td>Sergey Khrapak</td>
+<td><a href="http://arxiv.org/abs/2405.08665">2405.08665</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07416.html">A replica theory for the dynamic glass transition of hardspheres with continuous polydispersity</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
+<td>Hyonggi Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07416">2405.07416</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03497.html">Long ranged stress correlations in the hard sphere liquid</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
+<td>Niklas Grimm et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03497">2405.03497</a></td>
 </tr>
 </tbody></table>

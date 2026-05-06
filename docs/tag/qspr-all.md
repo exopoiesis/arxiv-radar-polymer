@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>qspr — all</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="qspr-7d.html">7d</a> <a href="qspr-30d.html">30d</a> <a href="qspr-90d.html">90d</a> <a href="qspr-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21330.html">InSpecLearn4SDL: Interpretable Spectral Features Predict Conductivity in Self-Driving Doped Conjugated Polymer Labs</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Ankush Kumar Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21330">2509.21330</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16041.html">Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a></div><div class="paper-tags"><a href="selfies-all.html">selfies</a></div></td>
+<td>Zhenzhong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16041">2405.16041</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-03</td>
@@ -104,5 +110,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06367.html">Vertex-Edge Weighted Molecular Graphs: A study on topological indices and their relevance to physicochemical properties of drugs in use cancer treatment</a></div></td>
 <td>Sezer Sorgun et al.</td>
 <td><a href="http://arxiv.org/abs/2408.06367">2408.06367</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10328.html">Topological analysis of entropy measure using regression models for diamond structure</a></div></td>
+<td>H. M. Nagesh</td>
+<td><a href="http://arxiv.org/abs/2405.10328">2405.10328</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18441.html">On Nirmala indices based entropy measures for the complex structure of ruthenium bipyridine</a></div></td>
+<td>H. M. Nagesh et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18441">2405.18441</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20767.html">Topological analysis of entropy measure using regression model for terpyridine complex nanosheet</a></div></td>
+<td>H. M. Nagesh</td>
+<td><a href="http://arxiv.org/abs/2405.20767">2405.20767</a></td>
 </tr>
 </tbody></table>

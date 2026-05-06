@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,16 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03728.html">Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Nasrollah Hajaliakbari et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03728">2605.03728</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Jingsen Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01774">2605.01774</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01377.html">Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation</a></div><div class="paper-tags"><a href="organic-photovoltaics-360d.html">organic-photovoltaics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Arghya Kundu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01377">2605.01377</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01470.html">Colloidal layer deposition with a controllable number of layers and compositional order</a></div></td>
+<td>Akshaya Kumar Jena et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01470">2605.01470</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div></td>
 <td>Kyra H. M. Klos et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00732">2605.00732</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01087.html">Non-Equilibrium Thermodynamic Extremal Principles During Filament Formation in ECM Memristors</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Justin Brutger et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01087">2605.01087</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-30</td>
@@ -446,6 +470,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05894.html">Learning microstructure in active matter</a></div></td>
 <td>Writu Dasgupta et al.</td>
 <td><a href="http://arxiv.org/abs/2601.05894">2601.05894</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05179.html">Local Multimodal Dynamics in Mixed Ionic-Electronic Conductors and Their Fingerprints in Organic Electrochemical Transistor Operation</a></div><div class="paper-tags"><a href="oect-360d.html">oect</a></div></td>
+<td>Shubham Tanwar et al.</td>
+<td><a href="http://arxiv.org/abs/2601.05179">2601.05179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-05</td>
@@ -946,6 +976,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2508.00896">2508.00896</a></td>
 </tr>
 <tr class="paper">
+<td>2025-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16626.html">Chemical Control for the Morphogenesis of Conducting Polymer Dendrites in Water</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2507.16626">2507.16626</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>E. Reynolds et al.</td>
@@ -962,6 +998,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10645.html">Scaling Relations, Morphological Stability, and Asymptotic Freedom of Plasma-Surface Deposition Dynamics</a></div></td>
 <td>Joel Saucedo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10645">2507.10645</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymerization-360d.html">polymerization</a> · <a href="tem-360d.html">tem</a></div></td>
+<td>Gabriel Paciaroni et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-08</td>

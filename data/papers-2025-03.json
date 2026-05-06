@@ -1,4 +1,87 @@
 {
+ "2405.07078": {
+  "abstract": "Several studies have investigated the turbulent flow of elastoviscoplastic (EVP) fluids, which exhibit yield stress in addition to viscoelasticity. The instabilities that could be responsible for the transition to turbulence in the EVP fluid flows remain unknown. Thus, the present explores the linear stability of EVP plane Couette flow (PCF) by employing the Saramito model. The eigenvalue problem is solved by using the pseudo-spectral method. In the limit of vanishing yield stress, EVP fluid behaves as Upper Convected Maxwell (UCM) fluid. The creeping flow of UCM fluid exhibits two stable Gorodotsov \\& Leonov (GL) modes, thus a stable flow. As the Bingham number (i.e., yield stress) increases, the GL modes become unstable, implying an unstable flow. Additionally, there are new unstable modes with phase speed equalling the average velocity of the fluid. The analysis reveals an extra tangential stress term, arising due to yield stress, is responsible for the predicted instabilities. Also, the Saramito model exhibits weak Hadamard instability, i.e., unstable perturbations of arbitrarily small wavelengths. The present study demonstrates the removal of the Hadamard instability by adding a stress diffusion term in the Saramito constitutive equation. To conclude, the PCF of an EVP fluid is linearly unstable.",
+  "authors": [
+   "Ramkarn Patne"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Ramkarn Patne",
+  "pdf_url": "http://arxiv.org/pdf/2405.07078",
+  "primary_category": "physics.flu-dyn",
+  "published": "2024-05-11",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Stability of elastoviscoplastic plane Couette flow",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2025-03-02"
+ },
+ "2405.12292": {
+  "abstract": "Recent breakthrough experiments have demonstrated how it is now possible to explore the dynamics of quantum Hall states interacting with quantum electromagnetic cavity fields. While the impact of strongly coupled non-local cavity modes on integer quantum Hall physics has been recently addressed, its effects on fractional quantum Hall (FQH) liquids -- and, more generally, fractionalized states of matter -- remain largely unexplored. In this work, we develop a theoretical framework for the understanding of FQH states coupled to quantum light. In particular, combining analytical arguments with tensor network simulations, we study the dynamics of a $ν=1/3$ Laughlin state in a single-mode cavity with finite electric field gradients. We find that the topological signatures of the FQH state remain robust against the non-local cavity vacuum fluctuations, as indicated by the endurance of the quantized Hall resistivity. The entanglement spectra, however, carry direct fingerprints of light-matter entanglement and topology, revealing peculiar polaritonic replicas of the $U(1)$ counting. As a further response to cavity fluctuations, we also find a squeezed FQH geometry, encoded in long-wavelength correlations. By exploring the low-energy excited spectrum inside the FQH phase, we identify a new neutral quasiparticle, the graviton-polariton, arising from the hybridization between quadrupolar FQH collective excitations (known as gravitons) and light. Pushing the light-matter interaction to ultra-strong coupling regimes we find other two important effects, a cavity vacuum-induced Stark shift for charged quasi-particles and a potential instability towards a density modulated stripe phase, competing against the phase separation driven by the Stark shift. Finally, we discuss the experimental implications of our findings and possible extension of our results to more complex scenarios.",
+  "authors": [
+   "Zeno Bacciconi",
+   "Hernan Xavier",
+   "Iacopo Carusotto",
+   "Titas Chanda",
+   "Marcello Dalmonte"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.other",
+   "cond-mat.quant-gas",
+   "cond-mat.str-el",
+   "quant-ph"
+  ],
+  "comment": "35 pages, 16 figures. Comments are welcome",
+  "first_author": "Zeno Bacciconi",
+  "pdf_url": "http://arxiv.org/pdf/2405.12292",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2024-05-20",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Theory of fractional quantum Hall liquids coupled to quantum light and emergent graviton-polaritons",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2025-03-05"
+ },
+ "2406.04775": {
+  "abstract": "Two-dimensional (2D) materials display nanoscale dynamic ripples that significantly impact their properties. Defects within the crystal lattice are the elementary building blocks to tailor the material's morphology. While some studies have explored the link between defective structures and rippling dynamics in 2D materials, a comprehensive understanding of this relationship has yet to be achieved. Here, we address this using machine learning-driven molecular dynamics simulations. Specifically, we find that above a critical concentration of defects, free-standing graphene sheets undergo a dynamic transition from freely propagating to static ripples. Our computational approach captures the dynamics with atomic resolution, and reveals that the transition is driven by elastic interactions between defects. The strength of these interactions is found to vary across defect types and we identify a unifying set of principles driving the dynamic-to-static transition in 2D materials. Our work not only rationalises puzzling experimental results for defective 2D materials, but also paves the way to design two-dimensional devices with tailored rippling dynamics. These insights could lay the foundations for a new class of disorder-based catalytic and interfacial materials.",
+  "authors": [
+   "Fabian L. Thiemann",
+   "Camille Scalliet",
+   "Erich A. Müller",
+   "Angelos Michaelides"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "cond-mat.mes-hall",
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "10 pages, 4 figures",
+  "first_author": "Fabian L. Thiemann",
+  "pdf_url": "http://arxiv.org/pdf/2406.04775",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-06-07",
+  "tags": [
+   "molecular-dynamics",
+   "polymer-morphology"
+  ],
+  "title": "Defects induce phase transition from dynamic to static rippling in graphene",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-03-10"
+ },
  "2407.07066": {
   "abstract": "Machine Learning (ML) models integrated with in-situ sensing offer transformative solutions for defect detection in Additive Manufacturing (AM), but this integration brings critical challenges in safeguarding sensitive data, such as part designs and material compositions. Differential Privacy (DP), which introduces mathematically controlled noise, provides a balance between data utility and privacy. However, black-box Artificial Intelligence (AI) models often obscure how this noise impacts model accuracy, complicating the optimization of privacy-accuracy trade-offs. This study introduces the Differential Privacy-Hyperdimensional Computing (DP-HD) framework, a novel approach combining Explainable AI (XAI) and vector symbolic paradigms to quantify and predict noise effects on accuracy using a Signal-to-Noise Ratio (SNR) metric. DP-HD enables precise tuning of DP noise levels, ensuring an optimal balance between privacy and performance. The framework has been validated using real-world AM data, demonstrating its applicability to industrial environments. Experimental results demonstrate DP-HD's capability to achieve state-of-the-art accuracy (94.43%) with robust privacy protections in anomaly detection for AM, even under significant noise conditions. Beyond AM, DP-HD holds substantial promise for broader applications in privacy-sensitive domains such as healthcare, financial services, and government data management, where securing sensitive data while maintaining high ML performance is paramount.",
   "authors": [
@@ -834,6 +917,7 @@
   ],
   "title": "The diffusive dynamics and electrochemical regulation of weak polyelectrolytes across liquid interfaces",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-03-17"
@@ -863,6 +947,7 @@
   ],
   "title": "Insights into Formation of Bicontinuous Emulsion Gels via in-situ (Ultra-)Small Angle X-ray Scattering",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-03-12"
@@ -1141,6 +1226,7 @@
   ],
   "title": "Hydrogen bond-driven interactions between chitosan and biobased surfactants: A study of bulk behavior and surface adsorption",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-03-03"
@@ -1625,6 +1711,28 @@
   "title": "A skeletonization based image segmentation algorithm to isolate slender regions in 3D microstructures",
   "topics": [
    "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2025-03-07"
+ },
+ "2503.05603": {
+  "abstract": "The patterned design of flexible sensors enables customized performance to meet diverse application demands. However, when multiple geometric parameters and sensing metrics are involved, experimental approaches to establish structure-performance relationships become costly and inefficient. Here, a novel universal piezoresistive model--overcoming limitations of commonly used models that are only applicable to small strains and linear responses--is developed to capture the relationship between conductivity tensor components and strain. A numerical method incorporating this model simulates the electromechanical properties of conductive composites and predicts patterned strain sensors' behavior. To validate this approach, a flexible strain sensor based on laser-induced graphene technology is fabricated and tested. Additionally, a rapid, cost-effective workflow combining Latin hypercube sampling and Pareto-optimal solutions is demonstrated for multi-parameter and multi-objective optimization of the sinusoidal-patterned sensor. This study provides valuable insights for investigating the structure-performance relationship of strain sensors and advances optimization methods for sensor designs.",
+  "authors": [
+   "Jia-Chen Shang"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "36 pages, 15 figures",
+  "first_author": "Jia-Chen Shang",
+  "pdf_url": "http://arxiv.org/pdf/2503.05603",
+  "primary_category": "cond-mat.soft",
+  "published": "2025-03-07",
+  "tags": [
+   "composites"
+  ],
+  "title": "Geometric Optimization of Patterned Conductive Polymer Composite-based Strain Sensors Toward Enhanced Sensing Performance",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-03-07"
  },
@@ -2777,6 +2885,7 @@
   ],
   "title": "Molecular Insights into the Crystallization of 4'-Hydroxyacetophenone from Water: Solute Aggregation, Liquid-Liquid Phase Separation and Polymorph Selection",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-03-24"
@@ -3033,6 +3142,100 @@
   "title": "Flow of a two-dimensional liquid foam: Impact of surfactant type and boundary conditions",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2025-03-26"
+ },
+ "2503.20893": {
+  "abstract": "We present the Conceptual Design Report (CDR) for the MATHUSLA (MAssive Timing Hodoscope for Ultra-Stable neutraL pArticles) long-lived particle detector at the HL-LHC, covering the design, fabrication and installation at CERN Point 5. MATHUSLA is a 40 m-scale detector with an air-filled decay volume that is instrumented with scintillator tracking detectors, to be located near CMS. Its large size, close proximity to the CMS interaction point and about 100 m of rock shielding from HL-LHC backgrounds allows it to detect LLP production rates and lifetimes that are one to two orders of magnitude beyond the ultimate sensitivity of the HL-LHC main detectors for many highly motivated LLP signals. Data taking is projected to commence with the start of HL-LHC operations. We present a new 40m design for the detector: its individual scintillator bars and wavelength-shifting fibers, their organization into tracking layers, tracking modules, tower modules and the veto detector; define a high-level design for the supporting electronics, DAQ and trigger system, including supplying a hardware trigger signal to CMS to record the LLP production event; outline computing systems, civil engineering and safety considerations; and present preliminary cost estimates and timelines for the project. We also conduct detailed simulation studies of the important cosmic ray and HL-LHC muon backgrounds, implementing full track/vertex reconstruction and background rejection, to ultimately demonstrate high signal efficiency and $\\ll 1$ background event in realistic LLP searches for the main physics targets at MATHUSLA. This sensitivity is robust with respect to detector design or background simulation details. Appendices provide various supplemental information.",
+  "authors": [
+   "Branden Aitken",
+   "Cristiano Alpigiani",
+   "Juan Carlos Arteaga-Velázquez",
+   "Mitchel Baker",
+   "Kincso Balazs",
+   "Jared Barron",
+   "Brian Batell",
+   "Austin Batz",
+   "Yan Benhammou",
+   "Tamara Alice Bud",
+   "Karen Salomé Caballero-Mora",
+   "John Paul Chou",
+   "David Curtin",
+   "Albert de Roeck",
+   "Miriam Diamond",
+   "Mariia Didenko",
+   "Keith R. Dienes",
+   "William Dougherty",
+   "Liam Andrew Dougherty",
+   "Marco Drewes",
+   "Sameer Erramilli",
+   "Erez Etzion",
+   "Arturo Fernández Téllez",
+   "Grace Finlayson",
+   "Oliver Fischer",
+   "Jim Freeman",
+   "Jonathan Gall",
+   "Ali Garabaglu",
+   "Bhawna Gomber",
+   "Stephen Elliott Greenberg",
+   "Jaipratap Singh Grewal",
+   "Zoe Hallman",
+   "Bahgat Hassan",
+   "Yuekun Heng",
+   "Keegan Humphrey",
+   "Trystan Humphrey",
+   "Graham D. Kribs",
+   "Alex Lau",
+   "Jiahao Liao",
+   "Zhen Liu",
+   "Giovanni Marsella",
+   "Matthew McCullough",
+   "David McKeen",
+   "Patrick Meade",
+   "Caleb Miller",
+   "Gilad Mizrachi",
+   "O. G. Morales-Olivares",
+   "David Morrissey",
+   "Abdulrahman Ahmed Morsy",
+   "John Osborn",
+   "Gabriel Owh",
+   "Michalis Panagiotou",
+   "Mason Proffitt",
+   "Runze Ren",
+   "Steven H. Robertson",
+   "Mario Rodríguez-Cahuantzi",
+   "Heather Russell",
+   "Victoria Sánchez",
+   "Halil Saka",
+   "Mamoksh Samra",
+   "Rodney Schnarr",
+   "Jessie Shelton",
+   "Yiftah Silver",
+   "Daniel Stolarski",
+   "Martin A. Subieta Vasquez",
+   "Sanjay Kumar Swain",
+   "Steffie Ann Thayil",
+   "Brooks Thomas",
+   "Emma Torro",
+   "Yuhsin Tsai",
+   "Bennett Winnicky-Lewis",
+   "Igor Zolkin",
+   "Jose Zurita"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "hep-ex",
+   "hep-ph"
+  ],
+  "comment": "71 pages, 28 figures, 5 tables",
+  "first_author": "Branden Aitken",
+  "pdf_url": "http://arxiv.org/pdf/2503.20893",
+  "primary_category": "physics.ins-det",
+  "published": "2025-03-26",
+  "tags": [],
+  "title": "Conceptual Design Report for the MATHUSLA Long-Lived Particle Detector near CMS",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-03-26"
  },

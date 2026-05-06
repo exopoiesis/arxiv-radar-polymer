@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>membranes — all</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -304,6 +304,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.06186">2506.06186</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19044.html">Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
+<td>Ryo Murakami et al.</td>
+<td><a href="http://arxiv.org/abs/2505.19044">2505.19044</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01230.html">Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>J. Gupta et al.</td>
@@ -314,6 +320,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12033.html">Measuring the mechanical properties of asymmetric membranes in computer simulations -- new methods and insights</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Oded Farago</td>
 <td><a href="http://arxiv.org/abs/2505.12033">2505.12033</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.05179.html">IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films</a></div></td>
+<td>Joan Montes de Oca et al.</td>
+<td><a href="http://arxiv.org/abs/2504.05179">2504.05179</a></td>
 </tr>
 <tr class="paper">
 <td>2025-04-07</td>
@@ -412,6 +424,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.08821">2407.08821</a></td>
 </tr>
 <tr class="paper">
+<td>2024-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13218.html">Lipid membrane domains control actin network viscoelasticity</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Daniel P. Arnold et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13218">2406.13218</a></td>
+</tr>
+<tr class="paper">
 <td>2024-10-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.13679.html">Mechanical and suture-holding properties of a UV-cured atelocollagen membrane with varied crosslinked architecture</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Ruya Zhang et al.</td>
@@ -446,5 +464,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04319.html">Singular viscoelastic perturbation to soft lubrication</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Bharti Bharti et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04319">2407.04319</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13561.html">Shape and Size Tunability of Sheets of Interlocked Ring Copolymers</a></div></td>
+<td>Juan Luengo-Márquez et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13561">2406.13561</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13590.html">Chirality Effects in Molecular Chainmail</a></div></td>
+<td>Alexander R. Klotz et al.</td>
+<td><a href="http://arxiv.org/abs/2406.13590">2406.13590</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06190.html">Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
+<td>Malak Alaa Eddine et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06190">2406.06190</a></td>
 </tr>
 </tbody></table>

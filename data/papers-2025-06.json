@@ -1,4 +1,30 @@
 {
+ "2406.02409": {
+  "abstract": "Making sense of complex inhomogeneous systems composed of many interacting species is a grand challenge that pervades basically all natural sciences. Phase separation and pattern formation in reaction-diffusion systems have been largely studied as two separate paradigms. Here we show that in reaction-diffusion systems composed of many species, the presence of a conservation law constrains the evolution of the conserved quantity to be governed by a Cahn-Hilliard-like equation. This establishes a direct link with the paradigm of coexistence and recent \"active\" field theories. Hence, even for complex many-species systems a dramatically simplified but accurate description emerges over coarse spatio-temporal scales. Using the nullcline (the line of homogeneous steady states) as the central motif, we develop a geometrical framework which endows chemical space with a basis and suitable coordinates. This framework allows us to capture and understand the effect of eliminating fast non-conserved degrees of freedom, and to explicitly construct coefficients of the coarse field theory. We expect that the theory we develop here will be particularly relevant to advance our understanding of biomolecular condensates.",
+  "authors": [
+   "Joshua F. Robinson",
+   "Thomas Machon",
+   "Thomas Speck"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "22 pages (14 + supplementary and references), 8 figures. Accepted version",
+  "first_author": "Joshua F. Robinson",
+  "pdf_url": "http://arxiv.org/pdf/2406.02409",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-04",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Universal limiting behaviour of reaction-diffusion systems with conservation laws",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-06-03"
+ },
  "2407.17720": {
   "abstract": "Physics simulations have become fundamental tools to study myriad engineering systems. As physics simulations often involve simplifications, their outputs should be calibrated using real-world data. In this paper, we present a diffusion-based surrogate (DBS) that calibrates multi-fidelity physics simulations with diffusion generative processes. DBS categorizes multi-fidelity physics simulations into inexpensive and expensive simulations, depending on the computational costs. The inexpensive simulations, which can be obtained with low latency, directly inject contextual information into diffusion models. Furthermore, when results from expensive simulations are available, \\name refines the quality of generated samples via a guided diffusion process. This design circumvents the need for large amounts of expensive physics simulations to train denoising diffusion models, thus lending flexibility to practitioners. DBS builds on Bayesian probabilistic models and is equipped with a theoretical guarantee that provides upper bounds on the Wasserstein distance between the sample and underlying true distribution. The probabilistic nature of DBS also provides a convenient approach for uncertainty quantification in prediction. Our models excel in cases where physics simulations are imperfect and sometimes inaccessible. We use a numerical simulation in fluid dynamics and a case study in laser-based metal powder deposition additive manufacturing to demonstrate how DBS calibrates multi-fidelity physics simulations with observations to obtain surrogates with superior predictive performance.",
   "authors": [
@@ -1592,6 +1618,7 @@
   ],
   "title": "Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Informatics & Data Infrastructure",
    "Property Prediction & QSPR"
   ],
@@ -3118,6 +3145,7 @@
   ],
   "title": "Mesoscale properties of protein clusters determine the size and nature of liquid-liquid phase separation (LLPS)",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-06-27"
@@ -3175,6 +3203,43 @@
   "topics": [
    "Generative Design & Inverse Design",
    "Property Prediction & QSPR"
+  ],
+  "updated": "2025-06-27"
+ },
+ "2506.22595": {
+  "abstract": "Aluminum nitride (AlN) is an extremely promising material for integrated photonics because of the combination of strong \\c{hi}2 and \\c{hi}3 nonlinearities. However, the intrinsic hardness of the material and charging effects during electron beam lithography make AlN nanofabrication a challenging process. Conventional approaches often require multiple hard masks and a metal mask to fabricate nanostructures. In this letter, we report a novel, simple method to fabricate AlN microresonators by using a single layer of silicon nitride mask combined with a thin conductive polymer layer. The conductive layer can be conveniently removed during developing without requiring an additional etching step. We achieve high intrinsic quality (Q) factors up to one million in AlN microresonators and demonstrate several nonlinear phenomena within our devices, including frequency comb generation, Raman lasing, third harmonic generation and supercontinuum generation.",
+  "authors": [
+   "Haochen Yan",
+   "Shuangyou Zhang",
+   "Arghadeep Pal",
+   "Alekhya Gosh",
+   "Abdullah Alabbadi",
+   "Masoud Kheyri",
+   "Toby Bi",
+   "Yaojing Zhang",
+   "Irina Harder",
+   "Olga Lohse",
+   "Florentina Gannott",
+   "Alexander Gumann",
+   "Eduard Butzen",
+   "Katrin Ludwig",
+   "Pascal DelHaye"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Haochen Yan",
+  "pdf_url": "http://arxiv.org/pdf/2506.22595",
+  "primary_category": "physics.optics",
+  "published": "2025-06-27",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Simplified Aluminum Nitride Processing for Low-Loss Integrated Photonics and Nonlinear Optics",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2025-06-27"
  },

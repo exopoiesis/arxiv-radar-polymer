@@ -1,4 +1,32 @@
 {
+ "2405.19984": {
+  "abstract": "We present a fluctuating hydrodynamic description of an active lattice gas model with excluded volume interactions that exhibits motility-induced phase separation under appropriate conditions. For quasi-one dimension and higher, stability analysis of the noiseless hydrodynamics gives quantitative bounds on the phase boundary of the motility-induced phase separation in terms of spinodal and binodal. Inclusion of the multiplicative noise in the fluctuating hydrodynamics describes the exponentially decaying two-point correlations in the stationary-state homogeneous phase. Our hydrodynamic description and theoretical predictions based on it are in excellent agreement with our Monte Carlo simulations and pseudospectral iteration of the hydrodynamics equations. Our construction of hydrodynamics for this model is not suitable in strictly one-dimension with single-file constraints, and we argue that this breakdown is associated with micro-phase separation.",
+  "authors": [
+   "Ritwik Mukherjee",
+   "Soumyabrata Saha",
+   "Tridib Sadhu",
+   "Abhishek Dhar",
+   "Sanjib Sabhapandit"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "22 pages, 15 figures",
+  "first_author": "Ritwik Mukherjee",
+  "pdf_url": "http://arxiv.org/pdf/2405.19984",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-05-30",
+  "tags": [
+   "monte-carlo",
+   "phase-separation"
+  ],
+  "title": "Hydrodynamics of a hard-core active lattice gas",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-10-17"
+ },
  "2409.06457": {
   "abstract": "The thermal conductivity of covalent organic frameworks (COFs), an emerging class of nanoporous polymeric materials, is crucial for many applications, yet the link between their structure and thermal properties remains poorly understood. Analysis of a dataset containing over 2,400 COFs reveals that conventional features such as density, pore size, void fraction, and surface area do not reliably predict thermal conductivity. To address this, an attention-based machine learning model was trained, accurately predicting thermal conductivities even for structures outside the training set. The attention mechanism was then utilized to investigate the model's success. The analysis identified dangling molecular branches as a key predictor of thermal conductivity, leading us to define the dangling mass ratio (DMR), a descriptor that quantifies the fraction of atomic mass in dangling branches relative to the total COF mass. Feature importance assessments on regression models confirm the significance of DMR in predicting thermal conductivity. These findings indicate that COFs with dangling functional groups exhibit lower thermal transfer capabilities. Molecular dynamics simulations support this observation, revealing significant mismatches in the vibrational density of states due to the presence of dangling branches.",
   "authors": [
@@ -3185,6 +3213,7 @@
   ],
   "title": "Laser-Induced Heating in Diamonds: Influence of Substrate Thermal Conductivity and Interfacial Polymer Layers",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Property Prediction & QSPR"
   ],
   "updated": "2025-10-16"
@@ -3923,6 +3952,7 @@
   ],
   "title": "Dynamic principles of concentration buffering through liquid-liquid phase separation",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-10-23"
@@ -3977,6 +4007,7 @@
   ],
   "title": "Mastering energy landscapes via liquid liquid phase separation to program active supramolecular coassembly from the nano to macro scale",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-10-27"
@@ -4254,6 +4285,7 @@
   ],
   "title": "Associative and Segregative Liquid-Liquid Phase Separation in Macromolecular Solutions",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-10-29"
@@ -4404,6 +4436,7 @@
   ],
   "title": "Enzyme Active Bath Affects Protein Condensation",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-10-30"
@@ -4434,6 +4467,7 @@
   ],
   "title": "Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Property Prediction & QSPR"
   ],
   "updated": "2025-10-30"

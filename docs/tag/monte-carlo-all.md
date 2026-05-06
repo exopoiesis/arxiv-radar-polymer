@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -446,6 +446,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09436.html">(Anti)Gravitron: A Statistical Physics Perspective on Multidimensional Metrics of Polarizing Inequality</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
 <td>Rolando Gonzales Martinez</td>
 <td><a href="http://arxiv.org/abs/2510.09436">2510.09436</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19984.html">Hydrodynamics of a hard-core active lattice gas</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Ritwik Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19984">2405.19984</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-12</td>
@@ -953,6 +959,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11287.html">Phase behaviour and self-assembly of semiflexible polymers in poor-solvent solutions</a></div></td>
+<td>Tobia Arcangeli et al.</td>
+<td><a href="http://arxiv.org/abs/2405.11287">2405.11287</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04748.html">Dissipative self-assembly of patchy particles under nonequilibrium drive: a computational study</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Shubhadeep Nag et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04748">2409.04748</a></td>
@@ -1000,9 +1012,63 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.16228">2407.16228</a></td>
 </tr>
 <tr class="paper">
+<td>2024-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jeongmin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
+</tr>
+<tr class="paper">
 <td>2024-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00946.html">Atomic cluster expansion interatomic potential for defects and thermodynamics of Cu-W system</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Jiahao Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00946">2407.00946</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19068.html">Enhancing interfacial thermal transport by nanostructures: Monte Carlo simulations with ab initio phonon properties</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Wenzhu Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19068">2406.19068</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15072.html">Features of heterogeneously charged systems at their liquid-liquid critical point</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Daniele Notarmuzi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15072">2406.15072</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10376.html">Random Close Packing of Semi-Flexible Polymers in Two Dimensions: Emergence of Local and Global Order</a></div><div class="paper-tags"><a href="crystallinity-all.html">crystallinity</a></div></td>
+<td>Daniel Martinez-Fernandez et al.</td>
+<td><a href="http://arxiv.org/abs/2406.10376">2406.10376</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01259.html">Aging modeling and lifetime prediction of a proton exchange membrane fuel cell using an extended Kalman filter</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
+<td>Serigne Daouda Pene et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01259">2406.01259</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12054.html">Solvent Selectivity controls Micro- versus Macro-phase Separation in Multiblock Chains</a></div></td>
+<td>Athanassios Z. Panagiotopoulos</td>
+<td><a href="http://arxiv.org/abs/2405.12054">2405.12054</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19193.html">Collapse/expansion dynamics and actuation of pH-responsive nanogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Jiaxing Yuan et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19193">2405.19193</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08109.html">Sequence Dependence of Critical Properties for 2-letter Chains</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Athanassios Z. Panagiotopoulos</td>
+<td><a href="http://arxiv.org/abs/2405.08109">2405.08109</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07015.html">XY model on a self-avoiding walk</a></div></td>
+<td>Kamilla Faizullina et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07015">2405.07015</a></td>
 </tr>
 </tbody></table>

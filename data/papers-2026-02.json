@@ -879,6 +879,7 @@
   ],
   "title": "Bicontinuity in active phase separation",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-02-12"
@@ -1197,6 +1198,33 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-02-02"
+ },
+ "2602.02418": {
+  "abstract": "Electrical conductivity is the most fundamental charge transport parameter, and measurements of conductivity are a basic part of materials characterization for nearly all conducting materials. In thin films, conductivity is often measured in four bar architectures in which the current source and voltage measurement are spatially separated to eliminate systematic error due to contact resistance. Despite the apparent simplicity of these measurements, we demonstrate here that the four bar architecture is subject to significant systematic error arising from the finite conductivity of the metal electrodes. Remarkably, these systematic errors can in some cases become unbounded, producing arbitrarily high measured conductivity at modest true film conductivities, within the range relevant to emerging thin film thermoelectric materials such as conducting polymers. These unbounded errors, which can occur even in properly conducted four-point measurements of patterned films, likely explain literature reports of extremely high conductivities in conducting polymers, and can lead to anomalous scaling in temperature dependent studies, potentially leading to incorrect interpretation of the relevant charge transport mechanism. We characterize the device geometric factors that control these errors, which stand partially at odds with those required for accurate Seebeck coefficient measurements. Our analyses allow us to identify device architectures that provide small systematic errors for conductivity and Seebeck coefficient while still providing a low measurement resistance, critical to reducing noise in thermal voltage measurements. These findings provide important guidelines for accurate measurements in the growing field of thin-film thermoelectric materials.",
+  "authors": [
+   "Yongyi Gao",
+   "Hio-Ieng Un",
+   "Yuxuan Huang",
+   "Henning Sirringhaus",
+   "Ian E. Jacobs"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "Corrected typos",
+  "first_author": "Yongyi Gao",
+  "pdf_url": "http://arxiv.org/pdf/2602.02418",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-02-02",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Unbounded Systematic Error in Thin Film Conductivity Measurements",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-02-04"
  },
  "2602.03488": {
   "abstract": "We compute the critical exponents of the zero-temperature spin glass transition in a field on a one-dimensional long-range model, a proxy for higher-dimensional systems. Our approach is based on a novel loop expansion within the Bethe $M$-layer formalism, whose adaptation to this specific case is detailed here. The resulting estimates provide crucial benchmarks for numerical simulations that can access larger system sizes in one dimension, thus offering a key test of the theory of spin glasses in a field.",

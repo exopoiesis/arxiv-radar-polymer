@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">241 papers</span>
+  <span class="paper-count">259 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -575,6 +575,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18660.html">Weak (non)conservation and stochastic dynamics of angular momentum</a></div></td>
+<td>Ashot Matevosyan</td>
+<td><a href="http://arxiv.org/abs/2405.18660">2405.18660</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20100.html">Coarsening dynamics of chemotactic aggregates</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Henrik Weyer et al.</td>
 <td><a href="http://arxiv.org/abs/2409.20100">2409.20100</a></td>
@@ -1036,6 +1042,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00355.html">Global decomposition of networks into multiple cores formed by local hubs</a></div></td>
+<td>Wonhee Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2407.00355">2407.00355</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05919.html">Efficient parallel algorithms for free-energy calculation of millions of water molecules in the fluid phases</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Luis Enrique Coronas et al.</td>
@@ -1156,6 +1168,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.19579">2502.19579</a></td>
 </tr>
 <tr class="paper">
+<td>2025-02-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19347.html">Evaporation Characteristics of Heat Pipes with Sub-Critical Nanopores</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Sumith Yesudasan</td>
+<td><a href="http://arxiv.org/abs/2406.19347">2406.19347</a></td>
+</tr>
+<tr class="paper">
 <td>2025-02-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11339.html">Why is the strength of a polymer network so low?</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Shaswat Mohanty et al.</td>
@@ -1238,6 +1256,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.11871.html">Reentrant phase behavior in binary topological flocks with nonreciprocal alignment</a></div></td>
 <td>Tian Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.11871">2412.11871</a></td>
+</tr>
+<tr class="paper">
+<td>2024-12-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19586.html">Parameter inference and nonequilibrium identification for Markovian systems based on coarse-grained observations</a></div></td>
+<td>Bingjie Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19586">2406.19586</a></td>
 </tr>
 <tr class="paper">
 <td>2024-12-09</td>
@@ -1354,6 +1378,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.13707">2407.13707</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18316.html">General theory for localizing the where and when of entropy production meets single-molecule experiments</a></div></td>
+<td>Julius Degünther et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18316">2405.18316</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12429.html">Temporal coarse-graining and elimination of slow dynamics with the generalized Langevin equation for time-filtered observables</a></div></td>
 <td>Roland R. Netz</td>
@@ -1364,6 +1394,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11519.html">On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Liyao Lyu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.11519">2409.11519</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20266.html">Hyperuniformity in Ashkin-Teller model</a></div></td>
+<td>Indranil Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2405.20266">2405.20266</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05070.html">Equivalence analysis between Quasi-coarse-grained and Atomistic Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Dong-Dong Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.05070">2405.05070</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-09</td>
@@ -1450,6 +1492,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.18784">2407.18784</a></td>
 </tr>
 <tr class="paper">
+<td>2024-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Jeongmin Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
+</tr>
+<tr class="paper">
 <td>2024-07-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09654.html">A foundational framework for the mesoscale modeling of dynamic elastomers and gels</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Robert J. Wagner et al.</td>
@@ -1460,5 +1508,65 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="mlff-all.html">mlff</a></div></td>
 <td>Klara Bonneau et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19115.html">Coagulation-flocculation process on a lattice: Monte Carlo simulations</a></div></td>
+<td>V. Blavatska et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19115">2406.19115</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15072.html">Features of heterogeneously charged systems at their liquid-liquid critical point</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Daniele Notarmuzi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15072">2406.15072</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02168.html">Normal Modes of Rouse-Ham Symmetric Star Polymer Model</a></div></td>
+<td>Takashi Uneyama</td>
+<td><a href="http://arxiv.org/abs/2406.02168">2406.02168</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01214.html">Effect of relative timescale on a system of particles sliding on a fluctuating energy landscape: Exact derivation of product measure condition</a></div></td>
+<td>Chandradip Khamrai et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01214">2406.01214</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-electrolytes-all.html">polymer-electrolytes</a></div></td>
+<td>Ganesh K Rajahmundry et al.</td>
+<td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18970.html">The surface tension of Martini 3 water mixtures</a></div></td>
+<td>Lorenzo Iannetti et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18970">2405.18970</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18185.html">Revisiting the strain-induced softening behaviour in hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>L. K. R. Duarte et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18185">2405.18185</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03551.html">Shortest paths govern fracture nucleation in thermoset networks</a></div></td>
+<td>Zheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03551">2405.03551</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Shaoning Li et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
 </tr>
 </tbody></table>

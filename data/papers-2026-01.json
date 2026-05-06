@@ -1,4 +1,34 @@
 {
+ "2405.16041": {
+  "abstract": "Providing explainable molecular property predictions is critical for many scientific domains, such as drug discovery and material science. Though transformer-based language models have shown great potential in accurate molecular property prediction, they neither provide chemically meaningful explanations nor faithfully reveal the molecular structure-property relationships. In this work, we develop a framework for explainable molecular property prediction based on language models, dubbed as Lamole, which can provide chemical concepts-aligned explanations. We take a string-based molecular representation -- Group SELFIES -- as input tokens to pretrain and fine-tune our Lamole, as it provides chemically meaningful semantics. By disentangling the information flows of Lamole, we propose combining self-attention weights and gradients for better quantification of each chemically meaningful substructure's impact on the model's output. To make the explanations more faithfully respect the structure-property relationship, we then carefully craft a marginal loss to explicitly optimize the explanations to be able to align with the chemists' annotations. We bridge the manifold hypothesis with the elaborated marginal loss to prove that the loss can align the explanations with the tangent space of the data manifold, leading to concept-aligned explanations. Experimental results over six mutagenicity datasets and one hepatotoxicity dataset demonstrate Lamole can achieve comparable classification accuracy and boost the explanation accuracy by up to 14.3%, being the state-of-the-art in explainable molecular property prediction.",
+  "authors": [
+   "Zhenzhong Wang",
+   "Zehui Lin",
+   "Wanyu Lin",
+   "Ming Yang",
+   "Minggang Zeng",
+   "Kay Chen Tan"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhenzhong Wang",
+  "pdf_url": "http://arxiv.org/pdf/2405.16041",
+  "primary_category": "cs.LG",
+  "published": "2024-05-25",
+  "tags": [
+   "qspr",
+   "selfies"
+  ],
+  "title": "Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-01-13"
+ },
  "2407.16763": {
   "abstract": "Information-theoretic quantities such as Renyi entropies show a remarkable universality in their late-time behaviour across a variety of chaotic many-body systems. Understanding how such common features emerge from very different microscopic dynamics remains an important challenge. In this work, we address this question in a class of Brownian models with random time-dependent Hamiltonians and a variety of different microscopic couplings. In any such model, the Lorentzian time-evolution of the $n$-th Renyi entropy can be mapped to evolution by a Euclidean Hamiltonian on 2$n$ copies of the system. We provide evidence that in systems with no symmetries, the low-energy excitations of the Euclidean Hamiltonian are universally given by a gapped quasiparticle-like band. The eigenstates in this band are plane waves of locally dressed domain walls between ferromagnetic ground states associated with two permutations in the symmetric group $S_n$. These excitations give rise to the membrane picture of entanglement growth, with the membrane tension determined by their dispersion relation. We establish this structure in a variety of cases using analytical perturbative methods and numerical variational techniques, and extract the associated dispersion relations and membrane tensions for the second and third Renyi entropies. For the third Renyi entropy, we argue that phase transitions in the membrane tension as a function of velocity are needed to ensure that physical constraints on the membrane tension are satisfied. Overall, this structure provides an understanding of entanglement dynamics in terms of a universal set of gapped low-lying modes, which may also apply to systems with time-independent Hamiltonians.",
   "authors": [
@@ -1050,6 +1080,7 @@
   ],
   "title": "Collective bacterial motion drives interfacial waves and shape dynamics in phase-separated droplets",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-01-05"
@@ -1432,6 +1463,38 @@
   "title": "Spectral Analysis of Weighted Weyl Fractional Operators: Aging, Infinite Memory, and the Amnesia Effect",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-01-05"
+ },
+ "2601.02146": {
+  "abstract": "Electrochemical creatinine sensors offer great promise towards rapid, reagent-free and point-of-care (POC) kidney-function monitoring. However, challenges related to analyte binding, data reproducibility, sensitivity, fouling and device degradation deter its widespread implementation. Here, we show how a carbon electrode modified with a combination of poly(3,4-ethylene dioxythiophene): poly(styrene sulfonate) (PEDOT:PSS) and copper nanoparticles (CuNPs) can rapidly and accurately detect creatinine (CT) in artificial urine media employing electrochemical techniques. Applying redox potential sweeps (vs Ag/AgCl) using copper sulfate (CuSO4) solution on such sensor facilitates the CuNP embedding process inside the conjugated polymer matrix which has been further validated by supporting techniques. We predicted and validated the formation and contribution of two Cu-CT coordination complexes corresponding to Cu(I) and Cu(II) states, which are responsible for CT detection. The fabricated CT sensor exhibits high selectivity against major artificial urine interferents and is stable for a month showing minimal degradation (0.53%) in peak current value. Such sensors can be utilized to detect and monitor different stages of renal failure in real-time patient samples.",
+  "authors": [
+   "Chirantan Das",
+   "Subhrajit Sikdar",
+   "Shreyas K. Vasantham",
+   "Piotr Pięta",
+   "Marcin Strawski",
+   "Marcin S. Filipiak",
+   "Paweł Borowicz",
+   "Yurii Promovych",
+   "Piotr Garstecki"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.med-ph"
+  ],
+  "comment": "18 pages, 5 figures, 1 table",
+  "first_author": "Chirantan Das",
+  "pdf_url": "http://arxiv.org/pdf/2601.02146",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-05",
+  "tags": [
+   "pedot-pss",
+   "polymer-degradation"
+  ],
+  "title": "Investigating the impact of copper-PEDOT:PSS matrix towards non-enzymatic electrochemical creatinine detection",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2026-01-05"
  },
@@ -1990,6 +2053,37 @@
   ],
   "updated": "2026-01-21"
  },
+ "2601.05179": {
+  "abstract": "Mixed ionic-electronic conductors host tightly coupled interactions among mobile ions, electronic charges, and the polymer matrix, giving rise to complex multimodal responses spanning electrical, mechanical, and morphological transformations. These materials underpin organic electrochemical transistors (OECTs), which translate such interactions into low-voltage signal amplification and sensing for applications in bioelectronics, neuromorphic computing, and memory. Despite their central role, OECT current-voltage transfer characteristics are often treated phenomenologically, as both the local multimodal dynamics and their connection to global device response remain unresolved. Here, we reveal that the transfer curve encodes a cascade of spatially localized electrochemical transitions, each associated with distinct changes in conductivity, stiffness, and morphology, fundamentally redefining it as a spatially resolved fingerprint of device's internal state. Using automated operando multimodal in-liquid scanning dielectric microscopy, we directly map these dynamics and identify region-specific electrochemical thresholds governing the interplay between source, channel, and drain. We found that the local tip-sample electrostatic force serves as a remarkable mechanistic observable of coupled multimodal dynamics in mixed conductors. A physically grounded model links it to general material, interfacial, and geometric parameters, enabling mechanistic interpretation and predictive insights. Our work provides a new framework for probing and understanding mixed conduction in ion-electron coupled systems.",
+  "authors": [
+   "Shubham Tanwar",
+   "Han-Yan Wu",
+   "Chi-Yuan Yang",
+   "Ruben Millan-Solsona",
+   "Simone Fabiano",
+   "Adrica Kyndiah",
+   "Gabriel Gomila"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Shubham Tanwar",
+  "pdf_url": "http://arxiv.org/pdf/2601.05179",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-01-08",
+  "tags": [
+   "oect",
+   "polymer-morphology"
+  ],
+  "title": "Local Multimodal Dynamics in Mixed Ionic-Electronic Conductors and Their Fingerprints in Organic Electrochemical Transistor Operation",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-01-08"
+ },
  "2601.05298": {
   "abstract": "Additive manufacturing (AM) relies critically on understanding and extrapolating process-property relationships; however, existing data-driven approaches remain limited by fragmented knowledge representations and unreliable extrapolation under sparse data conditions. In this study, we propose an ontology-guided, equation-centric framework that tightly integrates large language models (LLMs) with an additive manufacturing mathematical knowledge graph (AM-MKG) to enable reliable knowledge extraction and principled extrapolative modeling. By explicitly encoding equations, variables, assumptions, and their semantic relationships within a formal ontology, unstructured literature is transformed into machine-interpretable representations that support structured querying and reasoning. LLM-based equation generation is further conditioned on MKG-derived subgraphs, enforcing physically meaningful functional forms and mitigating non-physical or unstable extrapolation trends. To assess reliability beyond conventional predictive uncertainty, a confidence-aware extrapolation assessment is introduced, integrating extrapolation distance, statistical stability, and knowledge-graph-based physical consistency into a unified confidence score. Results demonstrate that ontology-guided extraction significantly improves the structural coherence and quantitative reliability of extracted knowledge, while subgraph-conditioned equation generation yields stable and physically consistent extrapolations compared to unguided LLM outputs. Overall, this work establishes a unified pipeline for ontology-driven knowledge representation, equation-centered reasoning, and confidence-based extrapolation assessment, highlighting the potential of knowledge-graph-augmented LLMs as reliable tools for extrapolative modeling in additive manufacturing.",
   "authors": [
@@ -2334,6 +2428,7 @@
   ],
   "title": "Wetting-coupled phase separation as an energetic mechanism for active bacterial adhesion",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-01-11"

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">460 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1481,6 +1481,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03350.html">A Simplified Model for the Forced Libration of Icy Moons with Subsurface Oceans: Application to Enceladus and Mimas</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2405.03350">2405.03350</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02239.html">Shear-driven memory effects in carbon black gels</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a> · <a href="saxs-360d.html">saxs</a></div></td>
 <td>Julien Bauland et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02239">2508.02239</a></td>
@@ -1844,6 +1850,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23658.html">Twist-Free Enhancement of Strength and Modulus in Electrospun Yarns via Liquid-Assisted Capillary Densification</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Saujatya Mandal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23658">2509.23658</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02941.html">Numerical analysis of high-order methods for variable-exponent fractional diffusion-wave equation</a></div></td>
+<td>Wenlin Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02941">2406.02941</a></td>
 </tr>
 <tr class="paper">
 <td>2025-09-25</td>

@@ -1,4 +1,34 @@
 {
+ "2406.02522": {
+  "abstract": "Long-duration human missions to Mars will require autonomous systems capable of converting in situ resources into structural materials, tools, and functional components. More broadly, such systems represent a class of resource-limited bioprocesses relevant to extreme-environment manufacturing. Here, we investigate engineered autotrophic-heterotrophic consortia, inspired by lichen biology, as a platform for autonomous biofabrication from granular feedstocks. We experimentally screened filamentous fungi and paired them with diazotrophic cyanobacteria to identify mutually supportive consortia capable of sustained growth and biomineral production in the presence of Martian regolith simulant as the primary inorganic substrate, without external organic carbon or nitrogen inputs. Selected co-cultures exhibited evidence of metabolic coupling, and untargeted metabolomic analysis revealed coordinated reprogramming consistent with integrated carbon and nitrogen metabolism within the consortia. These systems facilitated mineral consolidation of regolith particles, demonstrating the feasibility of near-closed-loop biomineral production under resource-limited conditions. While integration with additive manufacturing remains conceptual, this study establishes a framework for engineering self-sustaining microbial consortia for biomaterials production and highlights opportunities for coupling metabolism with material synthesis in both extraterrestrial and terrestrial environments.",
+  "authors": [
+   "Nisha Rokaya",
+   "Erin C. Carr",
+   "Kumar Shrestha",
+   "Richard A. Wilson",
+   "Yong Huang",
+   "Congrui Jin"
+  ],
+  "categories": [
+   "q-bio.CB",
+   "astro-ph.EP",
+   "astro-ph.IM",
+   "physics.pop-ph"
+  ],
+  "comment": null,
+  "first_author": "Nisha Rokaya",
+  "pdf_url": "http://arxiv.org/pdf/2406.02522",
+  "primary_category": "q-bio.CB",
+  "published": "2024-06-04",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-04-30"
+ },
  "2408.14242": {
   "abstract": "Living cells inherently reorganize their intracellular structures in response to mechanical cues from their environment. Among these responses, the formation of actin-based stress fibers exhibits a series of structural transitions depending on substrate stiffness: from disordered states on soft substrates, to partial alignment, and eventually to bundled formations as stiffness increases. While these transformations have been well documented in many cell types, the physical principles underlying their emergence remain elusive. Here, we observe identical stiffness-dependent actin reorganizations in senescent fibroblasts despite their diminished biochemical and metabolic activities, suggesting that physical constraints play a dominant role in the phenomenon. We then develop a statistical-mechanical framework to demonstrate that these changes arise through a hierarchy of threshold-dependent phase transitions dictated by energy-entropy competition. This formulation provides a thermodynamic basis for understanding how distinct cytoskeletal orders become favored under different mechanical regimes. We propose that these transitions serve as mechanical checkpoints that coordinate intracellular organization during G1-phase spreading. These findings reveal how mechanical cues guide distinct intracellular orders through a physically constrained hierarchy of transitions.",
   "authors": [
@@ -535,6 +565,7 @@
   ],
   "title": "Enzyme-Substrate Complex Formation Modulates Diffusion-Driven Patterning In Metabolic Pathways",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-04-24"
@@ -920,6 +951,7 @@
   ],
   "title": "Super-Arrhenius temperature dependent viscosity due to liquid-liquid phase separation in the super-cooled Kob-Andersen model",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Molecular Dynamics & Multiscale Modeling"
   ],
@@ -1036,6 +1068,31 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-04-26"
+ },
+ "2603.20954": {
+  "abstract": "Neuromorphic electronics and spiking neural networks (SNNs) offer energy-efficient data processing, essential for real-time and edge-computing applications. In particular, interfacing and processing biological signals require devices that combine electronic performance with ionic sensitivity, which are capabilities uniquely provided by organic electrochemical transistors (OECTs). However, realizing a simple, fully integrated OECT-based neuron with rich dynamics and adaptability remains challenging. Most reported implementations rely on current-driven operation, which complicates large-scale integration and neuron-neuron coupling due to the need for precise matching of operating currents and bias voltages. Here we present a voltage-driven neuron circuit based on a multivibrator oscillator architecture, entirely fabricated from poly(3,4-ethylenedioxythiophene):polystyrene sulfonate (PEDOT:PSS). The neuron exhibits tunable adaptability through an additional control input, enabling switching between burst latency and length encoding modes. We further demonstrate a hardware-implemented two-neuron unit consisting of an inhibitory and a readout neuron, where readout activity is suppressed depending on the relative timing of the inhibitory input. Finally, we demonstrate that the fabrication process is compatible with polymer dendrite growth, enabling on-chip integration of synaptic elements on the same substrate. Owing to its structural simplicity and compatibility with a single, available material, this approach offers a scalable and accessible route toward integrated OECT-based SNNs.",
+  "authors": [
+   "Nikita Prudnikov",
+   "Yeohoon Yoon",
+   "Hans Kleemann"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Nikita Prudnikov",
+  "pdf_url": "http://arxiv.org/pdf/2603.20954",
+  "primary_category": "physics.app-ph",
+  "published": "2026-03-21",
+  "tags": [
+   "oect",
+   "pedot-pss"
+  ],
+  "title": "SOMA: A Single-Material Organic Multivibrator Adaptive Neuron for Fully Integrated PEDOT:PSS Neuromorphic Systems",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-04-15"
  },
  "2603.21011": {
   "abstract": "Finite element (FE) analysis guides the design and verification of nearly all manufactured objects. It is at the core of computational engineering, enabling simulation of complex physical systems, from fluids and solids to multiphysics systems. However, implementing FE codes and analyzing simulation results demands expertise across numerical analysis, continuum mechanics, and programming. Conventional Large Language Models (LLMs) can generate FE code, but they hallucinate, lack awareness of variational structures, and cannot close the loop from problem statement to a verified solution. Here, we propose ALL-FEM, an autonomous simulation system that integrates agentic AI with domain-specific, fine-tuned LLMs for FEniCS code generation across solid, fluid, and multiphysics applications. We construct a corpus of 1000+ verified FEniCS scripts by combining 500+ curated expert codes with a retrieval-augmented, multi-LLM pipeline that generates and filters codes for diverse PDEs, geometries, and boundary conditions. We used the corpus to fine-tune LLMs with 3B to 120B parameters. Our agentic framework orchestrates specialized agents, powered by fine-tuned LLMs, to formulate problems as PDEs, generate and debug code and visualize the results. We evaluated the system on 39 benchmarks that include problems of linear/nonlinear elasticity, plasticity, Newtonian/non-Newtonian flow, thermofluids, fluid-structure interaction, phase separation, and transport on moving domains. Embedded in a multi-agent workflow with runtime feedback, the best fine-tuned model (GPT OSS 120B) achieves code-level success of 71.79%, outperforming a non-agentic deployment of GPT 5 Thinking. By showing that relatively small, fine-tuned LLMs, orchestrated through agentic frameworks, can automate FE workflows, ALL-FEM offers a blueprint for autonomous simulation systems in computational science and engineering.",
@@ -1169,6 +1226,38 @@
   "topics": [
    "Processing, Manufacturing & Composites",
    "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-04-01"
+ },
+ "2604.00501": {
+  "abstract": "We report a method for producing an array of fifty two ion-sensitive PEDOT:PSS organic electrochemical transistors on a glass coverslip, each featuring an integrated fluoropolymer microwell sealed with lipid bilayer into which membrane proteins can be inserted for simultaneous electrical and fluorescence microscopy studies. To demonstrate capability, we fill the microwells with an `inner' phosphate assay buffer solution containing 20 $μ$M Alexa-488 dye and 50 mM KCl, seal the microwells with lipid bilayer using an aqueous-organic-aqueous liquid exchange technique, and then fill the common flow-cell volume above the sealed microwells with a dye-free `outer' phosphate assay buffer containing 100 mM KCl. We insert $α$-hemolysin, which embeds into the lipid bilayer forming a heptameric pore with diameter ~ 2.6 nm. The pore allows K$^{+}$ ions to diffuse into the microwell and Alexa-488 dye molecules to diffuse out of the microwell producing a corresponding drop in transistor conductance and microwell fluorescence intensity, respectively. These two signals occur at different timescales, consistent with the known size difference between K$^{+}$ ions and Alexa-488 molecules. Our approach to fabricating microwell arrays with PEDOT:PSS OECTs incorporated into the bottom of selected microwells distributed in the array is both scalable and versatile, opening a path to studies using larger arrays and with other membrane proteins embedded in the lipid bilayer sealing the microwells.",
+  "authors": [
+   "S. Kojima",
+   "S. Rawat",
+   "M. Sanchez Miranda",
+   "J. G. Gluschke",
+   "H. Noji",
+   "L. K. Lee",
+   "A. P. Micolich"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci",
+   "physics.bio-ph"
+  ],
+  "comment": "48 Pages, 5 figures main-text, 17 figures supplementary",
+  "first_author": "S. Kojima",
+  "pdf_url": "http://arxiv.org/pdf/2604.00501",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-04-01",
+  "tags": [
+   "oect",
+   "pedot-pss"
+  ],
+  "title": "Organic Electrochemical Transistor Arrays with Integrated Lipid-Sealed Femtolitre Chambers for Simultaneous Electrical and Optical Detection of Membrane Protein Activity",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2026-04-01"
  },
@@ -1578,6 +1667,7 @@
   ],
   "title": "Mechanistic insights into the spatial organization of RNA polymerase proteins and the chromosome in E. coli cells",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-04-03"
@@ -2301,6 +2391,7 @@
   ],
   "title": "Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-04-09"
@@ -2698,6 +2789,7 @@
   ],
   "title": "A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Informatics & Data Infrastructure",
    "Molecular Dynamics & Multiscale Modeling",
    "Sustainability & Functional Applications"
@@ -2728,6 +2820,7 @@
   ],
   "title": "Non-Monotonic Marangoni Suppression of Hydrodynamic Coarsening in Bicontinuous Liquid-Liquid Phase Separation",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-04-13"
@@ -3997,6 +4090,35 @@
   ],
   "updated": "2026-04-20"
  },
+ "2604.18693": {
+  "abstract": "We propose a fundamental shift in the search for beyond the Standard Model long-lived particles (LLPs) at high-luminosity hadron colliders by prioritizing physical background suppression over traditional inner tracking. We introduce $\\textsf{DELIGHT-SHIELD}$, a dedicated detector design for a 100 TeV Future Circular Collider at a dedicated interaction point for LLP searches. By replacing the inner parts of the detector with a multi-layered composite shield, followed by tracking volumes, we estimate a suppression of Standard Model hadronic and electromagnetic backgrounds by up to seven orders of magnitude analytically. Full Geant4 simulations validate the effectiveness of this design. Although the achieved suppression is somewhat lower than the analytical estimate, primarily due to secondary particle production within the shield, the residual background remains at a level that is manageable for LLP analyses. It can be further mitigated by applying energy thresholds, as well as vertexing and timing cuts in the downstream detector. Benchmarking against dark scalar model, we show that this shielding based detector concept achieves sensitivity to branching ratios as low as $\\mathcal{O}(10^{-9})$ for $h\\rightarrowφφ$ process under zero background condition $-$ outperforming general-purpose detector baselines. This strategy not only expands the discovery reach for neutral LLPs but also provides a rigorous experimental handle to distinguish new physics from Standard Model punch-through backgrounds. We further discuss a phased implementation at the High-Luminosity LHC as a critical testbed for this novel detection concept.",
+  "authors": [
+   "Biplob Bhattacherjee",
+   "Arnav Chauhan",
+   "Swagata Mukherjee",
+   "Rhitaja Sengupta",
+   "Anand Sharma"
+  ],
+  "categories": [
+   "hep-ph",
+   "hep-ex"
+  ],
+  "comment": "30 pages, 3 figures, 5 Tables",
+  "first_author": "Biplob Bhattacherjee",
+  "pdf_url": "http://arxiv.org/pdf/2604.18693",
+  "primary_category": "hep-ph",
+  "published": "2026-04-20",
+  "tags": [
+   "benchmarking",
+   "composites",
+   "phase-separation"
+  ],
+  "title": "A new approach to long-lived particle detection at hadron colliders: the $\\textsf{DELIGHT-SHIELD}$ concept",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-04-20"
+ },
  "2604.18828": {
   "abstract": "Artificial Intelligence (AI) surrogate models provide a computationally efficient alternative to full-physics simulations, but no public datasets currently exist for training and validating models of high-explosive-driven, multi-material shock dynamics. Simulating shock propagation is challenging due to the need for material-specific equations of state (EOS) and models of plasticity, phase change, damage, fluid instabilities, and multi-material interactions. Explosive-driven shocks further require reactive material models to capture detonation physics. To address this gap, we introduce the High-Explosives and Affected Targets (HEAT) dataset, a physics-rich collection of two-dimensional, cylindrically symmetric simulations generated using an Eulerian multi-material shock-propagation code developed at Los Alamos National Laboratory. HEAT consists of two partitions: expanding shock-cylinder (CYL) simulations and Perturbed Layered Interface (PLI) simulations. Each entry includes time series of thermodynamic fields (pressure, density, temperature), kinematic fields (position, velocity), and continuum quantities such as stress. The CYL partition spans a range of materials, including metals (aluminum, copper, depleted uranium, stainless steel, tantalum), a polymer, water, gases (air, nitrogen), and a detonating material. The PLI partition explores varied geometries with fixed materials: copper, aluminum, stainless steel, polymer, and high explosive. HEAT captures key phenomena such as shock propagation, momentum transfer, plastic deformation, and thermal effects, providing a benchmark dataset for AI/ML models of multi-material shock physics.",
   "authors": [
@@ -4149,6 +4271,36 @@
   "title": "Compressible Navier-Stokes-Landau-Lifshitz-Gilbert system: derivations and well-posedness",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-04-22"
+ },
+ "2604.20605": {
+  "abstract": "Phase-gradient metasurfaces provide powerful wavefront control through two-dimensional arrangement of nanostructures acting as metaatoms. While dynamic tuning forms a major driver for future breakthroughs and applications in this area, current metaatoms are generally static or limited to operation in the infrared. Here, we present a metaatom that is both electrically tunable and operates in the visible. Its function originates from an excitonic absorption band of a dedoped conducting polymer, which together with low background permittivity induces optical metallicity in a selected part of the visible. This allows anisotropic nanostructures to support excitonic resonances along one direction and not the other, promoting polarization-dependent optical response which can be toggled off and on through reversible doping induced by small bias potentials. Our study details the mechanism of these metaatoms and demonstrate their use in electrically tunable phasegradient metasurfaces for visible light, including erasable and rewritable holograms.",
+  "authors": [
+   "Janna Wilhelmsen",
+   "Longzhu Liu",
+   "Harry Miyosi Silalahi",
+   "Suraya Kazi",
+   "Giancarlo Cincotti",
+   "Shangzhi Chen",
+   "Dongqing Lin",
+   "Yulong Duan",
+   "Magnus P. Jonsson"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Janna Wilhelmsen",
+  "pdf_url": "http://arxiv.org/pdf/2604.20605",
+  "primary_category": "physics.optics",
+  "published": "2026-04-22",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "An electrically tunable metaatom for visible light",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2026-04-22"
  },
@@ -4517,6 +4669,7 @@
   ],
   "title": "An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Sustainability & Functional Applications"
   ],
@@ -4773,6 +4926,38 @@
   "title": "Topochemical Fluorination of La$_2$NiO$_{4+δ}$ Single Crystals",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-04-28"
+ },
+ "2604.25830": {
+  "abstract": "Organic Electrochemical Transistors (OECTs) stand out for their interplay between ionic and electronic conduction, making them ideal analogues to biological synapses for neuromorphic computing and biosensing applications. Furthermore, they can be printed into integrated circuits on flexible substrates, enabling low-cost and high-throughput fabrication of complete electronic systems. However, most OECT electrolytes for integrated circuits still lack biocompatibility and suffer from rheology-related printing challenges. This paper presents a novel material basis that can be combined with an ionic liquid to fabricate an electrolyte for OECTs that only contains biocompatible materials. It allows rheological adjustments to enable the use of electrolyte in both inkjet and screen printing. Furthermore, the electrolyte is UV-curable, enabling it to transition into solid-state structures after printing. Extended ink and device lifetimes for screen-printed structures enable the fabrication of advanced OECTs that can operate in ambient air for over 30 days after fabrication. Ultimately, a fully screen-printed transistor using only biocompatible materials on a leaf substrate is shown",
+  "authors": [
+   "Moritz Flemming",
+   "Paul Zechel",
+   "Rakesh R. Nair",
+   "Emil Mahnke",
+   "Markus Löffler",
+   "Alyna Ong",
+   "Bernd Rellinghaus",
+   "Lukas M. Eng",
+   "Karl Leo",
+   "Hans Kleemann"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Moritz Flemming",
+  "pdf_url": "http://arxiv.org/pdf/2604.25830",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-04-28",
+  "tags": [
+   "oect",
+   "rheology"
+  ],
+  "title": "Universal material basis for biocompatible printed electrolytes in Organic Electrochemical Transistors",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2026-04-28"
  },

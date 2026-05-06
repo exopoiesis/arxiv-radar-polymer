@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymerization — all</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <a href="polymerization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -154,6 +154,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.20447">2410.20447</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18536.html">Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a> · <a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
+<td>Yuyang Li et al.</td>
+<td><a href="http://arxiv.org/abs/2508.18536">2508.18536</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15571.html">Controlling polymerization-induced phase separation in the synthesis of porous gels</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Yanxia Feng et al.</td>
@@ -170,6 +176,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08391.html">Effects of knotting on the collapse of active ring polymers</a></div></td>
 <td>Davide Breoni et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08391">2507.08391</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="tem-all.html">tem</a></div></td>
+<td>Gabriel Paciaroni et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-16</td>
@@ -278,5 +290,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04636.html">Surface-Functionalization of Oleate-Capped Nano-Emitters for Stable Dispersion in 3D-Printable Polymers</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
 <td>Akhilesh Kumar Pathak et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04636">2407.04636</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15255.html">Additive Manufacturing of functionalised atomic vapour cells for next-generation quantum technologies</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Feiran Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15255">2406.15255</a></td>
 </tr>
 </tbody></table>

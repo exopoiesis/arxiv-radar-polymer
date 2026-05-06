@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,6 +470,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05894.html">Learning microstructure in active matter</a></div></td>
 <td>Writu Dasgupta et al.</td>
 <td><a href="http://arxiv.org/abs/2601.05894">2601.05894</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.05179.html">Local Multimodal Dynamics in Mixed Ionic-Electronic Conductors and Their Fingerprints in Organic Electrochemical Transistor Operation</a></div><div class="paper-tags"><a href="oect-all.html">oect</a></div></td>
+<td>Shubham Tanwar et al.</td>
+<td><a href="http://arxiv.org/abs/2601.05179">2601.05179</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-05</td>
@@ -970,6 +976,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2508.00896">2508.00896</a></td>
 </tr>
 <tr class="paper">
+<td>2025-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16626.html">Chemical Control for the Morphogenesis of Conducting Polymer Dendrites in Water</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2507.16626">2507.16626</a></td>
+</tr>
+<tr class="paper">
 <td>2025-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>E. Reynolds et al.</td>
@@ -986,6 +998,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10645.html">Scaling Relations, Morphological Stability, and Asymptotic Freedom of Plasma-Surface Deposition Dynamics</a></div></td>
 <td>Joel Saucedo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10645">2507.10645</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymerization-all.html">polymerization</a> · <a href="tem-all.html">tem</a></div></td>
+<td>Gabriel Paciaroni et al.</td>
+<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-08</td>
@@ -1162,6 +1180,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.14028">2504.14028</a></td>
 </tr>
 <tr class="paper">
+<td>2025-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13344.html">Adaptive AI decision interface for autonomous electronic material discovery</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="oect-all.html">oect</a></div></td>
+<td>Yahao Dai et al.</td>
+<td><a href="http://arxiv.org/abs/2504.13344">2504.13344</a></td>
+</tr>
+<tr class="paper">
 <td>2025-04-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11806.html">Phase Separation in Active Binary Mixtures With Chemical Reaction</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Sayantan Mondal et al.</td>
@@ -1276,6 +1300,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2411.07859">2411.07859</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04775.html">Defects induce phase transition from dynamic to static rippling in graphene</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Fabian L. Thiemann et al.</td>
+<td><a href="http://arxiv.org/abs/2406.04775">2406.04775</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.05417.html">A skeletonization based image segmentation algorithm to isolate slender regions in 3D microstructures</a></div></td>
 <td>Vinit Vijay Deshpande et al.</td>
@@ -1360,6 +1390,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2501.11728">2501.11728</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20014.html">Orientation reconstruction of transformation $α$ titanium alloys via polarized light microscopy: methodology and assessment</a></div></td>
+<td>Amit Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2406.20014">2406.20014</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.06138.html">Laser-scanning of induction-melted Al alloys: are they representative of additively manufactured ones?</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="benchmarking-all.html">benchmarking</a> · <a href="tem-all.html">tem</a></div></td>
 <td>Zhaoxuan Ge et al.</td>
@@ -1370,6 +1406,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05919.html">Swelling and evaporation determine surface morphology of grafted hydrogel thin films</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Caroline Kopecz-Muller et al.</td>
 <td><a href="http://arxiv.org/abs/2410.05919">2410.05919</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16066.html">Constructing Boundary-identical Microstructures via Guided Diffusion for Fast Multiscale Topology Optimization</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="generative-model-all.html">generative-model</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Jingxuan Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16066">2406.16066</a></td>
 </tr>
 <tr class="paper">
 <td>2025-01-03</td>
@@ -1582,10 +1624,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.00594">2410.00594</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08628.html">Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td>Killian Sheriff et al.</td>
+<td><a href="http://arxiv.org/abs/2405.08628">2405.08628</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19124.html">Generative deep learning for the inverse design of materials</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a></div></td>
 <td>Teng Long et al.</td>
 <td><a href="http://arxiv.org/abs/2409.19124">2409.19124</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15842.html">Correlation between Electrochemical Relaxations and Morphologies of Conducting Polymer Dendrites</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2409.15842">2409.15842</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-24</td>
@@ -1700,5 +1754,101 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08769.html">AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline</a></div><div class="paper-tags"><a href="automated-synthesis-all.html">automated-synthesis</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Samuel P. Gleason et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08769">2407.08769</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02525.html">Increased antimicrobial activity of ZnO nanoparticle thin films: Effect of surface structuration</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Imroi El-Habib et al.</td>
+<td><a href="http://arxiv.org/abs/2407.02525">2407.02525</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19068.html">Enhancing interfacial thermal transport by nanostructures: Monte Carlo simulations with ab initio phonon properties</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Wenzhu Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19068">2406.19068</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16436.html">Petrophysical Characterization of Fractured Limestone from Beauce Aquifer Vadose Zone (O-ZNS Observatory, France)</a></div></td>
+<td>Abdoul Nasser Yacouba et al.</td>
+<td><a href="http://arxiv.org/abs/2406.16436">2406.16436</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10495.html">Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Dorothy Gogoi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.10495">2406.10495</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07347.html">Periodic phase-separation during meniscus-guided deposition</a></div></td>
+<td>René de Bruijn et al.</td>
+<td><a href="http://arxiv.org/abs/2406.07347">2406.07347</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="composites-all.html">composites</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08496.html">Modelling the Impact of Organic Molecules and Phosphate Ions on Biosilica Pattern Formation in Diatoms</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Svetlana Petrenko et al.</td>
+<td><a href="http://arxiv.org/abs/2405.08496">2405.08496</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01165.html">Evaluating the potential of thermoplastic polymers for cryogenic sealing applications: strain rate and temperature effects</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Zhenzhou Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.01165">2406.01165</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16459.html">Pattern formation in three-state systems: Towards understanding morphology formation in the presence of evaporation</a></div></td>
+<td>Emilio N. M. Cirillo et al.</td>
+<td><a href="http://arxiv.org/abs/2405.16459">2405.16459</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19008.html">Mechanism and kinetics of sodium diffusion in Na-feldspar from neural network based atomistic simulations</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Alexander Gorfer et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19008">2405.19008</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19082.html">Multiscale simulation of spatially correlated microstructure via a latent space representation</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
+<td>Reese E. Jones et al.</td>
+<td><a href="http://arxiv.org/abs/2405.19082">2405.19082</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17831.html">Agarose Derived Carbon Based Nanocomposite for Hydrogen Storage at Near-Ambient Conditions</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a> · <a href="spectroscopy-all.html">spectroscopy</a> · <a href="tem-all.html">tem</a></div></td>
+<td>A Flamina et al.</td>
+<td><a href="http://arxiv.org/abs/2405.17831">2405.17831</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18396.html">What can machine learning help with microstructure-informed materials modeling and design?</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a></div></td>
+<td>Xiang-Long Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2405.18396">2405.18396</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07564.html">Growth of GeO2 on R-plane and C-plane Sapphires by MOCVD</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Imteaz Rahaman et al.</td>
+<td><a href="http://arxiv.org/abs/2405.07564">2405.07564</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03527.html">Dielectric Properties of Disordered A6B2O17 (A = Zr; B = Nb, Ta) Phases</a></div><div class="paper-tags"><a href="dielectric-properties-all.html">dielectric-properties</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>R. Jackson Spurling et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03527">2405.03527</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03670.html">Harnessing metastability for grain size control in multiprincipal element alloys during additive manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
+<td>Akane Wakai et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03670">2405.03670</a></td>
 </tr>
 </tbody></table>

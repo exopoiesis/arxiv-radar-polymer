@@ -1,4 +1,136 @@
 {
+ "2405.10911": {
+  "abstract": "Life uses non-equilibrium mechanisms to create ordered structures not attainable at equilibrium; the resulting order is assumed to provide functional benefits that outweigh costs of time and energy needed by these mechanisms. Here, we show that models of DNA replication and self-assembly, when expanded to include known stalling effects, can evolve error correcting mechanisms like kinetic proofreading and dynamic instability through selection for fast replication alone. We abstract these results into a general framework that predicts a counterintuitive ''order through speed'' effect if the distribution of replication times is wide enough. We test our results against recent mutational screens of proofreading polymerases. Our work suggests the intriguing possibility that non-equilibrium order can evolve even before that order is directly functional, with consequences for the evolution of mutation rates, viral capsid assembly, and the origin of life.",
+  "authors": [
+   "Riccardo Ravasio",
+   "Kabir Husain",
+   "Constantine G. Evans",
+   "Rob Phillips",
+   "Marco Ribezzi",
+   "Jack W. Szostak",
+   "Arvind Murugan"
+  ],
+  "categories": [
+   "q-bio.PE",
+   "cond-mat.stat-mech",
+   "q-bio.MN"
+  ],
+  "comment": null,
+  "first_author": "Riccardo Ravasio",
+  "pdf_url": "http://arxiv.org/pdf/2405.10911",
+  "primary_category": "q-bio.PE",
+  "published": "2024-05-17",
+  "tags": [],
+  "title": "A minimal scenario for the origin of non-equilibrium order",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-01-05"
+ },
+ "2405.17092": {
+  "abstract": "In this paper we investigate the shear viscoelasticity and the hydrodynamic modes in a holographic solid model with several sets of axions that all break the translations spontaneously on boundary. Comparing with the single-axion model, the shear modulus is enhanced at high temperatures and the shear viscosity is always suppressed in the presence of additional axions. However, the different sets of axions exhibit competitive relationship in determining the shear modulus at low temperatures. Furthermore, by calculating the black hole quasi-normal modes, it is found that adding more axions only increases the amount of diffusive modes. The number of the sound modes always remains unchanged.",
+  "authors": [
+   "Ling-Zheng Xia",
+   "Wei-Jia Li"
+  ],
+  "categories": [
+   "hep-th",
+   "cond-mat.str-el",
+   "gr-qc"
+  ],
+  "comment": "v2: Match the version published",
+  "first_author": "Ling-Zheng Xia",
+  "pdf_url": "http://arxiv.org/pdf/2405.17092",
+  "primary_category": "hep-th",
+  "published": "2024-05-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Hydrodynamic modes in holographic multiple-axion model",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2025-01-27"
+ },
+ "2406.16066": {
+  "abstract": "Hierarchical structures exhibit critical features across multiple scales. However, designing multiscale structures demands significant computational resources, and ensuring connectivity between microstructures remains a key challenge. To address these issues, \\textit{\\textbf{large-range, boundary-identical microstructure datasets}} are successfully constructed, where the microstructures share the same boundaries and exhibit a wide range of elastic moduli. This approach enables highly efficient multiscale topology optimization. Central to our technique adopts a deep generative model, guided diffusion, to generate microstructures under the two conditions, including the specified boundary and homogenized elastic tensor. We generate the desired datasets using active learning approaches, where microstructures with diverse elastic moduli are iteratively added to the dataset, which is then retrained. %We achieve the desired datasets by active learning approaches which are alternately adding microstructures with diverse elastic modulus constructed by the deep generative model into the dataset and retraining the deep generative model. After that, sixteen boundary-identical microstructure datasets with wide ranges of elastic modulus %high property coverage are constructed. We demonstrate the effectiveness and practicability of the obtained datasets over various multiscale design examples. Specifically, in the design of a mechanical cloak, we utilize macrostructures with $30 \\times 30$ elements and microstructures filled with $256 \\times 256$ elements. The entire reverse design process is completed within one minute, significantly enhancing the efficiency of the multiscale topology optimization.",
+  "authors": [
+   "Jingxuan Feng",
+   "Lili Wang",
+   "Xiaoya Zhai",
+   "Kai Chen",
+   "Wenming Wu",
+   "Ligang Liu",
+   "Xiao-Ming Fu"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Jingxuan Feng",
+  "pdf_url": "http://arxiv.org/pdf/2406.16066",
+  "primary_category": "cs.CE",
+  "published": "2024-06-23",
+  "tags": [
+   "active-learning",
+   "generative-model",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Constructing Boundary-identical Microstructures via Guided Diffusion for Fast Multiscale Topology Optimization",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2025-01-08"
+ },
+ "2406.18784": {
+  "abstract": "The method of self-consistent expansions is a powerful tool for handling strong coupling problems that might otherwise be beyond the reach of perturbation theory, providing surprisingly accurate approximations even at low order. First applied in its embryonic form to fully-developed turbulence, it has subsequently been successfully applied to a variety of problems that include polymer statistics, interface dynamics and high order perturbation theory for the anharmonic oscillator. Here we show that the self-consistent expansion can be applied to singular perturbation problems arising in the theory of partial differential equations. We demonstrate its application to Barenblatt's nonlinear diffusion equation for porous media filtration, where the long-time asymptotics exhibits anomalous dimensions that can be systematically calculated using the perturbative renormalization group. We find that even the first order self-consistent expansion improves the approximation of the anomalous dimension obtained by the first-order perturbative renormalization group, especially in the strong coupling regime. We also develop a field-theoretic framework for deterministic partial differential equations to facilitate the application of self-consistent expansions to other dynamic systems, and illustrate its application using the example of Barenblatt's equation. The scope of our results on the combination of renormalization group and self-consistent expansions is limited to partial differential equations whose long-time asymptotics is controlled by incomplete similarity. However, our work suggests that these methods could be applied to a broader suite of singular perturbation problems such as boundary layer theory, multiple scales analysis and matched asymptotic expansions, for which excellent approximations using renormalization group methods alone are already available.",
+  "authors": [
+   "Minhui Zhu",
+   "Nigel Goldenfeld"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": "14 pages, 1 figure",
+  "first_author": "Minhui Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2406.18784",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-06-26",
+  "tags": [],
+  "title": "Self-consistent expansion and field-theoretic renormalization group for a singular nonlinear diffusion equation with anomalous scaling",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2025-01-13"
+ },
+ "2406.20014": {
+  "abstract": "Emerging microstructural characterization methods have received increased attention owing to their promise of relatively inexpensive and rapid measurement of polycrystalline surface morphology and crystallographic orientations. Among these nascent methods, polarized light microscopy (PLM) is attractive for characterizing alloys comprised of hexagonal crystals, but is hindered by its inability to measure complete crystal orientations. In this study, we explore the potential to reconstruct quasi-deterministic orientations for titanium microstructures characterized via PLM by considering the Burgers orientation relationship between the room temperature $α$ (HCP) phase fibers measured via PLM, and the $β$ (BCC) phase orientations of the parent grains present above the transus temperature. We describe this method -- which is capable of narrowing down the orientations to one of four possibilities -- and demonstrate its abilities on idealized computational samples in which the parent $β$ microstructure is fully, unambiguously known. We further utilize this method to inform the instantiation of samples for crystal plasticity simulations, and demonstrate the significant improvement in deformation field predictions when utilizing this reconstruction method compared to using results from traditional PLM.",
+  "authors": [
+   "Amit Singh",
+   "Mark Obstalecki",
+   "Darren C. Pagan",
+   "Michael Glavicic",
+   "Matthew Kasemer"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "20 pages, 15 figures",
+  "first_author": "Amit Singh",
+  "pdf_url": "http://arxiv.org/pdf/2406.20014",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-06-28",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Orientation reconstruction of transformation $α$ titanium alloys via polarized light microscopy: methodology and assessment",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2025-01-20"
+ },
  "2407.03670": {
   "abstract": "We employ weakly nonlinear theory to derive an amplitude equation for the conserved-Hopf instability, i.e., a generic large-scale oscillatory instability for systems with two conservation laws. The resulting equation represents in the conserved case the equivalent of the complex Ginzburg-Landau equation obtained in the nonconserved case as amplitude equation for the standard Hopf bifurcation.Considering first the case of a relatively simple symmetric Cahn-Hilliard model with purely nonreciprocal coupling, we derive the nonlinear nonlocal amplitude equation with real coefficients and show that its bifurcation diagram and time evolution well agree with results for the full model. The solutions of the amplitude equation and their stability are analytically obtained thereby showing that in oscillatory phase separation the suppression of coarsening is universal. Second, we lift the two restrictions and obtain the amplitude equation in the generic case that has complex coefficients, that also shows very good agreement with the full model as exemplified for some transient dynamics that converges to traveling wave states.",
   "authors": [
@@ -1185,6 +1317,7 @@
   ],
   "title": "Enhanced condensate fluidity in modified patchy particle models",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2025-01-15"

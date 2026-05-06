@@ -1,4 +1,167 @@
 {
+ "2405.06974": {
+  "abstract": "A unique bistable transition has been identified in granular/colloidal gel-composites, resulting from shear-induced phase separation of the gel phase into dense blobs. In energy applications, it is critical to understand how this transition influences electrical performance. Mixing conductive colloids with conductive inclusions, we find the conductivity and elasticity move in concert, both decreasing in the collapsed phase-separated state. Surprisingly, with insulating inclusions these properties can become decoupled, with the conductivity instead increasing despite the collapse of the gel structure.",
+  "authors": [
+   "Thomas Larsen",
+   "John R. Royer",
+   "Fraser H. J. Laidlaw",
+   "Wilson C. K. Poon",
+   "Tom Larsen",
+   "Søren J. Andreasen",
+   "Jesper de C. Christiansen"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Thomas Larsen",
+  "pdf_url": "http://arxiv.org/pdf/2405.06974",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-05-11",
+  "tags": [
+   "composites",
+   "phase-separation"
+  ],
+  "title": "Decoupling elasticity and electrical conductivity of carbon black gels filled with insulating non-Brownian grains",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-08-13"
+ },
+ "2405.10103": {
+  "abstract": "Advanced material composite of nanocarbons and metal-based materials provides a synergistic effect to obtain excellent electrochemical charge-storage performance and other properties. Herein, 3D porous carbon-metal oxynitride nanocomposites with tunable carbon/metal and oxygen/nitrogen ratio are synthesized uniquely by simultaneous ablation from two different targets by single-step pulsed laser deposition at room temperature. Co-ablation of titanium and vanadium nitride targets together with graphite allowed us to synthesize carbon-metal oxynitride porous nanocomposite and exploit them as a binder-free thin film supercapacitor electrode in aqueous electrolyte. We show that the elemental composition ratio and hence the structural properties can be tuned by selecting target configuration and by manipulating the ablation position. We investigate how this tuning capability impacts their charge-storage performances. We anticipate the utilization of as-synthesized various composites in a single PLD production run as next-generation active materials for flexible energy storage and optoelectronic applications.",
+  "authors": [
+   "Subrata Ghosh",
+   "Giacomo Pagani",
+   "Massimilano Righi",
+   "Chengxi Hou",
+   "Valeria Russo",
+   "Carlo S. Casari"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "18 pages, 8 Figures, 1 table, 9 figures in supplementary figures",
+  "first_author": "Subrata Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2405.10103",
+  "primary_category": "physics.app-ph",
+  "published": "2024-05-16",
+  "tags": [
+   "composites",
+   "nanocomposites"
+  ],
+  "title": "One-step Pulsed Laser Deposition of Metal oxynitride/Carbon Composites for Supercapacitor Application",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-08-29"
+ },
+ "2405.20103": {
+  "abstract": "Polymers in confined spaces are compressed and have reduced conformational entropy, and will partially or fully escape from confinement if conditions are suitable. This is in particular the case for a polymer grafted in a pore. The escape of the polymer from the pore may be considered a partial translocation from the pore into bulk solution, and the resulting conformational readjustment of the polymer has characteristics of a thermodynamic phase transition. In this paper a lattice self-avoiding walk model of a star polymer grafted in a pore is examined numerically using the PERM algorithm. We show that the arms of the grafted lattice star escape one at a time as the length of the pore is reduced, consistent with earlier results in the literature. Critical points for the escape transitions are estimated for square and cubic lattice models and we also examine various properties of the model as it undergoes escape transitions.",
+  "authors": [
+   "CJ Bradly",
+   "EJ Janse van Rensburg"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "CJ Bradly",
+  "pdf_url": "http://arxiv.org/pdf/2405.20103",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-05-30",
+  "tags": [],
+  "title": "The escape transition of a lattice star polymer grafted in a pore",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-08-02"
+ },
+ "2406.06343": {
+  "abstract": "This letter explores an implementation of a novel thin film 1-by-4 reconfigurable intelligent surface (RIS) designed for future communication and sensing scenarios. Utilizing cost-effective inkjet printing methods and additive manufacturing, our approach significantly simplifies the RIS construction process and reduces production costs. The RIS, fabricated on a flexible and lightweight polyethylene terephthalate (PET) substrate, integrates antennas, switching circuitry, and a microcontroller unit (MCU), without a ground shield. This setup enables individual and simultaneous control of each RIS element, manipulating the captured carrier signal by reflecting and refracting its dominant harmonics. Beams of the harmonics can be steered to multiple desired directions at both front and back sides of the surface. Measurement results of the beam steering show that the RIS has the potential to enable RIS-aided communication and sensing applications.",
+  "authors": [
+   "Boxuan Xie",
+   "Aleksandr D. Kuznetsov",
+   "Lauri Mela",
+   "Jari Lietzén",
+   "Kalle Ruttik",
+   "Alp Karakoç",
+   "Riku Jäntti"
+  ],
+  "categories": [
+   "eess.SP",
+   "eess.SY"
+  ],
+  "comment": "5 pages, 4 figures, IEEE letter",
+  "first_author": "Boxuan Xie",
+  "pdf_url": "http://arxiv.org/pdf/2406.06343",
+  "primary_category": "eess.SP",
+  "published": "2024-06-10",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Thin Film Reconfigurable Intelligent Surface for Harmonic Beam Steering",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-08-01"
+ },
+ "2406.14505": {
+  "abstract": "We experimentally investigate the in-plane rotational motion of ferromagnetic colloidal rods immersed in viscoelastic media and subjected to a rotating magnetic field. Unexpectedly, we observe significant angular velocity even at field frequencies an order of magnitude exceeding the step-out frequency, a regime where rods typically cease rotating in Newtonian fluids. This anomalous behavior arises from the interplay between the rapid rod actuation driven by the external field and the slower microstructural relaxation of the viscoelastic fluid. A minimal model incorporating memory effects quantitatively captures our experimental findings. Our study demonstrate a rather general case of microrheological probe dynamics in viscoelastic media where the behavior beyond step-out frequency depends strongly on the rheological parameters medium. Additionally, we derive an analytical expression for the rod orientation in the high-frequency limit, providing a potential method for extracting rheological parameters.",
+  "authors": [
+   "N Narinder",
+   "Jyotiprakash Behera",
+   "Ambarish Ghosh"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "N Narinder",
+  "pdf_url": "http://arxiv.org/pdf/2406.14505",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-20",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Dynamics of colloidal rods rotating in viscoelastic media",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-08-19"
+ },
+ "2406.18577": {
+  "abstract": "Precise assessment of the mechanical properties of soft biological systems at the nanoscale is crucial for understanding physiology, pathology, and developing relevant drugs. Conventional atomic force microscopy (AFM)-based indentation methods suffer from uncertainties in local tip-sample interactions and model choice. This can be overcome by adopting spatially resolved nonlocal deformation sensing for mechanical analysis. However, the technique is currently limited to lifeless/static systems, due to the inadequate spatial or temporal resolution, or difficulties in differentiating the indentation-induced deformation from that associated with live activities and other external perturbations. Here, we develop an innovative dynamic nonlocal deformation sensing approach allowing both spatially and temporally resolved mechanical analysis, which achieves a tens of microsecond time-lag precision, a nanometer vertical deformation precision, and a sub-hundred nanometer lateral spatial resolution. Using oscillatory nanoindentation and spectroscopic analysis, the method can separate the indentation-caused signal from random noise, enabling live cell measurement. Using this method, we discover a distance-dependent phase of surface deformation during indentation, leading to the disclosure of surface tension effects (capillarity) in the mechanical response of live cells upon AFM indentation. A viscoelastic model with surface tension is used to enable simultaneous quantification of the viscoelasticity and capillarity of cell. We show that neglecting surface tension, as in conventional AFM methods, would underestimate the liquid-like characteristics and overestimate the apparent viscoelastic modulus of cells. The study lays down a foundation for understanding a broad range of elastocapillarity-related interfacial mechanics and mechanobiological processes in live cells.",
+  "authors": [
+   "Yue Cui",
+   "Weng-Hang Leong",
+   "Guoli Zhu",
+   "Ren-Bao Liu",
+   "Quan Li"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "quant-ph"
+  ],
+  "comment": "30 pages (4 figures) + 25 pages (20 figures)",
+  "first_author": "Yue Cui",
+  "pdf_url": "http://arxiv.org/pdf/2406.18577",
+  "primary_category": "physics.bio-ph",
+  "published": "2024-06-05",
+  "tags": [
+   "mechanical-properties",
+   "spectroscopy"
+  ],
+  "title": "Nanodiamond-based spatial-temporal deformation sensing for cell mechanics",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2024-08-20"
+ },
  "2407.08160": {
   "abstract": "The biomechanical properties of cells and tissues play an important role in our fundamental understanding of the structures and functions of biological systems at both the cellular and subcellular levels. Recently, Brillouin microscopy, which offers a label-free spectroscopic means of assessing viscoelastic properties in vivo, has emerged as a powerful way to interrogate those properties on a microscopic level in living tissues. However, susceptibility to photo-damage and photo-bleaching, particularly when high-intensity laser beams are used to induce Brillouin scattering, poses a significant challenge. This article introduces a transformative approach designed to mitigate photo-damage in biological and biomedical studies, enabling non-destructive, label-free assessments of mechanical properties in live biological samples. By leveraging quantum-light-enhanced stimulated Brillouin scattering (SBS) imaging contrast, the signal-to-noise ratio is significantly elevated, thereby increasing sample viability and extending interrogation times without compromising the integrity of living samples. The tangible impact of this novel methodology is evidenced by a notable three-fold increase in sample viability observed after subjecting the samples to three hours of continuous squeezed-light illumination, surpassing the traditional coherent light-based approaches. The quantum-enhanced SBS imaging holds promise across diverse fields, such as cancer biology and neuroscience where preserving sample vitality is of paramount significance. By mitigating concerns regarding photo-damage and photo-bleaching associated with high-intensity lasers, this technological breakthrough expands our horizons for exploring the mechanical properties of live biological systems, paving the way for a new era of research and clinical applications.",
   "authors": [
@@ -1252,6 +1415,7 @@
   ],
   "title": "Active Liquid-Liquid Phase-Separation in a Confining Environment",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Molecular Dynamics & Multiscale Modeling"
   ],
@@ -1994,6 +2158,7 @@
   ],
   "title": "Liquid-liquid phase separation at the interface of an evaporating droplet; formation of a regular lattice pattern",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-08-26"
@@ -2175,6 +2340,7 @@
   ],
   "title": "A reaction network model of microscale liquid-liquid phase separation reveals effects of spatial dimension",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-08-27"

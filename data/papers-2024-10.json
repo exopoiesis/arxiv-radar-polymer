@@ -1,4 +1,139 @@
 {
+ "2405.04019": {
+  "abstract": "We derive generalized Langevin equations (GLEs) for single beads in linear elastic networks. In particular, the derivations of the GLEs are conducted without employing normal modes, resulting in two distinct representations in terms of resistance and mobility kernels. The fluctuation-dissipation relations are also confirmed for both GLEs. Subsequently, we demonstrate that these two representations are interconnected via Laplace transforms. Furthermore, another GLE is derived by utilizing a projection operator method, and it is shown that the equation obtained through the projection scheme is consistent with the GLE with the resistance kernel. As simple examples, the general theory is applied to the Rouse model and the ring polymer, where the GLEs with the resistance and mobility kernels are explicitly derived for arbitrary positions of the tagged bead in these models. Finally, the GLE with the mobility kernel is also derived for the elastic network with hydrodynamic interactions under the pre-averaging approximation.",
+  "authors": [
+   "Soya Shinkai",
+   "Shuichi Onami",
+   "Tomoshige Miyaguchi"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "17 pages, 2 figure",
+  "first_author": "Soya Shinkai",
+  "pdf_url": "http://arxiv.org/pdf/2405.04019",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-05-07",
+  "tags": [],
+  "title": "Generalized Langevin dynamics for single beads in linear elastic network",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-10-22"
+ },
+ "2405.11642": {
+  "abstract": "Using the Lebwohl-Lasher interaction for reciprocal local alignment, we present a comprehensive phase diagram for a dry, apolar, active nematic system using its stochastic \\new{off-lattice} dynamics. \\new{The nematic-isotropic transition in this system is first-order and occurs alongside a fluctuation-dominated phase separation.} Our phase diagram identifies three distinct regions based on activity and orientational noise relative to alignment strength: a homogeneous isotropic phase, a nematic phase with giant density fluctuations, and a coexistence region. Using mean-field analysis and hydrodynamic theory, we demonstrate that reciprocal interactions lead to a density fluctuation-induced first-order transition and derive a phase boundary consistent with numerical results. Quenching from the isotropic to nematic phase reveals coarsening dynamics where nematic ordering precedes particle clustering. Both the nematic and density fields exhibit similar scaling behaviors, exhibiting dynamic exponents $z_S \\approx 2.5$ and $z_ρ\\approx 2.34$, consistently falling within the range of 2 and 3.",
+  "authors": [
+   "Arpan Sinha",
+   "Debasish Chaudhuri"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": "11 pages, 6 figures; version accepted for publication",
+  "first_author": "Arpan Sinha",
+  "pdf_url": "http://arxiv.org/pdf/2405.11642",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-05-19",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Activity-induced phase transition and coarsening dynamics in dry apolar active nematics",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-10-07"
+ },
+ "2406.00665": {
+  "abstract": "In the global pursuit of sustainable energy solutions, mitigating carbon dioxide (CO2) emissions stands as a pivotal challenge. With escalating atmospheric CO2 levels, the imperative of direct air capture (DAC) systems becomes evident. Simultaneously, green hydrogen (GH) emerges as a pivotal medium for renewable energy. Nevertheless, the substantial expenses associated with these technologies impede widespread adoption, primarily due to significant installation costs and underutilized operational advantages when deployed independently. Integration through sector coupling enhances system efficiency and sustainability, while shared power sources and energy storage devices offer additional economic benefits. In this study, we assess the economic viability of polymer electrolyte membrane electrolyzers versus alkaline electrolyzers within the context of sector coupling. Our findings indicate that combining GH production with solid DAC systems yields significant economic advantages, with approximately a 10% improvement for PEM electrolyzers and a 20% enhancement for alkaline electrolyzers. These results highlight a substantial opportunity to improve the efficiency and economic viability of renewable energy and green hydrogen initiatives, thereby facilitating the broader adoption of cleaner technologies.",
+  "authors": [
+   "Sunwoo Kim",
+   "Joungho Park",
+   "Jay H. Lee"
+  ],
+  "categories": [
+   "econ.GN",
+   "eess.SY"
+  ],
+  "comment": "We have corrected the errors from the previous version of the manuscript and uploaded the updated version",
+  "first_author": "Sunwoo Kim",
+  "pdf_url": "http://arxiv.org/pdf/2406.00665",
+  "primary_category": "econ.GN",
+  "published": "2024-06-02",
+  "tags": [
+   "polymer-electrolytes"
+  ],
+  "title": "Integrating solid direct air capture systems with green hydrogen production: Economic synergy of sector coupling",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-10-19"
+ },
+ "2406.13218": {
+  "abstract": "The mammalian cell membrane is embedded with biomolecular condensates of protein and lipid clusters, which interact with an underlying viscoelastic cytoskeleton network to organize the cell surface and mechanically interact with the extracellular environment. However, the mechanical and thermodynamic interplay between the viscoelastic network and liquid-liquid phase separation of 2-dimensional (2D) lipid condensates remains poorly understood. Here, we engineer materials composed of 2D lipid membrane condensates embedded within a thin viscoelastic actin network. The network generates localized anisotropic stresses that deform lipid condensates into triangular morphologies with sharp edges and corners, shapes unseen in 3D composite gels. Kinetic coarsening of phase-separating lipid condensates accelerates the viscoelastic relaxation of the network, leading to an effectively softer composite material over intermediate timescales. We dynamically manipulate the membrane composition to control the elastic-to-viscous crossover of the network. Such viscoelastic composite membranes may enable the development of coatings, catalytic surfaces, separation membranes, and other interfaces with tunable spatial organization and plasticity mechanisms.",
+  "authors": [
+   "Daniel P. Arnold",
+   "Sho C. Takatori"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "There are 29 pages with four main figures and one table of contents (TOC) figure in the main text. Ancillary files include a supplemental appendix and three supplemental videos. The supplemental appendix contains three video legends, a supplemental note, and four supplemental figures",
+  "first_author": "Daniel P. Arnold",
+  "pdf_url": "http://arxiv.org/pdf/2406.13218",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-19",
+  "tags": [
+   "composites",
+   "mechanical-properties",
+   "membranes",
+   "phase-separation"
+  ],
+  "title": "Lipid membrane domains control actin network viscoelasticity",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-10-22"
+ },
+ "2406.14256": {
+  "abstract": "Biomolecular condensates play a central role in the spatial organization of living matter. Their formation is now well understood as a form of liquid-liquid phase separation that occurs very far from equilibrium. For instance, they can be modeled as active droplets, where the combination of molecular interactions and chemical reactions result in microphase separation. However, so far, models of chemically active droplets are spatially continuous and deterministic. Therefore, the relationship between the microscopic parameters of the models and some crucial properties of active droplets (such as their polydispersity, their shape anisotropy, or their typical lifetime) is yet to be established. In this work, we address this question computationally, using Brownian dynamics simulations of chemically active droplets: the building blocks are represented explicitly as particles that interact with attractive or repulsive interactions, depending on whether they are in a droplet-forming state or not. Thanks to this microscopic and stochastic view of the problem, we reveal how driving the system away from equilibrium in a controlled way determines the fluctuations and dynamics of active emulsions.",
+  "authors": [
+   "Roxanne Berthin",
+   "Jacques Fries",
+   "Marie Jardat",
+   "Vincent Dahirel",
+   "Pierre Illien"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Roxanne Berthin",
+  "pdf_url": "http://arxiv.org/pdf/2406.14256",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-06-20",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Microscopic and stochastic simulations of chemically active droplets",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2024-10-11"
+ },
  "2407.02985": {
   "abstract": "The nonequilibrium dynamics of a cycling three-state Potts model is studied on a square lattice using Monte Carlo simulations and continuum theory. This model is relevant to chemical reactions on a catalytic surface and to molecular transport across a membrane. Several characteristic modes are formed depending on the flipping energies between successive states and the contact energies between neighboring sites. Under cyclic symmetry conditions, cycling homogeneous phases and spiral waves form at low and high flipping energies, respectively. In the intermediate flipping energy regime, these two modes coexist temporally in small systems and/or at low contact energies. Under asymmetric conditions, we observed small biphasic domains exhibiting amoeba-like locomotion and temporal coexistence of spiral waves and a dominant non-cyclic one-state phase. An increase in the flipping energy between two successive states, say state 0 and state 1, while keeping the other flipping energies constant, induces the formation of the third phase (state 2), owing to the suppression of the nucleation of state 0 domains. Under asymmetric conditions regarding the contact energies, two different modes can appear depending on the initial state, due to a hysteresis phenomenon.",
   "authors": [
@@ -159,6 +294,7 @@
   ],
   "title": "Nonequilibrium Thermodynamics of Non-Ideal Reaction-Diffusion Systems: Implications for Active Self-Organization",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Molecular Dynamics & Multiscale Modeling"
   ],
@@ -340,6 +476,31 @@
   "title": "Automated Segmentation and Analysis of Microscopy Images of Laser Powder Bed Fusion Melt Tracks",
   "topics": [
    "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2024-10-01"
+ },
+ "2410.00406": {
+  "abstract": "The spatial arrangement of components within an mRNA encapsulating nanoparticle has consequences for its thermal stability, which is a key parameter for therapeutic utility. The mesostructure of mRNA nanoparticles formed with cationic polymers have several distinct putative structures: here, we develop a field theoretic simulation model to compute the phase diagram for amphiphilic block copolymers that balance coacervation and hydrophobicity as driving forces for assembly. We predict several distinct morphologies for the mesostructure of these nanoparticles, depending on salt conditions and hydrophobicity. We compare our predictions with cryogenic-electron microscopy images of mRNA encapsulated by charge altering releasable transporters. In addition, we provide a GPU-accelerated, open-source codebase for general purpose field theoretic simulations, which we anticipate will be a useful tool for the community.",
+  "authors": [
+   "Emmit K. Pert",
+   "Paul J. Hurst",
+   "Robert M. Waymouth",
+   "Grant M. Rotskoff"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Emmit K. Pert",
+  "pdf_url": "http://arxiv.org/pdf/2410.00406",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-10-01",
+  "tags": [
+   "coacervates"
+  ],
+  "title": "Coacervation drives morphological diversity of mRNA encapsulating nanoparticles",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2024-10-01"
  },
@@ -1213,6 +1374,7 @@
   ],
   "title": "Active fluids form system-spanning filamentary networks",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-10-09"
@@ -2612,6 +2774,35 @@
   ],
   "updated": "2024-10-24"
  },
+ "2410.19233": {
+  "abstract": "Interfacial energy dissipation during stick-slip motion of a liquid drop on a non-conductive polymer substrate is shown to lead to an irreversible increase in electrical charge. This previously unobserved phenomenon occurs during surface wetting, in contrast to the previously reported charge separation mechanism that occurs during dewetting. Understanding this electrification mechanism will facilitate the design of energy harvesters and aid the development of risk mitigation strategies for electrostatic buildup in liquid flow across a wide range of industrial applications.",
+  "authors": [
+   "Shuaijia Chen",
+   "Ronald T. Leon",
+   "Rahmat Qambari",
+   "Yan Yan",
+   "Menghan Chen",
+   "Peter C. Sherrell",
+   "Amanda V. Ellis",
+   "Joseph D. Berry"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Shuaijia Chen",
+  "pdf_url": "http://arxiv.org/pdf/2410.19233",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-10-25",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Irreversible charging caused by energy dissipation from depinning of droplets on polymer surfaces",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2024-10-25"
+ },
  "2410.19299": {
   "abstract": "Entangled polymers are an important class of materials for their toughness, processability, and functionalizability. However, physically detailed modeling of highly entangled polymers can prove challenging, especially as one considers additional layers of physical or chemical complexity. To address these challenges, we present a series of generalizations for the useful \"non-stretching\" approximation, using asymptotic methods to formalize and expand the analysis. First, we rederive the popular non-stretching Rolie Poly model and extend it second order, reintroducing effects from finite chain stretching. Then, we extended the non-stretching framework to other special cases, accounting for flow-induced disentanglement, polydispersity, and reversible scission reactions. Benchmark calculations confirm that non-stretching models derived via systematic asymptotic methods provide excellent and improvable approximations for the rheology of well-entangled polymer constitutive equations with finite-time stretch relaxation dynamics.",
   "authors": [
@@ -2815,6 +3006,7 @@
   ],
   "title": "Condensation and activator/repressor control of a transcription-regulated biomolecular liquid",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2024-10-29"
@@ -2840,6 +3032,29 @@
   "title": "Voronoi Entropy and long-range order of 2D point sets",
   "topics": [
    "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2024-10-29"
+ },
+ "2410.21792": {
+  "abstract": "In recent years, there has been a renewed interest in complex coacervation, driven by concerted efforts to offer novel experimental and theoretical insights into electrostatic charge-induced association. While previous studies have primarily focused on polyelectrolytes, proteins or surfactants, our work explores the potential of using cerium (CeO2) and iron (γ-Fe2O3) oxide nanoparticles (NPs) to develop innovative nanomaterials. By combining various charged species, such as polyelectrolytes, charged neutral block copolymers and coated NPs, we study a wide variety of complexation patterns and compare them using isothermal titration calorimetry, light scattering and microscopy. These techniques confirm that the titration of oppositely charged species occurs in two steps: the formation of polyelectrolyte complexes and subsequent phase (or microphase) separation, depending on the system studied. Across all examined cases, the entropic contribution to the total free energy surpasses the enthalpic contribution, in agreement with counterion release mechanisms. Furthermore, our investigation reveals a consistent asymmetry in the reaction enthalpy associated with the secondary process, with exothermic profiles observed upon the addition of cationic species to anionic ones and endothermic profiles in the reverse case.",
+  "authors": [
+   "Letícia Vitorazi",
+   "Jean-François Berret"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Letícia Vitorazi",
+  "pdf_url": "http://arxiv.org/pdf/2410.21792",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-10-29",
+  "tags": [
+   "coacervates"
+  ],
+  "title": "Mixing order asymmetry in nanoparticle-polymer complexation and precipitation revealed by isothermal titration calorimetry",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2024-10-29"
  },

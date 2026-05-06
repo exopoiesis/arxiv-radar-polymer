@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">327 papers</span>
+  <span class="paper-count">348 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="extrusion-all.html">extrusion</a></div></td>
 <td>Ahmadreza Eslaminia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03328">2605.03328</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02522.html">Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks</a></div></td>
+<td>Nisha Rokaya et al.</td>
+<td><a href="http://arxiv.org/abs/2406.02522">2406.02522</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-29</td>
@@ -1679,6 +1685,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.08326.html">On the application of components manufactured with stereolithographic 3D printing in high vacuum systems</a></div></td>
+<td>Aleksandar Radic et al.</td>
+<td><a href="http://arxiv.org/abs/2406.08326">2406.08326</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.02810.html">Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs</a></div></td>
 <td>Muhammad Tayyab Khan et al.</td>
 <td><a href="http://arxiv.org/abs/2411.02810">2411.02810</a></td>
@@ -1888,6 +1900,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2408.02427">2408.02427</a></td>
 </tr>
 <tr class="paper">
+<td>2024-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06343.html">Thin Film Reconfigurable Intelligent Surface for Harmonic Beam Steering</a></div></td>
+<td>Boxuan Xie et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06343">2406.06343</a></td>
+</tr>
+<tr class="paper">
 <td>2024-07-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00590.html">Elastic wave control in reticulated plates using Schwarz primitive cells</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
 <td>Aida Hejazi Nooghabi et al.</td>
@@ -1976,5 +1994,113 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01484.html">Scaling on Frontier: Uncertainty Quantification Workflow Applications using ExaWorks to Enable Full System Utilization</a></div></td>
 <td>Mikhail Titov et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01484">2407.01484</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19096.html">In-situ Controller Autotuning by Bayesian Optimization for Closed-loop Feedback Control of Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
+<td>Baris Kavas et al.</td>
+<td><a href="http://arxiv.org/abs/2406.19096">2406.19096</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17487.html">Anatomically and mechanically conforming patient-specific spinal fusion cages designed by full-scale topology optimization</a></div></td>
+<td>Thijs Smit et al.</td>
+<td><a href="http://arxiv.org/abs/2406.17487">2406.17487</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15255.html">Additive Manufacturing of functionalised atomic vapour cells for next-generation quantum technologies</a></div><div class="paper-tags"><a href="polymerization-all.html">polymerization</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Feiran Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2406.15255">2406.15255</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14478.html">Toward data-driven research: preliminary study to predict surface roughness in material extrusion using previously published data with Machine Learning</a></div><div class="paper-tags"><a href="extrusion-all.html">extrusion</a></div></td>
+<td>Fátima García-Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2406.14478">2406.14478</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12286.html">VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation</a></div></td>
+<td>Yu-hsuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2406.12286">2406.12286</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12741.html">Characterization of Additive Manufacturing Materials for String Assembly in Cleanroom</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Jacopo Bernardini et al.</td>
+<td><a href="http://arxiv.org/abs/2406.12741">2406.12741</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07408.html">ADDOPT: An Additive Manufacturing Optimal Control Framework Demonstrated in Minimizing Layer-Level Thermal Variance in Electron Beam Powder Bed Fusion</a></div></td>
+<td>Mikhail Khrenov et al.</td>
+<td><a href="http://arxiv.org/abs/2406.07408">2406.07408</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05430.html">Large Eddy Simulations of Flow over Additively Manufactured Surfaces: Impact of Roughness and Skewness on Turbulent Heat Transfer</a></div></td>
+<td>Himani Garg et al.</td>
+<td><a href="http://arxiv.org/abs/2406.05430">2406.05430</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03966.html">QuickCurve: revisiting slightly non-planar 3D printing</a></div></td>
+<td>Emilio Ottonello et al.</td>
+<td><a href="http://arxiv.org/abs/2406.03966">2406.03966</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00186.html">Surface roughness-informed fatigue life prediction of L-PBF Hastelloy X at elevated temperature</a></div></td>
+<td>Ritam Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2406.00186">2406.00186</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17603.html">Towards Biomechanical Evaluation of a Transformative Additively Manufactured Flexible Pedicle Screw for Robotic Spinal Fixation</a></div></td>
+<td>Yash Kulkarni et al.</td>
+<td><a href="http://arxiv.org/abs/2405.17603">2405.17603</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00031.html">AMGPT: a Large Language Model for Contextual Querying in Additive Manufacturing</a></div></td>
+<td>Achuth Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2406.00031">2406.00031</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12931.html">Enabling Additive Manufacturing Part Inspection of Digital Twins via Collaborative Virtual Reality</a></div></td>
+<td>Vuthea Chheang et al.</td>
+<td><a href="http://arxiv.org/abs/2405.12931">2405.12931</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11596.html">Bioinspired Nested-Isotropic Lattices with Tunable Anisotropy for Additive Manufacturing</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>R. Boda et al.</td>
+<td><a href="http://arxiv.org/abs/2405.11596">2405.11596</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09572.html">Deep Neural Operator Enabled Digital Twin Modeling for Additive Manufacturing</a></div></td>
+<td>Ning Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2405.09572">2405.09572</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03670.html">Harnessing metastability for grain size control in multiprincipal element alloys during additive manufacturing</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Akane Wakai et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03670">2405.03670</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01520.html">AI for Manufacturing and Healthcare: a chemistry and engineering perspective</a></div></td>
+<td>Jihua Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2405.01520">2405.01520</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00812.html">Explosively driven Richtmyer--Meshkov instability jet suppression and enhancement via coupling machine learning and additive manufacturing</a></div></td>
+<td>Dane M. Sterbentz et al.</td>
+<td><a href="http://arxiv.org/abs/2405.00812">2405.00812</a></td>
 </tr>
 </tbody></table>
