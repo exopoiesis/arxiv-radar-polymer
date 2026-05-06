@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Chady Ghnatios et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03186">2605.03186</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01183.html">Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions</a></div></td>
 <td>M. Affouf</td>
@@ -830,11 +836,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05752.html">Orthogonal Superposition Rheometry of soft core-shell microgels</a></div></td>
 <td>Panagiota Bogri et al.</td>
 <td><a href="http://arxiv.org/abs/2602.05752">2602.05752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05040.html">Minimal Hamiltonian deformations as bulk probes of effective non-Hermiticity in Dirac materials</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Sergio Pino-Alarcón et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05040">2602.05040</a></td>
 </tr>
 </tbody></table>

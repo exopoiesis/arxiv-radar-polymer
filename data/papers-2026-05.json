@@ -48,6 +48,77 @@
   ],
   "updated": "2026-05-01"
  },
+ "2605.00958": {
+  "abstract": "We introduce a mesoscopic partition function for classical many-body systems based on a combined spatial and phase-space coarse-graining, replacing the canonical phase-space integral with a discrete sum over occupation numbers. The construction recovers the standard canonical partition function in the fine-graining limit. Our main result shows that factorisation of the mesoscopic partition function across spatial cells is equivalent to extensivity of the coarse-grained free energy, with deviations governed by inter-cell correlations quantifiable via mutual information. We derive a generalised Euler relation with a subextensive correction encoding boundary and correlation effects. Together, these results provide a unified framework linking coarse-graining, factorisation, and extensivity in mesoscopic thermodynamics.",
+  "authors": [
+   "Bob Osano"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": "12 pages",
+  "first_author": "Bob Osano",
+  "pdf_url": "http://arxiv.org/pdf/2605.00958",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-01",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "The Mesoscopic Partition Function:A Combined Spatial and Phase-Space Cell Structure",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.01031": {
+  "abstract": "Coherent elastic strain is an important but often neglected contribution to phase-separation thermodynamics in alloy systems where decomposed phases have appreciable lattice mismatch. We develop a thermodynamic framework that incorporates coherent elastic compatibility directly into phase-diagram calculations alongside conventional CALPHAD chemical free energies. Applied to the BCC Nb-V system, the framework shows that coherent elasticity substantially suppresses phase separation, narrows the miscibility gap, and lowers the critical temperature toward experimentally observed values. Beyond these quantitative effects, the coherent constraint qualitatively alters the interpretation of phase equilibria: the equilibrium decomposition compositions become functions of both temperature and overall alloy composition, so the two-phase boundary no longer represents unique coexistence compositions. These results establish coherent elasticity as a key thermodynamic factor in lattice-mismatched systems and provide a general framework for coherent phase-diagram modeling.",
+  "authors": [
+   "Siya Zhu",
+   "Raymundo Arróyave"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "24 pages, 5 figures, Supplementary Information available",
+  "first_author": "Siya Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2605.01031",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-01",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Influence of Coherent Elastic Strain on Phase Separation in BCC Nb-V Alloys",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-01"
+ },
+ "2605.01087": {
+  "abstract": "Electrochemical metallization (ECM) memristors have potential applications in future neuromorphic computing hardware. The set, reset, and variable-resistance features of these devices originate in the formation and breakup of metal filaments in a solid-state electrolyte. While the performance characteristics of these devices are widely investigated, the driving principles behind the morphology of the filament formation process remain unclear. In this study, we propose an approach motivated by the extremal principles found in non-equilibrium thermodynamics and observe an entropy production and energy dissipation rate minimization during the filament-forming process in kinetic Monte Carlo simulations.",
+  "authors": [
+   "Justin Brutger",
+   "Xiao Shen"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Justin Brutger",
+  "pdf_url": "http://arxiv.org/pdf/2605.01087",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-05-01",
+  "tags": [
+   "monte-carlo",
+   "polymer-morphology"
+  ],
+  "title": "Non-Equilibrium Thermodynamic Extremal Principles During Filament Formation in ECM Memristors",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-01"
+ },
  "2605.01183": {
   "abstract": "We study one-dimensional viscoelastic phase transitions modeled by a Ginzburg--Landau energy with a non-convex cubic stress-strain law. Extending the isothermal model, we couple the momentum equation to a heat equation for the temperature field, giving a thermoelastic system with viscous, capillary, and thermal-diffusion terms. We prove global existence and uniqueness of classical smooth solutions for the Cauchy problem, using a traveling-wave decomposition, an exponential transformation of the mechanical perturbation, and coupled energy estimates at successive regularity levels. Under additional integrability and small-data assumptions, the temperature perturbation decays algebraically.",
   "authors": [
@@ -67,6 +138,115 @@
   "title": "Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01261": {
+  "abstract": "Liquid-liquid phase separation underlies phenomena ranging from protein condensate formation to the phase coexistence of synthetic polymers. Although the random phase approximation (RPA) is widely used to predict such phase behavior, its quantitative accuracy for binodals of polymer solutions, particularly outside the high-density regime, remains incompletely characterized. Here, we develop a field theoretic loop expansion in homopolymer systems by identifying the inverse polymer density $ρ^{-1}$ as the Planck constant $\\hbar$ in quantum field theory. We calculate the leading-order and next-to-leading-order corrections to the RPA free energy, denoted as RPA+ and RPA++, respectively. Testing the binodal predicted by the RPA+ against molecular dynamics simulations of bead-spring chains with Gaussian pair interactions, we find that the RPA+ qualitatively improves the dilute-phase coexistence density over the RPA, while the critical point error remains comparable to that of the RPA. Our results establish the loop expansion as a systematic route for refining the RPA-based binodal predictions for polymer phase separation.",
+  "authors": [
+   "Kiyoharu Kawana",
+   "Kyosuke Adachi"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "hep-th"
+  ],
+  "comment": "10 pages, 5 figures",
+  "first_author": "Kiyoharu Kawana",
+  "pdf_url": "http://arxiv.org/pdf/2605.01261",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-02",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Loop expansion in polymer field theory: application to phase separation",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01377": {
+  "abstract": "We present an optimal control problem to guide the selection of morphology classes arising in organic solar cells. The study focuses on phase separation processes in polymer solvent mixtures, with particular attention to solvent evaporation as a mechanism to arrest morphology formation. We establish the existence of optimal controls and analyze the Frechet derivative of the control to state mapping. Finally, we derive the first order necessary optimality condition via the corresponding adjoint system.",
+  "authors": [
+   "Arghya Kundu",
+   "Adrian Muntean"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Arghya Kundu",
+  "pdf_url": "http://arxiv.org/pdf/2605.01377",
+  "primary_category": "math.OC",
+  "published": "2026-05-02",
+  "tags": [
+   "organic-photovoltaics",
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01421": {
+  "abstract": "Repulsive self-propelled particles tend to cluster, leading to Motility-Induced Phase Separation (MIPS). By analogy with equilibrium phase separation, the onset of MIPS has been associated with a transition to effective attraction between particles. Using an exact microscopic theory, we quantify the emergence of effective attraction in a minimal model: two soft run-and-tumble particles in a periodic domain. We show that, as repulsion increases, the leading-order behaviour is that of effective repulsion, while effective attraction emerges as a higher-order contribution to the renormalisation of the pair potential.",
+  "authors": [
+   "Rosalba Garcia-Millan",
+   "Luca Cocconi",
+   "Ziluo Zhang",
+   "Marius Bothe",
+   "Letian Chen",
+   "Zigan Zhen",
+   "Gunnar Pruessner"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "7 pages, 3 figures",
+  "first_author": "Rosalba Garcia-Millan",
+  "pdf_url": "http://arxiv.org/pdf/2605.01421",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-02",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Effective attraction by repulsion",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.01470": {
+  "abstract": "We design a system with a binary suspension of colloids and a surface that triggers the self-assembly of crystallites with a finite thickness. The proposed design allows controlling the number of layers forming the aggregate and constrains the two types of particles to lie on different planes. These functionalities are achieved by decorating the colloids and the surface with multiple DNA oligomers featuring specific interactions. The surface triggers a chain of reactions between DNA oligomers, leading to localized self-assembly. Equilibrium principles control the thickness of the aggregates. Instead, compositional order is achieved by engineering the reaction kinetics between DNA oligomers in a way that limits interactions between colloids of the same type. We validate our design using theory and reaction-diffusion simulation algorithms, which capture the multibody nature of the interactions. This work demonstrates how engineering the kinetics provides a new avenue for controlling the morphology of aggregates assembled by DNA.",
+  "authors": [
+   "Akshaya Kumar Jena",
+   "Aashima Aashima",
+   "Pritam Kumar Jana",
+   "Bortolo Matteo Mognetti"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": "These last two authors contributed equally to this work",
+  "first_author": "Akshaya Kumar Jena",
+  "pdf_url": "http://arxiv.org/pdf/2605.01470",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-02",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Colloidal layer deposition with a controllable number of layers and compositional order",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-02"
  },
@@ -91,6 +271,7 @@
   ],
   "title": "First-principles simulation of shocked H-He mixture along the principal Hugoniot",
   "topics": [
+   "Microstructure, Morphology & Characterization",
    "Property Prediction & QSPR"
   ],
   "updated": "2026-05-02"
@@ -143,5 +324,273 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-05-03"
+ },
+ "2605.02478": {
+  "abstract": "Single-event burnout (SEB) in silicon carbide (SiC) power MOSFETs is often characterized by deterministic threshold quantities. Near the boundary between recovery and runaway, stochastic variability can make this threshold description probabilistic rather than sharp. This work introduces a first-passage perspective for stochastic threshold broadening in burnout. The process is described by a reduced electrothermal feedback-relaxation model with an absorbing boundary. The model combines carrier multiplication, avalanche feedback, localized heating, carrier loss, and thermal relaxation. Stochastic carrier and thermal terms represent unresolved event-level variability. The main finding is that finite fluctuations broaden the deterministic burnout threshold into a probabilistic transition band. Noise-induced subthreshold runaway also emerges, where nominally recoverable conditions can still fail through rare stochastic excursions. First-passage-time distributions resolve the time scale of burnout and survival probabilities further distinguish rapid feedback-dominated runaway from delayed stochastic failure. A feedback-relaxation phase diagram organizes recoverable, probabilistic, and rapidly unstable regimes. This framework provides a statistical-physics interpretation of threshold dispersion in single-event burnout of SiC power MOSFETs by linking coarse-grained electrothermal dynamics to probabilistic and time-resolved failure observables.",
+  "authors": [
+   "Feiyi Liu",
+   "Min Guo",
+   "Shiyang Chen",
+   "Yuhan Jiang",
+   "Mingyang Liu",
+   "Yang Wang"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Feiyi Liu",
+  "pdf_url": "http://arxiv.org/pdf/2605.02478",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-04",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Stochastic first-passage modeling of single-event burnout in SiC power MOSFETs",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.02644": {
+  "abstract": "We study how confinement affects topology and conformations in polymer films of varying thickness $h$. The knotting probability exhibits a maximum at intermediate thicknesses near the bulk radius of gyration $h \\approx R_\\mathrm{g,bulk}$, vanishes at small $h$ and approaches bulk values for large $h$. Close to walls, the entanglement length increases monotonically and conformations become flatter. A layer-resolved analysis of structural and topological properties allows us to reconstruct the explicit thickness dependencies by integrating layer-resolved properties of a thick film.",
+  "authors": [
+   "Maurice P. Schmitt",
+   "Hendrik Meyer",
+   "Peter Virnau"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.chem-ph",
+   "physics.comp-ph",
+   "physics.data-an"
+  ],
+  "comment": null,
+  "first_author": "Maurice P. Schmitt",
+  "pdf_url": "http://arxiv.org/pdf/2605.02644",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-04",
+  "tags": [],
+  "title": "Polymer Knots in Thin Films: Thickness Dependence, Local Effects, and Stiffness",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.02679": {
+  "abstract": "Ultrastable glasses, amorphous solids with exceptionally low-energy states and enhanced kinetic, thermodynamic and mechanical stability, have long been a subject of intense experimental interest. Over the past decade, their computational realization has emerged as a major goal in condensed matter physics, as numerical methods can exploit unphysical moves to access deeply supercooled and nonequilibrium glassy states far beyond the reach of conventional cooling protocols, thereby providing key insights into the nature of the glass transition and amorphous states and enabling the design of mechanically robust glassy materials. In this review, we outline the key steps underlying the most effective algorithms developed across the field. For each approach, we discuss its efficiency, limitations, and physical interpretation. We finally present a comparative analysis of the stability achieved across these methods, with the aim of equipping both newcomers and experts with an intuitive and comprehensive understanding of the field's current state and the opportunities it presents.",
+  "authors": [
+   "Fabio Leoni",
+   "Misaki Ozawa",
+   "John Russo",
+   "Taiki Yanagishima",
+   "Andrea Ninarello"
+  ],
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Fabio Leoni",
+  "pdf_url": "http://arxiv.org/pdf/2605.02679",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-05-04",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Computational Methods towards Ultrastable Glasses",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.02956": {
+  "abstract": "A fundamental problem in protobiological dynamics is to understand how chemically generated polymers can form persistent sequence distributions before the emergence of replication. We study deterministic polymer growth in which each finite sequence is followed along its genealogical structure. The system pictures an open polymerization cascade in which each polymer is produced from a unique precursor and lost by degradation and further extension. Setting fixed activated precursors, we show global well-posedness, positivity, uniqueness of a strictly positive equilibrium, and exponential convergence to an explicit steady state distribution. Under an additional uniform decay condition, this convergence becomes global exponential stability in a uniform norm.   We then couple the polymerization to a shared environmental resource with logistic growth and depletion by two activated precursors. In the resulting binary polymerization competition model, the equilibrium structure is governed by a three-dimensional core subsystem. We prove that strictly positive equilibria exist exactly above a sharp resource threshold. At the threshold the equilibrium is unique, while above it two positive branches appear. The lower branch is unstable and the upper branch is locally stable. For the complete infinite system, we exhibit positivity, global componentwise existence, a priori bounds, and under persistence and dominance assumptions, global exponential stability.   Finally, we introduce template directed replication through a replicator term. The pre-replicative equilibrium continues only under neutral fitness, and heterogeneous fitness removes it as an equilibrium of the replicated system.",
+  "authors": [
+   "J. Medina Diaz",
+   "F. Peña-Garcia",
+   "Irbin Llanqui"
+  ],
+  "categories": [
+   "q-bio.PE"
+  ],
+  "comment": "38 pages, 6 figures",
+  "first_author": "J. Medina Diaz",
+  "pdf_url": "http://arxiv.org/pdf/2605.02956",
+  "primary_category": "q-bio.PE",
+  "published": "2026-05-02",
+  "tags": [
+   "polymer-degradation",
+   "polymerization"
+  ],
+  "title": "Equilibrium and Competition in Evolutionary Dynamics",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-02"
+ },
+ "2605.03186": {
+  "abstract": "Feedstock deformation during 3D printing of continuous fiber composites is a critical challenge in path planning and a main driver in the generation of manufacturing defects. The proposed work addressed the feedstock deformation during the deposition through several experimental and numerical pathways. The experimental setups and numerical simulations are used to identify the main driving phenomena in the deformation of feedstock through residual stress relief and drying, crystallization, and thermal stresses. A hybrid physics-based and data-driven modeling effort is performed, using Kelvin-Voigt viscoelastic modeling of the composite prepregs and a stabilized neural ODE for the modeling of drying and crystallization. The identified hybrid models from DMA and DSC experiments are used in robotic 3D printing to validate the deposition of a composite prepreg in real printing settings. The results show the ability of the model to reproduce the prepreg behavior far above the temperature used in the training, showcasing its robustness and generalization capability.",
+  "authors": [
+   "Chady Ghnatios",
+   "Kazem Fayazbakhsh"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Chady Ghnatios",
+  "pdf_url": "http://arxiv.org/pdf/2605.03186",
+  "primary_category": "cs.CE",
+  "published": "2026-05-04",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-04"
+ },
+ "2605.03328": {
+  "abstract": "Additive manufacturing (AM) continues to transform modern manufacturing by enabling flexible, on-demand production of complex geometries across diverse industries. Fused filament fabrication (FFF) has extended AM to laboratories, classrooms, and small production environments, but this accessibility shifts process-planning responsibility to users who may lack manufacturing expertise. A syntactically valid slicer profile can still encode thermally or geometrically harmful settings, and subtle G-code edits can alter extrusion, cooling, or adhesion before a print begins. Pre-print G-code screening catches accidental or adversarial machine-program errors before material or machine time is wasted. This paper proposes LLM-ADAM as a generalizable LLM framework for pre-print anomaly detection in AM. The framework decomposes the task into three roles: Extractor-LLM maps a G-code file to a structured process-parameter schema; Reference-LLM converts printer and material documentation into aligned operating ranges; and Judge-LLM interprets a deterministic deviation table and G-code evidence to decide whether a part is non-defective or belongs to an anomaly class. Printers, materials, and LLM backbones are interchangeable test conditions, not fixed assumptions. We evaluate the framework on an N=200 FFF G-code corpus spanning two desktop printer families, two materials, and five classes including non-defective, under-extrusion, over-extrusion, warping, and stringing. The best framework configuration reaches 87.5% accuracy, compared with 59.5% for the strongest engineered single-LLM baseline. The results show that structured decomposition, rather than backbone strength alone, is the dominant source of improvement, with defect classes identified at or near ceiling for leading configurations while residual errors concentrate on conservative false alarms for non-defective samples.",
+  "authors": [
+   "Ahmadreza Eslaminia",
+   "Chuhan Cai",
+   "Cameron Smith",
+   "Ruo-Syuan Mei",
+   "Shichen Li",
+   "Rajiv Malhotra",
+   "Klara Nahrstedt",
+   "Chenhui Shao"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "24 pages, 10 figures",
+  "first_author": "Ahmadreza Eslaminia",
+  "pdf_url": "http://arxiv.org/pdf/2605.03328",
+  "primary_category": "cs.LG",
+  "published": "2026-05-05",
+  "tags": [
+   "additive-manufacturing",
+   "extrusion"
+  ],
+  "title": "LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.03404": {
+  "abstract": "We study an inertial chiral active fluid, formed by repulsive particles that transfer angular momentum through odd interactions, i.e. transverse forces. Chirality induces an inhomogeneous phase, consisting of rotating bubbles, whose formation is favored at an optimal packing fraction. In this regime, we discover that bubbles may be dynamically unstable, breaking up and reforming in the steady state, thereby showing a spontaneous sparkling-like behavior reminiscent of supersaturated liquids. Bubbles and sparkling bubbles are predicted by a coarse-grained hydrodynamic theory, revealing the intrinsic non-linearity of these collective phenomena, and call for experimental verifications in granular spinners or spinning colloids.",
+  "authors": [
+   "Alessandro Petrini",
+   "Raphaël Maire",
+   "Umberto Marini Bettolo Marconi",
+   "Lorenzo Caprini"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Alessandro Petrini",
+  "pdf_url": "http://arxiv.org/pdf/2605.03404",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-05",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Sparkling bubbles in chiral active fluids",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.03728": {
+  "abstract": "In this research study, a numerical tool, which is based on a version of Slender Body theory, has been used and also modified to simulate the mechanical behaviour of single- and double-cross-linked biopolymer networks (hydrogel) under oscillatory shear flow. The hydrodynamic interactions among fibres of intertwined networks were considered. Then, the stress and Fourier coefficients (i.e. shear moduli) were evaluated for both linear and nonlinear regimes. It was found that the double peaks (two-step yielding) of two double network at 100% maximum strain amplitude (nonlinear regime) cannot happen due to changes in fibre alignments and seed numbers, although the crosslinkers between two subnetworks present, which was previously reported in the literature. In fact, we also observed two peaks for single network in nonlinear regime. Furthermore, it was shown that the stress-strain curve of double network is not predicted by just superimposing the results from the corresponding single networks at 5% maximum strain amplitude (linear regime), but this prediction can be provided at 100% maximum strain amplitude (nonlinear regime). The Fourier coefficients and corresponding amplitude (an indication of nonlinearity effects) for double network were quite considerable from zero to fifth modes in nonlinear regime, despite enough zero and first modes in linear regime. It was also shown that the nonlinearity effects can be related to the morphology of the initial structure, i.e. the seed number rather than the flow condition for the single network. These results can help scientists to better design enhance fibrous materials used in wound healing or tissue engineering.",
+  "authors": [
+   "Nasrollah Hajaliakbari",
+   "David Head",
+   "Oliver Harlen"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "14 pages",
+  "first_author": "Nasrollah Hajaliakbari",
+  "pdf_url": "http://arxiv.org/pdf/2605.03728",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-05",
+  "tags": [
+   "hydrogels",
+   "polymer-morphology"
+  ],
+  "title": "Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.03896": {
+  "abstract": "On a finite weighted graph, the dimer model is a probability measure on its dimer covers, that assigns to any cover a probability proportional to the product of the weights of its edges. For planar bipartite graphs, dimer correlations are encoded by the inverse of the so-called Kasteleyn matrix; for a large graph, typically taken as a finite domain in a periodic graph, this inverse matrix is known explicitly only for a handful of examples. In all previously known examples, the Newton polygon -- a convex lattice polygon that classifies periodic graphs up to local moves -- is either a triangle or a quadrilateral.   Our main results are the following.   For any (minimal) periodic planar bipartite graph, we construct an $(n-3)$-dimensional family of finite subgraphs for which we obtain an explicit inverse Kasteleyn matrix; here $n$ is the number of sides of the Newton polygon. Their boundaries are formed by zig-zag paths and their overall shape is reminiscent of an astroid; we call them astroidal zig-zag graphs (AZ graphs). If the Newton polygon is the unit square then the corresponding AZ graph is the celebrated Aztec diamond with its size as the parameter.   Our inverse Kasteleyn matrices are given by a double contour integral on the corresponding spectral curve for any Fock weighting of the graph. This includes, in particular, all periodic weightings.   For periodic weightings, we asymptotically analyze the resulting inverse Kasteleyn matrices. We establish a phase separation in large AZ graphs into asymptotically frozen, rough (liquid), and smooth (gaseous) regions, and obtain an explicit parametrization of the `arctic curve'.   We also compute the deterministic limit of the height function, known as the limit shape, and prove the convergence of the local dimer correlations to the translation-invariant Gibbs measure of the slope predicted by the limit shape.",
+  "authors": [
+   "Tomas Berggren",
+   "Alexei Borodin",
+   "Terrence George"
+  ],
+  "categories": [
+   "math.PR",
+   "math-ph",
+   "math.AG",
+   "math.CO",
+   "nlin.SI"
+  ],
+  "comment": "99 pages, 32 figures",
+  "first_author": "Tomas Berggren",
+  "pdf_url": "http://arxiv.org/pdf/2605.03896",
+  "primary_category": "math.PR",
+  "published": "2026-05-05",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Dimer models on astroidal zig-zag graphs",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.03982": {
+  "abstract": "Metallic amorphous ferrimagnets of 3d transition metals (TM) and rare earths (RE) with 4f electrons exhibit rich magneto transport behavior due to the interplay between the 3d and 4f magnetic sublattices and their interaction with mobile charges. Tuning the TM and RE concentrations in the alloy can effectively modulate the compensation temperature, where the moments of the two sublattices point in opposite direction leading to a net zero magnetization. Despite extensive magnetotransport studies in Gd and Tb based 3d 4f systems, Ho based alloys remain comparatively underexplored, even though Ho possesses the largest orbital angular momentum (OAM) among the lanthanides. This unquenched OAM can strongly impact magnetic anisotropy and magnetotransport in ferrimagnetic heterostructures. Here, we have investigated the anomalous Hall resistivity , dc magnetization, and spin Hall magnetoresistance (SHMR) of Co78Ho22.Al film and a Pt.Co78Ho22.Al heterostructure deposited using multitarget magnetron sputtering. The Hall resistivity of both systems shows a distinct sign reversal and prominent wing-shaped hysteresis loops in the vicinity of the compensation temperature (Tcomp), which is accompanied by the minimum saturation magnetization near Tcomp. Furthermore, the SHMR in Pt.Co78Ho22.Al film is enhanced due to the Pt layer. These HM interface-induced prominent features of magneto-transport are addressed in the light of the existing theories of spin flop transitions, spin orbit torque, and microscopic phase separation, which may lead to the formation of 3d and 4f magnetic clusters in the film.",
+  "authors": [
+   "Rajeev Nepal",
+   "Jose Flores",
+   "Aurain Seaton",
+   "Michael Newburger",
+   "John Derek Demaree",
+   "Ramesh C Budhani"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rajeev Nepal",
+  "pdf_url": "http://arxiv.org/pdf/2605.03982",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-05",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Magneto Transport and Spin Reorientation in Pt Co78Ho22 Heterostructures Near the Sublattice Compensation Temperature",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-05"
  }
 }

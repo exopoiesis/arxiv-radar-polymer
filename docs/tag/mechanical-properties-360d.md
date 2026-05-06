@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Chady Ghnatios et al.</td>
+<td><a href="http://arxiv.org/abs/2605.03186">2605.03186</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01183.html">Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions</a></div></td>
 <td>M. Affouf</td>
@@ -2756,11 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sarah K. Yorke et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06511.html">Dipole Propagation in Inhomogeneous Strongly Coupled Dusty Plasmas: A Viscoelastic Fluid Approach</a></div></td>
-<td>Vipul B. Rohit et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06511">2505.06511</a></td>
 </tr>
 </tbody></table>

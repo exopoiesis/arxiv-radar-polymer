@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01261.html">Loop expansion in polymer field theory: application to phase separation</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Kiyoharu Kawana et al.</td>
+<td><a href="http://arxiv.org/abs/2605.01261">2605.01261</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01593.html">First-principles simulation of shocked H-He mixture along the principal Hugoniot</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
