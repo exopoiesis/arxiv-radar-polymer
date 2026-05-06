@@ -4324,7 +4324,9 @@
   "pdf_url": "http://arxiv.org/pdf/2512.21629",
   "primary_category": "cond-mat.soft",
   "published": "2025-12-25",
-  "tags": [],
+  "tags": [
+   "conducting-polymers"
+  ],
   "title": "The Origin of Organic Magnetoresistance Using Time-Domain Magnetic Spectroscopy",
   "topics": [
    "Informatics & Data Infrastructure"

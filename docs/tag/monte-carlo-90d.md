@@ -89,7 +89,7 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="hydrogels-90d.html">hydrogels</a> · <a href="oect-90d.html">oect</a></div></td>
 <td>Hongbin Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10798">2604.10798</a></td>
 </tr>

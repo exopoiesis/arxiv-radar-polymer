@@ -155,7 +155,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Jingchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
@@ -203,7 +203,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22021.html">Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="extrusion-360d.html">extrusion</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22021.html">Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="oect-360d.html">oect</a></div></td>
 <td>Alan Eduardo Avila Ramirez et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22021">2507.22021</a></td>
 </tr>

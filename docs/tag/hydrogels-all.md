@@ -71,7 +71,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="oect-all.html">oect</a></div></td>
 <td>Hongbin Ni et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10798">2604.10798</a></td>
 </tr>

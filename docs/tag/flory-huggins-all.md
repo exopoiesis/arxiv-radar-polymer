@@ -107,13 +107,13 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09128.html">Nonequilibrium Thermodynamics of Non-Ideal Reaction-Diffusion Systems: Implications for Active Self-Organization</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09128.html">Nonequilibrium Thermodynamics of Non-Ideal Reaction-Diffusion Systems: Implications for Active Self-Organization</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Francesco Avanzini et al.</td>
 <td><a href="http://arxiv.org/abs/2407.09128">2407.09128</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17292.html">Cellular Griffiths-like phase</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17292.html">Cellular Griffiths-like phase</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Lucas Squillante et al.</td>
 <td><a href="http://arxiv.org/abs/2409.17292">2409.17292</a></td>
 </tr>

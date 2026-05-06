@@ -89,7 +89,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29310.html">Light-Sculpted Azopolymer Colloids: From Patchy Spheres to Porcupine and Pineapple Morphologies</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29310.html">Light-Sculpted Azopolymer Colloids: From Patchy Spheres to Porcupine and Pineapple Morphologies</a></div><div class="paper-tags"><a href="azobenzene-polymers-all.html">azobenzene-polymers</a></div></td>
 <td>Sh. Golghasemi Sorkhabi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29310">2603.29310</a></td>
 </tr>

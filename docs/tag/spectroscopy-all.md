@@ -245,7 +245,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07921.html">Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07921.html">Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="oect-all.html">oect</a> · <a href="pedot-pss-all.html">pedot-pss</a></div></td>
 <td>Lukas M. Bongartz et al.</td>
 <td><a href="http://arxiv.org/abs/2412.07921">2412.07921</a></td>
 </tr>
@@ -431,7 +431,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01683.html">Hydrogen bond-driven interactions between chitosan and biobased surfactants: A study of bulk behavior and surface adsorption</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01683.html">Hydrogen bond-driven interactions between chitosan and biobased surfactants: A study of bulk behavior and surface adsorption</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Ana Puente-Santamaria et al.</td>
 <td><a href="http://arxiv.org/abs/2503.01683">2503.01683</a></td>
 </tr>

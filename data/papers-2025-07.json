@@ -71,6 +71,7 @@
   "primary_category": "physics.bio-ph",
   "published": "2024-07-27",
   "tags": [
+   "coacervates",
    "mechanical-properties",
    "molecular-dynamics",
    "phase-separation"
@@ -2863,6 +2864,7 @@
   "primary_category": "cond-mat.soft",
   "published": "2025-07-22",
   "tags": [
+   "coacervates",
    "phase-separation"
   ],
   "title": "Cooperation and competition of basepairing and electrostatic interactions in mixtures of DNA nanostars and polylysine",
@@ -3430,6 +3432,7 @@
   "tags": [
    "additive-manufacturing",
    "extrusion",
+   "oect",
    "polymer-degradation"
   ],
   "title": "Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation",

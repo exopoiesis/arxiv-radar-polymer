@@ -653,7 +653,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="phase-separation-all.html">phase-separation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Zongpei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01328">2508.01328</a></td>
 </tr>
@@ -695,7 +695,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Nicola Galvanetto et al.</td>
 <td><a href="http://arxiv.org/abs/2407.19202">2407.19202</a></td>
 </tr>

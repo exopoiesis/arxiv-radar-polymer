@@ -192,7 +192,19 @@ polymer-morphology:
 
 phase-separation:
   group: morphology
-  synonyms: [phase separation]
+  synonyms:
+    - phase separation
+    - liquid-liquid phase separation
+    - liquid liquid phase separation
+    - llps
+
+coacervates:
+  group: morphology
+  synonyms:
+    - coacervate
+    - coacervates
+    - complex coacervation
+    - coacervation
 
 block-copolymer:
   group: morphology
@@ -359,6 +371,20 @@ polymer-electrolytes:
     - solid polymer electrolyte
     - gel polymer electrolyte
 
+ion-conducting-membranes:
+  group: applications
+  synonyms:
+    - ion-conducting membrane
+    - ion-conducting membranes
+    - ion conducting membrane
+    - ion conducting membranes
+    - ion-conducting polymer membrane
+    - ion conducting polymer membrane
+    - ion exchange membrane
+    - ion-exchange membrane
+    - proton conducting membrane
+    - proton-conducting membrane
+
 organic-photovoltaics:
   group: applications
   synonyms:
@@ -380,6 +406,57 @@ membranes:
     - polymer membrane
     - polymer membranes
     - membranes
+
+conducting-polymers:
+  group: applications
+  synonyms:
+    - conducting polymer
+    - conducting polymers
+    - conductive polymer
+    - conductive polymers
+    - intrinsically conducting polymer
+    - intrinsically conductive polymer
+
+pedot-pss:
+  group: applications
+  synonyms:
+    - pedot:pss
+    - pedot pss
+    - pedot-pss
+    - poly(3,4-ethylenedioxythiophene):poly(styrenesulfonate)
+    - poly(3,4-ethylenedioxythiophene) polystyrene sulfonate
+
+oect:
+  group: applications
+  synonyms:
+    - oect
+    - oects
+    - organic electrochemical transistor
+    - organic electrochemical transistors
+
+azobenzene-polymers:
+  group: applications
+  synonyms:
+    - azobenzene polymer
+    - azobenzene polymers
+    - azo polymer
+    - azo polymers
+    - azopolymer
+    - azopolymers
+
+photoresponsive-polymers:
+  group: applications
+  synonyms:
+    - photoresponsive polymer
+    - photoresponsive polymers
+    - photo-responsive polymer
+    - photo-responsive polymers
+    - photoswitchable polymer
+    - photoswitchable polymers
+    - light-responsive polymer
+    - light responsive polymer
+    - photoresponsive polymer network
+    - photoresponsive polymer networks
 
 polymer-informatics:
   group: informatics

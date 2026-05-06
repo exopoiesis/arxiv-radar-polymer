@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">458 papers</span>
+  <span class="paper-count">457 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1637,7 +1637,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Jingchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
@@ -2249,7 +2249,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Nicola Galvanetto et al.</td>
 <td><a href="http://arxiv.org/abs/2407.19202">2407.19202</a></td>
 </tr>

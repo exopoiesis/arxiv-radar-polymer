@@ -95,7 +95,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22021.html">Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22021.html">Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="oect-360d.html">oect</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Alan Eduardo Avila Ramirez et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22021">2507.22021</a></td>
 </tr>

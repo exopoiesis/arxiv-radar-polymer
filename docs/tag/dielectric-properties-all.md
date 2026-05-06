@@ -83,7 +83,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
 <td>Md. Shariful Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07544">2506.07544</a></td>
 </tr>

@@ -125,6 +125,31 @@ keywords:
           - "Organic Photovoltaics"
           - "Hydrogels"
           - "Membrane Separation"
+          - "Ion-Conducting Membranes"
+          - "Conducting Polymers"
+          - "PEDOT:PSS"
+          - "OECT"
+          - "Photoresponsive Polymers"
+          - "Azobenzene Polymers"
+          - "Coacervates"
+          - "Liquid-Liquid Phase Separation"
+
+    "Conducting, Responsive & Compartment Polymers":
+        filters:
+          - "PEDOT:PSS"
+          - "OECT"
+          - "Organic Electrochemical Transistors"
+          - "Conducting Polymers"
+          - "Ion-Conducting Membranes"
+          - "Ion Conducting Polymer Membranes"
+          - "Azobenzene Polymers"
+          - "Photoresponsive Polymers"
+          - "Photoresponsive Polymer Networks"
+          - "Coacervates"
+          - "Complex Coacervation"
+          - "Liquid-Liquid Phase Separation"
+          - "LLPS"
+          - 'RAW:("PEDOT:PSS" OR PEDOT OR OECT OR "organic electrochemical transistor" OR "conducting polymer" OR "conductive polymer" OR "ion-conducting membrane" OR "ion conducting membrane" OR "azobenzene polymer" OR "photoresponsive polymer" OR "coacervate" OR "complex coacervation" OR "liquid-liquid phase separation" OR LLPS) AND (polymer OR polymers OR macromolecular OR hydrogel OR membrane OR membranes OR electrolyte OR soft-matter OR "soft matter")'
 
     "Informatics & Data Infrastructure":
         filters:

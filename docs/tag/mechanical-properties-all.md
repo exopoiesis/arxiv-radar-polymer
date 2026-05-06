@@ -1637,7 +1637,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="crystallinity-all.html">crystallinity</a> · <a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="crystallinity-all.html">crystallinity</a> · <a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Jingchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
@@ -2249,7 +2249,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Nicola Galvanetto et al.</td>
 <td><a href="http://arxiv.org/abs/2407.19202">2407.19202</a></td>
 </tr>

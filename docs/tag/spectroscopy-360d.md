@@ -245,7 +245,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07921.html">Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07921.html">Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="oect-360d.html">oect</a> · <a href="pedot-pss-360d.html">pedot-pss</a></div></td>
 <td>Lukas M. Bongartz et al.</td>
 <td><a href="http://arxiv.org/abs/2412.07921">2412.07921</a></td>
 </tr>

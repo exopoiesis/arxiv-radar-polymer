@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">180 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,40 +16,16 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03728.html">Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Nasrollah Hajaliakbari et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03728">2605.03728</a></td>
-</tr>
-<tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Jingsen Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01774">2605.01774</a></td>
 </tr>
 <tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01377.html">Optimal control problem for a nonlinear nonlocal evolution system describing an interacting ternary mixture with an evaporating component: 2D case with bulk evaporation</a></div><div class="paper-tags"><a href="organic-photovoltaics-360d.html">organic-photovoltaics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Arghya Kundu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01377">2605.01377</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01470.html">Colloidal layer deposition with a controllable number of layers and compositional order</a></div></td>
-<td>Akshaya Kumar Jena et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01470">2605.01470</a></td>
-</tr>
-<tr class="paper">
 <td>2026-05-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div></td>
 <td>Kyra H. M. Klos et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00732">2605.00732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01087.html">Non-Equilibrium Thermodynamic Extremal Principles During Filament Formation in ECM Memristors</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Justin Brutger et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01087">2605.01087</a></td>
 </tr>
 <tr class="paper">
 <td>2026-04-30</td>
@@ -695,7 +671,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Jingchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
@@ -935,7 +911,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Zongpei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01328">2508.01328</a></td>
 </tr>

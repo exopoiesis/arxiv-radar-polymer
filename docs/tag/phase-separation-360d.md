@@ -1559,7 +1559,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Zongpei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01328">2508.01328</a></td>
 </tr>
@@ -1613,7 +1613,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16179.html">Cooperation and competition of basepairing and electrostatic interactions in mixtures of DNA nanostars and polylysine</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16179.html">Cooperation and competition of basepairing and electrostatic interactions in mixtures of DNA nanostars and polylysine</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a></div></td>
 <td>Gabrielle R. Abraham et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16179">2507.16179</a></td>
 </tr>
@@ -1625,7 +1625,7 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19202.html">Material properties of biomolecular condensates emerge from nanoscale dynamics</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Nicola Galvanetto et al.</td>
 <td><a href="http://arxiv.org/abs/2407.19202">2407.19202</a></td>
 </tr>

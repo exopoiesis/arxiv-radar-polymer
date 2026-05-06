@@ -695,7 +695,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="crystallinity-all.html">crystallinity</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="crystallinity-all.html">crystallinity</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
 <td>Jingchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
@@ -935,7 +935,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Zongpei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01328">2508.01328</a></td>
 </tr>
@@ -1289,7 +1289,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01683.html">Hydrogen bond-driven interactions between chitosan and biobased surfactants: A study of bulk behavior and surface adsorption</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01683.html">Hydrogen bond-driven interactions between chitosan and biobased surfactants: A study of bulk behavior and surface adsorption</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Ana Puente-Santamaria et al.</td>
 <td><a href="http://arxiv.org/abs/2503.01683">2503.01683</a></td>
 </tr>
@@ -1379,7 +1379,7 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2024-12-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15753.html">Network-forming phase separation of oppositely charged polyelectrolytes forming coacervates in a solvent</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15753.html">Network-forming phase separation of oppositely charged polyelectrolytes forming coacervates in a solvent</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Jiaxing Yuan et al.</td>
 <td><a href="http://arxiv.org/abs/2412.15753">2412.15753</a></td>
 </tr>
