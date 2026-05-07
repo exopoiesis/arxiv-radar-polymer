@@ -4,11 +4,11 @@
   total: 753
   group: properties
 - name: phase-separation
-  count: 35
+  count: 34
   total: 528
   group: morphology
 - name: additive-manufacturing
-  count: 23
+  count: 22
   total: 348
   group: processing
 - name: coarse-grained
@@ -43,10 +43,6 @@
   count: 12
   total: 164
   group: applications
-- name: glass-transition
-  count: 7
-  total: 138
-  group: properties
 - name: soft-matter
   count: 7
   total: 73
@@ -55,6 +51,10 @@
   count: 7
   total: 102
   group: characterization
+- name: glass-transition
+  count: 6
+  total: 138
+  group: properties
 - name: thermal-conductivity
   count: 6
   total: 82
@@ -63,18 +63,10 @@
   count: 5
   total: 78
   group: applications
-- name: polymer-degradation
-  count: 4
-  total: 51
-  group: sustainability
 - name: generative-model
   count: 3
   total: 48
   group: design
-- name: gnn
-  count: 3
-  total: 27
-  group: representation
 - name: nanocomposites
   count: 3
   total: 79
@@ -83,10 +75,18 @@
   count: 3
   total: 10
   group: applications
+- name: polymer-degradation
+  count: 3
+  total: 51
+  group: sustainability
 - name: block-copolymer
   count: 2
   total: 7
   group: morphology
+- name: conducting-polymers
+  count: 2
+  total: 26
+  group: applications
 - name: dielectric-properties
   count: 2
   total: 18
@@ -95,6 +95,10 @@
   count: 2
   total: 34
   group: processing
+- name: gnn
+  count: 2
+  total: 27
+  group: representation
 - name: inverse-design
   count: 2
   total: 36
@@ -115,10 +119,6 @@
   count: 1
   total: 20
   group: synthesis
-- name: conducting-polymers
-  count: 1
-  total: 25
-  group: applications
 - name: crystallinity
   count: 1
   total: 25

@@ -1,8 +1,8 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.07
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3244 papers across 25 months.
+**Total corpus:** 3245 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -73,7 +73,7 @@
 |**2024-05-25**|**Selfie Taking with Facial Expression Recognition Using Omni-directional Camera**|Kazutaka Kiuchi et al.|[2405.15996](http://arxiv.org/abs/2405.15996)|[md](abstracts/2405.15996.md)|
 |**2024-05-01**|**Optimized Drug Design using Multi-Objective Evolutionary Algorithms with SELFIES**|Tomoya Hömberg et al.|[2405.00401](http://arxiv.org/abs/2405.00401)|[md](abstracts/2405.00401.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Property Prediction & QSPR
 
@@ -130,7 +130,7 @@
 |**2026-04-09**|**Viscoelastic Droplet Impact on Surfaces with Sharp Wettability Contrast: Coupled Influence of Relaxation Time and Surface Tension**|Mahmood Mousavi et al.|[2604.07854](http://arxiv.org/abs/2604.07854)|[md](abstracts/2604.07854.md)|
 |**2026-04-09**|**Tuning Cross-stream Lift in Viscoelastic Shear: Distinct Hydrodynamic Signatures of Force-bearing and Force-free Mechanisms**|Soumyodeep Chowdhury et al.|[2604.07906](http://arxiv.org/abs/2604.07906)|[md](abstracts/2604.07906.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Generative Design & Inverse Design
 
@@ -187,7 +187,7 @@
 |**2025-03-26**|**Efficient second-harmonic emission via strong modal overlap in single-resonant lithium niobate nanocavity**|Zhi Jiang et al.|[2503.20600](http://arxiv.org/abs/2503.20600)|[md](abstracts/2503.20600.md)|
 |**2025-03-17**|**Reliable Uncertainty Quantification for Fiber Orientation in Composite Molding Processes using Multilevel Polynomial Surrogates**|Stjepan Salatovic et al.|[2412.08459](http://arxiv.org/abs/2412.08459)|[md](abstracts/2412.08459.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Molecular Dynamics & Multiscale Modeling
 
@@ -244,7 +244,7 @@
 |**2026-04-14**|**A Constraint-Modulated Rate Law Outperforming VFT and Its Modern Alternatives Across Canonical Glass-Forming Liquids**|Debra S. Gavant et al.|[2511.16791](http://arxiv.org/abs/2511.16791)|[md](abstracts/2511.16791.md)|
 |**2026-04-14**|**Colloidal Suspensions can have Non-Zero Angles of Repose below the Minimal Value for Athermal Frictionless Particles**|Jesús Fernández et al.|[2601.02291](http://arxiv.org/abs/2601.02291)|[md](abstracts/2601.02291.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Microstructure, Morphology & Characterization
 
@@ -301,7 +301,7 @@
 |**2026-03-26**|**Low regularity potentials in heterogeneous Cahn--Hilliard functionals**|Riccardo Cristoferi et al.|[2603.25369](http://arxiv.org/abs/2603.25369)|[md](abstracts/2603.25369.md)|
 |**2026-03-26**|**Entropic phase separation in polymer--vitrimer melts**|A. A. Rispo Constantinou et al.|[2603.25532](http://arxiv.org/abs/2603.25532)|[md](abstracts/2603.25532.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Synthesis, Kinetics & Automation
 
@@ -327,7 +327,7 @@
 |**2024-07-17**|**Accelerating the inference of string generation-based chemical reaction models for industrial applications**|Mikhail Andronov et al.|[2407.09685](http://arxiv.org/abs/2407.09685)|[md](abstracts/2407.09685.md)|
 |**2024-07-11**|**AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline**|Samuel P. Gleason et al.|[2407.08769](http://arxiv.org/abs/2407.08769)|[md](abstracts/2407.08769.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Processing, Manufacturing & Composites
 
@@ -384,14 +384,16 @@
 |**2026-03-13**|**Dynamic analysis of refractive index evolution and diffraction properties during single-photon polymerization of photopolymers for micro-optical applications**|Andreas Heinrich et al.|[2603.12889](http://arxiv.org/abs/2603.12889)|[md](abstracts/2603.12889.md)|
 |**2026-03-11**|**Intrinsic Resistive Switching in Microtubule-Templated Gold Nanowires for Reconfigurable Nanoelectronics**|Borja Rodriguez-Barea et al.|[2509.14131](http://arxiv.org/abs/2509.14131)|[md](abstracts/2509.14131.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Sustainability & Functional Applications
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-06**|**On Electropolymerized Fingerprints and their Potential for Identification and Encryption**|Antoine Baron et al.|[2605.04599](http://arxiv.org/abs/2605.04599)|[md](abstracts/2605.04599.md)|
 |**2026-05-05**|**Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow**|Nasrollah Hajaliakbari et al.|[2605.03728](http://arxiv.org/abs/2605.03728)|[md](abstracts/2605.03728.md)|
 |**2026-05-03**|**Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs**|Debanik Bhattacharjee et al.|[2605.01820](http://arxiv.org/abs/2605.01820)|[md](abstracts/2605.01820.md)|
+|**2026-05-02**|**Loop expansion in polymer field theory: application to phase separation**|Kiyoharu Kawana et al.|[2605.01261](http://arxiv.org/abs/2605.01261)|[md](abstracts/2605.01261.md)|
 |**2026-04-30**|**Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures**|Ilya Olevsko et al.|[2604.27726](http://arxiv.org/abs/2604.27726)|[md](abstracts/2604.27726.md)|
 |**2026-04-29**|**Linear poroelastic response of thin permeable gel films**|Caroline Kopecz-Muller et al.|[2604.26464](http://arxiv.org/abs/2604.26464)|[md](abstracts/2604.26464.md)|
 |**2026-04-29**|**Confinement-Connectivity Coupling Enables High-Efficiency Piezoionic Transduction**|Tofayel Ahammad Ovee et al.|[2604.27240](http://arxiv.org/abs/2604.27240)|[md](abstracts/2604.27240.md)|
@@ -438,15 +440,14 @@
 |**2026-02-13**|**Eco-Friendly Supercapacitor Architecture Based on Cotton Textile Waste and Biopolymer-Based Electrodes**|Luis Torres Quispe et al.|[2602.13432](http://arxiv.org/abs/2602.13432)|[md](abstracts/2602.13432.md)|
 |**2026-02-09**|**Boosting high-current alkaline water electrolysis and carbon dioxide reduction with novel CuNiFe-based anodes**|Nusrat Rashid et al.|[2602.08183](http://arxiv.org/abs/2602.08183)|[md](abstracts/2602.08183.md)|
 |**2026-02-09**|**Constitutive flow law for hydrogel granular rafts near the brittle-ductile transition**|Yuto Sasaki et al.|[2602.08217](http://arxiv.org/abs/2602.08217)|[md](abstracts/2602.08217.md)|
-|**2026-02-08**|**Brillouin Spectroscopy Reveals Mechanical Properties Beyond Hydration**|Zhe Wang et al.|[2602.08150](http://arxiv.org/abs/2602.08150)|[md](abstracts/2602.08150.md)|
-|**2026-01-29**|**Time-Resolved Multi-Spectral X-ray Computed Tomography of Cryoprotectant Diffusion Into Biomimetic Material**|Alaa M. Ali et al.|[2602.07003](http://arxiv.org/abs/2602.07003)|[md](abstracts/2602.07003.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Conducting, Responsive & Compartment Polymers
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-06**|**On Electropolymerized Fingerprints and their Potential for Identification and Encryption**|Antoine Baron et al.|[2605.04599](http://arxiv.org/abs/2605.04599)|[md](abstracts/2605.04599.md)|
 |**2026-05-02**|**Loop expansion in polymer field theory: application to phase separation**|Kiyoharu Kawana et al.|[2605.01261](http://arxiv.org/abs/2605.01261)|[md](abstracts/2605.01261.md)|
 |**2026-04-28**|**Universal material basis for biocompatible printed electrolytes in Organic Electrochemical Transistors**|Moritz Flemming et al.|[2604.25830](http://arxiv.org/abs/2604.25830)|[md](abstracts/2604.25830.md)|
 |**2026-04-27**|**An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly**|Tenglong Luo et al.|[2604.23945](http://arxiv.org/abs/2604.23945)|[md](abstracts/2604.23945.md)|
@@ -496,9 +497,8 @@
 |**2025-08-07**|**A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders**|Minas Kouroublakis et al.|[2508.05217](http://arxiv.org/abs/2508.05217)|[md](abstracts/2508.05217.md)|
 |**2025-08-03**|**Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data**|Renato Colle et al.|[2508.01757](http://arxiv.org/abs/2508.01757)|[md](abstracts/2508.01757.md)|
 |**2025-08-02**|**Electrostatic Depletion Force in Complex Coacervates**|Zongpei Wu et al.|[2508.01328](http://arxiv.org/abs/2508.01328)|[md](abstracts/2508.01328.md)|
-|**2025-08-01**|**Organic Electrochemical Neurons: Nonlinear Tools for Complex Dynamics**|Gonzalo Rivera-Sierra et al.|[2508.00663](http://arxiv.org/abs/2508.00663)|[md](abstracts/2508.00663.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>
 
 ## Informatics & Data Infrastructure
 
@@ -555,4 +555,4 @@
 |**2026-02-05**|**Scaling Law for Sequence-Induced Demixing of Compositionally Identical Copolymers**|Artem M. Rumyantsev et al.|[2602.05153](http://arxiv.org/abs/2602.05153)|[md](abstracts/2602.05153.md)|
 |**2026-02-03**|**Light-Emitting Diodes with Micrometer-Thick Perovskite Charge Transport Layers**|Sang-Hyun Chin|[2601.19067](http://arxiv.org/abs/2601.19067)|[md](abstracts/2601.19067.md)|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260507>back to top</a>)</p>

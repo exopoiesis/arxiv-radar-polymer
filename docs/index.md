@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-06._
+_Updated 2026-05-07._
 
-**3244** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3245** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04599.html">On Electropolymerized Fingerprints and their Potential for Identification and Encryption</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04599">2605.04599</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/extrusion-30d.html">extrusion</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-05-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27722.html">Guided elastic waves for soft elastomer characterization: an alternative to conventional rheometry</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
 <td>Samuel Croquette et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27722">2604.27722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27726.html">Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Ilya Olevsko et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27726">2604.27726</a></td>
 </tr>
 </tbody></table>
