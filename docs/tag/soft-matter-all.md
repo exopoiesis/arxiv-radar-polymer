@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>soft-matter — all</h1>
-  <span class="paper-count">73 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -280,6 +280,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2507.06194">2507.06194</a></td>
 </tr>
 <tr class="paper">
+<td>2025-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16781.html">Omnidirectionally manipulated skyrmions in an orientationally chiral system</a></div></td>
+<td>Jiahao Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2506.16781">2506.16781</a></td>
+</tr>
+<tr class="paper">
 <td>2025-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08168.html">Defects Enhance Stability in 12-fold Symmetric Soft-Matter Quasicrystals</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Alptuğ Ulugöl et al.</td>
@@ -326,6 +332,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11874.html">Dynamical field theories for biaxial liquid crystals</a></div></td>
 <td>Anouar El Moumane et al.</td>
 <td><a href="http://arxiv.org/abs/2503.11874">2503.11874</a></td>
+</tr>
+<tr class="paper">
+<td>2025-03-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07436.html">Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Anoop Mutneja et al.</td>
+<td><a href="http://arxiv.org/abs/2503.07436">2503.07436</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-13</td>
@@ -452,5 +464,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07539.html">Intrinsic Langevin dynamics of rigid inclusions on curved surfaces</a></div></td>
 <td>Balázs Németh et al.</td>
 <td><a href="http://arxiv.org/abs/2405.07539">2405.07539</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10932.html">Roadmap on Data-Centric Materials Science</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Stefan Bauer et al.</td>
+<td><a href="http://arxiv.org/abs/2402.10932">2402.10932</a></td>
 </tr>
 </tbody></table>

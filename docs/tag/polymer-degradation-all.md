@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-degradation — all</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <a href="polymer-degradation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -172,6 +172,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12655.html">AI-Assisted Physics-Informed Predictions of Degradation Behavior of Polymeric Anion Exchange Membranes</a></div></td>
+<td>William Schertzer et al.</td>
+<td><a href="http://arxiv.org/abs/2510.12655">2510.12655</a></td>
+</tr>
+<tr class="paper">
 <td>2025-10-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="qspr-all.html">qspr</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Onurcan Kaya et al.</td>
@@ -320,5 +326,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01259.html">Aging modeling and lifetime prediction of a proton exchange membrane fuel cell using an extended Kalman filter</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Serigne Daouda Pene et al.</td>
 <td><a href="http://arxiv.org/abs/2406.01259">2406.01259</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09341.html">Numerical Study of Cleavable Bond-Modified Polyethylene for Circular Polymer Design</a></div></td>
+<td>Maria Ley-Flores et al.</td>
+<td><a href="http://arxiv.org/abs/2404.09341">2404.09341</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17268.html">Synthetic active liquid crystals powered by acoustic waves</a></div></td>
+<td>Andrey Sokolov et al.</td>
+<td><a href="http://arxiv.org/abs/2403.17268">2403.17268</a></td>
 </tr>
 </tbody></table>

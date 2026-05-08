@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-design — all</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <a href="inverse-design-90d.html">90d</a> <a href="inverse-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,6 +74,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06301.html">Chemistry Integrated Language Model using Hierarchical Molecular Representation for Polymer Informatics</a></div></td>
 <td>Jihun Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06301">2512.06301</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05138.html">polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer</a></div><div class="paper-tags"><a href="polymerization-all.html">polymerization</a></div></td>
+<td>Sakshi Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05138">2512.05138</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>
@@ -218,6 +224,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13843.html">Consistent machine learning for topology optimization with microstructure-dependent neural network material models</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Harikrishnan Vijayakumaran et al.</td>
 <td><a href="http://arxiv.org/abs/2408.13843">2408.13843</a></td>
+</tr>
+<tr class="paper">
+<td>2024-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08428.html">Phononic materials with effectively scale-separated hierarchical features using interpretable machine learning</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
+<td>Mary V. Bastawrous et al.</td>
+<td><a href="http://arxiv.org/abs/2408.08428">2408.08428</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-09</td>

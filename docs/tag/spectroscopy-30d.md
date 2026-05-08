@@ -47,14 +47,14 @@ current_window: 30d
 </tr>
 <tr class="paper">
 <td>2026-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06706.html">Directional Andreev-Reflection Signatures of Inter-Orbital Pairing in Sr$_2$RuO$_4$</a></div></td>
+<td>G. Csire et al.</td>
+<td><a href="http://arxiv.org/abs/2604.06706">2604.06706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07203.html">Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="catalyst-design-30d.html">catalyst-design</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
 <td>João V. T. Neves et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07203">2604.07203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05883.html">Additive-Induced Stabilization of the Energetic Landscape of PM6:Y12 Organic Solar Cells</a></div><div class="paper-tags"><a href="crystallinity-30d.html">crystallinity</a> · <a href="organic-photovoltaics-30d.html">organic-photovoltaics</a> · <a href="polymer-degradation-30d.html">polymer-degradation</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Bekcy Joseph et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05883">2604.05883</a></td>
 </tr>
 </tbody></table>

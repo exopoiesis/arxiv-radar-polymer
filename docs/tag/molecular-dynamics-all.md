@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">221 papers</span>
+  <span class="paper-count">238 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,6 +134,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27430.html">Neural operator accelerated atomistic to continuum concurrent multiscale simulations of viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Tanvir Sohail et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27430">2603.27430</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Qian Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-27</td>
@@ -424,10 +430,22 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2512.06911">2512.06911</a></td>
 </tr>
 <tr class="paper">
+<td>2025-12-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
+<td>Soumajit Dutta et al.</td>
+<td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
+</tr>
+<tr class="paper">
 <td>2025-12-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03174.html">Interfacial Thermal Conductance Between a Polyethylene Glycol Polymer Chain and Water: A Molecular Dynamics Study</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
 <td>Shadi Babaei et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03174">2512.03174</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01479.html">Non-Markovian dynamics in ice nucleation</a></div></td>
+<td>Pablo Montero de Hijes et al.</td>
+<td><a href="http://arxiv.org/abs/2512.01479">2512.01479</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-28</td>
@@ -466,6 +484,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2511.09514">2511.09514</a></td>
 </tr>
 <tr class="paper">
+<td>2025-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09566.html">Nanobubble size controls gas hydrate nucleation in supercooled water</a></div></td>
+<td>Ramkhelavan Kanaujiya et al.</td>
+<td><a href="http://arxiv.org/abs/2511.09566">2511.09566</a></td>
+</tr>
+<tr class="paper">
 <td>2025-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06561.html">Thermal conductivity of commodity polymers under high pressures</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Otavio Higino Moura de Alencar et al.</td>
@@ -476,6 +500,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04266.html">Revealing the innate sub-nanometer porous structure of carbon nanomembranes with molecular dynamics simulations and highly charged ion spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Filip Vuković et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04266">2511.04266</a></td>
+</tr>
+<tr class="paper">
+<td>2025-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05602.html">Gas Mixture Diffusion and Distribution in the Porous ZIF-90 Framework</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Ashok Yacham et al.</td>
+<td><a href="http://arxiv.org/abs/2511.05602">2511.05602</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-03</td>
@@ -640,6 +670,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2508.06419">2508.06419</a></td>
 </tr>
 <tr class="paper">
+<td>2025-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16591.html">Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water</a></div></td>
+<td>Sandeep Parma et al.</td>
+<td><a href="http://arxiv.org/abs/2508.16591">2508.16591</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18412.html">Toda lattice formed in nonequilibrium steady states of SWCNT</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Heeyuen Koh et al.</td>
@@ -692,6 +728,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10607.html">Depletion interaction between cylindrical inclusions in polymer brushes</a></div></td>
 <td>Ji Woong Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2411.10607">2411.10607</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16197.html">Stability by Design: Atomistic Insights into Hydrolysis-Driven MOF Degradation</a></div></td>
+<td>Ashok Yacham et al.</td>
+<td><a href="http://arxiv.org/abs/2507.16197">2507.16197</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-20</td>
@@ -958,6 +1000,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.19347">2406.19347</a></td>
 </tr>
 <tr class="paper">
+<td>2025-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17357.html">An Explainable AI Model for Binary LJ Fluids</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Israrul H Hashmi et al.</td>
+<td><a href="http://arxiv.org/abs/2502.17357">2502.17357</a></td>
+</tr>
+<tr class="paper">
 <td>2025-02-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15289.html">Sol-gel transition in heteroassociative RNA-protein solutions: A quantitative comparison of coarse-grained simulations and the Semenov-Rubinstein theory</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Xinxiang Chen et al.</td>
@@ -1108,6 +1156,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2411.08065">2411.08065</a></td>
 </tr>
 <tr class="paper">
+<td>2024-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06231.html">Solid-liquid interfacial free energy from computer simulations: Challenges and recent advances</a></div></td>
+<td>Nicodemo Di Pasquale et al.</td>
+<td><a href="http://arxiv.org/abs/2411.06231">2411.06231</a></td>
+</tr>
+<tr class="paper">
 <td>2024-10-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22836.html">Mesoscopic modelling of bio-compatible PLGA polymers with coarse-grained molecular dynamics simulations</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Francesco Maria Bellussi et al.</td>
@@ -1130,6 +1184,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05812.html">Anomalous behaviour of transport properties in a supercooled water-glycerol mixture</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
 <td>Alberto Zaragoza et al.</td>
 <td><a href="http://arxiv.org/abs/2407.05812">2407.05812</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12717.html">Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Salvatore Romano et al.</td>
+<td><a href="http://arxiv.org/abs/2410.12717">2410.12717</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-15</td>
@@ -1168,6 +1228,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.01754">2410.01754</a></td>
 </tr>
 <tr class="paper">
+<td>2024-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01320.html">Unsupervised identification of crystal defects from atomistic potential descriptors</a></div></td>
+<td>Lukáš Kývala et al.</td>
+<td><a href="http://arxiv.org/abs/2405.01320">2405.01320</a></td>
+</tr>
+<tr class="paper">
 <td>2024-09-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04430.html">Highly efficient path-integral molecular dynamics simulations with GPUMD using neuroevolution potentials: Case studies on thermal properties of materials</a></div></td>
 <td>Penghua Ying et al.</td>
@@ -1190,6 +1256,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15856.html">High-dose long-time defect evolution in tungsten studied by atomistically informed Object Kinetic Monte Carlo simulations</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Jintong Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15856">2409.15856</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.16667.html">Simulation of depth-dose curves and water equivalent ratios of energetic proton beams in cortical bone</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Ana María Zamora-Vinaroz et al.</td>
+<td><a href="http://arxiv.org/abs/2404.16667">2404.16667</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-17</td>
@@ -1220,6 +1292,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04748.html">Dissipative self-assembly of patchy particles under nonequilibrium drive: a computational study</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Shubhadeep Nag et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04748">2409.04748</a></td>
+</tr>
+<tr class="paper">
+<td>2024-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11538.html">Structure and dynamics of the magnetite(001)/water interface from molecular dynamics simulations based on a neural network potential</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
+<td>Salvatore Romano et al.</td>
+<td><a href="http://arxiv.org/abs/2408.11538">2408.11538</a></td>
 </tr>
 <tr class="paper">
 <td>2024-09-06</td>
@@ -1288,6 +1366,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2407.18133">2407.18133</a></td>
 </tr>
 <tr class="paper">
+<td>2024-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17031.html">Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear</a></div></td>
+<td>Tatsuma Oishi et al.</td>
+<td><a href="http://arxiv.org/abs/2407.17031">2407.17031</a></td>
+</tr>
+<tr class="paper">
 <td>2024-07-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14134.html">On the Edge Roughness of Two-Dimensional Materials</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
 <td>Pengjie Shi et al.</td>
@@ -1340,5 +1424,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="generative-model-all.html">generative-model</a></div></td>
 <td>Shaoning Li et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09676.html">Thermodynamic and Transport Properties of Binary Mixtures of Polyethylene and Higher n-Alkanes from Physics-Informed and Machine-Learned Models</a></div></td>
+<td>Maria Ley-Flores et al.</td>
+<td><a href="http://arxiv.org/abs/2404.09676">2404.09676</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08804.html">Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="membranes-all.html">membranes</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Mohammed Al Otmi et al.</td>
+<td><a href="http://arxiv.org/abs/2404.08804">2404.08804</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-31</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.17875.html">Perspective: Atomistic Simulations of Water and Aqueous Systems with Machine Learning Potentials</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Amir Omranpour et al.</td>
+<td><a href="http://arxiv.org/abs/2401.17875">2401.17875</a></td>
 </tr>
 </tbody></table>

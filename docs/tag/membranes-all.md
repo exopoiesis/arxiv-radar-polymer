@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>membranes — all</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,6 +122,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.19994.html">A Practical Computational Hemolysis Model Incorporating Biophysical Properties of the Red Blood Cell Membrane</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Nico Dirkes et al.</td>
 <td><a href="http://arxiv.org/abs/2601.19994">2601.19994</a></td>
+</tr>
+<tr class="paper">
+<td>2026-01-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18914.html">Accelerated design of proton exchange membranes for green hydrogen production with artificial intelligence</a></div></td>
+<td>Huan Tran et al.</td>
+<td><a href="http://arxiv.org/abs/2601.18914">2601.18914</a></td>
 </tr>
 <tr class="paper">
 <td>2026-01-09</td>
@@ -482,5 +488,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06190.html">Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
 <td>Malak Alaa Eddine et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06190">2406.06190</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08804.html">Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Mohammed Al Otmi et al.</td>
+<td><a href="http://arxiv.org/abs/2404.08804">2404.08804</a></td>
 </tr>
 </tbody></table>

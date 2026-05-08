@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">102 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -47,6 +47,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2026-04-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06706.html">Directional Andreev-Reflection Signatures of Inter-Orbital Pairing in Sr$_2$RuO$_4$</a></div></td>
+<td>G. Csire et al.</td>
+<td><a href="http://arxiv.org/abs/2604.06706">2604.06706</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07203.html">Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="catalyst-design-all.html">catalyst-design</a> · <a href="nanocomposites-all.html">nanocomposites</a></div></td>
 <td>João V. T. Neves et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07203">2604.07203</a></td>
@@ -68,6 +74,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="nanocomposites-all.html">nanocomposites</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
 <td>I. Agnes Felicia Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13403.html">Evidence for Neutrino Emission from X-Ray-bright Active Galactic Nuclei with IceCube</a></div></td>
+<td>R. Abbasi et al.</td>
+<td><a href="http://arxiv.org/abs/2510.13403">2510.13403</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-23</td>
@@ -92,6 +104,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16347.html">Tuning Cu/Diamond Interfacial Thermal Conductance via Nitrogen-Termination Engineering</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
 <td>Guang Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16347">2603.16347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16466.html">Diversity of Type Ia supernova optical light curves among different spectroscopic subclasses</a></div></td>
+<td>R. B. Koshi et al.</td>
+<td><a href="http://arxiv.org/abs/2603.16466">2603.16466</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-16</td>
@@ -140,6 +158,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03737.html">Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Yicheng Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03737">2603.03737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-02-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08881.html">Commissioning the Resonance Ionization Spectroscopy Experiment at FRIB</a></div></td>
+<td>A. J. Brinson et al.</td>
+<td><a href="http://arxiv.org/abs/2511.08881">2511.08881</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-17</td>
@@ -268,6 +292,18 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
 </tr>
 <tr class="paper">
+<td>2025-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04679.html">Non-resonant spin injection of exciton-polaritons with halide perovskites at room temperature</a></div></td>
+<td>Pablo Vaquer de Nieves et al.</td>
+<td><a href="http://arxiv.org/abs/2510.04679">2510.04679</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19223.html">Non-equilibrium Dynamics of Two-level Systems directly after Cryogenic Alternating Bias</a></div></td>
+<td>V. Iaia et al.</td>
+<td><a href="http://arxiv.org/abs/2509.19223">2509.19223</a></td>
+</tr>
+<tr class="paper">
 <td>2025-09-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17824.html">Micromechanical characterisation of osteoarthritic subchondral bone by micropillar compression</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Samuel McPhee et al.</td>
@@ -302,6 +338,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12241.html">CNN-BiLSTM for sustainable and non-invasive COVID-19 detection via salivary ATR-FTIR spectroscopy</a></div></td>
 <td>Anisio P. Santos Junior et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12241">2509.12241</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21358.html">Revisiting the extremely long-period cataclysmic variables V479 Andromedae and V1082 Sagitarii</a></div></td>
+<td>Gagik Tovmassian et al.</td>
+<td><a href="http://arxiv.org/abs/2508.21358">2508.21358</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-18</td>
@@ -418,6 +460,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2504.05596">2504.05596</a></td>
 </tr>
 <tr class="paper">
+<td>2025-03-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.19113.html">Studying Binary Systems in Omega Centauri with MUSE: II. Observational constraints on the orbital period distribution</a></div></td>
+<td>S. Saracino et al.</td>
+<td><a href="http://arxiv.org/abs/2503.19113">2503.19113</a></td>
+</tr>
+<tr class="paper">
 <td>2025-03-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.02640.html">Amorphous to Crystalline Transformation: How Cluster Aggregation Drives the Multistep Nucleation of ZIF-8</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Sambhu Radhakrishnan et al.</td>
@@ -440,6 +488,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19627.html">Translational diffusion in supercooled water at and near the glass transition temperature -- 136 K</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a></div></td>
 <td>Greg A. Kimmel et al.</td>
 <td><a href="http://arxiv.org/abs/2502.19627">2502.19627</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.11841.html">Exerting chemical pressure on the kagome lattice as frustration control in the kapellasite family $A$Cu$_3$(OH)$_{6+x}$(Cl,Br)$_{3-x}$</a></div></td>
+<td>Jonas Andreas Krieger et al.</td>
+<td><a href="http://arxiv.org/abs/2502.11841">2502.11841</a></td>
+</tr>
+<tr class="paper">
+<td>2025-02-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.08895.html">Anisotropic Strain Relaxation-Induced Directional Ultrafast Carrier Dynamics in RuO2 Films</a></div></td>
+<td>S. G. Jeong et al.</td>
+<td><a href="http://arxiv.org/abs/2502.08895">2502.08895</a></td>
 </tr>
 <tr class="paper">
 <td>2025-02-07</td>
@@ -506,6 +566,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12515.html">Thermal analysis of GaN-based photonic membranes for optoelectronics</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="membranes-all.html">membranes</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Wilken Seemann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.12515">2410.12515</a></td>
+</tr>
+<tr class="paper">
+<td>2024-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12717.html">Structure of the water/magnetite interface from sum frequency generation experiments and neural network based molecular dynamics simulations</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Salvatore Romano et al.</td>
+<td><a href="http://arxiv.org/abs/2410.12717">2410.12717</a></td>
 </tr>
 <tr class="paper">
 <td>2024-10-14</td>
@@ -610,6 +676,18 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.11679">2406.11679</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06684.html">Search for neutrino emission from hard X-ray AGN with IceCube</a></div></td>
+<td>R. Abbasi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.06684">2406.06684</a></td>
+</tr>
+<tr class="paper">
+<td>2024-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07601.html">IceCube Search for Neutrino Emission from X-ray Bright Seyfert Galaxies</a></div></td>
+<td>R. Abbasi et al.</td>
+<td><a href="http://arxiv.org/abs/2406.07601">2406.07601</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17831.html">Agarose Derived Carbon Based Nanocomposite for Hydrogen Storage at Near-Ambient Conditions</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="tem-all.html">tem</a></div></td>
 <td>A Flamina et al.</td>
@@ -626,5 +704,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03527.html">Dielectric Properties of Disordered A6B2O17 (A = Zr; B = Nb, Ta) Phases</a></div><div class="paper-tags"><a href="dielectric-properties-all.html">dielectric-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>R. Jackson Spurling et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03527">2405.03527</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.12098.html">SrCu(OH)$_3$Cl, an ideal isolated equilateral triangle spin $S$ = 1/2 model system</a></div></td>
+<td>Sudip Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2401.12098">2401.12098</a></td>
 </tr>
 </tbody></table>

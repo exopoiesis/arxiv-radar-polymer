@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-design — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <a href="inverse-design-90d.html">90d</a> <strong>360d</strong> <a href="inverse-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,6 +74,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06301.html">Chemistry Integrated Language Model using Hierarchical Molecular Representation for Polymer Informatics</a></div></td>
 <td>Jihun Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06301">2512.06301</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05138.html">polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer</a></div><div class="paper-tags"><a href="polymerization-360d.html">polymerization</a></div></td>
+<td>Sakshi Agarwal et al.</td>
+<td><a href="http://arxiv.org/abs/2512.05138">2512.05138</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-18</td>

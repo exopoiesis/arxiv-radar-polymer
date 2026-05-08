@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,6 +110,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00112.html">Atomic-Scale Mechanisms of Li-Ion Transport Mediated by Li10GeP2S12 in Composite Solid Polyethylene Oxide Electrolytes</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-electrolytes-90d.html">polymer-electrolytes</a></div></td>
 <td>Syed Mustafa Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2601.00112">2601.00112</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Qian Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
@@ -326,17 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10353.html">Self-pinning mechanism for grain boundary stabilization</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Omar Hussein et al.</td>
 <td><a href="http://arxiv.org/abs/2602.10353">2602.10353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18064.html">Learning Metal Microstructural Heterogeneity through Spatial Mapping of Diffraction Latent Space Features</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>Mathieu Calvat et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18064">2501.18064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05958.html">Geometry and dynamical morphology of growing bacterial colonies</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Benjamin Evert Himberg et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05958">2602.05958</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">306 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,6 +110,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00112.html">Atomic-Scale Mechanisms of Li-Ion Transport Mediated by Li10GeP2S12 in Composite Solid Polyethylene Oxide Electrolytes</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-electrolytes-all.html">polymer-electrolytes</a></div></td>
 <td>Syed Mustafa Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2601.00112">2601.00112</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Qian Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
@@ -382,6 +388,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2601.02150">2601.02150</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16810.html">Magnetic threads and gravity: ALMA Observations of IRDC G14.225-0.506</a></div></td>
+<td>Nacho Añez-López et al.</td>
+<td><a href="http://arxiv.org/abs/2601.16810">2601.16810</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15835.html">Effects of pulsed and continuous light and heavy ion irradiation on the morphology and electrical properties of Ag+C60 and Au+C60 composite thin films</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
 <td>Giovanni Ceccio et al.</td>
@@ -602,6 +614,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03129.html">Taming the Tarantula: How Stellar Wind Feedback Shapes Gas and Dust in 30 Doradus</a></div></td>
 <td>Jennifer A. Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03129">2512.03129</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08970.html">Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations</a></div></td>
+<td>Saurabh et al.</td>
+<td><a href="http://arxiv.org/abs/2512.08970">2512.08970</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-30</td>
@@ -860,6 +878,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03729.html">SR-CLD: Spatially Resolved Chord Length Distributions for Statistical Description and Visualization of Non-uniform Microstructures</a></div></td>
 <td>Sheila E. Whitman et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03729">2409.03729</a></td>
+</tr>
+<tr class="paper">
+<td>2025-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07107.html">A Framework for Supervised and Unsupervised Segmentation and Classification of Materials Microstructure Images</a></div></td>
+<td>Kungang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2502.07107">2502.07107</a></td>
 </tr>
 <tr class="paper">
 <td>2025-08-28</td>
@@ -1181,6 +1205,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-04-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03817.html">Search for joint multimessenger signals from potential galactic cosmic-ray accelerators with HAWC and IceCube</a></div></td>
+<td>R. Alfaro et al.</td>
+<td><a href="http://arxiv.org/abs/2405.03817">2405.03817</a></td>
+</tr>
+<tr class="paper">
+<td>2025-04-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13344.html">Adaptive AI decision interface for autonomous electronic material discovery</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="oect-all.html">oect</a></div></td>
 <td>Yahao Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2504.13344">2504.13344</a></td>
@@ -1330,6 +1360,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.18743">2502.18743</a></td>
 </tr>
 <tr class="paper">
+<td>2025-02-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17357.html">An Explainable AI Model for Binary LJ Fluids</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Israrul H Hashmi et al.</td>
+<td><a href="http://arxiv.org/abs/2502.17357">2502.17357</a></td>
+</tr>
+<tr class="paper">
 <td>2025-02-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04776.html">GrainPaint: A multi-scale diffusion-based generative model for microstructure reconstruction of large-scale objects</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Nathan Hoffman et al.</td>
@@ -1378,6 +1414,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.02359">2502.02359</a></td>
 </tr>
 <tr class="paper">
+<td>2025-01-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16440.html">Time-Integrated Southern-Sky Neutrino Source Searches with 10 Years of IceCube Starting-Track Events at Energies Down to 1 TeV</a></div></td>
+<td>R. Abbasi et al.</td>
+<td><a href="http://arxiv.org/abs/2501.16440">2501.16440</a></td>
+</tr>
+<tr class="paper">
 <td>2025-01-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.14307.html">Stabilizing post-yielding behavior of a stretching dominated lattice structure through microstructural optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
 <td>Mathis Duport et al.</td>
@@ -1406,6 +1448,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05919.html">Swelling and evaporation determine surface morphology of grafted hydrogel thin films</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Caroline Kopecz-Muller et al.</td>
 <td><a href="http://arxiv.org/abs/2410.05919">2410.05919</a></td>
+</tr>
+<tr class="paper">
+<td>2025-01-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.05518.html">A multi-frequency study of sub-parsec jets with the Event Horizon Telescope</a></div></td>
+<td>Jan Röder et al.</td>
+<td><a href="http://arxiv.org/abs/2501.05518">2501.05518</a></td>
 </tr>
 <tr class="paper">
 <td>2025-01-08</td>
@@ -1490,6 +1538,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12809.html">Evolution of Supernova Remnants in a Cloudy Multiphase Interstellar Medium</a></div></td>
 <td>Minghao Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2411.12809">2411.12809</a></td>
+</tr>
+<tr class="paper">
+<td>2024-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.10518.html">DECaPS and SMA discovery of a highly-inclined class I YSO with an outflow: IRAS 08235-4316</a></div></td>
+<td>Joshua Bennett Lovell et al.</td>
+<td><a href="http://arxiv.org/abs/2411.10518">2411.10518</a></td>
 </tr>
 <tr class="paper">
 <td>2024-11-13</td>
@@ -1774,6 +1828,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.16436">2406.16436</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11800.html">Magnetic field in mini starburst complex Sgr B2</a></div></td>
+<td>Xing Pan et al.</td>
+<td><a href="http://arxiv.org/abs/2406.11800">2406.11800</a></td>
+</tr>
+<tr class="paper">
 <td>2024-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10495.html">Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Dorothy Gogoi et al.</td>
@@ -1850,5 +1910,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03670.html">Harnessing metastability for grain size control in multiprincipal element alloys during additive manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
 <td>Akane Wakai et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03670">2405.03670</a></td>
+</tr>
+<tr class="paper">
+<td>2024-05-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10932.html">Roadmap on Data-Centric Materials Science</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
+<td>Stefan Bauer et al.</td>
+<td><a href="http://arxiv.org/abs/2402.10932">2402.10932</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08804.html">Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="membranes-all.html">membranes</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Mohammed Al Otmi et al.</td>
+<td><a href="http://arxiv.org/abs/2404.08804">2404.08804</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-degradation — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <strong>360d</strong> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,6 +170,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="selfies-360d.html">selfies</a></div></td>
 <td>Anagha Savit et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
+</tr>
+<tr class="paper">
+<td>2025-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12655.html">AI-Assisted Physics-Informed Predictions of Degradation Behavior of Polymeric Anion Exchange Membranes</a></div></td>
+<td>William Schertzer et al.</td>
+<td><a href="http://arxiv.org/abs/2510.12655">2510.12655</a></td>
 </tr>
 <tr class="paper">
 <td>2025-10-11</td>

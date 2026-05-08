@@ -1019,6 +1019,12 @@ current_window: 360d
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11007.html">Structure and dynamics of ionic liquids under shear flow</a></div></td>
+<td>Abbas Gholami et al.</td>
+<td><a href="http://arxiv.org/abs/2505.11007">2505.11007</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11188.html">Chemically active droplets in crowded environments</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Jacques Fries et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11188">2505.11188</a></td>
@@ -1040,11 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Sarah K. Yorke et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00355.html">Global decomposition of networks into multiple cores formed by local hubs</a></div></td>
-<td>Wonhee Jeong et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00355">2407.00355</a></td>
 </tr>
 </tbody></table>

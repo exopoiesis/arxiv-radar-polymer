@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>catalyst-design — all</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <a href="catalyst-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,6 +92,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03278.html">Artificial Intelligence and Generative Models for Materials Discovery -- A Review</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="inverse-design-all.html">inverse-design</a></div></td>
 <td>Albertus Denny Handoko et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03278">2508.03278</a></td>
+</tr>
+<tr class="paper">
+<td>2025-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21143.html">Molecular Mechanisms of Polymer Crosslinking via Thermal Activation</a></div></td>
+<td>Javed Akhtar et al.</td>
+<td><a href="http://arxiv.org/abs/2507.21143">2507.21143</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-10</td>

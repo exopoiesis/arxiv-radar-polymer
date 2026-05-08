@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">753 papers</span>
+  <span class="paper-count">758 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2405,6 +2405,12 @@ current_window: all
 </tr>
 <tr class="paper">
 <td>2025-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21066.html">Microphase Separation Controls the Dynamics of Associative Vitrimers</a></div></td>
+<td>Rahul Karmakar et al.</td>
+<td><a href="http://arxiv.org/abs/2506.21066">2506.21066</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="block-copolymer-all.html">block-copolymer</a> · <a href="coarse-grained-all.html">coarse-grained</a> · <a href="mlff-all.html">mlff</a> · <a href="nanocomposites-all.html">nanocomposites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="qspr-all.html">qspr</a></div></td>
 <td>Parvez Khana et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
@@ -4144,6 +4150,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.18577">2406.18577</a></td>
 </tr>
 <tr class="paper">
+<td>2024-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10922.html">Theoretical Analysis of the Structure, Thermodynamics, and Shear Elasticity of Deeply Metastable Hard Sphere Fluids</a></div></td>
+<td>Subhashish Chaki et al.</td>
+<td><a href="http://arxiv.org/abs/2408.10922">2408.10922</a></td>
+</tr>
+<tr class="paper">
 <td>2024-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14505.html">Dynamics of colloidal rods rotating in viscoelastic media</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
 <td>N Narinder et al.</td>
@@ -4516,6 +4528,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2405.07384">2405.07384</a></td>
 </tr>
 <tr class="paper">
+<td>2024-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05173.html">Bending-Rotation coupling in the viscoelasticity of semiflexible polymers -- Rigorous perturbation analysis from the rod limit</a></div></td>
+<td>Zhongqiang Xiong et al.</td>
+<td><a href="http://arxiv.org/abs/2403.05173">2403.05173</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11596.html">Bioinspired Nested-Isotropic Lattices with Tunable Anisotropy for Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
 <td>R. Boda et al.</td>
@@ -4532,5 +4550,17 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03090.html">A continuum and computational framework for viscoelastodynamics: III. A nonlinear theory</a></div></td>
 <td>Ju Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03090">2405.03090</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.03844.html">A Unified Model for Non-Fickian Diffusion and Anomalous Swelling of Glassy Polymer Gels</a></div></td>
+<td>Peihan Lyu et al.</td>
+<td><a href="http://arxiv.org/abs/2402.03844">2402.03844</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08804.html">Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="membranes-all.html">membranes</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Mohammed Al Otmi et al.</td>
+<td><a href="http://arxiv.org/abs/2404.08804">2404.08804</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">139 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -842,5 +842,11 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03497.html">Long ranged stress correlations in the hard sphere liquid</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
 <td>Niklas Grimm et al.</td>
 <td><a href="http://arxiv.org/abs/2405.03497">2405.03497</a></td>
+</tr>
+<tr class="paper">
+<td>2024-01-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.06569.html">Effect of the Nature of the Solid Substrate on Spatially Heterogeneous Activated Dynamics in Glass Forming Supported Films</a></div></td>
+<td>Anh D. Phan et al.</td>
+<td><a href="http://arxiv.org/abs/2401.06569">2401.06569</a></td>
 </tr>
 </tbody></table>

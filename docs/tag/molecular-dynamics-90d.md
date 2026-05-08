@@ -137,6 +137,12 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Qian Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Jack Jon Hinsch et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08089.html">From Connectivity to Rupture: A Coarse-Grained Stochastic Network Dynamics Approach to Polymer Network Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Shaswat Mohanty et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08089">2602.08089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05865.html">AMDAT: An Open-Source Molecular Dynamics Analysis Toolkit for Supercooled Liquids, Glass-Forming Materials, and Complex Fluids</a></div></td>
-<td>Pierre Kawak et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05865">2602.05865</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28906.html">Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence</a></div></td>
+<td>Pablo de los Riscos et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28906">2603.28906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>

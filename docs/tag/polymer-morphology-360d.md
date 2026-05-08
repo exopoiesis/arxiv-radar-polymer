@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,6 +110,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00112.html">Atomic-Scale Mechanisms of Li-Ion Transport Mediated by Li10GeP2S12 in Composite Solid Polyethylene Oxide Electrolytes</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
 <td>Syed Mustafa Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2601.00112">2601.00112</a></td>
+</tr>
+<tr class="paper">
+<td>2026-03-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Qian Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-26</td>
@@ -382,6 +388,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2601.02150">2601.02150</a></td>
 </tr>
 <tr class="paper">
+<td>2026-01-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.16810.html">Magnetic threads and gravity: ALMA Observations of IRDC G14.225-0.506</a></div></td>
+<td>Nacho Añez-López et al.</td>
+<td><a href="http://arxiv.org/abs/2601.16810">2601.16810</a></td>
+</tr>
+<tr class="paper">
 <td>2026-01-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.15835.html">Effects of pulsed and continuous light and heavy ion irradiation on the morphology and electrical properties of Ag+C60 and Au+C60 composite thin films</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Giovanni Ceccio et al.</td>
@@ -602,6 +614,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03129.html">Taming the Tarantula: How Stellar Wind Feedback Shapes Gas and Dust in 30 Doradus</a></div></td>
 <td>Jennifer A. Rodriguez et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03129">2512.03129</a></td>
+</tr>
+<tr class="paper">
+<td>2025-12-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08970.html">Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations</a></div></td>
+<td>Saurabh et al.</td>
+<td><a href="http://arxiv.org/abs/2512.08970">2512.08970</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-30</td>
@@ -862,6 +880,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2409.03729">2409.03729</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07107.html">A Framework for Supervised and Unsupervised Segmentation and Classification of Materials Microstructure Images</a></div></td>
+<td>Kungang Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2502.07107">2502.07107</a></td>
+</tr>
+<tr class="paper">
 <td>2025-08-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20439.html">Toughening beta-Ga2O3 via mechanically seeded dislocations</a></div><div class="paper-tags"><a href="tem-360d.html">tem</a></div></td>
 <td>Zanlin Cheng et al.</td>
@@ -1106,11 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02663.html">Determination of Preferred Fiber Orientation State based on Newton-Raphson Method using Exact Jacobian</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="composites-360d.html">composites</a></div></td>
 <td>Aigbe Awenlimobor et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02663">2501.02663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06873.html">Ultraslow Growth of Domains in a Random-Field System With Correlated Disorder</a></div></td>
-<td>Subhanker Howlader et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06873">2505.06873</a></td>
 </tr>
 </tbody></table>

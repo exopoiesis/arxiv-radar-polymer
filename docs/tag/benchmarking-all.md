@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>benchmarking — all</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">161 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28906.html">Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence</a></div></td>
+<td>Pablo de los Riscos et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28906">2603.28906</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
@@ -544,6 +550,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2507.07838">2507.07838</a></td>
 </tr>
 <tr class="paper">
+<td>2025-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08446.html">Noise Injection for__Performance Bottleneck Analysis</a></div></td>
+<td>Aurélien Delval et al.</td>
+<td><a href="http://arxiv.org/abs/2509.08446">2509.08446</a></td>
+</tr>
+<tr class="paper">
 <td>2025-09-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04493.html">Accelerated Ostwald ripening by chemical activity</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Benjamin Sorkin et al.</td>
@@ -688,6 +700,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2506.02129">2506.02129</a></td>
 </tr>
 <tr class="paper">
+<td>2025-05-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23982.html">MSQA: Benchmarking LLMs on Graduate-Level Materials Science Reasoning and Knowledge</a></div></td>
+<td>Jerry Junyang Cheung et al.</td>
+<td><a href="http://arxiv.org/abs/2505.23982">2505.23982</a></td>
+</tr>
+<tr class="paper">
 <td>2025-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09606.html">Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study</a></div><div class="paper-tags"><a href="organic-photovoltaics-all.html">organic-photovoltaics</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
@@ -728,6 +746,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05919.html">Efficient parallel algorithms for free-energy calculation of millions of water molecules in the fluid phases</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
 <td>Luis Enrique Coronas et al.</td>
 <td><a href="http://arxiv.org/abs/2505.05919">2505.05919</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15326.html">Recognize Any Surgical Object: Unleashing the Power of Weakly-Supervised Data</a></div></td>
+<td>Jiajie Li et al.</td>
+<td><a href="http://arxiv.org/abs/2501.15326">2501.15326</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-04</td>
@@ -874,6 +898,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2409.05240">2409.05240</a></td>
 </tr>
 <tr class="paper">
+<td>2024-08-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16157.html">The Importance of Learning without Constraints: Reevaluating Benchmarks for Invariant and Equivariant Features of Machine Learning Potentials in Generating Free Energy Landscapes</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
+<td>Gustavo R. Pérez-Lemus et al.</td>
+<td><a href="http://arxiv.org/abs/2408.16157">2408.16157</a></td>
+</tr>
+<tr class="paper">
 <td>2024-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.10285.html">BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction</a></div></td>
 <td>Yifei Yang et al.</td>
@@ -910,6 +940,12 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2406.19145">2406.19145</a></td>
 </tr>
 <tr class="paper">
+<td>2024-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03487.html">Analyzing LLM Behavior in Dialogue Summarization: Unveiling Circumstantial Hallucination Trends</a></div></td>
+<td>Sanjana Ramprasad et al.</td>
+<td><a href="http://arxiv.org/abs/2406.03487">2406.03487</a></td>
+</tr>
+<tr class="paper">
 <td>2024-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05213.html">Exponential time propagators for elastodynamics</a></div></td>
 <td>Paavai Pari et al.</td>
@@ -926,5 +962,23 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00401.html">Optimized Drug Design using Multi-Objective Evolutionary Algorithms with SELFIES</a></div><div class="paper-tags"><a href="selfies-all.html">selfies</a></div></td>
 <td>Tomoya Hömberg et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00401">2405.00401</a></td>
+</tr>
+<tr class="paper">
+<td>2024-04-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17570.html">A manufacturable platform for photonic quantum computing</a></div></td>
+<td>Koen Alexander et al.</td>
+<td><a href="http://arxiv.org/abs/2404.17570">2404.17570</a></td>
+</tr>
+<tr class="paper">
+<td>2024-03-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00260.html">Extracting Polymer Nanocomposite Samples from Full-Length Documents</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
+<td>Ghazal Khalighinejad et al.</td>
+<td><a href="http://arxiv.org/abs/2403.00260">2403.00260</a></td>
+</tr>
+<tr class="paper">
+<td>2024-02-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.03509.html">Evaluating the Factuality of Zero-shot Summarizers Across Varied Domains</a></div></td>
+<td>Sanjana Ramprasad et al.</td>
+<td><a href="http://arxiv.org/abs/2402.03509">2402.03509</a></td>
 </tr>
 </tbody></table>

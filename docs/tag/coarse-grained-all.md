@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">259 papers</span>
+  <span class="paper-count">260 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,6 +1016,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12168.html">Poincaré on Gibbs and on Probability in Statistical Mechanics</a></div></td>
 <td>Bruce D. Popp</td>
 <td><a href="http://arxiv.org/abs/2505.12168">2505.12168</a></td>
+</tr>
+<tr class="paper">
+<td>2025-05-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11007.html">Structure and dynamics of ionic liquids under shear flow</a></div></td>
+<td>Abbas Gholami et al.</td>
+<td><a href="http://arxiv.org/abs/2505.11007">2505.11007</a></td>
 </tr>
 <tr class="paper">
 <td>2025-05-16</td>

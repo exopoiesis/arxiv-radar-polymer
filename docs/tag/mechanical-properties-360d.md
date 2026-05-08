@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2402,6 +2402,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18637.html">Machine learning of microstructure--property relationships in materials leveraging microstructure representation from foundational vision transformers</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Sheila E. Whitman et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18637">2501.18637</a></td>
+</tr>
+<tr class="paper">
+<td>2025-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21066.html">Microphase Separation Controls the Dynamics of Associative Vitrimers</a></div></td>
+<td>Rahul Karmakar et al.</td>
+<td><a href="http://arxiv.org/abs/2506.21066">2506.21066</a></td>
 </tr>
 <tr class="paper">
 <td>2025-06-26</td>

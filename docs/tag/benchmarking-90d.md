@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28906.html">Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence</a></div></td>
+<td>Pablo de los Riscos et al.</td>
+<td><a href="http://arxiv.org/abs/2603.28906">2603.28906</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01774.html">Entropic lattice Boltzmann method for general anisotropic advection--diffusion</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Jingsen Feng et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08910.html">Structural coarse-graining enables noise-robust functional connectivity and reveals hidden inter-subject variability</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Izaro Fernandez-Iriondo et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08910">2602.08910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.06640.html">Habitat heterogeneity and dispersal network structure as drivers of metacommunity dynamics</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Davide Bernardi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.06640">2602.06640</a></td>
 </tr>
 </tbody></table>

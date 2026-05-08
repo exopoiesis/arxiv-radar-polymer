@@ -1,4 +1,135 @@
 {
+ "2401.09901": {
+  "abstract": "We introduce a family of lattice-gas models of flocking, whose thermodynamically consistent dynamics admits a proper equilibrium limit at vanishing self-propulsion. These models are amenable to an exact coarse-graining which allows us to study their hydrodynamic behavior analytically. We show that the equilibrium limit here belongs to the universality class of Model C, and that it generically exhibits tricritical behavior. Self-propulsion has a non-perturbative effect on the phase diagram, yielding novel phase behaviors depending on the type of aligning interactions. For aligning interactions that increase monotonically with the density, the tricritical point diverges to infinite density reproducing the standard scenario of a discontinuous flocking transition accompanied by traveling bands. In contrast, for models where the aligning interaction is non-monotonic in density, the system can exhibit either (the nonequilibrium counterpart of) an azeotropic point, associated with a continuous flocking transition, or a state with counterpropagating bands.",
+  "authors": [
+   "Tal Agranov",
+   "Robert L. Jack",
+   "Michael E. Cates",
+   "Étienne Fodor"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Tal Agranov",
+  "pdf_url": "http://arxiv.org/pdf/2401.09901",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2024-01-18",
+  "tags": [],
+  "title": "Thermodynamically consistent flocking: From discontinuous to continuous transitions",
+  "topics": [
+   "via:author-whitelist:soft matter, active matter"
+  ],
+  "updated": "2024-05-20"
+ },
+ "2402.10932": {
+  "abstract": "Science is and always has been based on data, but the terms \"data-centric\" and the \"4th paradigm of\" materials research indicate a radical change in how information is retrieved, handled and research is performed. It signifies a transformative shift towards managing vast data collections, digital repositories, and innovative data analytics methods. The integration of Artificial Intelligence (AI) and its subset Machine Learning (ML), has become pivotal in addressing all these challenges. This Roadmap on Data-Centric Materials Science explores fundamental concepts and methodologies, illustrating diverse applications in electronic-structure theory, soft matter theory, microstructure research, and experimental techniques like photoemission, atom probe tomography, and electron microscopy. While the roadmap delves into specific areas within the broad interdisciplinary field of materials science, the provided examples elucidate key concepts applicable to a wider range of topics. The discussed instances offer insights into addressing the multifaceted challenges encountered in contemporary materials research.",
+  "authors": [
+   "Stefan Bauer",
+   "Peter Benner",
+   "Tristan Bereau",
+   "Volker Blum",
+   "Mario Boley",
+   "Christian Carbogno",
+   "C. Richard A. Catlow",
+   "Gerhard Dehm",
+   "Sebastian Eibl",
+   "Ralph Ernstorfer",
+   "Ádám Fekete",
+   "Lucas Foppa",
+   "Peter Fratzl",
+   "Christoph Freysoldt",
+   "Baptiste Gault",
+   "Luca M. Ghiringhelli",
+   "Sajal K. Giri",
+   "Anton Gladyshev",
+   "Pawan Goyal",
+   "Jason Hattrick-Simpers",
+   "Lara Kabalan",
+   "Petr Karpov",
+   "Mohammad S. Khorrami",
+   "Christoph Koch",
+   "Sebastian Kokott",
+   "Thomas Kosch",
+   "Igor Kowalec",
+   "Kurt Kremer",
+   "Andreas Leitherer",
+   "Yue Li",
+   "Christian H. Liebscher",
+   "Andrew J. Logsdail",
+   "Zhongwei Lu",
+   "Felix Luong",
+   "Andreas Marek",
+   "Florian Merz",
+   "Jaber R. Mianroodi",
+   "Jörg Neugebauer",
+   "Zongrui Pei",
+   "Thomas A. R. Purcell",
+   "Dierk Raabe",
+   "Markus Rampp",
+   "Mariana Rossi",
+   "Jan-Michael Rost",
+   "James Saal",
+   "Ulf Saalmann",
+   "Kasturi Narasimha Sasidhar",
+   "Alaukik Saxena",
+   "Luigi Sbailò",
+   "Markus Scheidgen",
+   "Marcel Schloz",
+   "Daniel F. Schmidt",
+   "Simon Teshuva",
+   "Annette Trunschke",
+   "Ye Wei",
+   "Gerhard Weikum",
+   "R. Patrick Xian",
+   "Yi Yao",
+   "Junqi Yin",
+   "Meng Zhao",
+   "Matthias Scheffler"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.data-an"
+  ],
+  "comment": "Review, outlook, roadmap, perspective",
+  "first_author": "Stefan Bauer",
+  "pdf_url": "http://arxiv.org/pdf/2402.10932",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2024-02-01",
+  "tags": [
+   "polymer-morphology",
+   "soft-matter"
+  ],
+  "title": "Roadmap on Data-Centric Materials Science",
+  "topics": [
+   "via:author-whitelist:polymer simulation, soft matter"
+  ],
+  "updated": "2024-05-01"
+ },
+ "2403.05173": {
+  "abstract": "Brownian motion and viscoelasticity of semiflexible polymers is a subject that has been studied for many years. Still, rigorous analysis has been hindered due to the difficulty in handling the constraint that polymer chains cannot be stretched along the contour. Here, we show a straightforward method to solve the problem. We consider a stiff polymer that has a persistent length $L_p$ much larger than the contour length $L$. We express the polymer configuration using three types of variables: the position vector of the center of mass $R_c$, the unit vector $n$ along the main axis, and the normal coordinates $u_p$ for bending. Solving the Smoluchowski equation for the distribution function of these variables, we calculate the equilibrium time correlation function $ \\langle P(t)\\cdot P(0) \\rangle$ of the end-to-end vector $P$ and the complex modulus $G^*(ω)$ of dilute solution. They include the bending effect to the first order in $θ\\equiv L/L_p$ and reduce to the exact results for the rigid rod in the limit of $θ\\to 0$. The rotational diffusion coefficient increases slightly by the semiflexibility because the equilibrium length of the semiflexible polymer is smaller than that of the rigid rod with the same contour length. The storage modulus shows the same asymptotic dependence $G'(ω) \\sim ω^{3/4}$ predicted by Shankar, Pasquali, and Morse [J. Rheol. 2002, 46, 1111--1154]. The high-frequency viscosity is predicted to be dependent on the thickness of the semiflexible polymers.",
+  "authors": [
+   "Zhongqiang Xiong",
+   "Ryohei Seto",
+   "Masao Doi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Zhongqiang Xiong",
+  "pdf_url": "http://arxiv.org/pdf/2403.05173",
+  "primary_category": "cond-mat.soft",
+  "published": "2024-03-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Bending-Rotation coupling in the viscoelasticity of semiflexible polymers -- Rigorous perturbation analysis from the rod limit",
+  "topics": [
+   "via:author-whitelist:polymer dynamics, hydrodynamics"
+  ],
+  "updated": "2024-05-21"
+ },
  "2405.00401": {
   "abstract": "Computer aided drug design is a promising approach to reduce the tremendous costs, i.e. time and resources, for developing new medicinal drugs. It finds application in aiding the traversal of the vast chemical space of potentially useful compounds. In this paper, we deploy multi-objective evolutionary algorithms, namely NSGA-II, NSGA-III, and MOEA/D, for this purpose. At the same time, we used the SELFIES string representation method. In addition to the QED and SA score, we optimize compounds using the GuacaMol benchmark multi-objective task sets. Our results indicate that all three algorithms show converging behavior and successfully optimize the defined criteria whilst differing mainly in the number of potential solutions found. We observe that novel and promising candidates for synthesis are discovered among obtained compounds in the Pareto-sets.",
   "authors": [
@@ -420,6 +551,30 @@
   ],
   "updated": "2024-05-09"
  },
+ "2405.06478": {
+  "abstract": "This paper critically analyses the \"attention economy\" within the framework of cognitive science and techno-political economics, as applied to both human and machine interactions. We explore how current business models, particularly in digital platform capitalism, harness user engagement by strategically shaping attentional patterns. These platforms utilize advanced AI and massive data analytics to enhance user engagement, creating a cycle of attention capture and data extraction. We review contemporary (neuro)cognitive theories of attention and platform engagement design techniques and criticize classical cognitivist and behaviourist theories for their inadequacies in addressing the potential harms of such engagement on user autonomy and wellbeing. 4E approaches to cognitive science, instead, emphasizing the embodied, extended, enactive, and ecological aspects of cognition, offer us an intrinsic normative standpoint and a more integrated understanding of how attentional patterns are actively constituted by adaptive digital environments. By examining the precarious nature of habit formation in digital contexts, we reveal the techno-economic underpinnings that threaten personal autonomy by disaggregating habits away from the individual, into an AI managed collection of behavioural patterns. Our current predicament suggests the necessity of a paradigm shift towards an ecology of attention. This shift aims to foster environments that respect and preserve human cognitive and social capacities, countering the exploitative tendencies of cognitive capitalism.",
+  "authors": [
+   "Pablo González de la Torre",
+   "Marta Pérez-Verdugo",
+   "Xabier E. Barandiaran"
+  ],
+  "categories": [
+   "cs.CY",
+   "cs.AI",
+   "cs.SI"
+  ],
+  "comment": null,
+  "first_author": "Pablo González de la Torre",
+  "pdf_url": "http://arxiv.org/pdf/2405.06478",
+  "primary_category": "cs.CY",
+  "published": "2024-05-10",
+  "tags": [],
+  "title": "Attention is all they need: Cognitive science and the (techno)political economy of attention in humans and machines",
+  "topics": [
+   "via:author-whitelist:polymer MD, free energy"
+  ],
+  "updated": "2024-05-10"
+ },
  "2405.07015": {
   "abstract": "We study a lattice model of a magnetic polymer where the XY spin variables are located on a self-avoiding walk (SAW) on a regular lattice in two and three dimensions. We consider the regime where both spins and conformations are dynamic, thus the XY model is defined on a dynamic lattice and conformations generate an annealed disorder. Using Monte Carlo simulations, we characterize the globule-coil and ferromagnetic phase transitions, and pay special attention to the vicinity of the theta-point. Our numerical results suggest that the transitions are continuous in two dimensions and first-order in three dimensions, which is similar to related models with Ising spins.",
   "authors": [
@@ -811,6 +966,44 @@
   ],
   "updated": "2024-05-13"
  },
+ "2405.10141": {
+  "abstract": "Context. The blazar AO 0235+164, located at redshift $z=0.94$, has displayed interesting and repeating flaring activity in the past, the latest episodes occurring in 2008 and 2015. In 2020, the source brightened again, starting a new flaring episode that peaked in 2021. Aims. We study the origin and properties of the 2021 flare in relation to previous studies and the historical behavior of the source, in particular to the 2008 and 2015 flaring episodes. Methods. We analyze the multi-wavelength photo-polarimetric evolution of the source. From Very Long Baseline Array images, we derive the kinematic parameters of new components associated with the 2021 flare. We use this information to constrain a model for the spectral energy distribution of the emission during the flaring period. We propose an analytical geometric model to test whether the observed wobbling of the jet is consistent with precession. Results. We report the appearance of two new components that are ejected in a different direction than previously, confirming the wobbling of the jet. We find that the direction of ejection is consistent with that of a precessing jet.The derived period independently agrees with the values commonly found in the literature. Modeling of the spectral energy distribution further confirm that the differences between flares can be attributed to geometrical effects.",
+  "authors": [
+   "Juan Escudero Pedrosa",
+   "Iván Agudo",
+   "Till Moritz",
+   "Alan P. Marscher",
+   "Svetlana Jorstad",
+   "Andrea Tramacere",
+   "Carolina Casadio",
+   "Clemens Thum",
+   "Ioannis Myserlis",
+   "Albrecht Sievers",
+   "Jorge Otero-Santos",
+   "Daniel Morcuende",
+   "Rubén López-Coto",
+   "Filippo D'Ammando",
+   "Giacomo Bonnoli",
+   "Mark Gurwell",
+   "José Luis Gómez",
+   "Ramprasad Rao",
+   "Garrett Keating"
+  ],
+  "categories": [
+   "astro-ph.HE"
+  ],
+  "comment": "Accepted 15 May 2024",
+  "first_author": "Juan Escudero Pedrosa",
+  "pdf_url": "http://arxiv.org/pdf/2405.10141",
+  "primary_category": "astro-ph.HE",
+  "published": "2024-05-16",
+  "tags": [],
+  "title": "The flaring activity of blazar AO 0235+164 during year 2021",
+  "topics": [
+   "via:author-whitelist:polymer informatics, Polymer Genome"
+  ],
+  "updated": "2024-05-16"
+ },
  "2405.10181": {
   "abstract": "Water's unique anomalies are vital in various applications and biological processes, yet the molecular mechanisms behind these anomalies remain debated, particularly in the metastable liquid phase under supercooling and stretching conditions. Experimental challenges in these conditions have led to simulations suggesting a liquid-liquid phase transition between low-density and high-density water phases, culminating in a liquid-liquid critical point (LLCP). However, these simulations are limited by computational expense, small system sizes, and reliability of water models. Using the FS model, we improve accuracy in predicting water's density and response functions across a broad range of temperatures and pressures. The FS model avoid by design first-order phase transitions towards crystalline phases, allowing thorough exploration of the metastable phase diagram. We employ advanced numerical techniques to bypass dynamical slowing down and perform finite-size scaling on systems significantly larger than those used in previous analyses. Our study extrapolates thermodynamic behavior in the infinite-system limit, accurately demonstrating the existence of the LLCP in the 3D Ising universality class at TC = 186 +/- 4 K and PC = 174 +/- 14 MPa, following a liquid-liquid phase separation below 200 MPa. These predictions align with recent experimental data and more sophisticated models, highlighting that hydrogen bond cooperativity governs the LLCP and the origin of water anomalies. Moreover, we observe that the hydrogen bond network exhibits substantial cooperative fluctuations at scales larger than 10 nm, even at temperatures relevant to biopreservation. These findings have significant implications for fields such as nanotechnology and biophysics, offering new insights into water's behavior under varied conditions.",
   "authors": [
@@ -861,6 +1054,31 @@
   "title": "Anomalous relaxation of coarsening foams with viscoelastic continuous phase",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2024-05-17"
+ },
+ "2405.11065": {
+  "abstract": "Mixed-precision computing has the potential to significantly reduce the cost of exascale computations, but determining when and how to implement it in programs can be challenging. In this article, we consider Nekbone, a mini-application for the CFD solver Nek5000, as a case study, and propose a methodology for enabling mixed-precision with the help of computer arithmetic tools and roofline model. We evaluate the derived mixed-precision program by combining metrics in three dimensions: accuracy, time-to-solution, and energy-to-solution. Notably, the introduction of mixed-precision in Nekbone, reducing time-to-solution by 40.7% and energy-to-solution by 47% on 128 MPI ranks.",
+  "authors": [
+   "Yanxiang Chen",
+   "Pablo de Oliveira Castro",
+   "Paolo Bientinesi",
+   "Roman Iakymchuk"
+  ],
+  "categories": [
+   "cs.MS",
+   "cs.DC",
+   "cs.SE"
+  ],
+  "comment": null,
+  "first_author": "Yanxiang Chen",
+  "pdf_url": "http://arxiv.org/pdf/2405.11065",
+  "primary_category": "cs.MS",
+  "published": "2024-05-17",
+  "tags": [],
+  "title": "Enabling mixed-precision with the help of tools: A Nekbone case study",
+  "topics": [
+   "via:author-whitelist:polymer MD, free energy"
   ],
   "updated": "2024-05-17"
  },
@@ -1766,6 +1984,29 @@
   "title": "On the Cahn-Hilliard equation with kinetic rate dependent dynamic boundary condition and non-smooth potential: separation property and long-time behavior",
   "topics": [
    "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2024-05-31"
+ },
+ "2405.20822": {
+  "abstract": "This paper analyzes the empirical relationship between the inflation rate and its proximate determinants in Argentina, using quarterly data over the period 2004-2022 and an error-correction vector model approach. Unlike previous literature, this paper uses a theoretical framework to motivate the inclusion of variables that are expected to contribute to explain inflation, thus reducing the risk of omitting relevant variables and formalizing key mechanisms. Inference is performed through Granger causality analysis, impulse response functions and forecast errors variance decomposition. The results suggest that an anti-inflationary plan for Argentina should take into consideration both the greater relevance of the inertial component, the exchange rate and the interest rate in the short-run dynamics of the price level, and the long-run relationship between prices, interest rate and activity level.",
+  "authors": [
+   "Pablo de la Vega",
+   "Guido Zack",
+   "Jimena Calvo",
+   "Emiliano Libman"
+  ],
+  "categories": [
+   "econ.GN"
+  ],
+  "comment": null,
+  "first_author": "Pablo de la Vega",
+  "pdf_url": "http://arxiv.org/pdf/2405.20822",
+  "primary_category": "econ.GN",
+  "published": "2024-05-31",
+  "tags": [],
+  "title": "Inflation Determinants in Argentina (2004-2022)",
+  "topics": [
+   "via:author-whitelist:polymer MD, free energy"
   ],
   "updated": "2024-05-31"
  },

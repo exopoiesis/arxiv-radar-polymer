@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">65 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,17 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09557.html">Facade Inspection: Design, Prototyping, and Testing of a Hybrid Cable-Driven Parallel Robot</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Ginna Marcela García-Rodríguez et al.</td>
 <td><a href="http://arxiv.org/abs/2602.09557">2602.09557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18064.html">Learning Metal Microstructural Heterogeneity through Spatial Mapping of Diffraction Latent Space Features</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Mathieu Calvat et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18064">2501.18064</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11730.html">Wireless Sensing of Temperature, Strain and Crack Growth in 3D-Printed Metal Structures via Magneto-Responsive Inclusions</a></div></td>
-<td>Connor G. McMahan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11730">2510.11730</a></td>
 </tr>
 </tbody></table>
