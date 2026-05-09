@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">136 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -818,17 +818,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09480.html">Glassy dynamics and a growing structural length scale in supercooled nanoparticles</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Weikai Qi et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09480">2505.09480</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08165.html">Neural Network-Driven Molecular Insights into Alkaline Wet Etching of GaN: Toward Atomistic Precision in Nanostructure Fabrication</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="mlff-360d.html">mlff</a></div></td>
-<td>Purun-hanul Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08165">2505.08165</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Sarah K. Yorke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
 </tr>
 </tbody></table>

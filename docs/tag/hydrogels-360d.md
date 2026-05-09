@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">98 papers</span>
+  <span class="paper-count">96 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -590,17 +590,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10342.html">Tuning the morphology of aerosolised cellulose nanocrystals via controlled aggregation</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Daniel Warnes et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10342">2505.10342</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08501.html">Damping and vibration properties of alginate-poloxamer hydrogels doped with sepiolite and cactus fibres</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Gianni Comandini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08501">2505.08501</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sarah K. Yorke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
 </tr>
 </tbody></table>

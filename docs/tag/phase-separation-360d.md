@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">321 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1934,11 +1934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21509.html">Curvature-Guided Mechanics and Design of Spinodal and Shell-Based Architected Materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Somayajulu Dhulipala et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21509">2505.21509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08141.html">Competing Pair Density Wave and Uniform $d$-wave Superconductivity in Phase Separated 214 Cuprates at the 1/8 Anomaly</a></div></td>
-<td>Qiang Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08141">2505.08141</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>nanocomposites — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <strong>90d</strong> <a href="nanocomposites-360d.html">360d</a> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23385.html">Polyvinylpyrrolidone planarized liquid crystalline 1T-WS2/rGO hybrid nanocomposites-based humidity sensing platform</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>A. Vasilev et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23385">2602.23385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.22192.html">Chitosan/alginate bionanocomposites adorned with mesoporous silica nanoparticles for bone tissue engineering</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>Satar Yousefiasl et al.</td>
-<td><a href="http://arxiv.org/abs/2601.22192">2601.22192</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.07328.html">High-Throughput In-Situ Fabrication of Fibrous Membranes Enables Scalable Passive Radiative Cooling</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a></div></td>
-<td>Hanzhuo Shao et al.</td>
-<td><a href="http://arxiv.org/abs/2602.07328">2602.07328</a></td>
 </tr>
 </tbody></table>
