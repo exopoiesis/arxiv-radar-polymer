@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>enhanced-sampling — all</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="enhanced-sampling-7d.html">7d</a> <a href="enhanced-sampling-30d.html">30d</a> <a href="enhanced-sampling-90d.html">90d</a> <a href="enhanced-sampling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,12 +20,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27136.html">Stepping up enhanced rate calculations with EATR-flooding</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
 <td>Nicodemo Mazzaferro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27136">2604.27136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04242.html">Characterizing Defect Dynamics in Silicon Carbide Using Symmetry-Adapted Collective Variables and Machine Learning Interatomic Potentials</a></div><div class="paper-tags"><a href="active-learning-all.html">active-learning</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Soumajit Dutta et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04242">2512.04242</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-29</td>
@@ -82,12 +76,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2502.17233">2502.17233</a></td>
 </tr>
 <tr class="paper">
-<td>2025-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13575.html">Autodifferentiable Geometric Restraints for Enhanced Sampling Simulations with Classical and Machine Learned Force Fields</a></div></td>
-<td>Gustavo R. Pérez-Lemus et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13575">2504.13575</a></td>
-</tr>
-<tr class="paper">
 <td>2025-04-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.09216.html">Fitting Coarse-Grained Models to Macroscopic Experimental Data via Automatic Differentiation</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="mlff-all.html">mlff</a></div></td>
 <td>Ryan K. Krueger et al.</td>
@@ -128,12 +116,6 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18683.html">Density of states in neural networks: an in-depth exploration of learning in parameter space</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
 <td>Margherita Mele et al.</td>
 <td><a href="http://arxiv.org/abs/2409.18683">2409.18683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.16157.html">The Importance of Learning without Constraints: Reevaluating Benchmarks for Invariant and Equivariant Features of Machine Learning Potentials in Generating Free Energy Landscapes</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
-<td>Gustavo R. Pérez-Lemus et al.</td>
-<td><a href="http://arxiv.org/abs/2408.16157">2408.16157</a></td>
 </tr>
 <tr class="paper">
 <td>2024-08-02</td>

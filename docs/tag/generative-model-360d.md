@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08859.html">PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="diffusion-model-360d.html">diffusion-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fanmeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.08859">2504.08859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08165.html">Neural Network-Driven Molecular Insights into Alkaline Wet Etching of GaN: Toward Atomistic Precision in Nanostructure Fabrication</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Purun-hanul Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08165">2505.08165</a></td>
 </tr>
 </tbody></table>

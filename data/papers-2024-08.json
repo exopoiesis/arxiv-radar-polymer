@@ -1,26 +1,4 @@
 {
- "2402.04217": {
-  "abstract": "In this article, we analyze three classes of time-reversal of a Markov process with Gaussian noise on a manifold. We first unveil a commutativity constraint for the most general of these time-reversals to be well defined. Then we give a triad of necessary and sufficient conditions for the stochastic process to be time-reversible. While most reversibility conditions in the literature require knowledge of the stationary probability, our conditions do not, and therefore can be analytically checked in a systematic way. We then show that the mathematical objects whose cancellation is required by our reversibility conditions play the role of independent sources of entropy production. Furthermore, we give a geometric interpretation of the so-called irreversible cycle-affinity as the vorticity of a certain vector field for a Riemannian geometry given by the diffusion tensor. We also discuss the relation between the time-reversability of the stochastic process and that of an associated deterministic dynamics: its Stratonovitch average. Finally, we show that a suitable choice of a reference measure - that can be considered as a prior or a gauge, depending on the context - allows to study a stochastic process in a way that is both coordinate-free and independent of the prescription used to define stochastic integrals. When this reference measure plays the role of a gauge choice, we interpret our previous results through the lens of gauge theory and prove them to be gauge-invariant.",
-  "authors": [
-   "Jérémy O'Byrne",
-   "Michael E. Cates"
-  ],
-  "categories": [
-   "cond-mat.stat-mech",
-   "cond-mat.soft"
-  ],
-  "comment": null,
-  "first_author": "Jérémy O'Byrne",
-  "pdf_url": "http://arxiv.org/pdf/2402.04217",
-  "primary_category": "cond-mat.stat-mech",
-  "published": "2024-02-06",
-  "tags": [],
-  "title": "Geometric theory of (extended) time-reversal symmetries in stochastic processes -- Part I: finite dimension",
-  "topics": [
-   "via:author-whitelist:soft matter, active matter"
-  ],
-  "updated": "2024-08-08"
- },
  "2405.06974": {
   "abstract": "A unique bistable transition has been identified in granular/colloidal gel-composites, resulting from shear-induced phase separation of the gel phase into dense blobs. In energy applications, it is critical to understand how this transition influences electrical performance. Mixing conductive colloids with conductive inclusions, we find the conductivity and elasticity move in concert, both decreasing in the collapsed phase-separated state. Surprisingly, with insulating inclusions these properties can become decoupled, with the conductivity instead increasing despite the collapse of the gel structure.",
   "authors": [
@@ -917,36 +895,6 @@
   ],
   "updated": "2024-08-08"
  },
- "2408.04619": {
-  "abstract": "Transformers have revolutionized machine learning, yet their inner workings remain opaque to many. We present Transformer Explainer, an interactive visualization tool designed for non-experts to learn about Transformers through the GPT-2 model. Our tool helps users understand complex Transformer concepts by integrating a model overview and enabling smooth transitions across abstraction levels of mathematical operations and model structures. It runs a live GPT-2 instance locally in the user's browser, empowering users to experiment with their own input and observe in real-time how the internal components and parameters of the Transformer work together to predict the next tokens. Our tool requires no installation or special hardware, broadening the public's education access to modern generative AI techniques. Our open-sourced tool is available at https://poloclub.github.io/transformer-explainer/. A video demo is available at https://youtu.be/ECR4oAwocjs.",
-  "authors": [
-   "Aeree Cho",
-   "Grace C. Kim",
-   "Alexander Karpekov",
-   "Alec Helbling",
-   "Zijie J. Wang",
-   "Seongmin Lee",
-   "Benjamin Hoover",
-   "Duen Horng Chau"
-  ],
-  "categories": [
-   "cs.LG",
-   "cs.AI",
-   "cs.CL",
-   "cs.HC"
-  ],
-  "comment": "To be presented at IEEE VIS 2024",
-  "first_author": "Aeree Cho",
-  "pdf_url": "http://arxiv.org/pdf/2408.04619",
-  "primary_category": "cs.LG",
-  "published": "2024-08-08",
-  "tags": [],
-  "title": "Transformer Explainer: Interactive Learning of Text-Generative Models",
-  "topics": [
-   "via:author-whitelist:polymer property prediction"
-  ],
-  "updated": "2024-08-08"
- },
  "2408.04677": {
   "abstract": "Wire Arc Additive Manufacturing (WAAM) is a metal 3D printing technology that deposits molten metal wire on a substrate to form desired geometries. Articulated robot arms are commonly used in WAAM to produce complex geometric shapes. However, they mostly rely on proprietary robot and weld control software that limits process tuning and customization, incorporation of third-party sensors, implementation on robots and weld controllers from multiple vendors, and customizable user programming. This paper presents a general open-source software architecture for WAAM that addresses these limitations. The foundation of this architecture is Robot Raconteur, an open-source control and communication framework that serves as the middleware for integrating robots and sensors from different vendors. Based on this architecture, we developed an end-to-end robotic WAAM implementation that takes a CAD file to a printed WAAM part and evaluates the accuracy of the result. The major components in the architecture include part slicing, robot motion planning, part metrology, in-process sensing, and process tuning. The current implementation is based on Motoman robots and Fronius weld controller, but the approach is applicable to other industrial robots and weld controllers. The capability of the WAAM tested is demonstrated through the printing of parts of various geometries and acquisition of in-process sensor data for motion adjustment.",
   "authors": [
@@ -1494,33 +1442,6 @@
   ],
   "updated": "2024-08-15"
  },
- "2408.07981": {
-  "abstract": "Multimodal large language models (LLMs) have achieved notable success across various domains, while research in the medical field has largely focused on unimodal images. Meanwhile, current general-domain multimodal models for videos still lack the capabilities to understand and engage in conversations about surgical videos. One major contributing factor is the absence of datasets in the surgical field. In this paper, we create a new dataset, Surg-QA, consisting of 102,000 surgical video-instruction pairs, the largest of its kind so far. To build such a dataset, we propose a novel two-stage question-answer generation pipeline with LLM to learn surgical knowledge in a structured manner from the publicly available surgical lecture videos. The pipeline breaks down the generation process into two stages to significantly reduce the task complexity, allowing us to use a more affordable, locally deployed open-source LLM than the premium paid LLM services. It also mitigates the risk of LLM hallucinations during question-answer generation, thereby enhancing the overall quality of the generated data. We further train LLaVA-Surg, a novel vision-language conversational assistant capable of answering open-ended questions about surgical videos, on this Surg-QA dataset, and conduct comprehensive evaluations on zero-shot surgical video question-answering tasks. We show that LLaVA-Surg significantly outperforms all previous general-domain models, demonstrating exceptional multimodal conversational skills in answering open-ended questions about surgical videos. We will release our code, model, and the instruction-tuning dataset.",
-  "authors": [
-   "Jiajie Li",
-   "Garrett Skinner",
-   "Gene Yang",
-   "Brian R Quaranto",
-   "Steven D Schwaitzberg",
-   "Peter C W Kim",
-   "Jinjun Xiong"
-  ],
-  "categories": [
-   "cs.CV",
-   "cs.AI"
-  ],
-  "comment": null,
-  "first_author": "Jiajie Li",
-  "pdf_url": "http://arxiv.org/pdf/2408.07981",
-  "primary_category": "cs.CV",
-  "published": "2024-08-15",
-  "tags": [],
-  "title": "LLaVA-Surg: Towards Multimodal Surgical Assistant via Structured Surgical Video Learning",
-  "topics": [
-   "via:author-whitelist:polymer property prediction"
-  ],
-  "updated": "2024-08-15"
- },
  "2408.08409": {
   "abstract": "Knitting turns a one dimensional yarn into a highly ramified three-dimensional structure. As a method of additive manufacturing, it holds promise for a new class of lightweight, ultrastrong materials. Here we present a purely geometric model to predict the three-dimensional folding of knitted fabrics made only of the two traditional stitches, knit and purl.",
   "authors": [
@@ -1543,35 +1464,6 @@
   "title": "You Have to Grow Wefts to Fold Them",
   "topics": [
    "Processing, Manufacturing & Composites"
-  ],
-  "updated": "2024-08-15"
- },
- "2408.08428": {
-  "abstract": "Manipulating the dispersive characteristics of vibrational waves is beneficial for many applications, e.g., high-precision instruments. architected hierarchical phononic materials have sparked promise tunability of elastodynamic waves and vibrations over multiple frequency ranges. In this article, hierarchical unit-cells are obtained, where features at each length scale result in a band gap within a targeted frequency range. Our novel approach, the ``hierarchical unit-cell template method,'' is an interpretable machine-learning approach that uncovers global unit-cell shape/topology patterns corresponding to predefined band-gap objectives. A scale-separation effect is observed where the coarse-scale band-gap objective is mostly unaffected by the fine-scale features despite the closeness of their length scales, thus enabling an efficient hierarchical algorithm. Moreover, the hierarchical patterns revealed are not predefined or self-similar hierarchies as common in current hierarchical phononic materials. Thus, our approach offers a flexible and efficient method for the exploration of new regions in the hierarchical design space, extracting minimal effective patterns for inverse design in applications targeting multiple frequency ranges.",
-  "authors": [
-   "Mary V. Bastawrous",
-   "Zhi Chen",
-   "Alexander C. Ogren",
-   "Chiara Daraio",
-   "Cynthia Rudin",
-   "L. Catherine Brinson"
-  ],
-  "categories": [
-   "physics.app-ph",
-   "cs.LG"
-  ],
-  "comment": null,
-  "first_author": "Mary V. Bastawrous",
-  "pdf_url": "http://arxiv.org/pdf/2408.08428",
-  "primary_category": "physics.app-ph",
-  "published": "2024-08-15",
-  "tags": [
-   "band-gap",
-   "inverse-design"
-  ],
-  "title": "Phononic materials with effectively scale-separated hierarchical features using interpretable machine learning",
-  "topics": [
-   "via:author-whitelist:polymer composites, ML for materials"
   ],
   "updated": "2024-08-15"
  },
@@ -1827,31 +1719,6 @@
    "Synthesis, Kinetics & Automation"
   ],
   "updated": "2024-08-19"
- },
- "2408.10922": {
-  "abstract": "The structure, thermodynamics and slow activated dynamics of the equilibrated metastable regime of glass-forming fluids remains a poorly understood problem of high theoretical and experimental interest. We apply a highly accurate microscopic equilibrium liquid state integral equation theory that has not been previously explored in the deeply metastable regime, in conjunction with naïve mode coupling theory of particle localization, to study in a unified manner the structural correlations, thermodynamic properties, and dynamic elastic shear modulus in deeply metastable hard sphere fluids. New and distinctive behaviors are predicted including divergent inverse critical power laws for the contact value of the pair correlation function, pressure, and inverse dimensionless compressibility, and a splitting of the second peak and large suppression of interstitial configurations of the pair correlation function. The dynamic elastic modulus is predicted to exhibit two distinct exponential growth regimes with packing fraction that have strongly different slopes. These new thermodynamic, structural, and elastic modulus results are consistent with simulations and experiments. Perhaps most unexpectedly, connections between the amplitude of long wavelength density fluctuations, dimensionless compressibility, local structure, and the dynamic elastic shear modulus are discovered. These connections are more broadly relevant to understand the slow activated relaxation and mechanical response of colloidal suspensions in the ultra-dense metastable region and deeply supercooled thermal liquids in equilibrium.",
-  "authors": [
-   "Subhashish Chaki",
-   "Baicheng Mei",
-   "Kenneth S. Schweizer"
-  ],
-  "categories": [
-   "cond-mat.soft",
-   "cond-mat.stat-mech"
-  ],
-  "comment": "Accepted in Phys. Rev. E",
-  "first_author": "Subhashish Chaki",
-  "pdf_url": "http://arxiv.org/pdf/2408.10922",
-  "primary_category": "cond-mat.soft",
-  "published": "2024-08-20",
-  "tags": [
-   "mechanical-properties"
-  ],
-  "title": "Theoretical Analysis of the Structure, Thermodynamics, and Shear Elasticity of Deeply Metastable Hard Sphere Fluids",
-  "topics": [
-   "via:author-whitelist:polymer dynamics, glass transition"
-  ],
-  "updated": "2024-08-20"
  },
  "2408.11126": {
   "abstract": "In metal Additive Manufacturing (AM), monitoring the temperature of the Melt Pool (MP) is crucial for ensuring part quality, process stability, defect prevention, and overall process optimization. Traditional methods, are slow to converge and require extensive manual effort to translate data into actionable insights, rendering them impractical for real-time monitoring and control. To address this challenge, we propose an Artificial Intelligence (AI)-based solution aimed at reducing manual data processing reliance and improving the efficiency of transitioning from data to insight. In our study, we utilize a dataset comprising dual-wavelength real-time process monitoring data and corresponding temperature maps. We introduce a deep learning model called the \"Binocular model,\" which exploits dual input observations to perform a precise analysis of MP temperature in Laser Powder Bed Fusion (L-PBF). Through advanced deep learning techniques, we seamlessly convert raw data into temperature maps, significantly streamlining the process and enabling batch processing at a rate of up to 750 frames per second, approximately 1000 times faster than conventional methods. Our Binocular model achieves high accuracy in temperature estimation, evidenced by a 0.95 R-squared score, while simultaneously enhancing processing efficiency by a factor of $\\sim1000x$ times. This model directly addresses the challenge of real-time MP temperature monitoring and offers insights into the encountered constraints and the benefits of our Deep Learning-based approach. By combining efficiency and precision, our work contributes to the advancement of temperature monitoring in L-PBF, thus driving progress in the field of metal AM.",
@@ -2554,55 +2421,6 @@
   ],
   "updated": "2024-08-28"
  },
- "2408.16104": {
-  "abstract": "To describe the spatial trajectory of an overdamped Brownian particle, inertial effects can be neglected. Yet, at the energetic level of stochastic thermodynamics, changes in kinetic energy must be considered to accurately predict the heat exchanged with the thermal bath. On the other hand, in the presence of external driving forces, one would expect the effects of kinetic energy fluctuations to be reduced, as thermal noise becomes comparatively less relevant. Here, we investigate the competition between the kinetic energy and the external work contributions to the heat statistics of passive and active overdamped Brownian particles subject to external driving forces. We find that kinetic energy effects cause fluctuations in the exchanged heat to become non-Gaussian. To evaluate the relevance of these effects, we compute the excess kurtosis and the Pearson correlation. For fixed parameter values adapted from experiments, we identify a crossover transition from a regime in which the stochastic heat of overdamped particles is dominated by external work, where kinetic energy changes can be safely ignored, to a regime dominated by kinetic energy effects. Our results also provide a quantitative analytical way to assess how deep into a particular regime the system is.",
-  "authors": [
-   "Pedro V. Paraguassú",
-   "Rui Aquino",
-   "Pablo de Castro"
-  ],
-  "categories": [
-   "cond-mat.stat-mech"
-  ],
-  "comment": "13 pages, 4 figures",
-  "first_author": "Pedro V. Paraguassú",
-  "pdf_url": "http://arxiv.org/pdf/2408.16104",
-  "primary_category": "cond-mat.stat-mech",
-  "published": "2024-08-28",
-  "tags": [],
-  "title": "Effects of kinetic energy on heat fluctuations of passive and active overdamped driven particles",
-  "topics": [
-   "via:author-whitelist:polymer MD, free energy"
-  ],
-  "updated": "2024-08-28"
- },
- "2408.16157": {
-  "abstract": "Machine-learned interatomic potentials (MILPs) are rapidly gaining interest for molecular modeling, as they provide a balance between quantum-mechanical level descriptions of atomic interactions and reasonable computational efficiency. However, questions remain regarding the stability of simulations using these potentials, as well as the extent to which the learned potential energy function can be extrapolated safely. Past studies have reported challenges encountered when MILPs are applied to classical benchmark systems. In this work, we show that some of these challenges are related to the characteristics of the training datasets, particularly the inclusion of rigid constraints. We demonstrate that long stability in simulations with MILPs can be achieved by generating unconstrained datasets using unbiased classical simulations if the fast modes are correctly sampled. Additionally, we emphasize that in order to achieve precise energy predictions, it is important to resort to enhanced sampling techniques for dataset generation, and we demonstrate that safe extrapolation of MILPs depends on judicious choices related to the system's underlying free energy landscape and the symmetry features embedded within the machine learning models.",
-  "authors": [
-   "Gustavo R. Pérez-Lemus",
-   "Yinan Xu",
-   "Yezhi Jin",
-   "Pablo F. Zubieta Rico",
-   "Juan J. de Pablo"
-  ],
-  "categories": [
-   "physics.comp-ph"
-  ],
-  "comment": null,
-  "first_author": "Gustavo R. Pérez-Lemus",
-  "pdf_url": "http://arxiv.org/pdf/2408.16157",
-  "primary_category": "physics.comp-ph",
-  "published": "2024-08-28",
-  "tags": [
-   "benchmarking",
-   "enhanced-sampling"
-  ],
-  "title": "The Importance of Learning without Constraints: Reevaluating Benchmarks for Invariant and Equivariant Features of Machine Learning Potentials in Generating Free Energy Landscapes",
-  "topics": [
-   "via:author-whitelist:polymer MD, free energy"
-  ],
-  "updated": "2024-08-28"
- },
  "2408.16962": {
   "abstract": "Existence and stability of time periodic solutions for nonlinear elastic wave equations with viscoelastic terms are established. The existence of the time periodic solution is proved using the spectral decomposition of the linear principal part and the Poincaré map. On the other hand, the proof of the stability of the time-periodic solutions is generally problematic due to the slow time decay induced by the time periodic solutions. Based on the regularity estimates of the time periodic solution derived from the smoothing effect of the semigroup, sharp decay properties of the perturbation from the time periodic solution are proved, which proves the stability.",
   "authors": [
@@ -2763,31 +2581,5 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2024-08-31"
- },
- "2409.03759": {
-  "abstract": "The increasing use of Retrieval-Augmented Generation (RAG) systems in various applications necessitates stringent protocols to ensure RAG systems accuracy, safety, and alignment with user intentions. In this paper, we introduce VERA (Validation and Evaluation of Retrieval-Augmented Systems), a framework designed to enhance the transparency and reliability of outputs from large language models (LLMs) that utilize retrieved information. VERA improves the way we evaluate RAG systems in two important ways: (1) it introduces a cross-encoder based mechanism that encompasses a set of multidimensional metrics into a single comprehensive ranking score, addressing the challenge of prioritizing individual metrics, and (2) it employs Bootstrap statistics on LLM-based metrics across the document repository to establish confidence bounds, ensuring the repositorys topical coverage and improving the overall reliability of retrieval systems. Through several use cases, we demonstrate how VERA can strengthen decision-making processes and trust in AI applications. Our findings not only contribute to the theoretical understanding of LLM-based RAG evaluation metric but also promote the practical implementation of responsible AI systems, marking a significant advancement in the development of reliable and transparent generative AI technologies.",
-  "authors": [
-   "Tianyu Ding",
-   "Adi Banerjee",
-   "Laurent Mombaerts",
-   "Yunhong Li",
-   "Tarik Borogovac",
-   "Juan Pablo De la Cruz Weinstein"
-  ],
-  "categories": [
-   "cs.IR",
-   "cs.AI"
-  ],
-  "comment": "Accepted in Workshop on Evaluation and Trustworthiness of Generative AI Models, KDD 2024",
-  "first_author": "Tianyu Ding",
-  "pdf_url": "http://arxiv.org/pdf/2409.03759",
-  "primary_category": "cs.IR",
-  "published": "2024-08-16",
-  "tags": [],
-  "title": "VERA: Validation and Evaluation of Retrieval-Augmented Systems",
-  "topics": [
-   "via:author-whitelist:polymer MD, free energy"
-  ],
-  "updated": "2024-08-16"
  }
 }

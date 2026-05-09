@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,11 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02663.html">Determination of Preferred Fiber Orientation State based on Newton-Raphson Method using Exact Jacobian</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Aigbe Awenlimobor et al.</td>
 <td><a href="http://arxiv.org/abs/2501.02663">2501.02663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08501.html">Damping and vibration properties of alginate-poloxamer hydrogels doped with sepiolite and cactus fibres</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Gianni Comandini et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08501">2505.08501</a></td>
 </tr>
 </tbody></table>

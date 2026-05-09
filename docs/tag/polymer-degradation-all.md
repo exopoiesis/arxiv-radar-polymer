@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-degradation — all</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <a href="polymer-degradation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.09341.html">Numerical Study of Cleavable Bond-Modified Polyethylene for Circular Polymer Design</a></div></td>
 <td>Maria Ley-Flores et al.</td>
 <td><a href="http://arxiv.org/abs/2404.09341">2404.09341</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.17268.html">Synthetic active liquid crystals powered by acoustic waves</a></div></td>
-<td>Andrey Sokolov et al.</td>
-<td><a href="http://arxiv.org/abs/2403.17268">2403.17268</a></td>
 </tr>
 </tbody></table>

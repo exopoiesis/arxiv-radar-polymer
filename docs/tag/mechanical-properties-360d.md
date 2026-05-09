@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">460 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2774,11 +2774,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05089.html">Viscoelastic Worthington jets &amp; droplets produced by bursting bubbles</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Ayush K. Dixit et al.</td>
 <td><a href="http://arxiv.org/abs/2408.05089">2408.05089</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08850.html">High-throughput Screening of the Mechanical Properties of Peptide Assemblies</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Sarah K. Yorke et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08850">2505.08850</a></td>
 </tr>
 </tbody></table>

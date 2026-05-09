@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00732.html">Tunable information insulation induced by constraint mismatch</a></div></td>
 <td>Akshay Panda et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00732">2604.00732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07495.html">Laterally Differentiated Polymorphs: a route to multifunctional nanostructures</a></div><div class="paper-tags"><a href="nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Pete E. Lauer et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07495">2604.07495</a></td>
 </tr>
 </tbody></table>

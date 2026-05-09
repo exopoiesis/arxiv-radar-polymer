@@ -5,39 +5,15 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-08._
+_Updated 2026-05-09._
 
-**3605** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3290** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06600.html">Sensitivity Projections for Low-Mass Dark Matter Annihilation with the IceCube Upgrade</a></div></td>
-<td>R. Abbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.06600">2605.06600</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05312.html">Monochromatic neutrinos from scotogenic dark matter</a></div></td>
-<td>Ricardo Cepedello et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05312">2605.05312</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05444.html">Searches for Binary Mergers with Sub-solar Mass Components in Data from the First Part of LIGO--Virgo--KAGRA&#x27;s Fourth Observing Run</a></div><div class="paper-tags"><a href="tag/gpc-30d.html">gpc</a></div></td>
-<td>The LIGO Scientific Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05444">2605.05444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2507.18236.html">Search for the lepton-flavor-violating $τ^{-} \rightarrow e^{\mp} \ell^{\pm} \ell^{\mp}$ decays at Belle II</a></div></td>
-<td>Belle II Collaboration et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18236">2507.18236</a></td>
-</tr>
 <tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/extrusion-30d.html">extrusion</a></div></td>
@@ -67,18 +43,6 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03982.html">Magneto Transport and Spin Reorientation in Pt Co78Ho22 Heterostructures Near the Sublattice Compensation Temperature</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Rajeev Nepal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03982">2605.03982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2603.28906.html">Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Pablo de los Riscos et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28906">2603.28906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.02128.html">Liberata -- Graph Scientometrics for a Share Based System of Academic Publishing</a></div></td>
-<td>Han Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.02128">2605.02128</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -193,5 +157,41 @@ _Updated 2026-05-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2406.02522.html">Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
 <td>Nisha Rokaya et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02522">2406.02522</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2509.12571.html">Anomalous statistics in the Langevin equation with fluctuating diffusivity: from Brownian yet non-Gaussian diffusion to anomalous diffusion and ergodicity breaking</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Takuma Akimoto et al.</td>
+<td><a href="http://arxiv.org/abs/2509.12571">2509.12571</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27348.html">Propulsion and far-field hydrodynamics of linked-sphere microswimmers with viscoelastic deformability</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Vimal Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27348">2604.27348</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27500.html">From Elastic to Viscoelastic: An EEMD-Enhanced Pulse Transit Time Model for Robust Blood Pressure Estimation</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Boyuan Gu et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27500">2604.27500</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27558.html">Computation of frequency- and time-domain Jacobians in optical tomography with Monte Carlo simulations</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Pauliina Hirvi et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27558">2604.27558</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27722.html">Guided elastic waves for soft elastomer characterization: an alternative to conventional rheometry</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Samuel Croquette et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27722">2604.27722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-04-30</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27726.html">Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Ilya Olevsko et al.</td>
+<td><a href="http://arxiv.org/abs/2604.27726">2604.27726</a></td>
 </tr>
 </tbody></table>

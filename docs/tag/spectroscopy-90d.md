@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>spectroscopy — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -47,12 +47,6 @@ current_window: 90d
 </tr>
 <tr class="paper">
 <td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06706.html">Directional Andreev-Reflection Signatures of Inter-Orbital Pairing in Sr$_2$RuO$_4$</a></div></td>
-<td>G. Csire et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06706">2604.06706</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07203.html">Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="catalyst-design-90d.html">catalyst-design</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
 <td>João V. T. Neves et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07203">2604.07203</a></td>
@@ -74,12 +68,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>I. Agnes Felicia Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13403.html">Evidence for Neutrino Emission from X-Ray-bright Active Galactic Nuclei with IceCube</a></div></td>
-<td>R. Abbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13403">2510.13403</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-23</td>
@@ -104,12 +92,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16347.html">Tuning Cu/Diamond Interfacial Thermal Conductance via Nitrogen-Termination Engineering</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>Guang Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16347">2603.16347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16466.html">Diversity of Type Ia supernova optical light curves among different spectroscopic subclasses</a></div></td>
-<td>R. B. Koshi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16466">2603.16466</a></td>
 </tr>
 <tr class="paper">
 <td>2026-03-16</td>
@@ -158,12 +140,6 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.03737.html">Ultralow and Tunable Thermal Conductivity of Parylene C for Thermal Insulation in Advanced Packaging</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
 <td>Yicheng Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2603.03737">2603.03737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08881.html">Commissioning the Resonance Ionization Spectroscopy Experiment at FRIB</a></div></td>
-<td>A. J. Brinson et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08881">2511.08881</a></td>
 </tr>
 <tr class="paper">
 <td>2026-02-17</td>

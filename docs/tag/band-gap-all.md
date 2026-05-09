@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>band-gap — all</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <a href="band-gap-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -124,12 +124,6 @@ current_window: all
 <td><a href="http://arxiv.org/abs/2410.16067">2410.16067</a></td>
 </tr>
 <tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08428.html">Phononic materials with effectively scale-separated hierarchical features using interpretable machine learning</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a></div></td>
-<td>Mary V. Bastawrous et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08428">2408.08428</a></td>
-</tr>
-<tr class="paper">
 <td>2024-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.07586.html">Plasmonic Particle Integration into Near-Infrared Photodetectors and Photoactivated Gas Sensors: Towards Sustainable Next-Generation Ubiquitous Sensing</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
 <td>Hendrik Schlicke et al.</td>
@@ -146,11 +140,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07564.html">Growth of GeO2 on R-plane and C-plane Sapphires by MOCVD</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Imteaz Rahaman et al.</td>
 <td><a href="http://arxiv.org/abs/2405.07564">2405.07564</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2401.07978.html">Noncollinear electric dipoles in a polar, chiral phase of CsSnBr$_3$ perovskite</a></div></td>
-<td>Douglas H. Fabini et al.</td>
-<td><a href="http://arxiv.org/abs/2401.07978">2401.07978</a></td>
 </tr>
 </tbody></table>

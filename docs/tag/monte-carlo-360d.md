@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -244,12 +244,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2602.09120">2602.09120</a></td>
 </tr>
 <tr class="paper">
-<td>2026-02-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02321.html">Surface Interactions in Photon Monte Carlo Simulations</a></div></td>
-<td>J. R. Peterson et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02321">2602.02321</a></td>
-</tr>
-<tr class="paper">
 <td>2026-01-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.17487.html">Non-monotonic roughness evolution in film growth on weakly interacting substrates</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Dmitry Lapkin et al.</td>
@@ -286,12 +280,6 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2601.02654">2601.02654</a></td>
 </tr>
 <tr class="paper">
-<td>2026-01-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.00531.html">Fair Policy Learning under Bipartite Network Interference: Learning Fair and Cost-Effective Environmental Policies</a></div></td>
-<td>Raphael C. Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2601.00531">2601.00531</a></td>
-</tr>
-<tr class="paper">
 <td>2025-12-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.17443.html">Cooling mechanism controls motility-induced phase separation in inertial active liquids</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Manuel Mayo et al.</td>
@@ -308,12 +296,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18070.html">Configurational entropy of randomly double-folding ring polymers</a></div></td>
 <td>Pieter H. W. van der Hoek et al.</td>
 <td><a href="http://arxiv.org/abs/2512.18070">2512.18070</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16677.html">QMCkl: A Kernel Library for Quantum Monte Carlo Applications</a></div></td>
-<td>Emiel Slootman et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16677">2512.16677</a></td>
 </tr>
 <tr class="paper">
 <td>2025-12-17</td>
@@ -416,12 +398,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05748.html">Cluster percolation in the three-dimensional $\pm J$ random-bond Ising model</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Lambert Münster et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05748">2511.05748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05602.html">Gas Mixture Diffusion and Distribution in the Porous ZIF-90 Framework</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Ashok Yacham et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05602">2511.05602</a></td>
 </tr>
 <tr class="paper">
 <td>2025-11-05</td>
@@ -614,12 +590,6 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04674.html">Diffusion in a $d$-dimensional rough potential</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Jacob Jeffries et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04674">2508.04674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05046.html">Observation of Cosmic-Ray Anisotropy in the Southern Hemisphere with 12 yr of Data Collected by the IceCube Neutrino Observatory</a></div></td>
-<td>R. Abbasi et al.</td>
-<td><a href="http://arxiv.org/abs/2412.05046">2412.05046</a></td>
 </tr>
 <tr class="paper">
 <td>2025-07-26</td>

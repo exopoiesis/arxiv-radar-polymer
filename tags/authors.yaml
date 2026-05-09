@@ -8,50 +8,43 @@
 # polymer modeling, generative polymer design.
 
 authors:
-
-  # --- Polymer informatics / ML ---
-
-  - name_match: ["Ramprasad", "Rampi Ramprasad"]
-    note: "polymer informatics, Polymer Genome"
-
-  - name_match: ["Audus", "Debra Audus"]
-    note: "polymer ML, PoLyInfo"
-
-  - name_match: ["Kim, C", "Chiho Kim"]
-    note: "polymer property prediction"
-
-  - name_match: ["Patra, T", "Tarak Patra"]
-    note: "polymer ML, materials informatics"
-
-  - name_match: ["Brinson", "L. Catherine Brinson"]
-    note: "polymer composites, ML for materials"
-
-  # --- Polymer MD / coarse-graining ---
-
-  - name_match: ["Müller-Plathe", "Florian Müller-Plathe", "Mueller-Plathe"]
-    note: "polymer MD, coarse-graining"
-
-  - name_match: ["Kremer, K", "Kurt Kremer"]
-    note: "polymer simulation, soft matter"
-
-  - name_match: ["de Pablo", "Juan de Pablo"]
-    note: "polymer MD, free energy"
-
-  - name_match: ["Truskett", "Thomas Truskett"]
-    note: "polymer thermodynamics"
-
-  - name_match: ["Schweizer, K", "Kenneth Schweizer"]
-    note: "polymer dynamics, glass transition"
-
-  # --- Soft matter theory ---
-
-  - name_match: ["Cates, M", "Michael Cates"]
-    note: "soft matter, active matter"
-
-  - name_match: ["Doi, M", "Masao Doi"]
-    note: "polymer dynamics, hydrodynamics"
-
-  # --- Generative / inverse design ---
-
-  - name_match: ["Olsen, B", "Bradley Olsen"]
-    note: "polymer SMILES, BigSMILES"
+- name_match:
+  - Rampi Ramprasad
+  note: polymer informatics, Polymer Genome
+- name_match:
+  - Debra Audus
+  note: polymer ML, PoLyInfo
+- name_match:
+  - Chiho Kim
+  note: polymer property prediction
+- name_match:
+  - Tarak Patra
+  note: polymer ML, materials informatics
+- name_match:
+  - L. Catherine Brinson
+  note: polymer composites, ML for materials
+- name_match:
+  - Florian Müller-Plathe
+  note: polymer MD, coarse-graining
+- name_match:
+  - Kurt Kremer
+  note: polymer simulation, soft matter
+- name_match:
+  - de Pablo
+  - Juan de Pablo
+  note: polymer MD, free energy
+- name_match:
+  - Thomas Truskett
+  note: polymer thermodynamics
+- name_match:
+  - Kenneth Schweizer
+  note: polymer dynamics, glass transition
+- name_match:
+  - Michael Cates
+  note: soft matter, active matter
+- name_match:
+  - Masao Doi
+  note: polymer dynamics, hydrodynamics
+- name_match:
+  - Bradley Olsen
+  note: polymer SMILES, BigSMILES
