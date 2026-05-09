@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
