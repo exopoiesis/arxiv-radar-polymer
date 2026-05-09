@@ -75,6 +75,10 @@
   count: 2
   total: 7
   group: morphology
+- name: conducting-polymers
+  count: 2
+  total: 26
+  group: applications
 - name: dielectric-properties
   count: 2
   total: 18
@@ -95,10 +99,6 @@
   count: 2
   total: 53
   group: sustainability
-- name: conducting-polymers
-  count: 1
-  total: 25
-  group: applications
 - name: enhanced-sampling
   count: 1
   total: 19

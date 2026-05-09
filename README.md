@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3290 papers across 29 months.
+**Total corpus:** 3291 papers across 29 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -402,8 +402,10 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-06**|**On Electropolymerized Fingerprints and their Potential for Identification and Encryption**|Antoine Baron et al.|[2605.04599](http://arxiv.org/abs/2605.04599)|[md](abstracts/2605.04599.md)|
 |**2026-05-05**|**Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow**|Nasrollah Hajaliakbari et al.|[2605.03728](http://arxiv.org/abs/2605.03728)|[md](abstracts/2605.03728.md)|
 |**2026-05-03**|**Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs**|Debanik Bhattacharjee et al.|[2605.01820](http://arxiv.org/abs/2605.01820)|[md](abstracts/2605.01820.md)|
+|**2026-05-02**|**Loop expansion in polymer field theory: application to phase separation**|Kiyoharu Kawana et al.|[2605.01261](http://arxiv.org/abs/2605.01261)|[md](abstracts/2605.01261.md)|
 |**2026-04-30**|**Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures**|Ilya Olevsko et al.|[2604.27726](http://arxiv.org/abs/2604.27726)|[md](abstracts/2604.27726.md)|
 |**2026-04-29**|**Linear poroelastic response of thin permeable gel films**|Caroline Kopecz-Muller et al.|[2604.26464](http://arxiv.org/abs/2604.26464)|[md](abstracts/2604.26464.md)|
 |**2026-04-29**|**Confinement-Connectivity Coupling Enables High-Efficiency Piezoionic Transduction**|Tofayel Ahammad Ovee et al.|[2604.27240](http://arxiv.org/abs/2604.27240)|[md](abstracts/2604.27240.md)|
@@ -450,8 +452,6 @@
 |**2026-02-13**|**Eco-Friendly Supercapacitor Architecture Based on Cotton Textile Waste and Biopolymer-Based Electrodes**|Luis Torres Quispe et al.|[2602.13432](http://arxiv.org/abs/2602.13432)|[md](abstracts/2602.13432.md)|
 |**2026-02-09**|**Boosting high-current alkaline water electrolysis and carbon dioxide reduction with novel CuNiFe-based anodes**|Nusrat Rashid et al.|[2602.08183](http://arxiv.org/abs/2602.08183)|[md](abstracts/2602.08183.md)|
 |**2026-02-09**|**Constitutive flow law for hydrogel granular rafts near the brittle-ductile transition**|Yuto Sasaki et al.|[2602.08217](http://arxiv.org/abs/2602.08217)|[md](abstracts/2602.08217.md)|
-|**2026-02-08**|**Brillouin Spectroscopy Reveals Mechanical Properties Beyond Hydration**|Zhe Wang et al.|[2602.08150](http://arxiv.org/abs/2602.08150)|[md](abstracts/2602.08150.md)|
-|**2026-01-29**|**Time-Resolved Multi-Spectral X-ray Computed Tomography of Cryoprotectant Diffusion Into Biomimetic Material**|Alaa M. Ali et al.|[2602.07003](http://arxiv.org/abs/2602.07003)|[md](abstracts/2602.07003.md)|
 
 <p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
@@ -459,6 +459,7 @@
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-05-06**|**On Electropolymerized Fingerprints and their Potential for Identification and Encryption**|Antoine Baron et al.|[2605.04599](http://arxiv.org/abs/2605.04599)|[md](abstracts/2605.04599.md)|
 |**2026-05-02**|**Loop expansion in polymer field theory: application to phase separation**|Kiyoharu Kawana et al.|[2605.01261](http://arxiv.org/abs/2605.01261)|[md](abstracts/2605.01261.md)|
 |**2026-04-28**|**Universal material basis for biocompatible printed electrolytes in Organic Electrochemical Transistors**|Moritz Flemming et al.|[2604.25830](http://arxiv.org/abs/2604.25830)|[md](abstracts/2604.25830.md)|
 |**2026-04-27**|**An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly**|Tenglong Luo et al.|[2604.23945](http://arxiv.org/abs/2604.23945)|[md](abstracts/2604.23945.md)|
@@ -508,7 +509,6 @@
 |**2025-08-07**|**A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders**|Minas Kouroublakis et al.|[2508.05217](http://arxiv.org/abs/2508.05217)|[md](abstracts/2508.05217.md)|
 |**2025-08-03**|**Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data**|Renato Colle et al.|[2508.01757](http://arxiv.org/abs/2508.01757)|[md](abstracts/2508.01757.md)|
 |**2025-08-02**|**Electrostatic Depletion Force in Complex Coacervates**|Zongpei Wu et al.|[2508.01328](http://arxiv.org/abs/2508.01328)|[md](abstracts/2508.01328.md)|
-|**2025-08-01**|**Organic Electrochemical Neurons: Nonlinear Tools for Complex Dynamics**|Gonzalo Rivera-Sierra et al.|[2508.00663](http://arxiv.org/abs/2508.00663)|[md](abstracts/2508.00663.md)|
 
 <p align=right>(<a href=#updated-on-20260509>back to top</a>)</p>
 
