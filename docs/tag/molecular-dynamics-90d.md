@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="mlff-90d.html">mlff</a></div></td>
+<td>Zheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01261.html">Loop expansion in polymer field theory: application to phase separation</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Kiyoharu Kawana et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13337.html">StrAPS: Structural Angular Power Spectrum for Discovering Novel Morphologies in Block Copolymers</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Dominic M. Robe et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13337">2602.13337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08089.html">From Connectivity to Rupture: A Coarse-Grained Stochastic Network Dynamics Approach to Polymer Network Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Shaswat Mohanty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08089">2602.08089</a></td>
 </tr>
 </tbody></table>

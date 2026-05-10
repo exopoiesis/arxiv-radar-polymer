@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Zheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.02679.html">Computational Methods towards Ultrastable Glasses</a></div></td>
 <td>Fabio Leoni et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09218.html">A parameterised equation of state, glass transition and jamming of the hard sphere system</a></div></td>
 <td>Hongqin Liu</td>
 <td><a href="http://arxiv.org/abs/2602.09218">2602.09218</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13636.html">Break-down of the relationship between α-relaxation and equilibration in hydrostatically compressed metallic glasses</a></div></td>
-<td>Antoine Cornet et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13636">2409.13636</a></td>
 </tr>
 </tbody></table>

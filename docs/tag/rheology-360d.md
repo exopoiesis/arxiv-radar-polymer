@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04937.html">Local elastic perturbation of colloidal suspensions near the colloidal glass transition</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Piotr Habdas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04937">2605.04937</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-30</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27722.html">Guided elastic waves for soft elastomer characterization: an alternative to conventional rheometry</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Samuel Croquette et al.</td>
@@ -722,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15349.html">Simulation of Micro-Void Development within Large Scale Additively Manufactured Polymer Composite Deposition Beads</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
 <td>Aigbe E. Awenlimobor</td>
 <td><a href="http://arxiv.org/abs/2501.15349">2501.15349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05089.html">Viscoelastic Worthington jets &amp; droplets produced by bursting bubbles</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Ayush K. Dixit et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05089">2408.05089</a></td>
 </tr>
 </tbody></table>

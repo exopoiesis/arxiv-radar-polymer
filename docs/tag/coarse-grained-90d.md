@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05448.html">Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks</a></div></td>
+<td>Charlotte Myin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05448">2605.05448</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03404.html">Sparkling bubbles in chiral active fluids</a></div></td>
 <td>Alessandro Petrini et al.</td>
@@ -374,11 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08910.html">Structural coarse-graining enables noise-robust functional connectivity and reveals hidden inter-subject variability</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Izaro Fernandez-Iriondo et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08910">2602.08910</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08089.html">From Connectivity to Rupture: A Coarse-Grained Stochastic Network Dynamics Approach to Polymer Network Mechanics</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shaswat Mohanty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08089">2602.08089</a></td>
 </tr>
 </tbody></table>

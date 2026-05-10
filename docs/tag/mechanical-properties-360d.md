@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
+<td>Prince Romeo Mensah</td>
+<td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04937.html">Local elastic perturbation of colloidal suspensions near the colloidal glass transition</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
+<td>Piotr Habdas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04937">2605.04937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04314.html">Blow-Up Criteria and Weak--Strong Uniqueness for Compressible Fluid--Viscoelastic Shell Interactions</a></div></td>
+<td>Pierre Marie Ngougoue Ngougoue et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04314">2605.04314</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
@@ -2768,11 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21509.html">Curvature-Guided Mechanics and Design of Spinodal and Shell-Based Architected Materials</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Somayajulu Dhulipala et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21509">2505.21509</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05089.html">Viscoelastic Worthington jets &amp; droplets produced by bursting bubbles</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Ayush K. Dixit et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05089">2408.05089</a></td>
 </tr>
 </tbody></table>

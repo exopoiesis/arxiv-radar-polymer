@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">134 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
+<td>Prince Romeo Mensah</td>
+<td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04937.html">Local elastic perturbation of colloidal suspensions near the colloidal glass transition</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Piotr Habdas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04937">2605.04937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04314.html">Blow-Up Criteria and Weak--Strong Uniqueness for Compressible Fluid--Viscoelastic Shell Interactions</a></div></td>
+<td>Pierre Marie Ngougoue Ngougoue et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04314">2605.04314</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
@@ -800,17 +818,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08645.html">Fully coupled implicit finite-volume algorithm for viscoelastic interfacial flows</a></div></td>
 <td>Ayman Mazloum et al.</td>
 <td><a href="http://arxiv.org/abs/2602.08645">2602.08645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08089.html">From Connectivity to Rupture: A Coarse-Grained Stochastic Network Dynamics Approach to Polymer Network Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Shaswat Mohanty et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08089">2602.08089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08150.html">Brillouin Spectroscopy Reveals Mechanical Properties Beyond Hydration</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Zhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.08150">2602.08150</a></td>
 </tr>
 </tbody></table>

@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-09._
+_Updated 2026-05-10._
 
-**3291** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3299** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,52 @@ _Updated 2026-05-09._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06303.html">Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
+<td>Zakaria Elabid et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06303">2605.06303</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Prince Romeo Mensah</td>
+<td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04599.html">On Electropolymerized Fingerprints and their Potential for Identification and Encryption</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a></div></td>
 <td>Antoine Baron et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04599">2605.04599</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04937.html">Local elastic perturbation of colloidal suspensions near the colloidal glass transition</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Piotr Habdas et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04937">2605.04937</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/mlff-30d.html">mlff</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Zheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05364.html">Structural effects of liquid infiltration of 3Y-Zirconia with Sc, Mg and Y</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Asbjoern Slagtern Fjellvaag et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05364">2605.05364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05374.html">An Open-Source Flow for Single-Phase, Edge-Triggered to Two-Phase, Non-Overlapping Clocking Conversion</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Paolo Pedroso et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05374">2605.05374</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.05448.html">Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Charlotte Myin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05448">2605.05448</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -49,6 +91,12 @@ _Updated 2026-05-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.03982.html">Magneto Transport and Spin Reorientation in Pt Co78Ho22 Heterostructures Near the Sublattice Compensation Temperature</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Rajeev Nepal et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03982">2605.03982</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.04314.html">Blow-Up Criteria and Weak--Strong Uniqueness for Compressible Fluid--Viscoelastic Shell Interactions</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Pierre Marie Ngougoue Ngougoue et al.</td>
+<td><a href="http://arxiv.org/abs/2605.04314">2605.04314</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -145,53 +193,5 @@ _Updated 2026-05-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00958.html">The Mesoscopic Partition Function:A Combined Spatial and Phase-Space Cell Structure</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Bob Osano</td>
 <td><a href="http://arxiv.org/abs/2605.00958">2605.00958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01031.html">Influence of Coherent Elastic Strain on Phase Separation in BCC Nb-V Alloys</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Siya Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01031">2605.01031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.01087.html">Non-Equilibrium Thermodynamic Extremal Principles During Filament Formation in ECM Memristors</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Justin Brutger et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01087">2605.01087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2406.02522.html">Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Nisha Rokaya et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02522">2406.02522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2509.12571.html">Anomalous statistics in the Langevin equation with fluctuating diffusivity: from Brownian yet non-Gaussian diffusion to anomalous diffusion and ergodicity breaking</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Takuma Akimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12571">2509.12571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27348.html">Propulsion and far-field hydrodynamics of linked-sphere microswimmers with viscoelastic deformability</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Vimal Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27348">2604.27348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27500.html">From Elastic to Viscoelastic: An EEMD-Enhanced Pulse Transit Time Model for Robust Blood Pressure Estimation</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Boyuan Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27500">2604.27500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27558.html">Computation of frequency- and time-domain Jacobians in optical tomography with Monte Carlo simulations</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Pauliina Hirvi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27558">2604.27558</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2604.27722.html">Guided elastic waves for soft elastomer characterization: an alternative to conventional rheometry</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Samuel Croquette et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27722">2604.27722</a></td>
 </tr>
 </tbody></table>

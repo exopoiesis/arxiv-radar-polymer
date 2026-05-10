@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="mlff-360d.html">mlff</a></div></td>
+<td>Zheng Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01261.html">Loop expansion in polymer field theory: application to phase separation</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Kiyoharu Kawana et al.</td>
@@ -824,11 +830,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10400.html">Computer simulations show that liquid-liquid phase separation enhances self-assembly</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Layne B. Frechette et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10400">2505.10400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09480.html">Glassy dynamics and a growing structural length scale in supercooled nanoparticles</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Weikai Qi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09480">2505.09480</a></td>
 </tr>
 </tbody></table>

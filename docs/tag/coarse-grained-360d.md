@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05448.html">Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks</a></div></td>
+<td>Charlotte Myin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.05448">2605.05448</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03404.html">Sparkling bubbles in chiral active fluids</a></div></td>
 <td>Alessandro Petrini et al.</td>
@@ -1034,11 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10400.html">Computer simulations show that liquid-liquid phase separation enhances self-assembly</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Layne B. Frechette et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10400">2505.10400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06708.html">Experimental realization of an analog of entanglement between two Brownian particles</a></div></td>
-<td>Lakshmanan Theerthagiri et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06708">2408.06708</a></td>
 </tr>
 </tbody></table>

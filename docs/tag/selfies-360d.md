@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>selfies — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <strong>360d</strong> <a href="selfies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06303.html">Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Zakaria Elabid et al.</td>
+<td><a href="http://arxiv.org/abs/2605.06303">2605.06303</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19373.html">Doxing via the Lens: Revealing Location-related Privacy Leakage on Multi-modal Large Reasoning Models</a></div></td>

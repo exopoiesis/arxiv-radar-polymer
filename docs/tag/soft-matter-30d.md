@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>soft-matter — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <strong>30d</strong> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08016.html">Approximating Continuous Motions of Geometric Constraint Systems</a></div></td>
 <td>Matthias Adrian-Himmelmann</td>
 <td><a href="http://arxiv.org/abs/2602.08016">2602.08016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08249.html">3D microprinting anisotropic and deformable active matter -- A perspective</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Mengshi Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08249">2604.08249</a></td>
 </tr>
 </tbody></table>
