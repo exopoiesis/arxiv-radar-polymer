@@ -821,5 +821,63 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-05-07"
+ },
+ "2605.07235": {
+  "abstract": "Galaxy clusters contain a hot, diffuse, and weakly magnetized plasma known as the intracluster medium (ICM). In this environment, how thermal conduction influences plasma dynamics and the conditions under which it operates efficiently remain open questions in cluster physics. Systems in which active galactic nuclei (AGN) jets interact with cold fronts produced by cluster mergers provide a unique setting to examine the interplay between conduction, jet dynamics, and ordered magnetic fields. To interpret the detailed structures revealed by recent observations, it is therefore important, as a first theoretical step, to quantify how thermal conduction modifies AGN jet morphology and the surrounding magnetic-field configuration. We perform two-dimensional magnetohydrodynamic (MHD) simulations of an AGN jet in an ICM environment, incorporating anisotropic thermal conduction with varying efficiency. The simulations show that thermal conduction transports heat from the jet head backward along magnetic field lines into the inner cocoon. This process increases the inner cocoon pressure, enhancing jet collimation by a factor of $\\sim 4$ compared to models without conduction. This stronger collimation stretches the magnetic fields along the cold-front surface, resulting in a maximum field strength up to a factor of $\\sim 1.5$ larger. Jet collimation increases as the conduction efficiency increases, which is interpreted as a conductive collimation mechanism. These results suggest that anisotropic thermal conduction can operate effectively on jet scales in galaxy clusters, and that accounting for conduction may be important when interpreting jet morphology and magnetic field structure in merging cluster environments.",
+  "authors": [
+   "Nana Matsuno",
+   "Takaaki Yokoyama",
+   "Mami Machida"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.CO"
+  ],
+  "comment": null,
+  "first_author": "Nana Matsuno",
+  "pdf_url": "http://arxiv.org/pdf/2605.07235",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-05-08",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Anisotropic Thermal Conduction as a Driver of Jet Collimation and Magnetic Field Amplification on Cold Fronts",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-08"
+ },
+ "2605.07718": {
+  "abstract": "The efficiency of organic photovoltaics (OPV) has been steadily increasing over the past decade until reaching the 20\\% milestone. Multijunction architectures provide a promising approach to further enhance performance. Here we explore the potential of a spectral splitting geometry, referred to as RAINBOW, in which subcells are placed side-by-side and externally connected, thus minimizing the fabrication and current matching challenges found in vertically stacked configurations. First, we tested 7 different binaries with bandgaps spanning from 1.98 to 1.16 eV. The systems with the widest and narrowest gaps suffered greater losses and so we evaluate if ternary mixing could help to overcome these limitations by evaluating 5 different ternaries. Generally speaking, ternary mixing tunes the Voc, and when morphology and energy levels are well aligned, the overall PCE can be boosted in the spectral region where the subcell should absorb, as is the case for PTB7-Th:COTIC-4F:BTP-eC9 when operating as red subcell. Device simulations help to identify the 2-junction and 3-junction configurations with highest PCEs, all of which include ternaries. We fabricate proof-of-concept RAINBOW devices using scalable methods in which the subcells are deposited by meniscus-guided blade coating. The efficiency improves from 12.9\\% in single-junction devices to 15.9\\% in 2-junction devices (16.4\\% in simulations) and 17.3\\% in 3-junction devices (17.7\\% in simulations), confirming the viability of the RAINBOW architecture for scalable, high-efficiency OPVs. Finally, detailed balance analysis indicates that the potential of this geometry can be very high provided that high efficiency wide bandgap (2-2.5eV) materials become available.",
+  "authors": [
+   "Francesc Xavier Capella-Guardià",
+   "Jolanda Simone Muüller",
+   "Muhammad Ahsan Saeed",
+   "Xabier Rodríguez-Martínez",
+   "Miquel Casademont-Viñas",
+   "Albert Harillo-Baños",
+   "Jaime Martín",
+   "Jenny Nelson",
+   "Alejandro R. Goñi",
+   "Mariano Campoy-Quiles"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "28 pages, 8 figures, 3 tables",
+  "first_author": "Francesc Xavier Capella-Guardià",
+  "pdf_url": "http://arxiv.org/pdf/2605.07718",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-07",
+  "tags": [
+   "band-gap",
+   "organic-photovoltaics",
+   "polymer-morphology"
+  ],
+  "title": "Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-07"
  }
 }

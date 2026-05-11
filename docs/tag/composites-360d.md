@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,11 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10893.html">Quantum Statistical Mechanics of Electronically Open Molecules: Reduced Density Operators</a></div></td>
 <td>Jacob Pedersen et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10893">2505.10893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15349.html">Simulation of Micro-Void Development within Large Scale Additively Manufactured Polymer Composite Deposition Beads</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Aigbe E. Awenlimobor</td>
-<td><a href="http://arxiv.org/abs/2501.15349">2501.15349</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07235.html">Anisotropic Thermal Conduction as a Driver of Jet Collimation and Magnetic Field Amplification on Cold Fronts</a></div></td>
+<td>Nana Matsuno et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07235">2605.07235</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07718.html">Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="organic-photovoltaics-360d.html">organic-photovoltaics</a></div></td>
+<td>Francesc Xavier Capella-Guardià et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07718">2605.07718</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03728.html">Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Nasrollah Hajaliakbari et al.</td>
@@ -1112,17 +1124,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19830.html">Statistical physics of active matter, cell division and cell aggregation</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Jean-François Joanny et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19830">2505.19830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15349.html">Simulation of Micro-Void Development within Large Scale Additively Manufactured Polymer Composite Deposition Beads</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="qspr-360d.html">qspr</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Aigbe E. Awenlimobor</td>
-<td><a href="http://arxiv.org/abs/2501.15349">2501.15349</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10342.html">Tuning the morphology of aerosolised cellulose nanocrystals via controlled aggregation</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Daniel Warnes et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10342">2505.10342</a></td>
 </tr>
 </tbody></table>

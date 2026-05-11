@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">322 papers</span>
+  <span class="paper-count">319 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1928,23 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11188.html">Chemically active droplets in crowded environments</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Jacques Fries et al.</td>
 <td><a href="http://arxiv.org/abs/2505.11188">2505.11188</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08673.html">Electrokinetic nanofluidic sensing of DNA nanostar condensate</a></div></td>
-<td>Kuang-Hua Chou et al.</td>
-<td><a href="http://arxiv.org/abs/2412.08673">2412.08673</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10400.html">Computer simulations show that liquid-liquid phase separation enhances self-assembly</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Layne B. Frechette et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10400">2505.10400</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21509.html">Curvature-Guided Mechanics and Design of Spinodal and Shell-Based Architected Materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Somayajulu Dhulipala et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21509">2505.21509</a></td>
 </tr>
 </tbody></table>

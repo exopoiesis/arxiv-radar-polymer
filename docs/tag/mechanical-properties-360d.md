@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">462 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,23 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10958.html">Measurement of viscoelastic properties of a liquid using an immersed rotating body of a general shape subjected to oscillatory shear</a></div></td>
 <td>Hye Jin Ahn et al.</td>
 <td><a href="http://arxiv.org/abs/2505.10958">2505.10958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.06185.html">Analysis of an Inelastic Contact Problem for the Damped Wave Equation</a></div></td>
-<td>Boris Muha et al.</td>
-<td><a href="http://arxiv.org/abs/2412.06185">2412.06185</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10032.html">Linear theory of viscoelasticity in a generalized hydrodynamic framework</a></div></td>
-<td>Andreas M. Menzel</td>
-<td><a href="http://arxiv.org/abs/2505.10032">2505.10032</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21509.html">Curvature-Guided Mechanics and Design of Spinodal and Shell-Based Architected Materials</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Somayajulu Dhulipala et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21509">2505.21509</a></td>
 </tr>
 </tbody></table>

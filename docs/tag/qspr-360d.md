@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qspr — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="qspr-7d.html">7d</a> <a href="qspr-30d.html">30d</a> <a href="qspr-90d.html">90d</a> <strong>360d</strong> <a href="qspr-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Parvez Khana et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.15349.html">Simulation of Micro-Void Development within Large Scale Additively Manufactured Polymer Composite Deposition Beads</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Aigbe E. Awenlimobor</td>
-<td><a href="http://arxiv.org/abs/2501.15349">2501.15349</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-10._
+_Updated 2026-05-11._
 
-**3299** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3301** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.07235.html">Anisotropic Thermal Conduction as a Driver of Jet Collimation and Magnetic Field Amplification on Cold Fronts</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Nana Matsuno et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07235">2605.07235</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06303.html">Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
@@ -25,6 +31,12 @@ _Updated 2026-05-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Prince Romeo Mensah</td>
 <td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.07718.html">Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells</a></div><div class="paper-tags"><a href="tag/band-gap-30d.html">band-gap</a> · <a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Francesc Xavier Capella-Guardià et al.</td>
+<td><a href="http://arxiv.org/abs/2605.07718">2605.07718</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-06</td>
@@ -181,17 +193,5 @@ _Updated 2026-05-10._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00381.html">Generalized First Law and Smarr Formula: Beyond Additivity and Extensivity</a></div></td>
 <td>Usman Zafar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.00381">2605.00381</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Kyra H. M. Klos et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00732">2605.00732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.00958.html">The Mesoscopic Partition Function:A Combined Spatial and Phase-Space Cell Structure</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Bob Osano</td>
-<td><a href="http://arxiv.org/abs/2605.00958">2605.00958</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>generative-model — 30d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <strong>30d</strong> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14241.html">Polyformer: a generative framework for thermodynamic modeling of polymeric molecules</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Alessio Valentini et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14241">2604.14241</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09769.html">Differentiable free energy surface: a variational approach to directly observing rare events using generative deep-learning models</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Shuo-Hui Li et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09769">2604.09769</a></td>
 </tr>
 </tbody></table>
