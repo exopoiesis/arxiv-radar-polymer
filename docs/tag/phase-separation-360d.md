@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09743.html">Equilibrium and non-equilibrium properties of active matter systems</a></div></td>
+<td>Mintu Karmakar</td>
+<td><a href="http://arxiv.org/abs/2605.09743">2605.09743</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05364.html">Structural effects of liquid infiltration of 3Y-Zirconia with Sc, Mg and Y</a></div></td>
 <td>Asbjoern Slagtern Fjellvaag et al.</td>
@@ -1922,11 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12067.html">Preventing clustering of active particles in microchannels</a></div></td>
 <td>Juan Pablo Carrillo-Mora et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12067">2505.12067</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11188.html">Chemically active droplets in crowded environments</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Jacques Fries et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11188">2505.11188</a></td>
 </tr>
 </tbody></table>

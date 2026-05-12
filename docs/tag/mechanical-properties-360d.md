@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10301.html">Dripping-onto-droplet capillary breakup</a></div></td>
+<td>Ricardo El Khoury et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10301">2605.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08906.html">Viscoelastic control of acoustic particle migration and trapping in microchannels</a></div></td>
+<td>T. Sujith et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08906">2605.08906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a> · <a href="glass-transition-360d.html">glass-transition</a> · <a href="polymerization-360d.html">polymerization</a> · <a href="rheology-360d.html">rheology</a></div></td>
+<td>Mohammad Tanver Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
 <td>Prince Romeo Mensah</td>
@@ -2750,23 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01994.html">Re-experiment Smart: a Novel Method to Enhance Data-driven Prediction of Mechanical Properties of Epoxy Polymers</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Wanshan Cui et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01994">2506.01994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10906.html">A Non-Markovian Route to Coherence in Heterogeneous Diffusive Systems</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Aranyak Sarkar</td>
-<td><a href="http://arxiv.org/abs/2505.10906">2505.10906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10943.html">Universal scaling of segment fluctuations in polymer and chromatin dynamics</a></div></td>
-<td>Kirill Polovnikov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10943">2505.10943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10958.html">Measurement of viscoelastic properties of a liquid using an immersed rotating body of a general shape subjected to oscillatory shear</a></div></td>
-<td>Hye Jin Ahn et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10958">2505.10958</a></td>
 </tr>
 </tbody></table>

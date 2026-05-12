@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymerization-90d.html">polymerization</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Mohammad Tanver Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Zheng Yu et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03488.html">Long-range spin glass in a field at zero temperature</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Maria Chiara Angelini et al.</td>
 <td><a href="http://arxiv.org/abs/2602.03488">2602.03488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10087.html">Theory for enzymatic degradation of semi-crystalline polymer particles</a></div><div class="paper-tags"><a href="crystallinity-90d.html">crystallinity</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>Michael Schindler et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10087">2602.10087</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09743.html">Equilibrium and non-equilibrium properties of active matter systems</a></div></td>
+<td>Mintu Karmakar</td>
+<td><a href="http://arxiv.org/abs/2605.09743">2605.09743</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05364.html">Structural effects of liquid infiltration of 3Y-Zirconia with Sc, Mg and Y</a></div></td>
 <td>Asbjoern Slagtern Fjellvaag et al.</td>
@@ -560,11 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11104.html">Reentrance in a Hamiltonian flocking model</a></div></td>
 <td>Letian Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.11104">2602.11104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09575.html">Amplitude-Phase Separation toward Optimal and Fast-Forwardable Simulation of Non-Unitary Dynamics</a></div></td>
-<td>Qitong Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09575">2602.09575</a></td>
 </tr>
 </tbody></table>

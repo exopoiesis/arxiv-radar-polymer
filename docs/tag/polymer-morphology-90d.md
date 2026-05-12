@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09371.html">From Angle of Repose to Heap Morphology: Full-Field Calibration of DEM for Granular Powders</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
+<td>Olivier Gaboriault et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09371">2605.09371</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07235.html">Anisotropic Thermal Conduction as a Driver of Jet Collimation and Magnetic Field Amplification on Cold Fronts</a></div></td>
 <td>Nana Matsuno et al.</td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07718.html">Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="organic-photovoltaics-90d.html">organic-photovoltaics</a></div></td>
 <td>Francesc Xavier Capella-Guardià et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07718">2605.07718</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08255.html">Can LLMs Predict Polymer Physics Just by Reading Synthesis and Processing Prose?</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Yuchu Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08255">2605.08255</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-05</td>
@@ -332,17 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13337.html">StrAPS: Structural Angular Power Spectrum for Discovering Novel Morphologies in Block Copolymers</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Dominic M. Robe et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13337">2602.13337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09737.html">How Geometry Tames Disorder in Lattice Fracture</a></div></td>
-<td>Matthaios Chouzouris et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09737">2602.09737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10353.html">Self-pinning mechanism for grain boundary stabilization</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Omar Hussein et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10353">2602.10353</a></td>
 </tr>
 </tbody></table>

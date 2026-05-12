@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12013.html">Variational quantum simulation of a nonadditive relaxation dynamics in a qubit coupled to a finite-temperature bath</a></div></td>
 <td>Lucas Q. Galvão et al.</td>
 <td><a href="http://arxiv.org/abs/2505.12013">2505.12013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.10893.html">Quantum Statistical Mechanics of Electronically Open Molecules: Reduced Density Operators</a></div></td>
-<td>Jacob Pedersen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.10893">2505.10893</a></td>
 </tr>
 </tbody></table>

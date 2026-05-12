@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-degradation — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <strong>90d</strong> <a href="polymer-degradation-360d.html">360d</a> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,17 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13535.html">Biocompatibility of Additively Manufactured Fe-AZ31 Biodegradable Composites for Craniofacial Implant Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="composites-90d.html">composites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Xue Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13535">2602.13535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.09557.html">Facade Inspection: Design, Prototyping, and Testing of a Hybrid Cable-Driven Parallel Robot</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>Ginna Marcela García-Rodríguez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.09557">2602.09557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10087.html">Theory for enzymatic degradation of semi-crystalline polymer particles</a></div><div class="paper-tags"><a href="crystallinity-90d.html">crystallinity</a> · <a href="glass-transition-90d.html">glass-transition</a></div></td>
-<td>Michael Schindler et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10087">2602.10087</a></td>
 </tr>
 </tbody></table>

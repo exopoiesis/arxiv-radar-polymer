@@ -879,5 +879,251 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-05-07"
+ },
+ "2605.08255": {
+  "abstract": "Can large language models predict physical and mechanical polymer properties simply by reading unstructured scientific prose? Polymer performance is rarely determined by chemical structure alone; identical nominal polymers can exhibit drastically different behaviors depending on their synthesis route, processing history, morphology, and testing conditions. Yet, state-of-the-art polymer property models typically rely on structure-only representations -- such as SMILES or molecular graphs -- which strip away this vital experimental context. In this work, we introduce \\textbf{PolyLM}, a natural-language-only, process- and condition-aware framework that predicts materials performance directly from full-text literature. By circumventing structural inputs entirely, PolyLM preserves the nuanced, unstructured descriptions of synthesis and processing reported by domain scientists. To train this framework, we curated an unprecedented, literature-scale dataset encompassing 185,000 scientific papers and over 276,400 unique polymer samples across 22 physical, mechanical, and thermal properties. We fine-tuned a massive 9-billion-parameter language model (Qwen3.5-9B) using Low-Rank Adaptation (LoRA) and task-level uncertainty weighting. Evaluated on 68,283 held-out observations, the model achieves remarkably high predictive accuracy, establishing new state-of-the-art benchmarks for complex properties. Across the 22 diverse targets, the model achieves a median $R^2$ of 0.74, with predictions for key thermal, mechanical, and physicochemical properties frequently surpassing an $R^2$ of 0.80. These results unequivocally demonstrate that natural language is a powerful, highly scalable interface for realistic materials performance prediction.",
+  "authors": [
+   "Yuchu Liu",
+   "Rui Zhu",
+   "Jingwei Xiong",
+   "Haixu Tang"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Yuchu Liu",
+  "pdf_url": "http://arxiv.org/pdf/2605.08255",
+  "primary_category": "cs.LG",
+  "published": "2026-05-07",
+  "tags": [
+   "benchmarking",
+   "polymer-morphology"
+  ],
+  "title": "Can LLMs Predict Polymer Physics Just by Reading Synthesis and Processing Prose?",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-07"
+ },
+ "2605.08502": {
+  "abstract": "We leverage recent advances in 3D-printing technology to design and fabricate a micro-ion trap with a spatially distinct loading zone for more efficient loading of ions from effusive thermal ovens. The design reduces the Mathieu-$q$ parameter in the loading zone by increasing the ion-electrode separation $r_0$, thereby potentially facilitating more effective laser cooling of hot ions. This circumvents the temporary thermal instability that arises when the rf potential is reduced during ion loading, a common practice to enable efficient laser cooling of hot ions. Simulations predict that expanding $r_0$ maintains a high trapped ion fraction from a simulated thermal source across a wide range of Mathieu-$q$ parameters. We demonstrate the manufacturability of this design by 3D-printing the rf rails of a four-rod ion trap and discuss the limitations imposed by state-of-the-art additive manufacturing techniques. We briefly compare hot-ion capture in the three-dimensional design presented here with that in a representative planar trap, illustrating one instance in which the former may be better for loading. The article concludes with an outlook for how this design may be incorporated into a quantum-CCD architecture to enhance ion loading and reduce associated experimental overheads.",
+  "authors": [
+   "Sayan Patra",
+   "Abhinav Parakh",
+   "Xiaoxing Xia",
+   "Juergen Biener",
+   "Hartmut Häffner",
+   "Kristin M. Beck"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Sayan Patra",
+  "pdf_url": "http://arxiv.org/pdf/2605.08502",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-05-08",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Design and fabrication of a micro-ion trap with a 3D-printed loading zone for improved hot-ion capture",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-08"
+ },
+ "2605.08906": {
+  "abstract": "Particle migration and trapping in ultrasonically actuated microscale flows arise from the competition between acoustic radiation forces and streaming-induced drag. While these mechanisms are well understood in Newtonian fluids, the role of fluid viscoelasticity in governing particle dynamics remains largely unexplored. Here, we investigate particle transport and trapping in a viscoelastic fluid within an ultrasonically excited microchannel under the combined action of acoustic streaming and radiation forces. Using a perturbation framework, we solve the continuity, momentum and constitutive equations for an Oldroyd-B fluid to obtain the oscillatory acoustic field and the resulting steady streaming flows in the bulk and near-wall boundary layers. Acoustic radiation forces, incorporated through a semi-analytical model, drives particle migration, while streaming-induced drag can oppose, alter or suppress trapping. We show that particle trajectories and equilibrium trapping locations are governed primarily by the Deborah number ($De$) and viscous diffusion number ($Dv$). At high $Dv$, increasing $De$ shifts the trapping location from the bulk region to the channel wall, pressure nodal line, channel centre or ultrasound symmetry line. We further determine the critical particle size governing the transition between radiation-dominated and streaming-dominated regimes as a function of $De$ and $Dv$. The critical particle size can become significantly smaller than that in a Newtonian fluid, enabling effective manipulation of submicron particles and overcoming a key limitation of conventional acoustofluidics. These results demonstrate how viscoelasticity fundamentally modifies acoustophoretic transport and establish new mechanisms for tunable particle migration and trapping in complex fluids.",
+  "authors": [
+   "T. Sujith",
+   "A. K. Sen"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "T. Sujith",
+  "pdf_url": "http://arxiv.org/pdf/2605.08906",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-05-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Viscoelastic control of acoustic particle migration and trapping in microchannels",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-09"
+ },
+ "2605.09122": {
+  "abstract": "We study finite-temperature $P$-form $\\mathbb Z_N$ homological codes via an exact finite-Trotter quantum-to-classical map to a $(d+1)$-dimensional spacetime model with electric and magnetic topological background charges. The resulting background-resolved partition functions admit an exact reformulation in terms of closed magnetic and electric defect polymers, with opposite-species interactions governed by linking phases. By bounding this complex polymer gas by positive same-species hard-core majorant gases, we obtain an explicit low-activity criterion under which all background-dependent partition functions are uniformly controlled and homologically nontrivial polymers are exponentially suppressed on the scale of the spacetime systole. We also derive an exact higher-form Kramers-Wannier duality exchanging electric and magnetic backgrounds, Wilson and 't Hooft operators, and $P$-form and $(d-P)$-form theories. Finally, for prime $N$, we identify an exact source-free gauge-theory specialization coupled to the plaquette random-cluster model, which imports sharp phase-transition results on special geometries into the spacetime framework.",
+  "authors": [
+   "Nafiz Ishtiaque",
+   "Shanto Chakroborty"
+  ],
+  "categories": [
+   "math-ph",
+   "cond-mat.stat-mech",
+   "hep-th",
+   "quant-ph"
+  ],
+  "comment": "32 pages + appendix",
+  "first_author": "Nafiz Ishtiaque",
+  "pdf_url": "http://arxiv.org/pdf/2605.09122",
+  "primary_category": "math-ph",
+  "published": "2026-05-09",
+  "tags": [],
+  "title": "An exact spacetime polymer gas for finite-temperature $\\mathbb Z_N$ homological quantum code",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-09"
+ },
+ "2605.09194": {
+  "abstract": "Direct ink writing (DIW) using frontal ring-opening metathesis polymerization (FROMP) offers a compelling route to the rapid and energy-efficient fabrication of thermoset and elastomeric polymer architectures, leveraging a self-propagating exothermic curing reaction. While FP-DIW excels at freestanding path printing due to the rapid solidification, it is constrained by stringent rheological requirements, a lower bound on achievable feature size due to quenching, and the need for the reaction front to closely follow the nozzle during printing. Here, we overcome these constraints by leveraging embedded 3D printing to implement FP-DIW with delayed solidification, thereby decoupling shape retention and solidification from ink chemistry and rheology. The use of a yield-stress support medium enables extrusion of low-viscosity inks by suppressing gravitational and capillary instabilities, mitigating front quenching at small diameters, and allowing time-delayed solidification to fuse complex, overlapping, and mechanically interlinked features after deposition. Two complementary thermal initiation strategies are introduced:\\ volumetric dielectric heating via microwaves and surface heating at the boundary of the support bath. Formulations based on dicyclopentadiene (DCPD), cyclooctadiene (COD), and mixtures thereof, result in tunable final mechanical properties with glass transition temperatures spanning $-50$ to $160 $$^\\text{o}$C. The versatility of this approach is demonstrated through the fabrication of lattices, springs, mechanically interlocked, and multimaterial architectures. Compared to printing in air, this embedded approach introduces a substantially broader range of possible formulations, material properties, feature sizes, and architectures.",
+  "authors": [
+   "Mohammad Tanver Hossain",
+   "Yun Seong Kim",
+   "Pallab Layek",
+   "Pranav Krishnan",
+   "Youngbum Lee",
+   "Minjiang Zhu",
+   "Shubh Singh",
+   "Philippe H. Geubelle",
+   "Paul V. Braun",
+   "Jeffery W. Baur",
+   "Nancy R. Sottos",
+   "Sameh H. Tawfick",
+   "Randy H. Ewoldt"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Mohammad Tanver Hossain",
+  "pdf_url": "http://arxiv.org/pdf/2605.09194",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-09",
+  "tags": [
+   "extrusion",
+   "glass-transition",
+   "mechanical-properties",
+   "polymerization",
+   "rheology"
+  ],
+  "title": "Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-09"
+ },
+ "2605.09371": {
+  "abstract": "The calibration of discrete element method (DEM) models is commonly performed by tuning model parameters to match an experimental measurements, most commonly the angle of repose (AOR). Although widely used, AOR-based calibration metrics do not adequately characterize the full heap morphology, particularly when dealing with cohesive granular materials. As a result, AOR-based calibrations often leads to non-unique parameter sets. In this work, we propose a DEM calibration procedure based on full-field image analysis of static powder heaps rather than scalar AOR measurements. The method compares an average experimental heap profile (AEHP), obtained from repeated GranuHeap experiments, with an average numerical heap profile (ANHP) generated from DEM simulations. This comparison is performed using pixel-wise grayscale intensity values of both average heap profiles. Two metal powders commonly used in additive manufacturing, Ti6Al4V and Al6061, are used to evaluate the proposed methodology. This work highlights the limitations of traditional AOR-based approaches and demonstrates that full-field heap morphology offers a more reliable framework for DEM calibration.",
+  "authors": [
+   "Olivier Gaboriault",
+   "Antonella Succar",
+   "Cléo Delêtre",
+   "Anatolie Timercan",
+   "Roger Pelletier",
+   "David Melancon",
+   "Bruno Blais"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Olivier Gaboriault",
+  "pdf_url": "http://arxiv.org/pdf/2605.09371",
+  "primary_category": "physics.app-ph",
+  "published": "2026-05-10",
+  "tags": [
+   "additive-manufacturing",
+   "polymer-morphology"
+  ],
+  "title": "From Angle of Repose to Heap Morphology: Full-Field Calibration of DEM for Granular Powders",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-10"
+ },
+ "2605.09743": {
+  "abstract": "Active matter systems encompass both natural and artificially created systems consisting of numerous active particles. These particles actively consume energy to propel themselves or exert mechanical forces, leading to intricate behaviors and a diverse range of collective motions from flocking transition to motility-induced phase separation. The flocking transition refers to the spontaneous alignment and coordination of individuals in a group, resembling the cohesive motion observed in flocks of birds or schools of fish. On the other hand, motility-induced phase separation refers to the segregation of active particles into distinct regions based on their differing motility levels. In this presentation, I will talk about active matter systems, specifically focusing on the collective behavior and dynamics, including the influence of volume exclusion features, the impact of disorder in the media, and the behavior of self-propelled particles in off-lattice domains by introducing spin anisotropy. The objective is to understand how the collective behavior of self-propelled particles is affected by various system parameters, including thermal noise, self-propulsion velocity, external field strength, etc. I will furthermore show the phenomena such as jamming, kinetic arrest, motility-induced phase separation, coexisting phases, microphase separation, and phase transitions within the context of active matter models.",
+  "authors": [
+   "Mintu Karmakar"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "PhD thesis",
+  "first_author": "Mintu Karmakar",
+  "pdf_url": "http://arxiv.org/pdf/2605.09743",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-10",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Equilibrium and non-equilibrium properties of active matter systems",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-10"
+ },
+ "2605.10089": {
+  "abstract": "Lithium electrolytes are commonly described using separate conceptual frameworks for local coordination chemistry, electrostatic screening, and ionic transport. This separation is effective in dilute conditions but breaks down at higher concentration, where coordination, ion pairing, clustering, and collective dynamics become intrinsically coupled. In this Perspective, we develop a unified multiscale framework that links local coordination motifs, mesoscopic ionic organization, and macroscopic transport within a single physical picture. Through representative examples spanning carbonate liquids, polymer electrolytes, concentrated systems, and confinement, we show that increasing concentration drives a systematic evolution from solvent-dominated Li$^+$ coordination to ion pairing, clustering, and correlated domains. In this regime, screening and transport are not independent phenomena but arise from the same underlying correlated structures. This perspective implies that rational electrolyte design must simultaneously control short-range coordination, mesoscale organization, and collective electrostatic response.",
+  "authors": [
+   "A. Coste",
+   "E. Zunzunegui-Bru",
+   "A. van Roekeghem",
+   "I. Skarmoutsos",
+   "S. Mossa"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "A. Coste",
+  "pdf_url": "http://arxiv.org/pdf/2605.10089",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-11",
+  "tags": [
+   "polymer-electrolytes"
+  ],
+  "title": "A molecular perspective on coordination, screening, and emergent length scales in lithium electrolytes",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-11"
+ },
+ "2605.10301": {
+  "abstract": "This experimental, numerical, and theoretical study investigates the capillary thinning and breakup of Newtonian filaments formed following the coalescence of a millimetric-nozzle-generated pendant drop with a lower droplet cap contained in a millimetric cylinder in ambient air, i.e., dripping-onto-droplet capillary breakup (DoD). Our mixed approach combines filament breakup experiments recorded with a high-speed camera and three-dimensional numerical simulations based on a variational multiscale framework for multiphase fluid flows. The results are analysed by considering the dynamics of fluid filament thinning, energy transfers, and scaling laws. Three flow regimes are highlighted: capillary-inertial, capillary-viscous, and mixed capillary-inertial-viscous. All regimes are affected by gravity. The findings are summarised in a two-dimensional diagram that correlates the filament breakup time with different flow regimes using the important dimensionless parameters of the problem, e.g., the Ohnesorge number (which relates the viscous stress to inertial and capillary stresses) and the Bond number (which balances the gravitational stress with the capillary one). This diagram can be used to quantify both the liquid viscosity and the liquid-gas surface tension (for Newtonian fluids). Lastly, we demonstrate that DoD can also be used as a rheometric test, giving access to the extensional relaxation time of polymer solutions (for viscoelastic fluids).",
+  "authors": [
+   "Ricardo El Khoury",
+   "Kindness Isukwem",
+   "Elie Hachem",
+   "Anselmo Pereira"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Ricardo El Khoury",
+  "pdf_url": "http://arxiv.org/pdf/2605.10301",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-05-11",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Dripping-onto-droplet capillary breakup",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-11"
  }
 }

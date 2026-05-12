@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10301.html">Dripping-onto-droplet capillary breakup</a></div></td>
+<td>Ricardo El Khoury et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10301">2605.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08906.html">Viscoelastic control of acoustic particle migration and trapping in microchannels</a></div></td>
+<td>T. Sujith et al.</td>
+<td><a href="http://arxiv.org/abs/2605.08906">2605.08906</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-7d.html">extrusion</a> · <a href="glass-transition-7d.html">glass-transition</a> · <a href="polymerization-7d.html">polymerization</a> · <a href="rheology-7d.html">rheology</a></div></td>
+<td>Mohammad Tanver Hossain et al.</td>
+<td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
@@ -32,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04314.html">Blow-Up Criteria and Weak--Strong Uniqueness for Compressible Fluid--Viscoelastic Shell Interactions</a></div></td>
 <td>Pierre Marie Ngougoue Ngougoue et al.</td>
 <td><a href="http://arxiv.org/abs/2605.04314">2605.04314</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a></div></td>
-<td>Chady Ghnatios et al.</td>
-<td><a href="http://arxiv.org/abs/2605.03186">2605.03186</a></td>
 </tr>
 </tbody></table>
