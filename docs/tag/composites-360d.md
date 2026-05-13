@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11281.html">Unbiased large-$N$ approach to competing vestigial orders of density-wave and superconducting instabilities</a></div></td>
+<td>Grgur Palle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11281">2605.11281</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Chady Ghnatios et al.</td>
@@ -896,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03845.html">Spatial correlations and entanglement in a hybrid system of N fermion pairs with harmonic interaction</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>M. D. Jiménez et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03845">2503.03845</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12013.html">Variational quantum simulation of a nonadditive relaxation dynamics in a qubit coupled to a finite-temperature bath</a></div></td>
-<td>Lucas Q. Galvão et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12013">2505.12013</a></td>
 </tr>
 </tbody></table>

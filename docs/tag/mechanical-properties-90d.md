@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">138 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11455.html">Thermoviscoelasticity of polydomain liquid crystal elastomers regulated by soft elasticity</a></div></td>
+<td>Zhengxuan Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11455">2605.11455</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
+<td>Kichitaro Nakajima et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11660">2605.11660</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10301.html">Dripping-onto-droplet capillary breakup</a></div></td>
 <td>Ricardo El Khoury et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10301">2605.10301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10463.html">Gradient-flow characterizations of one-dimensional quasistatic viscoelasticity with Bhattacharya-like viscosity</a></div></td>
+<td>Alexander Mielke et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10463">2605.10463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11342.html">Mechanics of heterogeneous fiber networks</a></div></td>
+<td>Kyu Hwan Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11342">2605.11342</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -818,11 +842,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13343.html">Velocity Weakening in Anisotropic Friction on a Tilted Titania Nanorod Forest</a></div></td>
 <td>Debottam Datta et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13343">2602.13343</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10440.html">Identifying the source term in a viscoelastic membrane with a Riemann-Liouville time derivative by the partial interior observation</a></div></td>
-<td>Zhiwei Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10440">2602.10440</a></td>
 </tr>
 </tbody></table>

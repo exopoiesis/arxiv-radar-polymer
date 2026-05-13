@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">64 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,11 +392,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14334.html">Water-rich amorphous state from drying mixed-metal sulfate solutions</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Christiaan T. van Campenhout et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14334">2505.14334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11775.html">Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer</a></div><div class="paper-tags"><a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
-<td>Stéphane Chevalier et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11775">2505.11775</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-electrolytes — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="polymer-electrolytes-7d.html">7d</a> <a href="polymer-electrolytes-30d.html">30d</a> <a href="polymer-electrolytes-90d.html">90d</a> <strong>360d</strong> <a href="polymer-electrolytes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21766.html">Magnetism Enhanced Surface Bonding of O$_{2}$ on CoPt</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a></div></td>
 <td>Kevin Allen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21766">2508.21766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11775.html">Mid infrared imaging of mass transport in polymer electrolyte membranes of an operating microfluidic water electrolyzer</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Stéphane Chevalier et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11775">2505.11775</a></td>
 </tr>
 </tbody></table>

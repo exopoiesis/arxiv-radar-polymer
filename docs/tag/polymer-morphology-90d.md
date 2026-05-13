@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="gnn-90d.html">gnn</a></div></td>
+<td>H. Ibrahim Erdogan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09371.html">From Angle of Repose to Heap Morphology: Full-Field Calibration of DEM for Granular Powders</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Olivier Gaboriault et al.</td>
@@ -338,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12420.html">A Transformer-based Model for Rapid Microstructure Inference from Four-Dimensional Scanning Transmission Electron Microscopy Data</a></div><div class="paper-tags"><a href="tem-90d.html">tem</a></div></td>
 <td>Kwanghwi Je et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12420">2602.12420</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13337.html">StrAPS: Structural Angular Power Spectrum for Discovering Novel Morphologies in Block Copolymers</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Dominic M. Robe et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13337">2602.13337</a></td>
 </tr>
 </tbody></table>

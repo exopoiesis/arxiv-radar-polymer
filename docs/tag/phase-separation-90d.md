@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10327.html">SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Sean Feeney et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10327">2605.10327</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09743.html">Equilibrium and non-equilibrium properties of active matter systems</a></div></td>
 <td>Mintu Karmakar</td>
@@ -560,11 +566,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12031.html">Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Liz Camayo-Gutierrez et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12031">2602.12031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.11104.html">Reentrance in a Hamiltonian flocking model</a></div></td>
-<td>Letian Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.11104">2602.11104</a></td>
 </tr>
 </tbody></table>

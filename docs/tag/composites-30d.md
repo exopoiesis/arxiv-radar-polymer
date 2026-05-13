@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11281.html">Unbiased large-$N$ approach to competing vestigial orders of density-wave and superconducting instabilities</a></div></td>
+<td>Grgur Palle et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11281">2605.11281</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03186.html">Hybrid Machine Learning and Physical Modeling of Feedstock Deformation During Robotic 3D Printing of Continuous Fiber Thermoplastic Composites</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Chady Ghnatios et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12982.html">Opportunistic QKD: Exploiting Idle Capacity of Classical WDM Systems</a></div></td>
 <td>Sumit Chaudhary et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12982">2604.12982</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10692.html">i-Tac: Inverse Design of 3D-Printed Tactile Elastomers with Scalable and Tunable Optical and Mechanical Properties</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="inverse-design-30d.html">inverse-design</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Wen Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10692">2604.10692</a></td>
 </tr>
 </tbody></table>

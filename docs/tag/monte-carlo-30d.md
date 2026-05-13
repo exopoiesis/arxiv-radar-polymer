@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09908.html">Collapse of a single polymer chain: Effects of chain stiffness and attraction range</a></div></td>
 <td>Yanyan Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2601.09908">2601.09908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="hydrogels-30d.html">hydrogels</a> · <a href="oect-30d.html">oect</a></div></td>
-<td>Hongbin Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10798">2604.10798</a></td>
 </tr>
 </tbody></table>

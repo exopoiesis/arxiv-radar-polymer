@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,11 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00817.html">Uniaxial Ordering by Self-Assembly of Isotropic Octahedral Junctions</a></div></td>
 <td>Kazuya Saito</td>
 <td><a href="http://arxiv.org/abs/2503.00817">2503.00817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12033.html">Measuring the mechanical properties of asymmetric membranes in computer simulations -- new methods and insights</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="membranes-360d.html">membranes</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Oded Farago</td>
-<td><a href="http://arxiv.org/abs/2505.12033">2505.12033</a></td>
 </tr>
 </tbody></table>

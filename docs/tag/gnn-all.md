@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>H. Ibrahim Erdogan et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10551">2605.10551</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24234.html">Graph-augmented Segmentation of Complex Shapes in Laser Powder bed Fusion for Enhanced In Situ Inspection</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="benchmarking-all.html">benchmarking</a></div></td>

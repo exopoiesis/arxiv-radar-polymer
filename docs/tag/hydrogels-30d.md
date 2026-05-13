@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11719.html">Nanostructure of PEGDA-PEG hydrogel membranes and how it controls their permeability</a></div></td>
+<td>Sixtine de Chateauneuf-Randon et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11719">2605.11719</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03728.html">Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Nasrollah Hajaliakbari et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02801.html">Flow-induced bending response rheometer to measure viscoelastic bending of microrods</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Barrett T Smith et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02801">2602.02801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="monte-carlo-30d.html">monte-carlo</a> · <a href="oect-30d.html">oect</a></div></td>
-<td>Hongbin Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10798">2604.10798</a></td>
 </tr>
 </tbody></table>

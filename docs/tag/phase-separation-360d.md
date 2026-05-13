@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10327.html">SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Sean Feeney et al.</td>
+<td><a href="http://arxiv.org/abs/2605.10327">2605.10327</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09743.html">Equilibrium and non-equilibrium properties of active matter systems</a></div></td>
@@ -1916,17 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.04659.html">Predicting Heteropolymer Phase Separation Using Two-Chain Contact Maps</a></div></td>
 <td>Jessica Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2503.04659">2503.04659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12033.html">Measuring the mechanical properties of asymmetric membranes in computer simulations -- new methods and insights</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="membranes-360d.html">membranes</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Oded Farago</td>
-<td><a href="http://arxiv.org/abs/2505.12033">2505.12033</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12067.html">Preventing clustering of active particles in microchannels</a></div></td>
-<td>Juan Pablo Carrillo-Mora et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12067">2505.12067</a></td>
 </tr>
 </tbody></table>

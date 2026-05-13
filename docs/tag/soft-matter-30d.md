@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="rheology-30d.html">rheology</a></div></td>
+<td>Kichitaro Nakajima et al.</td>
+<td><a href="http://arxiv.org/abs/2605.11660">2605.11660</a></td>
+</tr>
+<tr class="paper">
 <td>2026-04-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25852.html">Efficient boundary elements for the Smoluchowski diffusion equation</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
 <td>Ignacio Labarca-Figueroa et al.</td>
@@ -44,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13284.html">Unified Microscopic Theory of Stress Relaxation, Structural Evolution, and Memory Effects in Dense Glass Forming Brownian Suspensions After Flow Cessation</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Anoop Mutneja et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13284">2604.13284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08016.html">Approximating Continuous Motions of Geometric Constraint Systems</a></div></td>
-<td>Matthias Adrian-Himmelmann</td>
-<td><a href="http://arxiv.org/abs/2602.08016">2602.08016</a></td>
 </tr>
 </tbody></table>

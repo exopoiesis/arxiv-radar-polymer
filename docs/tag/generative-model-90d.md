@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09353.html">Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="extrusion-90d.html">extrusion</a></div></td>
 <td>Engin Deniz Erkan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09353">2603.09353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.10637.html">Coarse-Grained Boltzmann Generators</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Weilong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2602.10637">2602.10637</a></td>
 </tr>
 </tbody></table>
