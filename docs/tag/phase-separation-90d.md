@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,17 +554,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13129.html">Emergent aperiodicity in Bose-Bose mixtures induced by spin-dependent periodic potentials</a></div></td>
 <td>Abid Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13129">2602.13129</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03221.html">Bicontinuity in active phase separation</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Paarth Gulati et al.</td>
-<td><a href="http://arxiv.org/abs/2601.03221">2601.03221</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12031.html">Thermodynamic Stability and Hydrogen Bonds in Mixed Halide Perovskites</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Liz Camayo-Gutierrez et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12031">2602.12031</a></td>
 </tr>
 </tbody></table>

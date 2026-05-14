@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div></td>
+<td>Giovanni P. Galdi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12892">2605.12892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13506.html">Plastics and Composite Materials</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="crystallinity-90d.html">crystallinity</a></div></td>
+<td>Ana Teresa Perez Fontenla</td>
+<td><a href="http://arxiv.org/abs/2605.13506">2605.13506</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13682.html">Theory of fracture initiation and propagation in viscoelastic media</a></div></td>
+<td>Giuseppe Carbonea et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13682">2605.13682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>F. E. Garbuzov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11455.html">Thermoviscoelasticity of polydomain liquid crystal elastomers regulated by soft elasticity</a></div></td>
@@ -830,17 +854,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12538.html">Starch granules are instructive scaffolds for synergistic reinforcement and dissipation in hydrogel composites</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Shirlaine Juliano et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12538">2602.12538</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.08266.html">An open-source computational framework for immersed fluid-structure interaction modeling using FEBio and MFEM</a></div></td>
-<td>Ryan T. Black et al.</td>
-<td><a href="http://arxiv.org/abs/2601.08266">2601.08266</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13343.html">Velocity Weakening in Anisotropic Friction on a Tilted Titania Nanorod Forest</a></div></td>
-<td>Debottam Datta et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13343">2602.13343</a></td>
 </tr>
 </tbody></table>

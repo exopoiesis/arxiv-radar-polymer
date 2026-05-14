@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12980.html">CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions</a></div><div class="paper-tags"><a href="selfies-30d.html">selfies</a></div></td>
+<td>Tianbo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12980">2605.12980</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12125.html">Following the thread: surface and bulk solvent migration in silicone elastomers from local volumetric swelling</a></div></td>
 <td>Chenzhuo Li et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12638.html">Exact tunneling splittings of rotationally excited states from symmetrized path-integral molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Lea Zupan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12638">2604.12638</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21011.html">ALL-FEM: Agentic Large Language models Fine-tuned for Finite Element Methods</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Rushikesh Deotale et al.</td>
-<td><a href="http://arxiv.org/abs/2603.21011">2603.21011</a></td>
 </tr>
 </tbody></table>

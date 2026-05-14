@@ -1438,6 +1438,31 @@
   ],
   "updated": "2026-05-12"
  },
+ "2605.12331": {
+  "abstract": "Generalized Probabilistic Theories (GPTs) provide a unified framework for describing probabilistic physical theories, encompassing classical and quantum theories as well as hypothetical theories beyond quantum mechanics. Since most GPTs are highly unrealistic and far removed from known physical theories, it is important to constrain them by physically reasonable principles. One of the most important such principles is consistency with thermodynamics, which has been extensively studied through toy models involving semipermeable membranes (SPMs) implementing measurements. On the other hand, information thermodynamics, which plays a central role in understanding the relationship between measurement and thermodynamics in classical and quantum theory, has remained largely undeveloped in GPTs. In this work, we construct information thermodynamics in GPTs and provide a unified framework for analyzing the relationship between measurement, feedback, information erasure, and the second law of thermodynamics. We also formulate a general framework for SPM models and analyze the thermodynamic cost of measurements implemented by SPMs. As a result, we show that no work can be extracted in contradiction with the second law as long as the measurement processes are consistent with entropy nondecrease, and derive sufficient conditions for this property for several entropy definitions proposed in GPTs. Moreover, by considering measurement processes violating these conditions, we construct explicit GPT systems realizing isothermal SPM cycles from which positive work can be extracted. These results demonstrate that violations of the second law can arise from the lack of fundamental entropy properties or discrepancies between entropy definitions, and provide a unified and model-independent foundation for understanding the relationship between thermodynamics and measurement in GPTs.",
+  "authors": [
+   "Koki Ono",
+   "Shun Umekawa",
+   "Hiroyasu Tajima"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "22 pages, 6 figures",
+  "first_author": "Koki Ono",
+  "pdf_url": "http://arxiv.org/pdf/2605.12331",
+  "primary_category": "quant-ph",
+  "published": "2026-05-12",
+  "tags": [
+   "membranes"
+  ],
+  "title": "Information Thermodynamics in Generalized Probabilistic Theories",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-12"
+ },
  "2605.12333": {
   "abstract": "The freely jointed chain is often applied to model the thermodynamics of single polymer chains, but the traditional formulation of the model lacks internal energy changes due to bond stretching. For this reason, the extensible freely jointed chain model includes a potential energy function, typically harmonic, that governs the length of each link in the chain. Among the other quantities of interest that are subject to thermal fluctuations, these link lengths and energies too fluctuate about their ensemble average values. Since a plethora of models for polymer chains and networks incorporate chain dissociation as a function of either link length or energy, these fluctuations are crucial to understand and quantify. Motivated by this fact, fluctuations in link length and energy are analyzed within a freely jointed chain under an applied force. These fluctuations are quantified through their average values, standard deviations, and probability distributions. Across all values, asymptotically correct analytic relations and their less ergonomic exact counterparts are introduced. The asymptotic relations are verified to be accurate through direct comparison and to be correct within transcendentally small terms through error analysis. In certain cases, the fluctuations are shown to be approximately normally distributed. Hereafter, model components predicated on link length or energy ought to account for these fluctuations.",
   "authors": [
@@ -1458,5 +1483,199 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-12"
+ },
+ "2605.12870": {
+  "abstract": "Polymer-Attenuated Coulombic Self-Assembly (PACS) is a flexible experimental approach for generating crystals from simple colloidal building blocks. The central components are charged spherical particles coated with a polymer brush that prevents irreversible aggregation. Whether oppositely charged colloids crystallize, and which structures they form, depends on several factors, including colloid concentration, charge, and size, as well as the salt concentration of the solution. Molecular dynamics (MD) simulations are a powerful tool for predicting the outcomes of PACS assembly experiments and also provide particle-level insight into the assembly processes. Here, we present an open-source simulation framework, PACSim, that enables MD simulation studies of assembly by PACS across a range of experimentally relevant scenarios. PACSim is built on top of OpenMM, a flexible MD simulation framework that readily supports the implementation of different interaction potentials, as well as integration with other tools such as enhanced-sampling and machine-learning frameworks. We describe the motivation for PACSim, outline its features, report methodological advancements inspired by this framework, and provide examples of its use.",
+  "authors": [
+   "Philipp Höllmer",
+   "Nicole Smina",
+   "John P. Marquardt",
+   "Michael S. Chen",
+   "Steven van Kesteren",
+   "Stefano Sacanna",
+   "Glen M. Hocky"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 9 figures, 10 code blocks",
+  "first_author": "Philipp Höllmer",
+  "pdf_url": "http://arxiv.org/pdf/2605.12870",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-13",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.12892": {
+  "abstract": "The study of resonances (and well-posedness) for complex systems under time-periodic loading is of broad interest in application. The work of Galdi et al.~(2014) connects asymptotic stability of solutions to an unforced Cauchy problem to solvability of the time-periodic forced problem. Uniform stability of the solution semigroup gives periodic well-posedness for all forces in the natural mild forcing class, whereas strong stability yields only existence of a dense set of forcings for which resonance can be excluded. We address an intermediate regime for polynomial (also: rational or semiuniform) stability. Working with a Fourier decomposition in Hilbert space, we demonstrate that polynomial stability of the semigroup yields an explicit characterization of the dense forcing set on which periodic well-posedness holds. More precisely, resolvent bounds translate directly into certain losses of time derivatives on the forcing required to ensure well-posedness. Our result is motivated by partially dissipative models -- including the famous heat-wave interaction problem idealizing fluid-structure interactions, as well as some thermoelastic, viscoelastic, and weakly damped hyperbolic systems -- for which polynomial decay is the natural regime.",
+  "authors": [
+   "Giovanni P. Galdi",
+   "Boris Muha",
+   "Justin T. Webster"
+  ],
+  "categories": [
+   "math.AP",
+   "math.DS"
+  ],
+  "comment": null,
+  "first_author": "Giovanni P. Galdi",
+  "pdf_url": "http://arxiv.org/pdf/2605.12892",
+  "primary_category": "math.AP",
+  "published": "2026-05-13",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.12980": {
+  "abstract": "Molecular structure elucidation from tandem mass spectra (MS/MS) remains challenging, particularly for de novo generation beyond database coverage. A common approach decomposes the task into spectrum-to-fingerprint prediction followed by fingerprint-to-structure decoding, enabling the use of large-scale molecular corpora. However, at deployment, the decoder relies on predicted rather than oracle fingerprints, introducing structured errors that propagate into generation. This results in a fundamental condition mismatch, where models trained on clean inputs must operate under noisy, biased predictions, especially for long-tail substructures.   We present CoRe-Gen that explicitly addresses this gap. CoRe-Gen improves the intermediate condition via synthetic-spectrum pretraining of the encoder, matches deployment-time noise through frequency-aware fingerprint corruption during decoder training, and mitigates residual errors using structure-aware autoregressive decoding with compositional SELFIES representations, auxiliary structural supervision, and lightweight chemical constraints. Experiments on standard benchmarks show that CoRe-Gen establishes a new state of the art on NPLIB1, achieving 19.54\\% Top-1 and 29.92\\% Top-10 exact-match accuracy, while remaining competitive on the more challenging MassSpecGym benchmark. Importantly, CoRe-Gen preserves the efficiency advantages of autoregressive decoding, providing a practical and scalable solution for robust spectrum-to-structure generation under realistic conditions.",
+  "authors": [
+   "Tianbo Liu",
+   "Chixiang Lu",
+   "Jing Hao",
+   "Hengyu Zhang",
+   "Lifei Wang",
+   "Haibo Jiang",
+   "Xiaojuan Qi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Tianbo Liu",
+  "pdf_url": "http://arxiv.org/pdf/2605.12980",
+  "primary_category": "cs.LG",
+  "published": "2026-05-13",
+  "tags": [
+   "benchmarking",
+   "selfies"
+  ],
+  "title": "CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.13184": {
+  "abstract": "A strategy to overcome sluggish hydrogenation/dehydrogenation of magnesium is demonstrated by creating magnesium-graphene interphase boundaries via high-pressure torsion (HPT). HPT reduces the grain size of pure magnesium from 1 mm to 850 nm, with 70% of grain boundaries having high misorientation angles. Graphene addition leads to even finer grain sizes of 10-500 nm with a bimodal morphology. The magnesium-graphene composites exhibit superior kinetics at 623 K while maintaining high air resistance. Kinetic modeling reveals that the rate-controlling mechanism transits from interfacial reaction in coarse-grained magnesium to atomic diffusion in magnesium-graphene nanocomposites. Kissinger analysis shows that the activation energy for hydrogen desorption remains unchanged at 145 +/- 2 kJ/mol, regardless of the presence of grain or interphase boundaries. However, the frequency factor (number of successful attempts to overcome the activation energy) increases with the generation of interfaces, which serve as sites for hydrogen diffusion and heterogeneous metal/hydride nucleation. These findings highlight the impact of interphase boundary engineering via severe plastic deformation for enhancing the kinetics and air resistance of hydrogen storage materials.",
+  "authors": [
+   "Runchen Zhou",
+   "Payam Edalati",
+   "Anthony Alhayek",
+   "Shivam Dangwal",
+   "Marc Novelli",
+   "Md. Amirul Islam",
+   "Baran Bidyut Saha",
+   "Thierry Grosdidier",
+   "Kaveh Edalati"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Runchen Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2605.13184",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-13",
+  "tags": [
+   "coarse-grained",
+   "composites",
+   "nanocomposites",
+   "polymer-morphology"
+  ],
+  "title": "Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.13506": {
+  "abstract": "Polymers and composite materials play an essential role in accelerator and detectors technology, with varying roles that range from electrical insulation and structural support to thermal management. This paper provides a general review of their key properties and classifications, including behaviour under demanding service conditions such as cryogenic operation and high radiation exposure. The paper addresses polymeric materials - their mechanical, thermal, and viscoelastic behaviour, and the effects of crystallinity and additives - alongside composite families, focusing on the characteristics of the matrix and the types of reinforcement. CERN case studies illustrate how both polymers and composites present opportunities and challenges in material selection. Examples include adhesives and structural composites for detectors, reinforced alloys for collimators, and insulation for Nb$_3$Sn superconducting magnets, all emphasising the need to optimise material properties and interfaces to ensure the long-term reliability of components in accelerator facilities.",
+  "authors": [
+   "Ana Teresa Perez Fontenla"
+  ],
+  "categories": [
+   "physics.acc-ph"
+  ],
+  "comment": "15 pages, contribution to the CAS - CERN Accelerator School: Mechanical & Materials Engineering for Particle Accelerators and Detectors, 2-15 June 2024, Sint-Michielsgestel, Netherlands",
+  "first_author": "Ana Teresa Perez Fontenla",
+  "pdf_url": "http://arxiv.org/pdf/2605.13506",
+  "primary_category": "physics.acc-ph",
+  "published": "2026-05-13",
+  "tags": [
+   "composites",
+   "crystallinity",
+   "mechanical-properties"
+  ],
+  "title": "Plastics and Composite Materials",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.13682": {
+  "abstract": "Crack initiation and propagation are fundamental problems in materials science, often leading to catastrophic failure. While fracture in elastic solids occurs instantaneously above a critical load, viscoelastic materials may sustain high loads for a finite time before cracks start to propagate. This phenomenon, known as delayed fracture, has been widely observed experimentally but is still only partially understood theoretically. In this study, we present a rigorous framework based on the Lagrange--d'Alembert principle of virtual work (PVW) to predict both the viscoelastic delay time and the subsequent crack evolution under arbitrary loading histories. We derive how the delay time depends on the applied remote load and validate the theory through quantitative comparison with experiments, using directly measured delay times together with DMA-based viscoelastic characterization of the material. Very good agreement is obtained over a broad range of loading and delay times. Our results also show that crack propagation starts at finite speed and that load-dependent steady-state conditions are soon established. Finite element analyses further support the proposed framework and clarify the role of finite-ranged adhesion forces at fixed adhesion energy, showing that shorter interaction ranges yield results in quantitative agreement with theory. We also present, for the first time, a rigorous J-integral formulation valid for linear viscoelastic solids under arbitrary, time-varying loading histories. The result restores path independence and yields a generalized Griffith criterion that naturally predicts delayed fracture initiation in non-conservative materials. Remarkably, fracture initiation can be described without specifying the detailed stress distribution within the process zone, as long as it remains small relative to the crack length.",
+  "authors": [
+   "Giuseppe Carbonea",
+   "Cosimo Mandriotab",
+   "Guido Violanob",
+   "Luciano Afferrante",
+   "Nicola Menga"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Giuseppe Carbonea",
+  "pdf_url": "http://arxiv.org/pdf/2605.13682",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-13",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Theory of fracture initiation and propagation in viscoelastic media",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.13703": {
+  "abstract": "Fluctuation formulas for elastic and viscoelastic moduli allow their computation from equilibrium molecular dynamics simulations, avoiding explicit nonequilibrium deformation protocols. While such expressions are well established for the quasi-static moduli, and also the linear dynamic moduli, no fluctuation formula exists for the nonlinear time-dependent moduli that govern anharmonic viscoelastic response under finite time-dependent strains. In this work we derive transient-time correlation function expressions for both the linear and the nonlinear dynamic moduli, starting from the DOLLS/SLLOD equations of motion for irrotational motion. The resulting formulas involve equilibrium time correlations of the stress tensor and Born-kinetic terms, and they recover the known quasi-static and linear dynamic results in the appropriate limits.",
+  "authors": [
+   "F. E. Garbuzov",
+   "Y. M. Beltukov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "F. E. Garbuzov",
+  "pdf_url": "http://arxiv.org/pdf/2605.13703",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-13",
+  "tags": [
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "Nonlinear dynamic elastic moduli from equilibrium stress fluctuations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-13"
  }
 }

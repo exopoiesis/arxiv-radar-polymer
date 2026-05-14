@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="composites-30d.html">composites</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
+<td>Runchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a> · <a href="gnn-30d.html">gnn</a></div></td>

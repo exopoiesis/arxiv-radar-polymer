@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05448.html">Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks</a></div></td>
-<td>Charlotte Myin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05448">2605.05448</a></td>
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="nanocomposites-7d.html">nanocomposites</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Runchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12980.html">CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions</a></div><div class="paper-tags"><a href="selfies-90d.html">selfies</a></div></td>
+<td>Tianbo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12980">2605.12980</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12125.html">Following the thread: surface and bulk solvent migration in silicone elastomers from local volumetric swelling</a></div></td>

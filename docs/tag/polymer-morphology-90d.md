@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
+<td>Runchen Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10551.html">It&#x27;s All Connected: Topology-Aware Structural Graph Encoding Improves Performance on Polymer Prediction</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="gnn-90d.html">gnn</a></div></td>
@@ -332,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12956.html">Molecular Beam Epitaxy of Al$\mathrm{_{1-x}}$Sc$\mathrm{_{x}}$N Nanowires: Towards Group-III Nitride Piezoelectric Nanogenerators with Enhanced Response</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Adriano Notarangelo et al.</td>
 <td><a href="http://arxiv.org/abs/2602.12956">2602.12956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03221.html">Bicontinuity in active phase separation</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Paarth Gulati et al.</td>
-<td><a href="http://arxiv.org/abs/2601.03221">2601.03221</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12420.html">A Transformer-based Model for Rapid Microstructure Inference from Four-Dimensional Scanning Transmission Electron Microscopy Data</a></div><div class="paper-tags"><a href="tem-90d.html">tem</a></div></td>
-<td>Kwanghwi Je et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12420">2602.12420</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12980.html">CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
+<td>Tianbo Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.12980">2605.12980</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12125.html">Following the thread: surface and bulk solvent migration in silicone elastomers from local volumetric swelling</a></div></td>
 <td>Chenzhuo Li et al.</td>
@@ -728,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08859.html">PolyConf: Unlocking Polymer Conformation Generation through Hierarchical Generative Models</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fanmeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2504.08859">2504.08859</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.12534.html">ChemPile: A 250GB Diverse and Curated Dataset for Chemical Foundation Models</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="selfies-360d.html">selfies</a></div></td>
-<td>Adrian Mirza et al.</td>
-<td><a href="http://arxiv.org/abs/2505.12534">2505.12534</a></td>
 </tr>
 </tbody></table>
