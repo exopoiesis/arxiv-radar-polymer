@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a> · <a href="saxs-30d.html">saxs</a></div></td>
+<td>Pritha Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15007.html">Weak Solutions and Inertial Limits for Quasi-static Filtrations</a></div></td>
+<td>Peter Lavagnino et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15007">2605.15007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15089.html">Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity</a></div></td>
+<td>Dong Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15089">2605.15089</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div></td>
@@ -272,29 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14432.html">Additively manufactured Shape Memory Alloy Hybrid Composites with a polymer matrix featuring a re-entrant honeycomb structure</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="composites-30d.html">composites</a></div></td>
 <td>Manuel Kunzler et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14432">2604.14432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12299.html">Uniqueness of dynamic elastography for isotropic standard linear solid viscoelastic media</a></div></td>
-<td>Yu Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12299">2604.12299</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13284.html">Unified Microscopic Theory of Stress Relaxation, Structural Evolution, and Memory Effects in Dense Glass Forming Brownian Suspensions After Flow Cessation</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
-<td>Anoop Mutneja et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13284">2604.13284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13330.html">Derivation of effective kinetic equations describing oscillations in viscoelasticity and in compressible Navier-Stokes</a></div></td>
-<td>Athanasios E. Tzavaras</td>
-<td><a href="http://arxiv.org/abs/2604.13330">2604.13330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16497.html">Concentration-dependent shear response of multi-chain amphiphilic block copolymer self-assemblies</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Ehsan Kamali Ahangar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16497">2604.16497</a></td>
 </tr>
 </tbody></table>

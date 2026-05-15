@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogels — all</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13927.html">Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \textit{Pseudomonas aeruginosa} Sibling Colonies</a></div></td>
+<td>Dario Buonomo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.13927">2605.13927</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11719.html">Nanostructure of PEGDA-PEG hydrogel membranes and how it controls their permeability</a></div></td>

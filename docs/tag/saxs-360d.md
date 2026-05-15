@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>saxs — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="saxs-7d.html">7d</a> <a href="saxs-30d.html">30d</a> <a href="saxs-90d.html">90d</a> <strong>360d</strong> <a href="saxs-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
+<td>Pritha Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
+</tr>
 <tr class="paper">
 <td>2026-03-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16804.html">Visualizing shear-induced structures in carbon black gels by tomo-rheoscopy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a></div></td>

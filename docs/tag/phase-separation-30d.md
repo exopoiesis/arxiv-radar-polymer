@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14516.html">A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Léa Beaulès et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14516">2605.14516</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10327.html">SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
 <td>Sean Feeney et al.</td>
@@ -200,11 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13843.html">On phase separation and crystallization of Ge-rich GeSbTe alloys from atomistic simulations with a machine learning interatomic potential</a></div></td>
 <td>Omar Abou El Kheir et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13843">2604.13843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16060.html">Super-Arrhenius temperature dependent viscosity due to liquid-liquid phase separation in the super-cooled Kob-Andersen model</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
-<td>Jayme Brickley et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16060">2602.16060</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>soft-matter — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <strong>30d</strong> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14926.html">Spectrally Accurate Simulation of Axisymmetric Vesicle Dynamics</a></div></td>
 <td>M. A. Shishkin</td>
 <td><a href="http://arxiv.org/abs/2604.14926">2604.14926</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13284.html">Unified Microscopic Theory of Stress Relaxation, Structural Evolution, and Memory Effects in Dense Glass Forming Brownian Suspensions After Flow Cessation</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Anoop Mutneja et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13284">2604.13284</a></td>
 </tr>
 </tbody></table>

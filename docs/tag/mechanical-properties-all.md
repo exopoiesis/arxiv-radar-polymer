@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">771 papers</span>
+  <span class="paper-count">774 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a> · <a href="saxs-all.html">saxs</a></div></td>
+<td>Pritha Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15007.html">Weak Solutions and Inertial Limits for Quasi-static Filtrations</a></div></td>
+<td>Peter Lavagnino et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15007">2605.15007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15089.html">Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity</a></div></td>
+<td>Dong Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15089">2605.15089</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div></td>

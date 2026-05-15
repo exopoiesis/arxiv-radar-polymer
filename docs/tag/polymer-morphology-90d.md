@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14516.html">A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Léa Beaulès et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14516">2605.14516</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Ali R. Safi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
 <td>Runchen Zhou et al.</td>
@@ -326,17 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13535.html">Biocompatibility of Additively Manufactured Fe-AZ31 Biodegradable Composites for Craniofacial Implant Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="composites-90d.html">composites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Xue Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2602.13535">2602.13535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12848.html">Exploring Wetting and Optical Properties of CuAg Alloys via Surface Texture Morphology Analysis</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
-<td>Krzysztof Wieczerzak et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12848">2602.12848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.12956.html">Molecular Beam Epitaxy of Al$\mathrm{_{1-x}}$Sc$\mathrm{_{x}}$N Nanowires: Towards Group-III Nitride Piezoelectric Nanogenerators with Enhanced Response</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Adriano Notarangelo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.12956">2602.12956</a></td>
 </tr>
 </tbody></table>

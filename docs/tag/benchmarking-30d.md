@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Ali R. Safi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12980.html">CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions</a></div><div class="paper-tags"><a href="selfies-30d.html">selfies</a></div></td>
 <td>Tianbo Liu et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14962.html">Coarse Graining Reveals a Fluctuation-theorem-like Asymmetry in Financial Markets</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Jian Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14962">2604.14962</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12638.html">Exact tunneling splittings of rotationally excited states from symmetrized path-integral molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Lea Zupan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12638">2604.12638</a></td>
 </tr>
 </tbody></table>

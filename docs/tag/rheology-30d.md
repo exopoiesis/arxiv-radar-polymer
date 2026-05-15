@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rheology — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <strong>30d</strong> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="saxs-30d.html">saxs</a></div></td>
+<td>Pritha Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
@@ -74,23 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01185.html">Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Léa Delance et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01185">2604.01185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02291.html">Colloidal Suspensions can have Non-Zero Angles of Repose below the Minimal Value for Athermal Frictionless Particles</a></div></td>
-<td>Jesús Fernández et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02291">2601.02291</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14109.html">A Unified Glassy Rheology for Granular Matter</a></div></td>
-<td>Zhikun Zeng et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14109">2604.14109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16497.html">Concentration-dependent shear response of multi-chain amphiphilic block copolymer self-assemblies</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Ehsan Kamali Ahangar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16497">2604.16497</a></td>
 </tr>
 </tbody></table>

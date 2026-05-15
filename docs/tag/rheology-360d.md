@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="saxs-360d.html">saxs</a></div></td>
+<td>Pritha Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Kichitaro Nakajima et al.</td>
@@ -728,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00556.html">Finding the Underlying Viscoelastic Constitutive Equation via Universal Differential Equations and Differentiable Physics</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Elias C. Rodrigues et al.</td>
 <td><a href="http://arxiv.org/abs/2501.00556">2501.00556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13320.html">Semi-analytical solutions of passive scalar transport in generalized Newtonian fluid flow</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Christopher A. Bowers et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13320">2505.13320</a></td>
 </tr>
 </tbody></table>

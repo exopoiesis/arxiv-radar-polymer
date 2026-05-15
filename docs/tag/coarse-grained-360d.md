@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17396.html">Cross-scale Modeling of Polymer Topology Impact on Extrudability through Molecular Dynamics and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yawei Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17396">2505.17396</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13040.html">Renormalization group analysis of a continuous model with self-organized criticality: Effects of randomly moving environment</a></div></td>
-<td>N. V. Antonov et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13040">2505.13040</a></td>
 </tr>
 </tbody></table>

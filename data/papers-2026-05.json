@@ -1677,5 +1677,223 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-05-13"
+ },
+ "2605.13927": {
+  "abstract": "The striking variety of macroscopic morphologies displayed by bacterial colonies depends on microscopic environmental and behavioural details in a manner that is currently not well understood. A surprising example is sibling inhibition, whereby isogenic bacterial colonies spreading in soft agar hydrogels tend to avoid each other and form sharp demarcation lines when growing nearby. Here we investigate this effect with the common pathogen \\textit{Pseudomonas aeruginosa}, by combining quantitative density measurements with a minimal biophysical model. Our results show that the phenomenon does not depend on gel compression, lethal inhibition or quorum sensing-dependent cell communication. Instead, colony separation is driven by localised nutrient depletion through a dynamic feedback between growth and motility. The model, which is calibrated using experimental data, captures key observations including the dependence of inhibition strength on the initial nutrient concentration. This work establishes nutrient availability and non-lethal motility inhibition as central factors underlying sibling inhibition, providing a generalisable framework for microbial spatial dynamics with implications for understanding bacterial interactions in tissues, soils and engineered microbiomes.",
+  "authors": [
+   "Dario Buonomo",
+   "Francesco Imperi",
+   "Fabio Bruni",
+   "Marco Polin",
+   "Barbara Capone"
+  ],
+  "categories": [
+   "q-bio.CB",
+   "physics.bio-ph"
+  ],
+  "comment": "main paper: 10 pages, 9 figures; SI: 4 pages 5 figures",
+  "first_author": "Dario Buonomo",
+  "pdf_url": "http://arxiv.org/pdf/2605.13927",
+  "primary_category": "q-bio.CB",
+  "published": "2026-05-13",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \\textit{Pseudomonas aeruginosa} Sibling Colonies",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-13"
+ },
+ "2605.14353": {
+  "abstract": "Nanoscale fabrication inevitably produces local stochasticity that is commonly treated as a defect, but can instead be harnessed as a material resource for information security. Here we report a chiroptical platform for ternary entropy harvesting based on stochastic Au nanopatterns formed by block copolymer self-assembly. By transducing fabrication-induced stochastic microstates into handedness-dependent optical responses through chiroptical mapping, our platform enables native ternary digitization rather than conventional binary encoding, allowing physically harvested ternary random sequences to be used for key generation. This raises the information density to log2(3) = 1.585 bits per trit, approximately 58.5% higher than the binary limit, enabling more entropy to be harvested from a limited physical footprint. The harvested outputs exhibit near-balanced symbol populations, negligible spatial and inter-sample correlations, Shannon entropy approaching the ternary ideal, and resistance to statistical and machine-learning-based prediction. These results establish self-assembled chiroptical nanostructures as a scalable platform for cryptographic key generation, secure edge devices, and distributed Internet-of-Things platforms.",
+  "authors": [
+   "Wookjin Jung",
+   "Serin Jeong",
+   "Kyulim Kim",
+   "Dongkyu Lee",
+   "Sang Ouk Kim",
+   "Jihyeon Yeom"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Wookjin Jung",
+  "pdf_url": "http://arxiv.org/pdf/2605.14353",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-14",
+  "tags": [
+   "block-copolymer"
+  ],
+  "title": "Chiroptical Ternary Entropy Harvesting from Self-Assembled Block Copolymer Nanopatterns",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.14516": {
+  "abstract": "In living cells, proteins involved in specialized biochemical functions are often spatially organized within biomolecular condensates. Increasing evidence suggests that some of these condensates, including DNA repair condensates, emerge through liquid-liquid phase separation (LLPS). In the nucleus, however, condensates form within a highly heterogeneous environment composed of chromatin fibers, RNA, and additional protein scaffolds such as PAR chains, all of which may interact with phase-separating proteins. Moreover, condensate formation is frequently associated with specific chromatin conformations; for instance, loop extrusion has been proposed as a mechanism promoting DNA repair condensates. Here, we investigate how the surrounding fibrous environment controls the morphology and spatial organization of phase-separated condensates. Using Brownian dynamics simulations of minimal models combining Lennard-Jones particles with fixed fibrous substrates, we examine the respective roles of local fiber geometry and large-scale network organization, reflecting the multiscale architecture of chromatin. We show that protein-fiber interactions strongly influence droplet positioning relative to the substrate, in a manner analogous to wetting transitions in soft condensed matter systems. Both local geometric constraints and global network organization markedly affect droplet size, morphology, and multiplicity. In addition, large-scale asymmetries in fiber organization can induce robust spatial localization of the dense phase. Our results thus highlight how multiscale structural heterogeneity of the nuclear environment can regulate the emergence and organization of biomolecular condensates.",
+  "authors": [
+   "Léa Beaulès",
+   "Judith Miné-Hattab",
+   "Pierre Illien",
+   "Vincent Dahirel"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Léa Beaulès",
+  "pdf_url": "http://arxiv.org/pdf/2605.14516",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-14",
+  "tags": [
+   "extrusion",
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.14564": {
+  "abstract": "The thermoresponsive behavior of Pluronic F127 solutions is governed by temperature-dependent micellization and complex self-assembly of these micelles. This study investigates the effect of thermal stimuli on the kinetics of phase transition of Pluronic systems during heating and cooling cycles. We employ Differential Scanning Calorimetry measurements to investigate the dependence of the micellization temperature on thermal stimuli, revealing that both the micellization temperature and the peak intensity vary systematically with the applied thermal ramp rate. Furthermore, we employ rheological characterization which reveals a sharp sol to soft-solid transition upon heating. Interestingly, we observe a novel multi-step transition during the cooling phase, indicating a more complex reorganization pathway with intermediate metastable states than typically assumed for reversible micellization. Our findings indicate that the characteristic multi-step cooling transition is transient, gradually weakening with successive thermal cycles. We also present a comprehensive mathematical model which accurately captures the kinetics and multiple step transition in viscoelastic parameters. Significantly, the distinct peaks in Small-Angle X-ray Scattering (SAXS) measurements clearly reveal the evolution from a disordered unimers/micelles state at low temperatures to a highly ordered lattice with long-range spatial correlation at elevated temperatures. We also present a comprehensive phase diagram highlighting the critical role of thermal stimuli and pathways in defining the phase behavior of Pluronic system. This work, therefore, offers essential experimental and theoretical insights into the thermally driven self-assembly, transition kinetics, and microstructural evolution of thermoreversible Pluronic solution.",
+  "authors": [
+   "Pritha Acharya",
+   "Riya Karmakar",
+   "Khushboo Suman"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "39 pages",
+  "first_author": "Pritha Acharya",
+  "pdf_url": "http://arxiv.org/pdf/2605.14564",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-14",
+  "tags": [
+   "mechanical-properties",
+   "rheology",
+   "saxs"
+  ],
+  "title": "Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.14673": {
+  "abstract": "Focused electron beam induced deposition (FEBID) is an additive manufacturing technique uniquely suited for fabricating nanoscale 3D prototypes for a range of applications, including spintronic devices. However, the variation of growth dynamics associated with electron beam translation and sample interaction volumes results in structures with non-uniform composition when fabricating intricate 3D geometries. Herein, we measure changes in atomic composition and corresponding changes in magnetic induction in 3D ferromagnetic nanostructures with overhanging elements, e.g. bridges or arches. To investigate the effects of electron beam translation, we fabricated 41 Co and Fe nanowire (NW) structures with growth angle relative to the optic axis varying from 0° to 90°. The (scanning) transmission electron microscopy techniques of electron energy loss spectroscopy and off-axis electron holography were performed to map the NW elemental composition and magnetic induction as a function of NW growth angle. Comparison of the results reveals a reduction in metal content with increased oblique growth angle in FEBID NWs. The magnitude of metal content reduction can be tuned by controlling electron beam parameters, and ferromagnetic NWs with approximately equal metal content at growth angles from 0° to 60° were fabricated by using the lowest viable electron beam voltage and the highest viable beam current to reduce the interaction volume and increase the metal content, respectively.",
+  "authors": [
+   "Aurys Silinga",
+   "Keir Edgar",
+   "Stephen McVitie",
+   "Kayla Fallon",
+   "András Kovács",
+   "Rafal E. Dunin-Borkowski",
+   "Trevor P. Almeida"
+  ],
+  "categories": [
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Aurys Silinga",
+  "pdf_url": "http://arxiv.org/pdf/2605.14673",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-05-14",
+  "tags": [
+   "additive-manufacturing",
+   "spectroscopy",
+   "tem"
+  ],
+  "title": "Compositional and Magnetic Characterisation of Oblique Co and Fe Nanowire Structures Fabricated Using Focused Electron Beam Induced Deposition",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.14898": {
+  "abstract": "Establishing structure-property linkages in polycrystalline materials requires representative two- (2D) and three- (3D) dimensional microstructural inputs for full-field simulations. A core objective of microstructure characterization and reconstruction is the generative synthesis of 2D and 3D microstructures that reflect a target statistical ensemble using limited 2D data as a reference. This work introduces an orientation-based differentiable microstructure characterization and reconstruction framework, implemented in MCRpy, to perform reconstructions of voxelized images. Unit quaternions in combination with symmetrized hyperspherical harmonics are utilized to derive a continuous, symmetry-invariant representation of crystallographic orientations to overcome the numerical singularities and discontinuities associated with traditional Euler-based methods.   The descriptor-based reconstructions are driven by a set combining two-point spatial correlations, a novel hybrid three-point variogram, and a mean variation regularizer to capture both global texture and local interfacial topology. The framework's efficiency is demonstrated by reconstructing 3D realizations from 2D orientation data of an aluminum alloy after thermo-mechanical processing, successfully recovering both morphological features and crystallographic distribution. Systematic benchmarking indicates that second-order gradient-based optimization, utilizing the L-BFGS-B algorithm, effectively navigates the complex loss landscape to generate high-fidelity realizations with minimal residuals. This methodology provides a versatile, open-source framework for the digital synthesis of polycrystalline representative volume elements to facilitate the rapid development of microstructure-informed materials design workflows.",
+  "authors": [
+   "Ali R. Safi",
+   "Paul Seibert",
+   "Santiago Benito",
+   "Alexander Raßloff",
+   "Markus Kästner",
+   "Benjamin Klusemann"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ali R. Safi",
+  "pdf_url": "http://arxiv.org/pdf/2605.14898",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-14",
+  "tags": [
+   "benchmarking",
+   "polymer-morphology"
+  ],
+  "title": "Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.15007": {
+  "abstract": "A quasi-static filtration system, comprising a poroelastic solid coupled to an incompressible free-flow, is considered in 3D. Across a flat 2D interface, the Beavers-Joseph-Saffman coupling conditions are taken. The system constitutes a doubly elliptic-parabolic coupling and can be seen as a degenerate case of the inertial Biot-Stokes dynamics of recent interest. These dynamics cannot be easily recovered through a vanishing inertia limit, however, utilizing a viscoelastic regularization of the inertial Biot system allows us to construct weak solutions in the inertial limit; subsequently, we pass to the limit in the regularization parameter to obtain quasi-static weak solutions. This addresses an open singular/degenerate limiting problem in filtrations, and allows for subsequent analysis of uniqueness and regularity. This also provides a foundation for the incorporation of physically-motivated nonlinear poroelastic effects.",
+  "authors": [
+   "Peter Lavagnino",
+   "Arum Lee",
+   "Justin T. Webster"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Peter Lavagnino",
+  "pdf_url": "http://arxiv.org/pdf/2605.15007",
+  "primary_category": "math.AP",
+  "published": "2026-05-14",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Weak Solutions and Inertial Limits for Quasi-static Filtrations",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.15089": {
+  "abstract": "This paper presents the first systematic application of a material homotopy continuation framework for efficient, automated computation of dispersion curves in viscoelastic waveguides of arbitrary cross-section. A material homotopy continuously maps the original lossy problem to an auxiliary lossless one via an attenuation parameter s in [0,1], addressing the core challenges of the non-Hermitian eigenvalue problem. Grounded in analytic perturbation theory, the method guarantees branch identity continuity--a one-to-one correspondence between solutions at s=0 and s=1--provided the real-parameter path does not cross any exceptional points. Under a Type I exceptional point topology, physical mode labels established at the elastic stage remain valid at the viscoelastic stage without post-processing, yielding the characteristic real-part veering with imaginary-part crossing. The decoupling strategy performs reliable mode tracking in the Hermitian regime via adaptive wavenumber refinement, then propagates a sparse set of key solutions to the target viscoelastic state through predictor-corrector homotopy continuation. Numerical examples across symmetric and unsymmetric laminates validate the framework's robustness and efficiency, with the majority of cases verified at a loss factor of approximately 0.003 and a single symmetric laminate providing additional support at 0.02. For a challenging unsymmetric laminate at a loss factor of 0.05, the method still produces numerically accurate solutions; two complementary diagnostic signatures--an extremely sharp imaginary-part crossing and a discernible discrepancy between spectral group velocity and energy flux velocity--warn of potential label mismatch and guide further analysis.",
+  "authors": [
+   "Dong Xiao",
+   "Zahra Sharif Khodaei",
+   "M. H. Aliabadi"
+  ],
+  "categories": [
+   "math.NA",
+   "physics.comp-ph"
+  ],
+  "comment": "43 pages, 11 figures",
+  "first_author": "Dong Xiao",
+  "pdf_url": "http://arxiv.org/pdf/2605.15089",
+  "primary_category": "math.NA",
+  "published": "2026-05-14",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-14"
  }
 }

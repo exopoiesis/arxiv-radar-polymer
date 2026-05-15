@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14432.html">Additively manufactured Shape Memory Alloy Hybrid Composites with a polymer matrix featuring a re-entrant honeycomb structure</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Manuel Kunzler et al.</td>
 <td><a href="http://arxiv.org/abs/2604.14432">2604.14432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12982.html">Opportunistic QKD: Exploiting Idle Capacity of Classical WDM Systems</a></div></td>
-<td>Sumit Chaudhary et al.</td>
-<td><a href="http://arxiv.org/abs/2604.12982">2604.12982</a></td>
 </tr>
 </tbody></table>

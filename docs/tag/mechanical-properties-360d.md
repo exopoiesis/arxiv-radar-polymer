@@ -16,6 +16,24 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="saxs-360d.html">saxs</a></div></td>
+<td>Pritha Acharya et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15007.html">Weak Solutions and Inertial Limits for Quasi-static Filtrations</a></div></td>
+<td>Peter Lavagnino et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15007">2605.15007</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15089.html">Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity</a></div></td>
+<td>Dong Xiao et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15089">2605.15089</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div></td>
 <td>Giovanni P. Galdi et al.</td>
@@ -2798,23 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14334.html">Water-rich amorphous state from drying mixed-metal sulfate solutions</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Christiaan T. van Campenhout et al.</td>
 <td><a href="http://arxiv.org/abs/2505.14334">2505.14334</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13283.html">Accelerating Bayesian Optimal Experimental Design via Local Radial Basis Functions: Application to Soft Material Characterization</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Tianyi Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13283">2505.13283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13320.html">Semi-analytical solutions of passive scalar transport in generalized Newtonian fluid flow</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Christopher A. Bowers et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13320">2505.13320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01994.html">Re-experiment Smart: a Novel Method to Enhance Data-driven Prediction of Mechanical Properties of Epoxy Polymers</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Wanshan Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01994">2506.01994</a></td>
 </tr>
 </tbody></table>

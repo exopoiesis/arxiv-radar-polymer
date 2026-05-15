@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14516.html">A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks</a></div><div class="paper-tags"><a href="extrusion-7d.html">extrusion</a> · <a href="phase-separation-7d.html">phase-separation</a></div></td>
+<td>Léa Beaulès et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14516">2605.14516</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
+<td>Ali R. Safi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="composites-7d.html">composites</a> · <a href="nanocomposites-7d.html">nanocomposites</a></div></td>
 <td>Runchen Zhou et al.</td>
@@ -38,17 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07235.html">Anisotropic Thermal Conduction as a Driver of Jet Collimation and Magnetic Field Amplification on Cold Fronts</a></div></td>
 <td>Nana Matsuno et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07235">2605.07235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07718.html">Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells</a></div><div class="paper-tags"><a href="band-gap-7d.html">band-gap</a> · <a href="organic-photovoltaics-7d.html">organic-photovoltaics</a></div></td>
-<td>Francesc Xavier Capella-Guardià et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07718">2605.07718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08255.html">Can LLMs Predict Polymer Physics Just by Reading Synthesis and Processing Prose?</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
-<td>Yuchu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08255">2605.08255</a></td>
 </tr>
 </tbody></table>

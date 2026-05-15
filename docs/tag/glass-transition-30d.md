@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>glass-transition — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <strong>30d</strong> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13653.html">Ternary liquid crystalline mixture showing broad antiferroelectric smectic C$_A$* and glassy hexatic smectic X$_A$* phases</a></div><div class="paper-tags"><a href="dielectric-properties-30d.html">dielectric-properties</a></div></td>
 <td>Aleksandra Deptuch et al.</td>
 <td><a href="http://arxiv.org/abs/2604.13653">2604.13653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16791.html">A Constraint-Modulated Rate Law Outperforming VFT and Its Modern Alternatives Across Canonical Glass-Forming Liquids</a></div></td>
-<td>Debra S. Gavant et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16791">2511.16791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16060.html">Super-Arrhenius temperature dependent viscosity due to liquid-liquid phase separation in the super-cooled Kob-Andersen model</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Jayme Brickley et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16060">2602.16060</a></td>
 </tr>
 </tbody></table>

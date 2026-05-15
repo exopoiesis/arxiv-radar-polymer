@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">83 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -512,17 +512,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02129.html">Benchmarking Large Language Models for Polymer Property Predictions</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="polymer-informatics-360d.html">polymer-informatics</a></div></td>
 <td>Sonakshi Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02129">2506.02129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03385.html">On the possibility of chiral symmetry breaking in liquid hydrogen peroxide</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Roberto Menta et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03385">2503.03385</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01994.html">Re-experiment Smart: a Novel Method to Enhance Data-driven Prediction of Mechanical Properties of Epoxy Polymers</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Wanshan Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2506.01994">2506.01994</a></td>
 </tr>
 </tbody></table>
