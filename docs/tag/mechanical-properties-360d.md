@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2804,17 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16513.html">Existence of weak martingale solutions to a stochastic fluid-structure interaction problem with a compressible viscous fluid</a></div></td>
 <td>Jeffrey Kuan et al.</td>
 <td><a href="http://arxiv.org/abs/2409.16513">2409.16513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11685.html">Pull-off force prediction in viscoelastic adhesive Hertzian contact by physics augmented machine learning</a></div></td>
-<td>Ali Maghami et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11685">2505.11685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14334.html">Water-rich amorphous state from drying mixed-metal sulfate solutions</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Christiaan T. van Campenhout et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14334">2505.14334</a></td>
 </tr>
 </tbody></table>

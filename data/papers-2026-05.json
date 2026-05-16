@@ -1705,6 +1705,29 @@
   ],
   "updated": "2026-05-13"
  },
+ "2605.14198": {
+  "abstract": "Collective critical behavior is often identified with thermodynamic nonanalyticities and divergences emerging only in the infinite-size limit. Here we adopt a complementary viewpoint: criticality is a structural property due to the rearrangement of the interactions among system's constituents that already exists at finite size and becomes singular only asymptotically. We show that the microcanonical entropy derivatives provide a natural finite-$N$ arena where such structure is encoded in intrinsic extremal/inflection morphologies, and that microcanonical inflection-point analysis (MIPA) turns these morphologies into a unique finite-size critical marker and a well-defined critical trajectory. Using the mean-field $φ^4$ model as a stringent benchmark, we reconstruct $β_N(\\varepsilon)$ and $γ_N(\\varepsilon)$ from microcanonical simulations, validate them against analytic results, and demonstrate that the MIPA trajectory converges to the exact thermodynamic critical point while simultaneously organizing the approach of other observables to their asymptotic behavior. Our results elevate finite-size criticality from a rounded remnant of the thermodynamic limit to a measurable and predictive object in its own right, with direct relevance to modern finite-system platforms and numerical studies.",
+  "authors": [
+   "Loris Di Cairano",
+   "Roberto Franzosi"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Loris Di Cairano",
+  "pdf_url": "http://arxiv.org/pdf/2605.14198",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-13",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "A microcanonical approach to criticality in the mean-field $φ^4$ model: evidence of intrinsic microcanonical structure before the thermodynamic limit",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-13"
+ },
  "2605.14353": {
   "abstract": "Nanoscale fabrication inevitably produces local stochasticity that is commonly treated as a defect, but can instead be harnessed as a material resource for information security. Here we report a chiroptical platform for ternary entropy harvesting based on stochastic Au nanopatterns formed by block copolymer self-assembly. By transducing fabrication-induced stochastic microstates into handedness-dependent optical responses through chiroptical mapping, our platform enables native ternary digitization rather than conventional binary encoding, allowing physically harvested ternary random sequences to be used for key generation. This raises the information density to log2(3) = 1.585 bits per trit, approximately 58.5% higher than the binary limit, enabling more entropy to be harvested from a limited physical footprint. The harvested outputs exhibit near-balanced symbol populations, negligible spatial and inter-sample correlations, Shannon entropy approaching the ternary ideal, and resistance to statistical and machine-learning-based prediction. These results establish self-assembled chiroptical nanostructures as a scalable platform for cryptographic key generation, secure edge devices, and distributed Internet-of-Things platforms.",
   "authors": [
@@ -1756,6 +1779,7 @@
   ],
   "title": "A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Sustainability & Functional Applications"
   ],
@@ -1893,6 +1917,33 @@
   "title": "Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-14"
+ },
+ "2605.15174": {
+  "abstract": "The performance of quantum resource manipulation protocols, including key examples such as distillation of quantum entanglement, is measured in terms of the rate at which desired target states can be produced from a given noisy state. However, to achieve optimal rates, known protocols require precise tailoring to the quantum state in question, demanding a perfect knowledge of the input and allowing no errors in its preparation. Here we show that distillation of quantum resources in the framework of resource non-generating operations can be performed universally: optimal rates of distillation can be achieved with no knowledge of the input state whatsoever, certifying the robustness of quantum resource distillation. The findings apply in particular to the purification of quantum entanglement under non-entangling maps, where the optimal rates are governed by the regularised relative entropy of entanglement. Our result relies on an extension of the generalised quantum Stein's lemma in quantum hypothesis testing to a composite setting where the null hypothesis is no longer a fixed quantum state, but is rather composed of i.i.d. copies of an unknown state. The solution of this asymptotic problem is made possible through new developments in one-shot quantum information and a refinement of the blurring technique from [Lami, arXiv:2408.06410].",
+  "authors": [
+   "Ludovico Lami",
+   "Bartosz Regula",
+   "Ryuji Takagi"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech",
+   "cs.IT",
+   "math-ph"
+  ],
+  "comment": "8+12 pages",
+  "first_author": "Ludovico Lami",
+  "pdf_url": "http://arxiv.org/pdf/2605.15174",
+  "primary_category": "quant-ph",
+  "published": "2026-05-14",
+  "tags": [
+   "composites"
+  ],
+  "title": "Universal quantum resource distillation via composite generalised quantum Stein's lemma",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-14"
  }

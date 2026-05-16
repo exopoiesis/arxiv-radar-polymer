@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,11 +1214,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17396.html">Cross-scale Modeling of Polymer Topology Impact on Extrudability through Molecular Dynamics and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Yawei Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2505.17396">2505.17396</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13828.html">Multimodal RAG-driven Anomaly Detection and Classification in Laser Powder Bed Fusion using Large Language Models</a></div></td>
-<td>Kiarash Naghavi Khanghah et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13828">2505.13828</a></td>
 </tr>
 </tbody></table>

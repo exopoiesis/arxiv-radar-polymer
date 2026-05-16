@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-15._
+_Updated 2026-05-16._
 
-**3338** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3340** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -57,6 +57,12 @@ _Updated 2026-05-15._
 <td><a href="http://arxiv.org/abs/2605.15089">2605.15089</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15174.html">Universal quantum resource distillation via composite generalised quantum Stein&#x27;s lemma</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Ludovico Lami et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15174">2605.15174</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Philipp Höllmer et al.</td>
@@ -103,6 +109,12 @@ _Updated 2026-05-15._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.13927.html">Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \textit{Pseudomonas aeruginosa} Sibling Colonies</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
 <td>Dario Buonomo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13927">2605.13927</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14198.html">A microcanonical approach to criticality in the mean-field $φ^4$ model: evidence of intrinsic microcanonical structure before the thermodynamic limit</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Loris Di Cairano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.14198">2605.14198</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-12</td>
@@ -181,17 +193,5 @@ _Updated 2026-05-15._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.10630.html">Thermodynamics and dynamics of non-compact prismatic dislocation loops simulated using a machine-learning model</a></div></td>
 <td>Sho Hayakawa et al.</td>
 <td><a href="http://arxiv.org/abs/2605.10630">2605.10630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11281.html">Unbiased large-$N$ approach to competing vestigial orders of density-wave and superconducting instabilities</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Grgur Palle et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11281">2605.11281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11342.html">Mechanics of heterogeneous fiber networks</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Kyu Hwan Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11342">2605.11342</a></td>
 </tr>
 </tbody></table>

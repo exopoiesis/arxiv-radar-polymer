@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15174.html">Universal quantum resource distillation via composite generalised quantum Stein&#x27;s lemma</a></div></td>
+<td>Ludovico Lami et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15174">2605.15174</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="nanocomposites-30d.html">nanocomposites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
@@ -68,23 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17631.html">Conjugate Beamforming Variants for Multicasting in Cell-Free Massive MIMO Systems</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Alejandro de la Fuente et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17631">2604.17631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15766.html">Subdimensional Entanglement Entropy: From Geometric-Topological Response to Mixed-State Holography</a></div></td>
-<td>Meng-Yuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15766">2510.15766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14289.html">Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Zhou-Quan Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14289">2604.14289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14432.html">Additively manufactured Shape Memory Alloy Hybrid Composites with a polymer matrix featuring a re-entrant honeycomb structure</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Manuel Kunzler et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14432">2604.14432</a></td>
 </tr>
 </tbody></table>

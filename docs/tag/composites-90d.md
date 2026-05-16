@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15174.html">Universal quantum resource distillation via composite generalised quantum Stein&#x27;s lemma</a></div></td>
+<td>Ludovico Lami et al.</td>
+<td><a href="http://arxiv.org/abs/2605.15174">2605.15174</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Runchen Zhou et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23385.html">Polyvinylpyrrolidone planarized liquid crystalline 1T-WS2/rGO hybrid nanocomposites-based humidity sensing platform</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a></div></td>
 <td>A. Vasilev et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23385">2602.23385</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.13535.html">Biocompatibility of Additively Manufactured Fe-AZ31 Biodegradable Composites for Craniofacial Implant Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Xue Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2602.13535">2602.13535</a></td>
 </tr>
 </tbody></table>

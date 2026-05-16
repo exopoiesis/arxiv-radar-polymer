@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,17 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15433.html">The Phase Transitions in a $p$ spin Glass Model: A Numerical Study</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
 <td>Prerak Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15433">2604.15433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24303.html">Mixing, segregation, and collapse transitions of interacting copolymer rings</a></div></td>
-<td>EJ Janse van Rensburg et al.</td>
-<td><a href="http://arxiv.org/abs/2512.24303">2512.24303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14289.html">Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Zhou-Quan Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14289">2604.14289</a></td>
 </tr>
 </tbody></table>
