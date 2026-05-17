@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <strong>30d</strong> <a href="thermal-conductivity-90d.html">90d</a> <a href="thermal-conductivity-360d.html">360d</a> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06131.html">Simultaneous measurement of thermal conductivity and specific heat in quasi-two-dimensional membranes using the 3ω method</a></div><div class="paper-tags"><a href="membranes-30d.html">membranes</a></div></td>
 <td>Yiwei Le et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06131">2512.06131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14770.html">Thermal conductivity tuning of scalable nanopatterned silicon membranes measured with a three-probe method</a></div><div class="paper-tags"><a href="block-copolymer-30d.html">block-copolymer</a> · <a href="membranes-30d.html">membranes</a></div></td>
-<td>Jose M. Sojo-Gordillo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14770">2604.14770</a></td>
 </tr>
 </tbody></table>

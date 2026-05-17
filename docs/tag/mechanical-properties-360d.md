@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">465 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,11 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05105.html">Viscoelasticity reduces the droplet size in mucosalivary film fragmentation during intense respiratory events</a></div></td>
 <td>Mogeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2502.05105">2502.05105</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16513.html">Existence of weak martingale solutions to a stochastic fluid-structure interaction problem with a compressible viscous fluid</a></div></td>
-<td>Jeffrey Kuan et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16513">2409.16513</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">141 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -854,11 +854,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15083.html">Coupled Map Lattice for Astronomical Object Formation: A Scenario for Evolution from Star to Disk, Arms, and Companions</a></div></td>
 <td>Erika Nozawa</td>
 <td><a href="http://arxiv.org/abs/2602.15083">2602.15083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14287.html">Autonomous Robotic Tissue Palpation and Abnormalities Characterisation via Ergodic Exploration</a></div></td>
-<td>Luca Beber et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14287">2602.14287</a></td>
 </tr>
 </tbody></table>

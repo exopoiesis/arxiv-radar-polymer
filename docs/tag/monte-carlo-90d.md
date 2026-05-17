@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,17 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00093.html">Adaptive Uncertainty-Guided Surrogates for Efficient phase field Modeling of Dendritic Solidification</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Eider Garate-Perez et al.</td>
 <td><a href="http://arxiv.org/abs/2603.00093">2603.00093</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.11630.html">Revisiting vestigial order in nematic superconductors: gauge-field mechanisms and model constraints</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>Ilaria Maccari et al.</td>
-<td><a href="http://arxiv.org/abs/2505.11630">2505.11630</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14097.html">Delocalisation explains efficient transport and charge generation in neat Y6 organic photovoltaics</a></div><div class="paper-tags"><a href="organic-photovoltaics-90d.html">organic-photovoltaics</a></div></td>
-<td>Daniel Balzer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14097">2602.14097</a></td>
 </tr>
 </tbody></table>

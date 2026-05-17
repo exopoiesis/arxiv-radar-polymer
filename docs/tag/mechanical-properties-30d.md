@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02801.html">Flow-induced bending response rheometer to measure viscoelastic bending of microrods</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
 <td>Barrett T Smith et al.</td>
 <td><a href="http://arxiv.org/abs/2602.02801">2602.02801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08506.html">Mellin-Space Prony Representability of Linear Viscoelastic Models</a></div></td>
-<td>Dimiter Prodanov</td>
-<td><a href="http://arxiv.org/abs/2602.08506">2602.08506</a></td>
 </tr>
 </tbody></table>

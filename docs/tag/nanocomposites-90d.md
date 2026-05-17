@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>nanocomposites — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <strong>90d</strong> <a href="nanocomposites-360d.html">360d</a> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15795.html">Surface Block Identity Controls Transport of Symmetric Diblock Copolymer Through Nanopores</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>Sang Yup Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15795">2602.15795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23385.html">Polyvinylpyrrolidone planarized liquid crystalline 1T-WS2/rGO hybrid nanocomposites-based humidity sensing platform</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>A. Vasilev et al.</td>
-<td><a href="http://arxiv.org/abs/2602.23385">2602.23385</a></td>
 </tr>
 </tbody></table>

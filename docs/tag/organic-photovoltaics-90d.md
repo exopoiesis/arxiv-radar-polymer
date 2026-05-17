@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <strong>90d</strong> <a href="organic-photovoltaics-360d.html">360d</a> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04863.html">Spontaneously Formed Orientation Polarization Thin Films for Engineering Organic-Organic Interfaces</a></div></td>
 <td>Masaki Tanaka et al.</td>
 <td><a href="http://arxiv.org/abs/2505.04863">2505.04863</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14097.html">Delocalisation explains efficient transport and charge generation in neat Y6 organic photovoltaics</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Daniel Balzer et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14097">2602.14097</a></td>
 </tr>
 </tbody></table>
