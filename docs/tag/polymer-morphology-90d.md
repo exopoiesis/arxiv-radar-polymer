@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15729.html">Revealing 3D Strain and Carbide Architectures in Additively Manufactured Ni Superalloys</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>James A. D. Ball et al.</td>
 <td><a href="http://arxiv.org/abs/2602.15729">2602.15729</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14402.html">Convergent-Beam X-ray Crystallography</a></div></td>
-<td>Chufeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2602.14402">2602.14402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15185.html">Finding the Edge of Chaos in a Ferromagnet: Quantifying the &quot;Complexity&quot; of 2D Ising Phase Transitions with Image Compression</a></div></td>
-<td>Cooper Jacobus</td>
-<td><a href="http://arxiv.org/abs/2602.15185">2602.15185</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03472.html">Kinetic theory of dilute weakly charged granular gases with hard-core and inverse power-law interactions under uniform shear flow</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Yuria Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03472">2601.03472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.14627.html">Wavemaker and endogeneity of gravitationally stretched weakly viscoelastic jets</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Daniel Moreno-Boza</td>
-<td><a href="http://arxiv.org/abs/2602.14627">2602.14627</a></td>
 </tr>
 </tbody></table>

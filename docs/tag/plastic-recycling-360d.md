@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>plastic-recycling — 360d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="plastic-recycling-7d.html">7d</a> <a href="plastic-recycling-30d.html">30d</a> <a href="plastic-recycling-90d.html">90d</a> <strong>360d</strong> <a href="plastic-recycling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14413.html">Computations Meet Experiments to Advance the Enzymatic Depolymerization of Plastics One Atom at a Time</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Francesco Colizzi et al.</td>
 <td><a href="http://arxiv.org/abs/2507.14413">2507.14413</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16513.html">Detailed Evaluation of Modern Machine Learning Approaches for Optic Plastics Sorting</a></div></td>
-<td>Vaishali Maheshkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16513">2505.16513</a></td>
 </tr>
 </tbody></table>

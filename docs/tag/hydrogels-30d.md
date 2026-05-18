@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hydrogels — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <strong>30d</strong> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,23 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16811.html">Impact dynamics of flexible hydrogels on solid substrates of different wettabilities</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Akash Chowdhury et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16811">2604.16811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08331.html">Ultra-slow capillary rise on hydrogel surfaces</a></div></td>
-<td>Anagha Datar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08331">2509.08331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.00137.html">Microfluidic Fabrication and Analysis of Biocompatible, Monodisperse DNA-Hydrogels with Tunable Swelling and Dissolution Kinetics</a></div></td>
-<td>Corinna Torabi et al.</td>
-<td><a href="http://arxiv.org/abs/2602.00137">2602.00137</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02801.html">Flow-induced bending response rheometer to measure viscoelastic bending of microrods</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Barrett T Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02801">2602.02801</a></td>
 </tr>
 </tbody></table>
