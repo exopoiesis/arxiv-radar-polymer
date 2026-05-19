@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17956.html">Entropy additivity from exponential decay of correlations: a coarse-grained operator approach</a></div></td>
+<td>Bob Osano</td>
+<td><a href="http://arxiv.org/abs/2605.17956">2605.17956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17621.html">Variational Boundary Fluctuations as a First-Principles Origin of Langevin Noise</a></div></td>
+<td>Francisco Monroy</td>
+<td><a href="http://arxiv.org/abs/2605.17621">2605.17621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Alberto Ocana et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
@@ -32,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03404.html">Sparkling bubbles in chiral active fluids</a></div></td>
 <td>Alessandro Petrini et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03404">2605.03404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16330.html">A Data-Driven Parametric Reduced-Order Chemical Kinetics Model Derived from Atomistic Simulations</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a></div></td>
+<td>Michael N. Sakano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16330">2605.16330</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -344,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15663.html">Entropy production reveals hidden dynamical constraints rather than stochastic disorder</a></div></td>
 <td>Patrick Romanescu</td>
 <td><a href="http://arxiv.org/abs/2602.15663">2602.15663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15795.html">Surface Block Identity Controls Transport of Symmetric Diblock Copolymer Through Nanopores</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Sang Yup Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15795">2602.15795</a></td>
 </tr>
 </tbody></table>

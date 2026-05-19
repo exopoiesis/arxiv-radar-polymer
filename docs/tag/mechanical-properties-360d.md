@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">462 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,6 +86,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11342.html">Mechanics of heterogeneous fiber networks</a></div></td>
 <td>Kyu Hwan Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11342">2605.11342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16389.html">Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity</a></div></td>
+<td>Gorkem Gemalmaz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16389">2605.16389</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -2780,17 +2786,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00029.html">Characterization of atomization and delivery efficiency of exogenous surfactant in preterm infant lungs using an ex vivo respiratory model</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Ghalia Kaouane et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00029">2506.00029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.00556.html">Finding the Underlying Viscoelastic Constitutive Equation via Universal Differential Equations and Differentiable Physics</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Elias C. Rodrigues et al.</td>
-<td><a href="http://arxiv.org/abs/2501.00556">2501.00556</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01230.html">Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
-<td>J. Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01230">2505.01230</a></td>
 </tr>
 </tbody></table>

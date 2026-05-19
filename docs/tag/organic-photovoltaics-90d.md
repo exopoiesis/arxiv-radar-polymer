@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <strong>90d</strong> <a href="organic-photovoltaics-360d.html">360d</a> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04097.html">Spectral Bath Engineering for Quantum-Enhanced Agrivoltaics: Advancing Efficiency and Environmental Sustainability via Non-Markovian Dynamics</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04097">2603.04097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04863.html">Spontaneously Formed Orientation Polarization Thin Films for Engineering Organic-Organic Interfaces</a></div></td>
-<td>Masaki Tanaka et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04863">2505.04863</a></td>
 </tr>
 </tbody></table>

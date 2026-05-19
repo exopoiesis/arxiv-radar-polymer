@@ -1946,5 +1946,336 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-14"
+ },
+ "2605.15625": {
+  "abstract": "We introduce ColPackAgent, an agent framework that autonomously runs Monte Carlo simulations of colloidal packing through a Model Context Protocol (MCP) tool server and an agent skill, whether as a standalone agent or inside an existing agent system. By harnessing the MCP server and agent skill, ColPackAgent executes a structured workflow for colloidal packing simulations, which are central to studies of phase behavior, self-assembly, and materials design. Without dedicated simulation tools and workflow instructions, general-purpose Large Language Model (LLM) agents tend to describe such workflows rather than execute them reliably. The MCP server exposes a custom-built colpack Python package that wraps HOOMD-blue hard-particle Monte Carlo, and the skill encodes a four-stage workflow contract. ColPackAgent can carry out the workflow interactively with human feedback, autonomously from an end-to-end prompt, or as autoresearch following a provided program file. We demonstrate the system in different modes with several colloidal packing simulation examples such as cube particles in 3D, a binary system of disks and capsules in 2D, and the 2D hard-disk freezing transition using autoresearch. We also compare model performance on this workflow across a panel of LLMs with 17 stage-specific prompts. This benchmark provides a stage-level check of how reliably different models follow the setup, planning, and analysis workflow. Together, these results show that pairing a domain Python package with MCP tools and a portable agent skill provides a practical route for turning a simulation toolkit into an agent-assisted research workflow.",
+  "authors": [
+   "Lijie Ding",
+   "Changwoo Do"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Lijie Ding",
+  "pdf_url": "http://arxiv.org/pdf/2605.15625",
+  "primary_category": "cs.AI",
+  "published": "2026-05-15",
+  "tags": [
+   "benchmarking",
+   "monte-carlo"
+  ],
+  "title": "ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-15"
+ },
+ "2605.15797": {
+  "abstract": "According to the formulation of the charged large $D$ membrane paradigm, an arbitrary dynamic black hole solution to a theory of gravity with a $U(1)$ gauge field is dual to the dynamics of a membrane in a non-gravitational background. This membrane is endowed with a stress-energy tensor and a charge current, whose conservation equations govern its dynamics. In this work, we demonstrate that the dynamics of these membrane configurations (at the leading nontrivial order in $1/D$) can be mapped to a relativistic charged fluid. Establishing a correspondence for asymptotically flat black holes with a particular class of fluid systems. Unlike the standard AdS/Hydrodynamics correspondence, this dual fluid does not reside on an asymptotic boundary, but is localized strictly on the non-gravitational membrane worldvolume. By evaluating the system in both the Eckart and Landau frames, we systematically extract the out-of-equilibrium transport coefficients. We find that the fluid is governed by a negative effective thermal conductivity and a negative heat capacity, a mechanism that enforces thermodynamic stability in agreement with the quasinormal mode damping in the large $D$ Reissner-Nordström black hole geometry.",
+  "authors": [
+   "Supratim Halder",
+   "Manu Kurian",
+   "Mangesh Mandlik"
+  ],
+  "categories": [
+   "hep-th"
+  ],
+  "comment": "20 pages, 9 pages appendix, 1 table",
+  "first_author": "Supratim Halder",
+  "pdf_url": "http://arxiv.org/pdf/2605.15797",
+  "primary_category": "hep-th",
+  "published": "2026-05-15",
+  "tags": [
+   "thermal-conductivity"
+  ],
+  "title": "A fluid dual to charged large D membrane paradigm",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-15"
+ },
+ "2605.15909": {
+  "abstract": "We introduce the notion of $π^2$-graded Hopf algebra, where the grading is by the double groupoid of commutative diagrams of a finite groupoid $π$. The finite dimensional representations of a $π^2$-graded Hopf algebra form a rigid monoidal category with a fibre functor to the category of $π$-graded vector spaces. The main example is given by the restricted quantum groups underlying the Andrews-Baxter-Forrester restricted solid-on-solid models of statistical mechanics and, more generally, the Jimbo-Miwa-Okado models associated to classical Lie algebras.",
+  "authors": [
+   "Jelena Anić",
+   "Giovanni Felder"
+  ],
+  "categories": [
+   "math.QA",
+   "math.RT"
+  ],
+  "comment": "51 pages",
+  "first_author": "Jelena Anić",
+  "pdf_url": "http://arxiv.org/pdf/2605.15909",
+  "primary_category": "math.QA",
+  "published": "2026-05-15",
+  "tags": [],
+  "title": "Restricted quantum groups as graded Hopf algebras",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-15"
+ },
+ "2605.16070": {
+  "abstract": "Antibody-based therapeutics-including antibody-drug conjugates (ADCs), bispecific antibodies, and novel formats-are reshaping oncology, yet key determinants of efficacy, safety, and manufacturability frequently emerge after conjugation and formulation. We argue that computational biophysics provides an underexploited framework to address this gap by connecting molecular interactions to biological outcomes. We highlight how molecular dynamics, coarse-grained simulations, and free energy calculations reveal how conjugation site, linker chemistry, and drug-antibody ratio reshape conformational landscapes. We emphasize structural coupling between antibody, linker, and payload, with implications for antigen binding, internalization, and developability. We propose that integrating physics-based modeling into development pipelines-alongside experimental validation-can reduce empirical iteration and de-risk translation. As force fields, and hybrid physics-machine-learning methods improve, this field is poised to become a central driver of next-generation ADC design.",
+  "authors": [
+   "Alberto Ocana",
+   "Jorge R. Espinosa"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "16 pages, 2 figures",
+  "first_author": "Alberto Ocana",
+  "pdf_url": "http://arxiv.org/pdf/2605.16070",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-15",
+  "tags": [
+   "coarse-grained",
+   "mlff",
+   "molecular-dynamics"
+  ],
+  "title": "Biophysical Considerations for Rational Antibody and ADC Design",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-15"
+ },
+ "2605.16119": {
+  "abstract": "We consider the bulk $φ^3$ deformation of the free boundary conformal field theory in the $ε$ expansion. We determine the leading corrections to the scaling dimensions of boundary fundamental operators and some boundary operator expansion coefficients. Our procedure combines the conformal multiplet recombination with the boundary crossing symmetry. The results cover both the single field case and the multi-field case with $S_{N+1}$ global symmetry, which are associated with the Yang-Lee model and the $(N+1)$-state Potts model respectively. These semi-infinite models describe branched polymers, percolation, and spanning forest at a surface. We generalize these results to some higher derivative theories. In addition, we study the $φ^{2n+1}$ theories with $n>1$, but only obtain some boundary operator expansion coefficients.",
+  "authors": [
+   "Yongwei Guo",
+   "Wenliang Li"
+  ],
+  "categories": [
+   "hep-th",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "29 pages, 1 figure",
+  "first_author": "Yongwei Guo",
+  "pdf_url": "http://arxiv.org/pdf/2605.16119",
+  "primary_category": "hep-th",
+  "published": "2026-05-15",
+  "tags": [],
+  "title": "Boundary anomalous dimensions from BCFT: $φ^{3}$ theories with a boundary and higher-derivative generalizations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-15"
+ },
+ "2605.16330": {
+  "abstract": "Coarse-grained modeling in molecular simulations serves not only to extend accessible time and length scales beyond atomistic limits, but also to reduce high-dimensional chemical data to low-dimensional representations that expose the underlying latent structure. In the context of energetic materials, reduced-order chemical kinetics models are essential for describing thermally driven decomposition, deflagration, and detonation. Recent data-driven approaches based on machine learning and dimensionality reduction have shown promise for constructing such models directly from atomistic simulations; however, when reaction pathways vary strongly with thermodynamic conditions, these methods can produce latent representations that are difficult to interpret physically or extrapolate reliably. Here, we introduce a parametric, temperature-dependent autoencoder framework that learns a unified reduced-order description of chemical decomposition across a wide range of temperatures within a single model. Physical interpretability is enforced through non-negativity constraints and a softmax activation, enabling the latent variables to be directly associated with additive chemical components and their relative contributions. Reaction kinetics and heat-release parameters are optimized simultaneously within the neural-network architecture, providing a self-consistent coupling between chemical evolution and energetics. The proposed approach yields significantly improved reconstruction accuracy compared to a state-of-the-art dimensionality-reduction method, as quantified by reductions in mean-squared error, while preserving a physically meaningful latent representation. These results demonstrate that parametric, interpretable machine-learning models can provide robust reduced-order chemical kinetics suitable for multiscale modeling of complex reactive systems.",
+  "authors": [
+   "Michael N. Sakano",
+   "Alejandro Strachan"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "Main Text: 21 pages, 8 figures; Supplementary Material: 11 pages, 10 figures",
+  "first_author": "Michael N. Sakano",
+  "pdf_url": "http://arxiv.org/pdf/2605.16330",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-05",
+  "tags": [
+   "coarse-grained",
+   "multiscale-modeling"
+  ],
+  "title": "A Data-Driven Parametric Reduced-Order Chemical Kinetics Model Derived from Atomistic Simulations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-05"
+ },
+ "2605.16389": {
+  "abstract": "Haptic rendering of viscoelastic materials that exhibit creep and stress relaxation is crucial for many applications, such as medical training with realistic biological tissue models. Fractional-order viscoelastic models provide an effective means of describing intrinsically time-dependent dynamics with few parameters, as these models can naturally capture memory effects. In this study, we present analyses of passivity and rendering performance for fractional-order viscoelastic models under finite-memory discretization. We derive closed-form expressions to ensure the passivity of haptic rendering with a fractional-order (FO) standard linear solid (SLS) model based on Grunwald-Letnikov derivative under short-memory discretization. We also provide symbolic expressions for the effective stiffness and damping of such FO-SLS models. The resulting passivity conditions constitute a unified framework that generalizes previously reported results for integer-order Kelvin-Voigt, Maxwell, and SLS models, since these results are special cases of the newly derived condition. Furthermore, we provide experimental validations of the theoretical passivity bounds and human-subject evaluations of perceived realism of FO-SLS models. Overall, this study establishes a unified theoretical framework and experimental evaluations for FO viscoelastic rendering under short-memory discretization.",
+  "authors": [
+   "Gorkem Gemalmaz",
+   "Harun Tolasa",
+   "Volkan Patoglu"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI",
+   "eess.SY"
+  ],
+  "comment": "Under review for publication in IEEE Transactions on Robotics",
+  "first_author": "Gorkem Gemalmaz",
+  "pdf_url": "http://arxiv.org/pdf/2605.16389",
+  "primary_category": "cs.RO",
+  "published": "2026-05-11",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-11"
+ },
+ "2605.17207": {
+  "abstract": "Molten iron chlorides are central to emerging energy technologies, including electrochemical iron production and redox flow batteries. Optimizing their electrochemical performance and transport properties requires atomic-scale structural understanding, yet detailed data for molten FeCl2 and its differences from FeCl3 remain scarce. Here, we determined the structures of molten FeCl2 and FeCl3 using High Energy X-ray diffraction (HEXRD), Empirical Potential Structure Refinement (EPSR), and molecular dynamics (MD) simulations with machine learning interatomic potentials (MLIPs). HEXRD measurements provided structure factors and total radial distribution functions (RDFs), which were quantitatively reproduced through EPSR refinement directly constrained by experimental data. MD simulations using MACE foundation and fine-tuned models reproduced experimental structure factors as well as total and partial RDFs, capturing key structural differences between the melts. The models resolved the octahedral to tetrahedral coordination transition of Fe upon melting in FeCl3 and predicted a similar transition in FeCl2. Analysis of MD trajectories quantified coordination environments, bridging Cl populations, bond-angle distributions, and connectivity patterns, revealing distinct degrees of polymerization and local geometry. Polymer chain statistics further showed that, contrary to prior reports, both liquids predominantly consist of extended chains containing six or more Fe centers rather than discrete Fe2Cl6 units. Finally, diffusion coefficients of the two melts calculated from the MACE-MD simulations were compared. Together, these results establish atomic-scale structural benchmarks for molten FeCl2 and FeCl3 and demonstrate the reliability of MACE-based MLIPs for predictive modeling of high-temperature molten salts, while providing practical guidance for MLIP development in complex ionic liquids.",
+  "authors": [
+   "Fakhrul Hasan Bhuiyan",
+   "Jicheng Guo",
+   "Christopher James Benmore",
+   "Avery Blockmon",
+   "Denis Johnson",
+   "Alvaro Vazquez Mayagoitia"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.app-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "26 total pages, 11 main figures, 6 supplementary figures",
+  "first_author": "Fakhrul Hasan Bhuiyan",
+  "pdf_url": "http://arxiv.org/pdf/2605.17207",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-17",
+  "tags": [
+   "benchmarking",
+   "molecular-dynamics",
+   "polymerization"
+  ],
+  "title": "Structure of Molten FeCl2 and FeCl3",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-17"
+ },
+ "2605.17576": {
+  "abstract": "Microsegregation-free microstructures can form by solidifying at velocities beyond the absolute stability limit ($V_{\\text{abs}}$), where solute partitioning is suppressed by a stable, planar solid-liquid interface. Producing such microstructures is of considerable practical interest; however, $V_{\\text{abs}}$ typically exceeds the ${\\sim}1$ m/s growth rates encountered in additive manufacturing (AM). Here we demonstrate the absolute stability limit can be reached in sufficiently concentrated hypoeutectic Al-Ag alloys at growth rates well below the 1~m/s typically encountered in additive manufacturing. Dynamic Transmission Electron Microscopy (DTEM) of rapid solidification front evolution -- following laser spot melting of Al-Ag thin films -- combined with postmortem microstructural characterization, enables detailed quantitative comparison with both phase-field (PF) simulations and a sharp-interface linear stability analysis that uses a non-equilibrium, velocity-dependent phase diagram extracted from the PF model. The analysis predicts that $V_{\\text{abs}}$ follows a trend similar to that of the miscibility gap, first increasing and then decreasing with Ag concentration. Predicted values of $V_{\\text{abs}}$ are in good quantitative agreement with PF simulations over the entire hypoeutectic concentration range and with experiments for three concentrated alloys. These results inform the prediction and control of microstructural development in concentrated alloys near the absolute stability limit under AM conditions.",
+  "authors": [
+   "Brian Rodgers",
+   "Mingwang Zhong",
+   "Trevor Lyons",
+   "John Roehling",
+   "Joseph T. McKeown",
+   "Alain Karma",
+   "Amy J. Clarke"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Brian Rodgers",
+  "pdf_url": "http://arxiv.org/pdf/2605.17576",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-17",
+  "tags": [
+   "additive-manufacturing",
+   "tem"
+  ],
+  "title": "Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-17"
+ },
+ "2605.17621": {
+  "abstract": "Stochastic forces are usually postulated or obtained by eliminating environmental degrees of freedom. Here we identify a variational origin: fluctuating endpoint data in Hamilton's principle induce fluctuations of the on-shell action. Hamilton--Jacobi propagation transports this boundary imprint, whose gradient generates an effective Langevin force inherited from boundary-action fluctuations. The resulting force is not freely specifiable: its amplitude is filtered by the Hessian of Hamilton's principal function, yielding multiplicative and state-dependent noise. Homogeneous additive Langevin forcing is recovered only as a Markovian coarse-grained limit.",
+  "authors": [
+   "Francisco Monroy"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.class-ph"
+  ],
+  "comment": null,
+  "first_author": "Francisco Monroy",
+  "pdf_url": "http://arxiv.org/pdf/2605.17621",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-17",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Variational Boundary Fluctuations as a First-Principles Origin of Langevin Noise",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-17"
+ },
+ "2605.17917": {
+  "abstract": "We review the theoretical development and modern applications of the Evans-Sackmann hydrodynamic model for lateral transport in supported fluid membranes. We first cover the original formulation, emphasizing the linear momentum decay term that captures membrane-substrate coupling mediated by a thin lubricating fluid layer. This coupling term enables quantitative interpretation of tracer diffusion measurements in supported bilayers. Building on this foundation, we survey theoretical extensions that relax standard boundary conditions at the inclusion perimeter, where inclusions refer to embedded objects such as proteins, lipid domains, or tracer particles within the membrane. We discuss the drag of a disk and a liquid domain, as well as the dynamics of membrane phase separation. We further highlight how the supported-membrane mobility tensor serves as a unifying tool for systematic treatments of correlated diffusion, polymer dynamics, phase separation kinetics, and many-body interactions in quasi-two-dimensional environments. Finally, we discuss recent extensions to active and chiral membranes, where odd viscosity provides a transverse hydrodynamic response and offers a possible route for detecting chirality in two-dimensional fluids.",
+  "authors": [
+   "Yuto Hosaka",
+   "David Andelman",
+   "Shigeyuki Komura"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Yuto Hosaka",
+  "pdf_url": "http://arxiv.org/pdf/2605.17917",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-18",
+  "tags": [
+   "membranes",
+   "phase-separation"
+  ],
+  "title": "Lateral hydrodynamics in supported membranes: The Evans-Sackmann model and its extensions",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.17956": {
+  "abstract": "Thermodynamic extensivity is commonly introduced as a postulate -- the homogeneity of degree one in thermodynamic potentials. We provide a constructive derivation of this property from microscopic conditions on the pair potential, without assuming it. Working with the one- and two-particle reduced densities of the $N$-body canonical Gibbs state, we introduce a combined coarse-graining operator $\\mathcal{C}$ on single-particle phase space $\\mathcal{M}=Λ\\times\\mathbb{R}^3$, producing dimensionless mesoscopic probabilities over spatial--momentum cells $\\{V_i\\timesΠ_α\\}$. Under three conditions on the pair potential -- stability, temperedness, and exponential cluster decomposition with correlation length $ξ$ -- we show, using the Ursell cluster expansion, that the coarse-grained entropy satisfies \\[S_{\\mathrm{CG}}=\\sum_i S_i+O\\!\\left(\\frac{|Λ|}{\\ell^d}e^{-\\ell/ξ}\\right),\\] where $\\ell\\ggξ$ is the cell diameter. The correction is exponentially suppressed per cell, making entropy additive and recovering the thermodynamic limit of Ruelle and Fisher in explicit operator language. For systems with long-range interactions, where temperedness fails, the correction does not vanish, and non-additivity is quantified through inter-cell mutual information. We further show that spatial averaging does not commute with nonlinear thermodynamic functionals such as the entropy density -- a thermodynamic analogue of the cosmological averaging problem -- and we derive the generalised Euler relation with explicit surface corrections.",
+  "authors": [
+   "Bob Osano"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "24 pages, 8 figures",
+  "first_author": "Bob Osano",
+  "pdf_url": "http://arxiv.org/pdf/2605.17956",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-05-18",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Entropy additivity from exponential decay of correlations: a coarse-grained operator approach",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.18057": {
+  "abstract": "Alloying Ag into Cu(In,Ga)Se$_2$ has enabled record solar-cell efficiencies ($\\sim23.6\\%$), yet their long-term stability remains in question because initio calculations predict a Ag-Cu miscibility gap near ambient temperature. By off-lattice Monte-Carlo simulations using a newly developed machine learning (ML) interatomic potential we show that the presence of coherency strain is resolving the controversy between experimental observations and the predicted phase stability. Incorporating elastic energy contributions present in a coherent setup results in complete Ag-Cu miscibility, whereas the expected phase separation occurs in the absence of coherency strains with respect to the end boundary phases, which are mimicked by an incoherent interface with misfit dislocations. The developed ML-MC framework provides a novel approach for resolving discrepancies in thermodynamic stability for systems where mechanical and chemical effects compete.",
+  "authors": [
+   "Vasilios Karanikolas",
+   "Delwin Perera",
+   "Linus Erhard",
+   "Jochen Rohrer",
+   "Karsten Albe"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "14 pages, 7 figures",
+  "first_author": "Vasilios Karanikolas",
+  "pdf_url": "http://arxiv.org/pdf/2605.18057",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-18",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Chemo-mechanical coupling stabilizes mixed $\\mathrm{Ag}_{x}\\mathrm{Cu}_{1-x}\\mathrm{GaSe}_{2}$ solar-cell absorbers: Insights from Monte-Carlo simulations assisted by ab initio informed machine-learning potentials",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-18"
  }
 }

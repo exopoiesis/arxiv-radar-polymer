@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,17 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16622.html">Phase-Field Models for Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Elisabeth C. Eij et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16622">2602.16622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15401.html">On the dynamics, thermodynamics and fine structure of virtual erupting filaments</a></div></td>
-<td>Dion Donné et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15401">2602.15401</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15729.html">Revealing 3D Strain and Carbide Architectures in Additively Manufactured Ni Superalloys</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>James A. D. Ball et al.</td>
-<td><a href="http://arxiv.org/abs/2602.15729">2602.15729</a></td>
 </tr>
 </tbody></table>

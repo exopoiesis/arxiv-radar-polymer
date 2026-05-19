@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">774 papers</span>
+  <span class="paper-count">775 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,6 +86,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11342.html">Mechanics of heterogeneous fiber networks</a></div></td>
 <td>Kyu Hwan Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11342">2605.11342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16389.html">Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity</a></div></td>
+<td>Gorkem Gemalmaz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16389">2605.16389</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>

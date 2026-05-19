@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>diffusion-model — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <strong>360d</strong> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23721.html">DiffER: Categorical Diffusion for Chemical Retrosynthesis</a></div></td>
 <td>Sean Current et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23721">2505.23721</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13375.html">Minimum-Excess-Work Guidance</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Christopher Kolloff et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13375">2505.13375</a></td>
 </tr>
 </tbody></table>

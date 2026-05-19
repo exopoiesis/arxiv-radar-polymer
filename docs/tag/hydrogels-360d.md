@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">96 papers</span>
+  <span class="paper-count">95 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -584,11 +584,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21075.html">Modeling of Water Evaporation in Hydrogels from Aspect of Mechanical Analytics</a></div></td>
 <td>Zehua Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21075">2505.21075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18415.html">Getting out of a tight spot: Cooperative unclogging of hydrogel particles in disordered porous media</a></div></td>
-<td>Sanjana Kamath et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18415">2505.18415</a></td>
 </tr>
 </tbody></table>

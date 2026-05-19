@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,6 +86,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11342.html">Mechanics of heterogeneous fiber networks</a></div></td>
 <td>Kyu Hwan Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11342">2605.11342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16389.html">Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity</a></div></td>
+<td>Gorkem Gemalmaz et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16389">2605.16389</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-09</td>
@@ -254,17 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17199.html">Modeling, Control and Self-sensing of Dielectric Elastomer Soft Actuators: A Review</a></div></td>
 <td>Y. Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17199">2604.17199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16811.html">Impact dynamics of flexible hydrogels on solid substrates of different wettabilities</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Akash Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16811">2604.16811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16825.html">Coarse-Grained Dynamics with Spatial Disorder and Non-Markovian Memory</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Chuyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16825">2604.16825</a></td>
 </tr>
 </tbody></table>

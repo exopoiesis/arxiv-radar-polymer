@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17956.html">Entropy additivity from exponential decay of correlations: a coarse-grained operator approach</a></div></td>
+<td>Bob Osano</td>
+<td><a href="http://arxiv.org/abs/2605.17956">2605.17956</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17621.html">Variational Boundary Fluctuations as a First-Principles Origin of Langevin Noise</a></div></td>
+<td>Francisco Monroy</td>
+<td><a href="http://arxiv.org/abs/2605.17621">2605.17621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Alberto Ocana et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
@@ -32,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03404.html">Sparkling bubbles in chiral active fluids</a></div></td>
 <td>Alessandro Petrini et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03404">2605.03404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16330.html">A Data-Driven Parametric Reduced-Order Chemical Kinetics Model Derived from Atomistic Simulations</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
+<td>Michael N. Sakano et al.</td>
+<td><a href="http://arxiv.org/abs/2605.16330">2605.16330</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-04</td>
@@ -998,17 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14106.html">Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a></div></td>
 <td>Yibo Li et al.</td>
 <td><a href="http://arxiv.org/abs/2409.14106">2409.14106</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13375.html">Minimum-Excess-Work Guidance</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Christopher Kolloff et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13375">2505.13375</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17396.html">Cross-scale Modeling of Polymer Topology Impact on Extrudability through Molecular Dynamics and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yawei Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17396">2505.17396</a></td>
 </tr>
 </tbody></table>

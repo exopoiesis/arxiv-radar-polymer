@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>extrusion — 360d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">20 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <a href="extrusion-90d.html">90d</a> <strong>360d</strong> <a href="extrusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -134,11 +134,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19830.html">Statistical physics of active matter, cell division and cell aggregation</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Jean-François Joanny et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19830">2505.19830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.17396.html">Cross-scale Modeling of Polymer Topology Impact on Extrudability through Molecular Dynamics and Computational Fluid Dynamics</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yawei Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2505.17396">2505.17396</a></td>
 </tr>
 </tbody></table>

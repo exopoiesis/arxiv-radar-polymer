@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17917.html">Lateral hydrodynamics in supported membranes: The Evans-Sackmann model and its extensions</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Yuto Hosaka et al.</td>
+<td><a href="http://arxiv.org/abs/2605.17917">2605.17917</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12331.html">Information Thermodynamics in Generalized Probabilistic Theories</a></div></td>
 <td>Koki Ono et al.</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19044.html">Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
 <td>Ryo Murakami et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19044">2505.19044</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01230.html">Non-universal Impact of Cholesterol on Ionic Liquid-Membrane Interactions</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>J. Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2505.01230">2505.01230</a></td>
 </tr>
 </tbody></table>
