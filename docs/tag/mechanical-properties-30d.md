@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div></td>
+<td>Hanna Pot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18273">2605.18273</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a> · <a href="saxs-30d.html">saxs</a></div></td>
 <td>Pritha Acharya et al.</td>
@@ -254,11 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18527.html">Fractional motions of an active particle on the quantum vortex</a></div></td>
 <td>Yun Jeong Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18527">2604.18527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17199.html">Modeling, Control and Self-sensing of Dielectric Elastomer Soft Actuators: A Review</a></div></td>
-<td>Y. Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17199">2604.17199</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>soft-matter — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <strong>90d</strong> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18730.html">Acoustic Manipulation of Tangible Janus Icons on Liquid Droplets</a></div></td>
 <td>Yusuke Koroyasu et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18730">2602.18730</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16622.html">Phase-Field Models for Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Elisabeth C. Eij et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16622">2602.16622</a></td>
 </tr>
 </tbody></table>

@@ -5,15 +5,33 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-19._
+_Updated 2026-05-20._
 
-**3353** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3363** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19280.html">Frequency-dependent stress response under thermal cycle: A thermal-crystal plasticity and dynamic mode decomposition study</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Haruki Ohashi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19280">2605.19280</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19560.html">Tracking Coupled Granular Temperature and Entropy Dynamics in Granular Materials via Dielectric Spectroscopy</a></div><div class="paper-tags"><a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Sophia G. Krastana et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19560">2605.19560</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Aaditya Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17917.html">Lateral hydrodynamics in supported membranes: The Evans-Sackmann model and its extensions</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
@@ -33,6 +51,36 @@ _Updated 2026-05-19._
 <td><a href="http://arxiv.org/abs/2605.18057">2605.18057</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18254.html">Efficient generation of large-scale non-equilibrium distributions of particles</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Sergejs Tarasovs</td>
+<td><a href="http://arxiv.org/abs/2605.18254">2605.18254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Hanna Pot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18273">2605.18273</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18279.html">Coalescence of Polymer Droplets Moving on a Surface with Stiffness Gradient</a></div></td>
+<td>Divyansh Tripathi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18279">2605.18279</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18300.html">Discovery of variable polarization in H$α$ profile of symbiotic star Y Gem: A case for orbital-phase dependent variation of Raman-scattered Ly$β$ emission</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Arijit Maiti et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18300">2605.18300</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19071.html">Informational blueprints reveal condition-dependent gene regulatory architectures</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Doruk Efe Gökmen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19071">2605.19071</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymerization-30d.html">polymerization</a></div></td>
 <td>Fakhrul Hasan Bhuiyan et al.</td>
@@ -49,6 +97,12 @@ _Updated 2026-05-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17621.html">Variational Boundary Fluctuations as a First-Principles Origin of Langevin Noise</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Francisco Monroy</td>
 <td><a href="http://arxiv.org/abs/2605.17621">2605.17621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18894.html">Generative and isoparametric geometric modeling of large-scale and multiscale microstructures</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Guoyue Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18894">2605.18894</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-15</td>
@@ -139,59 +193,5 @@ _Updated 2026-05-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Giovanni P. Galdi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12892">2605.12892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.12980.html">CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
-<td>Tianbo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12980">2605.12980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Runchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.13506.html">Plastics and Composite Materials</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/crystallinity-30d.html">crystallinity</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Ana Teresa Perez Fontenla</td>
-<td><a href="http://arxiv.org/abs/2605.13506">2605.13506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.13682.html">Theory of fracture initiation and propagation in viscoelastic media</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Giuseppe Carbonea et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13682">2605.13682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>F. E. Garbuzov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.13927.html">Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \textit{Pseudomonas aeruginosa} Sibling Colonies</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Dario Buonomo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13927">2605.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14198.html">A microcanonical approach to criticality in the mean-field $φ^4$ model: evidence of intrinsic microcanonical structure before the thermodynamic limit</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Loris Di Cairano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14198">2605.14198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11455.html">Thermoviscoelasticity of polydomain liquid crystal elastomers regulated by soft elasticity</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Zhengxuan Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11455">2605.11455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Kichitaro Nakajima et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11660">2605.11660</a></td>
 </tr>
 </tbody></table>

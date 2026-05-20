@@ -2277,5 +2277,255 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-18"
+ },
+ "2605.18254": {
+  "abstract": "This work presents an efficient algorithm for generating statistically representative microstructures of particulate composites in periodic representative volume elements. The Swelling and Random Migration (SRM) algorithm combines collective particle rearrangements with an adaptive cell-based neighbor-search scheme, enabling near-linear computational scaling for low to intermediate volume fractions and allowing simulations with up to $10^7$ particles in two and three dimensions. SRM offers great flexibility, allowing the controlled generation of both equilibrium-like and strongly non-equilibrium particle arrangements. The method is readily extendable to non-spherical inclusions; this capability is demonstrated by modeling thin circular platelets and generating qualitatively distinct platelet microstructures, including highly interconnected \"house-of-cards\" networks and metastable quasi-nematic domains. The results highlight the importance of microstructural arrangement in structure-property relationships and establish SRM as a powerful tool for generating realistic, diverse, and computationally accessible particle configurations for composite material modeling.",
+  "authors": [
+   "Sergejs Tarasovs"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Sergejs Tarasovs",
+  "pdf_url": "http://arxiv.org/pdf/2605.18254",
+  "primary_category": "cs.CE",
+  "published": "2026-05-18",
+  "tags": [
+   "composites"
+  ],
+  "title": "Efficient generation of large-scale non-equilibrium distributions of particles",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.18273": {
+  "abstract": "The hydroelastic response of free floating viscoelastic covers is measured using Faraday waves on the surface of a vertically oscillated fluid layer. We systematically vary the thickness $d$ of the covers to investigate its effect on the hydroelastic dispersion relation, the damping and the isotropy of the waves. Compared to bare fluids, the wave patterns are disordered. Various methods are explored to define and analyze the wavelengths, the isotropy, and shape of the waves. We find a significant difference between the measurements and the theoretical dispersion relation. Over all thicknesses $d$, this is explained by an increase in the in-plane membrane tension, which scales with $d^{3/2}$. Covering waves also has a large efect on their damping. Only for thin covers ($d = 20\\: μ{\\rm m}$) the onset amplitude (and thus the damping) can be explained by dissipation in the bulk and in the boundary layer of the water beneath the cover. The same was found for bare water due to the presence of an immobile surface layer. Lastly, we find a large effect of the membrane on the ampitude of the waves, which we attribute to nonlinear wave interaction.",
+  "authors": [
+   "Hanna Pot",
+   "Bram Christiaens",
+   "Willem van de Water"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Hanna Pot",
+  "pdf_url": "http://arxiv.org/pdf/2605.18273",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-05-18",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Faraday waves covered by a viscoelastic sheet",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.18279": {
+  "abstract": "Here, we study the coalescence of two droplets that are moving in the same direction on a soft surface; the motion of the droplets is caused by a gradient in the surface stiffness. As reference, stationary coalescence of the same droplets is also studied on the corresponding uniform surfaces for different stiffness values. To describe the coalescence phenomenon on a surface with stiffness gradient, a relevant range of velocity ratios of the leading and the trailing droplet was considered to elucidate the effect of this parameter on coalescence. Moreover, to analyze the dynamics of the process, the temporal growth of the bridge height $(h)$ was investigated, which follows a power law $(h \\sim t^α)$, before eventually attaining a constant value. The obtained values of $α$ show a transition from a higher to a lower value as a function of time, pointing to the presence of two distinct power-law growth regimes, where the transition signifies the crossover from the capillarity-dominated regime to the viscoelasticty-dominated regime of coalescence. In addition, varying attractive strengths for droplet--droplet and intra-droplet interactions were considered. The results indicate that both the dynamics and the degree of the coalescence strongly depend on these interaction parameters. Thus, we anticipate that our results will shed more light on the durotaxis-driven coalescence of polymeric droplets for various relevant system parameters, which will have practical implications for applications ranging from microfluidics to ink-jet printing, where substrate properties may vary. In addition, results may add to the fundamental understanding of the interactions among multicellular aggregates moving on biological surfaces.",
+  "authors": [
+   "Divyansh Tripathi",
+   "Vimal Kishore",
+   "Panagiotis E. Theodorakis",
+   "Swarn Lata Singh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Divyansh Tripathi",
+  "pdf_url": "http://arxiv.org/pdf/2605.18279",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-18",
+  "tags": [],
+  "title": "Coalescence of Polymer Droplets Moving on a Surface with Stiffness Gradient",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.18300": {
+  "abstract": "The geometry and morphology of symbiotic stars are conducive to exhibit a variety of scattering phenomena. The prominent among them is the Raman scattering of O VI doublet $λλ$ 1032,1038 angstrom, which often show strongly polarized features in the visible spectrum. Similar Raman scattering of Ly$β$ photons has also been predicted to occur in symbiotic stars, though with fewer detections and with weak polarization amplitudes. Here, we present the discovery of strong variable polarization in the H$α$ profile of a recently established symbiotic system Y Gem, over a period of nearly 22 months. This is, most likely, a very rare detection of the strongly polarized Raman scattered Ly$β$ photons, falling at the H$α$ emission. Monte-Carlo simulations have been conducted to confirm the underlying Raman scattering process causing the polarized line profile, and a simple orbital model is constructed with typical parameters available in the recent literature along with a complementary low-resolution spectroscopic data. These simulations and models are then used to validate the observed polarization variation of H$α$ at different orbital phases corresponding to the epochs of observations. The possibility of such strong variable H$α$ polarization, being caused by Raman scattering of Ly$β$, would thus open up avenues of exploring such effects in various other astrophysical situations having similar morphology.",
+  "authors": [
+   "Arijit Maiti",
+   "Mudit K. Srivastava",
+   "Vipin Kumar"
+  ],
+  "categories": [
+   "astro-ph.SR"
+  ],
+  "comment": "18 pages, 7 figures. The manuscript has been accepted for publication in the Astrophysical Journal",
+  "first_author": "Arijit Maiti",
+  "pdf_url": "http://arxiv.org/pdf/2605.18300",
+  "primary_category": "astro-ph.SR",
+  "published": "2026-05-18",
+  "tags": [
+   "polymer-morphology",
+   "spectroscopy"
+  ],
+  "title": "Discovery of variable polarization in H$α$ profile of symbiotic star Y Gem: A case for orbital-phase dependent variation of Raman-scattered Ly$β$ emission",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.18831": {
+  "abstract": "Cold-chain storage limits access to insulin for hundreds of millions of people; a thermally protective patch polymer could help, but the design space is too large for exhaustive experiment. Starting from that problem, we narrow to an agentic workflow: a large language model (LLM) calls physics-based tools through the Model Context Protocol (MCP), searching the discrete PSMILES space under a budget of OpenMM Packmol-matrix evaluations. The LLM acts as an implicit acquisition function conditioned on a persistent \"discovery world\": hypotheses, literature claims, and simulation outcomes updated each iteration. Under matched oracle budgets, the best autonomous campaign reaches an insulin-polymer interaction energy of -2263 kJ/mol, outperforming reinforcement-learning baselines by 68% and Bayesian optimization by 19%. Three independent campaigns converge on one structural motif (dense hydrogen-bond donors and acceptors per repeat unit) while physics checks reject infeasible packings and name-structure mismatches before they steer the next step. The science stage is CPU-bound and runs on commodity hardware. More broadly, the same architecture and workflow designed here applies to other protein-stabilization tasks whenever a tractable screening oracle is available.",
+  "authors": [
+   "Martins Otun"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Martins Otun",
+  "pdf_url": "http://arxiv.org/pdf/2605.18831",
+  "primary_category": "q-bio.QM",
+  "published": "2026-05-12",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "Towards Discovery of Polymers for Insulin Delivery via Physics-Grounded Agentic Workflows",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-05-12"
+ },
+ "2605.18894": {
+  "abstract": "As additive manufacturing advances toward higher printing resolution and larger build volumes, microstructures can be designed with finer geometric features over larger physical domains. This trend poses a fundamental challenge for geometric modeling: massive geometric details must be represented compactly, while their associations across scales must be maintained consistently.Existing methods cannot scale well to this requirement. Explicit representations suffer from prohibitive memory cost, and implicit representations remain compact only when microstructures admit analytic, periodic, or otherwise concise procedural descriptions. This paper proposes a new geometric modeling method that treats microstructure modeling as an on-demand generative process, rather than requiring the full instantiation of all geometric details. We first develop ExVCC, an extended volumetric Catmull-Clark spline representation that enables local spline refinement to go beyond tensor-product topology. Built on ExVCC, we introduce new shape-coding schemes and refinement rules that compactly encode large-scale geometric details and enable their localized evaluation through on-demand hierarchical refinement. To model geometric details across scales, we further propose an isoparametric representation in which details across scales are defined over a shared parametric domain using the same family of spline bases of ExVCC. This formulation turns the ExVCC's spline refinement hierarchy into a common framework for geometry encoding, on-demand generation, and cross-scale association, allowing geometric modifications to propagate automatically across scales. The effectiveness of the proposed method is demonstrated through a series of examples and comparisons.",
+  "authors": [
+   "Guoyue Luo",
+   "Yuntao Ma",
+   "Qiang Zou"
+  ],
+  "categories": [
+   "cs.GR"
+  ],
+  "comment": "15pages",
+  "first_author": "Guoyue Luo",
+  "pdf_url": "http://arxiv.org/pdf/2605.18894",
+  "primary_category": "cs.GR",
+  "published": "2026-05-17",
+  "tags": [
+   "additive-manufacturing",
+   "polymer-morphology"
+  ],
+  "title": "Generative and isoparametric geometric modeling of large-scale and multiscale microstructures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-17"
+ },
+ "2605.19071": {
+  "abstract": "While coding regions in the genome have a direct interpretation in terms of protein products, significant fractions are non-coding and yet control essential biological functions. Unlike the genetic code, there is no \"lookup table\" that identifies where regulatory proteins, known as transcription factors (TFs), bind. Here, we extract these binding sites by distilling sequences of nucleotide letters into collective coordinates (hyperletters) representing the binding sites that are active under specific environmental conditions. Going beyond local information footprints between individual bases and expression levels, our $\\textit{information blueprint}$ algorithm compresses the global information by optimising filters that simultaneously scan an entire promoter sequence. Inspired by renormalisation-group techniques, we identify TF binding sites as coarse-grained variables combining groups of correlated mutations with the highest collective impact on gene expression. We validate our approach on experimental data for $\\textit{E. coli}$ and discover novel regulatory elements illustrating its deployment at scale across growth conditions.",
+  "authors": [
+   "Doruk Efe Gökmen",
+   "Rosalind Wenshan Pan",
+   "Tom Röschinger",
+   "Stephen Quake",
+   "Hernan Garcia",
+   "Rob Phillips",
+   "Vincenzo Vitelli"
+  ],
+  "categories": [
+   "q-bio.GN",
+   "cond-mat.stat-mech",
+   "q-bio.MN",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Doruk Efe Gökmen",
+  "pdf_url": "http://arxiv.org/pdf/2605.19071",
+  "primary_category": "q-bio.GN",
+  "published": "2026-05-18",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Informational blueprints reveal condition-dependent gene regulatory architectures",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-18"
+ },
+ "2605.19280": {
+  "abstract": "Thermal cycle environments involving repeated temperature changes are common conditions observed in modern engineering processes. Under such conditions, materials undergo repeated thermal expansion and contraction, forming complex thermal stress fields. Thermal-crystal plasticity simulations that account for stress fields and thermal conduction at the polycrystalline microstructure scale are an effective method for numerically reproducing thermal cycle environments. However, the influence of thermal cycle frequency on the temporal behavior of the stress field and plastic response has not yet been fully understood, partly because a systematic analysis method capable of simultaneously capturing spatial heterogeneity and temporal evolution remains limited. In this study, we predicted the thermal stress field generated under different thermal cycle frequencies using thermal-crystal plasticity simulations and investigated the effect of frequency on the spatiotemporal structure of the stress response. The present framework illustrates that the resulting thermal-mechanical response can be represented as a superposition of multiple effective temporal components, reflecting the increased complexity of the system behavior. By employing dynamic mode decomposition (DMD) as a diagnostic and post-processing technique, we demonstrate that the spatiotemporal structure of the stress field under thermal cycle conditions can be systematically extracted and compactly represented. This approach enables a quantitative characterization of frequency-dependent changes in the thermal stress response beyond conventional averaging or snapshot-based analyses. The results highlight the utility of DMD as a framework for organizing complex simulation data and for interpreting the temporal structure of plastic response under cyclic thermal loading.",
+  "authors": [
+   "Haruki Ohashi",
+   "Yoshiteru Aoyagi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Accepted for publication in International Journal of Plasticity",
+  "first_author": "Haruki Ohashi",
+  "pdf_url": "http://arxiv.org/pdf/2605.19280",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-19",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Frequency-dependent stress response under thermal cycle: A thermal-crystal plasticity and dynamic mode decomposition study",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.19560": {
+  "abstract": "In glass-forming liquids, structural dynamics are governed by configurational entropy and temperature, with dielectric relaxation time scaling alongside structural relaxation time as described by the Adam-Gibbs (AG) model. Under Edwards's athermal statistical thermodynamics, a modified AG law similarly governs granular matter, provided that granular temperature and configurational entropy are appropriately defined. This study investigates whether variations in the structural relaxation of granular systems can be probed via thermally activated processes, specifically electric charge hopping and trapping. By progressively reducing the volume of graphite powder to vary its packing fraction, we estimated relative configurational entropy and granular temperature from volumetric data, while evaluating electrical conductivity and capacity via impedance spectroscopy. We demonstrate that the logarithm of the dielectric relaxation time, derived from complex impedance, scales with granular temperature and entropy across both loose and compact states. Consequently, changes in the complex impedance resulting from packing fraction variations are tuned by granule configuration, strictly adhering to an AG-like relationship for thermal systems. These findings establish dielectric spectroscopy as a viable, non-destructive tool for tracing configurational dynamics in granular matter, analogous to its established use in polymers and glass formers.",
+  "authors": [
+   "Sophia G. Krastana",
+   "Anthony N. Papathanassiou"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Sophia G. Krastana",
+  "pdf_url": "http://arxiv.org/pdf/2605.19560",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-19",
+  "tags": [
+   "spectroscopy"
+  ],
+  "title": "Tracking Coupled Granular Temperature and Entropy Dynamics in Granular Materials via Dielectric Spectroscopy",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.19888": {
+  "abstract": "Gel-elastomer composites, comprising an active swellable hydrogel and a passive elastomer, are a compelling class of programmable material systems (PMS) capable of shape morphing under multiphysics actuation. The precise design of the topology and material distribution unlocks complex programmability instrumental in wearable electronics, soft robots, and drug delivery; however, the structure-function relationship is highly non-intuitive, rendering both trial-and-error and conventional design approaches largely intractable. To address this, we present a topology optimization (TO) framework for the automated design of such structures, enabling systematic exploration of the design space for target functionalities realized via programmable shape morphing. In particular, we propose a multi-material TO framework that concurrently optimizes the structural topology and the spatial distribution of the gel-elastomer phases. The design is represented via a coordinate-based neural network, and the mechanical response of both phases is described within a unified constitutive framework based on the Flory-Rehner theory. Furthermore, we present an end-to-end differentiable design framework with implicit differentiation that accommodates various objective functions, constraints, and discretizations. We demonstrate the framework on shape-programming structures and soft actuators. The framework is further validated through the design of organogel-hydrogel composites for multi-stimuli responsiveness across chemically distinct solvent environments, and of anisotropic hydrogels wherein the local fiber orientation is optimized concurrently with the topology. The codebase implemented in JAX is publicly shared to support benchmarking and reproducibility.",
+  "authors": [
+   "Aaditya Chandrasekhar",
+   "Dex Doksoo Lee",
+   "Hyunwoo Kwon",
+   "Wei Chen"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "Submitted to Structural and Multidisciplinary Optimization",
+  "first_author": "Aaditya Chandrasekhar",
+  "pdf_url": "http://arxiv.org/pdf/2605.19888",
+  "primary_category": "cs.CE",
+  "published": "2026-05-19",
+  "tags": [
+   "benchmarking",
+   "composites",
+   "hydrogels"
+  ],
+  "title": "GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-19"
  }
 }

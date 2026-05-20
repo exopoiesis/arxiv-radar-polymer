@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">151 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Aaditya Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18254.html">Efficient generation of large-scale non-equilibrium distributions of particles</a></div></td>
+<td>Sergejs Tarasovs</td>
+<td><a href="http://arxiv.org/abs/2605.18254">2605.18254</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15174.html">Universal quantum resource distillation via composite generalised quantum Stein&#x27;s lemma</a></div></td>
@@ -914,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23213.html">Transparent and heat-insulation bionic hydrogel-based smart window system for long-term cooling and waste heat collection</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Qianwang Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23213">2505.23213</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03845.html">Spatial correlations and entanglement in a hybrid system of N fermion pairs with harmonic interaction</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>M. D. Jiménez et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03845">2503.03845</a></td>
 </tr>
 </tbody></table>

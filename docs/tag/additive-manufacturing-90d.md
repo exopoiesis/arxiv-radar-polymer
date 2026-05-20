@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17576.html">Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability</a></div><div class="paper-tags"><a href="tem-90d.html">tem</a></div></td>
 <td>Brian Rodgers et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17576">2605.17576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18894.html">Generative and isoparametric geometric modeling of large-scale and multiscale microstructures</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Guoyue Luo et al.</td>
+<td><a href="http://arxiv.org/abs/2605.18894">2605.18894</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-14</td>
@@ -368,23 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17824.html">Optimization of Higher-Order Harmonic Surface Tessellations for Additively Manufactured Air-to-Air Heat Exchangers</a></div></td>
 <td>Patrick Adegbaye et al.</td>
 <td><a href="http://arxiv.org/abs/2602.17824">2602.17824</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16108.html">Advancing Industry 4.0: Multimodal Sensor Fusion for AI-Based Fault Detection in 3D Printing</a></div></td>
-<td>Muhammad Fasih Waheed et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16108">2602.16108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16119.html">In-Situ Analysis of Vibration and Acoustic Data in Additive Manufacturing</a></div></td>
-<td>Muhammad Fasih Waheed et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16119">2602.16119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00111.html">Additive Manufacturing-Facilitated Blow Molding for Functional Thin-Walled Polymeric Structures</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Junyu Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00111">2603.00111</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a> · <a href="composites-7d.html">composites</a></div></td>
+<td>Aaditya Chandrasekhar et al.</td>
+<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13927.html">Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \textit{Pseudomonas aeruginosa} Sibling Colonies</a></div></td>
 <td>Dario Buonomo et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13927">2605.13927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11719.html">Nanostructure of PEGDA-PEG hydrogel membranes and how it controls their permeability</a></div></td>
-<td>Sixtine de Chateauneuf-Randon et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11719">2605.11719</a></td>
 </tr>
 </tbody></table>

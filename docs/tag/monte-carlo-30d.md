@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18183.html">The Metal Content of Resolved Galaxies</a></div></td>
 <td>Lidia N. Makarova et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18183">2604.18183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17631.html">Conjugate Beamforming Variants for Multicasting in Cell-Free Massive MIMO Systems</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Alejandro de la Fuente et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17631">2604.17631</a></td>
 </tr>
 </tbody></table>
