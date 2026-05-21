@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>conducting-polymers — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="conducting-polymers-7d.html">7d</a> <a href="conducting-polymers-30d.html">30d</a> <a href="conducting-polymers-90d.html">90d</a> <strong>360d</strong> <a href="conducting-polymers-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="dielectric-properties-360d.html">dielectric-properties</a></div></td>
 <td>Md. Shariful Islam et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07544">2506.07544</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19044.html">Bayesian sparse modeling for interpretable prediction of hydroxide ion conductivity in anion-conductive polymer membranes</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
-<td>Ryo Murakami et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19044">2505.19044</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21340.html">Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves</a></div></td>
+<td>Vipul B Rohit et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div></td>
@@ -2774,23 +2780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21760.html">Viscoelasticity of biomimetic scale beams from trapped complex fluids</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Pranta Rahman Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21760">2505.21760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16943.html">Sliding Friction of Hard Sliders on Rubber: Theory and Experiment</a></div></td>
-<td>R. Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2505.16943">2505.16943</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.18968.html">Dynamics of Poro-viscoelastic Wetting with Large Swelling</a></div></td>
-<td>B. X. Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2505.18968">2505.18968</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00029.html">Characterization of atomization and delivery efficiency of exogenous surfactant in preterm infant lungs using an ex vivo respiratory model</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Ghalia Kaouane et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00029">2506.00029</a></td>
 </tr>
 </tbody></table>

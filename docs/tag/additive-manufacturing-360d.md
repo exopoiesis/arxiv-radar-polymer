@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,11 +1214,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19995.html">Optimizing edge AI models on HPC systems with the edge in the loop</a></div></td>
 <td>Marcel Aach et al.</td>
 <td><a href="http://arxiv.org/abs/2505.19995">2505.19995</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19311.html">Passive Vibration Control of a 3-D Printer Gantry</a></div></td>
-<td>Maharshi A. Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19311">2505.19311</a></td>
 </tr>
 </tbody></table>

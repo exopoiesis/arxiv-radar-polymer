@@ -2527,5 +2527,207 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-05-19"
+ },
+ "2605.20311": {
+  "abstract": "Guided-wave structural health monitoring enables damage localization in composite plates using sparse networks of bonded piezoelectric transducers. However, inferring the spatial location of defects from pitch-catch measurements remains weakly constrained when only a limited set of damage locations is available for training. As a result, models trained to predict defect locations may perform well on seen cases but generalize poorly to unseen regions of the structure.   This paper proposes WaveGraphNet, a coupled inverse--forward graph learning framework for guided-wave damage localization in Carbon Fiber Reinforced Polymer (CFRP) plates. The sensing layout is explicitly modeled as a graph, where transducers are represented as nodes and measured propagation paths define the graph connectivity. An inverse branch maps graph-structured spectral descriptors of differential guided-wave responses to a damage location, while a forward branch predicts the path-wise energy-deviation patterns of measured wave responses associated with a candidate location. During training, the forward branch serves as a physics-consistent regularizer, discouraging location estimates that are numerically plausible but inconsistent with the measured redistribution of wave-response energy. This coupling encourages agreement between inferred damage coordinates and the underlying wave propagation behavior.   Within this benchmark, the proposed graph-based formulation provides a strong localization model for sparse guided-wave sensing and demonstrates improved robustness in extrapolation to held-out regions compared to both non-graph and graph baselines. These results highlight the potential of coupled inverse-forward graph learning as an effective strategy for guided-wave localization under limited spatial coverage.",
+  "authors": [
+   "Vinay Sharma",
+   "Aditya Bharade",
+   "Olga Fink"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Vinay Sharma",
+  "pdf_url": "http://arxiv.org/pdf/2605.20311",
+  "primary_category": "cs.LG",
+  "published": "2026-05-19",
+  "tags": [
+   "benchmarking",
+   "composites"
+  ],
+  "title": "WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.20358": {
+  "abstract": "Polymer-derived ceramics combine the thermal stability of ceramics with the versatile properties of carbon domains, but modeling their atomic-scale evolution during processing remains elusive due to the limitations of traditional computational methods. To address this issue, here we develop and apply a machine learning interatomic potential for silicon carbonitride-based (Si-C-N-H) systems, trained on a diversified database of over 9000 configurations -including amorphous models, high-temperature states, surfaces, and crystal structure predictions - to capture the full complexity of these materials. This potential enables large-scale molecular dynamics simulations of 8000-atom systems revealing the atomic-scale evolution of the polymer-derived ceramic during thermal treatment. A key result of this work is the occurrence of a phase separation where carbon domains progressively nucleate from the amorphous SiCN matrix during thermal processing, forming distinct graphene-like sheets while preserving the integrity of the ceramic network. The resulting models reproduce the experimental atomic pair distribution functions with exceptional fidelity, validating our approach and providing microscopic explanations for the material unique combination of ceramic and graphitic properties. In this process, defective 5- and/or 7-member carbon rings, mediate the transformation to stable 6-member aromatic structures. These findings offer new atomic-scale insights into the thermal stability and structural transformation pathways of polymer-derived ceramics, while our methodology opens avenues for studying complex amorphous systems with first-principles accuracy at experimentally relevant scales.",
+  "authors": [
+   "Fabien Mortier",
+   "Sylvian Cadars",
+   "Olivier Masson",
+   "Mauro Boero",
+   "Guido Ori",
+   "Yun Wang",
+   "Samuel Bernard",
+   "Assil Bouzid"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Fabien Mortier",
+  "pdf_url": "http://arxiv.org/pdf/2605.20358",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-19",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-19"
+ },
+ "2605.20986": {
+  "abstract": "Multiferroic CFO-BCTSn composite nanofibers were synthesized using a sol-gel electrospinning method. Electron microscopy revealed well-defined fibers with diameters of 120-150 nm. Structural analyses using X-ray diffraction, Raman spectroscopy, and high-resolution transmission electron microscopy confirmed the coexistence of the spinel CFO phase and the perovskite BCTSn phase without detectable secondary phases. Magnetic hysteresis measurements demonstrated the magnetic behavior of the nanofibers, while piezoresponse force microscopy confirmed their piezoelectric properties. Magnetoelectric coupling was evidenced by differences between the magnetic hysteresis loops of electrically poled and unpoled samples. These lead-free composite nanofibers show potential for nanoscale magnetoelectric devices and magnetic field sensing applications.",
+  "authors": [
+   "Youness Hadouch",
+   "Nayad Abdallah",
+   "Daoud Mezzane",
+   "Mbarek Amjoud",
+   "Voicu Dolocan",
+   "Khalid Hoummada",
+   "Nikola Novak",
+   "Anna Razumnaya",
+   "Brigita Rozic",
+   "Val Fisinger",
+   "Hana Ursic",
+   "Valentin Laguta",
+   "Zdravko Kutnjak",
+   "Mimoun El Marssi"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Youness Hadouch",
+  "pdf_url": "http://arxiv.org/pdf/2605.20986",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-20",
+  "tags": [
+   "composites",
+   "spectroscopy",
+   "tem"
+  ],
+  "title": "Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21021": {
+  "abstract": "We develop a molecularly motivated framework connecting large-amplitude oscillatory shear (LAOS) nonlinearities in entangled polymers to frequency-dependent nonaffine relaxation in disordered solids. The central idea is that the first harmonic in LAOS measures the residual phase-locked elastic response, whereas the higher harmonics encode the Fourier signature of strain-dependent nonaffine relaxation. The finite-amplitude modulus is interpreted as a local tangent stiffness of the evolving microstructure, in the spirit of elastoplastic and incremental nonaffine models. For entangled polymers, the analogue of the decreasing coordination number in cage-breaking theories of glass mechanics is identified not with the tube-orientation tensor itself, but with the fraction of surviving tube constraints. This distinction leads naturally to a crossover description controlled by a characteristic strain amplitude $γ_c$, rather than by universal fixed power-law exponents. The fitted value $N_{\\max}\\simeq1.72$ indicates that the present experimental data approach a strong but not fully saturated nonlinear state, remaining below the ideal limiting value predicted for complete constraint collapse. Finally, a constraint-counting argument combining an eight-chain affine network representation with the central-force nonaffine isostatic threshold gives a limiting estimate $|\\mathrm{NLI}|_{\\max}=3$. The results support the interpretation of the NLI as a Fourier-resolved dynamic nonaffinity parameter and establish a bridge between tube-based polymer dynamics, LAOS harmonic analysis, elastoplastic rheology, and microscopic nonaffine lattice dynamics.",
+  "authors": [
+   "Dario Nichetti",
+   "Alessio Zaccone"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Dario Nichetti",
+  "pdf_url": "http://arxiv.org/pdf/2605.21021",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-20",
+  "tags": [
+   "polymer-morphology",
+   "rheology"
+  ],
+  "title": "Microscopic Nonaffine Deformation Theory of LAOS in Polymers",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21172": {
+  "abstract": "Predictive simulations and experimental design involving extreme aero-chemo-thermo-mechanical regimes require high-fidelity material representation across diverse physical states. However, data for metals, polymers, and propellants, explosives, and pyrotechnics (PEP) remain fragmented, obstructing traceability for formulators, experimentalists, and simulation engineers. This work introduces Lumina, a modular Python-based informatics framework that centralizes multiscale material data from atomistic simulation datasets to macro-scale experimental records, within a unified repository. Lumina employs a hierarchical XML-based schema and a dynamic runtime parsing mechanism to enable schema-independent parameter extraction. Beyond storage, the platform provides computational modules to visualize model fits, allowing experimentalists to optimize design of experiments (DoE) and formulators to validate chemical behaviors against benchmarks. This structured architecture serves as a high-fidelity pipeline for training machine learning models and enhancing the accuracy of predictive simulations. To streamline multi-disciplinary workflows, Lumina integrates a conversational AI assistant for intelligent material retrieval and natural language querying. By consolidating multiscale data into an extensible ecosystem, Lumina provides a scalable foundation for data-driven discovery and predictive modeling in advanced defense and aerospace engineering.",
+  "authors": [
+   "Pradeep Kumar Seshadri",
+   "Vigneshwaran N",
+   "Sudaroli Dhananjeyan",
+   "Karthikeyan S",
+   "Navbila K",
+   "Sridhar S",
+   "Subhadevi K",
+   "Hari Sree Charan H",
+   "Abdul Azeez A",
+   "Jeswin Mickle",
+   "Harsha C"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.data-an"
+  ],
+  "comment": "This work was presented in High Energy Materials Conference & Exhibition 2026 and subsequently published in its proceedings",
+  "first_author": "Pradeep Kumar Seshadri",
+  "pdf_url": "http://arxiv.org/pdf/2605.21172",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-05-20",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21340": {
+  "abstract": "The dynamics of a Lamb-Oseen vortex dipole in a viscoelastic fluid are investigated, with emphasis on asymmetry, coupling strength, and transverse shear waves relevant to strongly coupled dusty plasmas. Dusty plasmas provide a natural realization of strongly coupled VE behavior, where transverse shear modes dominate in the incompressible limit. Numerical simulations are carried out using the incompressible generalized hydrodynamic model for both symmetric and asymmetric dipoles, with variations in vortex core size, circulation strength, and separation distance. In the symmetric case, dipoles exhibit sustained translational motion, with propagation speed decreasing as the initial separation distance increases, consistent with inviscid predictions. In contrast, asymmetric configurations-arising from unequal core radii or circulation strengths-lead to rotational motion due to imbalance in induced velocities, with the weaker vortex orbiting the stronger one. Viscoelasticity introduces transverse shear waves whose strength and propagation speed increase with coupling. In weakly coupled regimes, their influence is minor, while in moderately coupled regimes they modify propagation and induce deformation. In strongly coupled regimes, transverse shear waves significantly enhance vortex-vortex interaction, accelerating strain-induced deformation and leading to rapid dissipation of the weaker vortex. The evolution also satisfies the conservation theorem, where the contributions from convective, radiative, and dissipative processes dynamically compensate each other, maintaining global balance throughout the dynamics. These results provide insight into wave-vortex coupling in complex fluids, with implications for transport processes and structure formation in strongly coupled plasmas and other viscoelastic media.",
+  "authors": [
+   "Vipul B Rohit",
+   "Vikram Dharodi",
+   "Sharad K Yadav"
+  ],
+  "categories": [
+   "physics.plasm-ph"
+  ],
+  "comment": null,
+  "first_author": "Vipul B Rohit",
+  "pdf_url": "http://arxiv.org/pdf/2605.21340",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-05-20",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21425": {
+  "abstract": "When discretizing symmetric stress tensors in variational problems arising in continuum mechanics, one has to choose how to enforce the symmetry of the stress tensor: (i) strongly by requiring the discrete tensors to be pointwise symmetric or (ii) weakly by introducing a Lagrange multiplier. For $H(\\mathrm{div})$-conforming finite element discretizations of Hellinger--Reissner elasticity and velocity--stress formulations of incompressible flow, where symmetry of the Cauchy stress tensor is tied to the conservation of angular momentum, we show that this choice may substantially impact the accuracy of the numerical scheme. Through a series of benchmark problems featuring anisotropic constitutive laws inspired by fiber reinforced material, liquid crystal polymer networks, and polar fluids, we show that schemes enforcing symmetry weakly can yield arbitrarily poor stress approximations -- even for zero-stress configurations. However, schemes enforcing symmetry strongly deliver accurate stress approximations independently of the constitutive law, a property we term material robustness. We present a unifying theory that rigorously explains this behavior.",
+  "authors": [
+   "Pablo Brubeck",
+   "Charles Parker",
+   "Umberto Zerbinati"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": "43 pages, 8 figures",
+  "first_author": "Pablo Brubeck",
+  "pdf_url": "http://arxiv.org/pdf/2605.21425",
+  "primary_category": "math.NA",
+  "published": "2026-05-20",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Achieving Material Robustness via Symmetric Stress Finite Element Discretizations",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-20"
  }
 }

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21021.html">Microscopic Nonaffine Deformation Theory of LAOS in Polymers</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Dario Nichetti et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21021">2605.21021</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="saxs-360d.html">saxs</a></div></td>
 <td>Pritha Acharya et al.</td>
@@ -722,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21760.html">Viscoelasticity of biomimetic scale beams from trapped complex fluids</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Pranta Rahman Sarkar et al.</td>
 <td><a href="http://arxiv.org/abs/2505.21760">2505.21760</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00029.html">Characterization of atomization and delivery efficiency of exogenous surfactant in preterm infant lungs using an ex vivo respiratory model</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Ghalia Kaouane et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00029">2506.00029</a></td>
 </tr>
 </tbody></table>

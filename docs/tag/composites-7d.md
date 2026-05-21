@@ -16,10 +16,22 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a> · <a href="tem-7d.html">tem</a></div></td>
+<td>Youness Hadouch et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a> · <a href="hydrogels-7d.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
+<td>Vinay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -32,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15174.html">Universal quantum resource distillation via composite generalised quantum Stein&#x27;s lemma</a></div></td>
 <td>Ludovico Lami et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15174">2605.15174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="nanocomposites-7d.html">nanocomposites</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Runchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13506.html">Plastics and Composite Materials</a></div><div class="paper-tags"><a href="crystallinity-7d.html">crystallinity</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
-<td>Ana Teresa Perez Fontenla</td>
-<td><a href="http://arxiv.org/abs/2605.13506">2605.13506</a></td>
 </tr>
 </tbody></table>

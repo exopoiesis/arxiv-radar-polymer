@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21340.html">Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves</a></div></td>
+<td>Vipul B Rohit et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div></td>
@@ -38,29 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15089.html">Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity</a></div></td>
 <td>Dong Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15089">2605.15089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div></td>
-<td>Giovanni P. Galdi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12892">2605.12892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13506.html">Plastics and Composite Materials</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="crystallinity-7d.html">crystallinity</a></div></td>
-<td>Ana Teresa Perez Fontenla</td>
-<td><a href="http://arxiv.org/abs/2605.13506">2605.13506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13682.html">Theory of fracture initiation and propagation in viscoelastic media</a></div></td>
-<td>Giuseppe Carbonea et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13682">2605.13682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>F. E. Garbuzov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
 </tr>
 </tbody></table>

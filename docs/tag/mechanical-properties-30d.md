@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21340.html">Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves</a></div></td>
+<td>Vipul B Rohit et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div></td>
@@ -236,29 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13146.html">Multi-scale Modeling of the Electro-viscoelasticity of Charged Polymers in Combined Flow and Electric Fields</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Zachary Wolfgram et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13146">2509.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20075.html">How elasticity affects bubble pinch-off</a></div></td>
-<td>Coen I. Verschuur et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20075">2511.20075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01185.html">Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Léa Delance et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01185">2604.01185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18090.html">Muscle-inspired magnetic actuators that push, pull, crawl, and grasp</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Muhammad Bilal Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18090">2604.18090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18527.html">Fractional motions of an active particle on the quantum vortex</a></div></td>
-<td>Yun Jeong Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18527">2604.18527</a></td>
 </tr>
 </tbody></table>

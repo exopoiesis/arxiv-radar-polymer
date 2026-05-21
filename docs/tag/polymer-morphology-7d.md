@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21021.html">Microscopic Nonaffine Deformation Theory of LAOS in Polymers</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
+<td>Dario Nichetti et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21021">2605.21021</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19280.html">Frequency-dependent stress response under thermal cycle: A thermal-crystal plasticity and dynamic mode decomposition study</a></div></td>
 <td>Haruki Ohashi et al.</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
 <td>Ali R. Safi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="composites-7d.html">composites</a> · <a href="nanocomposites-7d.html">nanocomposites</a></div></td>
-<td>Runchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
 </tr>
 </tbody></table>

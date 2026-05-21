@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">245 papers</span>
+  <span class="paper-count">247 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a> · <a href="tem-all.html">tem</a></div></td>
+<td>Youness Hadouch et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Vinay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>

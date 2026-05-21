@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-electrolytes — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="polymer-electrolytes-7d.html">7d</a> <a href="polymer-electrolytes-30d.html">30d</a> <strong>90d</strong> <a href="polymer-electrolytes-360d.html">360d</a> <a href="polymer-electrolytes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05879.html">Hard-constraint physics-residual networks enable robust extrapolation for hydrogen crossover prediction in PEM water electrolyzers</a></div></td>
 <td>Yong-Woon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05879">2511.05879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17595.html">Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="benchmarking-90d.html">benchmarking</a> · <a href="high-throughput-screening-90d.html">high-throughput-screening</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Antonia S. Kuhn et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17595">2602.17595</a></td>
 </tr>
 </tbody></table>

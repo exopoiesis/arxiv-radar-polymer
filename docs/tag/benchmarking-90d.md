@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21172.html">Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes</a></div></td>
+<td>Pradeep Kumar Seshadri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21172">2605.21172</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21425.html">Achieving Material Robustness via Symmetric Stress Finite Element Discretizations</a></div></td>
+<td>Pablo Brubeck et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21425">2605.21425</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Vinay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-17</td>
@@ -260,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03488.html">Long-range spin glass in a field at zero temperature</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
 <td>Maria Chiara Angelini et al.</td>
 <td><a href="http://arxiv.org/abs/2602.03488">2602.03488</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17595.html">Discovery of Polymer Electrolytes with Bayesian Optimization and High-Throughput Molecular Dynamics simulations</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="high-throughput-screening-90d.html">high-throughput-screening</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-electrolytes-90d.html">polymer-electrolytes</a></div></td>
-<td>Antonia S. Kuhn et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17595">2602.17595</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.17603.html">SOLVAR: Fast covariance-based heterogeneity analysis with pose refinement for cryo-EM</a></div></td>
-<td>Roey Yadgar et al.</td>
-<td><a href="http://arxiv.org/abs/2602.17603">2602.17603</a></td>
 </tr>
 </tbody></table>

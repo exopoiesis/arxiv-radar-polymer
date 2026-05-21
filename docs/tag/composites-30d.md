@@ -16,10 +16,22 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a> · <a href="tem-30d.html">tem</a></div></td>
+<td>Youness Hadouch et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="hydrogels-30d.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
+<td>Vinay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -68,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27038.html">Triadic Phase Transitions in AI Networks: Composite-Operator Scaling in Cognitive Architectures</a></div></td>
 <td>Eduardo Salazar</td>
 <td><a href="http://arxiv.org/abs/2604.27038">2604.27038</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18090.html">Muscle-inspired magnetic actuators that push, pull, crawl, and grasp</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Muhammad Bilal Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18090">2604.18090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Biplob Bhattacherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 </tbody></table>

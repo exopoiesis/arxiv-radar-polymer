@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-20._
+_Updated 2026-05-21._
 
-**3363** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3370** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/tem-30d.html">tem</a></div></td>
+<td>Youness Hadouch et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21021.html">Microscopic Nonaffine Deformation Theory of LAOS in Polymers</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Dario Nichetti et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21021">2605.21021</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21172.html">Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Pradeep Kumar Seshadri et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21172">2605.21172</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21340.html">Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Vipul B Rohit et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21425.html">Achieving Material Robustness via Symmetric Stress Finite Element Discretizations</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Pablo Brubeck et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21425">2605.21425</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19280.html">Frequency-dependent stress response under thermal cycle: A thermal-crystal plasticity and dynamic mode decomposition study</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
@@ -31,6 +61,18 @@ _Updated 2026-05-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
 <td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a></div></td>
+<td>Vinay Sharma et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Fabien Mortier et al.</td>
+<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -151,47 +193,5 @@ _Updated 2026-05-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/saxs-30d.html">saxs</a></div></td>
 <td>Pritha Acharya et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14673.html">Compositional and Magnetic Characterisation of Oblique Co and Fe Nanowire Structures Fabricated Using Focused Electron Beam Induced Deposition</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/tem-30d.html">tem</a></div></td>
-<td>Aurys Silinga et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14673">2605.14673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Ali R. Safi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15007.html">Weak Solutions and Inertial Limits for Quasi-static Filtrations</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Peter Lavagnino et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15007">2605.15007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15089.html">Adaptive homotopy continuation for robust dispersion curve computation in viscoelastic waveguides: guaranteed branch identity continuity</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Dong Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15089">2605.15089</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15174.html">Universal quantum resource distillation via composite generalised quantum Stein&#x27;s lemma</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Ludovico Lami et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15174">2605.15174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Philipp Höllmer et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12870">2605.12870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.12892.html">From Polynomial Stability to Periodic Well-posedness in Partially Dissipative Systems</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Giovanni P. Galdi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12892">2605.12892</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21021.html">Microscopic Nonaffine Deformation Theory of LAOS in Polymers</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Dario Nichetti et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21021">2605.21021</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="saxs-30d.html">saxs</a></div></td>
 <td>Pritha Acharya et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21194.html">Linking molecular timescales to linear viscoelastic response in dilute and semidilute unentangled wormlike micelle solutions</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Avishek Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21194">2604.21194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01185.html">Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Léa Delance et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01185">2604.01185</a></td>
 </tr>
 </tbody></table>
