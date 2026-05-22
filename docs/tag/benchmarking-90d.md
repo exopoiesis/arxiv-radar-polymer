@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Taewon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21172.html">Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes</a></div></td>
 <td>Pradeep Kumar Seshadri et al.</td>
@@ -272,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22405.html">MolFM-Lite: Multi-Modal Molecular Property Prediction with Conformer Ensemble Attention and Cross-Modal Fusion</a></div><div class="paper-tags"><a href="selfies-90d.html">selfies</a></div></td>
 <td>Syed Omer Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22405">2602.22405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.03488.html">Long-range spin glass in a field at zero temperature</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
-<td>Maria Chiara Angelini et al.</td>
-<td><a href="http://arxiv.org/abs/2602.03488">2602.03488</a></td>
 </tr>
 </tbody></table>

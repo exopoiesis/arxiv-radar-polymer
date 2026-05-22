@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Taewon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21172.html">Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes</a></div></td>
@@ -764,17 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09606.html">Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study</a></div><div class="paper-tags"><a href="organic-photovoltaics-360d.html">organic-photovoltaics</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2505.09606">2505.09606</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02810.html">Mol-LLM: Multimodal Generalist Molecular LLM with Improved Graph Utilization</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
-<td>Chanhui Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2502.02810">2502.02810</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19948.html">SaSi: A Self-augmented and Self-interpreted Deep Learning Approach for Few-shot Cryo-ET Particle Detection</a></div></td>
-<td>Gokul Adethya et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19948">2505.19948</a></td>
 </tr>
 </tbody></table>

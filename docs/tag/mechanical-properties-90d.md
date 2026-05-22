@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">133 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,11 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18954.html">Work-hardening exhaustion as the origin of low toughness in L-PBF alloys: A case study on the role of intrinsic vs. extrinsic defects in SS316L</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>KenHee Ryou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18954">2602.18954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18146.html">Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="gnn-90d.html">gnn</a></div></td>
-<td>Lionel Salesses et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18146">2602.18146</a></td>
 </tr>
 </tbody></table>

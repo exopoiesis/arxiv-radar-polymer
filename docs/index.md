@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-21._
+_Updated 2026-05-22._
 
-**3370** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3371** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
+<td>Taewon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/tem-30d.html">tem</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-05-21._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14516.html">A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks</a></div><div class="paper-tags"><a href="tag/extrusion-30d.html">extrusion</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Léa Beaulès et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14516">2605.14516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/saxs-30d.html">saxs</a></div></td>
-<td>Pritha Acharya et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14564">2605.14564</a></td>
 </tr>
 </tbody></table>

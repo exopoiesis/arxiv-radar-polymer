@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,23 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18954.html">Work-hardening exhaustion as the origin of low toughness in L-PBF alloys: A case study on the role of intrinsic vs. extrinsic defects in SS316L</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>KenHee Ryou et al.</td>
 <td><a href="http://arxiv.org/abs/2602.18954">2602.18954</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.14858.html">Coordinated motion control of a wire arc additive manufacturing robotic system for multi-directional building parts</a></div></td>
-<td>Fernando Coutinho et al.</td>
-<td><a href="http://arxiv.org/abs/2505.14858">2505.14858</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02206.html">Multi-material structural optimization for additive manufacturing based on a phase field approach</a></div></td>
-<td>Luise Blank et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02206">2508.02206</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18146.html">Stable Long-Horizon Spatiotemporal Prediction on Meshes Using Latent Multiscale Recurrent Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Lionel Salesses et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18146">2602.18146</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">33 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -212,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.03472.html">Kinetic theory of dilute weakly charged granular gases with hard-core and inverse power-law interactions under uniform shear flow</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Yuria Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2601.03472">2601.03472</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.18648.html">Optimal Signal Extraction from Order Flow: A Matched Filter Perspective on Normalization and Market Microstructure</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Sungwoo Kang</td>
-<td><a href="http://arxiv.org/abs/2512.18648">2512.18648</a></td>
 </tr>
 </tbody></table>

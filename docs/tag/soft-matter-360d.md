@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,17 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.22933.html">Emergent universal long-range structure in random-organizing systems</a></div></td>
 <td>Satyam Anand et al.</td>
 <td><a href="http://arxiv.org/abs/2505.22933">2505.22933</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.19830.html">Statistical physics of active matter, cell division and cell aggregation</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Jean-François Joanny et al.</td>
-<td><a href="http://arxiv.org/abs/2505.19830">2505.19830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20028.html">Capillary wave formation in conserved active emulsions</a></div></td>
-<td>Florian Raßhofer et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20028">2505.20028</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
+<td>Taewon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21172.html">Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes</a></div></td>
 <td>Pradeep Kumar Seshadri et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15625.html">ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Lijie Ding et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15625">2605.15625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Ali R. Safi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
 </tr>
 </tbody></table>

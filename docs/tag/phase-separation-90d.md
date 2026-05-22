@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22440.html">An Information-theoretic Collective Variable for Configurational Entropy</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Ashley Z. Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22440">2602.22440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18213.html">Machine-learning force-field models for dynamical simulations of metallic magnets</a></div></td>
-<td>Gia-Wei Chern et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18213">2602.18213</a></td>
 </tr>
 </tbody></table>
