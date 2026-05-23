@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">460 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21340.html">Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves</a></div></td>
 <td>Vipul B Rohit et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21741.html">Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
+<td>Jennifer Harnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21741">2605.21741</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-18</td>
@@ -2768,17 +2774,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23361.html">Orientation dynamics of a spheroid in the simple shear flow of a weakly elastic fluid</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Pavan Kumar Singeetham et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23361">2505.23361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21711.html">The Memory Engine: Self-Organized Coherence from Internal Feedback</a></div></td>
-<td>Aranyak Sarkar</td>
-<td><a href="http://arxiv.org/abs/2505.21711">2505.21711</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21760.html">Viscoelasticity of biomimetic scale beams from trapped complex fluids</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Pranta Rahman Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21760">2505.21760</a></td>
 </tr>
 </tbody></table>

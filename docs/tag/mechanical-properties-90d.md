@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21741.html">Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Jennifer Harnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21741">2605.21741</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div></td>
 <td>Hanna Pot et al.</td>
@@ -800,11 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.19205.html">Microgel Translocation Through Narrow Capillaries</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Subhadip Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2602.19205">2602.19205</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18954.html">Work-hardening exhaustion as the origin of low toughness in L-PBF alloys: A case study on the role of intrinsic vs. extrinsic defects in SS316L</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>KenHee Ryou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18954">2602.18954</a></td>
 </tr>
 </tbody></table>

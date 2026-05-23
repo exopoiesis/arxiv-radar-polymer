@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.21021">2605.21021</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21741.html">Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Jennifer Harnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21741">2605.21741</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14564.html">Kinetic effects on the phase behavior and microstructural transitions of a thermoresponsive polymer solution</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="saxs-360d.html">saxs</a></div></td>
 <td>Pritha Acharya et al.</td>
@@ -722,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23361.html">Orientation dynamics of a spheroid in the simple shear flow of a weakly elastic fluid</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Pavan Kumar Singeetham et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23361">2505.23361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.21760.html">Viscoelasticity of biomimetic scale beams from trapped complex fluids</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Pranta Rahman Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2505.21760">2505.21760</a></td>
 </tr>
 </tbody></table>

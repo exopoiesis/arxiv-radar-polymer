@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <a href="organic-photovoltaics-90d.html">90d</a> <strong>360d</strong> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20026.html">A Unified Semiclassical Framework for Ultrafast Competitive Electron Transfer in Multiredox Molecular Systems</a></div></td>
 <td>Serguei Feskov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20026">2507.20026</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09606.html">Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Steve Cabrel Teguia Kouam et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09606">2505.09606</a></td>
 </tr>
 </tbody></table>

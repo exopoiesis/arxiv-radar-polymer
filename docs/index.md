@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-22._
+_Updated 2026-05-23._
 
-**3371** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3376** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -16,9 +16,27 @@ _Updated 2026-05-22._
 <tbody>
 <tr class="paper">
 <td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21971.html">A geometric modelling framework to support the design of heterogeneous lattice structures with non-linearly varying geometry</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Nikita Letov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21971">2605.21971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
 <td>Taewon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22214.html">N-Component Free Energy Lattice Boltzmann Method with Reduction Consistency and Global Momentum Conservation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Michael Rennick et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22214">2605.22214</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22270.html">Refractive index retrieval of 3D printed materials for photonic applications</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Joseph Arnold Riley et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22270">2605.22270</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-20</td>
@@ -49,6 +67,18 @@ _Updated 2026-05-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21425.html">Achieving Material Robustness via Symmetric Stress Finite Element Discretizations</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
 <td>Pablo Brubeck et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21425">2605.21425</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Isabella A. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21741.html">Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Jennifer Harnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21741">2605.21741</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-19</td>
@@ -163,35 +193,5 @@ _Updated 2026-05-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15797.html">A fluid dual to charged large D membrane paradigm</a></div><div class="paper-tags"><a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Supratim Halder et al.</td>
 <td><a href="http://arxiv.org/abs/2605.15797">2605.15797</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15909.html">Restricted quantum groups as graded Hopf algebras</a></div></td>
-<td>Jelena Anić et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15909">2605.15909</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/mlff-30d.html">mlff</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alberto Ocana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.16119.html">Boundary anomalous dimensions from BCFT: $φ^{3}$ theories with a boundary and higher-derivative generalizations</a></div></td>
-<td>Yongwei Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.16119">2605.16119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14353.html">Chiroptical Ternary Entropy Harvesting from Self-Assembled Block Copolymer Nanopatterns</a></div><div class="paper-tags"><a href="tag/block-copolymer-30d.html">block-copolymer</a></div></td>
-<td>Wookjin Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14353">2605.14353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.14516.html">A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks</a></div><div class="paper-tags"><a href="tag/extrusion-30d.html">extrusion</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Léa Beaulès et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14516">2605.14516</a></td>
 </tr>
 </tbody></table>

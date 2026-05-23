@@ -2730,6 +2730,81 @@
   ],
   "updated": "2026-05-20"
  },
+ "2605.21622": {
+  "abstract": "Topology optimization can generate efficient structures, but designers often must manually translate qualitative intent, such as desired visual style, product experience, or manufacturability into solver settings that are not directly tied to those preferences. We present TO-Agents, a multi-agent AI framework that connects natural-language design intent with iterative topology optimization. The framework converts a human-provided problem description into validated solver inputs, runs a topology optimization solver, renders the resulting 3D topology, and uses multi-view vision-language reasoning with an independent judge agent to critique each result and revise solver parameters. We evaluate the framework on two long-horizon design tasks: a cantilever beam benchmark and a phone-stand product design. In both tasks, the designer specifies an aesthetic preference for hierarchically branched structures inspired by natural tree morphologies, and the system performs four revision cycles across ten independent replicates. TO-Agents produces at least one preference-aligned design in 60% of trials for each case study, corresponding to up to 6x more successful trials than an ablated pipeline without visual or historical feedback. Judge scores and human evaluations show that the pipeline can identify effective parameter levers, recover from poor revisions, and expand design exploration. A manufacturing agent further post-processes top-ranked designs for additive manufacturing, enabling end-to-end intent-to-prototype design. We also identify failure modes, including overshooting, selective memory, misplaced tools, and incorrect parameter reasoning. These results suggest that agentic topology optimization can shift designers from low-level parameter tuning toward higher-level specification of form and function, while highlighting safeguards needed for reliable autonomous engineering design.",
+  "authors": [
+   "Isabella A. Stewart",
+   "Hongrui Chen",
+   "Faez Ahmed"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Accepted for publication in the Proceedings of the ASME 2026 International Design Engineering Technical Conferences (IDETC2026)",
+  "first_author": "Isabella A. Stewart",
+  "pdf_url": "http://arxiv.org/pdf/2605.21622",
+  "primary_category": "cs.AI",
+  "published": "2026-05-20",
+  "tags": [
+   "additive-manufacturing",
+   "benchmarking"
+  ],
+  "title": "TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21741": {
+  "abstract": "DNA origami is a powerful method to achieve nanoscale folded structures. Despite rapid improvements in folding and purification methods, DNA origami objects are still often produced in small quantities and studied at single molecule scale. Here, we design simple DNA origami-inspired polymers with complex topologies, and study their rheology and viscoelastic properties in dense conditions. First, we designed and purified topologically distinct DNA nanostructures, linear, circular, and \"tadpole\" polymers, to evaluate how polymer architecture influences entanglement and rheology. Despite their distinct topologies, we observe that all constructs obeyed universal rheological scalings, likely due to their short length. However, upon thermal annealing in the bulk, the DNA origami-like polymers displayed significantly different behaviours. Our results suggest that DNA origami-like polymers could be used to engineer thermoresponsive behaviours in complex fluids by introducing reversible and topology-dependent crosslinking.",
+  "authors": [
+   "Jennifer Harnett",
+   "Saminathan Ramakrishnan",
+   "Alice L. B. Pyne",
+   "Elizabeth P. Holmes",
+   "Davide Michieletto"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Jennifer Harnett",
+  "pdf_url": "http://arxiv.org/pdf/2605.21741",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-20",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-20"
+ },
+ "2605.21971": {
+  "abstract": "Geometric modelling has been a crucial component of the design process ever since the introduction of the first Computer-Aided Design (CAD) systems. Additive Manufacturing (AM) pushes design freedom to previously unachievable limits. AM allows the manufacturing of lattice structures which are otherwise close to impossible to be manufactured conventionally. Yet, the geometric modelling of heterogeneous lattice structures is still greatly limited. Thus, the AM industry is now in a situation where the manufacturing capabilities exceed the geometric modelling capabilities. While there have been advancements in the modelling of heterogeneous lattice structures, the review of relevant literature revealed critical limitations of the existing approaches. These limitations include their inability to model non-linear variation of geometric parameters, as well as the limited amount of controllable geometric parameters. This work presents a novel geometric modelling methodology based on function representation as an attempt to bridge this gap. The proposed approach avoids the manual definition of geometric parameters and provides a method to control them with mathematical functions instead. A software prototype implementing the proposed approach is presented, and several use-cases are analysed.",
+  "authors": [
+   "Nikita Letov",
+   "Yaoyao Fiona Zhao"
+  ],
+  "categories": [
+   "cs.CG"
+  ],
+  "comment": "36 pages, 17 figures. Published in Journal of Computational Design and Engineering",
+  "first_author": "Nikita Letov",
+  "pdf_url": "http://arxiv.org/pdf/2605.21971",
+  "primary_category": "cs.CG",
+  "published": "2026-05-21",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "A geometric modelling framework to support the design of heterogeneous lattice structures with non-linearly varying geometry",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-21"
+ },
  "2605.22133": {
   "abstract": "Recent advances in generative modeling show that pretrained representations can improve generation as conditioning features or alignment targets. Motivated by this, we study protein representations for predicting structures beyond conventional function annotation. We propose TriProRep, a structure-aware pretraining method that jointly models three aligned residue-level views: amino-acid identity, backbone geometry, and local full-atom geometry, discretely encoded via VQ-VAE tokenizers. By pretraining to recover original tokens from generator-corrupted views, TriProRep learns to distinguish plausible but incorrect cross-view augmentations from the original protein. We further introduce RepSP, a benchmark for evaluating protein representations in structure-predictive settings. RepSP tests three uses of representations: homodimer co-folding from apo-chain representations, residue-level prediction of homodimer-derived interaction properties, and representation-aligned monomer structure prediction. Across these tasks, TriProRep improves over sequence-only and prior structure-aware representation models, while maintaining competitive performance on conventional benchmarks.",
   "authors": [
@@ -2758,7 +2833,59 @@
   ],
   "title": "Atom-level Protein Representation Learning Improves Protein Structure Prediction",
   "topics": [
+   "Generative Design & Inverse Design",
    "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22214": {
+  "abstract": "We present a free energy lattice Boltzmann model capable of simulating fluid systems with an arbitrary number of immiscible components in principle. Our method is strictly reduction consistent, ensuring that absent fluid components do not spontaneously nucleate. We introduce a novel discretization of the surface tension force that globally conserves momentum to machine precision, and we enforce reduction consistency through a flux correction that is independent of the mobility. The method is benchmarked with a range of static and dynamic problems, including: liquid lenses, Janus droplets, quaternary phase separation, and six-component layered Poiseuille flow, and we obtain excellent agreement with theoretical predictions throughout. Finally, we demonstrate the applicability of the proposed method through patterned liquid surfaces and microfluidic emulsion droplet generation.",
+  "authors": [
+   "Michael Rennick",
+   "Xitong Zhang",
+   "Tim Niklas Bingert",
+   "Mathias J. Krause",
+   "Halim Kusumaatmaja"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "The following article has been accepted by The Journal of Chemical Physics. After it is published, it will be found at https://doi.org/10.1063/5.0327062",
+  "first_author": "Michael Rennick",
+  "pdf_url": "http://arxiv.org/pdf/2605.22214",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-05-21",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "N-Component Free Energy Lattice Boltzmann Method with Reduction Consistency and Global Momentum Conservation",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-05-21"
+ },
+ "2605.22270": {
+  "abstract": "The advent of additive manufacturing has opened opportunities to rapidly prototype devices and products ranging from automotive and aerospace applications to micro/nanoscale metastructures, as examples). Three-dimensional (3D) printing has become relevant for electromagnetic structures, integrated optics and photonics systems, however, the optical properties of commercially available 3D printed polymers at telecommunication wavelengths (wavelength 1550nm) is not always available. Provided the importance of 3D printing technologies, in this work, we evaluate both theoretically and experimentally the complex refractive index of four polymers including some recycled versions (namely Butenediol Vinyl Alcohol (BVOH), Polylactic Acid (PLA), Recycled Polyethylene Terephthalate (rPET), and recycled Polylactic Acid (rPLA)) as potential candidates for photonics applications. The 3D printed samples have thicknesses from ~100 to 400 nm (~64wavelengths to ~258wavelengths, respectively). The experimental reflectance and transmittance spectra are extracted and used to retrieve the complex refractive index of each printed material demonstrating extinction coefficients in the order of 10^-4 at wavelength=1550nm. The experimental results are validated using numerical simulations. Finally, as a proof-of-concept, a convex-planar lens and a Bragg mirror are designed and numerically evaluated, showing the potential of the proposed polymers for 3D printing photonic structures at telecommunication wavelengths.",
+  "authors": [
+   "Joseph Arnold Riley",
+   "Christian Johnson-Richards",
+   "Noel Healy",
+   "Victor Pacheco-Peña"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "23 pages, 6 figures",
+  "first_author": "Joseph Arnold Riley",
+  "pdf_url": "http://arxiv.org/pdf/2605.22270",
+  "primary_category": "physics.optics",
+  "published": "2026-05-21",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Refractive index retrieval of 3D printed materials for photonic applications",
+  "topics": [
+   "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-05-21"
  }

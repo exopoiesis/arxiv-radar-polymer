@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22214.html">N-Component Free Energy Lattice Boltzmann Method with Reduction Consistency and Global Momentum Conservation</a></div></td>
+<td>Michael Rennick et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22214">2605.22214</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Fabien Mortier et al.</td>
@@ -1904,11 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23424.html">Two-gap superconductor ZrB$_{12}$ with dynamic stripes and charge density waves: Crystal structure, physical properties and pairing mechanism</a></div></td>
 <td>A. N. Azarevich et al.</td>
 <td><a href="http://arxiv.org/abs/2505.23424">2505.23424</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09763.html">Effect of the background flow on the motility induced phase separation</a></div></td>
-<td>Soni D. Prajapati et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09763">2408.09763</a></td>
 </tr>
 </tbody></table>

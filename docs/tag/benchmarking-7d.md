@@ -34,6 +34,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2605.21425">2605.21425</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
+<td>Isabella A. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="hydrogels-7d.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="polymerization-7d.html">polymerization</a></div></td>
 <td>Fakhrul Hasan Bhuiyan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15625.html">ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Lijie Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15625">2605.15625</a></td>
 </tr>
 </tbody></table>

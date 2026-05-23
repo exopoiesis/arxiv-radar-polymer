@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21741.html">Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
+<td>Jennifer Harnett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21741">2605.21741</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div></td>
 <td>Hanna Pot et al.</td>
@@ -230,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21194.html">Linking molecular timescales to linear viscoelastic response in dilute and semidilute unentangled wormlike micelle solutions</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
 <td>Avishek Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21194">2604.21194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20265.html">Compressible Navier-Stokes-Landau-Lifshitz-Gilbert system: derivations and well-posedness</a></div></td>
-<td>Boling Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20265">2604.20265</a></td>
 </tr>
 </tbody></table>

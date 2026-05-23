@@ -34,6 +34,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2605.21425">2605.21425</a></td>
 </tr>
 <tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Isabella A. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Aaditya Chandrasekhar et al.</td>
@@ -764,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02129.html">Benchmarking Large Language Models for Polymer Property Predictions</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="polymer-informatics-360d.html">polymer-informatics</a></div></td>
 <td>Sonakshi Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02129">2506.02129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.09606.html">Comparative Analysis of GFN Methods in Geometry Optimization of Small Organic Semiconductor Molecules: A DFT Benchmarking Study</a></div><div class="paper-tags"><a href="organic-photovoltaics-360d.html">organic-photovoltaics</a></div></td>
-<td>Steve Cabrel Teguia Kouam et al.</td>
-<td><a href="http://arxiv.org/abs/2505.09606">2505.09606</a></td>
 </tr>
 </tbody></table>

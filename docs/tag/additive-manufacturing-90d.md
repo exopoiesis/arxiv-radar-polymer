@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21971.html">A geometric modelling framework to support the design of heterogeneous lattice structures with non-linearly varying geometry</a></div></td>
+<td>Nikita Letov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21971">2605.21971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22270.html">Refractive index retrieval of 3D printed materials for photonic applications</a></div></td>
+<td>Joseph Arnold Riley et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22270">2605.22270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Isabella A. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17576.html">Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability</a></div><div class="paper-tags"><a href="tem-90d.html">tem</a></div></td>
@@ -332,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06627.html">Phase field as a front propagation method for modeling grain growth in additive manufacturing</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Murali Uddagiri et al.</td>
 <td><a href="http://arxiv.org/abs/2603.06627">2603.06627</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18954.html">Work-hardening exhaustion as the origin of low toughness in L-PBF alloys: A case study on the role of intrinsic vs. extrinsic defects in SS316L</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>KenHee Ryou et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18954">2602.18954</a></td>
 </tr>
 </tbody></table>

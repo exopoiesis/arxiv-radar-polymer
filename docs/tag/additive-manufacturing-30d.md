@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21971.html">A geometric modelling framework to support the design of heterogeneous lattice structures with non-linearly varying geometry</a></div></td>
+<td>Nikita Letov et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21971">2605.21971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22270.html">Refractive index retrieval of 3D printed materials for photonic applications</a></div></td>
+<td>Joseph Arnold Riley et al.</td>
+<td><a href="http://arxiv.org/abs/2605.22270">2605.22270</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
+<td>Isabella A. Stewart et al.</td>
+<td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17576.html">Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability</a></div><div class="paper-tags"><a href="tem-30d.html">tem</a></div></td>
@@ -92,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21250.html">How it cools? Studying the heat flow out of a semi-infinite slab in welding: An analytical approach</a></div></td>
 <td>Fawzi Aly et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21250">2604.21250</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22857.html">IoT-Enhanced CNN-Based Labelled Crack Detection for Additive Manufacturing Image Annotation in Industry 4.0</a></div></td>
-<td>Mohsen Asghari Ilani et al.</td>
-<td><a href="http://arxiv.org/abs/2604.22857">2604.22857</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">194 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,11 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08958.html">Thermodynamics of microphase separation in a swollen, strain-stiffening polymer network</a></div><div class="paper-tags"><a href="flory-huggins-360d.html">flory-huggins</a></div></td>
 <td>Carla Fernández-Rico et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08958">2506.08958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.17906.html">Why do financial prices exhibit Brownian motion despite predictable order flow?</a></div></td>
-<td>Yuki Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2502.17906">2502.17906</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>soft-matter — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <strong>90d</strong> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15559.html">Fluctuation-Response Theory of Non-Equilibrium Complex Fluids</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Ryota Takaki et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15559">2510.15559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18730.html">Acoustic Manipulation of Tangible Janus Icons on Liquid Droplets</a></div></td>
-<td>Yusuke Koroyasu et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18730">2602.18730</a></td>
 </tr>
 </tbody></table>
