@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-degradation — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <strong>360d</strong> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09336.html">Immunological mechanisms and immunoregulatory strategies in intervertebral disc degeneration</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Xianyi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09336">2506.09336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14923.html">Hydrogel-to-Aerogel Transitions in Polymer-Particle Hydrogels Expand the Wildfire Defense Window</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Changxin Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14923">2503.14923</a></td>
 </tr>
 </tbody></table>

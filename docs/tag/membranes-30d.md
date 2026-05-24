@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>membranes — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <strong>30d</strong> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06131.html">Simultaneous measurement of thermal conductivity and specific heat in quasi-two-dimensional membranes using the 3ω method</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Yiwei Le et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06131">2512.06131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21586.html">Birth, Death, and Replication at Surfaces: Universal Laws of Autocatalytic Dynamics</a></div></td>
-<td>Denis S. Grebenkov</td>
-<td><a href="http://arxiv.org/abs/2604.21586">2604.21586</a></td>
 </tr>
 </tbody></table>
