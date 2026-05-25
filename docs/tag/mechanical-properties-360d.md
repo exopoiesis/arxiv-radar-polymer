@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">457 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2756,23 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02034.html">High-throughput viscometry via machine-learning from videos of inverted vials</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Ignacio Arretche et al.</td>
 <td><a href="http://arxiv.org/abs/2506.02034">2506.02034</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11021.html">Tunable self-emulsification via viscoelastic control of Marangoni-driven interfacial instabilities</a></div></td>
-<td>Christoph Haessig et al.</td>
-<td><a href="http://arxiv.org/abs/2504.11021">2504.11021</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23169.html">Local energy decay of solutions to the linearized compressible viscoelastic system around motionless state in an exterior domain</a></div></td>
-<td>Yusuke Ishigaki et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23169">2505.23169</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23361.html">Orientation dynamics of a spheroid in the simple shear flow of a weakly elastic fluid</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Pavan Kumar Singeetham et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23361">2505.23361</a></td>
 </tr>
 </tbody></table>

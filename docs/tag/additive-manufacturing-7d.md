@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
 <td>Isabella A. Stewart et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17576.html">Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability</a></div><div class="paper-tags"><a href="tem-7d.html">tem</a></div></td>
-<td>Brian Rodgers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17576">2605.17576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18894.html">Generative and isoparametric geometric modeling of large-scale and multiscale microstructures</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Guoyue Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18894">2605.18894</a></td>
 </tr>
 </tbody></table>

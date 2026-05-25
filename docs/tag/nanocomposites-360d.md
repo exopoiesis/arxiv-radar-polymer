@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.06971.html">On the origin of heating-induced softening and enthalpic reinforcement in elastomeric nanocomposites</a></div></td>
 <td>Pierre Kawak et al.</td>
 <td><a href="http://arxiv.org/abs/2501.06971">2501.06971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20358.html">Is GGAG:Ce@SiO$_2$-RB composite a prospective material for X-ray induced photodynamic therapy?</a></div></td>
-<td>Iveta Terezie Hošnová et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20358">2505.20358</a></td>
 </tr>
 </tbody></table>

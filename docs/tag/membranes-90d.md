@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>membranes — 90d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <strong>90d</strong> <a href="membranes-360d.html">360d</a> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21714.html">Self-avoiding tethered surfaces are always flat</a></div></td>
 <td>A. D. Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2602.21714">2602.21714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14725.html">Ion Permeation in Nanoscale Films: Fundamental Limitation and Evaluation of Dielectric Properties</a></div><div class="paper-tags"><a href="dielectric-properties-90d.html">dielectric-properties</a></div></td>
-<td>Jay Prakash Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14725">2509.14725</a></td>
 </tr>
 </tbody></table>
