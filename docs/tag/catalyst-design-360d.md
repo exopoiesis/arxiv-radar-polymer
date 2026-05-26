@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalyst-design — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <strong>360d</strong> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19758.html">Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO$_3$ Nanocomposites with Enhanced Photocatalytic Efficiency</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>P. Princeya Mary et al.</td>
 <td><a href="http://arxiv.org/abs/2504.19758">2504.19758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14106.html">Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Yibo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14106">2409.14106</a></td>
 </tr>
 </tbody></table>

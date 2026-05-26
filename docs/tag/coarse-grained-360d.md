@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">169 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00515.html">Complete universal scaling of first-order phase transitions in the two-dimensional Ising model</a></div></td>
 <td>Yuxiang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00515">2506.00515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14106.html">Advancing Molecular Graph-Text Pre-training via Fine-grained Alignment</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a></div></td>
-<td>Yibo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2409.14106">2409.14106</a></td>
 </tr>
 </tbody></table>
