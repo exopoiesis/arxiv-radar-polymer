@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25136.html">A particle-resolved rheological study of chirality transfer and odd transport</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Rémi Goerlich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25136">2605.25136</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17956.html">Entropy additivity from exponential decay of correlations: a coarse-grained operator approach</a></div></td>
 <td>Bob Osano</td>
@@ -344,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.23041.html">$Z_3$ confined and deconfined Coulomb liquids in $S_{\rm eff} = 3/2$ pyrochlore magnets</a></div></td>
 <td>Jay Pandey et al.</td>
 <td><a href="http://arxiv.org/abs/2602.23041">2602.23041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21884.html">Stress Relaxation in Monodisperse Entangled Polymer Melts: Correlation Between Viscoelastic Response and Single-Chain Relaxation via Molecular Dynamics Simulations</a></div></td>
-<td>Alireza F. Behbahani</td>
-<td><a href="http://arxiv.org/abs/2602.21884">2602.21884</a></td>
 </tr>
 </tbody></table>

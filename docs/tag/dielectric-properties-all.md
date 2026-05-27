@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dielectric-properties — all</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <a href="dielectric-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23752.html">Development of EAP-based actuators for high-frequency adaptive optics system</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>A. Michel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23752">2605.23752</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15137.html">Deformation of Bacterial Cell Membranes by Action of Metal Surface under Plasmon Resonance Condition</a></div></td>

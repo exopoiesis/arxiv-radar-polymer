@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25136.html">A particle-resolved rheological study of chirality transfer and odd transport</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Rémi Goerlich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25136">2605.25136</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24276.html">Resonances in Overdamped Odd Materials</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Julius Kiln et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24276">2605.24276</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21021.html">Microscopic Nonaffine Deformation Theory of LAOS in Polymers</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
@@ -254,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22927.html">Exact Rheology of Uniform Shear Flow in a Gas of Inelastic and Rough Maxwell Particles</a></div></td>
 <td>Andrés Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22927">2602.22927</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21972.html">Particle, kinetic and hydrodynamic models for sea ice floes. Part II: Rotating floes with nonlinear contact forces</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a></div></td>
-<td>Quanling Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21972">2602.21972</a></td>
 </tr>
 </tbody></table>

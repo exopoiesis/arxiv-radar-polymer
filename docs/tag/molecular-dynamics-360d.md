@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">140 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Simon Gonzalez-Zapata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25989.html">Beyond Gaussian Statistics in Polymer Melts: Statistical Masking of Persistent Local Constraints</a></div></td>
+<td>José A. Martins</td>
+<td><a href="http://arxiv.org/abs/2605.25989">2605.25989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24271.html">Streaming Molecular Dynamics Simulation Data for On-the-fly Processing and Analysis</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Amruthesh Thirumalaiswamy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24271">2605.24271</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>

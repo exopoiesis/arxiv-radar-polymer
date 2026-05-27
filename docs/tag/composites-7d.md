@@ -16,21 +16,21 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Simon Gonzalez-Zapata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25287.html">Data-Driven Structural Health Monitoring of Short Carbon Fiber-Reinforced Polymer Composites via Multiphysics Phase-Field Simulation</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Behrouz Arash et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25287">2605.25287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a> · <a href="tem-7d.html">tem</a></div></td>
 <td>Youness Hadouch et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a> · <a href="hydrogels-7d.html">hydrogels</a></div></td>
-<td>Aaditya Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
-<td>Vinay Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 </tbody></table>

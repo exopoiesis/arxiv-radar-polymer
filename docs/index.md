@@ -5,15 +5,171 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-26._
+_Updated 2026-05-27._
 
-**3376** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3402** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26540.html">DGLD: Domain-Gated Latent Diffusion for the Discovery of Novel Energetic Materials</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
+<td>Yehudit Aperstein et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26540">2605.26540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26543.html">PolyFusionAgent: A Multimodal Foundation Model and Autonomous AI Assistant for Polymer Property Prediction and Inverse Design</a></div><div class="paper-tags"><a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
+<td>Manpreet Kaur et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26543">2605.26543</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="tag/flory-huggins-30d.html">flory-huggins</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Peng Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26623">2605.26623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26833.html">Periodic Topological Deep Learning for Polymer Design and Discovery</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Yasharth Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26833">2605.26833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Vid Ravnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Simon Gonzalez-Zapata et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25936.html">Generalising gravitationally induced decoherence beyond linear environmental interactions in a microscopic quantum mechanical toy model</a></div></td>
+<td>Max Joseph Fahn et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25936">2605.25936</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25989.html">Beyond Gaussian Statistics in Polymer Melts: Statistical Masking of Persistent Local Constraints</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>José A. Martins</td>
+<td><a href="http://arxiv.org/abs/2605.25989">2605.25989</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25996.html">Topology of pulsating active matter: Defect asymmetry controls emergent motility</a></div></td>
+<td>Luca Casagrande et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25996">2605.25996</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26027.html">Liquid-Liquid Phase Separation in a Minimal Explicit-Solvent Lattice Model Mimicking Protein Solutions</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Siddhartha Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26027">2605.26027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26083.html">Characterizing emergent multi-scale dynamics in colloidal nanoparticle gels</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/soft-matter-30d.html">soft-matter</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>William D. Brackett et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26083">2605.26083</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26338.html">Phase behavior of solvent-nematogen mixtures</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Sullivan Bailey-Darland et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26338">2605.26338</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24841.html">DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
+<td>Jiangjie Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24841">2605.24841</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25063.html">Reinforcement Learning for Laser Additive Manufacturing Scan-Order Optimisation: A Bilevel Proxy--FEA Diagnostic Framework for Reward and World-Model Diagnosis</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Xian Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25063">2605.25063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25136.html">A particle-resolved rheological study of chirality transfer and odd transport</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Rémi Goerlich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25136">2605.25136</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25187.html">Unfrustrated Self-Morphing of Bulk Liquid Crystal Elastomers</a></div><div class="paper-tags"><a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
+<td>Shachaf Rotem et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25187">2605.25187</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25215.html">First-passage time distribution of a Brownian particle harmonically confined in a viscoelastic bath</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Brandon R. Ferrer et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25215">2605.25215</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25287.html">Data-Driven Structural Health Monitoring of Short Carbon Fiber-Reinforced Polymer Composites via Multiphysics Phase-Field Simulation</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Behrouz Arash et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25287">2605.25287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23222.html">On global solutions to the semidiscrete stochastic heat equation</a></div></td>
+<td>Tobias Hurth et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23222">2605.23222</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23620.html">From Optical Breakdown to Bubble Inception: A Coupled Plasma-Thermal Framework for Nanosecond Laser-Induced Cavitation in Water</a></div><div class="paper-tags"><a href="tag/multiscale-modeling-30d.html">multiscale-modeling</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Shuqi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23620">2605.23620</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23752.html">Development of EAP-based actuators for high-frequency adaptive optics system</a></div><div class="paper-tags"><a href="tag/dielectric-properties-30d.html">dielectric-properties</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>A. Michel et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23752">2605.23752</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23758.html">Order-Disorder Tricriticality in $\mathrm{A}_n \mathrm{B}_n$ Star Polymer Melts</a></div></td>
+<td>Minhoon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23758">2605.23758</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23816.html">SDNator is Not Another SDN Controller: Enabling Extensible Data-Driven Control in Cyber-Physical Systems</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Y. Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23816">2605.23816</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.23877.html">Particle Image Velocimetry of 3D printed vascular fluidic phantom devices</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Job van Essen et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23877">2605.23877</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24271.html">Streaming Molecular Dynamics Simulation Data for On-the-fly Processing and Analysis</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Amruthesh Thirumalaiswamy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24271">2605.24271</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24276.html">Resonances in Overdamped Odd Materials</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Julius Kiln et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24276">2605.24276</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21971.html">A geometric modelling framework to support the design of heterogeneous lattice structures with non-linearly varying geometry</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
@@ -37,161 +193,5 @@ _Updated 2026-05-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22270.html">Refractive index retrieval of 3D printed materials for photonic applications</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
 <td>Joseph Arnold Riley et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22270">2605.22270</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/tem-30d.html">tem</a></div></td>
-<td>Youness Hadouch et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21021.html">Microscopic Nonaffine Deformation Theory of LAOS in Polymers</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Dario Nichetti et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21021">2605.21021</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21172.html">Lumina: An AI-Augmented Multiscale Material Informatics Framework for Extreme Aero-Chemo-Thermo-Mechanical Regimes</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Pradeep Kumar Seshadri et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21172">2605.21172</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21340.html">Vortex Dipole Evolution in Viscoelastic Media: Effects of Asymmetry, Coupling, and Transverse Shear Waves</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Vipul B Rohit et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21340">2605.21340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21425.html">Achieving Material Robustness via Symmetric Stress Finite Element Discretizations</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Pablo Brubeck et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21425">2605.21425</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Isabella A. Stewart et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.21741.html">Rheology and Programmable Gelation of DNA Origami Polymer Tadpoles</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Jennifer Harnett et al.</td>
-<td><a href="http://arxiv.org/abs/2605.21741">2605.21741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19280.html">Frequency-dependent stress response under thermal cycle: A thermal-crystal plasticity and dynamic mode decomposition study</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Haruki Ohashi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19280">2605.19280</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19560.html">Tracking Coupled Granular Temperature and Entropy Dynamics in Granular Materials via Dielectric Spectroscopy</a></div><div class="paper-tags"><a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Sophia G. Krastana et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19560">2605.19560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Aaditya Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a></div></td>
-<td>Vinay Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Fabien Mortier et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17917.html">Lateral hydrodynamics in supported membranes: The Evans-Sackmann model and its extensions</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Yuto Hosaka et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17917">2605.17917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17956.html">Entropy additivity from exponential decay of correlations: a coarse-grained operator approach</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Bob Osano</td>
-<td><a href="http://arxiv.org/abs/2605.17956">2605.17956</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18057.html">Chemo-mechanical coupling stabilizes mixed $\mathrm{Ag}_{x}\mathrm{Cu}_{1-x}\mathrm{GaSe}_{2}$ solar-cell absorbers: Insights from Monte-Carlo simulations assisted by ab initio informed machine-learning potentials</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Vasilios Karanikolas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18057">2605.18057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18254.html">Efficient generation of large-scale non-equilibrium distributions of particles</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Sergejs Tarasovs</td>
-<td><a href="http://arxiv.org/abs/2605.18254">2605.18254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18273.html">Faraday waves covered by a viscoelastic sheet</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Hanna Pot et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18273">2605.18273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18279.html">Coalescence of Polymer Droplets Moving on a Surface with Stiffness Gradient</a></div></td>
-<td>Divyansh Tripathi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18279">2605.18279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18300.html">Discovery of variable polarization in H$α$ profile of symbiotic star Y Gem: A case for orbital-phase dependent variation of Raman-scattered Ly$β$ emission</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Arijit Maiti et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18300">2605.18300</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.19071.html">Informational blueprints reveal condition-dependent gene regulatory architectures</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Doruk Efe Gökmen et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19071">2605.19071</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymerization-30d.html">polymerization</a></div></td>
-<td>Fakhrul Hasan Bhuiyan et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17576.html">Microstructure evolution during rapid solidification of hypoeutectic Al-Ag alloys near absolute stability</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/tem-30d.html">tem</a></div></td>
-<td>Brian Rodgers et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17576">2605.17576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.17621.html">Variational Boundary Fluctuations as a First-Principles Origin of Langevin Noise</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Francisco Monroy</td>
-<td><a href="http://arxiv.org/abs/2605.17621">2605.17621</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.18894.html">Generative and isoparametric geometric modeling of large-scale and multiscale microstructures</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Guoyue Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18894">2605.18894</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15625.html">ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Lijie Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15625">2605.15625</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.15797.html">A fluid dual to charged large D membrane paradigm</a></div><div class="paper-tags"><a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
-<td>Supratim Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15797">2605.15797</a></td>
 </tr>
 </tbody></table>

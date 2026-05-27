@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25136.html">A particle-resolved rheological study of chirality transfer and odd transport</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
+<td>Rémi Goerlich et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25136">2605.25136</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17956.html">Entropy additivity from exponential decay of correlations: a coarse-grained operator approach</a></div></td>
 <td>Bob Osano</td>
@@ -1016,11 +1022,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.01909.html">Coarse-graining dynamics to maximize irreversibility</a></div></td>
 <td>Qiwei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.01909">2506.01909</a></td>
-</tr>
-<tr class="paper">
-<td>2025-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00515.html">Complete universal scaling of first-order phase transitions in the two-dimensional Ising model</a></div></td>
-<td>Yuxiang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00515">2506.00515</a></td>
 </tr>
 </tbody></table>

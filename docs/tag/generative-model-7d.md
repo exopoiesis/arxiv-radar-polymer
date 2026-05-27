@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>generative-model — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26540.html">DGLD: Domain-Gated Latent Diffusion for the Discovery of Novel Energetic Materials</a></div><div class="paper-tags"><a href="selfies-7d.html">selfies</a></div></td>
+<td>Yehudit Aperstein et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26540">2605.26540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24841.html">DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation</a></div><div class="paper-tags"><a href="selfies-7d.html">selfies</a></div></td>
+<td>Jiangjie Qiu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24841">2605.24841</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>benchmarking — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26833.html">Periodic Topological Deep Learning for Polymer Design and Discovery</a></div></td>
+<td>Yasharth Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26833">2605.26833</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25063.html">Reinforcement Learning for Laser Additive Manufacturing Scan-Order Optimisation: A Bilevel Proxy--FEA Diagnostic Framework for Reward and World-Model Diagnosis</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
+<td>Xian Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.25063">2605.25063</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23816.html">SDNator is Not Another SDN Controller: Enabling Extensible Data-Driven Control in Cyber-Physical Systems</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
+<td>Y. Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23816">2605.23816</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24271.html">Streaming Molecular Dynamics Simulation Data for On-the-fly Processing and Analysis</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Amruthesh Thirumalaiswamy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.24271">2605.24271</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a></div></td>
@@ -38,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
 <td>Isabella A. Stewart et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="hydrogels-7d.html">hydrogels</a></div></td>
-<td>Aaditya Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a></div></td>
-<td>Vinay Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 </tbody></table>

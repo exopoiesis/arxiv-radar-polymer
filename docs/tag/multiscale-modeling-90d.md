@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23620.html">From Optical Breakdown to Bubble Inception: A Coupled Plasma-Thermal Framework for Nanosecond Laser-Induced Cavitation in Water</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Shuqi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2605.23620">2605.23620</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16330.html">A Data-Driven Parametric Reduced-Order Chemical Kinetics Model Derived from Atomistic Simulations</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Michael N. Sakano et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12410.html">Recent Computational Advances in Dense Suspension Mechanics</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Orhun Ayar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12410">2603.12410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.21972.html">Particle, kinetic and hydrodynamic models for sea ice floes. Part II: Rotating floes with nonlinear contact forces</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Quanling Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2602.21972">2602.21972</a></td>
 </tr>
 </tbody></table>

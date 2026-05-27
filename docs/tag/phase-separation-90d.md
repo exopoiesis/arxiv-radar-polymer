@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="flory-huggins-90d.html">flory-huggins</a></div></td>
+<td>Peng Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26623">2605.26623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26027.html">Liquid-Liquid Phase Separation in a Minimal Explicit-Solvent Lattice Model Mimicking Protein Solutions</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Siddhartha Roy et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26027">2605.26027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26338.html">Phase behavior of solvent-nematogen mixtures</a></div></td>
+<td>Sullivan Bailey-Darland et al.</td>
+<td><a href="http://arxiv.org/abs/2605.26338">2605.26338</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.22214.html">N-Component Free Energy Lattice Boltzmann Method with Reduction Consistency and Global Momentum Conservation</a></div></td>
@@ -530,17 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22977.html">Coupling between Phase Separation and Geometry on a Closed Elastic Curve: Free Energy Minimization and Dynamics</a></div></td>
 <td>Hanchun Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2602.22977">2602.22977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13140.html">Density-Independent transient caging in the high-density phase of motility-induced phase separation</a></div></td>
-<td>Toranosuke Umemura et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13140">2506.13140</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22440.html">An Information-theoretic Collective Variable for Configurational Entropy</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Ashley Z. Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22440">2602.22440</a></td>
 </tr>
 </tbody></table>

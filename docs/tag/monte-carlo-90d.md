@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a></div></td>
+<td>Vid Ravnik et al.</td>
+<td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15625.html">ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Lijie Ding et al.</td>
@@ -200,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.24203.html">Vacancy-induced local moments in quantum paramagnetic phases: An SU($N$) designer Hamiltonian study</a></div></td>
 <td>Md Zahid Ansari et al.</td>
 <td><a href="http://arxiv.org/abs/2602.24203">2602.24203</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22382.html">Field-induced phase transitions in ferro-antiferromagnetic diblock copolymers</a></div></td>
-<td>Alberto Raiola et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22382">2602.22382</a></td>
 </tr>
 </tbody></table>
