@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Huan-Xiang Zhou</td>
+<td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
@@ -158,17 +164,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25302.html">Moving Cooling Source Induced Phase Separation in Binary Liquids: an interplay of competing velocities</a></div></td>
 <td>Lakshmipriya K et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25302">2604.25302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23945.html">An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
-<td>Tenglong Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23945">2604.23945</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24883.html">Uncovering Exotic Paired States in the 2D Spin-Imbalanced Fermi Gas with Neural Wave Functions</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Wan Tong Lou et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24883">2604.24883</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-separation — all</h1>
-  <span class="paper-count">541 papers</span>
+  <span class="paper-count">542 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Huan-Xiang Zhou</td>
+<td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="flory-huggins-all.html">flory-huggins</a></div></td>

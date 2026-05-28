@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-05-27._
+_Updated 2026-05-28._
 
-**3402** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3404** polymer-relevant papers across **29** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Corentin Guigot et al.</td>
+<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Huan-Xiang Zhou</td>
+<td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26540.html">DGLD: Domain-Gated Latent Diffusion for the Discovery of Novel Energetic Materials</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-05-27._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22133.html">Atom-level Protein Representation Learning Improves Protein Structure Prediction</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
 <td>Taewon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2605.22133">2605.22133</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22214.html">N-Component Free Energy Lattice Boltzmann Method with Reduction Consistency and Global Momentum Conservation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Michael Rennick et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22214">2605.22214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.22270.html">Refractive index retrieval of 3D printed materials for photonic applications</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Joseph Arnold Riley et al.</td>
-<td><a href="http://arxiv.org/abs/2605.22270">2605.22270</a></td>
 </tr>
 </tbody></table>

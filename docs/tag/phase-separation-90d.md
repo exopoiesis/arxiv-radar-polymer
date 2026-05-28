@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Huan-Xiang Zhou</td>
+<td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="flory-huggins-90d.html">flory-huggins</a></div></td>
 <td>Peng Jiang et al.</td>
@@ -542,11 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02708.html">All-optical intracellular thermal profiling using nanodiamond-based &quot;thermal radar&quot;</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
 <td>Jiahua Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02708">2603.02708</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.22977.html">Coupling between Phase Separation and Geometry on a Closed Elastic Curve: Free Energy Minimization and Dynamics</a></div></td>
-<td>Hanchun Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.22977">2602.22977</a></td>
 </tr>
 </tbody></table>

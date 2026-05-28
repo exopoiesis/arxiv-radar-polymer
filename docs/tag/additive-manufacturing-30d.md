@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26033.html">A new diffuse reflector filament for additive manufacturing of 3D printing finely-segmented plastic scintillator</a></div></td>
 <td>A. Krech et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26033">2604.26033</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24234.html">Graph-augmented Segmentation of Complex Shapes in Laser Powder bed Fusion for Enhanced In Situ Inspection</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="gnn-30d.html">gnn</a></div></td>
-<td>Stefano Raimondo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24234">2604.24234</a></td>
 </tr>
 </tbody></table>

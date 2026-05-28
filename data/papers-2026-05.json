@@ -3571,5 +3571,55 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-05-26"
+ },
+ "2605.28117": {
+  "abstract": "Moisture diffusion in polymers and bio-based materials frequently exhibits non-Fickian behavior that cannot be described by classical diffusion models. The Langmuir model, which accounts for the coexistence of mobile and bound water molecules, has been widely used to represent such phenomena. However, analytical solutions of this model are generally limited to planar geometries, while cylindrical systems are typically investigated using numerical methods. In this work, the Langmuir diffusion model is solved analytically in cylindrical coordinates. The resulting solution provides both the local evolution of moisture content within the cylinder and the corresponding global moisture uptake kinetics. The analytical solution is validated through comparison with an independent numerical solution based on a finite difference scheme, showing excellent agreement for both the global absorption kinetics and the radial moisture profiles. The proposed formulation therefore provides a simple and efficient analytical framework for studying non-Fickian moisture diffusion in cylindrical systems such as natural fibers, and facilitates the identification of model parameters from experimental data.",
+  "authors": [
+   "Corentin Guigot",
+   "Romain Grangeat",
+   "Gilles-Alexis Renaut"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Corentin Guigot",
+  "pdf_url": "http://arxiv.org/pdf/2605.28117",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-27",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.28651": {
+  "abstract": "Phase separation of various materials has been studied for one and a half centuries. In the last two decades, phase separation of proteins and nucleic acids has received enormous attention, due its relevance to cellular functions. However, many of the observations on the resulting biomolecular condensates lack a theoretical underpinning. The first goal of this Account is to put forward theoretical frameworks for the phase-separation propensities, material states, and material properties of biomolecular condensates. Using these frameworks, I rationalize mechanistic interpretations from our recent experimental and computational studies, and synthesize these studies with prior literature to draw new conclusions. For phase-separation propensities, I relate the threshold (or saturation) concentration to the excess chemical potential in the dense phase, which in turn depends on intermolecular interaction strength and valency. For material states, I posit that liquid droplets form via complete phase separation, whereas amorphous dense liquids, reversible aggregates, and gels arise from premature termination of spinodal decomposition, due to overly weak or overly strong interactions or directional interactions. In particular, gels and aggregates are different forms of dynamically arrested states, with gels driven by tip growth via directional interactions whereas aggregates driven by monomer addition at interior sites to maximize valency. For material properties, I highlight the crucial roles of the stress relaxation time, which is determined by the mean lifetime of intermolecular bonds in a condensate. This relaxation time dictates how the condensate manifests viscoelasticity, including shear thickening and shear thinning, and accounts for the wide variation in zero-shear viscosity among different condensates.",
+  "authors": [
+   "Huan-Xiang Zhou"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "q-bio.MN"
+  ],
+  "comment": "58 pages, 4 figures",
+  "first_author": "Huan-Xiang Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2605.28651",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-27",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties",
+   "phase-separation"
+  ],
+  "title": "Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-27"
  }
 }

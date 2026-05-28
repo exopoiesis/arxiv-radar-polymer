@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hydrogels — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <strong>30d</strong> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27240.html">Confinement-Connectivity Coupling Enables High-Efficiency Piezoionic Transduction</a></div></td>
 <td>Tofayel Ahammad Ovee et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27240">2604.27240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.23945.html">An in situ self-adaptive hydrogel coating enables seamless neural interfaces via okra mucilage polysaccharide and α-helical peptide amphiphiles co-assembly</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Tenglong Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.23945">2604.23945</a></td>
 </tr>
 </tbody></table>

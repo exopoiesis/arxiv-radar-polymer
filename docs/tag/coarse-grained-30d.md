@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>coarse-grained — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <strong>30d</strong> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25105.html">Prominent Signatures of Energy Transfer in Action-Detected Spectra of a Cyanobacterial Photosynthetic Protein</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Sayan Ghosh et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25105">2604.25105</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05366.html">Coarse-graining nonequilibrium diffusions with Markov chains</a></div></td>
-<td>Ramón Nartallo-Kaluarachchi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05366">2511.05366</a></td>
 </tr>
 </tbody></table>
