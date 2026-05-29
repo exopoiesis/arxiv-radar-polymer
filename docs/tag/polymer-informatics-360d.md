@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-informatics — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="polymer-informatics-7d.html">7d</a> <a href="polymer-informatics-30d.html">30d</a> <a href="polymer-informatics-90d.html">90d</a> <strong>360d</strong> <a href="polymer-informatics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17656.html">polyGen: A Learning Framework for Atomic-level Polymer Structure Generation</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Ayush Jain et al.</td>
 <td><a href="http://arxiv.org/abs/2504.17656">2504.17656</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02129.html">Benchmarking Large Language Models for Polymer Property Predictions</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Sonakshi Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02129">2506.02129</a></td>
 </tr>
 </tbody></table>

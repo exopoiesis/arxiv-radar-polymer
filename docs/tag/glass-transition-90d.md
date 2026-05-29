@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16653.html">Very persistent random walkers reveal transitions in landscape topology</a></div></td>
 <td>Jaron Kent-Dobias</td>
 <td><a href="http://arxiv.org/abs/2505.16653">2505.16653</a></td>
-</tr>
-<tr class="paper">
-<td>2026-02-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.18659.html">The Interplay Between Liquid-Liquid Phase Equilibria, Sequence, and Tg in Copolymers</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Makayla R. Branham-Ferrari et al.</td>
-<td><a href="http://arxiv.org/abs/2602.18659">2602.18659</a></td>
 </tr>
 </tbody></table>
