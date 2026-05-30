@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,11 +668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00126.html">Absence of topological order in the $U(1)$ checkerboard toric code</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>M. Vieweg et al.</td>
 <td><a href="http://arxiv.org/abs/2506.00126">2506.00126</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.00817.html">Uniaxial Ordering by Self-Assembly of Isotropic Octahedral Junctions</a></div></td>
-<td>Kazuya Saito</td>
-<td><a href="http://arxiv.org/abs/2503.00817">2503.00817</a></td>
 </tr>
 </tbody></table>

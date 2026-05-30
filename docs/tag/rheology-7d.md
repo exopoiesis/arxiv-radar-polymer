@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="active-learning-7d.html">active-learning</a> · <a href="coarse-grained-7d.html">coarse-grained</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="soft-matter-7d.html">soft-matter</a></div></td>
+<td>Md Mozakker H. Shojib et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29967">2605.29967</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25136.html">A particle-resolved rheological study of chirality transfer and odd transport</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a></div></td>
 <td>Rémi Goerlich et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25136">2605.25136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24276.html">Resonances in Overdamped Odd Materials</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
-<td>Julius Kiln et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24276">2605.24276</a></td>
 </tr>
 </tbody></table>

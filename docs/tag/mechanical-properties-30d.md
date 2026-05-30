@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29424.html">Model-free estimation in scattering analysis of microscopy</a></div></td>
+<td>Tong Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29424">2605.29424</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="coarse-grained-30d.html">coarse-grained</a> · <a href="rheology-30d.html">rheology</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
+<td>Md Mozakker H. Shojib et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29967">2605.29967</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30028.html">Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
+<td>R. Esquivel-Sirvent et al.</td>
+<td><a href="http://arxiv.org/abs/2605.30028">2605.30028</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Huan-Xiang Zhou</td>
 <td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29050.html">Effective Roles between Sperm Head and Tail on the Motility</a></div></td>
+<td>Robert L. Scott et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29050">2605.29050</a></td>
+</tr>
+<tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29162.html">Passive memory reshapes active persistence</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
+<td>Ivan Di Terlizzi et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29162">2605.29162</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-25</td>
@@ -218,23 +248,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27978.html">On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type</a></div></td>
 <td>Miroslav Bulíček et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27978">2604.27978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13818.html">Two-dimensional FrBD friction models for rolling contact: extension to linear viscoelasticity</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Luigi Romano</td>
-<td><a href="http://arxiv.org/abs/2601.13818">2601.13818</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26240.html">Reduced-order modeling of a viscoelastic turbulent jet with hybrid machine learning models</a></div></td>
-<td>Christian Amor et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26240">2604.26240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26291.html">Coherent structures in Newtonian and viscoelastic turbulent planar jets</a></div></td>
-<td>Christian Amor et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26291">2604.26291</a></td>
 </tr>
 </tbody></table>

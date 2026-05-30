@@ -3596,6 +3596,58 @@
   ],
   "updated": "2026-05-27"
  },
+ "2605.28382": {
+  "abstract": "Asymptotic methods are used to derive a geometrically nonlinear beam model for thermoelastic solids with a spatially localised heat source. The asymptotic reduction is based on collapsing the heated region to a point. Away from the point of heating, the governing equations reduce to a pair of beam equations with nonlinear von Kármán strains. The effects of the localised heat source are captured through asymptotically consistent jump conditions that hold at the point of heating. The model accounts for changes in beam length due to longitudinal thermal expansion and bending moments produced by transverse thermal gradients. The model is used to study light-induced actuation of photoresponsive hydrogel beams with localised heating arising from laser irradiation. Two loading scenarios are considered. In the first, the ends of the beam are assumed to be free, resulting in a V-shaped deformation upon heating. An analytical expression for the fold angle of the V is provided. In the second, the beam is assumed to be in a pre-buckled configuration due to clamped end conditions. The critical conditions leading to light-driven snap-through are calculated. Offsetting the laser from the mid-point of the beam is found to inhibit the onset of snap through.",
+  "authors": [
+   "William T. Simpkins",
+   "Matteo Taffetani",
+   "Matthew G. Hennessy"
+  ],
+  "categories": [
+   "physics.class-ph",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "William T. Simpkins",
+  "pdf_url": "http://arxiv.org/pdf/2605.28382",
+  "primary_category": "physics.class-ph",
+  "published": "2026-05-27",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "A nonlinear beam model for photoresponsive thermoelastic solids driven by localised heating",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.28633": {
+  "abstract": "Predicting the alignment of non-spherical particles in dense granular flows under shear remains a central challenge in soft matter physics. We demonstrate that the first-order behavior of granular fabric,the anisotropic distribution of contacts, is a direct consequence of particle boundary geometry. By assuming uniform contact probability along a particle's perimeter, we derive a mapping between local curvature and the macroscopic distribution of contact normals. This minimal geometric framework accurately predicts the uniaxial nematic order parameter S2 observed in both three-dimensional discrete element simulations and laboratory experiments using various particle geometries (e.g., rice, fibers, and disks) across a wide range of aspect ratios. Our results show that particle shape dictates the available orientation statistics, providing a purely geometric baseline for the emergence of fabric in dense granular systems.",
+  "authors": [
+   "Christopher Harper",
+   "Eric C. P. Breard",
+   "George W. Bergantz",
+   "PJ Zrelak"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn",
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Christopher Harper",
+  "pdf_url": "http://arxiv.org/pdf/2605.28633",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-27",
+  "tags": [
+   "soft-matter"
+  ],
+  "title": "Geometric Origin of Macroscopic Alignment in Granular Flows",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-27"
+ },
  "2605.28651": {
   "abstract": "Phase separation of various materials has been studied for one and a half centuries. In the last two decades, phase separation of proteins and nucleic acids has received enormous attention, due its relevance to cellular functions. However, many of the observations on the resulting biomolecular condensates lack a theoretical underpinning. The first goal of this Account is to put forward theoretical frameworks for the phase-separation propensities, material states, and material properties of biomolecular condensates. Using these frameworks, I rationalize mechanistic interpretations from our recent experimental and computational studies, and synthesize these studies with prior literature to draw new conclusions. For phase-separation propensities, I relate the threshold (or saturation) concentration to the excess chemical potential in the dense phase, which in turn depends on intermolecular interaction strength and valency. For material states, I posit that liquid droplets form via complete phase separation, whereas amorphous dense liquids, reversible aggregates, and gels arise from premature termination of spinodal decomposition, due to overly weak or overly strong interactions or directional interactions. In particular, gels and aggregates are different forms of dynamically arrested states, with gels driven by tip growth via directional interactions whereas aggregates driven by monomer addition at interior sites to maximize valency. For material properties, I highlight the crucial roles of the stress relaxation time, which is determined by the mean lifetime of intermolecular bonds in a condensate. This relaxation time dictates how the condensate manifests viscoelasticity, including shear thickening and shear thinning, and accounts for the wide variation in zero-shear viscosity among different condensates.",
   "authors": [
@@ -3618,8 +3670,363 @@
   ],
   "title": "Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates",
   "topics": [
+   "Informatics & Data Infrastructure",
+   "Microstructure, Morphology & Characterization",
    "Property Prediction & QSPR"
   ],
   "updated": "2026-05-27"
+ },
+ "2605.28852": {
+  "abstract": "Additively manufactured (AM) alloys have heterogeneous microstructures with broad grain size distributions and highly anisotropic and/or non-convex grain shapes. AM components can have complex geometries and porosity which may affect the local microstructure. Currently there is no electron backscatter diffraction (EBSD)-based grain size measurement standard suitable for typical AM materials.   An interlaboratory comparison study was conducted to find out what grain size metrics and summary statistics are currently used to describe average grain size. Participants were asked to measure and report the average grain size from the same EBSD map dataset. Detailed reports have been published in Reference [1]. Based on these results, we have tested and propose recommendations for a new standard for measuring average grain size in AM materials. The present work demonstrates the suitability and limitations of the proposal across several different Ni and Al AM components.",
+  "authors": [
+   "Vivian Tong",
+   "Hannah Zhang",
+   "Jacopo Del Gaudio",
+   "Ken Mingard",
+   "Ali Gholinia"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "24 pages, 8 figures, presented at the European Microbeam Analysis Society (EMAS) meeting: 18th European Workshop on Modern Developments and Applications in Microbeam Analysis, 11-15 May 2025, TecnoCampus, Mataró (Barcelona), Spain",
+  "first_author": "Vivian Tong",
+  "pdf_url": "http://arxiv.org/pdf/2605.28852",
+  "primary_category": "physics.app-ph",
+  "published": "2026-05-16",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Towards standardisation of average grain size measurement of additively manufactured microstructures using EBSD",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-16"
+ },
+ "2605.28960": {
+  "abstract": "Fundamental understanding of interatomic forces in molecules must emerge from quantum mechanics, yet widely used empirical force fields rely on simplified mechanistic approximations that often fail to capture the complexity of many-body systems. Here we employ recent developments in quantum field theory (QFT) for long-range electron correlation and machine learning force fields (MLFFs) to directly compute the depth and scatter of interatomic forces for molecular systems containing hundreds of atoms. We find that while the average interaction strength decays polynomially with interatomic separation, the interaction scatter remains robust and exhibits substantial anisotropy. Both QFT and MLFFs demonstrate that increasing the molecular size further amplifies this scatter and anisotropy -- a phenomenon not considered in traditional textbook empirical models. These results provide new benchmarks for force models, shift the focus from interacting atoms to interacting ``hotspots'' that might determine the folding pathways of (bio)polymers, and rationalize why MLFFs are uniquely successful in capturing the nuances of complex molecular systems. Our findings offer a roadmap for the development of more accurate and quantum-aware molecular force fields.",
+  "authors": [
+   "Adil Kabylda",
+   "Malte Esders",
+   "Matteo Gori",
+   "Stefan Chmiela",
+   "Klaus-Robert Müller",
+   "Alexandre Tkatchenko"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Adil Kabylda",
+  "pdf_url": "http://arxiv.org/pdf/2605.28960",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-05-27",
+  "tags": [
+   "benchmarking",
+   "mlff"
+  ],
+  "title": "How Atoms Interact Within Molecules",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29050": {
+  "abstract": "In a low Reynolds number fluid environment that microswimmers encounter, back-and-forth motion cannot lead to net displacement. In mammalian sperm, the mechanical wave propagating along their single flagellum breaks the cancellation between back-and-forth motion and, therefore, assumed to define the movement direction. Here, we show experimentally that the movement direction deviates from the opposite of the wave propagation direction when sperm move at the interface of a viscoelastic fluid and a solid substrate. In fact, the oscillation of the movement direction is out of phase with the oscillation of the tail wave direction, in phase with the head, and the movement has a larger amplitude than the wave direction. When we tried to reconstruct the movement direction as a linear combination of the head orientation and the wave direction, we found that the contributions from these two varied dynamically in time. Further, the last bend of the flagellum does not move in the lab frame (as observed under the microscope). We characterized this as an approximate semi-holonomic constraint on the speed of wave propagation, flagellar sliding, and cell forward movement. Overall, our results highlight the appearance of head and tail taking up roles in directing sperm motility.",
+  "authors": [
+   "Robert L. Scott",
+   "Shobitha Unnikrishnan",
+   "Ayomide Bolaji",
+   "Luke Achinger",
+   "Tomer Avidor-Reiss",
+   "Chih-kuan Tung"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Robert L. Scott",
+  "pdf_url": "http://arxiv.org/pdf/2605.29050",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-05-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Effective Roles between Sperm Head and Tail on the Motility",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29144": {
+  "abstract": "Robotics Wire Arc Additive Manufacturing (WAAM) is governed by complex and nonlinear process dynamics coupling thermal field to the build geometry. The process may be regarded as a multi-input/multi-output dynamical system with welding torch speed and wire feed rate as inputs and weld bead deposition height and width as outputs. In this paper, we use the input/output data to learn a data-driven model and use it for weld planning and control. We show that a simple recurrent neural network architecture and one-step-ahead predictive control can improve the process performance in terms of height and width consistency. To account for the changing thermal conditions during the printing process, we update the learning model using prediction error from the previous layer. This adaptation step further improves the prediction accuracy and controller performance. Experiments on a robotic WAAM testbed with integrated line-scanner feedback significant improvements in height and width consistency compared to constant input and static model baselines. The proposed learning and adaptation framework provides a practical pathway toward robust, data-driven regulation of additive manufacturing processes.",
+  "authors": [
+   "Chen-Lung Lu",
+   "John Wen"
+  ],
+  "categories": [
+   "cs.RO",
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Chen-Lung Lu",
+  "pdf_url": "http://arxiv.org/pdf/2605.29144",
+  "primary_category": "cs.RO",
+  "published": "2026-05-27",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Learning and Adaptation in Wire Arc Additive Manufacturing Bead Geometry Control",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29162": {
+  "abstract": "Many active systems move in complex environments whose mechanical response is slow and history dependent. To address this regime, we study the collective dynamics of self-sustained active particles in non-Markovian media within a generalized Langevin framework with memory. We focus on the competition between the timescales of active persistence and viscoelastic relaxation in the environment. Using a minimal interacting model with an exponential memory kernel, we show that environmental memory qualitatively reshapes motility-induced phase separation of self-propelled active particles. When the memory timescale becomes comparable to the active persistence time, delayed viscoelastic stresses generate an effective anti-persistence that suppresses clustering and produces a broad metastable regime with slow nucleation dynamics. By contrast, for long memory timescales, reduced friction at short times enhances the effective propulsion velocity and restores phase separation. Our results demonstrate that the surrounding medium is not merely a passive background for active motion, but can actively regulate the emergence, stability, and dynamics of collective organization in active matter.",
+  "authors": [
+   "Ivan Di Terlizzi",
+   "Lara Koehler",
+   "John D. Treado"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "7 pages, 3 figures, 12 supplemenary pages, 6 supplementary figures",
+  "first_author": "Ivan Di Terlizzi",
+  "pdf_url": "http://arxiv.org/pdf/2605.29162",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-27",
+  "tags": [
+   "mechanical-properties",
+   "phase-separation"
+  ],
+  "title": "Passive memory reshapes active persistence",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29179": {
+  "abstract": "Metal-organic frameworks (MOFs) are excellent candidates for water harvesting due to their tunable pore environments, which can be precisely engineered to capture and release water in arid conditions. Integrating artificial intelligence (AI) into MOF discovery can further accelerate the design of high-performance sorbents by identifying structural features that enhance atmospheric water harvesting (AWH), stability, and cycling efficiency. In this Perspective, we examine key MOF design principles, including cooperative adsorption, operational relative humidity (RH), uptake capacity, hysteresis, and scalability. We highlight recent design advancements such as multivariate strategies and long-arm linker extension, and examine how these principles tune pore capacity and hydrophilicity, while preserving stability and crystallinity. Furthermore, we discuss how AI, large language models (LLMs), and data mining can accelerate the discovery process through predictive synthesis, inverse design, and elucidating synthesis-structure-property relationships for the next generation of MOF water harvesters.",
+  "authors": [
+   "Reid A. Coyle",
+   "Shyam Chand Pal",
+   "Peter Walther",
+   "Saeun Park",
+   "Bin Feng",
+   "Zhiling Zheng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": "10 pages of main text, 26 total pages. 3 Figures and 1 Table of Content Graphic",
+  "first_author": "Reid A. Coyle",
+  "pdf_url": "http://arxiv.org/pdf/2605.29179",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-27",
+  "tags": [
+   "crystallinity",
+   "inverse-design"
+  ],
+  "title": "Sustainable Metal-Organic Framework Water Harvesters in the Artificial Intelligence Era",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-27"
+ },
+ "2605.29329": {
+  "abstract": "A novel two-phase molecule inference framework, mol-infer, has recently been developed to infer chemical graphs with prescribed abstract structures and desired property values through mixed integer linear programming (MILP) under the two-layered model, with guaranteed optimality and exactness relative to the given learned prediction function and structural constraints. In this study, we extend this framework to copolymers by introducing a simple feature representation, called the mixing vector (MV) model. In the proposed model, a copolymer feature vector is represented as a convex combination of MILP-tractable monomer descriptors weighted by the mixing ratio of the constituent monomers. This representation does not require explicit sequence-class information and is therefore naturally compatible with MILP-based inverse design. Under this model, we construct prediction functions for several copolymer property datasets using artificial neural networks, reduced quadratic multiple linear regression, and random forests. The proposed representation achieves practically useful predictive performance across multiple physicochemical property datasets; in particular, the best test R^2 score exceeds 0.7 for nine of the ten datasets and exceeds 0.9 for six datasets. We also formulate a multi-monomer inverse-design problem under the MV representation with a prescribed mixing ratio and show that the resulting MILP instances remain tractable, even for three-monomer settings. Finally, we perform an external consistency check by re-evaluating the inferred candidates and comparing the re-computed property values with those predicted by the learned model. Overall, the proposed framework gives a tractable first step toward model-level exact inverse design of copolymers under the two-layered model.",
+  "authors": [
+   "Jianshen Zhu",
+   "Raveena Rai",
+   "Taiyo Sohkawa",
+   "Naveed Ahmed Azam",
+   "Kazuya Haraguchi",
+   "Liang Zhao",
+   "Tatsuya Akutsu"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Jianshen Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2605.29329",
+  "primary_category": "q-bio.QM",
+  "published": "2026-05-28",
+  "tags": [
+   "inverse-design"
+  ],
+  "title": "Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.29424": {
+  "abstract": "The mean squared displacement (MSD) of particles or probes is commonly estimated from microscopy videos using particle tracking approaches, which rely on tuning parameters manually, and are often unstable over the entire lag time range, especially in dense or low-contrast situations. In this work, we propose model-free ab initio uncertainty quantification (MF-AIUQ), a model-free method for scattering analysis of microscopy video based on a probabilistic framework, which estimates MSD without isolating particles and linking their trajectories. Based on the relationship between the intermediate scattering function (ISF) and the MSD derived from the cumulant theorem, MF-AIUQ estimates the MSD values by the marginal maximum likelihood estimator. To reduce the computational cost, the likelihood function is approximated by a subset of Fourier-transformed intensities. These intensities are equally spaced at the logarithmic values of Fourier basis functions and lag time points. We found that the ISF is smooth in this logarithmic input space, and the information of the ISF can be captured by this subset of inputs. We examine the method through simulation studies covering several representative stochastic processes and three experimental systems: a Newtonian fluid for evaluating performance in optically dense and bright-field settings, a gelation system with an evolving MSD shape, and snail mucin, a viscoelastic biopolymer, for modulus estimation. Across these studies, MF-AIUQ provides smooth and stable MSD estimates over the full lag time range and serves as a useful complementary approach in settings where particle tracking is unreliable or a parametric model of MSD is unavailable or unverifiable.",
+  "authors": [
+   "Tong Lin",
+   "Jinseok Lee",
+   "Matt Helgeson",
+   "Megan T. Valentine",
+   "Yimin Luo",
+   "Mengyang Gu"
+  ],
+  "categories": [
+   "stat.AP",
+   "cond-mat.soft",
+   "physics.data-an"
+  ],
+  "comment": "18 pages, 6 figures",
+  "first_author": "Tong Lin",
+  "pdf_url": "http://arxiv.org/pdf/2605.29424",
+  "primary_category": "stat.AP",
+  "published": "2026-05-28",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Model-free estimation in scattering analysis of microscopy",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.29530": {
+  "abstract": "Ethanol is conventionally perceived only as a pungent tastant, while the potential sweet properties of ethanol clusters have remained unrecognized. Here we show that ethanol tetramers exhibit a unique time dependent lingering sweetness, distinct from the immediate upupfront sweetness of conventional sweeteners. To objectively verify this phenomenon, we developed an impedance based bionic electronic tongue that monitors changes at a lipid polymer membrane interface. Sensory evaluation revealed increasing ethanol cluster content from 4.83% to 29.53% prolonged sweetness duration from 10s to 25s, whereas sweetness intensity remained low to moderate (1.0-1.7 on a 10 point scale). Using this electronic tongue, we achieved objective discrimination between upfront and lingering sweetness,full band phase angle scanning identified optimal frequencies of 0.933Hz (t=0.171s) for xylitol (fast binding and dissociation) and 0.03Hz (t=5.305s) for ethanol clusters (slow binding and dissociation). Phase angle responses correlated strongly with sensory sweetness duration. In natural aged Chinese Baijiu (1-20 years), low frequency phase angle signals positively correlated with sensory lingering sweetness scores, confirming that ethanol cluster accumulation during aging underpins the sweetness of Baijiu. This work expands the classic AH-B sweetness theory from single molecules to supramolecular clusters and provides an analytical platform for probing the temporal dimension of flavor perception.",
+  "authors": [
+   "Jiaxin Peng",
+   "Chaoyu Zhao",
+   "Xinyue Jiang",
+   "Yuqun Xie"
+  ],
+  "categories": [
+   "physics.atom-ph"
+  ],
+  "comment": null,
+  "first_author": "Jiaxin Peng",
+  "pdf_url": "http://arxiv.org/pdf/2605.29530",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-05-28",
+  "tags": [
+   "membranes"
+  ],
+  "title": "Lingering Sweetness of Ethanol Clusters: Sensory Discovery and Objective Discrimination by Impedance-Based Electronic Tongue",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.29743": {
+  "abstract": "We present an exact solution of the discrete wormlike chain (DWLC) model describing a single semiflexible polymer under arbitrary external force. Through exact closure relations between pair angular correlations and single-site angular densities, we derive complete self-consistent equations determining the free energy functional and all thermodynamic properties without additional approximations. The key innovation is an exact closure relation connecting the pair angular distribution function to the single-site angular density, enabling the exact integration of the entropy functional. We validate the theoretical framework against known limits (rigid rod and random coil regimes), compare with continuum wormlike chain predictions, and demonstrate excellent agreement with recent theoretical results (Marantan \\& Mahadevan, 2018). The approach naturally extends to multiple-chain systems and phase transitions, positioning it as a versatile framework for understanding polymer mechanics from the nanoscale to the macroscopic limit.",
+  "authors": [
+   "Benaoumeur Bakhti"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Benaoumeur Bakhti",
+  "pdf_url": "http://arxiv.org/pdf/2605.29743",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-28",
+  "tags": [],
+  "title": "Exact Solution of the Discrete Wormlike Chain Model",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.29967": {
+  "abstract": "Tailoring microscopic details to tune bulk rheology is a key paradigm in soft matter physics, yet the vast parameter space associated with constituent interactions precludes a fully systematic approach. To address this, we have designed a synergistic strategy to explore the parameter space that comprises simulations, experimental rheology, and machine learning. As a case study, we choose DNA-based self-assembled fluids whose viscoelastic response can be fine-tuned by manipulating the base sequencing of the constituent nucleic acid nanostars. We use coarse-grained simulations, benchmarked against experimental data, to obtain the rheology of the DNA fluids, which feeds forward to a framework of Gaussian Process Regression and active learning. The latter is then used to explore the rheological design space with high predictive precision. The pipeline is designed to be deployed iteratively for the rational design and accelerated discovery of generic soft matter suspensions.",
+  "authors": [
+   "Md Mozakker H. Shojib",
+   "Asier C. Monasterio",
+   "Emanuele Locatelli",
+   "Pascal Friederich",
+   "Christopher Ness",
+   "Iliya D. Stoev"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Md Mozakker H. Shojib",
+  "pdf_url": "http://arxiv.org/pdf/2605.29967",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-05-28",
+  "tags": [
+   "active-learning",
+   "coarse-grained",
+   "mechanical-properties",
+   "rheology",
+   "soft-matter"
+  ],
+  "title": "Synergistic approach to probing the dynamics and mechanics of patchy soft matter",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.30028": {
+  "abstract": "We investigate the propagation of longitudinal elastic waves in one-dimensional periodic composite rods composed of alternating segments of a shape-memory alloy (NiTiCu) and a polymer spacer (Parylene C). In the thin-rod regime, the longitudinal phase velocity reduces to $c=\\sqrt{E/ρ}$, which coincides with the regime in which the elastic modulus of NiTiCu has been measured directly through its acoustic response across the martensitic transformation. Using the standard transfer-matrix method along the heating and cooling branches of the transformation separately, we compute the Bloch band structure of the infinite periodic system and the transmission spectrum of finite composite rods. Because the elastic modulus of NiTiCu follows different paths upon heating and cooling, the same external temperature within the transformation interval corresponds to two different phase fractions and, consequently, to two different phononic spectra. The resulting hysteresis of the underlying material is thus transferred to the collective acoustic response of the periodic structure: stop-band edges trace closed loops in the temperature--frequency plane, and the transmission coefficient of a finite rod at a fixed temperature depends on the previous thermal history. We further show that the geometric filling fraction of the active segment provides a complementary tuning mechanism, modifying the width of the spectral hysteresis loops and the position of specific gap closures independently of temperature. These results illustrate how a first-order structural phase transition with intrinsic thermal hysteresis manifests itself in the dispersion relation of a periodic elastic medium.",
+  "authors": [
+   "R. Esquivel-Sirvent",
+   "B. Manzanares-Martínez",
+   "J. Manzanares-Martínez"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": "5 figures",
+  "first_author": "R. Esquivel-Sirvent",
+  "pdf_url": "http://arxiv.org/pdf/2605.30028",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-28",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-05-28"
+ },
+ "2605.30196": {
+  "abstract": "Conjugated polymers exhibit unique spin-dependent phenomena arising from weak yet critical hyperfine interactions. Understanding these spin effects, particularly the spin-dependent formation and decay of correlated spin pairs, is important for advancing both organic electronics and polymer-based spintronics. Intrinsic magnetic-field responses such as magnetoresistance have primarily been investigated in diode architectures, where electrons and holes coexist. However, such systems are less suitable for probing bipolaron formation in unipolar transport, and the relationship between polymer structure and bipolaron formation in lightly doped polymers remains unclear. Here, we systematically investigate intrinsic magnetoresistance in representative conjugated polymers using field-effect transistors and observe a generally positive magnetoresistance. First-principles simulations reveal that bipolarons preferentially form on short conjugated segments associated with amorphous regions. Moreover, comparisons across these polymers show that enhanced charge trapping correlates with stronger magnetoresistance, implying promoted bipolaron formation. Bipolaron-incorporated energylevel-alignment modeling near metal/polymer interfaces suggests that charge traps can increase the bipolaron density.",
+  "authors": [
+   "Zuchong Yang",
+   "Vincent Lemaur",
+   "Melissa Berteau-Rainville",
+   "Olivier Bardagot",
+   "Yoann Olivier",
+   "Emanuele Orgiu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zuchong Yang",
+  "pdf_url": "http://arxiv.org/pdf/2605.30196",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-05-28",
+  "tags": [],
+  "title": "Role of structure and charge trapping on the bipolaron formation and magnetic-field response of gated conjugated polymers",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-05-28"
  }
 }

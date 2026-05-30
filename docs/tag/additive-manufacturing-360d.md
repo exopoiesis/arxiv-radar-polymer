@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29144.html">Learning and Adaptation in Wire Arc Additive Manufacturing Bead Geometry Control</a></div></td>
+<td>Chen-Lung Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29144">2605.29144</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25063.html">Reinforcement Learning for Laser Additive Manufacturing Scan-Order Optimisation: A Bilevel Proxy--FEA Diagnostic Framework for Reward and World-Model Diagnosis</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Xian Wu et al.</td>
@@ -1238,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03910.html">Enhancing Experimental Efficiency in Materials Design: A Comparative Study of Taguchi and Machine Learning Methods</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Shyam Prabhu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.03910">2506.03910</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02578.html">High Light-Efficiency Holographic Tomographic Volumetric Additive Manufacturing using a MEMS-based Phase-only Light Modulator</a></div></td>
-<td>Maria Isabel Álvarez-Castaño et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02578">2506.02578</a></td>
 </tr>
 </tbody></table>

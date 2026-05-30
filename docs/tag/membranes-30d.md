@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29530.html">Lingering Sweetness of Ethanol Clusters: Sensory Discovery and Objective Discrimination by Impedance-Based Electronic Tongue</a></div></td>
+<td>Jiaxin Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29530">2605.29530</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Vid Ravnik et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12331.html">Information Thermodynamics in Generalized Probabilistic Theories</a></div></td>
 <td>Koki Ono et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12331">2605.12331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26464.html">Linear poroelastic response of thin permeable gel films</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
-<td>Caroline Kopecz-Muller et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26464">2604.26464</a></td>
 </tr>
 </tbody></table>

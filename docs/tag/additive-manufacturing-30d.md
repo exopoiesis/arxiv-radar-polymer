@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29144.html">Learning and Adaptation in Wire Arc Additive Manufacturing Bead Geometry Control</a></div></td>
+<td>Chen-Lung Lu et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29144">2605.29144</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25063.html">Reinforcement Learning for Laser Additive Manufacturing Scan-Order Optimisation: A Bilevel Proxy--FEA Diagnostic Framework for Reward and World-Model Diagnosis</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
 <td>Xian Wu et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02522.html">Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks</a></div></td>
 <td>Nisha Rokaya et al.</td>
 <td><a href="http://arxiv.org/abs/2406.02522">2406.02522</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26657.html">Inverse Design of Cellular Composites for Targeted Nonlinear Mechanical Response via Multi-Fidelity Bayesian Optimisation</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="inverse-design-30d.html">inverse-design</a></div></td>
-<td>Hirak Kansara et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26657">2604.26657</a></td>
 </tr>
 </tbody></table>

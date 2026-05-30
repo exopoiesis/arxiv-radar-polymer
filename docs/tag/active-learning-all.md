@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>active-learning — all</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <a href="active-learning-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
+<td>Md Mozakker H. Shojib et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29967">2605.29967</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.01963.html">Development of machine-learned interatomic potentials to predict structure, transport, and reactivity in platinum-based fuel cells</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a></div></td>

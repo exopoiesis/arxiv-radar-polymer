@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,11 +500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06957.html">Crossover between Solid-like and Liquid-like Behavior in Supercooled Liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>X. R. Tian et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06957">2506.06957</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.02588.html">Emergent rigidity percolation of five-fold aggregates enables controllable glass properties</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Wei Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.02588">2506.02588</a></td>
 </tr>
 </tbody></table>

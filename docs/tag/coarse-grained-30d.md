@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-05-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="rheology-30d.html">rheology</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
+<td>Md Mozakker H. Shojib et al.</td>
+<td><a href="http://arxiv.org/abs/2605.29967">2605.29967</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25136.html">A particle-resolved rheological study of chirality transfer and odd transport</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
 <td>Rémi Goerlich et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00958.html">The Mesoscopic Partition Function:A Combined Spatial and Phase-Space Cell Structure</a></div></td>
 <td>Bob Osano</td>
 <td><a href="http://arxiv.org/abs/2605.00958">2605.00958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27136.html">Stepping up enhanced rate calculations with EATR-flooding</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a></div></td>
-<td>Nicodemo Mazzaferro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27136">2604.27136</a></td>
 </tr>
 </tbody></table>
