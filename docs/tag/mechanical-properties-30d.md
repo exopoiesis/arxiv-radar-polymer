@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,35 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01183.html">Global Smooth Solutions to a Thermoelastic Cauchy Problem in Phase Transitions</a></div></td>
 <td>M. Affouf</td>
 <td><a href="http://arxiv.org/abs/2605.01183">2605.01183</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12571.html">Anomalous statistics in the Langevin equation with fluctuating diffusivity: from Brownian yet non-Gaussian diffusion to anomalous diffusion and ergodicity breaking</a></div></td>
-<td>Takuma Akimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12571">2509.12571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27348.html">Propulsion and far-field hydrodynamics of linked-sphere microswimmers with viscoelastic deformability</a></div></td>
-<td>Vimal Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27348">2604.27348</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27500.html">From Elastic to Viscoelastic: An EEMD-Enhanced Pulse Transit Time Model for Robust Blood Pressure Estimation</a></div></td>
-<td>Boyuan Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27500">2604.27500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27722.html">Guided elastic waves for soft elastomer characterization: an alternative to conventional rheometry</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Samuel Croquette et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27722">2604.27722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27978.html">On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type</a></div></td>
-<td>Miroslav Bulíček et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27978">2604.27978</a></td>
 </tr>
 </tbody></table>

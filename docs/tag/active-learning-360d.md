@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>active-learning — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="active-learning-7d.html">7d</a> <a href="active-learning-30d.html">30d</a> <a href="active-learning-90d.html">90d</a> <strong>360d</strong> <a href="active-learning-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21877.html">A GENERIC-guided active learning SPH method for viscoelastic fluids using Gaussian process regression</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Xuekai Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21877">2506.21877</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03910.html">Enhancing Experimental Efficiency in Materials Design: A Comparative Study of Taguchi and Machine Learning Methods</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Shyam Prabhu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03910">2506.03910</a></td>
 </tr>
 </tbody></table>

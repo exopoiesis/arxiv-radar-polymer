@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">94 papers</span>
+  <span class="paper-count">93 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -572,11 +572,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17243.html">Electron conductive self-assembled hybrid low-molecular weight glycolipid-nanosilver gels</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Korin Gasia Ozkaya et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17243">2506.17243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03816.html">Non-invasive measurement of local stress inside soft materials with programmed shear waves</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Zhaoyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03816">2506.03816</a></td>
 </tr>
 </tbody></table>

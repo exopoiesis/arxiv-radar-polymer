@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">131 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -800,23 +800,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02090.html">Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>David Mercier et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02090">2603.02090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00953.html">Global solutions of the 2D inhomogeneous incompressible viscoelastic system</a></div></td>
-<td>Chengfei Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00953">2603.00953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00957.html">Global solutions of the 3D inhomogeneous incompressible viscoelastic system without structure assumptions</a></div></td>
-<td>Chengfei Ai et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00957">2603.00957</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01262.html">A Physics-Guided Neural Framework for Rheology Measurement from Dynamical Laser Speckles</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Titanliang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01262">2603.01262</a></td>
 </tr>
 </tbody></table>

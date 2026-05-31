@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,17 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05311.html">Heterogeneous response and non-Markovianity in the microrheology of semisolid viscoelastic materials</a></div></td>
 <td>T. N. Azevedo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05311">2506.05311</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03816.html">Non-invasive measurement of local stress inside soft materials with programmed shear waves</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Zhaoyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03816">2506.03816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03977.html">Determination of Effect of the Movement of a Finite, Dip-slip Fault in Viscoelastic Half-space of Fractional Burger Rheology</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Pabita Mahato et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03977">2506.03977</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,17 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11430.html">Thermodynamically Consistent Coarse-graining: from Interacting Particles to Fields via Second Quantization</a></div></td>
 <td>Atul Tanaji Mohite et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11430">2508.11430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01080.html">Super-resolution of turbulent reacting flows on complex meshes using graph neural networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
-<td>Priyabrat Dash et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01080">2603.01080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01234.html">NEP-CG and NEP-AACG: Efficient coarse-grained and multiscale all-atom-coarse-grained neuroevolution potentials</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
-<td>Zheyong Fan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01234">2603.01234</a></td>
 </tr>
 </tbody></table>

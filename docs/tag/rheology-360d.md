@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11936.html">Bubble Dynamics Transformer: Microrheology at Ultra-High Strain Rates</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Lehu Bu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.11936">2506.11936</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.03977.html">Determination of Effect of the Movement of a Finite, Dip-slip Fault in Viscoelastic Half-space of Fractional Burger Rheology</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Pabita Mahato et al.</td>
-<td><a href="http://arxiv.org/abs/2506.03977">2506.03977</a></td>
 </tr>
 </tbody></table>

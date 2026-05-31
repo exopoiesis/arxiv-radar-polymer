@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14859.html">Rheology of dense vibrated granular flows: non-monotonic response controlled by granular temperature</a></div></td>
 <td>A. Plati et al.</td>
 <td><a href="http://arxiv.org/abs/2511.14859">2511.14859</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01262.html">A Physics-Guided Neural Framework for Rheology Measurement from Dynamical Laser Speckles</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Titanliang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01262">2603.01262</a></td>
 </tr>
 </tbody></table>
