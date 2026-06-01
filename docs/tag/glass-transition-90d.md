@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04973.html">Extended dynamical density functional theory for nonisothermal binary systems including momentum density</a></div></td>
 <td>Michael te Vrugt et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04973">2603.04973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.16653.html">Very persistent random walkers reveal transitions in landscape topology</a></div></td>
-<td>Jaron Kent-Dobias</td>
-<td><a href="http://arxiv.org/abs/2505.16653">2505.16653</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04170.html">Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Anh Q. Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04170">2603.04170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14859.html">Rheology of dense vibrated granular flows: non-monotonic response controlled by granular temperature</a></div></td>
-<td>A. Plati et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14859">2511.14859</a></td>
 </tr>
 </tbody></table>

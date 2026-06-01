@@ -3,30 +3,30 @@
   count: 34
   total: 789
   group: properties
-- name: polymer-morphology
-  count: 23
-  total: 335
-  group: morphology
 - name: benchmarking
   count: 21
   total: 174
   group: informatics
-- name: phase-separation
+- name: polymer-morphology
   count: 21
+  total: 335
+  group: morphology
+- name: phase-separation
+  count: 20
   total: 543
   group: morphology
 - name: additive-manufacturing
   count: 13
   total: 360
   group: processing
-- name: coarse-grained
-  count: 12
-  total: 269
-  group: simulation
 - name: composites
   count: 12
   total: 250
   group: processing
+- name: coarse-grained
+  count: 11
+  total: 269
+  group: simulation
 - name: molecular-dynamics
   count: 11
   total: 236
@@ -75,10 +75,6 @@
   count: 3
   total: 53
   group: simulation
-- name: monte-carlo
-  count: 3
-  total: 179
-  group: simulation
 - name: polymerization
   count: 3
   total: 50
@@ -91,6 +87,10 @@
   count: 2
   total: 27
   group: morphology
+- name: monte-carlo
+  count: 2
+  total: 179
+  group: simulation
 - name: multiscale-modeling
   count: 2
   total: 34

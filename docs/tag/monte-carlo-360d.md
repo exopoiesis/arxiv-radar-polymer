@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -662,11 +662,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08168.html">Defects Enhance Stability in 12-fold Symmetric Soft-Matter Quasicrystals</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Alptuğ Ulugöl et al.</td>
 <td><a href="http://arxiv.org/abs/2408.08168">2408.08168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.00126.html">Absence of topological order in the $U(1)$ checkerboard toric code</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>M. Vieweg et al.</td>
-<td><a href="http://arxiv.org/abs/2506.00126">2506.00126</a></td>
 </tr>
 </tbody></table>

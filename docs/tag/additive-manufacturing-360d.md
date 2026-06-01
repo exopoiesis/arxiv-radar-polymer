@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1232,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18016.html">Digital Twin Synchronization: Bridging the Sim-RL Agent to a Real-Time Robotic Additive Manufacturing Control</a></div></td>
 <td>Matsive Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18016">2501.18016</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06392.html">Additive Manufacturing of Lunar Regolith for Reconfigurable Building Blocks toward Lunar Habitation</a></div></td>
-<td>Cole McCallum et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06392">2506.06392</a></td>
 </tr>
 </tbody></table>

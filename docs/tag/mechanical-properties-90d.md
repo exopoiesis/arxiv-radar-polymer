@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">131 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,11 +794,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02826.html">A phase-field framework for anisotropic viscoelastic-viscoplastic fracture in short fiber-reinforced polymers in hygrothermal environments</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Behrouz Arash et al.</td>
 <td><a href="http://arxiv.org/abs/2603.02826">2603.02826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02090.html">Enhancing Phase Clustering in Nanomechanical Property Maps of Multiphase Materials Using Kernel-Averaged Mechanical Mismatch</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>David Mercier et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02090">2603.02090</a></td>
 </tr>
 </tbody></table>
