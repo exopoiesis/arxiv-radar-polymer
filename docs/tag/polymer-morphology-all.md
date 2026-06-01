@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">335 papers</span>
+  <span class="paper-count">334 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2018,11 +2018,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2402.10932.html">Roadmap on Data-Centric Materials Science</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
 <td>Stefan Bauer et al.</td>
 <td><a href="http://arxiv.org/abs/2402.10932">2402.10932</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.08804.html">Hydroxide Transport and Mechanical Properties of Polyolefin-Based Anion Exchange Membranes from Atomistic Molecular Dynamics Simulations</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="membranes-all.html">membranes</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Mohammed Al Otmi et al.</td>
-<td><a href="http://arxiv.org/abs/2404.08804">2404.08804</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>benchmarking — all</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1046,17 +1046,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00401.html">Optimized Drug Design using Multi-Objective Evolutionary Algorithms with SELFIES</a></div><div class="paper-tags"><a href="selfies-all.html">selfies</a></div></td>
 <td>Tomoya Hömberg et al.</td>
 <td><a href="http://arxiv.org/abs/2405.00401">2405.00401</a></td>
-</tr>
-<tr class="paper">
-<td>2024-04-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2404.17570.html">A manufacturable platform for photonic quantum computing</a></div></td>
-<td>Koen Alexander et al.</td>
-<td><a href="http://arxiv.org/abs/2404.17570">2404.17570</a></td>
-</tr>
-<tr class="paper">
-<td>2024-03-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.00260.html">Extracting Polymer Nanocomposite Samples from Full-Length Documents</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
-<td>Ghazal Khalighinejad et al.</td>
-<td><a href="http://arxiv.org/abs/2403.00260">2403.00260</a></td>
 </tr>
 </tbody></table>
