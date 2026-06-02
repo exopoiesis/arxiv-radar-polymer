@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">130 papers</span>
+  <span class="paper-count">128 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -782,17 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04170.html">Cell-Cell Adhesion as a Double-Edged Sword in Tissue Fluidity</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Anh Q. Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.04170">2603.04170</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02645.html">A hierarchy of thermodynamics learning frameworks for inelastic constitutive modeling</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>Reese E. Jones et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02645">2603.02645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.02826.html">A phase-field framework for anisotropic viscoelastic-viscoplastic fracture in short fiber-reinforced polymers in hygrothermal environments</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>Behrouz Arash et al.</td>
-<td><a href="http://arxiv.org/abs/2603.02826">2603.02826</a></td>
 </tr>
 </tbody></table>

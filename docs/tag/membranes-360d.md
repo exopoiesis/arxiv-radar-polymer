@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membranes — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <strong>360d</strong> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09908.html">Correlative angstrom-scale microscopy and spectroscopy of graphite-water interfaces</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Lalith Krishna Samanth Bonagiri et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09908">2506.09908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06186.html">Transient osmotic flows in a microfluidic channel: measurements of solute permeability and reflection coefficients of hydrogel membranes</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Julien Renaudeau et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06186">2506.06186</a></td>
 </tr>
 </tbody></table>
