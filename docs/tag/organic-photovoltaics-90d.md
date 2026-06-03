@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <strong>90d</strong> <a href="organic-photovoltaics-360d.html">360d</a> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19500.html">CycleChemist: A Dual-Pronged Machine Learning Framework for Organic Photovoltaic Discovery</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
 <td>Hou Hei Lam et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19500">2511.19500</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04097.html">Spectral Bath Engineering for Quantum-Enhanced Agrivoltaics: Advancing Efficiency and Environmental Sustainability via Non-Markovian Dynamics</a></div></td>
-<td>Steve Cabrel Teguia Kouam et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04097">2603.04097</a></td>
 </tr>
 </tbody></table>

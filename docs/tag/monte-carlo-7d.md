@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="membranes-7d.html">membranes</a></div></td>
-<td>Vid Ravnik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03235.html">Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals</a></div><div class="paper-tags"><a href="phase-separation-7d.html">phase-separation</a></div></td>
+<td>Roshan Maharana et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03235">2606.03235</a></td>
 </tr>
 </tbody></table>

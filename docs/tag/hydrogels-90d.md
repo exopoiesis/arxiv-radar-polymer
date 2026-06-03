@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogels — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <strong>90d</strong> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11065.html">Micropatterning photopolymerizable hydrogels for diffusion studies using pillar arrays or photomasks</a></div><div class="paper-tags"><a href="polymerization-90d.html">polymerization</a></div></td>
 <td>Sevgi Onal et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11065">2603.11065</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.01512.html">A hyperelastic theory for nonlinear hydrogel diffusiophoresis</a></div></td>
-<td>Chinmay Katke et al.</td>
-<td><a href="http://arxiv.org/abs/2603.01512">2603.01512</a></td>
 </tr>
 </tbody></table>

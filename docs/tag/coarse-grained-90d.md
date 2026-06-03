@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>B M Shahi Sifat Mottaqin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Md Mozakker H. Shojib et al.</td>
@@ -326,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05672.html">Partial Information Decomposition of Electronic Observables Along a Reaction Coordinate</a></div></td>
 <td>Kyunghoon Han et al.</td>
 <td><a href="http://arxiv.org/abs/2603.05672">2603.05672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11430.html">Thermodynamically Consistent Coarse-graining: from Interacting Particles to Fields via Second Quantization</a></div></td>
-<td>Atul Tanaji Mohite et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11430">2508.11430</a></td>
 </tr>
 </tbody></table>

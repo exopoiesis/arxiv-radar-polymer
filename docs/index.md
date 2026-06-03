@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-02._
+_Updated 2026-06-03._
 
-**3410** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3414** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03235.html">Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Roshan Maharana et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03235">2606.03235</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03474.html">Multiscale Phase Separation in Chemophoretic Active Matter</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Manisha Jhajhria et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03474">2606.03474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03900.html">Bernoulli principle in ferroelectrics</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Anna Razumnaya et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03900">2606.03900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>B M Shahi Sifat Mottaqin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29329.html">Mixing Vector Model for Copolymer Inference via Mixed Integer Linear Programming</a></div><div class="paper-tags"><a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-06-02._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26027.html">Liquid-Liquid Phase Separation in a Minimal Explicit-Solvent Lattice Model Mimicking Protein Solutions</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Siddhartha Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26027">2605.26027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26083.html">Characterizing emergent multi-scale dynamics in colloidal nanoparticle gels</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/soft-matter-30d.html">soft-matter</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>William D. Brackett et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26083">2605.26083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26338.html">Phase behavior of solvent-nematogen mixtures</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Sullivan Bailey-Darland et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26338">2605.26338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.24841.html">DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
-<td>Jiangjie Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24841">2605.24841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25063.html">Reinforcement Learning for Laser Additive Manufacturing Scan-Order Optimisation: A Bilevel Proxy--FEA Diagnostic Framework for Reward and World-Model Diagnosis</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Xian Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25063">2605.25063</a></td>
 </tr>
 </tbody></table>

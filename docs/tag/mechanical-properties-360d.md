@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>B M Shahi Sifat Mottaqin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29424.html">Model-free estimation in scattering analysis of microscopy</a></div></td>
 <td>Tong Lin et al.</td>
@@ -2756,11 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07215.html">Decay estimates for the compressible viscoelastic equations in an exterior domain</a></div></td>
 <td>Jieling Deng et al.</td>
 <td><a href="http://arxiv.org/abs/2506.07215">2506.07215</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06621.html">Weak and mild solutions to the MHD equations and the viscoelastic Navier-Stokes equations with damping in Wiener amalgam spaces</a></div></td>
-<td>Chen-Chih Lai</td>
-<td><a href="http://arxiv.org/abs/2506.06621">2506.06621</a></td>
 </tr>
 </tbody></table>

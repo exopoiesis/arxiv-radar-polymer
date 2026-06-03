@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>membranes — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29530.html">Lingering Sweetness of Ethanol Clusters: Sensory Discovery and Objective Discrimination by Impedance-Based Electronic Tongue</a></div></td>
 <td>Jiaxin Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29530">2605.29530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Vid Ravnik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
 </tr>
 </tbody></table>
