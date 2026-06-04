@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-03._
+_Updated 2026-06-04._
 
-**3414** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3419** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -22,9 +22,27 @@ _Updated 2026-06-03._
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03353.html">In vivo measurements of fascia lata effective mechanics combined to a memory fiber recruitment viscoelastic modeling approach</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Franck Germain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03353">2606.03353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03474.html">Multiscale Phase Separation in Chemophoretic Active Matter</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Manisha Jhajhria et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03474">2606.03474</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Antonio Torregrosa Abellán et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03816.html">Learning finite viscoelasticity with DAVIS: A supervised framework for generalized standard materials</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Simon Wiesheier et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03816">2606.03816</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-02</td>
@@ -34,9 +52,21 @@ _Updated 2026-06-03._
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.01812.html">Uniqueness of an Inverse Coefficient Problem for a Time-Fractional Damped Wave Equation from Boundary Measurements</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Kai Yu</td>
+<td><a href="http://arxiv.org/abs/2606.01812">2606.01812</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>B M Shahi Sifat Mottaqin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04024.html">Delta-pulse solution in Zener viscoelastic model</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Andrea Mentrelli et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04024">2606.04024</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -163,35 +193,5 @@ _Updated 2026-06-03._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Vid Ravnik et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Simon Gonzalez-Zapata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25936.html">Generalising gravitationally induced decoherence beyond linear environmental interactions in a microscopic quantum mechanical toy model</a></div></td>
-<td>Max Joseph Fahn et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25936">2605.25936</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25989.html">Beyond Gaussian Statistics in Polymer Melts: Statistical Masking of Persistent Local Constraints</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>José A. Martins</td>
-<td><a href="http://arxiv.org/abs/2605.25989">2605.25989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.25996.html">Topology of pulsating active matter: Defect asymmetry controls emergent motility</a></div></td>
-<td>Luca Casagrande et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25996">2605.25996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26027.html">Liquid-Liquid Phase Separation in a Minimal Explicit-Solvent Lattice Model Mimicking Protein Solutions</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Siddhartha Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26027">2605.26027</a></td>
 </tr>
 </tbody></table>

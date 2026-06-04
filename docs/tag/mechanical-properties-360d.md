@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">458 papers</span>
+  <span class="paper-count">460 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03353.html">In vivo measurements of fascia lata effective mechanics combined to a memory fiber recruitment viscoelastic modeling approach</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Franck Germain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03353">2606.03353</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03816.html">Learning finite viscoelasticity with DAVIS: A supervised framework for generalized standard materials</a></div></td>
+<td>Simon Wiesheier et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03816">2606.03816</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01812.html">Uniqueness of an Inverse Coefficient Problem for a Time-Fractional Damped Wave Equation from Boundary Measurements</a></div></td>
+<td>Kai Yu</td>
+<td><a href="http://arxiv.org/abs/2606.01812">2606.01812</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>B M Shahi Sifat Mottaqin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04024.html">Delta-pulse solution in Zener viscoelastic model</a></div></td>
+<td>Andrea Mentrelli et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04024">2606.04024</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>
@@ -2750,17 +2774,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.03597.html">An Analytical Model of Sorption-Induced Static Mode Nanomechanical Sensing for Multi-Component Analytes</a></div></td>
 <td>Kosuke Minami et al.</td>
 <td><a href="http://arxiv.org/abs/2501.03597">2501.03597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20734.html">Arrested development and traveling waves of active suspensions in nematic liquid crystals</a></div></td>
-<td>Jingyi Li et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20734">2410.20734</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07215.html">Decay estimates for the compressible viscoelastic equations in an exterior domain</a></div></td>
-<td>Jieling Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07215">2506.07215</a></td>
 </tr>
 </tbody></table>

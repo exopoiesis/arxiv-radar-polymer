@@ -1,4 +1,26 @@
 {
+ "2606.01812": {
+  "abstract": "This paper studies an inverse coefficient problem for a time-fractional damped wave equation on a finite time interval. The aim is to determine two spatially varying coefficients, namely the fractional damping coefficient and the zeroth-order potential, from the associated Dirichlet-to-Neumann (DtN) map. We first prove the well-posedness of the forward problem for boundary data with sufficient regularity to admit a suitable lifting. The main result is a uniqueness theorem showing that if two coefficient pairs give rise to the same DtN map, then the corresponding coefficients coincide almost everywhere in the domain. The proof is based on a convolution-type integral identity that eliminates the unknown boundary traces, the construction of high-frequency beam solutions adapted to the singular kernel of the Caputo derivative, and a detailed asymptotic analysis of the resulting fractional convolution terms. This result extends classical uniqueness results for hyperbolic inverse problems to a fractional-order model with damping and provides a theoretical basis for related applications involving memory and viscoelastic effects.",
+  "authors": [
+   "Kai Yu"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Kai Yu",
+  "pdf_url": "http://arxiv.org/pdf/2606.01812",
+  "primary_category": "math.AP",
+  "published": "2026-06-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Uniqueness of an Inverse Coefficient Problem for a Time-Fractional Damped Wave Equation from Boundary Measurements",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-01"
+ },
  "2606.02174": {
   "abstract": "Physical entanglements between polymer chains enhance the moduli, strength, and toughness of elastomers and gels, yet relating entanglement micromechanics to macroscopic mechanical benefits remains difficult. Experimentally investigating entanglements is challenging due to their nanoscale sizes, subsurface locations, and chemical indistinguishability from their surroundings. Computationally mapping structure-property relations is costly when using physics-based models that enable direct entanglement observation, such as coarse-grained molecular dynamics (CGMD). Entanglements are also transient, configuration-dependent features without clear quantitative definitions. To address this ambiguity, we introduce an approach that quantitatively defines local entanglements along simulated polymer backbones using the Gaussian Linking Number, and introduce a geometric center of entanglement verified to represent the position through which entropic chain forces are transmitted via Kremer-Grest CGMD simulations. Unlike existing approaches, which output a single linking number for chain pairs, our method identifies the multitude of load-transmitting inter- and intra-chain entanglements along a polymer's backbone. To bridge scales, we introduce a topological distillation algorithm that converts entangled CGMD networks into representative discrete network models (DNMs), representing entanglements as vertices and primitive paths as load-transmitting edges. Our DNMs reproduce small-strain virial stress predictions of the Kremer-Grest model with a 97% reduction in computational cost, verifying both physical accuracy and computational efficiency. This distillation procedure will facilitate physics-based, predictive modeling of entangled network mechanics, from polymers to architected metamaterials.",
   "authors": [
@@ -51,6 +73,31 @@
   ],
   "updated": "2026-06-02"
  },
+ "2606.03353": {
+  "abstract": "The fascia lata plays a central role in force transmission and body mechanics, yet its in vivo mechanical behavior remains poorly characterized. Existing approaches -- shear wave elastography and direct force measurements alike -- share a fundamental limitation: none simultaneously captures both the elastic and viscous components of fascial mechanics within a single experiment. The primary aim of this study is therefore to develop an experimental and modeling framework that enables the reproducible measurement of the effective viscoelastic properties of the fascia lata in vivo. To this end, we combine controlled ramp-relaxation experiments on the human fascia lata with a constitutive model that integrates fiber recruitment and dual-timescale viscoelastic relaxation. We emphasize that this is an effective model: rather than describing intrinsic local material properties, it characterizes the mechanical response of the fascia lata complex including its coupling to the hip-thigh musculoskeletal system under controlled loading conditions. The model captures both the nonlinear stiffening during elongation and the dual decay of force during relaxation, using a minimal set of physically interpretable parameters. Repeated trials demonstrate good reproducibility, with parameter variability within 10%. Our results support the view that fascia lata behaves as a hierarchical, hydrated composite whose macroscopic mechanical response emerges from the coupled effects of collagen alignment, matrix viscoelasticity, and fluid flow. This work provides a quantitative foundation for future in vivo investigations into how training, rehabilitation, or aging influence the evolution of fascial mechanical properties.",
+  "authors": [
+   "Franck Germain",
+   "Thomas Gibaud"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Franck Germain",
+  "pdf_url": "http://arxiv.org/pdf/2606.03353",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-02",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "In vivo measurements of fascia lata effective mechanics combined to a memory fiber recruitment viscoelastic modeling approach",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-02"
+ },
  "2606.03474": {
   "abstract": "Nonreciprocal interactions in active matter provide interesting structure and dynamics. Here we investigate chemophoretic systems in which nonreciprocity arises from the asymmetric coupling between agents: first species produces certain chemicals and the other phoretically responds to it. This leads to phase separation at varying scales. Our study uncovers a re-entrant steady-state phase diagram as the nature of the coupling changes from chemoattractive to chemorepulsive character. Chemoattraction provides sustained domain growth, leading to macrophase separation via cluster coalescence. Aggregation in the chemorepulsive case, on the other hand, leads to a steady-state situation that displays phase separation only at a microscale, owing to strong caging effect and frequent fragmentation. The overall far-from-steady-state dynamics is quantified via calculations of growth exponents, cluster transition matrices, and mean-squared displacements.",
   "authors": [
@@ -73,6 +120,58 @@
   "title": "Multiscale Phase Separation in Chemophoretic Active Matter",
   "topics": [
    "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03524": {
+  "abstract": "We investigate the kinetics of wetting ridge growth and droplet cloaking on lubricant-infused polymer brushes using a combination of experiments, molecular dynamics simulations, and theoretical modeling. We focus on three representative systems: DMSO-water on hexadecane-swollen PLMA (D-H), water on hexadecane-swollen PLMA (W-H), and water on PDMS (W-S). The dynamics are governed by the interplay between interfacial thermodynamics, brush elasticity, and transport of lubricant within the brush. Ridge growth is accompanied by the formation of depletion zones both beneath and outside the drop. This leads to a progressive slowdown governed by the need to transport lubricant through the brush. At sufficiently high swelling, we observe local separation of oil from the brush within the ridge, providing an additional mechanism for lubricant depletion. To rationalize these observations, we develop a continuum diffusion model based on the free energy of the brush and its coupling to the contact line. The model quantitatively captures the growth of the wetting ridge at intermediate and late times, demonstrating that the kinetics are largely controlled by diffusive transport within the brush.",
+  "authors": [
+   "Antonio Torregrosa Abellán",
+   "Enqing Liu",
+   "Vincent Siekman",
+   "Frieder Mugele",
+   "Friederike Schmid",
+   "Rodrique G. M. Badr"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Antonio Torregrosa Abellán",
+  "pdf_url": "http://arxiv.org/pdf/2606.03524",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-02",
+  "tags": [
+   "diffusion-model",
+   "molecular-dynamics"
+  ],
+  "title": "Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.03816": {
+  "abstract": "This work revisits the recently proposed data-adaptive viscoelasticity (DAVIS) framework, a spline-based formulation of finite viscoelasticity within the generalized standard materials setting. DAVIS enables a data-driven representation of equilibrium and non-equilibrium constitutive functions while retaining thermodynamic consistency and supporting parameter identification via finite element model updating. The present contribution focuses on improving the robustness and identifiability of non-equilibrium branches in generalized Maxwell-type models. To this end, two extensions of the original formulation are introduced. First, the spline representation is reformulated in terms of curvature-based variables, which is especially convenient to enforce monotonicity and convexity constraints by construction through a smooth parameter mapping. Second, the adaptation of interpolation domains is decoupled from the inner parameter identification by means of a staggered, block-alternating strategy: spline coefficients are optimized for fixed domain endpoints, while the endpoints are updated in an outer loop based on smooth statistics of sampled invariants. This separation alleviates an inherent scaling ambiguity between interpolation domains and spline coefficients that can impair conditioning in viscoelastic inverse problems. The underlying constitutive model remains the finite strain viscoelasticity framework of Reese and Govindjee. The proposed identification strategy is assessed for homogeneous uniaxial loading-unloading tests, which facilitates the study of identifiability and robustness of non-equilibrium branches.",
+  "authors": [
+   "Simon Wiesheier",
+   "Paul Steinmann",
+   "Miguel Angel Moreno-Mateos"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Simon Wiesheier",
+  "pdf_url": "http://arxiv.org/pdf/2606.03816",
+  "primary_category": "cs.CE",
+  "published": "2026-06-02",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Learning finite viscoelasticity with DAVIS: A supervised framework for generalized standard materials",
+  "topics": [
+   "Property Prediction & QSPR"
   ],
   "updated": "2026-06-02"
  },
@@ -101,5 +200,30 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-06-02"
+ },
+ "2606.04024": {
+  "abstract": "We derive the integral representation of the solution for the propagation of a delta-pulse (impulsive wave) in a semi-infinite, homogeneous, linear viscoelastic medium governed by the Zener model. Starting from the Bromwich integral representation of the response function, we obtain a closed-form integral representation by analytically inverting the relevant Laplace transforms. The result is expressed in terms of modified Bessel functions of the first kind and Macdonald functions of half-integer order, and is shown to reduce to the known Maxwell model solution in the appropriate limit. As an independent computational approach, we derive the steepest descent path (SDP) associated with the phase function of the Bromwich integral, characterizing its saddle points and showing that the SDP can be expressed explicitly as the zero locus of a sixth-degree polynomial in the imaginary part of the complex variable. The two methods are compared numerically for several values of the model parameters, confirming their agreement. While the integral representation provides analytical insight into the structure of the solution, the steepest descent method requires no explicit inversion of the Laplace transform and may therefore prove especially valuable in more general viscoelastic settings where a closed-form integral representation is not available.",
+  "authors": [
+   "Andrea Mentrelli",
+   "Juan Luis Gonzalez-Santander",
+   "Francesco Mainardi"
+  ],
+  "categories": [
+   "math-ph",
+   "math.CV"
+  ],
+  "comment": "23 pages, 5 figures, The contents crosses partly with 2 e-prints of the same authors arXiv:2602.03897 ; arXiv:2511.00045",
+  "first_author": "Andrea Mentrelli",
+  "pdf_url": "http://arxiv.org/pdf/2606.04024",
+  "primary_category": "math-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Delta-pulse solution in Zener viscoelastic model",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-01"
  }
 }

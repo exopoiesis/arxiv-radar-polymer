@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10112.html">Classical Kitaev model in a magnetic field</a></div></td>
 <td>Paul A. McClarty et al.</td>
 <td><a href="http://arxiv.org/abs/2603.10112">2603.10112</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.15369.html">Entropy Has No Direction: A Mirror-State Paradox Against Universal Monotonic Entropy Increase and a First-Principles Proof that Constraints Reshape the Entropy Distribution $P_{\infty}(S;λ)$</a></div></td>
-<td>Ting Peng</td>
-<td><a href="http://arxiv.org/abs/2602.15369">2602.15369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05672.html">Partial Information Decomposition of Electronic Observables Along a Reaction Coordinate</a></div></td>
-<td>Kyunghoon Han et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05672">2603.05672</a></td>
 </tr>
 </tbody></table>

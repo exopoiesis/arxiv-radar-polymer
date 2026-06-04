@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03353.html">In vivo measurements of fascia lata effective mechanics combined to a memory fiber recruitment viscoelastic modeling approach</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Franck Germain et al.</td>
+<td><a href="http://arxiv.org/abs/2606.03353">2606.03353</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30028.html">Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
@@ -272,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07103.html">Ultra-Sharp Upright Photon Radiotherapy via Low Energy Extended Distance: An Alternative to FLASH for high flux Sources</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Lloyd E Kamole Ghomsi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07103">2603.07103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04824.html">Design rules for industrial-scale sintering of UB4-UBC composites with high uranium density</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
-<td>Riley Moeykens et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04824">2603.04824</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04987.html">Fluctuation-induced quadrupole order in magneto-electric materials</a></div></td>
-<td>Finja Tietjen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04987">2603.04987</a></td>
 </tr>
 </tbody></table>
