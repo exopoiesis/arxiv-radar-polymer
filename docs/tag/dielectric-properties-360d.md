@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dielectric-properties — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <strong>360d</strong> <a href="dielectric-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00614.html">Structural, dielectric, and ferroelectric characteristics of the low-temperature sintered 65PMN-35PT sample for electroceramic applications</a></div></td>
 <td>B. Ramachandran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00614">2507.00614</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07544.html">Tunable Coloration in Core-Shell Plasmonic Nanopixels Based on Organic Conductive Polymers: A First-Principles and FDTD Study</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
-<td>Md. Shariful Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07544">2506.07544</a></td>
 </tr>
 </tbody></table>

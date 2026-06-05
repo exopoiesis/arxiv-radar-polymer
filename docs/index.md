@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-04._
+_Updated 2026-06-05._
 
-**3419** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3420** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -49,6 +49,12 @@ _Updated 2026-06-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.03900.html">Bernoulli principle in ferroelectrics</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Anna Razumnaya et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03900">2606.03900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.04174.html">Co-optimization of Diffusive and Tomographic Blur in Computed Axial Lithography via Experimental Kernel Identification</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Jennings Z. Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04174">2606.04174</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-01</td>
@@ -187,11 +193,5 @@ _Updated 2026-06-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.26833.html">Periodic Topological Deep Learning for Polymer Design and Discovery</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
 <td>Yasharth Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26833">2605.26833</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Vid Ravnik et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
 </tr>
 </tbody></table>

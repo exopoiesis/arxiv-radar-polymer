@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flory-huggins — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <a href="flory-huggins-90d.html">90d</a> <strong>360d</strong> <a href="flory-huggins-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08958.html">Thermodynamics of microphase separation in a swollen, strain-stiffening polymer network</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Carla Fernández-Rico et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08958">2506.08958</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07835.html">Global weak solutions to a compressible Navier--Stokes/Cahn--Hilliard system with singular entropy of mixing</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Danica Basarić et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07835">2506.07835</a></td>
 </tr>
 </tbody></table>

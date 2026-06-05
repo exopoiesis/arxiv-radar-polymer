@@ -225,5 +225,30 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-06-01"
+ },
+ "2606.04174": {
+  "abstract": "Computed Axial Lithography is a volumetric additive manufacturing method that selectively cures photosensitive resin through the 3D superposition of patterns of light, offering advantages over layer-based processes including rapid print times, reduced layer artifacts, and compatibility with high-viscosity materials. However, diffusive effects, primarily those of free-radical quenchers such as oxygen, blur the boundary between cured and uncured regions, limiting resolution and preventing the reproduction of sharp, high-spatial-frequency features. By comparing micro-CT data to computational dose models convolved with kernels across a range of diffusivities, we establish a framework for extracting a single diffusion kernel from any standard uncorrected print to account for all observed deviations from the target. In this work, we correct diffusion-induced blurring by co-optimizing for its effects alongside the inherent blur of the computed tomography reconstruction, demonstrating improved fidelity over previous approaches of pre-compensating the target geometry via deconvolution.",
+  "authors": [
+   "Jennings Z. Ye",
+   "Abrar Amin Khan",
+   "Hayden K. Taylor"
+  ],
+  "categories": [
+   "eess.IV",
+   "physics.app-ph"
+  ],
+  "comment": "33 pages (including supplementary information), 12 figures, 5 tables",
+  "first_author": "Jennings Z. Ye",
+  "pdf_url": "http://arxiv.org/pdf/2606.04174",
+  "primary_category": "eess.IV",
+  "published": "2026-06-02",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Co-optimization of Diffusive and Tomographic Blur in Computed Axial Lithography via Experimental Kernel Identification",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-02"
  }
 }

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04174.html">Co-optimization of Diffusive and Tomographic Blur in Computed Axial Lithography via Experimental Kernel Identification</a></div></td>
+<td>Jennings Z. Ye et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04174">2606.04174</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29144.html">Learning and Adaptation in Wire Arc Additive Manufacturing Bead Geometry Control</a></div></td>
 <td>Chen-Lung Lu et al.</td>
@@ -1226,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09294.html">Risk-based Design Optimization for Powder Bed Fusion Metal Additive Manufacturing</a></div></td>
 <td>Yulin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09294">2506.09294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18016.html">Digital Twin Synchronization: Bridging the Sim-RL Agent to a Real-Time Robotic Additive Manufacturing Control</a></div></td>
-<td>Matsive Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18016">2501.18016</a></td>
 </tr>
 </tbody></table>
