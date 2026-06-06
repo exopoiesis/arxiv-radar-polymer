@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">91 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,11 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09336.html">Immunological mechanisms and immunoregulatory strategies in intervertebral disc degeneration</a></div><div class="paper-tags"><a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Xianyi Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09336">2506.09336</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08855.html">Strain dependent viscous response describes the mechanics of cohesionless soft granular materials</a></div></td>
-<td>Chandan Shakya et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08855">2506.08855</a></td>
 </tr>
 </tbody></table>

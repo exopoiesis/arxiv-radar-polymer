@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05541.html">Methods for Inferring Interaction Potentials from Cross-Linking Mass Spectrometry Data</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Börries von Seggern et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05541">2606.05541</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>B M Shahi Sifat Mottaqin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02505.html">Spatial and particle-particle entanglement in 1D quantum walks of two distinguishable or indistinguishable bosonic particles</a></div></td>
+<td>Christopher Mastandrea et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02505">2606.02505</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-28</td>

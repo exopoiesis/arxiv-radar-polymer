@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">132 papers</span>
+  <span class="paper-count">130 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -794,17 +794,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15559.html">Fluctuation-Response Theory of Non-Equilibrium Complex Fluids</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Ryota Takaki et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15559">2510.15559</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18406.html">Atomistic Framework for Glassy Polymer Viscoelasticity Across Twenty Frequency Decades</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Ankit Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18406">2511.18406</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07100.html">Realizing microrheological response of configurable viscoelastic media with a dynamic optical trap</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
-<td>Sanatan Halder et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07100">2603.07100</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05541.html">Methods for Inferring Interaction Potentials from Cross-Linking Mass Spectrometry Data</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Börries von Seggern et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05541">2606.05541</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05862.html">Aqueous-alcohol mixtures in dimension two: miscibility and micro-segregation</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>Camille de la Vaissiere et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05862">2606.05862</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05147.html">MicroCup: A Cryogenic Specimen Preparation Strategy for Atom Probe Tomography of Organic Molecular Liquids</a></div></td>
+<td>Kuan Meng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.05147">2606.05147</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03235.html">Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
@@ -1916,11 +1934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09957.html">Mechanism of Conductivity Enhancement of Polymers Employing Microbubble Lithography</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Anand Dev Ranjan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09957">2506.09957</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05288.html">Phase separation in a mixture of proliferating and motile active matter</a></div></td>
-<td>Lukas Hupe et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05288">2506.05288</a></td>
 </tr>
 </tbody></table>

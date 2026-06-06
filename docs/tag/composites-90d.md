@@ -22,6 +22,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2606.03353">2606.03353</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02766.html">Spin-$s$ model with competing interactions on diamond-decorated lattices</a></div></td>
+<td>D. V. Dmitriev et al.</td>
+<td><a href="http://arxiv.org/abs/2606.02766">2606.02766</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30028.html">Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>R. Esquivel-Sirvent et al.</td>
@@ -272,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15772.html">Synthesis and Transfer of Freestanding Strain-Engineered Vertically Aligned Nanocomposite Thin Films</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>Carlos Rodríguez Cortéz et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15772">2603.15772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07103.html">Ultra-Sharp Upright Photon Radiotherapy via Low Energy Extended Distance: An Alternative to FLASH for high flux Sources</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Lloyd E Kamole Ghomsi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07103">2603.07103</a></td>
 </tr>
 </tbody></table>

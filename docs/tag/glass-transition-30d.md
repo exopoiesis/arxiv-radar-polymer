@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01696.html">Significance of time-convolutionless mode-coupling theory in capturing the dynamics of glass-forming liquids</a></div></td>
+<td>Michio Tokuyama</td>
+<td><a href="http://arxiv.org/abs/2606.01696">2606.01696</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12127.html">Identifying the relevant parameters in design strategies for stable glasses</a></div></td>
 <td>Leonardo Galliano et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymerization-30d.html">polymerization</a> · <a href="rheology-30d.html">rheology</a></div></td>
 <td>Mohammad Tanver Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
 </tr>
 </tbody></table>

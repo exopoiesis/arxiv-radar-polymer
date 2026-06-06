@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div></td>
+<td>Micah P. Prange et al.</td>
+<td><a href="http://arxiv.org/abs/2606.04331">2606.04331</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
 <td>Md Mozakker H. Shojib et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="glass-transition-30d.html">glass-transition</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymerization-30d.html">polymerization</a></div></td>
 <td>Mohammad Tanver Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04937.html">Local elastic perturbation of colloidal suspensions near the colloidal glass transition</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Piotr Habdas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04937">2605.04937</a></td>
 </tr>
 </tbody></table>

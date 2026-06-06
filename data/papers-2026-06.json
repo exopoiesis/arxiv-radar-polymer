@@ -1,4 +1,50 @@
 {
+ "2606.01696": {
+  "abstract": "This paper demonstrates the significance of the recently proposed time-convolutionless mode-coupling theory (TMCT) in capturing the dynamics of glass-forming liquids. The origin of the primary differences between ideal MCT and TMCT is comprehensively explored from a unified perspective. First, we review two distinct projection operator methods in the Heisenberg picture: the time-convolution (TC) formulation proposed by Mori and the time-convolutionless (TCL) formulation proposed by Tokuyama and Mori. We show that the appropriate choice between these frameworks fundamentally depends on the space-time scales of the relevant variables. In TMCT, the TC formulation is applied to the current density, whereas the TCL formulation is applied to the number density because the latter operates on a significantly longer space-time scale. In contrast, ideal MCT applies the TC formulation to both densities. Consequently, the governing equation in TMCT is timeconvolutionless, whereas the ideal MCT equation features a time-convolution form. This fundamental difference significantly affects various physical quantities near the glass transition. Finally, the full TMCT equation is transformed into a simplified recursion equation to facilitate numerical analysis, and the key predictions of TMCT are compared with those of ideal MCT",
+  "authors": [
+   "Michio Tokuyama"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 1 figure, 1 table",
+  "first_author": "Michio Tokuyama",
+  "pdf_url": "http://arxiv.org/pdf/2606.01696",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-01",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Significance of time-convolutionless mode-coupling theory in capturing the dynamics of glass-forming liquids",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.01752": {
+  "abstract": "Fiber networks contribute to the mechanical stability of various biological systems, from cells to tissues. Such systems have been modeled by networks of springs or fibers that exhibit rigidity transitions as a function of either connectivity or applied strain. For a fiber network under constant applied strain, severing can reduce the connectivity and destabilize an initially rigid structure. Here, we investigate stress relaxation in spring and fiber networks in the presence of stochastic, force-dependent severing. A computational model to predict stress relaxation with mechanochemical feedback of stress on severing is developed. We also examine the effects of severing on the network topology and onset of rigidity transition. Using 2D triangular lattice-based computer simulations, we explore different limits of the feedback and demonstrate the shift in the onset of rigidity depending on the limit. The limit of tension-suppressed severing delays stress relaxation and shifts the transition into the bending-dominated regime to lower-than-expected connectivity. In contrast, tension-enhanced severing accelerates relaxation and shifts the transition to higher-than-expected connectivity. It is also found that the magnitude of this shift depends on the applied shear strain and the strength of the feedback. Our theoretical approach clarifies some microscopic aspects of these phenomena. Understanding the impact of such feedback mechanisms can provide valuable insights into designing systems by tuning the feedback to the desired response.",
+  "authors": [
+   "Prathamesh Kulkarni",
+   "Anatoly B. Kolomeisky",
+   "Fred C. MacKintosh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Prathamesh Kulkarni",
+  "pdf_url": "http://arxiv.org/pdf/2606.01752",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-01",
+  "tags": [],
+  "title": "Stress relaxation in fiber networks via force-dependent stochastic severing",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-01"
+ },
  "2606.01812": {
   "abstract": "This paper studies an inverse coefficient problem for a time-fractional damped wave equation on a finite time interval. The aim is to determine two spatially varying coefficients, namely the fractional damping coefficient and the zeroth-order potential, from the associated Dirichlet-to-Neumann (DtN) map. We first prove the well-posedness of the forward problem for boundary data with sufficient regularity to admit a suitable lifting. The main result is a uniqueness theorem showing that if two coefficient pairs give rise to the same DtN map, then the corresponding coefficients coincide almost everywhere in the domain. The proof is based on a convolution-type integral identity that eliminates the unknown boundary traces, the construction of high-frequency beam solutions adapted to the singular kernel of the Caputo derivative, and a detailed asymptotic analysis of the resulting fractional convolution terms. This result extends classical uniqueness results for hyperbolic inverse problems to a fractional-order model with damping and provides a theoretical basis for related applications involving memory and viscoelastic effects.",
   "authors": [
@@ -44,7 +90,57 @@
   ],
   "title": "Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks",
   "topics": [
-   "Informatics & Data Infrastructure"
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02505": {
+  "abstract": "We present entanglement measures between spatially separated regions and between two distinguishable or indistinguishable particles in one-dimensional two-particle continuous-time quantum walks governed by the Hubbard Hamiltonian. The left-right entanglement checks the entropy of coarse-grained states counting the numbers of particles on the left and right halves of the lattice while the particle-particle entanglement is based on the entropy of the singular values of the time-evolved Fock state. With separable, entangled, and doubly occupied initial states, we examine initial entanglement and the following growth in different entanglement measures. While the entanglement measures of the indistinguishable cases resemble those of the distinguishable cases when the initial states are comparable, the long-time limits of the entanglement measures are typically non-monotonic as the onsite repulsion increases. We also discuss possible implications for future research of entanglement in multi-particle quantum dynamics.",
+  "authors": [
+   "Christopher Mastandrea",
+   "Chih-Chun Chien"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "15 pages, 8 figures, 2 tables",
+  "first_author": "Christopher Mastandrea",
+  "pdf_url": "http://arxiv.org/pdf/2606.02505",
+  "primary_category": "quant-ph",
+  "published": "2026-06-01",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Spatial and particle-particle entanglement in 1D quantum walks of two distinguishable or indistinguishable bosonic particles",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-01"
+ },
+ "2606.02766": {
+  "abstract": "We investigate the ground state properties, magnetization, and low-temperature thermodynamics of the ferromagnetic-antiferromagnetic spin-$s$ model on diamond-decorated lattices with ideal diamond units, incorporating bilinear Heisenberg and higher-order exchange interactions between diagonal spins-$σ$. Local conservation of the composite spin on each diamond diagonal enables exact analysis. For the pure Heisenberg case, the system undergoes a series of $2σ$ transitions between monomer-dimer (MD), ferrimagnetic (Ferri) and ferromagnetic (F) phases with different optimal composite spin values as the coupling ratio varies. In the presence of higher-order interactions, a multicritical point exists where the states with all possible values of composite spin are degenerate, leading to maximal ground state degeneracy. The case $s=σ=1$ with bilinear and biquadratic interactions is studied in detail. Its phase diagram comprises three phases - F, Ferri and MD, which meet at a triple point. On the phase boundaries, the ground state becomes macroscopically degenerate. For the diamond chain, we calculate the ground state degeneracy exactly; for higher dimensions, the problem maps onto a bond percolation framework, solved numerically. The residual entropy per spin reaches up to $60\\%$ of the maximal value, peaking at the triple point. Low-temperature magnetization curves in external magnetic fields exhibit plateaus and jumps. The excitation spectrum is gapped in the MD phase, gapless in the F phase, and resembles that of the Lieb-Mattis ferrimagnet in the Ferri phase. The high residual entropy suggests potential applications in ultra-low-temperature cooling and quantum thermal machines.",
+  "authors": [
+   "D. V. Dmitriev",
+   "V. Ya. Krivnov",
+   "O. A. Vasilyev"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "33 pages, 7 figures",
+  "first_author": "D. V. Dmitriev",
+  "pdf_url": "http://arxiv.org/pdf/2606.02766",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-01",
+  "tags": [
+   "composites"
+  ],
+  "title": "Spin-$s$ model with competing interactions on diamond-decorated lattices",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-01"
  },
@@ -69,7 +165,8 @@
   ],
   "title": "Monte-Carlo study of Compositional Heterogeneity in Multicomponent Cluster Crystals",
   "topics": [
-   "Microstructure, Morphology & Characterization"
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-02"
  },
@@ -119,7 +216,8 @@
   ],
   "title": "Multiscale Phase Separation in Chemophoretic Active Matter",
   "topics": [
-   "Microstructure, Morphology & Characterization"
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-02"
  },
@@ -250,5 +348,170 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-06-02"
+ },
+ "2606.04331": {
+  "abstract": "The van der Waals interaction has been extensively studied for colloidal forces and resultant emergent phenomena such as colloidal stability, aggregation, and suspension rheology, but the effect of electrolytes on this interaction, especially at intermediate and high electrolyte concentrations, remains incompletely understood. We have extended the Lifshitz theory for van der Waals interactions in pure water to alkali nitrate solutions at arbitrary concentrations by developing a dielectric response model for alkali nitrate solutions that is based on electronic structure calculations of the molecular constituents. Due to their importance in catalysis, ceramics, and coating technologies, the Hamaker constants for rutile, boehmite, and alumina nanoparticles suspended in alkali nitrate solutions are calculated as a function of salt concentration. Contrary to prevailing assumptions, increasing the concentration of sodium (Na), potassium (K), and rubidium (Rb) nitrate solutions causes appreciable increases of the Hamaker constants relative to pure water instead of decreases, whereas cesium nitrate (CsNO3) has almost no effect on the Hamaker constant. We discussed the influence of the solution molar volume, the polarizability of the dissolved ions, and optical properties of the interacting particles in the context of previously published work. Our study indicates a non-vanishing role of van der Waals interactions on colloidal stability at intermediate and high electrolyte concentrations, leading to physical insights on emergent phenomena associated with nanoparticles.",
+  "authors": [
+   "Micah P. Prange",
+   "Jaehun Chun",
+   "Gregory K. Schenter",
+   "Elias Nakouzi",
+   "Yihui Wei",
+   "Aurora E. Clark",
+   "Kevin M. Rosso",
+   "Carolyn I. Pearce"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Micah P. Prange",
+  "pdf_url": "http://arxiv.org/pdf/2606.04331",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-03",
+  "tags": [
+   "rheology"
+  ],
+  "title": "Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05147": {
+  "abstract": "Atom probe tomography (APT) of organic molecular liquids is limited by poorly reproducible specimen geometry, reduced milling rates, and beam sensitivity during cryo-FIB preparation. Here we introduce a MicroCup strategy that confines liquids in a FIB-prepared nanoscale cavity prior to phase separation, reduces deposited volume to increase preparation throughput, enables reproducible specimen geometry, and minimizes beam exposure in the region of interest. Using the liquid crystals 4'-octyl-4-cyanobiphenyl (8CB) and 4'-octyloxy-4-cyanobiphenyl (8OCB) as model systems, we establish stable and reproducible field evaporation conditions, enabling the detected intact ion molecular preservation above 70% in smectic-like phases with interpretable fragmentation behavior. Comparative analysis further shows that the oxygen atom in 8OCB promotes preferential cleavage pathways associated with bond polarization under high electric fields. By inducing partial crystallization within the MicroCup cavity, distinct regions could be resolved: 8CB shows broadly similar evaporation behavior across crystalline and amorphous regions, whereas 8OCB exhibits clearer regional contrast, with smectic-like regions dominated by intact molecular or large fragments and crystalline domains producing small alkyl fragments and ether-type species. These results provide spatially resolved evidence of a solid-liquid interface in a freeze-prepared organic liquid by APT and establish a reproducible workflow for probing local phase behavior in soft materials.",
+  "authors": [
+   "Kuan Meng",
+   "Florian Groll",
+   "Sebastian Eich",
+   "Guido Schmitz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Kuan Meng",
+  "pdf_url": "http://arxiv.org/pdf/2606.05147",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-03",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "MicroCup: A Cryogenic Specimen Preparation Strategy for Atom Probe Tomography of Organic Molecular Liquids",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-03"
+ },
+ "2606.05541": {
+  "abstract": "Cross-linking mass spectrometry (XL-MS) has emerged as a powerful quantitative technique for probing intra-protein structural information as well as protein-protein interactions at an unprecedented scale. XL-MS data yield information on the pairwise spatial proximity of proteins through inter-molecular linkers. However, systematic methods for adapting such data for coarse-grained interacting particle models remain limited. Predominant focus is put on directly fitting radial distribution functions (RDFs), while numerous observables, e.g. coordination numbers, which are functionals of the RDF, cannot be uniquely inverted. In this work, we develop a framework for parameterizing interaction potentials from such observables in potentially phase-separated mixtures, as encountered in XL-MS results. We establish a connection between this problem and the inverse Henderson problem and adapt algorithms such as Iterative Boltzmann Inversion and Iterative Monte Carlo to its numerical solution. We derive exact and low-density limit gradient approximations and propose two new algorithms based on an adaptation of the predictor-corrector~framework. In total, we evaluate several optimization algorithms on biologically realistic ten-component test systems. We demonstrate that for homogeneous fluids, all methods achieve exceptional efficiency and accuracy. Critically, we further demonstrate successful parametrization in a challenging three-phase system. Here, three algorithms, namely Adam and gradient descent employing the low-density derivative as well as Newton's method with the exact gradient, reliably recover the correct parameters. These results establish a clear pathway from XL-MS experiments to coarse-grained protein models for systems where phase separation governs biological function, potentially enabling new investigations of biomolecular condensates and protein aggregation.",
+  "authors": [
+   "Börries von Seggern",
+   "Mohsen Sadeghi"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.soft",
+   "q-bio.BM"
+  ],
+  "comment": "19 pages, 10 Figure, 5 Tables",
+  "first_author": "Börries von Seggern",
+  "pdf_url": "http://arxiv.org/pdf/2606.05541",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-04",
+  "tags": [
+   "coarse-grained",
+   "monte-carlo",
+   "phase-separation"
+  ],
+  "title": "Methods for Inferring Interaction Potentials from Cross-Linking Mass Spectrometry Data",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.05862": {
+  "abstract": "Two dimensional site interaction models of water and alcohols are mixed in various proportions and studied by Monte Carlo simulations, with the purpose to clarify problems related to simulation of real micro-heterogeneous systems. Three alcohols are considered, methanol, pentanol and octanol. The main finding is that, while real alcohols demix with water from butanol onward, their 2D analogs are always fully miscible, while developing increasingly pronounced micro-segregation as the alcohol tail length increases. This is not a consequence of the intrinsically higher fluctuations in 2D, but rather a reorganization of these fluctuations under the charge ordering mechanism. The second finding is that water drives the micro-segregation through strong self-aggregation, but this is not enough to achieve full phase separation because of the water-alcohol contact at the outer rim of the water domains. In this work we examine how this local heterogeneity develops with increasing alcohol alkyl tails, monitored with the study of pair correlation functions, structure factors and Kirkwood-Buff integrals. The absence of clear local self-averaging of the latter provides an illustration of the tension between energy driven maintaining of local structures and entropy driven global homogeneity. In that, the 2D modelisation of real hydrogen bonding mixtures allows to better capture and reveal the physics behind the chemistry of these liquids.",
+  "authors": [
+   "Camille de la Vaissiere",
+   "Ayse Butuner",
+   "Aurélien Perera"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "24 pages, 17 fgures",
+  "first_author": "Camille de la Vaissiere",
+  "pdf_url": "http://arxiv.org/pdf/2606.05862",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-04",
+  "tags": [
+   "monte-carlo",
+   "phase-separation"
+  ],
+  "title": "Aqueous-alcohol mixtures in dimension two: miscibility and micro-segregation",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06019": {
+  "abstract": "\"Polymer quantum mechanics\" is the name given to a quantization scheme inspired by loop quantum gravity in which the configuration space of the theory is chosen to have a discrete topology. Polymer quantization yields a representation of the canonical commutation relations that is genuinely distinct from the conventional \"Schrödinger\" representation. In this paper, we summarize the main features of polymer quantum mechanics and investigate in detail the polymer quantization of systems with configuration spaces that are classically compact. We show explicitly how using the standard construction of polymer states leads to a Hilbert space of states defined on a finite graph of points. By way of example, we find the exact energy eigenvalues and eigenfunctions for a particle on a ring and a particle in a box defined on such lattices, and discuss similarities and differences from standard Schrödinger quantum mechanics. We also explore the continuum limit of states in these systems, and demonstrate in detail how the exact eigenfunctions in the position representation approach their continuum counterparts.",
+  "authors": [
+   "Maxwell R. Siebersma",
+   "Basie Seibert",
+   "Samuel Shuman",
+   "David A. Craig"
+  ],
+  "categories": [
+   "quant-ph",
+   "gr-qc"
+  ],
+  "comment": "42 pages, 8 figures",
+  "first_author": "Maxwell R. Siebersma",
+  "pdf_url": "http://arxiv.org/pdf/2606.06019",
+  "primary_category": "quant-ph",
+  "published": "2026-06-04",
+  "tags": [],
+  "title": "Polymer quantum mechanics on compact configuration spaces",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.06415": {
+  "abstract": "Polymers are indispensable materials with applications ranging from electronics to medicine owing to their versatility, which can be tailored by adjusting their chemical composition and architecture. The design space for these compounds is vast and governed by factors such as monomer classes, copolymer configurations (e.g., linear, branched, random, and alternating), chain size, stoichiometry, and material properties (e.g., density, refractive index, solubility, and Poisson's ratio). Exploring this space requires efficient computational methodologies for polymer science. To address this challenge, we introduce PolyGraphPy, an open-source Python framework that integrates atomistic simulations with machine learning for accurate property prediction and property-guided polymer design. The framework automates Density Functional Tight Binding calculations to efficiently construct structured datasets for monomers, homopolymers, and alternating copolymers. For property prediction, PolyGraphPy employs Bayesian Graph Neural Networks (GNNs) with stochastic graph representations to predict target properties, such as static polarizability, while providing robust uncertainty quantification. Furthermore, the platform incorporates two complementary generative models for the de novo design of targeted molecules: a SELFIES-based Generative Pretrained Transformer (GPT) and a Genetic Algorithm (GA) based on BRICS graph fragmentation. Demonstrated on a dataset of acrylates, PolyGraphPy provides a highly customizable end-to-end pipeline that reduces computational costs and accelerates data-driven polymer informatics.",
+  "authors": [
+   "João G. C. S. Duarte",
+   "Shruti Venkatram",
+   "Morgan Cencer",
+   "Traian Dumitricǎ",
+   "Ketson R. M. dos Santos"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "João G. C. S. Duarte",
+  "pdf_url": "http://arxiv.org/pdf/2606.06415",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-04",
+  "tags": [
+   "generative-model",
+   "gnn",
+   "inverse-design",
+   "polymer-informatics",
+   "selfies"
+  ],
+  "title": "PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-06-04"
  }
 }

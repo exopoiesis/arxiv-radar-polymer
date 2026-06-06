@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07465.html">Classifying Novel 3D-Printed Objects without Retraining: Towards Post-Production Automation in Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Fanis Mathioulakis et al.</td>
 <td><a href="http://arxiv.org/abs/2603.07465">2603.07465</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07103.html">Ultra-Sharp Upright Photon Radiotherapy via Low Energy Extended Distance: An Alternative to FLASH for high flux Sources</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Lloyd E Kamole Ghomsi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07103">2603.07103</a></td>
 </tr>
 </tbody></table>
