@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flory-huggins — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <a href="flory-huggins-90d.html">90d</a> <strong>360d</strong> <a href="flory-huggins-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00649.html">Conformational properties of strictly two-dimensional equilibrium polymers</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>J. P. Wittmer et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00649">2507.00649</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09361.html">Overcoming logarithmic singularities in the Cahn-Hilliard equation with Flory-Huggins potential: An unconditionally convergent ADMM approach</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Ruo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09361">2506.09361</a></td>
 </tr>
 </tbody></table>

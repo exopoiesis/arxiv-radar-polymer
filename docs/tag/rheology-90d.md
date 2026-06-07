@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09620.html">Tunable shear thickening in active non-Brownian suspensions</a></div></td>
 <td>Bhanu Prasad Bhowmik et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09620">2603.09620</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15559.html">Fluctuation-Response Theory of Non-Equilibrium Complex Fluids</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
-<td>Ryota Takaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15559">2510.15559</a></td>
 </tr>
 </tbody></table>

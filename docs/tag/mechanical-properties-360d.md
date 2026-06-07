@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,11 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10278.html">Mixtures of nonhomogeneous viscoelastic incompressible fluids governed by the Kelvin-Voigt equations</a></div></td>
 <td>S. N. Antontsev et al.</td>
 <td><a href="http://arxiv.org/abs/2506.10278">2506.10278</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09670.html">Influence of preparation and architecture on the elastic modulus of polymer networks</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jiting Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09670">2506.09670</a></td>
 </tr>
 </tbody></table>

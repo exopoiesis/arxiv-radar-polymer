@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1922,17 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05906.html">Stochastic elastohydrodynamics of contact and coarsening during membrane adhesion</a></div></td>
 <td>Vira Dhaliwal et al.</td>
 <td><a href="http://arxiv.org/abs/2506.05906">2506.05906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09361.html">Overcoming logarithmic singularities in the Cahn-Hilliard equation with Flory-Huggins potential: An unconditionally convergent ADMM approach</a></div><div class="paper-tags"><a href="flory-huggins-360d.html">flory-huggins</a></div></td>
-<td>Ruo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09361">2506.09361</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09957.html">Mechanism of Conductivity Enhancement of Polymers Employing Microbubble Lithography</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Anand Dev Ranjan et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09957">2506.09957</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymerization — 360d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <strong>360d</strong> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,11 +206,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14840.html">MXene triggers high toughness, high strength and low hysteresis hydrogels for printed artificial tissue</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Chendong Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14840">2506.14840</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.02707.html">Refining Coarse-Grained Molecular Topologies: A Bayesian Optimization Approach</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pranoy Ray et al.</td>
-<td><a href="http://arxiv.org/abs/2501.02707">2501.02707</a></td>
 </tr>
 </tbody></table>

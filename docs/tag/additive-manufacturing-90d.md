@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09353.html">Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Engin Deniz Erkan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09353">2603.09353</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.07465.html">Classifying Novel 3D-Printed Objects without Retraining: Towards Post-Production Automation in Additive Manufacturing</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Fanis Mathioulakis et al.</td>
-<td><a href="http://arxiv.org/abs/2603.07465">2603.07465</a></td>
 </tr>
 </tbody></table>

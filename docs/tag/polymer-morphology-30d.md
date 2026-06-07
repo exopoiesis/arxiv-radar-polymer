@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07235.html">Anisotropic Thermal Conduction as a Driver of Jet Collimation and Magnetic Field Amplification on Cold Fronts</a></div></td>
 <td>Nana Matsuno et al.</td>
 <td><a href="http://arxiv.org/abs/2605.07235">2605.07235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.07718.html">Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="organic-photovoltaics-30d.html">organic-photovoltaics</a></div></td>
-<td>Francesc Xavier Capella-Guardià et al.</td>
-<td><a href="http://arxiv.org/abs/2605.07718">2605.07718</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08255.html">Can LLMs Predict Polymer Physics Just by Reading Synthesis and Processing Prose?</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Yuchu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08255">2605.08255</a></td>
 </tr>
 </tbody></table>

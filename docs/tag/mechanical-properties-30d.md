@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="glass-transition-30d.html">glass-transition</a> · <a href="polymerization-30d.html">polymerization</a> · <a href="rheology-30d.html">rheology</a></div></td>
 <td>Mohammad Tanver Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
-<td>Prince Romeo Mensah</td>
-<td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
 </tr>
 </tbody></table>

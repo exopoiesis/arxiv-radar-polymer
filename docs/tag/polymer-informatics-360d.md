@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-informatics — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="polymer-informatics-7d.html">7d</a> <a href="polymer-informatics-30d.html">30d</a> <a href="polymer-informatics-90d.html">90d</a> <strong>360d</strong> <a href="polymer-informatics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26100.html">Applications of Machine Learning in Polymer Materials: Property Prediction, Material Design, and Systematic Processes</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
 <td>Hongtao Guo Shuai Li Shu Li</td>
 <td><a href="http://arxiv.org/abs/2510.26100">2510.26100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17656.html">polyGen: A Learning Framework for Atomic-level Polymer Structure Generation</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2504.17656">2504.17656</a></td>
 </tr>
 </tbody></table>
