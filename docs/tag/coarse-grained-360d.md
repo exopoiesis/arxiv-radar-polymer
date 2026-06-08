@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.05541">2606.05541</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06658.html">Capturing non-Markovian dynamics in non-equilibrium stochastic systems using flow matching</a></div></td>
+<td>Bhargav Sriram Siddani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06658">2606.06658</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>B M Shahi Sifat Mottaqin et al.</td>
@@ -992,11 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12276.html">Chirality across scales in tissue dynamics</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Sihan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12276">2506.12276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10253.html">Statistical mechanics of fluids with hidden degrees of freedom</a></div></td>
-<td>Masanari Shimada et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10253">2506.10253</a></td>
 </tr>
 </tbody></table>

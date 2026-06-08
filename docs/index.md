@@ -5,15 +5,51 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-07._
+_Updated 2026-06-08._
 
-**3430** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3437** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07146.html">Decision-Aware Evaluation of Physics-Informed Surrogates</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Daniel Cieślak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07146">2606.07146</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07181.html">RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Raja Sekhar Pappala et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07181">2606.07181</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07223.html">Homogenization of regularized Oldroyd-type fluids</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Florian Oschmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07223">2606.07223</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07267.html">Peculiarities Of Phase States In N2O-CO2 Cryoalloys According To Electron Diffraction Data</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>A. A. Solodovnik et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07267">2606.07267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07279.html">Detective scaffolding for within-session reasoning development: a three-phase framework evaluated in polymer engineering and pre-university outreach</a></div></td>
+<td>Haolin Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07279">2606.07279</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07384.html">Hydrogel mechanics below swelling equilibrium</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>A. Chao Correas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07384">2606.07384</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.05541.html">Methods for Inferring Interaction Potentials from Cross-Linking Mass Spectrometry Data</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
@@ -37,6 +73,12 @@ _Updated 2026-06-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/gnn-30d.html">gnn</a> · <a href="tag/inverse-design-30d.html">inverse-design</a> · <a href="tag/polymer-informatics-30d.html">polymer-informatics</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
 <td>João G. C. S. Duarte et al.</td>
 <td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.06658.html">Capturing non-Markovian dynamics in non-equilibrium stochastic systems using flow matching</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Bhargav Sriram Siddani et al.</td>
+<td><a href="http://arxiv.org/abs/2606.06658">2606.06658</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-03</td>
@@ -151,47 +193,5 @@ _Updated 2026-06-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29530.html">Lingering Sweetness of Ethanol Clusters: Sensory Discovery and Objective Discrimination by Impedance-Based Electronic Tongue</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
 <td>Jiaxin Peng et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29530">2605.29530</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29743.html">Exact Solution of the Discrete Wormlike Chain Model</a></div></td>
-<td>Benaoumeur Bakhti</td>
-<td><a href="http://arxiv.org/abs/2605.29743">2605.29743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a> · <a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Md Mozakker H. Shojib et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29967">2605.29967</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.30028.html">Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>R. Esquivel-Sirvent et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30028">2605.30028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.30196.html">Role of structure and charge trapping on the bipolaron formation and magnetic-field response of gated conjugated polymers</a></div></td>
-<td>Zuchong Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.30196">2605.30196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
-<td>Corentin Guigot et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28382.html">A nonlinear beam model for photoresponsive thermoelastic solids driven by localised heating</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>William T. Simpkins et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28382">2605.28382</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2605.28633.html">Geometric Origin of Macroscopic Alignment in Granular Flows</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Christopher Harper et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28633">2605.28633</a></td>
 </tr>
 </tbody></table>

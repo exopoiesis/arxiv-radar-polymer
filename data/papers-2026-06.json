@@ -513,5 +513,180 @@
    "Representation & Foundation Models"
   ],
   "updated": "2026-06-04"
+ },
+ "2606.06658": {
+  "abstract": "Hydrodynamic models of stochastic particle systems represented by coarse-grained stochastic partial differential equations (SPDE), such as the regularized Dean-Kawasaki (DK) equation, do not accurately capture the short-time system dynamics that is dominated by non-Markovian effects, and low particle density regimes where the distributions are highly non-Gaussian. We develop a generative flow matching method that directly models the probability distribution of fluxes from particle simulations that explicitly incorporates non-Markovian and non-Gaussian effects. As a demonstration, we use this method to simulate the Kramers first passage time problem for a system of non-interacting Brownian particles. We show the model accurately captures the short-time behavior and provides better predictions of the statistical moments of the number density when compared against the solution of the Markovian baseline, regularized DK equation.",
+  "authors": [
+   "Bhargav Sriram Siddani",
+   "John B. Bell",
+   "Alejandro L. Garcia",
+   "Ishan Srivastava"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": "5 pages, 1 figure, Accepted to 2026 Conference on Physics and AI (PAI26)",
+  "first_author": "Bhargav Sriram Siddani",
+  "pdf_url": "http://arxiv.org/pdf/2606.06658",
+  "primary_category": "cs.LG",
+  "published": "2026-06-04",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Capturing non-Markovian dynamics in non-equilibrium stochastic systems using flow matching",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-04"
+ },
+ "2606.07146": {
+  "abstract": "Physics-informed machine learning is often assessed by curve error, although engineering use depends on downstream decisions: ranking candidates, avoiding infeasible designs and limiting regret. We introduce pinn-gym, an open benchmark for material-conditioned lattice design that couples a transparent reduced-order crush-and-impact oracle with five printable polymer cards, dimensionless force-response targets and a protocol spanning curve fidelity, physical admissibility, top-k retrieval and mass regret.   Across per-material, pooled and cross-material settings, low nRMSE is frequently insufficient to identify useful design selections. Physics-informed losses alter trade-offs rather than monotonically improving all metrics, and dimensionless conditioning improves comparability without making transfer symmetric. The benchmark is not a certified material model; within the released oracle, candidate generator and material cards, pinn-gym provides a reproducible testbed for evaluating PIML surrogates as decision systems rather than curve predictors alone.",
+  "authors": [
+   "Daniel Cieślak",
+   "Andrzej Czyżewski"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CE"
+  ],
+  "comment": "12 pages, 5 figures, 9 tables. Code and data available at https://github.com/Dyniel/pinn-gym",
+  "first_author": "Daniel Cieślak",
+  "pdf_url": "http://arxiv.org/pdf/2606.07146",
+  "primary_category": "cs.LG",
+  "published": "2026-06-05",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Decision-Aware Evaluation of Physics-Informed Surrogates",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07181": {
+  "abstract": "Single-step retrosynthesis needs both accurate first-ranked suggestions and candidate lists that are rich enough for downstream selection. We study this as a proposal-selection decomposition. Our system, RETROSPECT, combines a single Transformer proposal model, which we call the ChemAlign Transformer, with a LambdaMART reranker over structural, reaction-template, upstream-score, and optional DFT-derived descriptors. The generator is trained with hybrid root-aligned and random SMILES augmentation, Pre-LayerNorm, tied embeddings, exponential moving average weights, and a differentiable atom-balance auxiliary loss. On the full USPTO-50K test set of 5,007 reactions, the generator reaches 55.00% top-1 and 86.18% top-10 exact-match accuracy with 99.86% top-1 validity. On the merged candidate-pool benchmark used for reranking, which contains 5,007 test products and about 111 candidates per product, a LambdaMART model trained on the structural feature set reaches 59.4% top-1 with 0.7171 mean reciprocal rank. Feature ablations show that upstream proposal score and template-frequency statistics provide most of the reranking signal, while DFT and reaction-center DFT features provide smaller and less consistent gains. These results support a modular view of retrosynthesis: stronger single-model proposal and learned candidate selection are complementary, and the proposal model can serve as a drop-in component for ensemble systems such as RetroChimera (Maziarz et al., 2024)",
+  "authors": [
+   "Raja Sekhar Pappala",
+   "Shreyas Vinaya Sathyanarayana",
+   "Ronit Kumar Choudhary",
+   "Arjun Verma",
+   "Deepak Warrier"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI",
+   "q-bio.MN"
+  ],
+  "comment": "Accepted at the AI for Science workshop (ICML 2026)",
+  "first_author": "Raja Sekhar Pappala",
+  "pdf_url": "http://arxiv.org/pdf/2606.07181",
+  "primary_category": "cs.LG",
+  "published": "2026-06-05",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07223": {
+  "abstract": "We study homogenization of a regularized viscoelastic Oldroyd-type model in a periodically perforated bounded domain. The system describes an incompressible non-Newtonian fluid coupled to an elastic extra stress tensor and includes both nonlinear viscosity and nonlinear stress diffusion effects. The governing model, introduced by Kreml, Pokorný, and Šalom (2015), covers Oldroyd-A- and Oldroyd-B-type constitutive laws. We establish qualitative and quantitative homogenization results in suitable scaling regimes and show convergence toward an effective Darcy law on the macroscopic domain. In particular, we prove that, under appropriate assumptions on the scaling parameters, the polymeric stress does not contribute to the effective limit equation. The analysis combines uniform estimates, oscillating test-function techniques, and a relative energy method, and additionally yields a weak-strong uniqueness principle for the viscoelastic system.",
+  "authors": [
+   "Florian Oschmann",
+   "Jonas Sauer"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Florian Oschmann",
+  "pdf_url": "http://arxiv.org/pdf/2606.07223",
+  "primary_category": "math.AP",
+  "published": "2026-06-05",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Homogenization of regularized Oldroyd-type fluids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07267": {
+  "abstract": "The structural characteristics of n2o-co2 alloys have been studied using transmission electron diffraction (THEED) across the entire range of their mutual concentrations at temperatures of 5 K and 65 K. The ranges in which regular solutions exist and intervals of alloy phase separation have been identified using the dependence of lattice parameters on composition and profile analysis of the diffraction pattern intensity distribution. It was found that maximum solubility values are up to 11 mol.% CO2 in the N2O matrix and up to 30 mol.% n2o in solid co2 at 65 K. The solubility limits for the components at 5 K are less 20 mol.% co2 in crystalline n2o and less than 35 mol.% n2o in a co2 crystal lattice. It was established that the character of n2o-co2 alloy separation corresponds to the mechanism of spinodal decomposition. The relative excess volumes that pertain to the admixture were determined for the CO2 impurity in solid n2o and for n2o impurity in co2 crystal. Conclusions regarding the character of n2o-co2 phase diagram have been made.",
+  "authors": [
+   "A. A. Solodovnik",
+   "O. P. Konotop"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "20 pages, 5 figures",
+  "first_author": "A. A. Solodovnik",
+  "pdf_url": "http://arxiv.org/pdf/2606.07267",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-05",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Peculiarities Of Phase States In N2O-CO2 Cryoalloys According To Electron Diffraction Data",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07279": {
+  "abstract": "This paper presents a detective scaffolding framework -- a three-phase instructional sequence (Hypothesis Activation -> Evidence Structuring -> Causal Integration) in which engineering students investigate a realistic industrial defect scenario using staged in-class polls as designed evidence probes. Unlike conventional uses of student response systems for engagement, the framework positions each poll as an Evidence-Centred Design instrument targeting a specific reasoning capability. In the primary implementation, 80 Year~3 polymer engineering students progressed from prior-knowledge-driven misconception (71% attributing defects to temperature) to complete root-cause convergence (100\\% identifying humidity; Fisher's exact test, $p < .001$) across four sequenced prompts within a single 90-minute lecture slot. A dual-accuracy analysis revealed that at one intermediate stage, textbook-correct and analytically valid responses diverged, illustrating why conventional scoring can misrepresent reasoning quality. In a transferability study, 26 Year~12 students with no engineering background achieved identical root-cause identification rates across two adapted scenarios, with significant gains in data-analysis confidence and AI explanation ability. The results suggest that the pedagogical structure, rather than disciplinary content, drives the convergence effect, implying portability across disciplines and educational levels.",
+  "authors": [
+   "Haolin Feng",
+   "Holly Barrett",
+   "Xinru Deng",
+   "Dimitrios G Papageorgiou",
+   "Yiwei Sun"
+  ],
+  "categories": [
+   "physics.ed-ph",
+   "cs.CY"
+  ],
+  "comment": "24 pages, 3 figures",
+  "first_author": "Haolin Feng",
+  "pdf_url": "http://arxiv.org/pdf/2606.07279",
+  "primary_category": "physics.ed-ph",
+  "published": "2026-06-05",
+  "tags": [],
+  "title": "Detective scaffolding for within-session reasoning development: a three-phase framework evaluated in polymer engineering and pre-university outreach",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07384": {
+  "abstract": "Hydrogels are versatile materials due to their softness and ability to undergo large changes in water content. Their mechanics, however, are complex, being a tight coupling between fluid flow and elastic deformations. We use experiments and theory to show that this coupling simplifies when hydrogels are not fully swollen. In this regime, polymer-water affinity controls local hydration, while the much weaker polymer network elasticity plays a secondary role, setting the resulting elastic shape. This observation enables a simplified model that accurately predicts stresses and deformations.",
+  "authors": [
+   "A. Chao Correas",
+   "Y. Feng",
+   "R. W. Style",
+   "D. S. Kammer"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "A. Chao Correas",
+  "pdf_url": "http://arxiv.org/pdf/2606.07384",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-05",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Hydrogel mechanics below swelling equilibrium",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-05"
  }
 }

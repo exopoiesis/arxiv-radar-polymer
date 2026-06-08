@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07223.html">Homogenization of regularized Oldroyd-type fluids</a></div></td>
+<td>Florian Oschmann et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07223">2606.07223</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03353.html">In vivo measurements of fascia lata effective mechanics combined to a memory fiber recruitment viscoelastic modeling approach</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Franck Germain et al.</td>
@@ -2756,11 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12276.html">Chirality across scales in tissue dynamics</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Sihan Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12276">2506.12276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10278.html">Mixtures of nonhomogeneous viscoelastic incompressible fluids governed by the Kelvin-Voigt equations</a></div></td>
-<td>S. N. Antontsev et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10278">2506.10278</a></td>
 </tr>
 </tbody></table>

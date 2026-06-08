@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,11 +674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.03720.html">Magic sizes enable minimal-complexity, high-fidelity assembly of programmable shells</a></div></td>
 <td>Botond Tyukodi et al.</td>
 <td><a href="http://arxiv.org/abs/2411.03720">2411.03720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08168.html">Defects Enhance Stability in 12-fold Symmetric Soft-Matter Quasicrystals</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Alptuğ Ulugöl et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08168">2408.08168</a></td>
 </tr>
 </tbody></table>

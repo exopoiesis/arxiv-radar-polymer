@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07384.html">Hydrogel mechanics below swelling equilibrium</a></div></td>
+<td>A. Chao Correas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07384">2606.07384</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28382.html">A nonlinear beam model for photoresponsive thermoelastic solids driven by localised heating</a></div></td>
 <td>William T. Simpkins et al.</td>
@@ -158,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09911.html">Synthetic design of force-responsive hydrogels with ring-forming catch bonds</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Wout Laeremans et al.</td>
 <td><a href="http://arxiv.org/abs/2603.09911">2603.09911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11065.html">Micropatterning photopolymerizable hydrogels for diffusion studies using pillar arrays or photomasks</a></div><div class="paper-tags"><a href="polymerization-90d.html">polymerization</a></div></td>
-<td>Sevgi Onal et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11065">2603.11065</a></td>
 </tr>
 </tbody></table>

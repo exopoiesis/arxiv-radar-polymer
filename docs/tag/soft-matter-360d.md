@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,11 +308,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16781.html">Omnidirectionally manipulated skyrmions in an orientationally chiral system</a></div></td>
 <td>Jiahao Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16781">2506.16781</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08168.html">Defects Enhance Stability in 12-fold Symmetric Soft-Matter Quasicrystals</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Alptuğ Ulugöl et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08168">2408.08168</a></td>
 </tr>
 </tbody></table>
