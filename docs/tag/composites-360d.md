@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09007.html">High-Order Regularity and a Fully Discrete Fourier Spectral Method for a Partially Dissipative Viscoelastic Timoshenko System with Memory</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Zhenyang Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09007">2606.09007</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03353.html">In vivo measurements of fascia lata effective mechanics combined to a memory fiber recruitment viscoelastic modeling approach</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Franck Germain et al.</td>
@@ -944,11 +950,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06240.html">Theory of Dielectric Behavior in Composites</a></div></td>
 <td>Lifeng Hao et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06240">2507.06240</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20193.html">Polydispersity in Percolation</a></div></td>
-<td>Fabian Coupette et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20193">2407.20193</a></td>
 </tr>
 </tbody></table>

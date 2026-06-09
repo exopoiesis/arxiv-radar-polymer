@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09611.html">Lattice genome: representation and analysis of heterogeneous crystalline microstructures</a></div></td>
+<td>Jiayang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09611">2606.09611</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="inverse-design-90d.html">inverse-design</a> · <a href="polymer-informatics-90d.html">polymer-informatics</a> · <a href="selfies-90d.html">selfies</a></div></td>
 <td>João G. C. S. Duarte et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26705.html">PI-Mamba: Linear-Time Protein Backbone Generation via Spectrally Initialized Flow Matching</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Tianyu Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26705">2603.26705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09353.html">Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="extrusion-90d.html">extrusion</a></div></td>
-<td>Engin Deniz Erkan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09353">2603.09353</a></td>
 </tr>
 </tbody></table>

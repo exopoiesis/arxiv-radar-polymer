@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogels — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <strong>90d</strong> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,17 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15673.html">Production of Low-Density Aerogel Nuclear Fuels for Use in Fission Fragment Rockets and Novel Reactor Design</a></div></td>
 <td>Noah D&#x27;Amico et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15673">2603.15673</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02698.html">Adaptive hydrogels with spatiotemporal stiffening using pH-modulating enzymes</a></div></td>
-<td>Natascha Gray et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02698">2512.02698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09911.html">Synthetic design of force-responsive hydrogels with ring-forming catch bonds</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wout Laeremans et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09911">2603.09911</a></td>
 </tr>
 </tbody></table>

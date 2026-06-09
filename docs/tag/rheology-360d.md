@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07817.html">Nonspherical gas bubble dynamics in viscoelastic soft materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Sawyer Remillard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07817">2606.07817</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div></td>
 <td>Micah P. Prange et al.</td>
@@ -728,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13316.html">Tuning the Viscosity and Jamming Point in Dense Active non-Brownian Suspensions</a></div></td>
 <td>Bhanu Prasad Bhowmik</td>
 <td><a href="http://arxiv.org/abs/2506.13316">2506.13316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11936.html">Bubble Dynamics Transformer: Microrheology at Ultra-High Strain Rates</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Lehu Bu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11936">2506.11936</a></td>
 </tr>
 </tbody></table>

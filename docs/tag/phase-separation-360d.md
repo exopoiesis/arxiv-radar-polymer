@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Minaam Qamar et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09341">2606.09341</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07267.html">Peculiarities Of Phase States In N2O-CO2 Cryoalloys According To Electron Diffraction Data</a></div></td>
 <td>A. A. Solodovnik et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07267">2606.07267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07823.html">Exact mean-field phase diagram for self-avoiding active particles in a lattice</a></div></td>
+<td>Felipe Hawthorne et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07823">2606.07823</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-04</td>
@@ -56,6 +68,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03900.html">Bernoulli principle in ferroelectrics</a></div></td>
 <td>Anna Razumnaya et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03900">2606.03900</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07652.html">Polyethylene-based thermo-mechanically recyclable stretchable yarns for circular sustainable textiles</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>SeongHyeon Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07652">2606.07652</a></td>
 </tr>
 <tr class="paper">
 <td>2026-05-27</td>
@@ -1916,17 +1934,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14017.html">Structural Inhomogeneities and Suppressed Magneto-Structural Coupling in Mn-Substituted GeCo2O4</a></div></td>
 <td>Shivani Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14017">2506.14017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02791.html">Variability study of classical supergiant X-ray binary 4U 1907+09 using NuSTAR</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Raj Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2504.02791">2504.02791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05906.html">Stochastic elastohydrodynamics of contact and coarsening during membrane adhesion</a></div></td>
-<td>Vira Dhaliwal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05906">2506.05906</a></td>
 </tr>
 </tbody></table>

@@ -688,5 +688,403 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-06-05"
+ },
+ "2606.07652": {
+  "abstract": "Most high-performance elastic textiles rely on yarns composed of chemically dissimilar polymers, rendering them difficult to recycle. Here, we demonstrate fully thermo-mechanically recyclable stretchable yarns composed of polyethylene (PE) family materials. Inspired by structure-property relationships in natural materials, we engineer a library of melt-spun PE fibers spanning mechanical properties from elastomeric to functional by tuning polymer crystallinity and chain orientation. These fibers are assembled into core-sheath yarns comprising an olefin block copolymer elastic core and a high-strength PE sheath, forming a helical architecture. The resulting yarns exceed mechanical performance of commercial PET-spandex yarns while maintaining full recyclability. We further show that PE homopolymers and copolymers can be jointly melt-processed and recycled without phase separation or loss of performance. This approach enables stretchable recyclable textiles from fibers with previously demonstrated cooling, moisture-wicking and stain-resisting performance and provides a scalable pathway toward circular garments compatible with existing polyethylene recycling streams.",
+  "authors": [
+   "SeongHyeon Kim",
+   "Duo Xu",
+   "Volodymyr Korolovych",
+   "Domingo R. Flores-Hernandez",
+   "Kaniz Moriam",
+   "Daniel J. Braconnier",
+   "Svetlana V. Boriskina"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "SeongHyeon Kim",
+  "pdf_url": "http://arxiv.org/pdf/2606.07652",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-02",
+  "tags": [
+   "block-copolymer",
+   "crystallinity",
+   "mechanical-properties",
+   "phase-separation"
+  ],
+  "title": "Polyethylene-based thermo-mechanically recyclable stretchable yarns for circular sustainable textiles",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-02"
+ },
+ "2606.07817": {
+  "abstract": "Nonspherical gas bubble dynamics in viscoelastic materials influence the stress transmission and energy dissipation of their surroundings and are difficult to predict. Their accurate prediction is essential in applications ranging from biomedical procedures to high-strain-rate rheological measurements. However, existing models do not sufficiently capture the nonspherical rotational dynamics. We formulate and superpose a rotational contribution to the perturbed deformation with a potential contribution. Linearised forward and inverse coordinate maps are formulated based on the deformation field which are used to compute velocities, accelerations, and stresses. The addition of the rotational degree of freedom satisfies the momentum balance equations and stress continuity at the bubble surface. The material surrounding the bubble is modelled with a Kelvin-Voigt constitutive model with Newtonian viscosity and quadratic strain-stiffening neo-Hookean elasticity. The model agrees with previous viscous fluids models when elastic effects are neglected and radial oscillations are small. When viscous effects are small relative to elastic, shear waves radiate from the bubble surface into the material. The resulting strain energy is delocalised and increases damping of the perturbation amplitude in time relative to potential-based models. We show agreement between the stability of the shape modes with previous ultrasound forced experiments and temporal evolution of different shape modes with previous laser-induced cavitation experimental data.",
+  "authors": [
+   "Sawyer Remillard",
+   "Mauro Rodriguez"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Sawyer Remillard",
+  "pdf_url": "http://arxiv.org/pdf/2606.07817",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-05",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Nonspherical gas bubble dynamics in viscoelastic soft materials",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.07823": {
+  "abstract": "We investigate motility-induced phase separation in a lattice gas of self-propelled particles with hard-core exclusion, where an internal director biases particle hopping along the lattice coordination directions while undergoing rotational diffusion, together with a thermal-like translational diffusion. Rather than employing stochastic simulations, we adopt a master-equation formalism within a general mean-field approximation. By linearizing the mean-field master equation around the homogeneous stationary state and applying Bloch's theorem, the stability analysis is reduced to a $z$-dimensional tight-binding eigenvalue problem. A perturbation expansion in the wavenumber near $\\vk = 0$ then yields the spinodal surface in closed analytical form for six Bravais lattices: linear, square, hexagonal, simple cubic, body-centered cubic, and face-centered cubic. The influence of lattice geometry is shown to enter exclusively through a single coefficient $\\mathcal{A}$ which we evaluate exactly for each case. We further show that translational diffusion smooths the interface between the dense and dilute phases. Finally, we determine the rotational probability currents associated with the inhomogeneous stationary states, a distinctive signature of the broken detailed balance underlying active-system dynamics.",
+  "authors": [
+   "Felipe Hawthorne",
+   "Cristiano F. Woellner",
+   "José A. Freire"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Felipe Hawthorne",
+  "pdf_url": "http://arxiv.org/pdf/2606.07823",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-05",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Exact mean-field phase diagram for self-avoiding active particles in a lattice",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-05"
+ },
+ "2606.08647": {
+  "abstract": "The ability to predict protein three-dimensional structures from amino acid sequences is a landmark achievement in molecular biology, where recent deep learning approaches such as AlphaFold are the culmination of decades of work. Yet, the quantitative understanding of how protein sequences give rise to dynamic conformational changes and higher-order assemblies remains unsolved. Folding and conformational states are dynamic, stochastic processes, shaped by sequence, energy, co-translational constraints, chaperone machineries, and the physicochemical conditions of the cellular environment. Recent advances now position the field to move beyond static structural endpoints toward a mechanistic understanding of folding dynamics in living systems. Single-molecule techniques enable time-resolved observation of folding trajectories and intermediate states hitherto hidden by traditional structural biology approaches, while computational innovations and data-driven approaches offer new ways to integrate heterogeneous data across scales. In this Roadmap, we review the current conceptual landscape of protein folding, examine the experimental and theoretical gaps that remain, and discuss emerging strategies that integrate high-resolution measurements with multiscale modeling. We outline a roadmap toward a quantitative and predictive science of protein folding dynamics, conformational kinetics, and macromolecular self-assembly. Realizing this vision would transform our understanding of the dynamics of molecular self-organization, from the folding of individual polypeptides to the emergence of dynamic macromolecular complexes. This will enable rational control of folding and misfolding in health and disease, extend protein engineering principles beyond static structural design, and establish a mechanistic foundation for predictive and personalized interventions in proteostasis-related disorders.",
+  "authors": [
+   "Juliette Griffié",
+   "Sviatlana Shashkova",
+   "Antonio Ciarlo",
+   "Sreekanth K. Manikandan",
+   "Claes Andréasson",
+   "Malin Bäckström",
+   "Tristan Bereau",
+   "Hjalmar Brismar",
+   "Carlos Bustamante",
+   "Marta Carroni",
+   "Roberto Covino",
+   "Andreas Dahlin",
+   "Sebastian Deindl",
+   "Lucie Delemotte",
+   "Arne Elofsson",
+   "John Eriksson",
+   "Giovanna Fragneto",
+   "Anders Gunnarsson",
+   "Per Hammarström",
+   "Caroline Ingre",
+   "Christian Kaiser",
+   "Petronella Kettunen",
+   "Mark C. Leake",
+   "Benjamin Loos",
+   "Anna Månberg",
+   "Antonia S. J. S. Mey",
+   "Richard Neutze",
+   "Thomas Nyström",
+   "Karl Palmås",
+   "Charley Schaefer",
+   "Markus J. Tamás",
+   "Nicola Ticozzi",
+   "Tomás S. Pilvelic",
+   "Jacopo Sacquegno",
+   "B. M.",
+   " Tijms",
+   "Gunnar von Heijne",
+   "Björn Wallner",
+   "Vitali Zhaunerchyk",
+   "Simon Olsson",
+   "Joana B. Pereira",
+   "Julia Fernandez-Rodriguez",
+   "Fredrik Westerlund",
+   "Giovanni Volpe"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cond-mat.mes-hall",
+   "cond-mat.soft"
+  ],
+  "comment": "53 pages, 4 figures",
+  "first_author": "Juliette Griffié",
+  "pdf_url": "http://arxiv.org/pdf/2606.08647",
+  "primary_category": "q-bio.BM",
+  "published": "2026-06-07",
+  "tags": [
+   "multiscale-modeling"
+  ],
+  "title": "Protein Dynamics Beyond Structure Prediction",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-07"
+ },
+ "2606.08763": {
+  "abstract": "Polymer chain scission is a key mechanism for fracture of soft materials. It is well known from single-molecule force spectroscopy experiments that the critical condition for chain scission depends on the loading rate and other environmental effects (e.g., temperature and solvent). Common approaches to describing the kinetics of chain scission often assume force-controlled conditions, that is, when a polymer chain is stretched by a prescribed force. As a result of this assumption, chain scission is irreversible, excluding the possibility of healing. In many soft materials, however, self-healing has been observed after fracture, suggesting possibly reversible chain scission. Here, we show that reversible chain scission is possible under displacement-controlled conditions, that is, when a polymer chain is stretched with a prescribed end-to-end distance. We present a breakable freely-jointed chain model, assuming that a polymer chain breaks when one of its links breaks while the other links remain nearly rigid. At a prescribed end-to-end distance, the free energy of the chain has two local minima and a local maximum (the transition state), giving rise to energy barriers for chain scission and healing. As the prescribed displacement increases, the energy barrier decreases for scission but increases for healing, depending on the chain length (number of links) and the potential energy of the link. With the energy barriers, we adopt a kinetic approach to predict the statistics and kinetics of a single polymer chain under tension, first by integrating the rate equation and then by kinetic Monte Carlo simulations. Notably, the present model predicts rate-dependent chain scission, with a lower bound for the rupture force that could be several orders of magnitude lower than the upper bound (which is close to the theoretical strength of the covalent bonds).",
+  "authors": [
+   "Mohammad A. Ansari",
+   "Kenneth M. Liechti",
+   "Dmitrii E. Makarov",
+   "Rui Huang"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "Under review",
+  "first_author": "Mohammad A. Ansari",
+  "pdf_url": "http://arxiv.org/pdf/2606.08763",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-07",
+  "tags": [
+   "monte-carlo",
+   "spectroscopy"
+  ],
+  "title": "Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-07"
+ },
+ "2606.08801": {
+  "abstract": "Generalized entropy measures are widely used to characterize localization and multifractality, and the regime \\(q>1\\) is often empirically found to exhibit improved numerical stability and cleaner scaling behavior. Here, we develop a fluctuation-stability framework for generalized entropy diagnostics and show that weak-amplitude spectral fluctuations are amplified for \\(q<1\\) and suppressed for \\(q>1\\), thereby providing a theoretical basis for the physically robust \\(q>1\\) regime. A thermodynamic scaling analysis further identifies an asymptotically stable regime beyond a critical threshold. As an application, we introduce the entropy-gradient susceptibility \\(χ_q\\) as a coarse-grained probe of spectral heterogeneity. Using the Aubry-André and generalized Aubry-André models, we demonstrate that \\(χ_q\\) sharply distinguishes homogeneous localization transitions from mobility-edge coexistence regimes. Our results establish fluctuation stability as a guiding principle for generalized entropy diagnostics in quasiperiodic systems.",
+  "authors": [
+   "Arpita Goswami"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "9 pages, 3 figures",
+  "first_author": "Arpita Goswami",
+  "pdf_url": "http://arxiv.org/pdf/2606.08801",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-07",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Fluctuation-stable generalized entropy probes of spectral heterogeneity",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-07"
+ },
+ "2606.09007": {
+  "abstract": "This paper investigates a class of partially dissipative viscoelastic Timoshenko systems with memory, where dissipation is induced by a Volterra-type memory term acting only on the shear variable. The well-posedness of weak and strong solutions is established on finite time intervals, including existence, uniqueness, stability, and higher-order regularity under compatibility conditions consistent with mixed boundary conditions. For the numerical approximation, a Fourier spectral fully discrete scheme is constructed: sine and cosine basis expansions are used in space for unknowns satisfying Dirichlet and Neumann boundary conditions, respectively; in time, a central difference scheme is applied to the second-order derivatives, and the composite trapezoidal rule is used to approximate the memory convolution term. Based on a discrete energy method, the positivity of the constructed discrete energy is proved, and the error estimate for the fully discrete scheme with second-order convergence in time and \\(q\\)-th order in space is established for any q \\in \\mathbb{N}. Numerical experiments are given to verify the theoretical convergence rates and to compare the dynamic responses of the local and nonlocal models, demonstrating that the memory term effectively captures energy dissipation and vibration attenuation behavior in viscoelastic materials.",
+  "authors": [
+   "Zhenyang Zhong",
+   "Hui Liang"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Zhenyang Zhong",
+  "pdf_url": "http://arxiv.org/pdf/2606.09007",
+  "primary_category": "math.NA",
+  "published": "2026-06-08",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "High-Order Regularity and a Fully Discrete Fourier Spectral Method for a Partially Dissipative Viscoelastic Timoshenko System with Memory",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09128": {
+  "abstract": "This paper considers the sliding and rolling contact between viscoelastic bodies. Combining linear viscoelastic rheologies for bristle-like elements with nonlinear dynamic friction models, it derives a class of viscoelasto-kinematic equations, formulated as a system of partial differential equations (PDEs) governing the evolution of the frictional force, bristle deformations, and internal state variables at the interface between the contacting bodies. The resulting system is analysed mathematically, demonstrating that linear viscoelasticity preserves the hyperbolic character of the PDE systems typically encountered in rolling contact. The proposed theory is illustrated through representative examples of both sliding and rolling contact, highlighting that these two processes, whilst often treated as distinct, may in fact exhibit closely related underlying dynamics. Overall, the framework provides a general theoretical setting applicable to a broad class of viscoelastic frictional systems.",
+  "authors": [
+   "Luigi Romano"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "33 pages, 8 figures. Submitted for journal publication",
+  "first_author": "Luigi Romano",
+  "pdf_url": "http://arxiv.org/pdf/2606.09128",
+  "primary_category": "physics.app-ph",
+  "published": "2026-06-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Dynamic sliding and rolling friction models for linear viscoelastic contact pairs",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09279": {
+  "abstract": "Accurate prediction of the material behavior of polymer nanocomposites under various thermomechanical loading conditions is increasingly demanded for engineering applications. This study proposes an integrated framework combining coarse-grained (CG) molecular simulations and experimental testing to develop predictive constitutive models for nanoparticle/epoxy nanocomposites. The key contribution of this work lies in characterizing the influence of nanoparticle content and agglomerate size on the rate- and temperature-dependent behavior of nanocomposites, enabled by large-scale CG simulations. The proposed framework successfully captures the material response, including nonlinear hyperelasticity, softening behavior, and rate- and temperature-dependent properties, across a broad range of strain rates, temperatures, and nanoparticle sizes and weight fractions. The predictive capability of the CG simulation-informed constitutive model is validated using additional experimental data that were not included in the parameter identification process. By reducing reliance on extensive experimental testing while maintaining high accuracy, this simulation-driven approach offers an efficient pathway for developing robust, predictive constitutive models for designing and optimizing advanced nanocomposites.",
+  "authors": [
+   "Atiyeh Hentea",
+   "Shadab Zakavatib",
+   "Behrouz Arash",
+   "Maximilian Jux",
+   "Raimund Rolfes"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Atiyeh Hentea",
+  "pdf_url": "http://arxiv.org/pdf/2606.09279",
+  "primary_category": "cs.CE",
+  "published": "2026-06-08",
+  "tags": [
+   "coarse-grained",
+   "nanocomposites"
+  ],
+  "title": "Bridging nanoparticle morphology and viscoelastic behavior in epoxy nanocomposites: A coarse-grained simulation-informed constitutive model",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Processing, Manufacturing & Composites",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09341": {
+  "abstract": "The palladium-hydrogen system is a prototype for hydrogen-metal interactions and underpins technologies such as hydrogen storage, catalysis and purification. Yet its nanoscale behaviour -- where surface and interface energetics, elastic coherency strain and size-dependent thermodynamics govern phase separation -- has eluded accurate atomistic simulation. Empirical potentials misrepresent the energetics of interstitial hydrogen, while existing machine-learning models are restricted to bulk phases at low-hydrogen environments. Here we introduce an atomic cluster expansion (ACE) for Pd-H that reproduces formation energies, phonon spectra, elastic constants, hydrogen migration barriers and surface adsorption with near-DFT accuracy, benchmarked directly against neutron-scattering, high-pressure and lattice-expansion experiments. Its near-linear scaling and CPU efficiency make molecular dynamics of PdH$_x$ nanoparticles exceeding 28,000 atoms ($\\sim$12 nm in diameter) tractable over nanosecond timescales. These simulations resolve, at the atomic scale, the kinetic separation of $α$- and $β$-PdH$_x$ into a core-shell architecture, reproduce the experimentally observed size dependence of the lattice parameter, and uncover a pronounced hydrogen-induced lowering of the nanoparticle melting temperature. The potential brings experimentally relevant scales of metal-hydride dynamics within quantitative reach.",
+  "authors": [
+   "Minaam Qamar",
+   "Apinya Ngoipala",
+   "Matous Mrovec",
+   "Matthias Vandichel",
+   "Ralf Drautz"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "14 pages, 12 figures",
+  "first_author": "Minaam Qamar",
+  "pdf_url": "http://arxiv.org/pdf/2606.09341",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09468": {
+  "abstract": "Successfully performing direct numerical simulations of polymeric flows remains a major challenge in computational fluid mechanics. In addition to the velocity field, such simulations must resolve polymeric degrees of freedom, often expressed via the conformation tensor, $\\mathbf{c}$, which captures the local stretch of polymer molecules. A key difficulty here lies in maintaining the physical requirement $\\mathrm{Tr}\\, \\mathbf{c}>3$, which is not explicitly enforced by the governing equations. Consequently, simulations initiated from physical conditions may silently drift into unphysical states with $\\mathrm{Tr}\\, \\mathbf{c}<0$, indicating a loss of positive-definiteness of the conformation tensor. Existing numerical methods to prevent this are costly, making direct numerical simulations of chaotic polymer flows, such as elastic turbulence, heavily reliant on high-performance computing.   Here, we ask whether simulations that violate $\\mathrm{Tr}\\, \\mathbf{c}>3$ can still yield meaningful physical insight into the underlying dynamics. We simulate a model dilute polymer solution driven through a plane channel at low Reynolds number and observe the transition to elastic turbulence. Our simulations exhibit two threshold resolutions: below the first, they become numerically unstable and exhibit a finite-time blow-up; above the second, they maintain positive-definiteness. In between, simulations remain stable and chaotic despite local violations of $\\mathrm{Tr}\\, \\mathbf{c}>3$. Surprisingly, these violations do not affect mid-plane statistics of velocity, its gradients, or polymer stretch, which match results from fully positive-definite simulations. This suggests that resolving flow structures or key flow statistics may not require the extreme resolutions needed to preserve positive-definiteness, potentially lowering computational barriers for studying elastic turbulence.",
+  "authors": [
+   "Damiano Capocci",
+   "Moritz Linkmann",
+   "Alexander Morozov"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 10 figures. Submitted to J. Fluid Mech",
+  "first_author": "Damiano Capocci",
+  "pdf_url": "http://arxiv.org/pdf/2606.09468",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-08",
+  "tags": [],
+  "title": "No need to stay positive: a practical approach to direct numerical simulations of elastic turbulence",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09527": {
+  "abstract": "Multicomponent vapor-deposited organic glasses are essential in organic electronic applications, but achieving controlled component segregation at the nano- and mesoscale remains a challenge, hindering the rational development of high-performance devices. In this study, we investigate binary organic semiconductor mixtures of TPD (N,N'-Bis(3-methylphenyl)-N,N'-diphenylbenzidine) and TCTA (Tris(4-carbazoyl-9-ylphenyl)amine). Despite being miscible in the bulk liquid state, the co-deposited glassy films of these two organic semiconductors exhibit a range of segregation behaviors, from homogenous to clearly phase-separated structures. We employed differential scanning calorimetry and resonant soft X-ray scattering (RSoXS) to study the component segregation behavior and used the National Institute of Standards and Technology RSoXS Simulation Suite, paired with Atomic Force Microscopy, to interpret the energy-dependent RSoXS spectra. Our results indicate that component segregation in co-deposited TPD-TCTA films is due to a kinetically-arrested nucleation-and-growth mechanism, in contrast to the segregation mechanism of a previously reported TPD-DO37 (disperse orange 37) mixture which is strongly immiscible in bulk. This work provides a demonstration of tunable molecular aggregation in organic semiconductor glasses, enabling access to a continuum of morphologies from homogeneously mixed to segregated phases.",
+  "authors": [
+   "Shinian Cheng",
+   "Yejung Lee",
+   "Lian Yu",
+   "Mark D. Ediger",
+   "Dean M. DeLongchamp",
+   "Camille E. Bishop"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "32 pages, 7 figures",
+  "first_author": "Shinian Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2606.09527",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [],
+  "title": "Controlled component segregation in vapor-deposited organic semiconductor glass mixtures",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09560": {
+  "abstract": "A computational scheme, which utilizes neural networks, was developed to predict properties of molecular-based materials from chemical structures. The method uses a set of simple algorithms to encode the structure and composition of organic molecules directly into numerical vectors, which is used as input for neural networks. Backpropagation type neural networks are then used to correlate these numeric inputs with a set of desired properties. Calculated results for a series of hydrocarbons, hydrofluorocarbons, and crown ethers demonstrate average accuracies of 0.2-8.1% with maximum deviations of 16-20% for a broad range of thermodynamic, physical, and physical-chemical characteristics (heat capacity, enthalpy, heat of evaporation, boiling point, density, refractive index, stability constants, etc.). In addition, a number of physical and mechanical properties were estimated for polymeric materials and compared with regression analysis. Based on the neural network capabilities of formulating accurate quantitative structure property relationships, a technique called computational synthesis is suggested for performing materials design.",
+  "authors": [
+   "Andrei A. Gakh",
+   "Bobby G. Sumpter",
+   "Donald W. Noid"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "31 pages, 9 figures",
+  "first_author": "Andrei A. Gakh",
+  "pdf_url": "http://arxiv.org/pdf/2606.09560",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Predicting Physical and Physical-Chemical Properties of Molecular-Based Materials Using Computational Neural Networks",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.09611": {
+  "abstract": "Inspired by the concept of a generalized materials genome, we introduce the notions of lattice gene and lattice genome for crystalline materials. A lattice gene is a compact representation of the local crystalline structure obtained by encoding the Kikuchi diffraction patterns with a variational autoencoder. We show that this representation satisfies key criteria for a materials gene: compactness, experimental accessibility, existence of a distance metric reflecting structural similarity, and sufficient information content for reconstructing the original diffraction patterns. The lattice genome is the spatially resolved collection of lattice genes across a representative area mapped by electron backscatter diffraction (EBSD), which captures mesoscale heterogeneity that ultimately controls properties. We demonstrate three applications of the lattice genome: (i) latent component maps that visualize grain-scale and intra-grain heterogeneities, (ii) domain segmentation based on distance and angle metrics in the latent space, and (iii) kernel and domain latent vector spreads that quantify intragranular heterogeneity as high-dimensional analogs of kernel average misorientation and grain orientation spread. All three tools are validated on microstructures of additively manufactured and wrought Ni-base superalloys in as-built and recrystallized conditions.",
+  "authors": [
+   "Jiayang Wang",
+   "Mathieu Calvat",
+   "J. C. Stinville",
+   "Marat I. Latypov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiayang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.09611",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-08",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "Lattice genome: representation and analysis of heterogeneous crystalline microstructures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-08"
  }
 }

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09279.html">Bridging nanoparticle morphology and viscoelastic behavior in epoxy nanocomposites: A coarse-grained simulation-informed constitutive model</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Atiyeh Hentea et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09279">2606.09279</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="composites-90d.html">composites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Runchen Zhou et al.</td>
@@ -62,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14131.html">Intrinsic Resistive Switching in Microtubule-Templated Gold Nanowires for Reconfigurable Nanoelectronics</a></div></td>
 <td>Borja Rodriguez-Barea et al.</td>
 <td><a href="http://arxiv.org/abs/2509.14131">2509.14131</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10154.html">Intertwined Swirling Polarization States in BaTiO$_3$ with Embedded BaZrO$_3$ Nanoregions</a></div></td>
-<td>R. Machado et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10154">2603.10154</a></td>
 </tr>
 </tbody></table>

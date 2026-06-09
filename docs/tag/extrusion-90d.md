@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>extrusion — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <strong>90d</strong> <a href="extrusion-360d.html">360d</a> <a href="extrusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20636.html">Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Ziyue Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20636">2511.20636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09353.html">Interactive 3D visualization of surface roughness predictions in additive manufacturing: A data-driven framework</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Engin Deniz Erkan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09353">2603.09353</a></td>
 </tr>
 </tbody></table>

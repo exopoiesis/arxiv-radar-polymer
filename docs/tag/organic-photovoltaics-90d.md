@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <strong>90d</strong> <a href="organic-photovoltaics-360d.html">360d</a> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05883.html">Additive-Induced Stabilization of the Energetic Landscape of PM6:Y12 Organic Solar Cells</a></div><div class="paper-tags"><a href="crystallinity-90d.html">crystallinity</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>Bekcy Joseph et al.</td>
 <td><a href="http://arxiv.org/abs/2604.05883">2604.05883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.09063.html">A Stable, High-Order Time-Stepping Scheme for the Drift-Diffusion Model in Modern Solar Cell Simulation</a></div></td>
-<td>Jun Du et al.</td>
-<td><a href="http://arxiv.org/abs/2603.09063">2603.09063</a></td>
 </tr>
 </tbody></table>

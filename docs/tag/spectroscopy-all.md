@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">108 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08763.html">Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Mohammad A. Ansari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.08763">2606.08763</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26083.html">Characterizing emergent multi-scale dynamics in colloidal nanoparticle gels</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>

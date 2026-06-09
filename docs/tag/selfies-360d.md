@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>selfies — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <strong>360d</strong> <a href="selfies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22746.html">Phone physics and the Gateway Arch: Fun with friends and physics at the AAPT Winter Meeting in St. Louis</a></div></td>
 <td>David Marasco et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22746">2506.22746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20182.html">Chemical Language Model Linker: blending text and molecules with modular adapters</a></div></td>
-<td>Yifan Deng et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20182">2410.20182</a></td>
 </tr>
 </tbody></table>

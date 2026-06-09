@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07817.html">Nonspherical gas bubble dynamics in viscoelastic soft materials</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Sawyer Remillard et al.</td>
+<td><a href="http://arxiv.org/abs/2606.07817">2606.07817</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.04331.html">Effect of cations on van der Waals interactions between particles in aqueous alkali nitrate electrolytes</a></div></td>
 <td>Micah P. Prange et al.</td>
@@ -62,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
 <td>Kichitaro Nakajima et al.</td>
 <td><a href="http://arxiv.org/abs/2605.11660">2605.11660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="glass-transition-30d.html">glass-transition</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymerization-30d.html">polymerization</a></div></td>
-<td>Mohammad Tanver Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09279.html">Bridging nanoparticle morphology and viscoelastic behavior in epoxy nanocomposites: A coarse-grained simulation-informed constitutive model</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
+<td>Atiyeh Hentea et al.</td>
+<td><a href="http://arxiv.org/abs/2606.09279">2606.09279</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08801.html">Fluctuation-stable generalized entropy probes of spectral heterogeneity</a></div></td>
+<td>Arpita Goswami</td>
+<td><a href="http://arxiv.org/abs/2606.08801">2606.08801</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.05541.html">Methods for Inferring Interaction Potentials from Cross-Linking Mass Spectrometry Data</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
@@ -992,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17170.html">Partition function for several Ising model interface structures</a></div></td>
 <td>Alessio Squarcini et al.</td>
 <td><a href="http://arxiv.org/abs/2506.17170">2506.17170</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12276.html">Chirality across scales in tissue dynamics</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Sihan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.12276">2506.12276</a></td>
 </tr>
 </tbody></table>
