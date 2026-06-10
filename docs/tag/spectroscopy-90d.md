@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>spectroscopy — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11776.html">Phase Separation in Heritage Objects Made of Plasticised PVC: the Case of Joseph Beuys Multiples</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Marwa Saad et al.</td>
 <td><a href="http://arxiv.org/abs/2603.11776">2603.11776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11366.html">Gelation dynamics of charged colloidal rods: critical behaviour and time-connectivity superposition principle</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Lise Morlet-Decarnin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11366">2603.11366</a></td>
 </tr>
 </tbody></table>

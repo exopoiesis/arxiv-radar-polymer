@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16925.html">Gaussian Process Regression-based Knowledge Distillation Framework for Simultaneous Prediction of Physical and Mechanical Properties of Epoxy Polymers</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Sindu B. S. et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16925">2603.16925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.05362.html">Automated High-Throughput Screening of Polymers Using a Computational Workflow</a></div></td>
-<td>Lois Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2603.05362">2603.05362</a></td>
 </tr>
 </tbody></table>

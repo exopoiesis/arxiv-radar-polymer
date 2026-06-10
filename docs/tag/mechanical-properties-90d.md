@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">134 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,17 +806,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16925.html">Gaussian Process Regression-based Knowledge Distillation Framework for Simultaneous Prediction of Physical and Mechanical Properties of Epoxy Polymers</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
 <td>Sindu B. S. et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16925">2603.16925</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10741.html">Efficient Fine-Scale Simulation of Nonlinear Hyperelastic Lattice Structures</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>Clément Guillet et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10741">2603.10741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11366.html">Gelation dynamics of charged colloidal rods: critical behaviour and time-connectivity superposition principle</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Lise Morlet-Decarnin et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11366">2603.11366</a></td>
 </tr>
 </tbody></table>

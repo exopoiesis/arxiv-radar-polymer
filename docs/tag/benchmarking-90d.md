@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12081.html">Direct Boltzmann inversion method from particle configurations at arbitrary state points</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Olivier Coquand et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12081">2603.12081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10782.html">Phase-Interface Instance Segmentation as a Visual Sensor for Laboratory Process Monitoring</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Mingyue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10782">2603.10782</a></td>
 </tr>
 </tbody></table>

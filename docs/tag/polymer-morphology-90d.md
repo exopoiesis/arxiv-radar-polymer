@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12124.html">Arrested coalescence drives helical coiling and networking of filamentous smectic condensates</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Christopher A. Browne et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12124">2603.12124</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.06897.html">Correlations Between the Dielectric Properties, Domain Structure Morphology and Phase State of Bi1-xSmxFeO3 Nanoparticles</a></div><div class="paper-tags"><a href="dielectric-properties-90d.html">dielectric-properties</a></div></td>
-<td>Oleksandr S. Pylypchuk et al.</td>
-<td><a href="http://arxiv.org/abs/2603.06897">2603.06897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10472.html">Microstructural Characterization of Nb3Sn Thin Films Using FIB Tomography</a></div></td>
-<td>Eric Viklund et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10472">2603.10472</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,23 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12124.html">Arrested coalescence drives helical coiling and networking of filamentous smectic condensates</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Christopher A. Browne et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12124">2603.12124</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.08573.html">Evolution and formation of ultramassive white dwarf stars: The case for a 9Msun progenitor</a></div></td>
-<td>Ana S. R. Antonini et al.</td>
-<td><a href="http://arxiv.org/abs/2603.08573">2603.08573</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10782.html">Phase-Interface Instance Segmentation as a Visual Sensor for Laboratory Process Monitoring</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Mingyue Li et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10782">2603.10782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.10923.html">Long-time dynamics of a bulk-surface convective Cahn--Hilliard system: Pullback attractors and convergence to equilibrium</a></div></td>
-<td>Patrik Knopf et al.</td>
-<td><a href="http://arxiv.org/abs/2603.10923">2603.10923</a></td>
 </tr>
 </tbody></table>

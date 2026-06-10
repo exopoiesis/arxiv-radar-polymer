@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>nanocomposites — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <strong>90d</strong> <a href="nanocomposites-360d.html">360d</a> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15181.html">A biomimetic feedback loop for sustaining self-lubrication and wear resistance</a></div></td>
 <td>Fuyan Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15181">2603.15181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.14131.html">Intrinsic Resistive Switching in Microtubule-Templated Gold Nanowires for Reconfigurable Nanoelectronics</a></div></td>
-<td>Borja Rodriguez-Barea et al.</td>
-<td><a href="http://arxiv.org/abs/2509.14131">2509.14131</a></td>
 </tr>
 </tbody></table>
