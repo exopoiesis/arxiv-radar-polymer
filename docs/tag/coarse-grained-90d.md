@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17048.html">Dopant-induced stabilization of three-dimensional charge order in cuprates</a></div></td>
 <td>Zheting Jin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17048">2507.17048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11450.html">Time irreversibility and entropy production in non-Hermitian Model A field theories</a></div></td>
-<td>Matthias Carosi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11450">2603.11450</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12081.html">Direct Boltzmann inversion method from particle configurations at arbitrary state points</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Olivier Coquand et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12081">2603.12081</a></td>
 </tr>
 </tbody></table>

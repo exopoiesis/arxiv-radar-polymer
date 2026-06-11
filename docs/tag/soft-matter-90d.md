@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>soft-matter — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <strong>90d</strong> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,23 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14677.html">Stochastic Collision Theory of Magnetism in Radical Fluids</a></div></td>
 <td>Yoshiaki Uchida et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14677">2603.14677</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04546.html">A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Akash K. Meel et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04546">2512.04546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11732.html">Scaling Laws and Paradoxical Metastable States in Nanofilament Entropic Separation</a></div></td>
-<td>Jose M. G. Vilar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11732">2603.11732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12410.html">Recent Computational Advances in Dense Suspension Mechanics</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Orhun Ayar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12410">2603.12410</a></td>
 </tr>
 </tbody></table>

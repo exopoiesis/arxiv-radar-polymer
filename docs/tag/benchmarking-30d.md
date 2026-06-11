@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
+<td>Shengli Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11574">2606.11574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="rheology-30d.html">rheology</a></div></td>
+<td>Shuqi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12308">2606.12308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10255.html">POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET</a></div></td>
+<td>Jonathan Schwartz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10255">2606.10255</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07146.html">Decision-Aware Evaluation of Physics-Informed Surrogates</a></div></td>
@@ -134,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12125.html">Following the thread: surface and bulk solvent migration in silicone elastomers from local volumetric swelling</a></div></td>
 <td>Chenzhuo Li et al.</td>
 <td><a href="http://arxiv.org/abs/2605.12125">2605.12125</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10327.html">SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Sean Feeney et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10327">2605.10327</a></td>
 </tr>
 </tbody></table>

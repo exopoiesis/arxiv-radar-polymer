@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td>Shuqi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12308">2606.12308</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07817.html">Nonspherical gas bubble dynamics in viscoelastic soft materials</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Sawyer Remillard et al.</td>
@@ -236,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16804.html">Visualizing shear-induced structures in carbon black gels by tomo-rheoscopy</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="saxs-90d.html">saxs</a></div></td>
 <td>Julien Bauland et al.</td>
 <td><a href="http://arxiv.org/abs/2603.16804">2603.16804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12410.html">Recent Computational Advances in Dense Suspension Mechanics</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
-<td>Orhun Ayar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12410">2603.12410</a></td>
 </tr>
 </tbody></table>

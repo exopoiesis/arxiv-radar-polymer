@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10444.html">One-Step Self-Organized Multifunctional Micromotors via Evaporative Liquid-Liquid Phase Separation</a></div></td>
+<td>Senthan Pugalneelam Parameswaran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10444">2606.10444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10812.html">Majorana fermions at self-generated interfaces</a></div></td>
+<td>Nikola Prodanov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10812">2606.10812</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -134,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14516.html">A Brownian dynamics study of liquid-liquid phase separation in multi-scale chromatin networks</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Léa Beaulès et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14516">2605.14516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.10327.html">SCALAR: A Neurosymbolic Framework for Automated Conjecture and Reasoning in Quantum Circuit Analysis</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Sean Feeney et al.</td>
-<td><a href="http://arxiv.org/abs/2605.10327">2605.10327</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10821.html">Continuous and discontinuous transitions in the Ising-Heisenberg model on the extended Lieb lattice in a magnetic field</a></div></td>
+<td>David Sivy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10821">2606.10821</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08763.html">Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
@@ -188,17 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14555.html">Retrieval of multiple fibre orientations using X-ray dark-field signal modelling</a></div></td>
 <td>Lorenzo Massimi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14555">2603.14555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12081.html">Direct Boltzmann inversion method from particle configurations at arbitrary state points</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Olivier Coquand et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12081">2603.12081</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12334.html">Quantum algorithms for compact polymer thermodynamics</a></div></td>
-<td>Davide Rattacaso et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12334">2603.12334</a></td>
 </tr>
 </tbody></table>

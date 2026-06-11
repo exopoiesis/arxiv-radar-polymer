@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14569.html">Atomistic modeling of the hygromechanical properties of amorphous Polyamide 6,6</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Karim Gadelrab et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14569">2603.14569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04546.html">A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
-<td>Akash K. Meel et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04546">2512.04546</a></td>
 </tr>
 </tbody></table>

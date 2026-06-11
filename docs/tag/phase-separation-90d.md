@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10444.html">One-Step Self-Organized Multifunctional Micromotors via Evaporative Liquid-Liquid Phase Separation</a></div></td>
+<td>Senthan Pugalneelam Parameswaran et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10444">2606.10444</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10812.html">Majorana fermions at self-generated interfaces</a></div></td>
+<td>Nikola Prodanov et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10812">2606.10812</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Minaam Qamar et al.</td>
@@ -536,17 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12534.html">Polymer-Residue Accessibility Shapes Sequence Dependence of Critical Temperatures for Phase Separation</a></div></td>
 <td>J. Pedro de Souza et al.</td>
 <td><a href="http://arxiv.org/abs/2603.12534">2603.12534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.11776.html">Phase Separation in Heritage Objects Made of Plasticised PVC: the Case of Joseph Beuys Multiples</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Marwa Saad et al.</td>
-<td><a href="http://arxiv.org/abs/2603.11776">2603.11776</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12124.html">Arrested coalescence drives helical coiling and networking of filamentous smectic condensates</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Christopher A. Browne et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12124">2603.12124</a></td>
 </tr>
 </tbody></table>

@@ -1086,5 +1086,397 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-06-08"
+ },
+ "2606.10145": {
+  "abstract": "Active particles from bacteria to synthetic microswimmers often navigate viscoelastic media with complex relaxation dynamics. The classical active Brownian model that assumes instantaneous friction is clearly not applicable to describe such motility, while the non-Markovian processes combined with viscoelasticity are relatively unexplored. Here, we develop an analytical theory for an active particle in a power-law viscoelastic medium by solving coupled non-Markovian generalized Langevin equations for translational and rotational degrees of freedom. The viscoelastic memory results in novel phenomena such as fractional short-time transport, enhanced long-time persistence, and de-correlation of the instantaneous force and the swimmer orientation. We demonstrate that the memory kernel controls the anomalous scaling exponents, while the activity determines the crossover between sub-diffusive, ballistic and diffusive regimes. Our work provides a framework for theoretical description of biological and synthetic micro swimmers in complex biological and polymeric environments.",
+  "authors": [
+   "Mintu Karmakar",
+   "Jure Dobnikar",
+   "Ignacio Pagonabarraga"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Mintu Karmakar",
+  "pdf_url": "http://arxiv.org/pdf/2606.10145",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Beyond the Markovian limit: Exact solutions for active motion in a power-law viscoelastic bath",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10227": {
+  "abstract": "Metal additive manufacturing enables the fabrication of complex parts, but achieving consistent build quality remains challenging due to interactions induced by repeated layer-wise melting, solidification, and reheating across the 3D build. Advanced sensing provide a great opportunity to collect rich observations of the actual manufacturing process for real-time quality monitoring and control. Yet, existing methods often have limited ability to represent multi-layer interactions and quantify their contributions to quality. In this paper, we develop a novel spatiotemporal graph transformer for modeling 3D neighborhood interactions and learn their effects on build quality in metal additive manufacturing. Specifically, we first introduce a weighted network representation of the manufacturing process, where fusing locations are modeled as nodes, and their spatial- and process-dependent relationships are encoded as edge weights. This representation also enables the integration of multimodal data (e.g., geometric design, process settings, and in-situ sensing data) into a unified structure for downstream learning tasks. Building on this network, we further design a dual-attention graph transformer that captures both within-node feature dependencies and cross-node neighborhood interactions for quality representation learning. Experimental results show that the proposed framework significantly outperforms image-based, sequence-based, and graph-based models in characterizing process-quality relationships. More importantly, the incorporation of cross-layer interactions is critical for improving quality prediction performance. This framework is broadly applicable to other tasks involving network modeling and graph-based representation learning.",
+  "authors": [
+   "Joyce Karen Pelaez",
+   "Siqi Zhang",
+   "Hoo Sang Ko"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "Submitted to Journal of Intelligent Manufacturing, 23 pages, 10 figures, 2 tables",
+  "first_author": "Joyce Karen Pelaez",
+  "pdf_url": "http://arxiv.org/pdf/2606.10227",
+  "primary_category": "cs.LG",
+  "published": "2026-06-08",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Spatiotemporal Graph Transformer for 3D Neighborhood Interaction and Quality Prediction in Metal Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10255": {
+  "abstract": "Cryo-electron tomography (cryoET) has emerged as a powerful tool in structural and cellular biology by enabling direct visualization of macromolecular structures within intact cells, thereby linking molecular architecture to cellular organization in a native context. Realizing the full potential of cryoET, however, increasingly depends on advances in computational analysis, particularly machine learning (ML), to interpret its complex and information-rich data. Despite rapid progress, ML development for cryoET remains bottlenecked by the lack of standardized, well-annotated benchmarks. Existing evaluations are typically small, task-specific, and are assembled in isolation, limiting robust comparisons across methods. Here, we present POPSICLE, a benchmark suite for cryoET segmentation and macromolecular localization built from the CryoET Data Portal - an open, ML-ready repository of tomographic data, metadata, and annotations. POPSICLE spans eukaryotic and prokaryotic systems, both purified and fully in situ samples, and dense voxel-wise segmentation as well as sparse localization tasks. Built on a living data resource, it can expand as new datasets and annotations become available. Baseline experiments reveal substantial variation in model rankings across tasks, underscoring the need for benchmarks tailored to the unique characteristics of cryoET rather than evaluation practices adapted from adjacent biomedical imaging domains. POPSICLE thus provides an open and extensible foundation for reproducible ML evaluation in cryoET.",
+  "authors": [
+   "Jonathan Schwartz",
+   "Utz Heinrich Ermel",
+   "C. Braxton Owens",
+   "Zhuowen Zhao",
+   "Ariana Peck",
+   "Gus L. W. Hart",
+   "Grant J. Jensen",
+   "Bridget Carragher",
+   "Dari Kimanius"
+  ],
+  "categories": [
+   "eess.IV",
+   "cs.CV",
+   "cs.DL",
+   "cs.LG",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Jonathan Schwartz",
+  "pdf_url": "http://arxiv.org/pdf/2606.10255",
+  "primary_category": "eess.IV",
+  "published": "2026-06-08",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-08"
+ },
+ "2606.10268": {
+  "abstract": "Microscale locomotion in Newtonian fluids is constrained by kinematic reversibility. Here we show that viscoelasticity provides a distinct route: an achiral fore-aft asymmetric body rotating in a viscoelastic fluid generates net translation through normal-stress-driven secondary flows. Direct numerical simulations combined with scaling analysis reveal the universal scaling law, $V\\sim {\\rm Wi}\\cdot S$, where $\\rm Wi$ is the Weissenberg number and $S$ is the skewness of the axial volume distribution. This result identifies a minimal geometric principle for rotation-induced propulsion in viscoelastic fluids, and suggests a route for active microrheology via propulsion-speed measurements.",
+  "authors": [
+   "Takuya Kobayashi",
+   "Hiroki Kitano",
+   "Ryoichi Yamamoto"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "6 pages, 4 figures",
+  "first_author": "Takuya Kobayashi",
+  "pdf_url": "http://arxiv.org/pdf/2606.10268",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Rotation-to-translation conversion by geometric asymmetry in viscoelastic fluids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10352": {
+  "abstract": "In a polycrystalline microstructure, orientation and dislocation content vary smoothly within grains, and the grain boundaries between them are continuous curves. Electron backscatter diffraction (EBSD) records this continuum on a discrete grid with every subsequent analysis (from indexing to advanced pattern processing) confined to that grid. We introduce neural EBSD, which treats an EBSD scan as a continuous, differentiable four-dimensional field of Kikuchi diffraction intensity (in specimen--detector domain) and then represents it with a coordinate-based neural network. We develop and compare two formulations: a joint formulation that maps all four coordinates to intensity, and a factorized formulation that combines continuous specimen-domain coefficient fields with learned detector-domain basis patterns. Tested on recrystallized and additively manufactured Inconel 718, the factorized formulation shows better accuracy in reconstructing Kikuchi patterns that have map-averaged errors below 1% of the maximum intensity. Beyond reconstruction, it provides full-pattern super-resolution in the specimen frame, continuous querying along arbitrary off-grid paths, as well as spatially continuous boundary and heterogeneity localization from analytical spatial derivatives. Storing the network weights and learned bases in place of the raw patterns in a large dataset offers a 700-fold compression while preserving on-demand access to the full patterns for downstream analyses.",
+  "authors": [
+   "I-Tzu Huang",
+   "Marat I. Latypov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "I-Tzu Huang",
+  "pdf_url": "http://arxiv.org/pdf/2606.10352",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-09",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Neural electron backscatter diffraction",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10444": {
+  "abstract": "Active microcarriers capable of transporting multiple functional components and navigating complex environments are highly desirable for biomedical applications, yet their fabrication typically requires complex multistep processes. Here we show that evaporation-induced liquid-liquid phase separation in all aqueous polymer and protein mixtures provides a simple one-step route to multifunctional micromotors. During droplet evaporation, micron-sized condensates spontaneously form and encapsulate enzymes, nanoparticles, and drugs. Evaporation-induced Marangoni flows and interfacial adsorption generate asymmetric internal self-organization of nanoparticles, producing Janus-like architectures and spontaneously emergent shape anisotropy without the need for patterned fabrication. Dual functionality with internal magnetic anisotropy allowed catalytic propulsion steered by magnetic torque, enabling directional motion even in homogeneous environments. Thus, we present a versatile platform for the one-step construction of biocompatible, multifunctional micromotors with internally asymmetric architectures.",
+  "authors": [
+   "Senthan Pugalneelam Parameswaran",
+   "Akshay Sidhi",
+   "Ambareesh Shrivastav",
+   "Dibyendu Das",
+   "Tapan Chandra Adhyapak",
+   "Dileep Mampallil"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Senthan Pugalneelam Parameswaran",
+  "pdf_url": "http://arxiv.org/pdf/2606.10444",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-09",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "One-Step Self-Organized Multifunctional Micromotors via Evaporative Liquid-Liquid Phase Separation",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10801": {
+  "abstract": "We formulate a nonlinear geometric theory of visco-anelasticity that unifies viscoelastic and anelastic responses within a single thermodynamic framework. At each material point, the total deformation gradient is multiplicatively decomposed into elastic, viscous, and anelastic distortions, thereby generalizing the Bilby-Kröner-Lee decomposition to visco-anelasticity. The theory explicitly incorporates the material metric, which encodes the evolving natural configuration of the solid, the transformed structural tensors, and provides a consistent formulation of the constitutive equations, the balance laws, the thermodynamic potentials, and the kinetic equations. The first and second laws of thermodynamics are systematically applied to derive the constitutive and evolution equations without invoking observer invariance. Anisotropy is treated in full generality through structural tensors. As illustrative examples, we specialize the general framework to isotropic and transversely isotropic visco-anelastic solids. Two examples within the class of universal deformations, which admit closed or partially closed form solutions, show how the proposed framework can be used to model the coupled viscous and anelastic response of incompressible anisotropic solids with distributed eigenstrains and the associated residual stresses. This geometric framework unifies nonlinear viscoelasticity and anelasticity by coupling time-dependent and eigenstrain-driven effects within a single, fully consistent geometric formulation. In particular, the proposed framework clarifies the geometric structure of the elastic, viscous, and anelastic distortions and resolves ambiguities associated with intermediate configurations in existing formulations of nonlinear viscoelasticity and viscoplasticity.",
+  "authors": [
+   "Souhayl Sadik",
+   "Arash Yavari"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Souhayl Sadik",
+  "pdf_url": "http://arxiv.org/pdf/2606.10801",
+  "primary_category": "math-ph",
+  "published": "2026-06-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Nonlinear Anisotropic Visco-Anelasticity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10812": {
+  "abstract": "The Kitaev model describing a one-dimensional topological superconducting chain is known to support two Majorana fermions localized at the systems endpoints when the parameters are tuned to the topological phase. In this work, we investigate the possibility that Majorana fermions may also emerge away from the physical boundaries of the chain. To this purpose, we generalize the Kitaev model by incorporating a local coupling between the electronic density and a classical elastic (lattice) field. This electron-lattice interaction can induce phase separation between superconducting regions characterized by distinct topological invariants, thereby generating internal interfaces that host Majorana bound states. Under these conditions, a dilute gas of Majorana fermions can be realized in the bulk of the system.",
+  "authors": [
+   "Nikola Prodanov",
+   "Sergio Ciuchi",
+   "Sergio Caprara"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "10 pages, 8 figures",
+  "first_author": "Nikola Prodanov",
+  "pdf_url": "http://arxiv.org/pdf/2606.10812",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-09",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Majorana fermions at self-generated interfaces",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.10821": {
+  "abstract": "The spin-1/2 Ising-Heisenberg model on the extended Lieb lattice in a magnetic field is exactly mapped onto an effective spin-1/2 Ising model on the square lattice. The ground-state phase diagram comprises the quantum antiferromagnetic (QAF), quantum monomer-dimer (MD), classical ferrimagnetic (FRI), and classical ferromagnetic phase. The MD-FRI ground-state phase boundary extends to finite temperatures as a dome-shaped surface of discontinuous thermal transitions bounded by a line of Ising critical points. The QAF phase is enclosed by a surface of continuous thermal transitions evolving from the QAF-MD and QAF-FRI ground-state phase boundaries. Monte Carlo simulations fully confirm the existence and nature of both continuous and discontinuous thermal phase transitions obtained by exact and approximate analytical calculations.",
+  "authors": [
+   "David Sivy",
+   "Jozef Strecka"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "22 pages, 8 figures, submission to SciPost Physics Core journal",
+  "first_author": "David Sivy",
+  "pdf_url": "http://arxiv.org/pdf/2606.10821",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-09",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Continuous and discontinuous transitions in the Ising-Heisenberg model on the extended Lieb lattice in a magnetic field",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11041": {
+  "abstract": "The physics of polymer chains is often probed using molecular stretching experiments and various idealized single-chain models. The majority of these models consist of a discrete sequence of links, which may be treated as rigid or extensible. Although such models are well established and many specific extensible variants have been proposed, no generally applicable theory has been presented. Moreover, most existing treatments are heuristic rather than systematically and rigorously derived. This critical gap is closed here through the development of a generally applicable asymptotic theory for including link extensibility in a broad class of discrete models for single-chain thermodynamics. The theory is verified analytically using the freely jointed chain and validated numerically using the freely rotating chain. The resulting approximation is first-order accurate in inverse link stiffness, with quadratically decreasing error, and recovers extensible behavior across all link stiffnesses from a single rigid-link reference calculation.",
+  "authors": [
+   "Michael R. Buche",
+   "Matthew J. Grasinger",
+   "Jason P. Mulderrig"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Michael R. Buche",
+  "pdf_url": "http://arxiv.org/pdf/2606.11041",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "Extensible links in a broad class of single polymer chain models",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.11574": {
+  "abstract": "In many materials and product design problems, desirable candidates exhibit properties that fall within an acceptable range rather than achieve a single optimum. Recovering multiple, distinct solutions that satisfy such specifications is also practically valuable, as some candidates may be preferred for reasons of cost, processability, or robustness that are difficult to encode directly in an objective function. Here, we develop a range-aware Bayesian optimization (BO) framework in which the acquisition function directly scores the posterior probability that a candidate satisfies a target range. The framework naturally extends to parallel pursuit of multiple distinct specifications over a shared candidate space. Across benchmark tasks, range-aware acquisition consistently recovers larger and more diverse sets of valid designs than standard BO baselines and recent goal-seeking methods. Its utility is further demonstrated in two practically motivated design case studies involving optimizing reaction conditions for polymer synthesis and sequence-defined oligomer discovery for prescribed optical absorption bands, supported by quantum chemical calculations. These results suggest that range-aware BO can provide a practical and sample-efficient foundation for specification-driven design, particularly when design flexibility and solution diversity are important considerations.",
+  "authors": [
+   "Shengli Jiang",
+   "Jason Wu",
+   "Charles M. Schroeder",
+   "Michael A. Webb"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "physics.chem-ph",
+   "stat.ML"
+  ],
+  "comment": "64 pages, 6 main text figures, 17 supporting figures, 6 supporting tables",
+  "first_author": "Shengli Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2606.11574",
+  "primary_category": "cs.LG",
+  "published": "2026-06-10",
+  "tags": [
+   "bayesian-optimization",
+   "benchmarking"
+  ],
+  "title": "Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows",
+  "topics": [
+   "Generative Design & Inverse Design",
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.11651": {
+  "abstract": "Synthetic random heteropolymers (RHPs), consisting of a predefined set of monomers, offer an approach toward the design of protein-like materials. These RHPs, if designed appropriately, can mimic protein behavior and function. As such, there is a need for computational tools to efficiently guide RHP design. We bridge this gap by developing DeepRHP, a modified variational autoencoder (VAE) model under a semi-supervised framework. By equipping a classical VAE with an additional feature-based VAE, DeepRHP forces the latent space to capture structures of critical chemical features as well as individual RHP sequence patterns. In this sense, our method is versatile by allowing any relevant features to be incorporated in a hybrid manner. We demonstrate the effectiveness of DeepRHP by suggesting potential monomer compositions that stabilize membrane proteins (e.g. Aquaporin Z) in non-native environments and cross-validating our prediction with published results. The concordance between our model and true RHP function suggests strong potential in utilizing hybrid autoencoder architectures to guide RHP design for proteins and other biological compounds.",
+  "authors": [
+   "Shuni Li",
+   "Zhiyuan Ruan",
+   "Andy Shen",
+   "Ivan Jayapurna",
+   "Ting Xu",
+   "Haiyan Huang"
+  ],
+  "categories": [
+   "cs.LG",
+   "q-bio.QM",
+   "stat.AP"
+  ],
+  "comment": "Oral presentation at AAAI 2023 Workshop on AI to Accelerate Science and Engineering",
+  "first_author": "Shuni Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.11651",
+  "primary_category": "cs.LG",
+  "published": "2026-06-10",
+  "tags": [
+   "generative-model"
+  ],
+  "title": "DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropolymers as Protein Mimics",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12113": {
+  "abstract": "Transformer-based language models for SMILES strings suffer from a locality gap: standard character-level tokenization fragments chemically meaningful motifs, forcing models to repeatedly learn local syntax at the expense of long-range dependencies. To address this without disrupting standard tokenizers, we propose MolGram, which integrates a conditional $n$-gram memory module into molecular language models. MolGram maps local string patterns to learned embeddings via scalable hash lookups and dynamically injects this regional context into hidden states. Evaluations across three tasks, including unconditional molecule generation, forward reaction prediction, and single-step retrosynthesis, show that MolGram consistently improves performance. Crucially, our analyses demonstrate that MolGram outperforms baselines with 3$\\times$ more parameters, establishing explicit local pattern memory as a highly efficient inductive bias.",
+  "authors": [
+   "Xinni Zhang",
+   "Zijing Liu",
+   "He Cao",
+   "Yu Li",
+   "Irwin King"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Xinni Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.12113",
+  "primary_category": "cs.CL",
+  "published": "2026-06-10",
+  "tags": [],
+  "title": "Augmenting Molecular Language Models with Local $n$-gram Memory",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12302": {
+  "abstract": "This study investigated how additively manufactured nozzles with body-centered cubic lattice structures reduce the flame flashback propensity in a hydrogen jet flame burner. Five different configurations of a jet flame combustor were investigated, with a focus on mixing duct walls incorporating porous media. The nozzles were manufactured by the powder bed fusion of metals using a laser beam process. The lattice parameters were varied by the volume fraction and the strut diameter. For the experiments, pure hydrogen was used as fuel under atmospheric conditions at various equivalence ratios and Reynolds numbers of 9,000 - 12,000. Flow field measurements, flame imaging, and spectral proper orthogonal decomposition of the flame dynamics were employed to identify possible transition mechanisms from a stable operation to flashback. The flow fields and the flame shapes showed only minor effects from wall modifications, preserving general flow characteristics across configurations. The flow dynamics in the combustion chamber were dominated by large-scale coherent structures in the shear layer, specifically Kelvin-Helmholtz instabilities. The results demonstrated that the nozzle with the coarsest porous wall structure significantly improved the flashback resistance compared to a nozzle with a solid wall. It is concluded that the primary mitigation mechanism was a cooling effect by unburnt mixture flowing through the porous media. The findings confirmed that the integration of lattice structures through additive manufacturing provides a viable strategy for hydrogen flashback mitigation by manipulating the coupled interaction between the flame and the thermal conditions of the wall.",
+  "authors": [
+   "Alexander Jaeschke",
+   "Thomas Ludwig Kaiser",
+   "Lukas Melzig",
+   "Michael F. Zaeh",
+   "Kilian Oberleithner",
+   "Christian Oliver Paschereit"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Alexander Jaeschke",
+  "pdf_url": "http://arxiv.org/pdf/2606.12302",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-10",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Effect of Additively Manufactured Wall Lattice Structures on Flashback Limits in a Hydrogen Jet Flame Combustor",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12308": {
+  "abstract": "Laser-induced forward transfer (LIFT) is a nozzle-free laser-assisted printing method that provides an advanced manufacturing route for spatially selective deposition of functional inks, nanoparticle suspensions, polymers, hydrogels, biological materials, and other difficult-to-nozzle formulations. The apparent simplicity of LIFT, however, conceals a strongly coupled laser-liquid interaction. Laser energy is absorbed within a confined donor architecture, converted into thermal and plasma responses, and then transformed into bubble-mediated motion of the donor material. The cavitation bubble provides the transient mechanical bridge between optical energy deposition and the hydrodynamic ejection process. This chapter presents LIFT from a multiscale perspective centered on bubble dynamics and material ejection. It first reviews major LIFT donor architectures. Then, it examines how donor ribbon design, absorbing-layer properties, laser parameters, material rheology, control bubble inception/growth, jet formation, droplet breakup, and final deposition. Modeling approaches are discussed as tools for connecting experimental observations across time and length scales, ranging from reduced-order estimates to interface-resolving simulations and data-driven process maps. As one illustrative mechanistic example, thermal-only, plasma-mediated, and coupled plasma-thermal-thermoelastic frameworks for early-stage bubble inception are briefly compared to show how different inception assumptions can provide initial conditions for downstream bubble growth and jetting models. This chapter concludes by identifying opportunities for bubble-aware donor design, time-resolved diagnostics, benchmark datasets, and predictive LIFT process maps based on intermediate bubble and jet observables.",
+  "authors": [
+   "Shuqi Zhou",
+   "Abdol Hadi Mokarizadeh",
+   "Ben Xu"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Shuqi Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2606.12308",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-10",
+  "tags": [
+   "benchmarking",
+   "hydrogels",
+   "rheology"
+  ],
+  "title": "Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-10"
  }
 }

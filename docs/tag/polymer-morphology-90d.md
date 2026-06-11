@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10352.html">Neural electron backscatter diffraction</a></div></td>
+<td>I-Tzu Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10352">2606.10352</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Simon Gonzalez-Zapata et al.</td>
@@ -296,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19713.html">Imprinting Macroscopic Fracture during Gelation: A Mechanism for Tuning Colloidal Gels</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Wilbert J. Smit et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19713">2511.19713</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12124.html">Arrested coalescence drives helical coiling and networking of filamentous smectic condensates</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Christopher A. Browne et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12124">2603.12124</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
+<td>Shengli Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.11574">2606.11574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Shuqi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12308">2606.12308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10255.html">POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET</a></div></td>
+<td>Jonathan Schwartz et al.</td>
+<td><a href="http://arxiv.org/abs/2606.10255">2606.10255</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07146.html">Decision-Aware Evaluation of Physics-Informed Surrogates</a></div></td>
@@ -284,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14477.html">Directed Polymer Transfer Matrices as a Unified Generator of Distinct One-Point Fluctuation Laws</a></div></td>
 <td>Sen Mu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.14477">2603.14477</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.04546.html">A hybrid Green-Kubo (hGK) framework for calculating viscosity from short MD simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
-<td>Akash K. Meel et al.</td>
-<td><a href="http://arxiv.org/abs/2512.04546">2512.04546</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12081.html">Direct Boltzmann inversion method from particle configurations at arbitrary state points</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Olivier Coquand et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12081">2603.12081</a></td>
 </tr>
 </tbody></table>
