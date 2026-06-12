@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Tianyi Chu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Shuqi Zhou et al.</td>
@@ -554,11 +560,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14209.html">Latent Anomaly Detection: Masked VQ-GAN for Unsupervised Segmentation in Medical CBCT</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Pengwei Wang</td>
 <td><a href="http://arxiv.org/abs/2506.14209">2506.14209</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14840.html">MXene triggers high toughness, high strength and low hysteresis hydrogels for printed artificial tissue</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
-<td>Chendong Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14840">2506.14840</a></td>
 </tr>
 </tbody></table>

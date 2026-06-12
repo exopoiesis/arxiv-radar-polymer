@@ -1478,5 +1478,286 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-06-10"
+ },
+ "2606.12695": {
+  "abstract": "Thermoplastic composite structures enable lightweight, recyclable, and high-throughput aerospace manufacturing, but reliable quality assurance of advanced joining processes remains a key challenge. This work presents a compact, low-cost, and wireless ultrasonic non-destructive testing system for real-time, inline monitoring of continuous ultrasonic welding of thermoplastic carbon fiber composites. The system integrates custom-fabricated polymer-based capacitive micromachined ultrasonic transducers (polyCMUTs) with the ultra-low-power WULPUS platform, enabling operation in the harsh, high-interference welding environment. An eight-element linear polyCMUT array operating at a center frequency of approximately 3.6 MHz is designed, fabricated, packaged, and integrated into an industrial welding setup. Inline measurements are performed during welding of carbon fiber laminates with intentionally introduced defects. Process-synchronous ultrasonic data reveal consistent depth-of-echo shifts at defect locations, in strong agreement with X-ray computed tomography ground truth. Across 21 welds, all induced defects are detected without false negatives and with limited false positives. The results demonstrate that polymer-based CMUT technology enables robust, scalable, and manufacturing-compatible ultrasonic sensing, representing a decisive step toward intelligent process monitoring and quality assurance for next-generation thermoplastic composite welding.",
+  "authors": [
+   "Jonas Welsch",
+   "Dominik Goerick",
+   "Martin Angerer",
+   "Jinhao Lu",
+   "Sergei Vostrikov",
+   "Michael Kupke",
+   "Heinz Voggenreiter",
+   "Andrea Cossettini",
+   "Luca Benini",
+   "Edmond Cretu",
+   "Robert Rohling"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "15 pages, 12 Figures",
+  "first_author": "Jonas Welsch",
+  "pdf_url": "http://arxiv.org/pdf/2606.12695",
+  "primary_category": "eess.SY",
+  "published": "2026-06-10",
+  "tags": [
+   "composites"
+  ],
+  "title": "Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12738": {
+  "abstract": "Thermal transport in long polymer molecules is commonly attributed to ballistic propagation of long-wavelength acoustic phonons, which act as Goldstone modes arising from translational symmetry, while the transport of other phonons is suppressed by Anderson localization. This mechanism leads to thermal conductivity that increases with molecular length. Consistent with this picture, strongly aligned polymers exhibit exceptionally high thermal conductivity, whereas poorly aligned polymers are orders of magnitude less conductive and function as thermal insulators. Here we show that this strong sensitivity to molecular alignment originates from phonon scattering by molecular kinks. Even in the long-wavelength limit, the kink scattering remains strong because kinks break translational symmetry both for longitudinal and transverse phonons. As a result, randomly oriented kinks cause a rapid decrease in thermal conductivity with increasing molecular length. These findings identify alignment control by means of kink engineering as a route for tuning thermal transport in polymers.",
+  "authors": [
+   "Igor V. Parshin",
+   "Igor V. Rubtsov",
+   "Alexander L. Burin"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "6 pages, 4 figures, comments and suggestions would be appreciated",
+  "first_author": "Igor V. Parshin",
+  "pdf_url": "http://arxiv.org/pdf/2606.12738",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-10",
+  "tags": [
+   "thermal-conductivity"
+  ],
+  "title": "How alignment controls heat transport in polymer chains with kinks?",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-10"
+ },
+ "2606.12778": {
+  "abstract": "Thermal conductivity in a conductor changes by the application of an external magnetic field, which functions as a magneto-thermal switch. For superconductors, a large magneto-thermal switching can occur through a superconducting-to-normal conducting phase transition due to the change in the electron contribution in thermal conductivity. Arima et al. recently reported a nonvolatile nature of the magneto-thermal switching for superconducting solders, which consist of phase-separated Sn and Pb domains. Although they clarified that magnetic flux trapping is required to induce the nonvolatile magneto-thermal switching, a rule for such material design is still unclear. Here, we investigate the microstructure dependence of magneto-thermal switching in superconducting Sn/Pb multilayered composites, which are created by an accumulative roll bonding method. The thickness of each layer, that is the scale of microstructure, can be systematically controlled by the repetition number of roll bonding while the whole sample size and average composition are unchanged. We find that, as the formation of micro-scaled Sn domains proceeds by increasing the repetition number, a nonvolatility in the magneto-thermal conductivity gradually appears in correlation with the remanent magnetization. This study directly confirms that the inclusions with a size comparable to or less than the magnetic vortex in superconducting matrix is essential for magnetic flux trapping, enabling the nonvolatile magneto-thermal switching in superconducting composites.",
+  "authors": [
+   "Keigo Ito",
+   "Yui Sakamoto",
+   "Hossein Sepehri-Amin",
+   "Yuto Watanabe",
+   "Poonam Rani",
+   "Kumpei Imamura",
+   "Takamasa Hirai",
+   "Keisuke Hirata",
+   "Shunsuke Mori",
+   "Yusuke Nakanishi",
+   "Kenichiro Hashimoto",
+   "Takasada Shibauchi",
+   "Yoshikazu Mizuguchi",
+   "Ken-ichi Uchida",
+   "Fuyuki Ando"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": null,
+  "first_author": "Keigo Ito",
+  "pdf_url": "http://arxiv.org/pdf/2606.12778",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-06-11",
+  "tags": [
+   "composites",
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Revealing nonvolatile behaviors in magneto-thermal switching using microstructure-controlled superconducting composites",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.12786": {
+  "abstract": "This paper focuses on investigating a class of suspension bridge models coupled with the Cattaneo heat conduction law, with special attention paid to two distinct scenarios: systems with viscoelastic memory and those without. Operator semigroup theory is adopted as the core mathematical tool to conduct a comprehensive analysis of the models' dynamic behaviors. For the memoryless suspension bridge system ($δ= 0$), we first establish its well-posedness (i.e., the existence and uniqueness of solutions). Further stability analysis reveals that this system exhibits polynomial decay behavior, where the decay rate depends on the structural parameter relationship of the bridge deck: a decay rate of $t^{-1/2}$ is achieved when $\\frac{ρ_1}κ = \\frac{ρ_2}{b}$, and the rate slows down to $t^{-1/4}$ when $\\frac{ρ_1}κ \\neq \\frac{ρ_2}{b}$. Moreover, exponential stability is proven to be unachievable under specific coefficient configurations (i.e., $χ_0 \\neq 0$, or $χ_0 = 0$ and $χ_1 = 0$, with $χ_0, χ_1$ being parameter-dependent coefficients). For the counterpart system incorporating viscoelastic memory ($δ= 1$), the well-posedness of solutions is also verified, and more importantly, the system is shown to achieve exponential decay. This indicates that viscoelastic memory significantly enhances system stability and accelerates energy dissipation compared to the memoryless case. By systematically exploring the regulatory role of viscoelastic memory in the stability of suspension bridge systems under the framework of Cattaneo thermal conduction, this study enriches and extends the existing research on suspension bridge models with viscoelastic memory.",
+  "authors": [
+   "Jun Zhou",
+   "Jiamin He"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Jun Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2606.12786",
+  "primary_category": "math.AP",
+  "published": "2026-06-11",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.12795": {
+  "abstract": "Proofreading is generally thought to improve accuracy at the expense of speed. We show that this trade-off can be reversed in stochastic processes with long-lived stalled states. Using a non-Markovian renewal framework, we derive exact expressions for the error rate and completion time under proofreading for arbitrary stall-time distributions. Our analysis reveals that fluctuations in stall durations, rather than their mean alone, determine whether proofreading can simultaneously increase speed and accuracy. In the limit of strong stalling, this regime emerges when the coefficient of variation of the stall time exceeds a threshold set by the intrinsic error rate. These results provide a general criterion for proofreading in systems ranging from self-assembly and polymer replication to immune recognition and other nonequilibrium information-processing systems.",
+  "authors": [
+   "Arup Biswas",
+   "L. Mahadevan"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": "14 pages, 6 figures",
+  "first_author": "Arup Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2606.12795",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-11",
+  "tags": [],
+  "title": "When proofreading improves both speed and accuracy",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13117": {
+  "abstract": "Cable bacteria are multicellular bacteria capable of centimeter-scale conduction through a regular fiber network embedded in their cell envelope. The conductivity of these fibers is extremely high for biological materials, and rivals that of the best synthetic conductive polymers, but the underlying electron transport mechanism remains elusive. Recent microscopic and spectroscopic evidence indicates that each fiber embeds a bundle of intertwined nanoribbons as the conductive conduit. Each nanoribbon consists of a one-dimensional nickel-organic framework, built from stacked nickel bis(1,2-dithiolene) oligomers (NiBiD units) as molecular building blocks. Here we performed DFT calculations of nanoribbon model structures, in order to characterize their electronic properties, examine potential stacking configurations and verify whether these structures can support efficient conductance. Our simulations indicate that nanoribbons are comprised of tightly stacked AA or AB-type packings of NiBiD units. In the most energetically stable structure (AB-type) some Ni centers are predicted to be 5-fold coordinated due to formation of an inter-layer Ni-S coordination bond. In several energetically low-lying structures, the electronic coupling between neighboring molecules exceeds the critical threshold for charge delocalization permitting efficient charge transport beyond small polaron hopping. Our results hence reveal that nanoribbons based on NiBiD units exhibit favorable charge transfer properties that may explain the unusually high conductivities measured in the fibers of cable bacteria.",
+  "authors": [
+   "Oliver Russell",
+   "Martijn A. Zwijnenburg",
+   "Filip J. R. Meysman",
+   "Jochen Blumberger"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "42 pages, 5 main figures, 8 supporting figures, 5 supporting tables",
+  "first_author": "Oliver Russell",
+  "pdf_url": "http://arxiv.org/pdf/2606.13117",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-11",
+  "tags": [
+   "conducting-polymers",
+   "spectroscopy"
+  ],
+  "title": "Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13484": {
+  "abstract": "Understanding how microscopic structural dynamics relate to macroscopic mechanical response during yielding remains a central challenge in soft matter physics. Here, we introduce rheo-echo X-ray photon correlation spectroscopy (rheo-echo-XPCS) with nonlinear acquisition synchronized to oscillatory shear, enabling direct measurement of irreversible nanoscale dynamics under strain amplitude control. Applying this to a carbon black colloidal fractal gel, we resolve time-periodic echoes in the vorticity-direction intensity autocorrelation function whose decay encodes non-affine structural rearrangements. We find: (i)~ballistic-like decorrelation with $τ\\propto q^{-1}$ at all strains, where the decorrelation velocity $v_τ= 1/\\langle qτ\\rangle$ scales linearly with the loss tangent $\\tanδ= G''/G'$, establishing $\\tanδ$ as a direct macroscopic signature of the rate of irreversible structural decorrelation; (ii)~functional form continuous evolution from compressed exponential ($α\\simeq 1.5$) at low strain, consistent with three-dimensional dipolar strain fields in the intact network-to stretched exponential ($α\\simeq 0.5$) at high strain, reflecting a dimensional reduction from $d_f = 3$ to $d_f = 1$ as stress transmission shifts from bulk to quasi-one-dimensional filamentary backbones during network fragmentation.",
+  "authors": [
+   "William Chèvremont",
+   "Julien Bauland",
+   "Emmeline Brassac",
+   "Gonzalo Sanchez Vera",
+   "Stefano Aime",
+   "Frédéric Pignon",
+   "Thomas Gibaud"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "William Chèvremont",
+  "pdf_url": "http://arxiv.org/pdf/2606.13484",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-11",
+  "tags": [
+   "soft-matter",
+   "spectroscopy"
+  ],
+  "title": "Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13561": {
+  "abstract": "Thermoelectric cooling efficiency is fundamentally constrained by lattice thermal conductivity, yet conventional inorganic thermoelectrics have approached a performance plateau despite extensive nanostructural engineering. Organic thermoelectrics possess intrinsically low thermal conductivity but often suffer from limited and morphology-sensitive charge transport. Here, we introduce a lone-pair-driven materials design strategy based on chemically induced lattice softness in hybrid organic-inorganic perovskites. A physics-guided symbolic-regression-based machine-learning framework identifies a lone-pair-dominated compositional regime associated with suppressed lattice thermal conductivity and selects GuaPbI3 as a candidate material. Mechanochemical synthesis yields crystalline GuaPbI3 with an ultralow room-temperature thermal conductivity of kappa = 0.088 W m^-1 K^-1. Electrical measurements reveal electronically active, bias-dependent bulk conduction pathways despite strong phonon suppression, while impedance spectroscopy confirms bulk-dominated transport. Density functional theory calculations indicate weakly dispersive valence bands, valence-conduction asymmetry, and localized electrostatic microenvironments from charge redistribution within the lattice. Calculated transport coefficients suggest strong sensitivity of carrier transport to chemical potential, while Lorenz-number analysis indicates deviations from conventional Wiedemann-Franz behavior near the band edges. These results support a picture in which lone-pair-rich hybrid frameworks generate soft and electronically heterogeneous lattice environments that suppress phonon transport while preserving electronically accessible states. This work establishes chemically induced lattice softness as a design principle for ultralow-thermal-conductivity hybrid materials.",
+  "authors": [
+   "Rudra P. Singh",
+   "Shantanu Pathak",
+   "Saswata Bhattacharya",
+   "R Lakshmi Narayan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Rudra P. Singh",
+  "pdf_url": "http://arxiv.org/pdf/2606.13561",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-11",
+  "tags": [
+   "polymer-morphology",
+   "spectroscopy",
+   "thermal-conductivity"
+  ],
+  "title": "Lone-Pair-Induced Lattice Softness Enables Ultralow Thermal Conductivity in Hybrid Organic-Inorganic Perovskite GuaPbI$_3$",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13584": {
+  "abstract": "Mechanical characterization of soft materials at high strain rates is challenging due to their high compliance, nonlinear viscoelastic behavior, and potentially history-dependent responses. Inertial microcavitation rheometry (IMR) addresses this challenge by coupling laser-induced cavitation (LIC) experiments with numerical simulations of bubble dynamics models to infer constitutive models and material parameters. Both IMR and its variants infer parameters that depend on the chosen fitting window, which suggests that a constant-parameter constitutive model is insufficient to describe the full cavitation event. We use this window dependence to identify when the constant-parameter assumption fails, rather than to report a single effective parameter set. The constitutive parameters are estimated over moving, overlapping windows using a modified iterative ensemble Kalman smoother with multiple data assimilation (MIEnKS-MDA). Within the neo-Hookean Kelvin--Voigt (NHKV) constitutive model, we obtain time-resolved estimates of the constitutive response in polyacrylamide (PAAm) hydrogels with different crosslinker concentrations. The inferred shear modulus and viscosity generally decrease and then plateau during cavitation, while exhibiting relatively weak temperature sensitivity. For gelatin gels, by contrast, the inferred property evolution shows a pronounced temperature dependence, with distinct trends at low and high temperatures. Moreover, both the apparent shear modulus and viscosity exhibit significant variations during the first two bubble collapses. These results show that time-resolved parameter estimation within the prescribed NHKV constitutive structure can diagnose where the constant-parameter model assumption falls short during cavitation, thereby guiding the development of improved physics-based models of complex bubble--material interactions.",
+  "authors": [
+   "Tianyi Chu",
+   "Joseph Beckett",
+   "Zhiren Zhu",
+   "Jonathan B. Estrada",
+   "Spencer H. Bryngelson"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Tianyi Chu",
+  "pdf_url": "http://arxiv.org/pdf/2606.13584",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-11",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties"
+  ],
+  "title": "Limits of constant-parameter constitutive models for hydrogels under inertial cavitation",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.13586": {
+  "abstract": "Digital Alchemy (DA), introduced by Van Anders et al., is a statistical mechanics-based generalized thermodynamic ensemble method that employs computer simulations to optimize colloidal particle design. This approach applies the principles of statistical mechanics to predict and tailor particle attributes that lead to desired self-assembled structures or material properties. However, as an inverse design method, its main limitation is that the target structure must be known \\textit{a priori}. Therefore, the optimal design from DA does not guarantee the targeted structure is the most or the only stable one. This highlights the importance of forward design with an exploratory scheme for optimizing novel colloid designs, which becomes more suitable in such cases. In this paper, we introduce Exploratory Digital Alchemy (EDA), an enhanced forward design scheme that begins by releasing the constraint of the target crystal from DA, followed by an exploration-oriented bias that has been extensively used in enhanced sampling methods such as metadynamics (MetaD). We demonstrate the utility of EDA through examples involving particles interacting via a two-dimensional Lennard-Jones Gauss potential (LJGP) and a three-dimensional oscillating pair potential (OPP). We applied EDA to study the free energy landscapes given different potential parameters of LJGP at different temperatures. With the exploratory scheme, we've also successfully identified a wide range of OPP potential parameters that stabilize metastable Frank-Kasper phases. Our approach fuses the standard DA framework with metadynamics, which could potentially be useful for studying alchemical reactions in a generalized ensemble.",
+  "authors": [
+   " Shih-Kuang",
+   " Lee",
+   "Sun-Ting Tsai",
+   "Sharon C. Glotzer"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": "12 pages, 5 figures",
+  "first_author": " Shih-Kuang",
+  "pdf_url": "http://arxiv.org/pdf/2606.13586",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-11",
+  "tags": [
+   "enhanced-sampling",
+   "inverse-design"
+  ],
+  "title": "Exploratory digital alchemy for colloidal crystal discovery",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-11"
  }
 }

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
+<td>Oliver Russell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13484.html">Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
+<td>William Chèvremont et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13484">2606.13484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13561.html">Lone-Pair-Induced Lattice Softness Enables Ultralow Thermal Conductivity in Hybrid Organic-Inorganic Perovskite GuaPbI$_3$</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Rudra P. Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13561">2606.13561</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08763.html">Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>

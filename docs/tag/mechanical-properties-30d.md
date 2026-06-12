@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12786.html">Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory</a></div></td>
+<td>Jun Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12786">2606.12786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
+<td>Tianyi Chu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10268.html">Rotation-to-translation conversion by geometric asymmetry in viscoelastic fluids</a></div></td>
 <td>Takuya Kobayashi et al.</td>
@@ -224,17 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>F. E. Garbuzov et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11455.html">Thermoviscoelasticity of polydomain liquid crystal elastomers regulated by soft elasticity</a></div></td>
-<td>Zhengxuan Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11455">2605.11455</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
-<td>Kichitaro Nakajima et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11660">2605.11660</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13484.html">Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>William Chèvremont et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13484">2606.13484</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29967.html">Synergistic approach to probing the dynamics and mechanics of patchy soft matter</a></div><div class="paper-tags"><a href="active-learning-30d.html">active-learning</a> · <a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="rheology-30d.html">rheology</a></div></td>
 <td>Md Mozakker H. Shojib et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26083.html">Characterizing emergent multi-scale dynamics in colloidal nanoparticle gels</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>William D. Brackett et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26083">2605.26083</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.11660.html">Tracer-free Contactless Acoustic Microrheometry Quantifies Viscoelastic Spectrum of Phase-separated Condensates</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="rheology-30d.html">rheology</a></div></td>
-<td>Kichitaro Nakajima et al.</td>
-<td><a href="http://arxiv.org/abs/2605.11660">2605.11660</a></td>
 </tr>
 </tbody></table>

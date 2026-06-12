@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,17 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06294.html">Rheologically tuned modes of collective transport in active viscoelastic films</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Henning Reinken et al.</td>
 <td><a href="http://arxiv.org/abs/2502.06294">2502.06294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13208.html">Fractional order derivative approach of viscoelastic behavior of tropical wood</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Loic Chrislin Nguedjio et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13208">2506.13208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13316.html">Tuning the Viscosity and Jamming Point in Dense Active non-Brownian Suspensions</a></div></td>
-<td>Bhanu Prasad Bhowmik</td>
-<td><a href="http://arxiv.org/abs/2506.13316">2506.13316</a></td>
 </tr>
 </tbody></table>

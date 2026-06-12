@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12786.html">Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory</a></div></td>
+<td>Jun Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12786">2606.12786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Tianyi Chu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10268.html">Rotation-to-translation conversion by geometric asymmetry in viscoelastic fluids</a></div></td>
@@ -2768,29 +2780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14908.html">On the Control of Solutions of a Viscoelastic Plate Problem with a Frictional Damping Term</a></div></td>
 <td>Bilel Madjour et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14908">2506.14908</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04257.html">Deformation Due to Non-planar Fault Movement in Fractional Maxwell Medium</a></div></td>
-<td>Pabita Mahato et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04257">2506.04257</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13072.html">A fluctuating lattice Boltzmann method for viscoelastic fluid flows</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Juanyong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13072">2506.13072</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13208.html">Fractional order derivative approach of viscoelastic behavior of tropical wood</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Loic Chrislin Nguedjio et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13208">2506.13208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14840.html">MXene triggers high toughness, high strength and low hysteresis hydrogels for printed artificial tissue</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
-<td>Chendong Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14840">2506.14840</a></td>
 </tr>
 </tbody></table>

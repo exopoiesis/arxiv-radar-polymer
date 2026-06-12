@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.06415.html">PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design</a></div><div class="paper-tags"><a href="generative-model-7d.html">generative-model</a> · <a href="gnn-7d.html">gnn</a> · <a href="polymer-informatics-7d.html">polymer-informatics</a> · <a href="selfies-7d.html">selfies</a></div></td>
-<td>João G. C. S. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2606.06415">2606.06415</a></td>
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13586.html">Exploratory digital alchemy for colloidal crystal discovery</a></div><div class="paper-tags"><a href="enhanced-sampling-7d.html">enhanced-sampling</a></div></td>
+<td> Shih-Kuang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13586">2606.13586</a></td>
 </tr>
 </tbody></table>

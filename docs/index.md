@@ -5,15 +5,63 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-11._
+_Updated 2026-06-12._
 
-**3466** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3476** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12778.html">Revealing nonvolatile behaviors in magneto-thermal switching using microstructure-controlled superconducting composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Keigo Ito et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12778">2606.12778</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12786.html">Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Jun Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12786">2606.12786</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12795.html">When proofreading improves both speed and accuracy</a></div></td>
+<td>Arup Biswas et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12795">2606.12795</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Oliver Russell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13484.html">Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>William Chèvremont et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13484">2606.13484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13561.html">Lone-Pair-Induced Lattice Softness Enables Ultralow Thermal Conductivity in Hybrid Organic-Inorganic Perovskite GuaPbI$_3$</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Rudra P. Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13561">2606.13561</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Tianyi Chu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13586.html">Exploratory digital alchemy for colloidal crystal discovery</a></div><div class="paper-tags"><a href="tag/enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
+<td> Shih-Kuang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13586">2606.13586</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
@@ -43,6 +91,18 @@ _Updated 2026-06-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
 <td>Shuqi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12308">2606.12308</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12695.html">Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Jonas Welsch et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12695">2606.12695</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12738.html">How alignment controls heat transport in polymer chains with kinks?</a></div><div class="paper-tags"><a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Igor V. Parshin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.12738">2606.12738</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-09</td>
@@ -133,65 +193,5 @@ _Updated 2026-06-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09611.html">Lattice genome: representation and analysis of heterogeneous crystalline microstructures</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a></div></td>
 <td>Jiayang Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09611">2606.09611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10145.html">Beyond the Markovian limit: Exact solutions for active motion in a power-law viscoelastic bath</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Mintu Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10145">2606.10145</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10227.html">Spatiotemporal Graph Transformer for 3D Neighborhood Interaction and Quality Prediction in Metal Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Joyce Karen Pelaez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10227">2606.10227</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.10255.html">POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Jonathan Schwartz et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10255">2606.10255</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.08647.html">Protein Dynamics Beyond Structure Prediction</a></div><div class="paper-tags"><a href="tag/multiscale-modeling-30d.html">multiscale-modeling</a></div></td>
-<td>Juliette Griffié et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08647">2606.08647</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.08763.html">Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Mohammad A. Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08763">2606.08763</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.08801.html">Fluctuation-stable generalized entropy probes of spectral heterogeneity</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Arpita Goswami</td>
-<td><a href="http://arxiv.org/abs/2606.08801">2606.08801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07146.html">Decision-Aware Evaluation of Physics-Informed Surrogates</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Daniel Cieślak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07146">2606.07146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07181.html">RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Raja Sekhar Pappala et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07181">2606.07181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07223.html">Homogenization of regularized Oldroyd-type fluids</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Florian Oschmann et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07223">2606.07223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.07267.html">Peculiarities Of Phase States In N2O-CO2 Cryoalloys According To Electron Diffraction Data</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>A. A. Solodovnik et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07267">2606.07267</a></td>
 </tr>
 </tbody></table>

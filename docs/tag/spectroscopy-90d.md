@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>spectroscopy — 90d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div><div class="paper-tags"><a href="conducting-polymers-90d.html">conducting-polymers</a></div></td>
+<td>Oliver Russell et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13484.html">Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS</a></div><div class="paper-tags"><a href="soft-matter-90d.html">soft-matter</a></div></td>
+<td>William Chèvremont et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13484">2606.13484</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13561.html">Lone-Pair-Induced Lattice Softness Enables Ultralow Thermal Conductivity in Hybrid Organic-Inorganic Perovskite GuaPbI$_3$</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
+<td>Rudra P. Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13561">2606.13561</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08763.html">Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
@@ -134,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15772.html">Synthesis and Transfer of Freestanding Strain-Engineered Vertically Aligned Nanocomposite Thin Films</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="membranes-90d.html">membranes</a></div></td>
 <td>Carlos Rodríguez Cortéz et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15772">2603.15772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.05911.html">Platform and Framework for Time-Resolved Nanoscale Thermal Transport Measurements in STEM</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
-<td>Mairi McCauley et al.</td>
-<td><a href="http://arxiv.org/abs/2602.05911">2602.05911</a></td>
 </tr>
 </tbody></table>
