@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
 <td>Ali R. Safi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="composites-30d.html">composites</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Runchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
 </tr>
 </tbody></table>

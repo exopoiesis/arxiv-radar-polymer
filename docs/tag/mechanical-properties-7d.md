@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10145.html">Beyond the Markovian limit: Exact solutions for active motion in a power-law viscoelastic bath</a></div></td>
 <td>Mintu Karmakar et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10145">2606.10145</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07223.html">Homogenization of regularized Oldroyd-type fluids</a></div></td>
-<td>Florian Oschmann et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07223">2606.07223</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07817.html">Nonspherical gas bubble dynamics in viscoelastic soft materials</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Sawyer Remillard et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07817">2606.07817</a></td>
 </tr>
 </tbody></table>
