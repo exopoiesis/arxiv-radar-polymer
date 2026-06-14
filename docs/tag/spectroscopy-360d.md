@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20808.html">From the dynamic to the static glass transition via hypersonic measurements using Brillouin spectroscopy</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Jan-Kristian Krüger et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20808">2506.20808</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15857.html">Development and in vitro Characterization of a Novel Bioactive Hydrogel for Bioprinting Uterine Constructs</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
-<td>Abbas Fazel Anvari Yazdi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15857">2506.15857</a></td>
 </tr>
 </tbody></table>

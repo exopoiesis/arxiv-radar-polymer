@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19749.html">The extraordinary importance of self-avoiding behavior in two-dimensional polymers: Insights from large-deviation theory</a></div></td>
 <td>Eleftherios Mainas et al.</td>
 <td><a href="http://arxiv.org/abs/2512.19749">2512.19749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14555.html">Retrieval of multiple fibre orientations using X-ray dark-field signal modelling</a></div></td>
-<td>Lorenzo Massimi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14555">2603.14555</a></td>
 </tr>
 </tbody></table>

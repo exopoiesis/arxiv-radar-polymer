@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-degradation — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <strong>360d</strong> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19758.html">Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO$_3$ Nanocomposites with Enhanced Photocatalytic Efficiency</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>P. Princeya Mary et al.</td>
 <td><a href="http://arxiv.org/abs/2504.19758">2504.19758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.15857.html">Development and in vitro Characterization of a Novel Bioactive Hydrogel for Bioprinting Uterine Constructs</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Abbas Fazel Anvari Yazdi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.15857">2506.15857</a></td>
 </tr>
 </tbody></table>

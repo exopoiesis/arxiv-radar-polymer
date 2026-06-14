@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,17 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08699.html">A Dynamic Time Warping-Transfer Learning Approach to Transferring Knowledge in Stress-strain Behaviors from Polymers to Metals: An Affordable and Generalizable Additive Manufacturing Part Qualification Framework</a></div></td>
 <td>Chenglong Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2512.08699">2512.08699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14391.html">4D reconstruction of alumina laser melt pools at 25 kHz via operando X-ray multi-projection imaging</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Lars Witte et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14391">2603.14391</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14489.html">Predicting Stress-strain Behaviors of Additively Manufactured Materials via Loss-based and Activation-based Physics-informed Machine Learning</a></div></td>
-<td>Chenglong Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14489">2603.14489</a></td>
 </tr>
 </tbody></table>

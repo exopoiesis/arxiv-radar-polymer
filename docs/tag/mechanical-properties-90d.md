@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">129 papers</span>
+  <span class="paper-count">127 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -776,17 +776,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15890.html">Mixing with viscoelastic waves at low Reynolds numbers</a></div></td>
 <td>Enrico Turato et al.</td>
 <td><a href="http://arxiv.org/abs/2603.15890">2603.15890</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.00199.html">Multi-Condition Digital Twin Calibration for Axial Piston Pumps : Compound Fault Simulation</a></div></td>
-<td>Chang Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2603.00199">2603.00199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14569.html">Atomistic modeling of the hygromechanical properties of amorphous Polyamide 6,6</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Karim Gadelrab et al.</td>
-<td><a href="http://arxiv.org/abs/2603.14569">2603.14569</a></td>
 </tr>
 </tbody></table>

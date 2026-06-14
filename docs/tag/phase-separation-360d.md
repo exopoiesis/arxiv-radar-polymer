@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">320 papers</span>
+  <span class="paper-count">319 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1928,11 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16503.html">Mixed phases in a Fermi--Hubbard model describing altermagnetism</a></div></td>
 <td>E. Langmann et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16503">2506.16503</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04079.html">Dynamic scaling of vorticity in phase-separating superfluid mixtures</a></div></td>
-<td>Ryuta Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04079">2505.04079</a></td>
 </tr>
 </tbody></table>
