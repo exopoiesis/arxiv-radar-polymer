@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Micheal B. Oguntola et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14328">2606.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10444.html">One-Step Self-Organized Multifunctional Micromotors via Evaporative Liquid-Liquid Phase Separation</a></div></td>
@@ -1916,17 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18157.html">Pattern-Based Phase-Separation of Tracer and Dispersed Phase Particles in Two-Phase Defocusing Particle Tracking Velocimetry</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Christian Sax et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18157">2506.18157</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.18291.html">Computing ternary liquid phase diagrams: Fe-Cu-Ni</a></div></td>
-<td>Dallas R. Trinkle</td>
-<td><a href="http://arxiv.org/abs/2503.18291">2503.18291</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16503.html">Mixed phases in a Fermi--Hubbard model describing altermagnetism</a></div></td>
-<td>E. Langmann et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16503">2506.16503</a></td>
 </tr>
 </tbody></table>

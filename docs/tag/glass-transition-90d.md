@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14213.html">Vapor-to-glass preparation of biaxially aligned organic semiconductors</a></div></td>
+<td>Jianzhu Ju et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14213">2606.14213</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01696.html">Significance of time-convolutionless mode-coupling theory in capturing the dynamics of glass-forming liquids</a></div></td>
 <td>Michio Tokuyama</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20119.html">Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Hajar Ajiyel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20119">2603.20119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15519.html">Glass and jamming transitions in a random organization model</a></div></td>
-<td>Leonardo Galliano et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15519">2603.15519</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14251.html">HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Weiyi Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14251">2606.14251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Micheal B. Oguntola et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14328">2606.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a></div></td>
@@ -290,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26705.html">PI-Mamba: Linear-Time Protein Backbone Generation via Spectrally Initialized Flow Matching</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Tianyu Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26705">2603.26705</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.23930.html">Assessing generative modeling approaches for free energy estimates in condensed matter</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Maximilian Schebek et al.</td>
-<td><a href="http://arxiv.org/abs/2512.23930">2512.23930</a></td>
 </tr>
 </tbody></table>

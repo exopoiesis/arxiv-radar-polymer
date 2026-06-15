@@ -1759,5 +1759,139 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-11"
+ },
+ "2606.13972": {
+  "abstract": "Myopic self-avoiding fractional Brownian motion (FBM) is a stochastic process in which an ensemble of particles is driven by fractional Gaussian noise while being repelled by the gradient of the time-integrated ensemble density [J. House, R. Bakhshizada, S. Janušonis, R. Metzler, and T. Vojta, Phys. Rev. E 112, 034119 (2025)]. Depending on the anomalous diffusion exponent $α$ characterizing the noise, the process features two dynamical regimes: an interaction-dominated regime ($α< α_c=4/(d+2)$) where the mean-density interaction governs long-time dynamics, and a noise-dominated regime ($α> α_c$) where FBM correlations prevail. In the interaction-dominated regime, the mean-squared displacement grows as $\\langle r^2(t) \\rangle \\sim t^{4/(d+2)}$ regardless of $α$, while for $α> α_c$ the standard FBM scaling $\\langle r^2(t) \\rangle \\sim t^α$ is recovered. Here, we develop an analytical mean-field theory of myopic self-avoiding FBM, based on a Fokker-Planck approach to the interaction-dominated regime. This allows us to derive closed-form polynomial solutions for the probability density. To compare with computer simulations, we develop an efficient radial binning algorithm that significantly reduces the computational complexity, making large-scale three-dimensional simulations feasible. Extensive simulations in one, two, and three dimensions confirm the analytical predictions. We also discuss the application of the process to the self-organization of serotonergic axons (fibers) in vertebrate brains, where FBM paths with self-avoidance provide a natural framework for understanding spatial heterogeneities of fiber densities.",
+  "authors": [
+   "Rashad Bakhshizada",
+   "Skirmantas Janušonis",
+   "Ralf Metzler",
+   "Thomas Vojta"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 9 figures",
+  "first_author": "Rashad Bakhshizada",
+  "pdf_url": "http://arxiv.org/pdf/2606.13972",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-11",
+  "tags": [],
+  "title": "Mean-field theory of myopic self-avoiding fractional Brownian motion",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-11"
+ },
+ "2606.14186": {
+  "abstract": "We construct stochastic thermodynamics of overdamped Langevin systems on nonrelaticvistic curved spaces with time-dependent metrics. The time dependence of the metric contributes to the energy balance by performing work on the kinetic energy, which is instantaneously dissipated as heat in the overdamped regime. This contribution makes our framework thermodynamically consistent so that entropy production satisfies the second law of thermodynamics. As a special case, when the metric evolves according to backward Ricci flow, the entropy balance exhibits a structure similar to Perelman's entropy functional. Our framework provides a way to quantify thermodynamic costs in dynamics on time-evolving spaces such as diffusion on membranes.",
+  "authors": [
+   "Rihito Nagase",
+   "Shoki Sugimoto",
+   "Asuka Takatsu",
+   "Takahiro Sagawa"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": "(7+6) pages, 3 figures",
+  "first_author": "Rihito Nagase",
+  "pdf_url": "http://arxiv.org/pdf/2606.14186",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-12",
+  "tags": [
+   "membranes"
+  ],
+  "title": "Stochastic Thermodynamics on Time-Evolving Curved Spaces",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14213": {
+  "abstract": "Physical vapor deposition (PVD) provides a route to prepare highly stable and anisotropic organic glasses that are utilized in multi-layer structures such as organic light-emitting devices. While previous work has demonstrated that anisotropic glasses with uniaxial symmetry can be prepared by PVD, here, we prepare biaxially aligned glasses in which molecular orientation has a preferred in-plane direction. With the collective effect of the surface equilibration mechanism and template growth on an aligned substrate, macroscopic biaxial alignment is achieved in depositions as much as 180 K below the clearing point $T_{LC-iso}$ (and 50 K below the glass transition temperature $T_g$ ) with single-component disk-like (phenanthroperylene ester) and rod-like (itraconazole) mesogens. The preparation of biaxially aligned organic semiconductors adds a new dimension of structural control for vapor-deposited glasses and may enable polarized emission and in-plane control of charge mobility.",
+  "authors": [
+   "Jianzhu Ju",
+   "Debaditya Chatterjee",
+   "Paul M. Voyles",
+   "Harald Bock",
+   "Mark D. Ediger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "23 pages, 4 figures, SI included",
+  "first_author": "Jianzhu Ju",
+  "pdf_url": "http://arxiv.org/pdf/2606.14213",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-12",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Vapor-to-glass preparation of biaxially aligned organic semiconductors",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14251": {
+  "abstract": "Spatial transcriptomics (ST) links gene expression with tissue morphology but remains expensive and low-throughput, motivating surrogates that infer expression from routine histology. Whole-slide H&E-to-ST inference pairs a gigapixel image with gene measurements at a sparse, irregular set of locations, making multiscale modeling challenging without incurring dense-grid overhead or quadratic token mixing. We propose HiST, a hierarchical sparse transformer that treats measured locations as a lattice-indexed sparse field and builds a dyadic encoder--decoder directly on the active tissue footprint. HiST combines sparse window attention for local geometric correspondence with resolution-changing operators for rapid multiscale context integration. For a fixed window size, the dominant runtime and memory scale with the number of observed locations rather than the dense slide area. To mitigate slide-specific acquisition variation, HiST adds a bottlenecked global conditioning pathway via a \\emph{slide calibration token} that summarizes slide-level context and conditions local representations. On a multi-organ benchmark spanning diverse tissues and acquisition sources, HiST improves predictive performance over recent baselines while reducing runtime and peak memory.",
+  "authors": [
+   "Weiyi Wu",
+   "Xinwen Xu",
+   "Xingjian Diao",
+   "Siting Li",
+   "Zhi Wei",
+   "Alma Andersson",
+   "Jiang Gui"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Weiyi Wu",
+  "pdf_url": "http://arxiv.org/pdf/2606.14251",
+  "primary_category": "cs.CV",
+  "published": "2026-06-12",
+  "tags": [
+   "benchmarking",
+   "multiscale-modeling",
+   "polymer-morphology"
+  ],
+  "title": "HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14328": {
+  "abstract": "Simulating high-enthalpy fractured geothermal reservoirs is challenging due to the complex coupled processes of non-isothermal, multiphase, multicomponent flow, strongly nonlinear thermodynamics, and the dominant role of fractures. These complexities are amplified by mineral scaling, such as halite precipitation, which can impair reservoir permeability and well productivity. To address this, we present a new compositional flow model based on a persistent set of primary variables (pressure, enthalpy, and overall salt mass fraction). The formulation naturally handles phase transitions without manual switching, enhancing numerical stability. The model integrates a discrete fracture-matrix approach and employs an efficient, robust correlation-based phase-behaviour linearisation of saltwater thermodynamics, replacing expensive on-the-fly phase separation calculations. It incorporates the Kozeny-Carman relation to dynamically model porosity and permeability reduction from halite precipitation. Implemented in the open-source PorePy framework, the model is verified through a 1D salt dissolution benchmark against the established closed-source simulator CSMP++, showing strong agreement across geothermal conditions involving transitions between single- and multi-phase regions. Application to a 2D halite-saturated fractured reservoir with injection and production demonstrates the model's capability to predict halite precipitation patterns and their impact on permeability damage and energy recovery. Numerical results further show the model's value in predicting operational challenges such as wellbore blockage and the role of fracture connectivity. The model thus provides an open-source numerical tool for analysing complex heat and mass transport with mineral scaling in high-enthalpy fractured geothermal systems.",
+  "authors": [
+   "Micheal B. Oguntola",
+   "Omar Duran",
+   "Eirik Keilegavlen",
+   "Inga Berre"
+  ],
+  "categories": [
+   "math.NA",
+   "math-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "29 pages, 18 figures. Accepted for oral presentation at CMWR 2026 (University of Bologna). Reproducibility docker image is available: doi.org/10.5281/zenodo.20578448",
+  "first_author": "Micheal B. Oguntola",
+  "pdf_url": "http://arxiv.org/pdf/2606.14328",
+  "primary_category": "math.NA",
+  "published": "2026-06-12",
+  "tags": [
+   "benchmarking",
+   "phase-separation"
+  ],
+  "title": "Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-12"
  }
 }

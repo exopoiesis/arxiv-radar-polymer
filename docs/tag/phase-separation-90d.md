@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Micheal B. Oguntola et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14328">2606.14328</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10444.html">One-Step Self-Organized Multifunctional Micromotors via Evaporative Liquid-Liquid Phase Separation</a></div></td>
 <td>Senthan Pugalneelam Parameswaran et al.</td>
@@ -518,11 +524,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18066.html">A Synthesizable RTL Implementation of Predictive Coding Networks</a></div></td>
 <td>Timothy Oh</td>
 <td><a href="http://arxiv.org/abs/2603.18066">2603.18066</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.15456.html">Understanding early stages of low-temperature hydrogen-driven direct co-reduction of Fe-Ni mixed oxide thin films at the near atomic scale</a></div></td>
-<td>Emmanuel Uwayezu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.15456">2603.15456</a></td>
 </tr>
 </tbody></table>

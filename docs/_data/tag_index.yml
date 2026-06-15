@@ -4,31 +4,31 @@
   total: 803
   group: properties
 - name: phase-separation
-  count: 21
-  total: 554
+  count: 22
+  total: 555
   group: morphology
 - name: benchmarking
-  count: 19
-  total: 177
+  count: 20
+  total: 179
   group: informatics
+- name: polymer-morphology
+  count: 13
+  total: 338
+  group: morphology
 - name: additive-manufacturing
   count: 12
   total: 363
   group: processing
-- name: coarse-grained
-  count: 12
-  total: 275
-  group: simulation
 - name: composites
   count: 12
   total: 255
   group: processing
-- name: polymer-morphology
-  count: 12
-  total: 337
-  group: morphology
+- name: coarse-grained
+  count: 11
+  total: 275
+  group: simulation
 - name: molecular-dynamics
-  count: 9
+  count: 8
   total: 237
   group: simulation
 - name: rheology
@@ -39,10 +39,6 @@
   count: 8
   total: 112
   group: characterization
-- name: monte-carlo
-  count: 7
-  total: 184
-  group: simulation
 - name: generative-model
   count: 6
   total: 55
@@ -51,26 +47,34 @@
   count: 6
   total: 43
   group: design
+- name: monte-carlo
+  count: 6
+  total: 184
+  group: simulation
 - name: hydrogels
   count: 5
   total: 171
+  group: applications
+- name: membranes
+  count: 4
+  total: 84
   group: applications
 - name: soft-matter
   count: 4
   total: 81
   group: simulation
-- name: thermal-conductivity
-  count: 4
-  total: 86
-  group: properties
-- name: membranes
+- name: multiscale-modeling
   count: 3
-  total: 83
-  group: applications
+  total: 36
+  group: simulation
 - name: selfies
   count: 3
   total: 33
   group: representation
+- name: thermal-conductivity
+  count: 3
+  total: 86
+  group: properties
 - name: crystallinity
   count: 2
   total: 28
@@ -79,14 +83,10 @@
   count: 2
   total: 39
   group: design
-- name: mlff
+- name: glass-transition
   count: 2
-  total: 53
-  group: simulation
-- name: multiscale-modeling
-  count: 2
-  total: 35
-  group: simulation
+  total: 144
+  group: properties
 - name: tem
   count: 2
   total: 26
@@ -119,14 +119,14 @@
   count: 1
   total: 20
   group: properties
-- name: glass-transition
-  count: 1
-  total: 143
-  group: properties
 - name: gnn
   count: 1
   total: 29
   group: representation
+- name: mlff
+  count: 1
+  total: 53
+  group: simulation
 - name: nanocomposites
   count: 1
   total: 81

@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-14._
+_Updated 2026-06-15._
 
-**3476** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3481** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14186.html">Stochastic Thermodynamics on Time-Evolving Curved Spaces</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
+<td>Rihito Nagase et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14186">2606.14186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14213.html">Vapor-to-glass preparation of biaxially aligned organic semiconductors</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
+<td>Jianzhu Ju et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14213">2606.14213</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14251.html">HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/multiscale-modeling-30d.html">multiscale-modeling</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Weiyi Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14251">2606.14251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Micheal B. Oguntola et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14328">2606.14328</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12778.html">Revealing nonvolatile behaviors in magneto-thermal switching using microstructure-controlled superconducting composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
@@ -61,6 +85,12 @@ _Updated 2026-06-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13586.html">Exploratory digital alchemy for colloidal crystal discovery</a></div><div class="paper-tags"><a href="tag/enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
 <td> Shih-Kuang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13586">2606.13586</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13972.html">Mean-field theory of myopic self-avoiding fractional Brownian motion</a></div></td>
+<td>Rashad Bakhshizada et al.</td>
+<td><a href="http://arxiv.org/abs/2606.13972">2606.13972</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-10</td>
@@ -163,35 +193,5 @@ _Updated 2026-06-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09279.html">Bridging nanoparticle morphology and viscoelastic behavior in epoxy nanocomposites: A coarse-grained simulation-informed constitutive model</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
 <td>Atiyeh Hentea et al.</td>
 <td><a href="http://arxiv.org/abs/2606.09279">2606.09279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Minaam Qamar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09341">2606.09341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09468.html">No need to stay positive: a practical approach to direct numerical simulations of elastic turbulence</a></div></td>
-<td>Damiano Capocci et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09468">2606.09468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09527.html">Controlled component segregation in vapor-deposited organic semiconductor glass mixtures</a></div></td>
-<td>Shinian Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09527">2606.09527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09560.html">Predicting Physical and Physical-Chemical Properties of Molecular-Based Materials Using Computational Neural Networks</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Andrei A. Gakh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09560">2606.09560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.09611.html">Lattice genome: representation and analysis of heterogeneous crystalline microstructures</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a></div></td>
-<td>Jiayang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09611">2606.09611</a></td>
 </tr>
 </tbody></table>

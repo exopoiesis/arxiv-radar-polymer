@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18339.html">Elucidating Norrish Type-I reactive pathways by ultrafast X-ray absorption spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>Martin Graßl et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18339">2603.18339</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08699.html">A Dynamic Time Warping-Transfer Learning Approach to Transferring Knowledge in Stress-strain Behaviors from Polymers to Metals: An Affordable and Generalizable Additive Manufacturing Part Qualification Framework</a></div></td>
-<td>Chenglong Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2512.08699">2512.08699</a></td>
 </tr>
 </tbody></table>
