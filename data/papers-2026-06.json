@@ -1893,5 +1893,289 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-06-12"
+ },
+ "2606.14818": {
+  "abstract": "Statistical Physics has traditionally dealt with entities that interact merely based on the present, and possibly past, configurations. This reactive framework is inefficient in many situations involving living beings, such as predators chasing a prey, pedestrians, or even robots. This paper introduces a statistical physical framework for the dynamics of anticipatory agents, whose present-time dynamics depend on the prospective system state that they anticipate. We clarify how these dynamics can be expressed in terms of a cost function constructed based on observations and we show that the dynamics of an anticipatory agent in d dimensions can be mapped onto the dynamics of a (non-anticipatory) chain in d + 1 dimensions, with fluctuations acting transversely on the chain to account for the uncertainty about the future state. Insights from polymer Physics help us characterize the dynamics of these chains and delineate an anticipation horizon beyond which the blurry future can be handled in a mean-field way. The foregoing framework is successfully applied to pedestrian dynamics, leading to a seamless integration of operational and tactical levels in an agent-based model. Even with a minimal expression of the cost, the model succeeds in reproducing various experimental scenarios which are challenging for state-of-the-art models, such as crossing cluttered environments or alighting from a crowded train. The transparent and flexible basis of the model allows the straightforward incorporation of additional mechanisms.",
+  "authors": [
+   "Alexis Raulin-Foissac",
+   "Alexandre Nicolas"
+  ],
+  "categories": [
+   "physics.soc-ph",
+   "cond-mat.stat-mech",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Alexis Raulin-Foissac",
+  "pdf_url": "http://arxiv.org/pdf/2606.14818",
+  "primary_category": "physics.soc-ph",
+  "published": "2026-06-12",
+  "tags": [],
+  "title": "Physics of anticipatory active matter, with application to crowd dynamics",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14888": {
+  "abstract": "Bulk metallic glasses (BMGs) are distinguished by amorphous atomic structures that confer superior mechanical performance; however, the evolution of these properties in ternary bulk configurations remains insufficiently explored. In this study, we employed large-scale molecular dynamics simulations to investigate the structural, thermal, and mechanical properties of $Zr_{47.5}Cu_{47.5}Ag_{5}$ BMGs. Our thermodynamic and topological analyses, utilizing potential energy regression and the Modified Wendt-Abraham parameter, identified a glass transition temperature ($T_g$) of approximately $692\\text{ K}$. Structural characterization via Voronoi tessellation and partial radial distribution functions reveals that the amorphous matrix is stabilized by icosahedral clusters, with Ag atoms inducing significant chemical heterogeneity through localized nano-clustering. Thermal transport properties, computed via the Green-Kubo formalism, demonstrate a monotonic decrease in conductivity with temperature, consistent with structural scattering saturation in disordered lattices. Mechanical tensile testing reveals that the material exhibits robust rate- and temperature-dependent behavior, with yield strengths reaching $\\approx 2.3\\text{ GPa}$ at room temperature. We show that macroscopic strain-softening is intrinsically linked to the thermally induced collapse of rigid icosahedral motifs, which facilitates shear band percolation. These findings provide a structural rationale for the beneficial role of Ag dopants in enhancing the resilience of multicomponent metallic glasses.",
+  "authors": [
+   "N. Mendez",
+   "S. Jaroszewicz",
+   "M. P. Beccar-Varela",
+   "M. C. Mariani"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "N. Mendez",
+  "pdf_url": "http://arxiv.org/pdf/2606.14888",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-12",
+  "tags": [
+   "glass-transition",
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14964": {
+  "abstract": "Purpose: The dependence of the long-time (tortuosity) limit of the extra-cellular diffusivity on the intra-cellular volume fraction is of fundamental importance for microstructure modeling. While such dependencies have been explored for the white matter, the tortuosity limit in gray matter is unknown due to complex cell composition and geometry. Here we rationalize and validate numerically the analytical relation between the extra-cellular diffusivity and intra-cellular fractions of cell bodies (somas) and neurites.   Methods: The tortuosity relation for extra-cellular diffusivity qualitatively follows from effective medium theory, coarse-grained by diffusion outside somas (spheres) and neurites (cylinders), respectively. This problem is equivalent to finding the overall conductivity in a medium of grains in a matrix, with methodology dating back to the 19th century. We extend the effective medium methodology to populations of impermeable spheres and randomly oriented cylinders with various volume fractions, yielding closed-form expressions corroborated by Monte Carlo simulations.   Results: We establish the power-law scaling of the extra-cellular diffusivity with the volume fractions of the extra-soma and extra-neurite spaces. We further evaluate the proposed framework using simulations in realistic tissue geometries.   Conclusion: Theory and simulations relate extra-cellular tortuosity to soma and neurite fractions, potentially offering a diffusion MRI protocol design optimized for in vivo assessment of soma size and soma/neurite fractions within clinical scan times. Such in vivo measurements can be used to study development, aging and neurodegenerative disorders.",
+  "authors": [
+   "Hong-Hsi Lee",
+   "Ali Abdollahzadeh",
+   "Hansol Lee",
+   "Ricardo Coronado-Leija",
+   "Els Fieremans",
+   "Susie Y. Huang",
+   "Dmitry S. Novikov"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Hong-Hsi Lee",
+  "pdf_url": "http://arxiv.org/pdf/2606.14964",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-06-12",
+  "tags": [
+   "coarse-grained",
+   "monte-carlo",
+   "polymer-morphology"
+  ],
+  "title": "Dependence of the extra-cellular diffusion coefficient on the fractions of neurites and cell bodies in gray matter",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.14983": {
+  "abstract": "A growing population of short-period Neptune-like planets has nonzero eccentricities and, in some cases, large stellar obliquities, suggestive of high-eccentricity migration. Modeling this evolution requires a prescription for tidal dissipation, which in Neptune-like planets may be dominated by rocky or icy cores rather than by extended gaseous envelopes as often assumed for gas giants. We study the coupled orbital and thermal evolution of eccentric Neptune-like planets whose tidal dissipation is controlled by a viscoelastic Maxwell core. We compute the full harmonic tidal response, follow the equilibrium spin state, and evolve the core temperature; the changing thermal state feeds back on the orbit by modifying the viscosity and hence the frequency-dependent tidal response. We find that the coupled evolution is self-regulated: tidal heating initially drives cold, weakly dissipative cores toward efficient dissipation, but the resulting temperature increase lowers the viscosity, shifts the tidal response toward the fluid-like side of the Maxwell peak, and slows the subsequent migration. This feedback drives the system toward a quasi-steady heating-cooling balance, produces long-lived eccentric phases, and weakens the otherwise steep dependence of circularization time on final orbital distance. Thermally regulated tides therefore offer a natural explanation for how observed hot Neptunes can remain eccentric across a broad range of orbital distances, where a single fixed tidal efficiency would either erase eccentricity too efficiently close in or fail to damp it farther out.",
+  "authors": [
+   "Cristobal Petrovich",
+   "Hareesh Gautham Bhaskar"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "16 pages, 8 figures, submitted to AAS Journals; comments welcome",
+  "first_author": "Cristobal Petrovich",
+  "pdf_url": "http://arxiv.org/pdf/2606.14983",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-06-12",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Thermally Regulated Viscoelastic Tidal Migration of Eccentric Planets",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-12"
+ },
+ "2606.15403": {
+  "abstract": "Liquid crystal elastomers (LCEs) exhibit unique viscoelastic behavior arising from reversible liquid-crystalline ordering, making them attractive candidates for switchable pressure-sensitive adhesives (PSAs). However, methacrylate-based LCEs are typically highly crosslinked, leading to elevated glass-transition temperatures ($T_g$) and storage moduli ($E'$) that limit adhesive performance. Here, we demonstrate that catalytic chain-transfer polymerization provides an effective strategy for engineering soft methacrylate nematic elastomers through systematic control of network architecture. Incorporation of parts-per-million concentrations of bis(boron difluorodimethylglyoximate)cobalt(II) (CoBF) during photopolymerization reduced the effective crosslink density and increased the molecular weight between crosslinks, producing substantial decreases in $T_g$ and $E'$ while preserving nematic order. Dynamic mechanical analysis revealed that increasing CoBF concentration enhanced viscoelastic dissipation and broadened the accessible nematic temperature window. To further optimize rheological properties for pressure-sensitive adhesion, monofunctional methacrylates and flexible poly(ethylene glycol) dimethacrylate (PEGDMA) were incorporated into the network. The optimized formulation exhibited a $T_g$ near 0~$^\\circ$C, a room-temperature storage modulus of approximately 0.3 MPa, and high damping behavior, approaching the Dahlquist criterion for pressure-sensitive adhesion. As a result, the resulting nematic elastomers displayed strong tack, peel, and lap-shear adhesion in the nematic state, together with rapid, reversible, and residue-free debonding upon heating above the nematic-to-isotropic transition temperature.",
+  "authors": [
+   "Noboru Koshimizu",
+   "Mohand O. Saed"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Noboru Koshimizu",
+  "pdf_url": "http://arxiv.org/pdf/2606.15403",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-13",
+  "tags": [
+   "mechanical-properties",
+   "polymerization",
+   "rheology"
+  ],
+  "title": "Cobalt-Catalysed Chain Transfer Polymerisation Enables Soft Methacrylate Nematic Elastomers for Switchable Pressure-Sensitive Adhesion",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-13"
+ },
+ "2606.15580": {
+  "abstract": "Block copolymers self-assemble into ordered nanostructures whose geometry is governed by a competition between interfacial energy and chain conformational entropy. While this competition produces a rich sequence of morphologies, topologically complex ``frustrated'' phases such as the primitive cubic ($Im\\bar{3}m$) network incur severe packing penalties and are difficult to access in neutral systems. Here we show that ions functionalized at the termini of one block in an AB diblock copolymer melt introduce a qualitatively new stabilization mechanism. Strong ion correlations drive chain-end association and generate a curvature preference toward the charged domain; the resulting tendency of end-localized ion clusters to adopt compact, curved geometries selectively favors the highly frustrated $Im\\bar{3}m$ single-network over the classical phases, in a region of parameter space lying below the order-disorder transition of the neutral system. Free energy decomposition reveals that the electrostatic energy, arising almost entirely from beyond-mean-field ion correlations, becomes increasingly negative with increasing interfacial curvature. In the primitive cubic network, pronounced local segregation of ions into the cylindrical struts generates compact curved clusters whose correlation energy gain more than offsets the enhanced packing frustration, so the very geometry that is the source of packing frustration in neutral systems becomes the source of its stability here. Increasing ion size weakens correlations and suppresses the $Im\\bar{3}m$ phase, consistent with experimental observations. Our results establish curvature-selective end-group association as a general principle for accessing frustrated topologies in block copolymer systems.",
+  "authors": [
+   "Chao Duan",
+   "Zhen-Gang Wang"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.app-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Chao Duan",
+  "pdf_url": "http://arxiv.org/pdf/2606.15580",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-14",
+  "tags": [
+   "block-copolymer"
+  ],
+  "title": "End-Functionalized Ions Promote Stability of Highly Frustrated Phases in Diblock Copolymers",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-14"
+ },
+ "2606.16147": {
+  "abstract": "Complex chemical systems often contain multiple components or large molecules, giving rise to substantial chemical and conformational complexity. Modeling the structures of these systems is crucial for mechanistic understanding of chemical processes and rational design, but remains highly challenging for both conventional theoretical approaches and machine learning. Here, we introduce physical-interaction-coupled diffusion models (PICDiff), a framework that couples independently trained diffusion models for subsystems of a complex system through explicit bonded and nonbonded interactions during inference. PICDiff reduces the difficulty of applying generative models to chemically and conformationally complex systems by decomposing them into smaller subsystems that are less complex and more amenable to machine-learning-based modeling. Using peptide-polymer binding and polymer conformation sampling as examples, we demonstrate that PICDiff can quantitatively sample conformations and model the thermodynamics of complex chemical systems. These results show that PICDiff provides a general and practical approach for modeling complex chemical systems by combining learned models of simpler molecular subsystems through physical interactions.",
+  "authors": [
+   "Yanbin Wang",
+   "Yajie Cai",
+   "Ming Chen"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Yanbin Wang",
+  "pdf_url": "http://arxiv.org/pdf/2606.16147",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-15",
+  "tags": [
+   "diffusion-model",
+   "generative-model"
+  ],
+  "title": "Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16156": {
+  "abstract": "Hybrid lipid block copolymer membranes are promising for many applications in drug delivery, single molecule detection, in-membrane protein folding, and synthetic cells. However, rational design is difficult due to the many design parameters which determine the nano- and micron-scale morphology and properties. In this work, we propose a physically-informed framework which incorporates chemical immiscibility, hydrophobic thickness mismatch and geometric constraints to predict the morphology of hybrid membranes. For this purpose, we extend existing theory for amphiphilic monolayers to model the thickness of diblock copolymer bilayers, demonstrating that both the hydrophobic and hydrophilic block lengths determine the thickness. We identify and rationalize the four primary membrane morphologies observed: mixed, laterally phase-separated, unzipped (thick-thin coexistence), and polymer-rich. Specifically, chemical immiscibility differentiates mixed membranes from laterally phase separated membranes, and hydrophobic mismatch drives transitions to unzipped or polymer-rich morphologies. Areal density, finally, determines the crossover between unzipped and polymer-rich states. We validate our theoretical predictions using coarse-grained molecular dynamics across a broad parameter space, including multiple lipid species (DOPC, DPPC), polymer species (1,4 PBD-b-PEO, 1,2 PBD-b-PEO, PE-b-PEO), block lengths, temperatures, and compositions. The resulting phase maps unify previously reported experimental and simulation observations and enable a generic and mechanistic understanding for the effect of system parameters on the nanoscale morphology.",
+  "authors": [
+   "James F. Tallman",
+   "Junyu Wu",
+   "Antonia Statt"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mes-hall",
+   "physics.chem-ph"
+  ],
+  "comment": "Preprint, 14 pages, 5 figures, and SI",
+  "first_author": "James F. Tallman",
+  "pdf_url": "http://arxiv.org/pdf/2606.16156",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-15",
+  "tags": [
+   "block-copolymer",
+   "coarse-grained",
+   "membranes",
+   "molecular-dynamics",
+   "polymer-morphology"
+  ],
+  "title": "Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16443": {
+  "abstract": "We investigate the persistence properties during phase ordering in the two-dimensional ($d=2$) Ising model evolving under competing nonconserved spin-flip and conserved spin-exchange dynamics by means of Monte Carlo simulations at zero temperature. We examine three distinct persistence probabilities: (i) the total persistence probability, defined as the probability that a lattice site has never experienced a change in the sign of the spin residing there; (ii) the spin-flip persistence probability, which exclusively measures the fraction of sites that have never undergone a spin-flip event; and (iii) the composite persistence probability, defined as the fraction of sites that have experienced neither a spin-flip nor a spin-exchange event. In the asymptotic regime, both the total and spin-flip persistence probabilities exhibit identical power-law decay, irrespective of the relative occurrence probability of the spin-flip move $p_r$. The corresponding persistence exponent $θ_i \\approx 0.225$, is found to be consistent with the value reported for systems evolving purely under nonconserved dynamics. We further demonstrate that both persistence measures satisfy the scaling relation $d-d_f^i=θ_i/α_i$, where $d_f^i$ is the fractal dimension of the corresponding persistence lattice and $α_i\\approx 1/2$ characterizes the asymptotic power-law growth of spatially correlated regions of non-persistent spins. In contrast, although the composite persistence probability also exhibits asymptotic power-law decay, both the corresponding persistence exponent $θ_{\\rm c}$ and the fractal dimension $d_f^{\\rm c}$ of the persistence lattice show strong dependence on $p_r$. Combined with the presence of a universal growth exponent $α_{\\rm c}\\approx 1/2$, this leads to the breakdown of the scaling relation among the characteristic exponents for the composite persistence.",
+  "authors": [
+   "Shubham Thwal",
+   "Suman Majumder"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 11 figures, 2 tables",
+  "first_author": "Shubham Thwal",
+  "pdf_url": "http://arxiv.org/pdf/2606.16443",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-15",
+  "tags": [
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "Persistence Properties of a Phase-ordering System with Competing Dynamics",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16719": {
+  "abstract": "We present a structural analysis of glasses formed by mix of SiO2 and B2O3 glass formers with soda and lime modifiers (Na2O and CaO), which provide a good testing ground for Stochastic Agglomeration Theory. With local structural units properly identified, we can reproduce the one-parameter glass transition temperature T_g (z) curve for the family of (0.75-z) SiO_2 + 0.15 Na_2O + 0.10 CaO + z B_2O_3 glasses studied experimentally by Smedskjaer et al.",
+  "authors": [
+   "Richard Kerner"
+  ],
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "21 pages, 11 figures, 1 Table. Presented at the Glass Science and Technology Conference, Cambridge, Sept. 2025. Submitted to \"Physics and Chemistry of Glasses\", European Journal of Glass Science and Technology",
+  "first_author": "Richard Kerner",
+  "pdf_url": "http://arxiv.org/pdf/2606.16719",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-06-15",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Connectivity and Rigidity in Borosilicate Glasses",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.16951": {
+  "abstract": "Woody breast (WB) is a myopathy in modern broiler chickens that causes the breast muscle to become unusually stiff and fibrous, leading to decreased meat quality and significant economic losses. State-of-the-art automated WB detection relies on a side-view imaging system to analyze the bending behavior of a single fillet as it falls off a conveyor belt. While highly accurate, this approach is constrained by its single-fillet field of view, creating throughput bottlenecks on commercial processing lines. In this paper, we address this limitation via a novel multi-fillet detection architecture utilizing a top-down camera configuration. To validate our approach, we first develop a high-fidelity digital twin of an industrial conveyor system. Next, we synthesize a diverse dataset of 3D fillet meshes and model their viscoelastic bending dynamics using a physics-based simulation engine. Lastly, a continuous 2D shape deformation score is extracted from the top-down perspective as the simulated fillets traverse the roller precipice. Experimental results demonstrate that the top-down shape score effectively captures the contour changes of the fillets as it bends, providing a robust and scalable alternative to a side-view imaging system for simultaneous multi-fillet WB evaluation.",
+  "authors": [
+   "Chirantan Sen Mukherjee",
+   "Seung-Chul Yoon",
+   "William J. Beksi"
+  ],
+  "categories": [
+   "cs.CV",
+   "eess.IV"
+  ],
+  "comment": "To be published in the 2026 International Conference on Automation Science and Engineering (CASE)",
+  "first_author": "Chirantan Sen Mukherjee",
+  "pdf_url": "http://arxiv.org/pdf/2606.16951",
+  "primary_category": "cs.CV",
+  "published": "2026-06-15",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-15"
  }
 }

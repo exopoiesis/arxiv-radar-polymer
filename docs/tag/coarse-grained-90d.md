@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="block-copolymer-90d.html">block-copolymer</a> · <a href="membranes-90d.html">membranes</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>James F. Tallman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14964.html">Dependence of the extra-cellular diffusion coefficient on the fractions of neurites and cell bodies in gray matter</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Hong-Hsi Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14964">2606.14964</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09279.html">Bridging nanoparticle morphology and viscoelastic behavior in epoxy nanocomposites: A coarse-grained simulation-informed constitutive model</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a></div></td>

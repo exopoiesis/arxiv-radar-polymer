@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Yanbin Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16147">2606.16147</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11651.html">DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropolymers as Protein Mimics</a></div></td>
 <td>Shuni Li et al.</td>
@@ -80,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02281.html">AlloyVAE: A generative model for complex probabilistic field-to-field relationships in alloys</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
 <td>Ningyu Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02281">2604.02281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26705.html">PI-Mamba: Linear-Time Protein Backbone Generation via Spectrally Initialized Flow Matching</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Tianyu Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26705">2603.26705</a></td>
 </tr>
 </tbody></table>

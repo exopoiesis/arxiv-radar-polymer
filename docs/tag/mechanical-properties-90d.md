@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16951.html">Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets</a></div></td>
+<td>Chirantan Sen Mukherjee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16951">2606.16951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15403.html">Cobalt-Catalysed Chain Transfer Polymerisation Enables Soft Methacrylate Nematic Elastomers for Switchable Pressure-Sensitive Adhesion</a></div><div class="paper-tags"><a href="polymerization-90d.html">polymerization</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Noboru Koshimizu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15403">2606.15403</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>N. Mendez et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14983.html">Thermally Regulated Viscoelastic Tidal Migration of Eccentric Planets</a></div></td>
+<td>Cristobal Petrovich et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14983">2606.14983</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12786.html">Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory</a></div></td>
 <td>Jun Zhou et al.</td>
@@ -746,29 +770,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18302.html">Sub-Yield Dynamics in Yield-Stress Materials</a></div></td>
 <td>Alice Woodbridge et al.</td>
 <td><a href="http://arxiv.org/abs/2603.18302">2603.18302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16027.html">Dynamics of particle lane formation in confined viscoelastic fluids under shear</a></div></td>
-<td>Hiroto Yokoyama et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16027">2603.16027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16804.html">Visualizing shear-induced structures in carbon black gels by tomo-rheoscopy</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="rheology-90d.html">rheology</a> · <a href="saxs-90d.html">saxs</a></div></td>
-<td>Julien Bauland et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16804">2603.16804</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16977.html">Hydrodynamic Modeling of Odd Nematic Elasticity in Liquid Crystals</a></div></td>
-<td>Zeyang Mou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16977">2603.16977</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17027.html">Resetting in a viscoelastic bath: the bath remembers</a></div></td>
-<td>Ion Santra et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17027">2603.17027</a></td>
 </tr>
 </tbody></table>

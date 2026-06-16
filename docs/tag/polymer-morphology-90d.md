@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="block-copolymer-90d.html">block-copolymer</a> · <a href="coarse-grained-90d.html">coarse-grained</a> · <a href="membranes-90d.html">membranes</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>James F. Tallman et al.</td>
+<td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14251.html">HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a></div></td>
 <td>Weiyi Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14251">2606.14251</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14964.html">Dependence of the extra-cellular diffusion coefficient on the fractions of neurites and cell bodies in gray matter</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Hong-Hsi Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.14964">2606.14964</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-11</td>
@@ -290,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17263.html">Thermodynamic accessibility of Li-Mn-Ti-O cation disordered rock-salt phases</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Ronald L. Kam et al.</td>
 <td><a href="http://arxiv.org/abs/2603.17263">2603.17263</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26267.html">Axonal microstructure and compartmentalization impact the orientation and time dependence of mesoscopic transverse relaxation</a></div></td>
-<td>Anders Dyhr Sandgaard et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26267">2509.26267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16804.html">Visualizing shear-induced structures in carbon black gels by tomo-rheoscopy</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a> · <a href="saxs-90d.html">saxs</a></div></td>
-<td>Julien Bauland et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16804">2603.16804</a></td>
 </tr>
 </tbody></table>

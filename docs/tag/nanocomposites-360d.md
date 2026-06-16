@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02926.html">Nonlinear ferroelectric characteristics of barium titanate nanocrystals determined via a polymer nanocomposite approach</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Qiong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02926">2507.02926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17397.html">Negative intrinsic viscosity in graphene nanoparticle suspensions induced by hydrodynamic slip</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Adyant Agrawal et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17397">2506.17397</a></td>
 </tr>
 </tbody></table>

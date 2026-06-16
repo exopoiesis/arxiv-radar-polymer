@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15403.html">Cobalt-Catalysed Chain Transfer Polymerisation Enables Soft Methacrylate Nematic Elastomers for Switchable Pressure-Sensitive Adhesion</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
+<td>Noboru Koshimizu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.15403">2606.15403</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Shuqi Zhou et al.</td>
@@ -236,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20119.html">Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Hajar Ajiyel et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20119">2603.20119</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.16804.html">Visualizing shear-induced structures in carbon black gels by tomo-rheoscopy</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="saxs-90d.html">saxs</a></div></td>
-<td>Julien Bauland et al.</td>
-<td><a href="http://arxiv.org/abs/2603.16804">2603.16804</a></td>
 </tr>
 </tbody></table>
