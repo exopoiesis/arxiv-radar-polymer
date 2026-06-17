@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">460 papers</span>
+  <span class="paper-count">461 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Abhishek Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17938.html">Joint Analysis of Shannon and Tsallis Entropy and GRACE-FO driven Equivalent Water Height Anomalies for Pre- and Post-Rupture Monitoring: An Example of the 2023 Mw = 7.8 Kahramanmaraş Earthquake, Türkiye</a></div></td>
+<td>Muhammed Hossein Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17938">2606.17938</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16951.html">Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets</a></div></td>
@@ -2768,11 +2780,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18168.html">Mixed virtual element methods for a stress-velocity-rotation formulation in viscoelasticity</a></div></td>
 <td>Sarvesh Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.18168">2506.18168</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.17653.html">Diffusion of Tracer Particles in Early Growing Biofilms. A Computer Simulation Study</a></div></td>
-<td>Fabian A. Garcia Daza et al.</td>
-<td><a href="http://arxiv.org/abs/2506.17653">2506.17653</a></td>
 </tr>
 </tbody></table>

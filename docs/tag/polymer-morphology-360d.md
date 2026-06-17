@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Abhishek Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="membranes-360d.html">membranes</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>James F. Tallman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17235.html">Physics-Informed Attention Mechanism and Generalization Capability of Deep Learning-Based Grain Growth Evolution Prediction</a></div></td>
+<td>Pungponhavoan Tep et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17235">2606.17235</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-12</td>

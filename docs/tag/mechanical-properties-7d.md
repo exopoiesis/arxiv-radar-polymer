@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Abhishek Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17938.html">Joint Analysis of Shannon and Tsallis Entropy and GRACE-FO driven Equivalent Water Height Anomalies for Pre- and Post-Rupture Monitoring: An Example of the 2023 Mw = 7.8 Kahramanmaraş Earthquake, Türkiye</a></div></td>
+<td>Muhammed Hossein Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17938">2606.17938</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16951.html">Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets</a></div></td>
 <td>Chirantan Sen Mukherjee et al.</td>
@@ -50,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
 <td>Tianyi Chu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10268.html">Rotation-to-translation conversion by geometric asymmetry in viscoelastic fluids</a></div></td>
-<td>Takuya Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10268">2606.10268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10801.html">Nonlinear Anisotropic Visco-Anelasticity</a></div></td>
-<td>Souhayl Sadik et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10801">2606.10801</a></td>
 </tr>
 </tbody></table>

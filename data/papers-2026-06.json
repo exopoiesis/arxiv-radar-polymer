@@ -2177,5 +2177,127 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-06-15"
+ },
+ "2606.17018": {
+  "abstract": "Distributed Acoustic Sensing (DAS) enables the repurposing of existing fiber-optic networks as ultra-dense, long-range seismic arrays for urban monitoring. However, constraints imposed by real-world fiber infrastructure topology and components limit its use for city-scale applications. Recent technological developments have paved the way for short-range, on-chip DAS. Assuming their availability, and based on a Graph Theory framework, we show that monitoring applications fall along a coverage spectrum with two critical thresholds that define three distinct regimes. Low coverage (<10%) can, with optimal design, resolve earthquake early warning, groundwater monitoring, geological mapping, and urban activity tracking. A percolation transition occurs at 51.6% coverage, beyond which the city effectively becomes fully covered and statistical traffic monitoring is possible. Only for effectively complete coverage, infrastructure monitoring, individual vehicle tracking, and pedestrian movement analysis become possible. Thus, privacy-related risks remain very low. We show and exemplify how, for metropolises around the world, an optimal sensing network can be designed for earthquake early warning, traffic monitoring, and urban activity tracking. This framework provides a near-future roadmap for deploying urban DAS networks as a backbone of smart city sensing.",
+  "authors": [
+   "Khen Cohen",
+   "Ariel Lellouch"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.app-ph",
+   "physics.geo-ph",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Khen Cohen",
+  "pdf_url": "http://arxiv.org/pdf/2606.17018",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-15",
+  "tags": [],
+  "title": "Distributed Acoustic Sensing for Urban Monitoring: Coverage Thresholds and Percolation",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.17235": {
+  "abstract": "Machine Learning (ML) models for grain growth prediction are typically trained on idealized synthetic data, yet practical applications require generalization to conditions outside the training distribution. This study evaluated the Out-Of-Distribution (OOD) generalization capability of the trained model from our previous study across three test cases, including experimental microstructures, microstructures characterized by a bimodal grain size distribution, and abnormal grain growth. To further probe whether physics-informed architectural design could improve robustness under these different conditions, a boundary-masked attention mechanism was proposed specifically for grain growth, constraining attention to grain boundary pixels. Both the baseline and the proposed physics-informed attention model were evaluated without retraining or fine-tuning on the OOD data. Both models successfully generalized to all three test cases, yet the boundary-masked attention mechanism provided substantial improvements, with the most notable gains for microstructures characterized by a bimodal grain size distribution, where Structural Similarity Index Measure (SSIM) improved from \\num{0.6221} to \\num{0.7609} and mean grain size ($\\overline{R}$) error decreased from \\SI{8.75}{\\percent} to \\SI{3.57}{\\percent}. The attention heatmap analysis revealed that the boundary-masked attention model learned to concentrate attention on large grain boundaries in a manner consistent with curvature-driven grain growth physics, emerging from training without being explicitly encoded into the architecture. These results indicate that models trained on synthetic data can generalize to diverse OOD conditions without retraining, and that physics-informed attention may improve accuracy when the boundary morphology matches the training domain.",
+  "authors": [
+   "Pungponhavoan Tep",
+   "Marc Bernacki"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Pungponhavoan Tep",
+  "pdf_url": "http://arxiv.org/pdf/2606.17235",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-15",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Physics-Informed Attention Mechanism and Generalization Capability of Deep Learning-Based Grain Growth Evolution Prediction",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-15"
+ },
+ "2606.17576": {
+  "abstract": "Magneto-active polymers (MAPs) are field-responsive soft composites whose mechanical behaviour can be actively modified by external magnetic fields. Their ability to exhibit field-induced stiffening, magnetostriction, anisotropy and rate-dependent response makes them attractive for sensors, actuators, adaptive structures, vibration-control devices and soft robotic systems. This article presents a structured survey of constitutive modelling approaches for MAPs at finite strains. The review traces the development from early semi-empirical descriptions to thermodynamically consistent nonlinear continuum theories, with particular attention to isotropic and anisotropic magnetoelastic constitutive models, invariant-based and spectral representations, variational and polyconvex frameworks, microstructurally motivated models, dispersed-chain descriptions and magneto-viscoelastic theories. The principal constitutive variables, energy functions, coupling mechanisms and physical assumptions underlying the main models are discussed. The survey shows that constitutive modelling of MAPs has developed into a broad family of nonlinear, anisotropic and dissipative frameworks capable of describing versatile behaviours observed experimentally. Important challenges remain in resolving thermo-magneto-mechanical coupling and microstructure-sensitive effects, identification of parameters, validation of models as well as robust and efficient implementation on computers.",
+  "authors": [
+   "Abhishek Ghosh",
+   "Chennakesava Kadapa",
+   "Mokarram Hossain"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Abhishek Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2606.17576",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-06-16",
+  "tags": [
+   "composites",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Constitutive modelling of magneto-active polymers at finite strains: A survey",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-16"
+ },
+ "2606.17938": {
+  "abstract": "In order to understand the variations in fault systems throughout the seismogenic cycle, mechanical states and the complexities of seismic interactions must be considered. In this study, we present a data integration framework combining a 25-year seismic catalog with Equivalent Water Height (EWH) datasets from the GRACE-FO mission and two information-theoretic complexity measures (Shannon and Tsallis entropy) to examine spatiotemporal changes in the East Anatolian Fault System associated with the 2023 Kahramanmaraş earthquake doublet. The pre-rupture period exhibits a systematic increase in the entropy measures alongside a gradual decrease in EWH, suggesting a transition towards fault network criticality driven by segment fragmentation, long-range correlations, poroelastic contraction, fluid migration, and progressive stress accumulation. During the co-seismic phase, we observe an abrupt increase in entropy with a corresponding negative shift in EWH. In the post-seismic period, the persistence of elevated entropy and EWH anomalies indicates that the fault system remains in a non-equilibrium state dominated by aftershock clustering, fault zone damage, permeability changes, and viscoelastic relaxation. Additionally, structured computational workflows detailing these joint methodologies are provided via the Seismic Entropy Analysis (Algorithm 1) and the Relationship Between Tsallis q and Gutenberg-Richter b-value (Algorithm 2) pseudo-codes, facilitating the direct reproduction and regeneration of all results.",
+  "authors": [
+   "Muhammed Hossein Mousavi",
+   "Hamzeh Mohammadigheymasi",
+   "Amirreza Moradi"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Muhammed Hossein Mousavi",
+  "pdf_url": "http://arxiv.org/pdf/2606.17938",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-06-16",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Joint Analysis of Shannon and Tsallis Entropy and GRACE-FO driven Equivalent Water Height Anomalies for Pre- and Post-Rupture Monitoring: An Example of the 2023 Mw = 7.8 Kahramanmaraş Earthquake, Türkiye",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-16"
+ },
+ "2606.17965": {
+  "abstract": "According to the recent Wealth Thermalization Hypothesis (WTH) the wealth inequality in the world is described by the Rayleigh-Jeans (RJ) thermal distribution of interacting agents in a society with social stratification. In this concept, the wealth layers of society are associated with energy levels from a nonlinear dynamical system conserving two integrals of motion being total energy and probability norm. This leads to RJ condensation and the formation of a huge poverty phase of low wealth and a tiny oligarchic phase that captures a main part of total society wealth. This RJ phenomenon has similarities with self cleaning in multimode optical fibers and constraint driven condensation in various physical systems. We analyze real Lorenz and Pareto curves for wealth of households in countries and the world, Gross Domestic Product of countries, market capitalization of companies at stock exchange of Hong Kong, Shanghai, London, bitcoin transactions, world trade between countries and show that the WTH theory gives a good description of these curves. On the basis of this comparison we argue that the RJ thermal distribution provides a universal description of wealth inequality in the world.",
+  "authors": [
+   "Klaus M. Frahm",
+   "Leonardo Ermann",
+   "Dima L. Shepelyansky"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "econ.GN",
+   "physics.soc-ph"
+  ],
+  "comment": "includes certain unpublished parts of arXiv:2512.06420, arXiv:2506.17720 ; 37 pages, 26 figures, includes also MDPI style files in subfolder Definitions",
+  "first_author": "Klaus M. Frahm",
+  "pdf_url": "http://arxiv.org/pdf/2606.17965",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-16",
+  "tags": [],
+  "title": "Thermodynamic description of wealth inequality in the world",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-16"
  }
 }

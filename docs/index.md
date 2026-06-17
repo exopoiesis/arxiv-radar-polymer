@@ -5,15 +5,33 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-16._
+_Updated 2026-06-17._
 
-**3492** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3497** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Abhishek Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17938.html">Joint Analysis of Shannon and Tsallis Entropy and GRACE-FO driven Equivalent Water Height Anomalies for Pre- and Post-Rupture Monitoring: An Example of the 2023 Mw = 7.8 Kahramanmaraş Earthquake, Türkiye</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Muhammed Hossein Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17938">2606.17938</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17965.html">Thermodynamic description of wealth inequality in the world</a></div></td>
+<td>Klaus M. Frahm et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17965">2606.17965</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16147.html">Stitching Molecular Worlds Together with Physics-Coupled Diffusion Models</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
@@ -43,6 +61,18 @@ _Updated 2026-06-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.16951.html">Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Chirantan Sen Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16951">2606.16951</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17018.html">Distributed Acoustic Sensing for Urban Monitoring: Coverage Thresholds and Percolation</a></div></td>
+<td>Khen Cohen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17018">2606.17018</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.17235.html">Physics-Informed Attention Mechanism and Generalization Capability of Deep Learning-Based Grain Growth Evolution Prediction</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Pungponhavoan Tep et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17235">2606.17235</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-14</td>
@@ -163,35 +193,5 @@ _Updated 2026-06-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
 <td>Shengli Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.11574">2606.11574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.11651.html">DeepRHP: A Hybrid Variational Autoencoder for Designing Random Heteropolymers as Protein Mimics</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a></div></td>
-<td>Shuni Li et al.</td>
-<td><a href="http://arxiv.org/abs/2606.11651">2606.11651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12113.html">Augmenting Molecular Language Models with Local $n$-gram Memory</a></div></td>
-<td>Xinni Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12113">2606.12113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12302.html">Effect of Additively Manufactured Wall Lattice Structures on Flashback Limits in a Hydrogen Jet Flame Combustor</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Alexander Jaeschke et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12302">2606.12302</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Shuqi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12308">2606.12308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12695.html">Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Jonas Welsch et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12695">2606.12695</a></td>
 </tr>
 </tbody></table>

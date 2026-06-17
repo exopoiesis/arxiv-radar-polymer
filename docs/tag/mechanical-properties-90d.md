@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">125 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Abhishek Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17938.html">Joint Analysis of Shannon and Tsallis Entropy and GRACE-FO driven Equivalent Water Height Anomalies for Pre- and Post-Rupture Monitoring: An Example of the 2023 Mw = 7.8 Kahramanmaraş Earthquake, Türkiye</a></div></td>
+<td>Muhammed Hossein Mousavi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17938">2606.17938</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16951.html">Simulation-Based Multi-Fillet Evaluation of Woody Breast Poultry Fillets</a></div></td>
@@ -752,23 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19095.html">Analysis of Io&#x27;s tidal response as a function of the properties of the partially molten layer</a></div></td>
 <td>M. Paris et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19095">2603.19095</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17701.html">Deep Learning-Based 3D Seismic Velocity Inversion Under Dual-Domain Sparse Representation</a></div></td>
-<td>Guoxin Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17701">2603.17701</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18296.html">Nonlinear Incompressible Shear Wave Models in Hyperelasticity and Viscoelasticity Frameworks, with Applications to Love Waves</a></div></td>
-<td>Shawn Samuel Carl McAdam et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18296">2603.18296</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.18302.html">Sub-Yield Dynamics in Yield-Stress Materials</a></div></td>
-<td>Alice Woodbridge et al.</td>
-<td><a href="http://arxiv.org/abs/2603.18302">2603.18302</a></td>
 </tr>
 </tbody></table>

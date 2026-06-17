@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Abhishek Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16443.html">Persistence Properties of a Phase-ordering System with Competing Dynamics</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Shubham Thwal et al.</td>
@@ -962,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19987.html">Unified formulas for the effective conductivity of fibrous composites with circular inclusions and parallelogram periodicity and its influence on thermal gain in nanofluids</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Raúl Guinovart-Díaz et al.</td>
 <td><a href="http://arxiv.org/abs/2506.19987">2506.19987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06240.html">Theory of Dielectric Behavior in Composites</a></div></td>
-<td>Lifeng Hao et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06240">2507.06240</a></td>
 </tr>
 </tbody></table>
