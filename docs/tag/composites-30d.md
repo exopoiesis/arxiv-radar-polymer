@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18360.html">Equilibration of generalized subsystems: a quantum-channel approach</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Pedro S. Correia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18360">2606.18360</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16443.html">Persistence Properties of a Phase-ordering System with Competing Dynamics</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Shubham Thwal et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
 <td>Vinay Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18254.html">Efficient generation of large-scale non-equilibrium distributions of particles</a></div></td>
-<td>Sergejs Tarasovs</td>
-<td><a href="http://arxiv.org/abs/2605.18254">2605.18254</a></td>
 </tr>
 </tbody></table>

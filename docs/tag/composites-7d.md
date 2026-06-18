@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18360.html">Equilibration of generalized subsystems: a quantum-channel approach</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a></div></td>
+<td>Pedro S. Correia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18360">2606.18360</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16443.html">Persistence Properties of a Phase-ordering System with Competing Dynamics</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>Shubham Thwal et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12778.html">Revealing nonvolatile behaviors in magneto-thermal switching using microstructure-controlled superconducting composites</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="thermal-conductivity-7d.html">thermal-conductivity</a></div></td>
 <td>Keigo Ito et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12778">2606.12778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12695.html">Polymer-based Capacitive Micromachined Transducer-Enabled Inline Monitoring of Ultrasonic Welding in Thermoplastic Carbon Fiber Composites</a></div></td>
-<td>Jonas Welsch et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12695">2606.12695</a></td>
 </tr>
 </tbody></table>

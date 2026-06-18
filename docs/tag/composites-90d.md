@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17576.html">Constitutive modelling of magneto-active polymers at finite strains: A survey</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Abhishek Ghosh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17576">2606.17576</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18360.html">Equilibration of generalized subsystems: a quantum-channel approach</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Pedro S. Correia et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18360">2606.18360</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-15</td>
@@ -272,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19886.html">A Complete X-ray View of Supernova Remnant W28 with Einstein Probe: Spatial Distribution of Parameters and Origin of the Thermal-Composite Morphology</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Yi-Heng Chi et al.</td>
 <td><a href="http://arxiv.org/abs/2603.19886">2603.19886</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07526.html">DL_POLY 5: Calculation of system properties on the fly for very large systems via massive parallelism</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
-<td>H. L. Devereux et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07526">2503.07526</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01062.html">Quantifying Student Success with Generative AI: A Monte Carlo Simulation Informed by Systematic Review</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Seyma Yaman Kayadibi</td>
-<td><a href="http://arxiv.org/abs/2507.01062">2507.01062</a></td>
 </tr>
 </tbody></table>

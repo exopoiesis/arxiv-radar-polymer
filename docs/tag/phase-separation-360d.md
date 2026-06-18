@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18911.html">Nonequilibrium nucleation theory for nonconserved fields: from active matter to population dynamics</a></div></td>
+<td>Michalis Chatzittofi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18911">2606.18911</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Micheal B. Oguntola et al.</td>
@@ -1916,11 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15627.html">Non-Stationary Critical Phenomena: Expanding The Critical Point</a></div></td>
 <td>Richard E. Spinney et al.</td>
 <td><a href="http://arxiv.org/abs/2412.15627">2412.15627</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18157.html">Pattern-Based Phase-Separation of Tracer and Dispersed Phase Particles in Two-Phase Defocusing Particle Tracking Velocimetry</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Christian Sax et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18157">2506.18157</a></td>
 </tr>
 </tbody></table>

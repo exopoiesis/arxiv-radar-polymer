@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 90d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <strong>90d</strong> <a href="thermal-conductivity-360d.html">360d</a> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23494.html">Active learning-enabled multi-objective design of thermally conductive and mechanically compliant polymers</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-informatics-90d.html">polymer-informatics</a></div></td>
 <td>Yuhan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23494">2603.23494</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07526.html">DL_POLY 5: Calculation of system properties on the fly for very large systems via massive parallelism</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>H. L. Devereux et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07526">2503.07526</a></td>
 </tr>
 </tbody></table>

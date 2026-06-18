@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18911.html">Nonequilibrium nucleation theory for nonconserved fields: from active matter to population dynamics</a></div></td>
+<td>Michalis Chatzittofi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.18911">2606.18911</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
@@ -134,17 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20358.html">Modeling phase separation in polymer-derived carbonitride ceramics through extended machine learning molecular dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Fabien Mortier et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20358">2605.20358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17917.html">Lateral hydrodynamics in supported membranes: The Evans-Sackmann model and its extensions</a></div><div class="paper-tags"><a href="membranes-30d.html">membranes</a></div></td>
-<td>Yuto Hosaka et al.</td>
-<td><a href="http://arxiv.org/abs/2605.17917">2605.17917</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18057.html">Chemo-mechanical coupling stabilizes mixed $\mathrm{Ag}_{x}\mathrm{Cu}_{1-x}\mathrm{GaSe}_{2}$ solar-cell absorbers: Insights from Monte-Carlo simulations assisted by ab initio informed machine-learning potentials</a></div></td>
-<td>Vasilios Karanikolas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.18057">2605.18057</a></td>
 </tr>
 </tbody></table>

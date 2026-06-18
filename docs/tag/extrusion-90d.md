@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>extrusion — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <strong>90d</strong> <a href="extrusion-360d.html">360d</a> <a href="extrusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01991.html">Integrated Identification of Collaborative Robots for Robot Assisted 3D Printing Processes</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Alessandro Dimauro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01991">2604.01991</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20636.html">Image2Gcode: Image-to-G-code Generation for Additive Manufacturing Using Diffusion-Transformer Model</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>Ziyue Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20636">2511.20636</a></td>
 </tr>
 </tbody></table>
