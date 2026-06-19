@@ -2425,5 +2425,206 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-17"
+ },
+ "2606.19362": {
+  "abstract": "In the Euclidean view one must first require that positivity not be violated, and from this modest demand, together with locality, a great deal follows: starting from a reflection-positive lattice formulation of pure SU(N) Yang-Mills theory we obtain a transfer operator with a uniform gap, while large Wilson loops already show an area law by means of convergent character (polymer) expansions; a finite-range, gauge-covariant multiscale analysis then carries these features from one scale to the next with interlaced inequalities whose small defects can be summed, so that exponential clustering and a strictly positive string tension endure in the continuum; the Osterwalder-Schrader reconstruction turns these Euclidean facts into a Minkowski theory with a self-adjoint Hamiltonian, the spectral gap lying above the vacuum and the linear potential for static charges appearing, which gives a concrete picture of confinement; the construction depends on no special regulator, for a single-scale Lipschitz control and a telescoping argument bind all admissible reflection-positive slicings into a unique limiting measure and thus secure universality; moreover, the same framework admits entry from weak coupling, so that the continuum reached from strong coupling meets the one approached along an asymptotically free trajectory, yielding one and the same theory; in my view this is how mathematical clarity and physical insight cooperate: positivity, locality, and renormalization working together so that the mass gap and confinement are not marvels to be assumed, but natural properties of the non-Abelian vacuum.",
+  "authors": [
+   "Mir Faizal",
+   "Arshid Shabir"
+  ],
+  "categories": [
+   "hep-lat",
+   "hep-th"
+  ],
+  "comment": "The detailed calculations supporting the results of the present paper have been published as a series of four papers: Int. J. Geom. Meth. Mod. Phys. (2026) 2650114, Int. J. Geom. Meth. Mod. Phys. (2026) 2650113, Int. J. Geom. Meth. Mod. Phys. (2026) 2650112, Int. J. Geom. Meth. Mod. Phys. (2026) 2650111. For the reader's convenience, these papers are included at the end of the present paper",
+  "first_author": "Mir Faizal",
+  "pdf_url": "http://arxiv.org/pdf/2606.19362",
+  "primary_category": "hep-lat",
+  "published": "2026-06-09",
+  "tags": [],
+  "title": "Reflection-Positive Construction of a Four-Dimensional SU(N) Yang-Mills Theory with Mass Gap and Confinement",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-09"
+ },
+ "2606.19418": {
+  "abstract": "Predicting detailed atomistic structures of self-assembling systems remains a challenge for all-atom molecular dynamics simulations. Replica exchange with solute tempering (REST) has been used to study those systems by accelerating all monomers in a global and uniform manner. While such a global approach can in principle predict any morphology of the system, it has computational drawbacks such as inefficient replica traversal due to order-disorder transitions and the growing number of replicas with system size. To address these issues, here we propose an alternative, stepwise construction approach to modeling supramolecular polymers under the assumption of one-dimensional polymerization. Specifically, we generate polymer structures by adding new monomers one by one to the system and applying REST to the new monomers to find their optimal binding positions based on an energy-based scoring function. The monomer addition and enhanced sampling are repeated sequentially until a polymer of desired length is obtained. We test the above procedure using a model supramolecular polymer in explicit solvent, and show that it can generate a polymer structure with characteristic H-bonding patterns at reduced computational costs, while also improving the efficiency of replica traversal significantly. We thus expect that the sequential REST will be useful for modeling supramolecular polymers, particularly for cases where global REST simulations are too demanding computationally.",
+  "authors": [
+   "Hadi H. Arefi",
+   "Takeshi Yamamoto"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 9 figures",
+  "first_author": "Hadi H. Arefi",
+  "pdf_url": "http://arxiv.org/pdf/2606.19418",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-17",
+  "tags": [
+   "enhanced-sampling",
+   "molecular-dynamics",
+   "polymer-morphology",
+   "polymerization"
+  ],
+  "title": "Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19556": {
+  "abstract": "Predictive simulation of melt pool dynamics in laser-based processing of metals, e.g., laser beam welding or laser powder bed fusion additive manufacturing, requires accurate resolution of thermo-hydrodynamic interactions at the melt-gas interface. Here, evaporation-induced recoil pressure and temperature-dependent surface tension govern the flow. Because these mechanisms depend sensitively, often exponentially, on the interface temperature, reliable predictions demand highly accurate heat transfer models. Popular diffuse-interface formulations smear the extreme thermal gradients as typical for laser-metal interactions, leading to interface temperature errors that critically degrade the accuracy of interface force predictions and melt pool dynamics. We present a hybrid sharp-diffuse interface approach for high-fidelity modelling of melt pool thermo-hydrodynamics with rapid evaporation. The heat transfer problem is represented using a sharp-interface unfitted finite element (CutFEM) formulation, enabling accurate prediction of the temperature field. The multi-phase flow problem, characterized by large density ratios and complex interface dynamics, is accurately captured using a robust level-set-based one-fluid diffuse-interface finite element formulation. Consistent coupling is achieved by extending the sharp-interface temperature into a narrow interface region to evaluate temperature-dependent interface forces within the diffuse-interface flow framework. In practically relevant benchmarks, the sharp-interface thermal model exhibits second-order spatial convergence, enabling finite element sizes two orders of magnitude larger than the diffuse-interface approach for 1 accuracy. In a novel coupled thermo-hydrodynamic benchmark representative of laser-metal interactions, the hybrid approach is one order of magnitude more accurate than a purely diffuse-interface model on the same mesh. Robu",
+  "authors": [
+   "Nils Much",
+   "Andreas Koch",
+   "Christoph Meier",
+   "Magdalena Schreter-Fleischhacker"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Nils Much",
+  "pdf_url": "http://arxiv.org/pdf/2606.19556",
+  "primary_category": "cs.CE",
+  "published": "2026-06-17",
+  "tags": [
+   "additive-manufacturing",
+   "benchmarking"
+  ],
+  "title": "A hybrid sharp-diffuse interface approach to accurately model melt pool dynamics with rapid evaporation in laser-based processing of metals",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-17"
+ },
+ "2606.19870": {
+  "abstract": "Haematocrit influences blood viscosity and may affect coronary computational fluid dynamics (CFD). However, previous studies examined broad or pathological haematocrit ranges, and it remains unclear whether female-specific haematocrit variations within the physiological range produce meaningful changes in coronary haemodynamics. 15 female coronaries were analysed, including healthy arteries and diseased models with mild, moderate and severe stenosis. A haematocrit-dependent Carreau-Yasuda model was developed. CFD simulations were performed using the standard rheology model and a female-specific haematocrit-based model (40%). Time-averaged endothelial shear stress (TAESS), ESS gradient (ESSG), temporal shear variation index (TSVI), helicity, and low/high TAESS exposure were compared across coronary trees, arterial segments, bifurcations, stenosed vessels and corresponding narrowed regions. The female-specific model produced statistically significant differences from the standard model across all metrics and coronary regions (p < 0.05). However, the absolute differences were small, indicating a limited haemodynamic impact. Bland-Altman analysis showed narrow biases and limits of agreement. Linear regression demonstrated significant associations between inter-model differences and haemodynamic magnitude for TAESS, ESSG, helicity intensity, and adverse TAESS exposure, but the slopes were small. Similar findings were observed in stenosed arteries, where both models captured comparable flow disturbances across stenosis severities. Female-specific haematocrit variation within the physiological range is computationally detectable but haemodynamically negligible in coronary CFD. A standard rheology model is therefore likely sufficient for most coronary CFD studies, while personalised haematocrit modelling is more relevant for patients with abnormal haematocrit or rheology-focused studies.",
+  "authors": [
+   "C. Shen",
+   "M. Zhang",
+   "T. Shalaby",
+   "C. S. McLachlan",
+   "S. Beier"
+  ],
+  "categories": [
+   "physics.med-ph"
+  ],
+  "comment": null,
+  "first_author": "C. Shen",
+  "pdf_url": "http://arxiv.org/pdf/2606.19870",
+  "primary_category": "physics.med-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "rheology"
+  ],
+  "title": "Physiological Sex-Specific Haematocrit Has Minimal Effect on Coronary Computational Haemodynamics: Modelling Implications for Blood Rheology",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.19934": {
+  "abstract": "Current machine learning models commonly require large and well-annotated datasets. However, the annotation process often becomes a bottleneck, with increased complexity leading to higher chances of human errors. Within this context, our goal in this paper is to leverage unsupervised algorithms to improve data annotation efficiency for complex semantic segmentation problems in industrial materials science. Previous research has quantified labeling time and others explored unsupervised methods. However, to the best of our knowledge, this is the first study to quantify how much unsupervised algorithms accelerate the labeling process. We aim to validate the extent to which this laborious process can be accelerated, focusing on semantic segmentation tasks that involve annotating each pixel of high-resolution images, such as the microstructure characterization challenge in materials science. Specifically, we demonstrate that by using unsupervised computer vision algorithms, the time required for the labeling process can be reduced from 170 hours to 37 hours, achieving an approximate reduction of 78\\%. The dataset we work with includes large images of dimensions 1280x959 and 960x703, which further increases the complexity of the annotation task. Despite these challenges, we create and share the largest public steel microstructure segmentation dataset to date, available under MIT License with permanent DOI, contributing a fully annotated, high-resolution dataset to the field. Additionally, this is the first work to compare the labeling time from scratch (a common approach in previous studies) to the labeling time when using these unsupervised algorithms as a pre-annotation step. Furthermore, we provide a Deep Learning model trained on this dataset, validated by field experts, and deployed in an industrial setting, serving as an initial benchmark for this public dataset.",
+  "authors": [
+   "Marta Fernandez-Moreno",
+   "Margarita Guerrero",
+   "Rosalia Rementeria",
+   "Pablo Mesejo",
+   "Raul Moreno"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Marta Fernandez-Moreno",
+  "pdf_url": "http://arxiv.org/pdf/2606.19934",
+  "primary_category": "cs.CV",
+  "published": "2026-06-18",
+  "tags": [
+   "benchmarking",
+   "polymer-morphology"
+  ],
+  "title": "Speeding up the annotation process in semantic segmentation industrial applications",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20087": {
+  "abstract": "Additive manufacturing process optimization requires precise parameter control to minimize defects such as porosity. Traditional reinforcement learning (RL) approaches using discrete action spaces suffer from slow convergence and susceptibility to local optima, limiting their effectiveness for high-precision manufacturing tasks. This study addresses these limitations by employing a continuous action space combined with a novel architecture that integrates a multi-head attention mechanism with the Soft Actor-Critic (SAC) algorithm. The attention-based feature extractor enhances the agent's ability to capture subtle variations in low-dimensional input features, enabling more effective exploration-exploitation balance for navigating value spaces with local minima. We validate our approach on porosity prediction and process parameter optimization in laser powder bed fusion, demonstrating faster convergence and higher final reward values compared to standard RL methods including DQN, PPO, TD3, and vanilla SAC. The proposed methodology achieves a convergence value of 322.79 within 14 episodes, outperforming existing approaches while maintaining stability throughout training.",
+  "authors": [
+   "Kianoush Aqabakee",
+   "Leonardo Stella"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Kianoush Aqabakee",
+  "pdf_url": "http://arxiv.org/pdf/2606.20087",
+  "primary_category": "cs.AI",
+  "published": "2026-06-18",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Multi-Head Attention-Based Feature Extractor Integration with Soft Actor-Critic for Porosity Prediction and Process Parameter Optimization in Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20403": {
+  "abstract": "We revisit the charge-1/3 anyon fluid obtained by doping the $ν= 2/3$ Jain fractional Chern insulator (FCI). In the standard composite fermion description, the doped anyons fractionalize into three translation-related flavors of secondary composite fermions, whose gauge-mediated interactions drive a robust inter-flavor pairing instability. In our previous work, we analyzed a flavor-asymmetric paired state and obtained a charge-ordered Fermi liquid. Inspired by a recent paper, we consider an alternative flavor-symmetric paired state and show that it is an SC* state: a charge-$2e$ condensate that coexists with residual $\\mathbb{Z}_2$ topological order. The weak and strong pairing regimes share the same intrinsic topological order but differ in chiral central charge, giving $c_- = 7/2$ and $c_- = 2$. We further show how other proposed effective field theories fit within the same composite fermion description, and argue that across the doping driven FCI-to-superconductor transition, localized anyons evolve into Bogoliubov quasiparticles rather than vortices. At low doping, we identify an approximate SU(3)-symmetric regime in which the system instead realizes a non-Fermi liquid $\\mathbb{Z}_3$ Orthogonal Metal with three charge-1/3 fermion pockets and no sharp electron quasiparticle. Finally, we comment on the energetics of various possible ground states and discuss implications for experiments in moire materials.",
+  "authors": [
+   "Zhengyan Darius Shi",
+   "T. Senthil"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.stat-mech",
+   "hep-th"
+  ],
+  "comment": "7 pages, 1 figure, 1 table, 4 page appendices",
+  "first_author": "Zhengyan Darius Shi",
+  "pdf_url": "http://arxiv.org/pdf/2606.20403",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-18",
+  "tags": [
+   "composites"
+  ],
+  "title": "Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20462": {
+  "abstract": "Many industrial applications and biological scenarios involve the interdiffusion of two polymeric species. Motivated by biological subcellular source-driven processes, we study polymer-polymer interdiffusion problems in the absence or the presence of a polymeric source, for both unentangled and entangled scenarios. Utilizing a two-fluid formalism, we arrive at scaling relations, self-similar reductions, and analytical solutions, which are confirmed with one- and two-dimensional numerical simulations. The introduction of a source term breaks the self-similar structure, modifying the boundary conditions and the domain of integration. Nevertheless, we show that the front characteristics of the diffusing droplet exhibit similar spatial structures as in the absence of a source. Our results allow deeper understanding of polymer-polymer interdiffusion and nonlinear transport, especially in the presence of a source.",
+  "authors": [
+   "Avraham Moriel",
+   "Howard A. Stone"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 7 figures",
+  "first_author": "Avraham Moriel",
+  "pdf_url": "http://arxiv.org/pdf/2606.20462",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-18",
+  "tags": [],
+  "title": "Polymer-polymer interdiffusion: effects of entanglements and a polymeric source",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-18"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">126 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,17 +758,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20592.html">Effects of fluid rheology and geometric disorder on the enhanced resistance of viscoelastic flows through porous media</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Simon J Haward et al.</td>
 <td><a href="http://arxiv.org/abs/2603.20592">2603.20592</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03080.html">Global well-posedness of the elastic-viscous-plastic sea-ice model with the inviscid Voigt-regularisation</a></div></td>
-<td>Daniel W. Boutros et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03080">2505.03080</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17180.html">Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Pietro Miotti et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17180">2603.17180</a></td>
 </tr>
 </tbody></table>

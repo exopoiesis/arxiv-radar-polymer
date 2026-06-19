@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19934.html">Speeding up the annotation process in semantic segmentation industrial applications</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Marta Fernandez-Moreno et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19934">2606.19934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19556.html">A hybrid sharp-diffuse interface approach to accurately model melt pool dynamics with rapid evaporation in laser-based processing of metals</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Nils Much et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19556">2606.19556</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14251.html">HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling</a></div><div class="paper-tags"><a href="multiscale-modeling-30d.html">multiscale-modeling</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Weiyi Wu et al.</td>
@@ -116,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.21622.html">TO-Agents: A Multi-Agent AI Pipeline for Preference-Guided Topology Optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
 <td>Isabella A. Stewart et al.</td>
 <td><a href="http://arxiv.org/abs/2605.21622">2605.21622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.19888.html">GELATO: Multi-Material Topology Optimization of Programmable Gel-Elastomer Structures</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="hydrogels-30d.html">hydrogels</a></div></td>
-<td>Aaditya Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2605.19888">2605.19888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Vinay Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
 </tr>
 </tbody></table>

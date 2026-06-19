@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,23 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25198.html">Classification of interfacial water governed by water-polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Atsuki Hashimoto et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25198">2603.25198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.12964.html">Large dilatational hyperelasticity of glasses en route to cavitation failure</a></div></td>
-<td>Pawandeep Kaur et al.</td>
-<td><a href="http://arxiv.org/abs/2603.12964">2603.12964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.19816.html">Amorphous Silicates -- Time-Current Superposition and the Dynamics of Plastic Flow in the Glassy State</a></div></td>
-<td>Matthieu Bourguignon et al.</td>
-<td><a href="http://arxiv.org/abs/2603.19816">2603.19816</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20119.html">Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Hajar Ajiyel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20119">2603.20119</a></td>
 </tr>
 </tbody></table>

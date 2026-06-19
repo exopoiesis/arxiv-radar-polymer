@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogels — 90d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <strong>90d</strong> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,17 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23881.html">Rethinking failure in polymer networks: a probabilistic view on progressive damage</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Noy Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23881">2603.23881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.17180.html">Mesoscopic Modeling of Dynamic Tetra-PEG Hydrogel Networks</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Pietro Miotti et al.</td>
-<td><a href="http://arxiv.org/abs/2603.17180">2603.17180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20119.html">Mechanical response of a simple DNA nanostar hydrogel: symptoms of disorder and glassy emergence of solidity</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Hajar Ajiyel et al.</td>
-<td><a href="http://arxiv.org/abs/2603.20119">2603.20119</a></td>
 </tr>
 </tbody></table>

@@ -4,37 +4,37 @@
   total: 812
   group: properties
 - name: phase-separation
-  count: 21
+  count: 20
   total: 556
   group: morphology
 - name: benchmarking
   count: 19
-  total: 179
+  total: 181
   group: informatics
-- name: composites
-  count: 14
-  total: 258
-  group: processing
 - name: polymer-morphology
-  count: 14
-  total: 342
+  count: 15
+  total: 344
   group: morphology
+- name: composites
+  count: 13
+  total: 259
+  group: processing
+- name: additive-manufacturing
+  count: 12
+  total: 365
+  group: processing
 - name: coarse-grained
   count: 11
   total: 278
   group: simulation
-- name: additive-manufacturing
+- name: rheology
   count: 10
-  total: 363
+  total: 192
   group: processing
 - name: molecular-dynamics
   count: 9
-  total: 239
+  total: 240
   group: simulation
-- name: rheology
-  count: 9
-  total: 191
-  group: processing
 - name: monte-carlo
   count: 8
   total: 186
@@ -43,22 +43,22 @@
   count: 7
   total: 56
   group: design
-- name: spectroscopy
-  count: 7
-  total: 112
-  group: characterization
 - name: inverse-design
   count: 6
   total: 43
   group: design
-- name: hydrogels
-  count: 5
-  total: 171
-  group: applications
+- name: spectroscopy
+  count: 6
+  total: 112
+  group: characterization
 - name: glass-transition
   count: 4
   total: 146
   group: properties
+- name: hydrogels
+  count: 4
+  total: 171
+  group: applications
 - name: membranes
   count: 4
   total: 85
@@ -91,6 +91,14 @@
   count: 2
   total: 28
   group: morphology
+- name: enhanced-sampling
+  count: 2
+  total: 21
+  group: simulation
+- name: polymerization
+  count: 2
+  total: 52
+  group: synthesis
 - name: active-learning
   count: 1
   total: 19
@@ -107,10 +115,6 @@
   count: 1
   total: 19
   group: properties
-- name: enhanced-sampling
-  count: 1
-  total: 20
-  group: simulation
 - name: flory-huggins
   count: 1
   total: 20
@@ -131,10 +135,6 @@
   count: 1
   total: 10
   group: informatics
-- name: polymerization
-  count: 1
-  total: 51
-  group: synthesis
 - name: tem
   count: 1
   total: 26

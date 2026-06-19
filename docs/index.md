@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-18._
+_Updated 2026-06-19._
 
-**3502** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3510** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19870.html">Physiological Sex-Specific Haematocrit Has Minimal Effect on Coronary Computational Haemodynamics: Modelling Implications for Blood Rheology</a></div><div class="paper-tags"><a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>C. Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19870">2606.19870</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19934.html">Speeding up the annotation process in semantic segmentation industrial applications</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Marta Fernandez-Moreno et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19934">2606.19934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.20087.html">Multi-Head Attention-Based Feature Extractor Integration with Soft Actor-Critic for Porosity Prediction and Process Parameter Optimization in Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Kianoush Aqabakee et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20087">2606.20087</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.20403.html">Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Zhengyan Darius Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20403">2606.20403</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.20462.html">Polymer-polymer interdiffusion: effects of entanglements and a polymeric source</a></div></td>
+<td>Avraham Moriel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.20462">2606.20462</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18626.html">Dynamics of monohydroxy alcohols with chain-like structures: Hydrogen bonding lifetime, chain swapping, and Debye process</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -25,6 +55,18 @@ _Updated 2026-06-18._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.18911.html">Nonequilibrium nucleation theory for nonconserved fields: from active matter to population dynamics</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Michalis Chatzittofi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18911">2606.18911</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="tag/enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/polymerization-30d.html">polymerization</a></div></td>
+<td>Hadi H. Arefi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.19556.html">A hybrid sharp-diffuse interface approach to accurately model melt pool dynamics with rapid evaporation in laser-based processing of metals</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Nils Much et al.</td>
+<td><a href="http://arxiv.org/abs/2606.19556">2606.19556</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -151,47 +193,5 @@ _Updated 2026-06-18._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>N. Mendez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14964.html">Dependence of the extra-cellular diffusion coefficient on the fractions of neurites and cell bodies in gray matter</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Hong-Hsi Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14964">2606.14964</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.14983.html">Thermally Regulated Viscoelastic Tidal Migration of Eccentric Planets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Cristobal Petrovich et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14983">2606.14983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12778.html">Revealing nonvolatile behaviors in magneto-thermal switching using microstructure-controlled superconducting composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
-<td>Keigo Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12778">2606.12778</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12786.html">Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Jun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12786">2606.12786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.12795.html">When proofreading improves both speed and accuracy</a></div></td>
-<td>Arup Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12795">2606.12795</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13117.html">Model structures and electron transfer properties of conductive nickel-organic nanoribbons in cable bacteria</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Oliver Russell et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13117">2606.13117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.13484.html">Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>William Chèvremont et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13484">2606.13484</a></td>
 </tr>
 </tbody></table>
