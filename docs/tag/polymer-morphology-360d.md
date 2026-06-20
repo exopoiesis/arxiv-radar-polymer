@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.17427.html">3D variational autoencoder for fingerprinting microstructure volume elements</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Michael D. White et al.</td>
 <td><a href="http://arxiv.org/abs/2503.17427">2503.17427</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18229.html">The role of dendritic spines in water exchange measurements with diffusion MRI: Time-Dependent Single Diffusion Encoding MRI</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Kadir Şimşek et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18229">2506.18229</a></td>
 </tr>
 </tbody></table>

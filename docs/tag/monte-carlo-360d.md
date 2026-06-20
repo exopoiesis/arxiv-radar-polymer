@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,11 +686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23597.html">Soft Coulomb Gap Limits the Performance of Organic Thermoelectrics</a></div></td>
 <td>Yuqian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23597">2506.23597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.18229.html">The role of dendritic spines in water exchange measurements with diffusion MRI: Time-Dependent Single Diffusion Encoding MRI</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Kadir Şimşek et al.</td>
-<td><a href="http://arxiv.org/abs/2506.18229">2506.18229</a></td>
 </tr>
 </tbody></table>

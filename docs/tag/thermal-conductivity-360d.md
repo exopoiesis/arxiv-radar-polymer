@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <strong>360d</strong> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09965.html">Simultaneous achievement of large anomalous Nernst effect and reduced thermal conductivity in sintered polycrystalline topological Heusler ferromagnets</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Koichi Oyanagi et al.</td>
 <td><a href="http://arxiv.org/abs/2501.09965">2501.09965</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19987.html">Unified formulas for the effective conductivity of fibrous composites with circular inclusions and parallelogram periodicity and its influence on thermal gain in nanofluids</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Raúl Guinovart-Díaz et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19987">2506.19987</a></td>
 </tr>
 </tbody></table>

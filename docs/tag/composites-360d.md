@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02926.html">Nonlinear ferroelectric characteristics of barium titanate nanocrystals determined via a polymer nanocomposite approach</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Qiong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02926">2507.02926</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.19987.html">Unified formulas for the effective conductivity of fibrous composites with circular inclusions and parallelogram periodicity and its influence on thermal gain in nanofluids</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Raúl Guinovart-Díaz et al.</td>
-<td><a href="http://arxiv.org/abs/2506.19987">2506.19987</a></td>
 </tr>
 </tbody></table>
