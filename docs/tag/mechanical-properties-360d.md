@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">461 papers</span>
+  <span class="paper-count">457 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2756,29 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mlff-360d.html">mlff</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
 <td>Parvez Khana et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.03935.html">Physics-informed Neural Networks Enable High Fidelity Shear Wave Viscoelastography across Multiple organs</a></div></td>
-<td>Ziying Yin et al.</td>
-<td><a href="http://arxiv.org/abs/2505.03935">2505.03935</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20389.html">Inhomogeneous plane waves in attenuative anisotropic porous media</a></div></td>
-<td>Lingli Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20389">2506.20389</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20773.html">A Hereditary Integral, Transient Network Approach to Modeling Permanent Set and Viscoelastic Response in Polymers</a></div></td>
-<td>Stephen T. Castonguay et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20773">2506.20773</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20808.html">From the dynamic to the static glass transition via hypersonic measurements using Brillouin spectroscopy</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Jan-Kristian Krüger et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20808">2506.20808</a></td>
 </tr>
 </tbody></table>

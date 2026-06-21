@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <strong>360d</strong> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06746.html">Fast Forward and Inverse Thermal Modeling for Parameter Estimation of Multi-Layer Composites -- Part II: Inverse Modeling and Applications</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Gan Fu et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06746">2507.06746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.09965.html">Simultaneous achievement of large anomalous Nernst effect and reduced thermal conductivity in sintered polycrystalline topological Heusler ferromagnets</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Koichi Oyanagi et al.</td>
-<td><a href="http://arxiv.org/abs/2501.09965">2501.09965</a></td>
 </tr>
 </tbody></table>

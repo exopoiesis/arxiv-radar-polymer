@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.11843.html">Self-organized defect-phases along dislocations in irradiated alloys</a></div></td>
 <td>N. Saunders et al.</td>
 <td><a href="http://arxiv.org/abs/2601.11843">2601.11843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17848.html">Scaling Kinetic Monte-Carlo Simulations of Grain Growth with Combined Convolutional and Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Zhihui Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17848">2511.17848</a></td>
 </tr>
 </tbody></table>

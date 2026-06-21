@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>gnn — 90d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <strong>90d</strong> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.24360.html">Aluminum solidification and nanopolycrystal deformation via a Graph Neural Network Potential and Million-Atom Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Ian Störmer et al.</td>
 <td><a href="http://arxiv.org/abs/2603.24360">2603.24360</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17848.html">Scaling Kinetic Monte-Carlo Simulations of Grain Growth with Combined Convolutional and Graph Neural Networks</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Zhihui Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17848">2511.17848</a></td>
 </tr>
 </tbody></table>

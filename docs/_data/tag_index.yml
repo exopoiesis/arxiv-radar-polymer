@@ -4,11 +4,11 @@
   total: 812
   group: properties
 - name: phase-separation
-  count: 20
+  count: 19
   total: 556
   group: morphology
 - name: benchmarking
-  count: 16
+  count: 15
   total: 181
   group: informatics
 - name: polymer-morphology
@@ -19,14 +19,14 @@
   count: 12
   total: 259
   group: processing
-- name: additive-manufacturing
-  count: 11
-  total: 365
-  group: processing
 - name: coarse-grained
   count: 11
   total: 278
   group: simulation
+- name: additive-manufacturing
+  count: 9
+  total: 365
+  group: processing
 - name: molecular-dynamics
   count: 9
   total: 240
@@ -40,7 +40,7 @@
   total: 192
   group: processing
 - name: generative-model
-  count: 7
+  count: 6
   total: 56
   group: design
 - name: inverse-design

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">138 papers</span>
+  <span class="paper-count">137 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -836,11 +836,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20791.html">Collective excitations in Hydrogen across the pressure-induced transition from molecular to atomic fluid</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>I. -M. Ilenkov et al.</td>
 <td><a href="http://arxiv.org/abs/2506.20791">2506.20791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00403.html">Characterizing the embedded states of a fluorescent probe within a lipid bilayer using molecular dynamics simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="membranes-360d.html">membranes</a></div></td>
-<td>Ryo Okabe et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00403">2505.00403</a></td>
 </tr>
 </tbody></table>

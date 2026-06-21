@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21792.html">Droplet growth, Ostwald&#x27;s rule, and emergence of order in Fused in Sarcoma</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Farkhad Maksudov et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21792">2506.21792</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15627.html">Non-Stationary Critical Phenomena: Expanding The Critical Point</a></div></td>
-<td>Richard E. Spinney et al.</td>
-<td><a href="http://arxiv.org/abs/2412.15627">2412.15627</a></td>
 </tr>
 </tbody></table>
