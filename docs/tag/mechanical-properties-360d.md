@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">454 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2738,23 +2738,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21877.html">A GENERIC-guided active learning SPH method for viscoelastic fluids using Gaussian process regression</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
 <td>Xuekai Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21877">2506.21877</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18637.html">Machine learning of microstructure--property relationships in materials leveraging microstructure representation from foundational vision transformers</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Sheila E. Whitman et al.</td>
-<td><a href="http://arxiv.org/abs/2501.18637">2501.18637</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21066.html">Microphase Separation Controls the Dynamics of Associative Vitrimers</a></div></td>
-<td>Rahul Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21066">2506.21066</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mlff-360d.html">mlff</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
-<td>Parvez Khana et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
 </tr>
 </tbody></table>

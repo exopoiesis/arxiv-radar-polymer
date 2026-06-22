@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,17 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22533.html">Scalable Bayesian Optimization for High-Dimensional Coarse-Grained Model Parameterization</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="glass-transition-360d.html">glass-transition</a> · <a href="mlff-360d.html">mlff</a></div></td>
 <td>Carlos A. Martins Junior et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22533">2506.22533</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
-<td>Parvez Khana et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21792.html">Droplet growth, Ostwald&#x27;s rule, and emergence of order in Fused in Sarcoma</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Farkhad Maksudov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21792">2506.21792</a></td>
 </tr>
 </tbody></table>

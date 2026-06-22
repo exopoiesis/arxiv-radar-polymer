@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23248.html">Virtual materials testing of ASSB cathodes combining AI-based stochastic 3D modeling and numerical simulations</a></div></td>
 <td>Anina Dufter et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23248">2603.23248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23555.html">Self-organised structures in mixed active-passive suspensions due to hydrodynamic interactions</a></div></td>
-<td>Alexander Chamolly et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23555">2603.23555</a></td>
 </tr>
 </tbody></table>

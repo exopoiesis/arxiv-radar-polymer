@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1904,17 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22647.html">Hyperuniformity in ternary fluid mixtures: the role of wetting and hydrodynamics</a></div></td>
 <td>Nadia Bihari Padhan et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22647">2506.22647</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05299.html">On a linear equation arising in the study of phase separation of Bose-Einstein condensates</a></div></td>
-<td>Christos Sourdis</td>
-<td><a href="http://arxiv.org/abs/2506.05299">2506.05299</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21792.html">Droplet growth, Ostwald&#x27;s rule, and emergence of order in Fused in Sarcoma</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Farkhad Maksudov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21792">2506.21792</a></td>
 </tr>
 </tbody></table>

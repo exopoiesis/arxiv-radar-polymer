@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>spectroscopy — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>I. Agnes Felicia Roy et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.22253.html">Polymer identification via undetected photons using a low footprint nonlinear interferometer</a></div></td>
-<td>Atta Ur Rehman Sherwani et al.</td>
-<td><a href="http://arxiv.org/abs/2603.22253">2603.22253</a></td>
 </tr>
 </tbody></table>

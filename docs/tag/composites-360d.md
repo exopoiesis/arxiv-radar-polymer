@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">160 papers</span>
+  <span class="paper-count">159 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -968,11 +968,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.15036.html">Thermodynamic Circuits: Association of thermoelectric converters in stationary non-equilibrium</a></div></td>
 <td>Paul Raux et al.</td>
 <td><a href="http://arxiv.org/abs/2412.15036">2412.15036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02926.html">Nonlinear ferroelectric characteristics of barium titanate nanocrystals determined via a polymer nanocomposite approach</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Qiong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02926">2507.02926</a></td>
 </tr>
 </tbody></table>

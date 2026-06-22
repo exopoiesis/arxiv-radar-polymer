@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,23 +278,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23616.html">Establishment of global phase coherence in a highly disordered fractal MgO/MgB2 nanocomposite: Roles of interface, morphology and defect</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="tem-360d.html">tem</a></div></td>
 <td>Iku Nakaaki et al.</td>
 <td><a href="http://arxiv.org/abs/2506.23616">2506.23616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20903.html">Electric field-induced clustering in nanocomposite films of highly polarizable inclusions</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
-<td>Elshad Allahyarov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20903">2506.20903</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
-<td>Parvez Khana et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02926.html">Nonlinear ferroelectric characteristics of barium titanate nanocrystals determined via a polymer nanocomposite approach</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Qiong Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02926">2507.02926</a></td>
 </tr>
 </tbody></table>

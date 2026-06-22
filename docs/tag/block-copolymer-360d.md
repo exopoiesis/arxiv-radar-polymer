@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>block-copolymer — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="block-copolymer-7d.html">7d</a> <a href="block-copolymer-30d.html">30d</a> <a href="block-copolymer-90d.html">90d</a> <strong>360d</strong> <a href="block-copolymer-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02715.html">Fully automated inverse co-optimization of templates and block copolymer blending recipes for DSA lithography</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a></div></td>
 <td>Yuhao Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02715">2510.02715</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21339.html">Characterization of Morphology Evolution in a Polymer-Clay Nanocomposite using Multiscale Simulations</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
-<td>Parvez Khana et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21339">2506.21339</a></td>
 </tr>
 </tbody></table>
