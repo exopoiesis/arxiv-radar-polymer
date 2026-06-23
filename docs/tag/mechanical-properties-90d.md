@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22566.html">Deep material network for homogenization of piezoelectric composites</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Ting-Ju Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22566">2606.22566</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22073.html">Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Tongchen Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22073">2606.22073</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21554.html">Revisiting creeping viscoelastic cross-slot flow: Global linear stability and structural sensitivity analyses</a></div></td>
+<td>Kun Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21554">2606.21554</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18626.html">Dynamics of monohydroxy alcohols with chain-like structures: Hydrogen bonding lifetime, chain swapping, and Debye process</a></div></td>
 <td>Shiwang Cheng et al.</td>
@@ -728,23 +746,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25652.html">Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating</a></div></td>
 <td>Yuxiang Gan et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25652">2603.25652</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24180.html">Design of model Boger fluids with systematically controlled viscoelastic properties</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Jonghyun Hwang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24180">2509.24180</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23259.html">Synchronization-dissipation dynamics in the cardiorespiratory system</a></div></td>
-<td>Joshua R. Border et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23259">2603.23259</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23349.html">Where Humpty Dumpty Breaks: Geometry-Driven Fracture in Ellipsoidal Shells</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Naoki Sekiya et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23349">2603.23349</a></td>
 </tr>
 </tbody></table>

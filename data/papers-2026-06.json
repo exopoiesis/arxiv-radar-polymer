@@ -2626,5 +2626,442 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-18"
+ },
+ "2606.20753": {
+  "abstract": "Polymeric materials underpin modern technologies spanning energy storage, microelectronics, healthcare and sustainable manufacturing. Yet their rational design remains exceptionally challenging because material performance emerges from complex interactions among molecular composition, chain architecture, processing history and hierarchical structural evolution across multiple length and time scales. Consequently, polymer research has long relied on labor-intensive experimentation and fragmented modeling approaches, limiting both mechanistic understanding and innovation efficiency. Recent advances in data infrastructure, machine learning, large artificial intelligence (AI) models and laboratory automation are beginning to reshape this landscape. Rather than functioning as isolated tools, polymer databases, predictive models, AI agents and automated laboratories are increasingly converging into interconnected discovery ecosystems. As a result, the central challenge is shifting from improving predictive accuracy alone to enabling reliable decision-making, adaptive learning and seamless integration across computation, experimentation and scientific reasoning. We argue that polymer science is entering an era of autonomous discovery, in which data, simulation, reasoning and experimentation operate within self-improving feedback loops that continuously generate hypotheses, design materials, execute experiments and refine predictive models. By unifying molecular design, process optimization, experimental validation and industrial translation, such autonomous ecosystems establish a more predictive, reproducible and scalable paradigm for polymer innovation, fundamentally transforming how polymer research is conducted.",
+  "authors": [
+   "Chenyao Ma",
+   "Linda Zhang",
+   "Yuheng Chen",
+   "Wei Du",
+   "Shangwen Fang",
+   "Zihao Jiang",
+   "Chuanyu Liu",
+   "Xinyu Ma",
+   "Rui Su",
+   "Gang Wang",
+   "Muyao Yu",
+   "Dong Zhong",
+   "Jie Zhu",
+   "Weibo Gong",
+   "Huan Gu",
+   "Limin Li",
+   "Chen Shen",
+   "Rui Wu",
+   "Zhenghao Wu",
+   "Kan Xu",
+   "Min Zhou",
+   "Donglin He",
+   "Xiayun Huang",
+   "Shan Jiang",
+   "Pengfei Ou",
+   "Jiayu Peng",
+   "Yuwei Zhang",
+   "Jie Zhao",
+   "Di Zhang",
+   "Piao Ma",
+   "Zhenghao Li",
+   "Hao Li"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Chenyao Ma",
+  "pdf_url": "http://arxiv.org/pdf/2606.20753",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-06-18",
+  "tags": [
+   "polymer-informatics"
+  ],
+  "title": "Empowering Polymeric Materials Discovery by Artificial Intelligence",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.20939": {
+  "abstract": "In this work, the derivation and multiscale analysis of a mathematical model for plant tissue biomechanics is considered. The microscopic model consists of a coupled systems of equations of linear elasticity, describing mechanical deformation, and reaction-diffusion and ordinary differential equations modelling the dynamics of load-bearing cross-links in cell walls and middle lamella, connecting individual cells in a plant tissue. It takes into account a two-way coupling between mechanical deformation and chemical processes in cell walls and middle lamella, where elastic properties depend on the density of cross-links and reactions terms, defining the stretching and breakage of the cross-links, depend on the deformation gradient. The nonlinear dependence of solutions of the ordinary differential equation on the displacement gradient and of the boundary conditions in reaction-diffusion problem on the displacement induces novel approaches in the derivation of a priori estimates. Using homogenization techniques of locally periodic (l-p) two-scale convergence, a macroscopic model for plant tissue biomechanics is derived, representing the first result in the multiscale analysis of a biomechanical model for tissues with non-periodic fibrous microstructure. For multiscale analysis and derivation of the macroscopic model, the non-periodic microstructure of plant cell walls, characterised by rotated planes of parallel aligned microfibrils, is approximated by the corresponding locally periodic microstructure. The two-way coupling between equations of linear elasticity and reaction-diffusion and ordinary differential equations requires the proof of the strong l-p two-scale convergence for the deformation gradient and for the density of stretched cross-links, in order to pass to the limit in the nonlinear functions.",
+  "authors": [
+   "Mariya Ptashnyk"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Mariya Ptashnyk",
+  "pdf_url": "http://arxiv.org/pdf/2606.20939",
+  "primary_category": "math.AP",
+  "published": "2026-06-18",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Locally period homogenization of multiscale model for plant tissue biomechanics",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-18"
+ },
+ "2606.21027": {
+  "abstract": "Single-shot fringe projection profilometry (FPP) has been actively studied for real-time measurement, dynamic object reconstruction, and motion-sensitive environments. Composite fringe patterns are advantageous in single-shot FPP because multiple frequency components can be encoded in a single pattern, enabling phase ambiguity resolution. Existing approaches mainly rely on Fourier transform-based methods or supervised deep learning methods. However, Fourier transform-based methods often suffer from limited accuracy and degraded performance in complex regions, while supervised methods require dense phase or depth labels, which are costly to obtain. In this work, we propose a self-supervised phase refinement framework for single-shot composite fringe patterns without requiring phase or depth labels. The proposed method exploits the scale and direction relationships between low- and high-frequency phase gradients, improving the reliability of phase separation. We also introduce a soft edge consistency loss to preserve object boundaries and fine geometric structures. Experimental results show that the proposed method achieves MAE_z and RMSE_z of 0.367 mm and 1.804 mm, respectively, outperforming the best-performing transform-based baseline, which obtains 0.402 mm and 2.785 mm. The proposed method also improves the valid-pixel ratio from 84.75 % to 95.07 %. These results demonstrate the effectiveness of self-supervised dual-frequency phase refinement for reliable single-shot 3D reconstruction without ground-truth label supervision.",
+  "authors": [
+   "Jin-Hyuk Seok",
+   "Yatong An",
+   "Jae-Sang Hyun"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Jin-Hyuk Seok",
+  "pdf_url": "http://arxiv.org/pdf/2606.21027",
+  "primary_category": "cs.CV",
+  "published": "2026-06-19",
+  "tags": [
+   "composites",
+   "phase-separation"
+  ],
+  "title": "Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21184": {
+  "abstract": "Attractive three-body interactions have been reported for like-charged colloids in low-salt suspensions, based on both finite-element Poisson-Boltzmann calculations and direct experimental measurements, and have been proposed as a mechanism to drive colloidal clustering. However, these Poisson-Boltzmann calculations typically neglect charge regulation and higher-order many-body effects. Here, we construct machine-learned (ML) many-body interaction potentials for charge-regulating colloids, trained on finite-element Poisson-Boltzmann calculations, to accurately capture three-body and higher-order contributions. We find that the three-body contribution to the many-body potential as obtained from Poisson-Boltzmann calculations on isolated colloid triplets is strongly attractive, consistent with previous work, whereas the four-body contribution for an equilateral pyramid configuration of four colloids is repulsive. We then construct ML many-body potentials for charged colloids using finite-element Poisson-Boltzmann calculations on clusters of 13 colloids, and find that the incorporation of higher-body interactions weakens the cohesive nature of the interactions. We identify a parameter regime exhibiting gas-liquid or gas-solid phase separation using the ML potentials in molecular dynamics simulations. However, when we include clusters of 48 colloids in the training data, the cohesion diminishes further, and molecular dynamics simulations using these potentials no longer include broad phase separation in aqueous dispersions of charged colloids. Finally, we compute the potential of mean force of pairs and triplets of colloids using primitive model simulations. We find that the resulting potentials are in good agreement with those obtained from the Poisson-Boltzmann calculations, thereby supporting the validity of the Poisson-Boltzmann approach for determining many-body interactions.",
+  "authors": [
+   "Thijs ter Rele",
+   "René van Roij",
+   "Marjolein Dijkstra"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "14 pages, 8 figures",
+  "first_author": "Thijs ter Rele",
+  "pdf_url": "http://arxiv.org/pdf/2606.21184",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-19",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Many-body attractions do not stabilize gas-liquid phase separation in aqueous dispersions of charged colloids within the Poisson-Boltzmann framework",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21250": {
+  "abstract": "The anti-ferromagnetic multi-state Potts model, a generalization of the Ising model, is one of the most fundamental models in statistical physics. It was conjectured by Kotecký (Phys.~Rev.~B, 1985) that the model undergoes a phase transition from a disordered phase at infinite temperature to an ordered phase at sufficiently low temperature on lattices. Such phase transitions are believed to play an important role in computational complexity theory and remain closely connected to the problem of approximating the partition function of the system. For proper three-coloring models (corresponding to the zero-temperature), torpid mixing of a family of local-update Markov chains on lattices was established by Galvin, Kahn, Randall and Sorkin (SIDMA, 2015), coinciding with the presence of phase coexistence following shown by Feldheim and Spinka (J.~Eur.~Math.~Soc., 2019).   In this work, we study approximating the partition function of the anti-ferromagnetic multi-state Potts model at low temperature on random regular bipartite graphs, which are with high probability good bipartite expanders. On the negative side, we generalize the result by Geisler, Kang, Sarantis and Wdowinski (arXiv, 2026) for anti-ferromagnetic Ising models to show that when the temperature is sufficiently low relative to the degree of the underlying graph, the celebrated single-site Glauber dynamics has exponentially slow mixing time. On the positive side, we design a deterministic algorithm that yields an approximation to the partition function of the model via the framework of abstract polymer models as Jenssen, Keevash and Perkins (SICOMP, 2020), Liao, Lin, Lu and Mao (Theor.~Comput.~Sci., 2022), Galanis, Goldberg and Stewart (TOCT, 2021) and Geisler, Kang, Sarantis and Wdowinski (arXiv, 2026).",
+  "authors": [
+   "Zhidan Li",
+   "Siyu Liu",
+   "Kuan Yang"
+  ],
+  "categories": [
+   "cs.DS",
+   "math.PR"
+  ],
+  "comment": null,
+  "first_author": "Zhidan Li",
+  "pdf_url": "http://arxiv.org/pdf/2606.21250",
+  "primary_category": "cs.DS",
+  "published": "2026-06-19",
+  "tags": [],
+  "title": "Counting and Sampling Anti-Ferromagnetic Potts Models on Random Regular Bipartite Graphs in the Non-uniqueness Regime",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21464": {
+  "abstract": "Matter can organize not only through forces, but also through the information its constituents acquire from their surroundings. Here we use perceptive Brownian particles as a minimal model to isolate nonlocal sensing as an organizing principle for nonequilibrium matter. The particles undergo purely Brownian motion, with no mechanical interactions, self-propulsion, alignment, or auxiliary fields. Their only coupling is informational, through diffusivity regulated by density measured over a finite perception zone. Whereas local sensing, when unstable, produces conventional long-wavelength demixing, nonlocal perception restructures the instability spectrum, introducing finite-wavelength patterning and nonlinear bubbling instabilities. More fundamentally, it reshapes the ordering pathway by assembling a cascade of instabilities: macroscopic demixing creates dense domains, finite-wavelength modes pattern them internally, and nonlinear feedback hollows them into void bubbles. This produces hybrid phase separation, where a macroscopic dense phase coexists with a dilute background while retaining ordered internal microstructure, whose symmetry, anisotropy, and length scales are selected by the perception kernel. These results establish information acquisition as a constitutive principle of nonequilibrium matter, capable of governing both phase stability and the dynamical pathways through which order emerges.",
+  "authors": [
+   "Benchang Wu",
+   "Ziluo Zhang",
+   "Shutong Guo",
+   "Hepeng Zhang",
+   "Zhihong You"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": "5 pages, 4 figures",
+  "first_author": "Benchang Wu",
+  "pdf_url": "http://arxiv.org/pdf/2606.21464",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-19",
+  "tags": [
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Nonlocal Sensing Drives Hybrid Phase Separation in Brownian Matter",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21554": {
+  "abstract": "The viscoelastic instability of cross-slot flow was first observed experimentally almost half a century ago and reproduced numerically two decades ago, yet its physical origin remains unresolved. We revisit this problem for two-dimensional creeping flow of Oldroyd-B fluid by combining direct numerical simulations, global stability analysis, structural sensitivity analysis, and energy-budget analysis. Our simulations reproduce the canonical pitchfork bifurcation, and the stability analysis consistently predicts the threshold and perturbation growth rates. The leading eigenmode consists of a chiral velocity--stress perturbation that tilts and rotates the birefringent strand generated by the extensional flow. Structural sensitivity and energy-budget analyses identify narrow high-extension-rate ridges within the extensional flow as both the spatial core and energetic source of the instability. In these ridges, the stress-based wavemaker co-localizes with large positive disturbance polymeric stress power density, indicating localized transfer of stored elastic energy to the disturbance flow. Analyses of cross-slot variants with rounded corners and with a centered cylinder further reveal that neither sharp corners nor a free central stagnation point is the essential destabilizing ingredient; rather, the instability originates from elastic-energy release in extension-dominated regions characteristic of cross-slot flow.",
+  "authors": [
+   "Kun Zhang",
+   "Zhanwen Wang",
+   "Lailai Zhu"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Kun Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.21554",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-06-19",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Revisiting creeping viscoelastic cross-slot flow: Global linear stability and structural sensitivity analyses",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21719": {
+  "abstract": "Accurate initialization of polymer architectures remains a critical yet underappreciated determinant of reliability in molecular dynamics simulations of soft matter systems. Errors in coordinate generation and connectivity assignment frequently introduce artificial stresses, topological inconsistencies, and numerical instabilities that propagate throughout simulation trajectories. Here, we present a topology-preserving Python framework for generating star and cyclic polymer architectures with deterministic bond connectivity, exact ring closure, excluded volume enforcement, and spatial-hashing-based overlap detection. The algorithm produces LAMMPS-compatible data files under atom style full without reliance on third-party libraries. We demonstrate that the generated structures exhibit mechanical stability at initialization, suppressed artificial energy spikes, and consistent thermodynamic behavior during equilibration. Benchmark comparisons against naive random placement schemes reveal significant reductions in overlap-induced instabilities and improved reproducibility of structural and dynamical observables. The presented framework establishes initialization as a controlled physical boundary condition rather than a stochastic preprocessing step, thereby enhancing the reliability and reproducibility of polymer molecular dynamics simulations.",
+  "authors": [
+   "Oluwatumininu Emmanuel Ayo-Ojo",
+   "Akpevweoghene Ogheneowho Ugono",
+   "Nkosinathi Dlamini"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "39 Pages, 1 Table, 6 Figures, 1 Listing",
+  "first_author": "Oluwatumininu Emmanuel Ayo-Ojo",
+  "pdf_url": "http://arxiv.org/pdf/2606.21719",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-19",
+  "tags": [
+   "benchmarking",
+   "molecular-dynamics",
+   "soft-matter"
+  ],
+  "title": "A Topology-Preserving Python Framework for Reliable Initialization of Star and Cyclic Polymer Architectures in Molecular Dynamics (LAMMPS) Simulations",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-06-19"
+ },
+ "2606.21903": {
+  "abstract": "The kinetic roughening of driven grain boundaries (GBs) is fundamentally mediated by the collective behavior of disconnections, whose long-range $1/r$ elastic interactions distinguish them from conventional growing surfaces. Through large-scale molecular dynamics simulations and a nonlocal fractional Kardar-Parisi-Zhang (fKPZ) theory, we demonstrate that driven GBs undergo a sharp transition of morphology at the yield point, from the quenched Edwards-Wilkinson universality class ($H \\approx 0.33$) to an anomalous fKPZ regime ($H \\approx 0.8$), while the 1/r nonlocal elasticity manifests as the fractional relaxation of GB morphology. The results show that the avalanche noise arrests the gradient catastrophe induced by the KPZ nonlinearity. Governed by the nonlocal elastic kernels, the resulting morphology breaks the Gaussian self-affinity and parallels the universality class of dynamic fracture.",
+  "authors": [
+   "Kai Zhao"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "8 pages, 3 figures",
+  "first_author": "Kai Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2606.21903",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-20",
+  "tags": [
+   "molecular-dynamics",
+   "polymer-morphology"
+  ],
+  "title": "Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.22073": {
+  "abstract": "This paper proposes an energy-recycling rimless wheel with spring-clutch legs. The proposed mechanism uses a lockable clutch to store part of the impact-induced elastic energy after foot contact and reinject it in the next gait cycle. First, we develop a hybrid dynamic model of the energy-recycling rimless wheel. Second, numerical simulations are used to examine the dynamics, local stability of periodic gaits, and the Cost of Transport (CoT) of the proposed mechanism. The simulation results show that the proposed mechanism reduces the CoT by up to 16.13% compared with a benchmark viscoelastic-legged rimless wheel with telescopic spring-damper legs. Compared with the rigid rimless wheel, the viscoelastic-legged and energy-recycling models reduce the CoT by more than 50%. The energy-recycling model also maintains locally stable periodic gaits over the tested slope and stiffness ranges. Finally, prototype experiments on an inclined plane are conducted to examine the feasibility of the proposed mechanism. The experimental results show that the proposed rimless wheel achieves passive walking on a shallow 1° slope, corresponding to a CoT of approximately 0.02. These results suggest that the proposed spring-clutch mechanism can improve the simulated walking efficiency of the energy-recycling rimless wheel, while the prototype experiments support the feasibility of passive walking with the mechanism.",
+  "authors": [
+   "Tongchen Lin",
+   "Yanqiu Zheng",
+   "Chuhan Zhang",
+   "Ruigang Chen",
+   "Yizhar Or",
+   "Mingyi Liu"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "14 pages, 14 figures. Equal contribution: Tongchen Lin and Yanqiu Zheng. Corresponding author: Mingyi Liu (mingyi.liu@gtiit.edu.cn)",
+  "first_author": "Tongchen Lin",
+  "pdf_url": "http://arxiv.org/pdf/2606.22073",
+  "primary_category": "cs.RO",
+  "published": "2026-06-20",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties"
+  ],
+  "title": "Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.22114": {
+  "abstract": "This work presents an elastic model to study the interplay between entropic and energetic networks in confined hydrogel particles. We consider a quasi-two-dimensional system composed of spherical hydrogel beads confined in a circular container, where particle growth occurs through hydration. Based on experimental observations, an elastic potential is introduced to model interactions between particles and between particles and the confining wall. Computational simulations based on energy minimization identify the lowest-energy configurations adopted during growth. Analysis of the resulting energy landscapes reveals emergent self-organization, adaptability, and cooperativity arising from the competition between entropic and energetic networks.",
+  "authors": [
+   "A. Huerta",
+   "L. A. Pérez",
+   "A. Trokhymchuk"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "9 pages, 5 figures",
+  "first_author": "A. Huerta",
+  "pdf_url": "http://arxiv.org/pdf/2606.22114",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-20",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "An elastic model of confined hydrogel particles with competing entropic and energetic networks",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.22138": {
+  "abstract": "We present BioMatrix, the first multimodal foundation model that natively integrates sequences, structures, and natural language for both molecules and proteins within a single decoder-only architecture. Existing biological foundation models pursue native multimodality and broad entity coverage separately: those that fuse multiple modalities under a shared objective remain confined to a single entity type, while those spanning multiple entity types either omit explicit structural modeling or rely on adapter-based designs in which the model cannot natively generate the very modalities it can read. BioMatrix closes this gap by mapping molecular sequences (supporting both SMILES and SELFIES notations), molecular structures, protein sequences, protein structures, and natural language into a shared discrete token space through a unified tokenization scheme, so that all modalities are consumed and produced uniformly under a single next-token prediction objective -- without external encoders, projection adapters, or modality-specific output heads. Built upon the Qwen3 language model (1.7B and 4B), BioMatrix is continually pretrained on 304.4 billion tokens spanning general and domain-specific text, sequence and structure views of molecules and proteins, and cross-modal corpora that interleave biomolecular entities with scientific text and link distinct entities through molecule-protein and protein-protein interaction data. After tuning on a comprehensive suite of downstream applications covering 80 tasks across 6 categories -- encompassing single-entity and multi-entity understanding and generation tasks across and within modalities -- BioMatrix achieves state-of-the-art or competitive performance on 77 out of 80 tasks, demonstrating that a single, natively multimodal generalist model can effectively match or surpass specialized approaches across a wide range of biological tasks.",
+  "authors": [
+   "Qizhi Pei",
+   "Zhimeng Zhou",
+   "Yi Duan",
+   "Yiyang Zhao",
+   "Wei Li",
+   "Han Guo",
+   "Liang He",
+   "Chengping Li",
+   "Chang-Yu Hsieh",
+   "Conghui He",
+   "Rui Yan",
+   "Lijun Wu"
+  ],
+  "categories": [
+   "cs.CL",
+   "cs.AI",
+   "cs.LG",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Qizhi Pei",
+  "pdf_url": "http://arxiv.org/pdf/2606.22138",
+  "primary_category": "cs.CL",
+  "published": "2026-06-20",
+  "tags": [
+   "selfies"
+  ],
+  "title": "BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.22152": {
+  "abstract": "We develop a hybrid framework that integrates a phase-field model (PFM) with an attention-enhanced deep learning (DL) architecture to study ternary spinodal dealloying, a sophisticated self-organization approach used to fabricate three-dimensional bicontinuous, hierarchical nanoporous materials. The study captures three distinct phase-separation mechanisms that emerge during the early stages of spinodal decomposition in both two and three dimensions. The DL workflow consists of three key components: (i) a dimensionality-reducing autoencoder that provides compact representations of high-resolution microstructure images (256x256x3), (ii) an attention-augmented convolutional long short-term memory (ConvLSTM) network that learns complex spatiotemporal correlations governing microstructure evolution, and (iii) a novel slice-by-slice strategy that enables extension of the model to three-dimensional systems (128x128x128x3). We further demonstrate a hybrid simulation strategy in which PFM accurately captures rapid early-stage microstructure evolution, while the DL model efficiently predicts late-stage coarsening dynamics. The trained DL model achieves remarkable predictive accuracy, maintaining fidelity up to 400 timesteps ahead and generalizing to compositions outside the training distribution. By bridging the physical fidelity of PFM with the computational efficiency of DL, this framework establishes a robust platform for predictive modeling of microstructure evolution in complex multicomponent systems.",
+  "authors": [
+   "Owais Ahmad",
+   "Aravind K",
+   "Naveen Kumar",
+   "T. A. Abinandanan",
+   "Somnath Bhowmick",
+   "Rajdip Mukherjee"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Owais Ahmad",
+  "pdf_url": "http://arxiv.org/pdf/2606.22152",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-20",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Bridging Phase-Field Model and Deep Learning for Predicting 2D and 3D Microstructure Evolution in Ternary Alloys",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-06-20"
+ },
+ "2606.22448": {
+  "abstract": "We consider processes of template-directed multistate copolymerization by molecular machines such as polymerases or ribosomes, having multiple states of conformation or activation. We show that the kinetic equations of these processes can be exactly solved for the mean growth velocity, the sequence probabilities of the grown copy, and the local probabilities and fractions of monomeric units in the copy. Asymptotically, in the long-time limit, the kinetic equations are solved with a matrix factorization ansatz in terms of a backward iteration, forming an iterated matrix function system, and a complementary forward iteration, both running along the template sequence. The iterative method is very significantly faster than usual computational methods, as demonstrated with a numerical example.",
+  "authors": [
+   "Pierre Gaspard"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Pierre Gaspard",
+  "pdf_url": "http://arxiv.org/pdf/2606.22448",
+  "primary_category": "q-bio.QM",
+  "published": "2026-06-21",
+  "tags": [],
+  "title": "Kinetics of template-directed multistate copolymerization",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-21"
+ },
+ "2606.22452": {
+  "abstract": "In the present paper, we apply the iterative mathematical method previously developed for the kinetics of template-directed multistate copolymerization to the kinetics of DNA replication by polymerases having multiple structural states. In particular, we study a two-state kinetic model for the T7 DNA polymerase. We obtain the mean velocity for the growth of the copy along the template, the error probability of DNA replication by the polymerase, and the local probabilities of base-pair formation along the template sequence. Furthermore, we show that the iterative method is more than a million times faster than usual numerical simulation methods. Results are also obtained in the approximation of homogenization of template heterogeneities.",
+  "authors": [
+   "Pierre Gaspard"
+  ],
+  "categories": [
+   "q-bio.QM",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Pierre Gaspard",
+  "pdf_url": "http://arxiv.org/pdf/2606.22452",
+  "primary_category": "q-bio.QM",
+  "published": "2026-06-21",
+  "tags": [],
+  "title": "Kinetics of multistate DNA polymerases",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-21"
+ },
+ "2606.22566": {
+  "abstract": "Piezoelectric composites are widely used in sensors, actuators, transducers, and energy-harvesting devices because their effective electromechanical performance can be tailored by combining constituent phases and microstructural architecture. However, conventional computational homogenization based on direct numerical simulation (DNS) is computationally expensive, particularly for multiscale simulations and material design tasks that require repeated homogenization analyses. To address this limitation, this work proposes a piezoelectric deep material network (PDMN) to efficiently homogenize two-phase piezoelectric composites. The proposed framework embeds the governing electromechanical homogenization relations directly into the network architecture, yielding a physics-informed, semi-analytical surrogate that explicitly captures the two-way coupling between the mechanical and electrical fields across constituent phases. The network is trained offline on linear electroelastic datasets and, through a fully coupled Newton--Raphson solution with a consistent electromechanical tangent, subsequently used for efficient online prediction under broader constitutive settings, including nonlinear electroelasticity and history-dependent responses. The framework is validated on two-phase composites of polyvinylidene fluoride (PVDF) and lithium niobate (LiNbO$_3$) with reversed phase arrangements under nonlinear electroelastic loading, and on a viscoelastic--piezoelectric composite exhibiting coupled stress relaxation. Numerical examples show that the proposed PDMN achieves high predictive accuracy while reducing the computational cost by more than three orders of magnitude compared with DNS. The proposed framework, therefore, provides an efficient and reliable surrogate for the multiscale analysis and design of piezoelectric composites.",
+  "authors": [
+   "Ting-Ju Wei",
+   "Yen-Ming Lu",
+   "Chuin-Shan Chen"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Ting-Ju Wei",
+  "pdf_url": "http://arxiv.org/pdf/2606.22566",
+  "primary_category": "cs.CE",
+  "published": "2026-06-21",
+  "tags": [
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "Deep material network for homogenization of piezoelectric composites",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-21"
  }
 }

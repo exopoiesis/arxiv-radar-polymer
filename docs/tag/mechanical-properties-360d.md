@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">454 papers</span>
+  <span class="paper-count">455 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22566.html">Deep material network for homogenization of piezoelectric composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Ting-Ju Wei et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22566">2606.22566</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22073.html">Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Tongchen Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22073">2606.22073</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21554.html">Revisiting creeping viscoelastic cross-slot flow: Global linear stability and structural sensitivity analyses</a></div></td>
+<td>Kun Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21554">2606.21554</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18626.html">Dynamics of monohydroxy alcohols with chain-like structures: Hydrogen bonding lifetime, chain swapping, and Debye process</a></div></td>
@@ -2726,17 +2744,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22782.html">Long-time error estimate and decay of finite element method to a generalized viscoelastic flow</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Yingwen Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2506.22782">2506.22782</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.20791.html">Collective excitations in Hydrogen across the pressure-induced transition from molecular to atomic fluid</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>I. -M. Ilenkov et al.</td>
-<td><a href="http://arxiv.org/abs/2506.20791">2506.20791</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21877.html">A GENERIC-guided active learning SPH method for viscoelastic fluids using Gaussian process regression</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Xuekai Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21877">2506.21877</a></td>
 </tr>
 </tbody></table>

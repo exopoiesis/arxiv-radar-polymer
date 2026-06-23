@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21903.html">Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Kai Zhao</td>
+<td><a href="http://arxiv.org/abs/2606.21903">2606.21903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22152.html">Bridging Phase-Field Model and Deep Learning for Predicting 2D and 3D Microstructure Evolution in Ternary Alloys</a></div></td>
+<td>Owais Ahmad et al.</td>
+<td><a href="http://arxiv.org/abs/2606.22152">2606.22152</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21464.html">Nonlocal Sensing Drives Hybrid Phase Separation in Brownian Matter</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Benchang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21464">2606.21464</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19934.html">Speeding up the annotation process in semantic segmentation industrial applications</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Marta Fernandez-Moreno et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19934">2606.19934</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20939.html">Locally period homogenization of multiscale model for plant tissue biomechanics</a></div></td>
+<td>Mariya Ptashnyk</td>
+<td><a href="http://arxiv.org/abs/2606.20939">2606.20939</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-17</td>

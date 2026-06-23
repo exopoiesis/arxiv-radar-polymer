@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23881.html">Rethinking failure in polymer networks: a probabilistic view on progressive damage</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Noy Cohen et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23881">2603.23881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.09187.html">IEPDYN: Integral-equation formalism of population dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Kento Kasahara et al.</td>
-<td><a href="http://arxiv.org/abs/2601.09187">2601.09187</a></td>
 </tr>
 </tbody></table>

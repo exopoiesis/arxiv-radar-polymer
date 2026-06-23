@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">77 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Jin-Hyuk Seok et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21027">2606.21027</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21184.html">Many-body attractions do not stabilize gas-liquid phase separation in aqueous dispersions of charged colloids within the Poisson-Boltzmann framework</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Thijs ter Rele et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21184">2606.21184</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21464.html">Nonlocal Sensing Drives Hybrid Phase Separation in Brownian Matter</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Benchang Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.21464">2606.21464</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18911.html">Nonequilibrium nucleation theory for nonconserved fields: from active matter to population dynamics</a></div></td>
@@ -470,11 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23856.html">A simple model for conserved intracellular dynamics exhibits multiscale pattern formation, traveling protein domains and arrested coarsening of lipids in the membrane</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="membranes-90d.html">membranes</a></div></td>
 <td>Benjamin Winkler et al.</td>
 <td><a href="http://arxiv.org/abs/2603.23856">2603.23856</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17444.html">Memory as activity: pattern formation in a conserved scalar field</a></div></td>
-<td>Vaishnavi Gajendragad et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17444">2510.17444</a></td>
 </tr>
 </tbody></table>
