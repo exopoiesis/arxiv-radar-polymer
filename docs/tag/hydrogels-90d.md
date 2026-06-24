@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogels — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <strong>90d</strong> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20057.html">Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a></div></td>
 <td>A. Kovalenko</td>
 <td><a href="http://arxiv.org/abs/2603.20057">2603.20057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23881.html">Rethinking failure in polymer networks: a probabilistic view on progressive damage</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Noy Cohen et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23881">2603.23881</a></td>
 </tr>
 </tbody></table>

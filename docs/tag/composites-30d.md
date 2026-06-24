@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Simon Gonzalez-Zapata et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25287.html">Data-Driven Structural Health Monitoring of Short Carbon Fiber-Reinforced Polymer Composites via Multiphysics Phase-Field Simulation</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Behrouz Arash et al.</td>
-<td><a href="http://arxiv.org/abs/2605.25287">2605.25287</a></td>
 </tr>
 </tbody></table>

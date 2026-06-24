@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">79 papers</span>
+  <span class="paper-count">78 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -482,11 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25842.html">Field-controlled interfacial transport and pinning in an active spin system</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Mintu Karmakar et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25842">2603.25842</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.23856.html">A simple model for conserved intracellular dynamics exhibits multiscale pattern formation, traveling protein domains and arrested coarsening of lipids in the membrane</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="membranes-90d.html">membranes</a></div></td>
-<td>Benjamin Winkler et al.</td>
-<td><a href="http://arxiv.org/abs/2603.23856">2603.23856</a></td>
 </tr>
 </tbody></table>
