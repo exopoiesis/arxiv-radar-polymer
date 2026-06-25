@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22989.html">Powder Spreading and Layer Deposition in Metal Powder Bed Fusion</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
+<td>Antonello Astarita</td>
+<td><a href="http://arxiv.org/abs/2606.22989">2606.22989</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21903.html">Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Kai Zhao</td>
@@ -44,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20939.html">Locally period homogenization of multiscale model for plant tissue biomechanics</a></div></td>
 <td>Mariya Ptashnyk</td>
 <td><a href="http://arxiv.org/abs/2606.20939">2606.20939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="enhanced-sampling-7d.html">enhanced-sampling</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="polymerization-7d.html">polymerization</a></div></td>
-<td>Hadi H. Arefi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">818 papers</span>
+  <span class="paper-count">819 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div></td>
+<td>Sai Peng</td>
+<td><a href="http://arxiv.org/abs/2606.25309">2606.25309</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22755.html">Asymmetric fractional coupled magnetizable piezoelectric beams with infinite viscoelastic memory: polynomial decay and sharpness of the decay rate</a></div></td>

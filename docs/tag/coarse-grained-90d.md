@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27887.html">Conditional KPZ reduction in a one-dimensional model of bosonic dark matter</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Rin Takada</td>
 <td><a href="http://arxiv.org/abs/2603.27887">2603.27887</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25492.html">Lattice and PT symmetries in tensor-network renormalization group: a case study of a hard-square lattice gas model</a></div></td>
-<td>Xinliang Lyu</td>
-<td><a href="http://arxiv.org/abs/2603.25492">2603.25492</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25842.html">Field-controlled interfacial transport and pinning in an active spin system</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Mintu Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25842">2603.25842</a></td>
 </tr>
 </tbody></table>

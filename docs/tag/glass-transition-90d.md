@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25618.html">Critical Universality of the SU (2) Gauge Glass Model Analyzed by the Dynamical Scaling Method</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Yosei Takada et al.</td>
+<td><a href="http://arxiv.org/abs/2606.25618">2606.25618</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24674.html">Thermal stability of vapor-deposited stable glasses of an organic semiconductor</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>Diane M. Walters et al.</td>
@@ -128,11 +134,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21290.html">Molecular motion at the experimental glass transition</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Romain Simon et al.</td>
 <td><a href="http://arxiv.org/abs/2506.21290">2506.21290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25198.html">Classification of interfacial water governed by water-polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Atsuki Hashimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25198">2603.25198</a></td>
 </tr>
 </tbody></table>

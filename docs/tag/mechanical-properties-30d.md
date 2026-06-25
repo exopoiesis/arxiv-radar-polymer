@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div></td>
+<td>Sai Peng</td>
+<td><a href="http://arxiv.org/abs/2606.25309">2606.25309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22755.html">Asymmetric fractional coupled magnetizable piezoelectric beams with infinite viscoelastic memory: polynomial decay and sharpness of the decay rate</a></div></td>
 <td>Jun Zhou et al.</td>
@@ -236,11 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29162.html">Passive memory reshapes active persistence</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Ivan Di Terlizzi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29162">2605.29162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26083.html">Characterizing emergent multi-scale dynamics in colloidal nanoparticle gels</a></div><div class="paper-tags"><a href="soft-matter-30d.html">soft-matter</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>William D. Brackett et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26083">2605.26083</a></td>
 </tr>
 </tbody></table>

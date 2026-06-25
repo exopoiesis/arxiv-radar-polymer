@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div></td>
+<td>Sai Peng</td>
+<td><a href="http://arxiv.org/abs/2606.25309">2606.25309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22755.html">Asymmetric fractional coupled magnetizable piezoelectric beams with infinite viscoelastic memory: polynomial decay and sharpness of the decay rate</a></div></td>
 <td>Jun Zhou et al.</td>
@@ -758,11 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26082.html">Evolution of Linear Viscoelasticity across the Critical Gelation Transition</a></div></td>
 <td>Yogesh M Joshi</td>
 <td><a href="http://arxiv.org/abs/2603.26082">2603.26082</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25652.html">Interfacial Polytype Engineering of Polymer-Derived SiC via Compositionally Complex MXene Templating</a></div></td>
-<td>Yuxiang Gan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25652">2603.25652</a></td>
 </tr>
 </tbody></table>

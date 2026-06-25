@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23628.html">Two-dimensional stealthy hyperuniform polycrystalline disk packings</a></div></td>
+<td>Carlo Vanoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23628">2606.23628</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21903.html">Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Kai Zhao</td>
@@ -254,11 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Jack Jon Hinsch et al.</td>
 <td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25198.html">Classification of interfacial water governed by water-polymer interactions in hydrated polymers: A molecular dynamics simulation study of ethylene-based and acrylate polymers</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
-<td>Atsuki Hashimoto et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25198">2603.25198</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22989.html">Powder Spreading and Layer Deposition in Metal Powder Bed Fusion</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
+<td>Antonello Astarita</td>
+<td><a href="http://arxiv.org/abs/2606.22989">2606.22989</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21903.html">Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Kai Zhao</td>
@@ -50,6 +56,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
 <td>Hadi H. Arefi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23719.html">A Hybrid Quantum-Classical Approach for Melt Pool Prediction in Laser Powder Bed Fusion</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
+<td>Matthew M. Sato et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23719">2606.23719</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-16</td>
@@ -302,17 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25992.html">Liquid structure adjacent to solid surfaces follows the superposition principle</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Qian Ai et al.</td>
 <td><a href="http://arxiv.org/abs/2603.25992">2603.25992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11097.html">Intrinsic structure of relaxor ferroelectrics from first principles</a></div></td>
-<td>Xinyu Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11097">2511.11097</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25180.html">Quantifying plasticity: a network-based framework linking structure to dynamical regimes</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Igor Branchi</td>
-<td><a href="http://arxiv.org/abs/2603.25180">2603.25180</a></td>
 </tr>
 </tbody></table>

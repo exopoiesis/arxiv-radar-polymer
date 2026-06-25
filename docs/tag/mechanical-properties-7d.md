@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div></td>
+<td>Sai Peng</td>
+<td><a href="http://arxiv.org/abs/2606.25309">2606.25309</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22755.html">Asymmetric fractional coupled magnetizable piezoelectric beams with infinite viscoelastic memory: polynomial decay and sharpness of the decay rate</a></div></td>
 <td>Jun Zhou et al.</td>
@@ -50,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21554.html">Revisiting creeping viscoelastic cross-slot flow: Global linear stability and structural sensitivity analyses</a></div></td>
 <td>Kun Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21554">2606.21554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18626.html">Dynamics of monohydroxy alcohols with chain-like structures: Hydrogen bonding lifetime, chain swapping, and Debye process</a></div></td>
-<td>Shiwang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18626">2606.18626</a></td>
 </tr>
 </tbody></table>

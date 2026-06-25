@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">319 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div></td>
+<td>Eric Li</td>
+<td><a href="http://arxiv.org/abs/2606.23661">2606.23661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div></td>
+<td>Anthony Gruber et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24534.html">Multicomponent Grain Boundary Segregation Dilute-Limit Model and Its Effect on Nanocrystalline Stability</a></div></td>
+<td>Georgiy Marchiy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24534">2606.24534</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
+<td>Callum Marsh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
@@ -1904,11 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01553.html">A reentrancy of motility-induced phase separation in overdamped active Brownian particles</a></div></td>
 <td>Hiroya Yamamoto</td>
 <td><a href="http://arxiv.org/abs/2507.01553">2507.01553</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08819.html">Exploring global landscape of free energy for the coupled Cahn-Hilliard equations</a></div></td>
-<td>Keiichiro Kagawa et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08819">2507.08819</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23851.html">Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
+<td>Inioluwa Emmanuel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.23851">2606.23851</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22073.html">Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Tongchen Lin et al.</td>
@@ -302,11 +308,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27354.html">A Shell-to-Shell Cohesive Line Element for Efficient Modeling of Interfacial Cracking in Overmolded Stiffened Panels</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>Sérgio G. F. Cordeiro et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27354">2603.27354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25180.html">Quantifying plasticity: a network-based framework linking structure to dynamical regimes</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Igor Branchi</td>
-<td><a href="http://arxiv.org/abs/2603.25180">2603.25180</a></td>
 </tr>
 </tbody></table>

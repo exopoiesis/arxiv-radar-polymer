@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div></td>
+<td>Eric Li</td>
+<td><a href="http://arxiv.org/abs/2606.23661">2606.23661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div></td>
+<td>Anthony Gruber et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24534.html">Multicomponent Grain Boundary Segregation Dilute-Limit Model and Its Effect on Nanocrystalline Stability</a></div></td>
+<td>Georgiy Marchiy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24534">2606.24534</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
+<td>Callum Marsh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
@@ -464,23 +488,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07753.html">Externally driven condensates show translation-induced polarization, directed coalescence, and anomalous diffusion in viscoelastic media</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="mlff-90d.html">mlff</a></div></td>
 <td>Andriy Goychuk</td>
 <td><a href="http://arxiv.org/abs/2506.07753">2506.07753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25369.html">Low regularity potentials in heterogeneous Cahn--Hilliard functionals</a></div></td>
-<td>Riccardo Cristoferi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25369">2603.25369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25532.html">Entropic phase separation in polymer--vitrimer melts</a></div></td>
-<td>A. A. Rispo Constantinou et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25532">2603.25532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.25842.html">Field-controlled interfacial transport and pinning in an active spin system</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Mintu Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2603.25842">2603.25842</a></td>
 </tr>
 </tbody></table>

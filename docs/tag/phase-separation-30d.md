@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div></td>
+<td>Eric Li</td>
+<td><a href="http://arxiv.org/abs/2606.23661">2606.23661</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div></td>
+<td>Anthony Gruber et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24534.html">Multicomponent Grain Boundary Segregation Dilute-Limit Model and Its Effect on Nanocrystalline Stability</a></div></td>
+<td>Georgiy Marchiy et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24534">2606.24534</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
+<td>Callum Marsh et al.</td>
+<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
@@ -134,17 +158,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
 <td>Peng Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2605.26623">2605.26623</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26027.html">Liquid-Liquid Phase Separation in a Minimal Explicit-Solvent Lattice Model Mimicking Protein Solutions</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Siddhartha Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26027">2605.26027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26338.html">Phase behavior of solvent-nematogen mixtures</a></div></td>
-<td>Sullivan Bailey-Darland et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26338">2605.26338</a></td>
 </tr>
 </tbody></table>
