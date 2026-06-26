@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19870.html">Physiological Sex-Specific Haematocrit Has Minimal Effect on Coronary Computational Haemodynamics: Modelling Implications for Blood Rheology</a></div></td>
-<td>C. Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19870">2606.19870</a></td>
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26656.html">Analysing gelation transition through fractional viscoelasticity and Mittag-Leffler-Prabhakar function</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
+<td>Yogesh M Joshi</td>
+<td><a href="http://arxiv.org/abs/2606.26656">2606.26656</a></td>
 </tr>
 </tbody></table>

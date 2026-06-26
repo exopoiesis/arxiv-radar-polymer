@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27133.html">Unraveling Internal Friction in a Coarse-Grained Protein Model</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Carlos Monago et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27133">2606.27133</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23628.html">Two-dimensional stealthy hyperuniform polycrystalline disk packings</a></div></td>
 <td>Carlo Vanoni et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.02174.html">Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>B M Shahi Sifat Mottaqin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.02174">2606.02174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Simon Gonzalez-Zapata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
 </tr>
 </tbody></table>

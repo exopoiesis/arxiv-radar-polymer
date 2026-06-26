@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27207.html">Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Robert Malinowski et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27207">2606.27207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22989.html">Powder Spreading and Layer Deposition in Metal Powder Bed Fusion</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Antonello Astarita</td>
@@ -1244,11 +1250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01242.html">Hydrogen-based direct reduction of multicomponent oxides: Insights from powder and pre-sintered precursors toward sustainable alloy design</a></div></td>
 <td>Shiv Shankar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01242">2507.01242</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23616.html">Establishment of global phase coherence in a highly disordered fractal MgO/MgB2 nanocomposite: Roles of interface, morphology and defect</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a> · <a href="tem-360d.html">tem</a></div></td>
-<td>Iku Nakaaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23616">2506.23616</a></td>
 </tr>
 </tbody></table>

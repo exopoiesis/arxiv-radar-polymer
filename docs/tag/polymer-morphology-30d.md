@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27207.html">Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Robert Malinowski et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27207">2606.27207</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22989.html">Powder Spreading and Layer Deposition in Metal Powder Bed Fusion</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
 <td>Antonello Astarita</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10352.html">Neural electron backscatter diffraction</a></div></td>
 <td>I-Tzu Huang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10352">2606.10352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27325.html">Microstructure-Aware Deep Learning Bridges Atomistics to Macroscale for Shock-to-Detonation Prediction</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Simon Gonzalez-Zapata et al.</td>
-<td><a href="http://arxiv.org/abs/2605.27325">2605.27325</a></td>
 </tr>
 </tbody></table>

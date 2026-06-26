@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tem — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="tem-7d.html">7d</a> <a href="tem-30d.html">30d</a> <a href="tem-90d.html">90d</a> <strong>360d</strong> <a href="tem-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01889.html">STEM Diffraction Pattern Analysis with Deep Learning Networks</a></div></td>
 <td>Sebastian Wissel et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01889">2507.01889</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23616.html">Establishment of global phase coherence in a highly disordered fractal MgO/MgB2 nanocomposite: Roles of interface, morphology and defect</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Iku Nakaaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23616">2506.23616</a></td>
 </tr>
 </tbody></table>

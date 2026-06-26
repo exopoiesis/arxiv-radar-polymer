@@ -16,10 +16,22 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26656.html">Analysing gelation transition through fractional viscoelasticity and Mittag-Leffler-Prabhakar function</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Yogesh M Joshi</td>
+<td><a href="http://arxiv.org/abs/2606.26656">2606.26656</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div></td>
 <td>Sai Peng</td>
 <td><a href="http://arxiv.org/abs/2606.25309">2606.25309</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Mohammad Moein Naderi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-22</td>
@@ -752,17 +764,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27430.html">Neural operator accelerated atomistic to continuum concurrent multiscale simulations of viscoelasticity</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Tanvir Sohail et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27430">2603.27430</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.04700.html">The Asymptotic Behaviour of Oldroyd-B Fluids is Almost Newtonian</a></div></td>
-<td>Matthias Hieber et al.</td>
-<td><a href="http://arxiv.org/abs/2603.04700">2603.04700</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26082.html">Evolution of Linear Viscoelasticity across the Critical Gelation Transition</a></div></td>
-<td>Yogesh M Joshi</td>
-<td><a href="http://arxiv.org/abs/2603.26082">2603.26082</a></td>
 </tr>
 </tbody></table>

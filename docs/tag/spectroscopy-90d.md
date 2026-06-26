@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>spectroscopy — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <strong>90d</strong> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00794.html">Glassy Arrest Behind the Apparent Second Liquid in Water</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
 <td>Florian Pabst et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00794">2604.00794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>I. Agnes Felicia Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
 </tr>
 </tbody></table>

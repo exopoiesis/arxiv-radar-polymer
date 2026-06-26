@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-degradation — 90d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <strong>90d</strong> <a href="polymer-degradation-360d.html">360d</a> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,17 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03411.html">A Differentiable Framework for Gradient Enhanced Damage with Physics-Augmented Neural Networks in JAX-FEM</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Mark Wilkinson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03411">2604.03411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26022.html">Computational Insights into PEMFC Durability: Degradation Mechanisms, Interfacial Chemistry, and the Emerging Role of Machine Learning Potentials</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a></div></td>
-<td>Jack Jon Hinsch et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26022">2603.26022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>I. Agnes Felicia Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
 </tr>
 </tbody></table>

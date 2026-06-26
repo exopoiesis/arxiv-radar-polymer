@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>phase-separation — all</h1>
-  <span class="paper-count">563 papers</span>
+  <span class="paper-count">566 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27220.html">Light-driven active phase separation and droplet division</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a></div></td>
+<td>Zi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27220">2606.27220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Mohammad Moein Naderi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div></td>
@@ -80,6 +92,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10812.html">Majorana fermions at self-generated interfaces</a></div></td>
 <td>Nikola Prodanov et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10812">2606.10812</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div></td>
+<td>Vijay Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-08</td>

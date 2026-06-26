@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>nanocomposites — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <strong>90d</strong> <a href="nanocomposites-360d.html">360d</a> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29983.html">Enhanced nanocomposite susceptibility by field-alignment of superparamagnetic particles</a></div></td>
 <td>Mathias Zambach et al.</td>
 <td><a href="http://arxiv.org/abs/2603.29983">2603.29983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>I. Agnes Felicia Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
 </tr>
 </tbody></table>

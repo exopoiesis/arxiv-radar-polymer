@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00922.html">Holographic hyperbranched polymer nanocomposite grating with exceptionally large neutron scattering length density modulation amplitudes</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Elhoucine Hadden et al.</td>
 <td><a href="http://arxiv.org/abs/2507.00922">2507.00922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23616.html">Establishment of global phase coherence in a highly disordered fractal MgO/MgB2 nanocomposite: Roles of interface, morphology and defect</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="tem-360d.html">tem</a></div></td>
-<td>Iku Nakaaki et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23616">2506.23616</a></td>
 </tr>
 </tbody></table>

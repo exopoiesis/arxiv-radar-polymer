@@ -22,6 +22,12 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2606.25340">2606.25340</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26433.html">Frustrated shapes of solid domains in fluid membrane vesicles: From rolls and folds to crumples and wrinkles</a></div></td>
+<td>Geunwoong Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26433">2606.26433</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24864.html">Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases</a></div></td>
 <td>Subhadeep Patra et al.</td>
@@ -38,11 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="phase-separation-7d.html">phase-separation</a></div></td>
 <td>Jin-Hyuk Seok et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21027">2606.21027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20403.html">Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid</a></div></td>
-<td>Zhengyan Darius Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20403">2606.20403</a></td>
 </tr>
 </tbody></table>

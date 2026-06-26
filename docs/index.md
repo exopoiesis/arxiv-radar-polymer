@@ -5,15 +5,51 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-25._
+_Updated 2026-06-26._
 
-**3551** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3560** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26509.html">Structural Properties and Applications of the Augmented Sombor Index</a></div><div class="paper-tags"><a href="tag/qspr-30d.html">qspr</a></div></td>
+<td>Chunlei Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26509">2606.26509</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26656.html">Analysing gelation transition through fractional viscoelasticity and Mittag-Leffler-Prabhakar function</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Yogesh M Joshi</td>
+<td><a href="http://arxiv.org/abs/2606.26656">2606.26656</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27133.html">Unraveling Internal Friction in a Coarse-Grained Protein Model</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Carlos Monago et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27133">2606.27133</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27186.html">An integrable approach to macroscopic fluctuation theory for the multispecies SSEP</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Luigi Cantini</td>
+<td><a href="http://arxiv.org/abs/2606.27186">2606.27186</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27207.html">Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Robert Malinowski et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27207">2606.27207</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27220.html">Light-driven active phase separation and droplet division</a></div><div class="paper-tags"><a href="tag/coacervates-30d.html">coacervates</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Zi Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27220">2606.27220</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -43,6 +79,18 @@ _Updated 2026-06-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25891.html">The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors</a></div></td>
 <td>Belinda J. Boehm et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25891">2606.25891</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Mohammad Moein Naderi et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26433.html">Frustrated shapes of solid domains in fluid membrane vesicles: From rolls and folds to crumples and wrinkles</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Geunwoong Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26433">2606.26433</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-23</td>
@@ -145,53 +193,5 @@ _Updated 2026-06-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23914.html">Yielding versus random organization: convex absorbing transitions in soft matter</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
 <td>Tristan Jocteur et al.</td>
 <td><a href="http://arxiv.org/abs/2606.23914">2606.23914</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23916.html">Scalable reflective communication for microscopic electronics</a></div><div class="paper-tags"><a href="tag/pedot-pss-30d.html">pedot-pss</a></div></td>
-<td>Matthew F. Campbell et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23916">2606.23916</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23940.html">Prediction of Viscoelastic Droplet Impact Dynamics Using a Vision Transformer-Based Approach</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Diego A. de Aguiar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23940">2606.23940</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22448.html">Kinetics of template-directed multistate copolymerization</a></div></td>
-<td>Pierre Gaspard</td>
-<td><a href="http://arxiv.org/abs/2606.22448">2606.22448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22452.html">Kinetics of multistate DNA polymerases</a></div></td>
-<td>Pierre Gaspard</td>
-<td><a href="http://arxiv.org/abs/2606.22452">2606.22452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22566.html">Deep material network for homogenization of piezoelectric composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Ting-Ju Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22566">2606.22566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.21903.html">Nonlocal fractional Kardar-Parisi-Zhang dynamics of grain boundaries</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Kai Zhao</td>
-<td><a href="http://arxiv.org/abs/2606.21903">2606.21903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22073.html">Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Tongchen Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22073">2606.22073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22114.html">An elastic model of confined hydrogel particles with competing entropic and energetic networks</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>A. Huerta et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22114">2606.22114</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2606.25340">2606.25340</a></td>
 </tr>
 <tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26433.html">Frustrated shapes of solid domains in fluid membrane vesicles: From rolls and folds to crumples and wrinkles</a></div></td>
+<td>Geunwoong Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26433">2606.26433</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24864.html">Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases</a></div></td>
 <td>Subhadeep Patra et al.</td>
@@ -980,11 +986,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02991.html">Physics Augmented Machine Learning Discovery of Composition-Dependent Constitutive Laws for 3D Printed Digital Materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Steven Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02991">2507.02991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23655.html">Modelling effective electrical resistance in particle reinforced composites using Generative Adversarial Network</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Vinit Vijay Deshpande et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23655">2506.23655</a></td>
 </tr>
 </tbody></table>

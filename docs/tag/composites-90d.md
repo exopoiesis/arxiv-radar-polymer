@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25340.html">Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Han-Xie Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25340">2606.25340</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26433.html">Frustrated shapes of solid domains in fluid membrane vesicles: From rolls and folds to crumples and wrinkles</a></div></td>
+<td>Geunwoong Jeon et al.</td>
+<td><a href="http://arxiv.org/abs/2606.26433">2606.26433</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-23</td>
@@ -260,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27354.html">A Shell-to-Shell Cohesive Line Element for Efficient Modeling of Interfacial Cracking in Overmolded Stiffened Panels</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Sérgio G. F. Cordeiro et al.</td>
 <td><a href="http://arxiv.org/abs/2603.27354">2603.27354</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26897.html">Nonequilibrium from Equilibrium: Chiral Current-Carrying States in the Spin-1 Babujian-Takhtajan Chain</a></div></td>
-<td>Bahar Jafari-Zadeh et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26897">2603.26897</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.26960.html">Heterointerface-Engineered Electrochemically Exfoliated MoS2/WS2 2D-Layered Nanocomposite for Efficient Visible-Light Photocatalytic Degradation of Sorafenib</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>I. Agnes Felicia Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2603.26960">2603.26960</a></td>
 </tr>
 </tbody></table>
