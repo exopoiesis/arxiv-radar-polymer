@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01666.html">Spin-disorder-induced angular anisotropy in polarized magnetic neutron scattering</a></div></td>
 <td>I. Titov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.01666">2507.01666</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00922.html">Holographic hyperbranched polymer nanocomposite grating with exceptionally large neutron scattering length density modulation amplitudes</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Elhoucine Hadden et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00922">2507.00922</a></td>
 </tr>
 </tbody></table>

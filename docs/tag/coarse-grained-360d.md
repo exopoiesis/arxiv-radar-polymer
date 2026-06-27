@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.18484.html">Nonequilibrium friction and free energy estimates for kinetic coarse-graining -- Driven particles in responsive media</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="membranes-360d.html">membranes</a></div></td>
 <td>Sebastian Milster et al.</td>
 <td><a href="http://arxiv.org/abs/2501.18484">2501.18484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09261.html">Gauge freedoms in unravelled quantum dynamics: When do different continuous measurements yield identical quantum trajectories?</a></div></td>
-<td>Calum A. Brown et al.</td>
-<td><a href="http://arxiv.org/abs/2503.09261">2503.09261</a></td>
 </tr>
 </tbody></table>

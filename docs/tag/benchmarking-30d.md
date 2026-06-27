@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07181.html">RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking</a></div></td>
 <td>Raja Sekhar Pappala et al.</td>
 <td><a href="http://arxiv.org/abs/2606.07181">2606.07181</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Huan-Xiang Zhou</td>
-<td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28960.html">How Atoms Interact Within Molecules</a></div><div class="paper-tags"><a href="mlff-30d.html">mlff</a></div></td>
-<td>Adil Kabylda et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28960">2605.28960</a></td>
 </tr>
 </tbody></table>

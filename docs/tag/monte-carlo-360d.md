@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18402.html">Single file dynamics of tethered random walkers</a></div></td>
 <td>Santos Bravo Yuste et al.</td>
 <td><a href="http://arxiv.org/abs/2502.18402">2502.18402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00649.html">Conformational properties of strictly two-dimensional equilibrium polymers</a></div><div class="paper-tags"><a href="flory-huggins-360d.html">flory-huggins</a></div></td>
-<td>J. P. Wittmer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00649">2507.00649</a></td>
 </tr>
 </tbody></table>

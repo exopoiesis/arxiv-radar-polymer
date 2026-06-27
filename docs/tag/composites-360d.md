@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">162 papers</span>
+  <span class="paper-count">158 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -962,29 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06432.html">Phase field model for viscous inclusions in anisotropic networks</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Aakanksha Gubbala et al.</td>
 <td><a href="http://arxiv.org/abs/2505.06432">2505.06432</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00668.html">A coupled multiscale model of the human cornea accounting for the collagenous microstructure and the extracellular matrix</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Christopher Miller et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00668">2507.00668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00922.html">Holographic hyperbranched polymer nanocomposite grating with exceptionally large neutron scattering length density modulation amplitudes</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Elhoucine Hadden et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00922">2507.00922</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01071.html">Orthotropic Viscoelastic Creep in Cellular Scaffolds</a></div></td>
-<td>Alessia Ferrara et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01071">2507.01071</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02991.html">Physics Augmented Machine Learning Discovery of Composition-Dependent Constitutive Laws for 3D Printed Digital Materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Steven Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02991">2507.02991</a></td>
 </tr>
 </tbody></table>

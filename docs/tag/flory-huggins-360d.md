@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flory-huggins — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <a href="flory-huggins-90d.html">90d</a> <strong>360d</strong> <a href="flory-huggins-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06960.html">Role of interaction anisotropy in polymer cononsolvency: insights from the Flory-Huggins-Potts framework</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Satyen Dhamankar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06960">2506.06960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00649.html">Conformational properties of strictly two-dimensional equilibrium polymers</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>J. P. Wittmer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00649">2507.00649</a></td>
 </tr>
 </tbody></table>

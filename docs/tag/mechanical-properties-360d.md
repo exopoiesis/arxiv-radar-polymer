@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">457 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2756,17 +2756,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08454.html">Linear instability in planar viscoelastic Taylor-Couette flow with and without explicit polymer diffusion</a></div></td>
 <td>Miguel Beneitez et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08454">2505.08454</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.00597.html">Cardiorespiratory coupling improves cardiac pumping efficiency in heart failure</a></div></td>
-<td>Josh Border et al.</td>
-<td><a href="http://arxiv.org/abs/2507.00597">2507.00597</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02991.html">Physics Augmented Machine Learning Discovery of Composition-Dependent Constitutive Laws for 3D Printed Digital Materials</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Steven Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02991">2507.02991</a></td>
 </tr>
 </tbody></table>
