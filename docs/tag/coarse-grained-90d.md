@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,17 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27921.html">Developments in Multi-Chain Coarse-Grained Models for Entangled Polymer Dynamics</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Yuichi Masubuchi</td>
 <td><a href="http://arxiv.org/abs/2603.27921">2603.27921</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27485.html">Microscopic Pathways to Helix Formation: Packing Stabilization and Sticky Interactions in Chiral Polymer Condensates</a></div></td>
-<td>Biman Bagchi</td>
-<td><a href="http://arxiv.org/abs/2603.27485">2603.27485</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27887.html">Conditional KPZ reduction in a one-dimensional model of bosonic dark matter</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Rin Takada</td>
-<td><a href="http://arxiv.org/abs/2603.27887">2603.27887</a></td>
 </tr>
 </tbody></table>

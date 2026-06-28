@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">137 papers</span>
+  <span class="paper-count">136 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -830,11 +830,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03283.html">MolVision: Molecular Property Prediction with Vision Language Models</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
 <td>Deepan Adak et al.</td>
 <td><a href="http://arxiv.org/abs/2507.03283">2507.03283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10558.html">Rethinking cryptophane A for methane gas sensing: cross sensitivity to N2 and CO2 at ambient conditions</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Sebastián Alberti et al.</td>
-<td><a href="http://arxiv.org/abs/2507.10558">2507.10558</a></td>
 </tr>
 </tbody></table>

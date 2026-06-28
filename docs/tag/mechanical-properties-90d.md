@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,23 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28362.html">A Foldable and Agile Soft Electromagnetic Robot for Multimodal Navigation in Confined and Unstructured Environments</a></div></td>
 <td>Zhihao Lv et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28362">2603.28362</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07753.html">Externally driven condensates show translation-induced polarization, directed coalescence, and anomalous diffusion in viscoelastic media</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Andriy Goychuk</td>
-<td><a href="http://arxiv.org/abs/2506.07753">2506.07753</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.14444.html">A user-friendly package and workflow for generating effective homogeneous rheologies for the study of the long-term orbital evolution of multilayered planetary bodies</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Yeva Gevorgyan</td>
-<td><a href="http://arxiv.org/abs/2603.14444">2603.14444</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27802.html">Weakly nonlinear models for hydroelastic water waves</a></div></td>
-<td>Diego Alonso-Orán et al.</td>
-<td><a href="http://arxiv.org/abs/2603.27802">2603.27802</a></td>
 </tr>
 </tbody></table>

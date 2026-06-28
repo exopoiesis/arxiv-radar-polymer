@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03639.html">Atomistic modeling of functionalized magnetite surfaces with oxidation states</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Emre Gürsoy et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03639">2503.03639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.01666.html">Spin-disorder-induced angular anisotropy in polarized magnetic neutron scattering</a></div></td>
-<td>I. Titov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.01666">2507.01666</a></td>
 </tr>
 </tbody></table>
