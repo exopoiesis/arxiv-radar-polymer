@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,17 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06764.html">Towards National Quantum Communication in Europe: Planning and Sizing Terrestrial QKD Networks</a></div></td>
 <td>Sebastian Raubitzek et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06764">2604.06764</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.21290.html">Molecular motion at the experimental glass transition</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Romain Simon et al.</td>
-<td><a href="http://arxiv.org/abs/2506.21290">2506.21290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28609.html">Rounded hard squares confined in a circle</a></div></td>
-<td>Zhongtian Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28609">2603.28609</a></td>
 </tr>
 </tbody></table>

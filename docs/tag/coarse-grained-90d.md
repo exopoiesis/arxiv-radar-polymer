@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28289.html">Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Chih-Wei Joshua Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28289">2606.28289</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27133.html">Unraveling Internal Friction in a Coarse-Grained Protein Model</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Carlos Monago et al.</td>
@@ -260,11 +266,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00749.html">Slip-link simulations of long-fiber networks under uniaxial compression</a></div></td>
 <td>Yuichi Masubuchi</td>
 <td><a href="http://arxiv.org/abs/2604.00749">2604.00749</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.27921.html">Developments in Multi-Chain Coarse-Grained Models for Entangled Polymer Dynamics</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Yuichi Masubuchi</td>
-<td><a href="http://arxiv.org/abs/2603.27921">2603.27921</a></td>
 </tr>
 </tbody></table>

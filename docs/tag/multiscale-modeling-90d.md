@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>multiscale-modeling — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="multiscale-modeling-7d.html">7d</a> <a href="multiscale-modeling-30d.html">30d</a> <strong>90d</strong> <a href="multiscale-modeling-360d.html">360d</a> <a href="multiscale-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16330.html">A Data-Driven Parametric Reduced-Order Chemical Kinetics Model Derived from Atomistic Simulations</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Michael N. Sakano et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16330">2605.16330</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20057.html">Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
-<td>A. Kovalenko</td>
-<td><a href="http://arxiv.org/abs/2603.20057">2603.20057</a></td>
 </tr>
 </tbody></table>

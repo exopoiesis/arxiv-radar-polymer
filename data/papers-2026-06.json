@@ -3946,5 +3946,164 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-06-25"
+ },
+ "2606.27467": {
+  "abstract": "Molecule generation methods that leverage generative models have been successfully applied to drug discovery. However, they often require extensive pre-training, suffer statistical biases in the training data, and might suffer from limited interpretability of generated chemical structures. In this work, we introduce SpectralMol, an algorithm based on evolutionary computation that processes chemical structures as a compact matrix of Fourier coefficients, projected onto a fixed basis to generate position-wise latent vectors for SELFIES decoding. The NSGA-II algorithm enforces diversity and enable separate objective functions rather than collapsed objectives into a scalar reward. The quality of the algorithm was tested against standardized benchmarks. The results show comparable aggregate benchmark performance with a task-dependent profile: SpectralMol is strongest on several multi-parameter optimization tasks. The same benchmark was used to perform an ablation study to demonstrate the advantages of a structured latent matrix. Finally, method was tested on a realistic ClpP-targeted drug-discovery benchmark, comparing it with the reinforcement-learning-based model under a fixed oracle-call budget. SpectralMol generates more docking hits and more diverse scaffolds while maintaining competitive physicochemical properties. The representation adopted in this work can cleanly separates scaffold-level modifications from localized substructure variations, as the former occur with perturbations of low-frequency Fourier modes and the latter with perturbations of high-frequency Fourier modes. The results support the evidence that frequency-controlled evolutionary dynamics provide an interpretable, efficient, and training-free route to multi-objective molecular design.",
+  "authors": [
+   "Elia Colleoni",
+   "Paolo Guida",
+   "Didier Barradas-Bautista",
+   "William Lafayette Roberts"
+  ],
+  "categories": [
+   "cs.NE"
+  ],
+  "comment": null,
+  "first_author": "Elia Colleoni",
+  "pdf_url": "http://arxiv.org/pdf/2606.27467",
+  "primary_category": "cs.NE",
+  "published": "2026-06-25",
+  "tags": [
+   "benchmarking",
+   "generative-model",
+   "selfies"
+  ],
+  "title": "Multi-Objective Molecular Generation with Frequency-Controlled Evolutionary Dynamics",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-06-25"
+ },
+ "2606.27674": {
+  "abstract": "Body-fitted finite-element methods deliver high-order accuracy but hinge on a clean, watertight, conforming mesh, a requirement that breaks down for the geometrically imperfect CAD assemblies, image-based volumetric data, and voxel-native designs that pervade biomedical engineering and additive manufacturing, where mesh generation has become the dominant cost of the analysis cycle. Immersed methods on regular background Cartesian grids sidestep body-fitted meshing, but classical implementations integrate over irregular cut subdomains, destroying the tensor-product structure that enables separable, reduced-order methods such as tensor decomposition. In this paper we propose the \\emph{Immersed Tensor Decomposition} (ITD) framework, which couples a mesh-free geometric representation via body-fitted function with the separable C-HiDeNN-TD reduced-order solver to enable large-scale simulation directly on regular background voxel meshes. The geometry is encoded in three steps: a signed-distance function represents the boundary, a body-fitted function $Φ$ approximates it with controllable error, and a low-rank Tucker decomposition provides model-order reduction; for a fixed grid spacing $h$, accuracy is improved by raising the approximation order of C-HiDeNN interpolation up to degree $p$ with a linear background mesh. The central contribution is an exact Dirichlet formulation that enforces the boundary condition strongly by multiplying the trial function with $Φ$, so that $u=g$ holds by construction without any variational penalty or interface quadrature. We establish an a priori error estimate for the formulation and assess it on canonical 2D/3D domains, demonstrating optimal convergence and robustness on non-Cartesian geometries discretized by regular voxel meshes.",
+  "authors": [
+   "Lei Zhang",
+   "Jiachen Guo",
+   "Guowei He",
+   "Thomas J. R. Hughes",
+   "Wing Kam Liu"
+  ],
+  "categories": [
+   "math.NA",
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Lei Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2606.27674",
+  "primary_category": "math.NA",
+  "published": "2026-06-26",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Geometry-Preserving Reduced-Order Modeling via Immersed Tensor Decomposition (ITD)",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.27716": {
+  "abstract": "Amorphous magnetic films are promising for anomalous-Nernst heat-flux sensing because their low thermal conductivity can enhance the temperature gradient generated by an applied heat flux. However, amorphization often degrades electronic transport and thermoelectric properties, making it challenging to obtain a large anomalous Nernst response in structurally disordered films. Here, we demonstrate nanometer-thick amorphous Fe-Sn films as high-sensitivity anomalous-Nernst heat-flux sensing materials. By systematically controlling composition and thickness, we find that amorphous Fe-Sn nanofilms combine a large anomalous Nernst response with low thermal conductivity, resulting in a heat-flux sensitivity of 0.37 um/A. This value exceeds the sensitivities reported for both amorphous magnetic thin films and representative crystalline topological magnets. X-ray diffraction and Mossbauer spectroscopy show that the optimized films lack long-range crystallinity while retaining local Fe-Sn environments, suggesting that short-range atomic order contributes to the anomalous Nernst response in the amorphous matrix. The sensitivity is also reproduced on flexible polymer substrates, indicating compatibility with mechanically compliant device architectures. These results establish amorphous Fe-Sn nanofilms as a platform for anomalous-Nernst heat-flux sensing and provide a materials design route based on local-structure control and thermal-conductivity reduction.",
+  "authors": [
+   "Kenji Tanabe",
+   "Ko Mibu",
+   "Atsushi Tsukazaki",
+   "Kohei Fujiwara"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Kenji Tanabe",
+  "pdf_url": "http://arxiv.org/pdf/2606.27716",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-06-26",
+  "tags": [
+   "crystallinity",
+   "spectroscopy",
+   "thermal-conductivity"
+  ],
+  "title": "Amorphous Fe-Sn nanofilms for anomalous-Nernst heat-flux sensing",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28003": {
+  "abstract": "Fluid transport in deformable porous media is central to many biophysical and geophysical processes. While extensive studies exist, how porosity governs fluid behaviour in deformable systems during cyclic injection remains elusive. Here, we investigate gas-liquid multiphase flow in a quasi-2D Hele-Shaw cell packed with soft hydrogel particles at different initial porosities. Alternative gas and water injection experiments, combined with high-resolution imaging and continuous pressure monitoring, are used to quantify gas dynamics and pressure evolution. Results show that the gas entry pressure increases as porosity decreases, consistent with a Young-Laplace estimation based on effective pore-throat width. After entry, invasion shifts from cavity-dominated expansion in high porosity packings to localised pore invasion in low porosity packings, with a mixed cavity-fingering regime at intermediate porosity. Pressure fluctuations are linked to pore-scale gas escape and internal gas redistribution. Low porosity packings produce frequent small-amplitude pressure drops, whereas higher porosity packings produce more discrete pressure relaxations. Across cycles, the decreasing mean pressure suggests preferential-pathway reuse and reduced local capillary constraints. Residual gas saturation increases systematically with injection cycles and reaches higher terminal values as porosity decreases. Specific interfacial length increases as available pore space decreases and follows a power-law relationship with gas cluster size, with scaling exponent decreases as porosity decreases and cycling progresses. Together, these results demonstrate that gas trapping in deformable porous media depends on both initial packing structure and cyclically evolving gas-solid interactions. This study provides insights for interpreting porosity-dependent trapping and reinvasion during repeated gas injection.",
+  "authors": [
+   "Haiyi Zhong",
+   "Jieting Long",
+   "Xiangyu Ding",
+   "Zhongzheng Wang",
+   "Yixiang Gan"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "31 pages, 8 figures",
+  "first_author": "Haiyi Zhong",
+  "pdf_url": "http://arxiv.org/pdf/2606.28003",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-26",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Porosity Effects on Cyclic Gas Invasion and Trapping in Deformable Porous Media",
+  "topics": [
+   "Generative Design & Inverse Design",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28240": {
+  "abstract": "We present an exact variational scheme for the physics of inhomogeneous classical fluids in thermal equilibrium. A joint metadensity minimization principle is proven for the one-body density and the global interparticle distance distribution. The theory bypasses the inhomogeneous two-body density and thus remains computationally simple. A universal excess entropy functional accounts for all many-body correlations in arbitrary pairwise interacting systems. The framework is relevant for neural functional machine learning, for soft matter design, and for predicting structural correlation functions via entropic test-particle and meta-Ornstein-Zernike routes.",
+  "authors": [
+   "Matthias Schmidt"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Matthias Schmidt",
+  "pdf_url": "http://arxiv.org/pdf/2606.28240",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-26",
+  "tags": [
+   "soft-matter"
+  ],
+  "title": "Entropy density functional theory for inhomogeneous fluids",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28289": {
+  "abstract": "Kinetic analyses of experiments often require coarse-grained descriptions, but complex systems rarely conform to the widely used modeling assumptions of Markovianity and thermodynamic equilibrium. Memory is indeed a general and often inevitable consequence of coarse-graining. Markov state models (MSMs) are a popular choice of coarse-grained description, but require microstate assignments -- which are rarely experimentally tunable -- to macrostates that minimize memory. Generalized master equations (GMEs) circumvent this limitation of MSMs by explicitly capturing memory. However, GMEs are difficult to parameterize and usually formally approximate in the experimentally relevant discrete-time setting. Here we introduce a maximum-likelihood-based procedure to parameterize formally exact, physically feasible, discrete-time generalized master equations from experiments and simulations in and out of equilibrium. By adapting algorithms typically used in optimal transport, we construct physical-constraint-satisfying conditional-maximum-likelihood estimators of both exact Nakajima-Zwanzig memory kernels and time-convolutionless GME propagators in discrete time. Applying these estimators to three examples -- experimental recordings of Förster-resonance energy-transfer in an ion channel, experimental nanoparticle tracking of a processive molecular motor, and simulated folding of a benchmark protein domain -- we recover kinetic parameters including relaxation rates, irreversibilities, dwell times, and first-passage times. These results establish discrete-time GMEs as a physically and statistically principled alternative to MSMs for kinetic analyses of experimental and simulated biomolecular systems.",
+  "authors": [
+   "Chih-Wei Joshua Liu",
+   "Jérémie Klinger",
+   "Grant M. Rotskoff"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.bio-ph",
+   "physics.chem-ph"
+  ],
+  "comment": "26 pages, 5 figures",
+  "first_author": "Chih-Wei Joshua Liu",
+  "pdf_url": "http://arxiv.org/pdf/2606.28289",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-26",
+  "tags": [
+   "benchmarking",
+   "coarse-grained"
+  ],
+  "title": "Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-26"
  }
 }

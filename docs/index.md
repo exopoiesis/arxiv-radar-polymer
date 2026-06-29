@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-28._
+_Updated 2026-06-29._
 
-**3560** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3566** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27674.html">Geometry-Preserving Reduced-Order Modeling via Immersed Tensor Decomposition (ITD)</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Lei Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27674">2606.27674</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27716.html">Amorphous Fe-Sn nanofilms for anomalous-Nernst heat-flux sensing</a></div><div class="paper-tags"><a href="tag/crystallinity-30d.html">crystallinity</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Kenji Tanabe et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27716">2606.27716</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28003.html">Porosity Effects on Cyclic Gas Invasion and Trapping in Deformable Porous Media</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Haiyi Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28003">2606.28003</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28240.html">Entropy density functional theory for inhomogeneous fluids</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
+<td>Matthias Schmidt</td>
+<td><a href="http://arxiv.org/abs/2606.28240">2606.28240</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28289.html">Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Chih-Wei Joshua Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28289">2606.28289</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26509.html">Structural Properties and Applications of the Augmented Sombor Index</a></div><div class="paper-tags"><a href="tag/qspr-30d.html">qspr</a></div></td>
@@ -49,6 +79,12 @@ _Updated 2026-06-28._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27220.html">Light-driven active phase separation and droplet division</a></div><div class="paper-tags"><a href="tag/coacervates-30d.html">coacervates</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Zi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27220">2606.27220</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27467.html">Multi-Objective Molecular Generation with Frequency-Controlled Evolutionary Dynamics</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
+<td>Elia Colleoni et al.</td>
+<td><a href="http://arxiv.org/abs/2606.27467">2606.27467</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-24</td>
@@ -157,41 +193,5 @@ _Updated 2026-06-28._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22848.html">Non-monotonic variations in pressure drop and chaos in viscoelastic fluid flows through an ordered microporous medium</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>A. Chauhan et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22848">2606.22848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22903.html">Hydrodynamic Phase Separation and Morphological Evolution in Chiral Active-Passive Mixtures</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Mayurakshi Deb et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22903">2606.22903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22989.html">Powder Spreading and Layer Deposition in Metal Powder Bed Fusion</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Antonello Astarita</td>
-<td><a href="http://arxiv.org/abs/2606.22989">2606.22989</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23554.html">Protection Switching in Hybrid Hollow-Core and Single-Mode Fiber Networks: Challenges, Analysis, and Mitigation Strategies</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a></div></td>
-<td>Md Ghulam Saber et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23554">2606.23554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23628.html">Two-dimensional stealthy hyperuniform polycrystalline disk packings</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Carlo Vanoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23628">2606.23628</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23851.html">Machine Learning Modeling for Real-Time Melt Pool Monitoring in Laser Powder Bed Fusion Additive Manufacturing: A Hybrid Approach</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Inioluwa Emmanuel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23851">2606.23851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23914.html">Yielding versus random organization: convex absorbing transitions in soft matter</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Tristan Jocteur et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23914">2606.23914</a></td>
 </tr>
 </tbody></table>

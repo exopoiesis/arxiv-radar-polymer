@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28003.html">Porosity Effects on Cyclic Gas Invasion and Trapping in Deformable Porous Media</a></div></td>
+<td>Haiyi Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28003">2606.28003</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22114.html">An elastic model of confined hydrogel particles with competing entropic and energetic networks</a></div></td>
 <td>A. Huerta et al.</td>
@@ -140,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03411.html">A Differentiable Framework for Gradient Enhanced Damage with Physics-Augmented Neural Networks in JAX-FEM</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Mark Wilkinson et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03411">2604.03411</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.20057.html">Multiscale theory, modelling, and simulation of hemicellulose and lignin in solution</a></div><div class="paper-tags"><a href="multiscale-modeling-90d.html">multiscale-modeling</a></div></td>
-<td>A. Kovalenko</td>
-<td><a href="http://arxiv.org/abs/2603.20057">2603.20057</a></td>
 </tr>
 </tbody></table>

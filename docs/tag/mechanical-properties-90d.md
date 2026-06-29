@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,17 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00521.html">Polynomial Stability for Weakly Coupled System with Partial Controls</a></div></td>
 <td>Bopeng Rao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00521">2604.00521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.18911.html">Twisting Kelvin Cells for Enhanced Vibration Control</a></div></td>
-<td>Lukas Kleine-Wächter et al.</td>
-<td><a href="http://arxiv.org/abs/2601.18911">2601.18911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28362.html">A Foldable and Agile Soft Electromagnetic Robot for Multimodal Navigation in Confined and Unstructured Environments</a></div></td>
-<td>Zhihao Lv et al.</td>
-<td><a href="http://arxiv.org/abs/2603.28362">2603.28362</a></td>
 </tr>
 </tbody></table>

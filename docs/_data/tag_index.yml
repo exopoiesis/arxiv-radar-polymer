@@ -11,30 +11,30 @@
   count: 17
   total: 351
   group: morphology
+- name: benchmarking
+  count: 14
+  total: 186
+  group: informatics
 - name: composites
   count: 14
   total: 264
   group: processing
-- name: benchmarking
-  count: 12
-  total: 184
-  group: informatics
 - name: coarse-grained
-  count: 11
-  total: 280
+  count: 12
+  total: 281
   group: simulation
 - name: molecular-dynamics
   count: 11
   total: 245
   group: simulation
+- name: additive-manufacturing
+  count: 10
+  total: 370
+  group: processing
 - name: monte-carlo
   count: 10
   total: 189
   group: simulation
-- name: additive-manufacturing
-  count: 9
-  total: 369
-  group: processing
 - name: glass-transition
   count: 6
   total: 148
@@ -44,33 +44,37 @@
   total: 193
   group: processing
 - name: soft-matter
-  count: 5
-  total: 85
+  count: 6
+  total: 86
   group: simulation
 - name: spectroscopy
-  count: 5
-  total: 113
+  count: 6
+  total: 114
   group: characterization
 - name: generative-model
-  count: 4
-  total: 56
+  count: 5
+  total: 57
   group: design
 - name: hydrogels
-  count: 4
-  total: 172
+  count: 5
+  total: 173
   group: applications
+- name: selfies
+  count: 4
+  total: 36
+  group: representation
+- name: thermal-conductivity
+  count: 4
+  total: 87
+  group: properties
 - name: block-copolymer
   count: 3
   total: 11
   group: morphology
-- name: selfies
-  count: 3
-  total: 35
-  group: representation
-- name: thermal-conductivity
-  count: 3
-  total: 86
-  group: properties
+- name: crystallinity
+  count: 2
+  total: 29
+  group: morphology
 - name: diffusion-model
   count: 2
   total: 40
@@ -111,10 +115,6 @@
   count: 1
   total: 27
   group: applications
-- name: crystallinity
-  count: 1
-  total: 28
-  group: morphology
 - name: gnn
   count: 1
   total: 29

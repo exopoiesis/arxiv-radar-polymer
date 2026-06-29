@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28289.html">Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Chih-Wei Joshua Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28289">2606.28289</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27133.html">Unraveling Internal Friction in a Coarse-Grained Protein Model</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Carlos Monago et al.</td>
@@ -992,11 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08986.html">Emergent facilitation by random constraints in a facilitated random walk model of glass</a></div></td>
 <td>Leo S. I. Lam et al.</td>
 <td><a href="http://arxiv.org/abs/2412.08986">2412.08986</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02463.html">Thermodynamic bounds and error correction for faulty coarse graining</a></div></td>
-<td>Jann van der Meer et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02463">2507.02463</a></td>
 </tr>
 </tbody></table>
