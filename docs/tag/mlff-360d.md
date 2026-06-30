@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlff — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <strong>360d</strong> <a href="mlff-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16266.html">Vibrational Fingerprints of Strained Polymers: A Spectroscopic Pathway to Mechanical State Prediction</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Julian Konrad et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16266">2509.16266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03639.html">Atomistic modeling of functionalized magnetite surfaces with oxidation states</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Emre Gürsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03639">2503.03639</a></td>
 </tr>
 </tbody></table>

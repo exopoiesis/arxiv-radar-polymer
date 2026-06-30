@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">264 papers</span>
+  <span class="paper-count">265 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
+<td>Pharindra Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28996">2606.28996</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25340.html">Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>

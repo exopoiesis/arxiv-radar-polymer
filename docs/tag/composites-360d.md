@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Pharindra Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28996">2606.28996</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25340.html">Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Han-Xie Wang et al.</td>
@@ -956,11 +962,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04802.html">Unified description of viscous, viscoelastic, or elastic thin active films on substrates</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Henning Reinken et al.</td>
 <td><a href="http://arxiv.org/abs/2502.04802">2502.04802</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06432.html">Phase field model for viscous inclusions in anisotropic networks</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Aakanksha Gubbala et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06432">2505.06432</a></td>
 </tr>
 </tbody></table>

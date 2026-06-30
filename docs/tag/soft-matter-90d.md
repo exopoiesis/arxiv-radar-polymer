@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>soft-matter — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <strong>90d</strong> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,17 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08249.html">3D microprinting anisotropic and deformable active matter -- A perspective</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Mengshi Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08249">2604.08249</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16002.html">The Beauty of Mathematics in Helfrich&#x27;s Biomembrane Theory</a></div></td>
-<td>Zhong-Can Ou-Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2602.16002">2602.16002</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00147.html">Microscopic Basis for Recovery Rheology and the Nonequilibrium Structure,Yielding, and Flow of Dense Particle Suspensions</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Anoop Mutneja et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00147">2604.00147</a></td>
 </tr>
 </tbody></table>

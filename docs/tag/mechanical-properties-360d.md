@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">457 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30041.html">A phase-field model for viscoelastic compressible tumor growth</a></div></td>
+<td>Luise Zieger et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30041">2606.30041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29599.html">Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Motahareh Nazari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29599">2606.29599</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28567.html">Ultrafast directed transport via energy recuperation in non-Markovian systems</a></div></td>
+<td>Mateusz WIśniewski et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28567">2606.28567</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26656.html">Analysing gelation transition through fractional viscoelasticity and Mittag-Leffler-Prabhakar function</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
@@ -2744,17 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05186.html">Viscoelastic Characterization of Melanoma Cells Using Brillouin Spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Mykyta Kizilov et al.</td>
 <td><a href="http://arxiv.org/abs/2507.05186">2507.05186</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.06432.html">Phase field model for viscous inclusions in anisotropic networks</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Aakanksha Gubbala et al.</td>
-<td><a href="http://arxiv.org/abs/2505.06432">2505.06432</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08454.html">Linear instability in planar viscoelastic Taylor-Couette flow with and without explicit polymer diffusion</a></div></td>
-<td>Miguel Beneitez et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08454">2505.08454</a></td>
 </tr>
 </tbody></table>

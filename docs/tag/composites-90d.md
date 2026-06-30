@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a></div></td>
+<td>Pharindra Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28996">2606.28996</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25340.html">Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Han-Xie Wang et al.</td>
@@ -242,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07495.html">Laterally Differentiated Polymorphs: a route to multifunctional nanostructures</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a></div></td>
 <td>Pete E. Lauer et al.</td>
 <td><a href="http://arxiv.org/abs/2604.07495">2604.07495</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29310.html">Light-Sculpted Azopolymer Colloids: From Patchy Spheres to Porcupine and Pineapple Morphologies</a></div><div class="paper-tags"><a href="azobenzene-polymers-90d.html">azobenzene-polymers</a></div></td>
-<td>Sh. Golghasemi Sorkhabi et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29310">2603.29310</a></td>
 </tr>
 </tbody></table>

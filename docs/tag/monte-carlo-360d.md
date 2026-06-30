@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30267.html">Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis</a></div></td>
+<td>Johannes H. H. Dreckhoff et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30267">2606.30267</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25340.html">Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
@@ -674,17 +680,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>E. Reynolds et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13449">2507.13449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03639.html">Atomistic modeling of functionalized magnetite surfaces with oxidation states</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Emre Gürsoy et al.</td>
-<td><a href="http://arxiv.org/abs/2503.03639">2503.03639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.03590.html">Numerical investigation of the equilibrium Kauzmann transition in a two-dimensional atomistic glass</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Gerhard Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2507.03590">2507.03590</a></td>
 </tr>
 </tbody></table>

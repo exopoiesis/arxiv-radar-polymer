@@ -4105,5 +4105,217 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-06-26"
+ },
+ "2606.28567": {
+  "abstract": "A recent pioneering experiment [Nat. Commun. 16, 10114 (2025)] demonstrated that a driven overdamped colloidal particle in a harmonic trap immersed in a viscoelastic fluid can recuperate energy dissipated into the surrounding bath and convert it into useful work. In this article we considerably extend the original predictions. In particular, we show that energy recuperation is a generic feature of non-Markovian systems both in and out of equilibrium, even as simple as a free Brownian particle. Moreover, we demonstrate that inertia alone, even in the strong damping regime, can lead to this effect despite the absence of any external forcing. These results suggest that energy recuperation can be ubiquitous in nature and it may be the modus operandi of various phenomena in setups with memory. We show that this novel mechanism of energy recovery is the source of memory-induced ultrafast directed transport of a particle in a periodic potential in which it almost attains its top speed corresponding to the system with no energy barriers. Our results may answer from the fundamental point of view the question why the cytosol, the intracellular fluid in biological cells, is viscoelastic.",
+  "authors": [
+   "Mateusz WIśniewski",
+   "Jakub Spiechowicz"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.mes-hall",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Mateusz WIśniewski",
+  "pdf_url": "http://arxiv.org/pdf/2606.28567",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-26",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Ultrafast directed transport via energy recuperation in non-Markovian systems",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-26"
+ },
+ "2606.28996": {
+  "abstract": "Short-fiber thermoplastic (SFT) composites are increasingly employed in lightweight aerospace and automotive structures owing to their favorable strength-to-weight ratio, high production rates, and recyclability. Unlike continuous-fiber systems, the mechanical response of SFTs is governed by mesoscale interactions among fiber orientation, spatial clustering, and manufacturing-induced porosity. These features exhibit significant spatial variability in manufactured components and influence stiffness, damage initiation, and nonlinear deformation. Although mesoscale finite element (FE) models can resolve such heterogeneity, their application to realistic three-dimensional microstructures remains computationally intractable.   A data-driven surrogate framework is proposed to predict the mechanical behavior of additively manufactured, compression-molded (AM-CM) SFTs. Microstructures reconstructed from micro-computed tomography data were discretized into Voronoi-based cells representing distinct fiber-interaction neighborhoods. Each cell was homogenized via nonlinear FE simulations incorporating matrix damage, and the resulting stress-strain responses trained a hybrid Graph Neural Network-Long Short-Term Memory (GNN-LSTM) architecture encoding microstructural topology and history-dependent mechanical evolution.   The surrogate accurately predicts stiffness and stress-strain behavior of unseen microstructures, achieving $R^2\\approx 0.98$ relative to high-fidelity FE simulations with over two orders-of-magnitude reduction in computational cost. Coupling the framework with experimentally calibrated damage laws demonstrates that fiber orientation, clustering, and porosity collectively govern local effective stiffness. The approach provides a physics-informed, data-efficient pathway to identify mechanically weak microstructural cells and accelerate digital-twin development for SFT components.",
+  "authors": [
+   "Pharindra Pathak",
+   "Vipin Kumar",
+   "Trenton M. Ricks",
+   "Suhasini Gururaja",
+   "Siddhartha Srivastava"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pharindra Pathak",
+  "pdf_url": "http://arxiv.org/pdf/2606.28996",
+  "primary_category": "cs.LG",
+  "published": "2026-06-27",
+  "tags": [
+   "composites",
+   "gnn"
+  ],
+  "title": "On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks",
+  "topics": [
+   "Processing, Manufacturing & Composites",
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-06-27"
+ },
+ "2606.29285": {
+  "abstract": "Room-temperature, unshielded recording of cardiac magnetic signals has remained a significant challenge since the inception of magnetocardiography (MCG). In this work, we present an MCG system based on optically pumped magnetometers (OPMs) designed to operate in ambient magnetic environments and acquire adult human cardiac magnetic fields, without the need for active or passive shielding. The system operates in a gradiometer configuration, achieving background-noise cancellation with a common-mode rejection ratio (CMRR) of 31 dB and a gradient sensitivity of 314 $\\mathrm{fT/cm/\\sqrt{Hz}}$. MCG signals were acquired sequentially at 16 locations across the anterior thorax, and a comprehensive signal-analysis framework incorporating wavelet multiscale principal component analysis (WMSPCA) filtering and signal quality estimation (SQE) scoring was developed to enhance signal quality. This framework yielded a QRS complex signal-to-noise ratio (SNR) of $28.56 \\pm 5.61$ dB across all measurement locations. These results demonstrate the feasibility of performing clinical-grade MCG in unshielded, real-world magnetic environments, with consistent morphological fidelity across the QRS complex and T-wave segments. This work represents a meaningful step toward the practical deployment of OPM-based MCG systems in hospital and point-of-care settings.",
+  "authors": [
+   "Kushal Patel",
+   "Kesavaraja C",
+   "Pranab Dutta",
+   "Korak Biswas"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Kushal Patel",
+  "pdf_url": "http://arxiv.org/pdf/2606.29285",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-06-28",
+  "tags": [],
+  "title": "A Signal Analysis Framework for Unshielded Room-Temperature Magnetocardiography",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-28"
+ },
+ "2606.29599": {
+  "abstract": "Precision oncology requires multifunctional platforms capable of integrating accurate tumor diagnosis, localized therapeutic delivery, immune modulation, and real-time monitoring of treatment response. Gelatin methacryloyl (GelMA) hydrogels have emerged as versatile biomaterials for biomedical engineering because of their biocompatibility, extracellular matrix-like structure, tunable mechanical properties, photocrosslinkability, and capacity to incorporate therapeutic agents, imaging probes, and functional nanomaterials. In parallel, manganese-based materials have gained increasing attention as promising alternatives to gadolinium-based magnetic resonance imaging contrast agents and as therapeutic components capable of modulating the tumor microenvironment. Manganese ions and manganese-based nanomaterials can enhance T1-weighted MRI contrast, generate reactive oxygen species, relieve tumor hypoxia, deplete glutathione, promote immunogenic cell death, and activate the cyclic GMP-AMP synthase-Stimulator of Interferon Genes pathway. The integration of manganese-based systems with GelMA hydrogels offers a promising strategy for developing localized, stimuli-responsive, and MRI-guided immunotheranostic platforms. This review summarizes the fundamental properties of GelMA hydrogels, the diagnostic and therapeutic roles of manganese-based materials, strategies for constructing manganese-functionalized GelMA systems, and their potential applications in precision oncology. Current challenges, including manganese-associated toxicity, controlled ion release, mechanical optimization, reproducibility, and clinical translation, are also discussed. Finally, future directions are proposed for the rational design of safe, scalable, and personalized manganese-functionalized GelMA platforms for cancer diagnosis and therapy.",
+  "authors": [
+   "Motahareh Nazari",
+   "Keyvan Alavi"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "20 pages, 3 figures",
+  "first_author": "Motahareh Nazari",
+  "pdf_url": "http://arxiv.org/pdf/2606.29599",
+  "primary_category": "q-bio.BM",
+  "published": "2026-06-28",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties"
+  ],
+  "title": "Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-06-28"
+ },
+ "2606.29766": {
+  "abstract": "Redundant robotic multi-axis additive manufacturing (MAAM) enables support-free and conformal fabrication, but trajectory optimization for long-horizon paths remains challenging under strict deposition-position constraints and time-varying collision constraints. This work proposes a computational framework for collision-aware trajectory optimization in redundant robotic MAAM. We first formulate nozzle-workpiece relative kinematics using a relative Jacobian, and develop a differentiable SDF-based collision model that captures fabrication-induced geometry evolution and provides optimization gradients. The deposition position is then enforced as a hard waypoint-wise equality constraint through iterative projection onto the self-motion manifold, with the loss gradient restricted to the corresponding tangent space. Experiments on an 8-DOF robotic MAAM platform with diverse long-horizon support-free and conformal toolpaths show that our method maintains a mean nozzle-position error below 10μm, reduces maximum joint jerk by up to $77.6\\%$, and eliminates all sampled collision and orientation violations. Compared with the SQP-based baseline, it achieves up to a 10.2x speedup and improved convergence. Physical fabrication experiments further verify that the resulting smooth, collision-free trajectories enable successful printing of complex geometries with fewer visible deposition artifacts.",
+  "authors": [
+   "Zhikai Shen",
+   "Jiasheng Qu",
+   "Chenyu Xu",
+   "Zhuo Huang",
+   "Chengkai Dai",
+   "Yongzhe Li",
+   "Guoxin Fang"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.CG",
+   "cs.GR"
+  ],
+  "comment": null,
+  "first_author": "Zhikai Shen",
+  "pdf_url": "http://arxiv.org/pdf/2606.29766",
+  "primary_category": "cs.RO",
+  "published": "2026-06-29",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Trajectory Optimization for Collision-Aware Redundant Robotic Multi-Axis Additive Manufacturing by Constrained Gradient Projection",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-06-29"
+ },
+ "2606.30041": {
+  "abstract": "It is well known that growing tumors generate and respond to stress in their local microenvironment. Tissue re-arrangements can relax these mechanical stresses and make the tissue more fluid-like. Further, intricate coupling between mechanotransduction and biochemical signaling leads to complex patterns of growth. To predict the outcomes of these nonlinear interactions, we develop a phase-field model to simulate tumors growing into a surrounding medium taking into account their elastic and viscous properties as well as their compressibilities. We couple continuum modeling of the viscoelastic mechanics to the concentration of a diffusible growth-promoting nutrient in a mass conservative way. The phase-field method is a stable and flexible way to describe the dynamics of arbitrarily shaped tumors. We demonstrate convergence of the phase-field model to a sharp interface model in radially symmetric geometries and can observe progression to stationary tumors. However, our results show that these stationary symmetric tumors are subject to symmetry-breaking instabilities in 2D and 3D driven by two primary mechanisms: (i) elastic buckling instabiliies due to differential growth induced by the nutrient gradient and (ii) instabilities generated by apoptosis-related volumetric loss. Further, tissue fluidity and compressibility can lead to changes in tumor topologies. Our modeling framework provides a robust methodology for investigating how tissue mechanics and growth factor signaling influence the progression and invasive potential of solid tumors.",
+  "authors": [
+   "Luise Zieger",
+   "Min Wu",
+   "Chaozhen Wei",
+   "John Lowengrub",
+   "Sebastian Aland"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Luise Zieger",
+  "pdf_url": "http://arxiv.org/pdf/2606.30041",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-06-29",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A phase-field model for viscoelastic compressible tumor growth",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-06-29"
+ },
+ "2606.30176": {
+  "abstract": "The Lieb theorem is a cornerstone of quantum magnetism theory in condensed matter. In this work, we investigate the instability of the Lieb insulating ferrimagnetic phase in the extended Hubbard model on a trimer chain at half-filling, with one electron per site, under increasing the nearest-neighbor Coulomb coupling $V$. Our results show that despite a noticeable increase in doublon density with $V$, the ferrimagnetic insulating phase remains robust up to the phase separation (PS) line, which is observed at $V \\gtrsim U/4$, where $U$ is the local Coulomb repulsion. Above the PS line, one of the coexisting phases is primarily populated by doublons on one of the two sublattices of the chain. This phase coexists with a metallic, unsaturated ferromagnetic phase for $U \\gtrsim t$, and with a singlet phase for $U \\lesssim t$, where $t$ is the intra-trimer hopping amplitude. We estimate the PS and the crossover lines with the help of density matrix renormalization group calculations.",
+  "authors": [
+   "R. R. Montenegro-Filho",
+   "D. R. B. Silva",
+   "D. Cogollo",
+   "M. D. Coutinho-Filho"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "10 pages, 10 figures",
+  "first_author": "R. R. Montenegro-Filho",
+  "pdf_url": "http://arxiv.org/pdf/2606.30176",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-06-29",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Trimers in the Extended Hubbard Model",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-29"
+ },
+ "2606.30267": {
+  "abstract": "Clathrin assemblies in cells can persist as flat plaques, abort after partial invagination, or close into clathrin-coated vesicles, but the determinants of these different fates remain unresolved. To investigate the stochastic and complex dynamics of clathrin assemblies, we have developed a kinetic Monte Carlo simulation framework that couples individual clathrin agents to an adaptive continuum membrane. In this hybrid discrete-continuum description, the effective coat bending rigidity and the preferred coat curvature emerge during growth, rather than being prescribed as material parameters. Once connected, curved lattices stiffen from molecular bending modes to coat-level rigidities, because curvature changes require increased stretching or compression, while newly incorporated triskelia hardcode a history-dependent preferred curvature. An analytical theory for non-Euclidean elasticity identifies the relevant internal variables and predicts growth laws that are validated by the simulations. The same microscopic assembly rules yield flat, stalled, and closed coats through two sequential gates in the effective membrane-coat energy landscape. Comparisons with experimentally observed coat geometries and nanodissection-induced curvature changes agree with our theoretical predictions without any fitting parameters. The clathrin coat thus emerges as an adaptive assembly with prestress and memory, whose fate and material parameters reflect the environment in which it has been growing.",
+  "authors": [
+   "Johannes H. H. Dreckhoff",
+   "Ulrich S. Schwarz",
+   "Leon Lettermann"
+  ],
+  "categories": [
+   "q-bio.SC",
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "22 pages with 6 figures and one table + 23 pages supplement",
+  "first_author": "Johannes H. H. Dreckhoff",
+  "pdf_url": "http://arxiv.org/pdf/2606.30267",
+  "primary_category": "q-bio.SC",
+  "published": "2026-06-29",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-06-29"
  }
 }

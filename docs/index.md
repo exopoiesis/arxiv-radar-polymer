@@ -5,15 +5,57 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-06-29._
+_Updated 2026-06-30._
 
-**3566** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3574** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29766.html">Trajectory Optimization for Collision-Aware Redundant Robotic Multi-Axis Additive Manufacturing by Constrained Gradient Projection</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Zhikai Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29766">2606.29766</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30041.html">A phase-field model for viscoelastic compressible tumor growth</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Luise Zieger et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30041">2606.30041</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30176.html">Trimers in the Extended Hubbard Model</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>R. R. Montenegro-Filho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30176">2606.30176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30267.html">Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Johannes H. H. Dreckhoff et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30267">2606.30267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29285.html">A Signal Analysis Framework for Unshielded Room-Temperature Magnetocardiography</a></div></td>
+<td>Kushal Patel et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29285">2606.29285</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29599.html">Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Motahareh Nazari et al.</td>
+<td><a href="http://arxiv.org/abs/2606.29599">2606.29599</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Pharindra Pathak et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28996">2606.28996</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27674.html">Geometry-Preserving Reduced-Order Modeling via Immersed Tensor Decomposition (ITD)</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
@@ -43,6 +85,12 @@ _Updated 2026-06-29._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28289.html">Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Chih-Wei Joshua Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28289">2606.28289</a></td>
+</tr>
+<tr class="paper">
+<td>2026-06-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28567.html">Ultrafast directed transport via energy recuperation in non-Markovian systems</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Mateusz WIśniewski et al.</td>
+<td><a href="http://arxiv.org/abs/2606.28567">2606.28567</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-25</td>
@@ -145,53 +193,5 @@ _Updated 2026-06-29._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Anthony Gruber et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24352.html">Typical geometry of self-repelling polymers in a constant force field</a></div><div class="paper-tags"><a href="tag/mlff-30d.html">mlff</a></div></td>
-<td>Kamil Khettabi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24352">2606.24352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24534.html">Multicomponent Grain Boundary Segregation Dilute-Limit Model and Its Effect on Nanocrystalline Stability</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Georgiy Marchiy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24534">2606.24534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Callum Marsh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24674.html">Thermal stability of vapor-deposited stable glasses of an organic semiconductor</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Diane M. Walters et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24674">2606.24674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24864.html">Universality beyond the Kibble-Zurek mechanism in the condensation of coherently coupled Bose gases</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Subhadeep Patra et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24864">2606.24864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25210.html">Magnetic resonance imaging assessment of the suitability and consistency of radiotherapy treatment positioning achieved using intra-oral stents</a></div></td>
-<td>Tanya Kairn et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25210">2606.25210</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22755.html">Asymmetric fractional coupled magnetizable piezoelectric beams with infinite viscoelastic memory: polynomial decay and sharpness of the decay rate</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Jun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22755">2606.22755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.22848.html">Non-monotonic variations in pressure drop and chaos in viscoelastic fluid flows through an ordered microporous medium</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>A. Chauhan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22848">2606.22848</a></td>
 </tr>
 </tbody></table>

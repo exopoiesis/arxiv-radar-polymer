@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-06-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30176.html">Trimers in the Extended Hubbard Model</a></div></td>
+<td>R. R. Montenegro-Filho et al.</td>
+<td><a href="http://arxiv.org/abs/2606.30176">2606.30176</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27220.html">Light-driven active phase separation and droplet division</a></div><div class="paper-tags"><a href="coacervates-90d.html">coacervates</a></div></td>
 <td>Zi Lin et al.</td>
@@ -476,11 +482,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01057.html">Phase separation by polar active transport</a></div></td>
 <td>Sudipta Pattanayak et al.</td>
 <td><a href="http://arxiv.org/abs/2604.01057">2604.01057</a></td>
-</tr>
-<tr class="paper">
-<td>2026-03-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.29772.html">Revisiting QCD-induced little inflation with chiral density wave state and its implications on pulsar timing array gravitational-wave signals</a></div></td>
-<td>Tae Hyun Jung et al.</td>
-<td><a href="http://arxiv.org/abs/2603.29772">2603.29772</a></td>
 </tr>
 </tbody></table>
