@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>phase-separation — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,29 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Mohammad Moein Naderi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div></td>
-<td>Eric Li</td>
-<td><a href="http://arxiv.org/abs/2606.23661">2606.23661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div></td>
-<td>Anthony Gruber et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24534.html">Multicomponent Grain Boundary Segregation Dilute-Limit Model and Its Effect on Nanocrystalline Stability</a></div></td>
-<td>Georgiy Marchiy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24534">2606.24534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
-<td>Callum Marsh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
 </tr>
 </tbody></table>

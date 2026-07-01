@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">42 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,23 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02281.html">AlloyVAE: A generative model for complex probabilistic field-to-field relationships in alloys</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
 <td>Ningyu Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.02281">2604.02281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05279.html">Hydrodynamic noise in one dimension: projected Kubo formula and how it vanishes in integrable models</a></div></td>
-<td>Benjamin Doyon</td>
-<td><a href="http://arxiv.org/abs/2506.05279">2506.05279</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00453.html">In-vivo entropy production of A. subaru</a></div></td>
-<td>Yu Fu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00453">2604.00453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00749.html">Slip-link simulations of long-fiber networks under uniaxial compression</a></div></td>
-<td>Yuichi Masubuchi</td>
-<td><a href="http://arxiv.org/abs/2604.00749">2604.00749</a></td>
 </tr>
 </tbody></table>

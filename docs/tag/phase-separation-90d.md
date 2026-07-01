@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">76 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -470,17 +470,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09234.html">Quantum fluctuation-induced first-order breaking of time-reversal symmetry in unconventional superconductors</a></div></td>
 <td>Yin Shi</td>
 <td><a href="http://arxiv.org/abs/2510.09234">2510.09234</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00690.html">Topological defect induced phase separation in a holographic system</a></div></td>
-<td>Zi-Qiang Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00690">2604.00690</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01057.html">Phase separation by polar active transport</a></div></td>
-<td>Sudipta Pattanayak et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01057">2604.01057</a></td>
 </tr>
 </tbody></table>
