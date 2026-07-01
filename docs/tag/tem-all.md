@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tem — all</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="tem-7d.html">7d</a> <a href="tem-30d.html">30d</a> <a href="tem-90d.html">90d</a> <a href="tem-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13550.html">Local structure maturation in high entropy oxide (Mg,Co,Ni,Cu,Zn)1-x(Cr,Mn)xO thin films</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Gabriela E. Niculescu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.13550">2406.13550</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17831.html">Agarose Derived Carbon Based Nanocomposite for Hydrogen Storage at Near-Ambient Conditions</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>A Flamina et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17831">2405.17831</a></td>
 </tr>
 </tbody></table>

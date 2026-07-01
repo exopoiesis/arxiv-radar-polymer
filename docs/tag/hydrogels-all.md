@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogels — all</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">168 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1022,41 +1022,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00297.html">Application and prospect of hydrogels in diabetic wound treatment</a></div></td>
 <td>Jiayi Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00297">2406.00297</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18445.html">&quot;Stumbling-to-Fetters&quot; mechanism and Virginia Creeper model in hydrogel for designing bionic cardiovascular system</a></div></td>
-<td>Hanqing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18445">2405.18445</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19193.html">Collapse/expansion dynamics and actuation of pH-responsive nanogels</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Jiaxing Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19193">2405.19193</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18185.html">Revisiting the strain-induced softening behaviour in hydrogels</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>L. K. R. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18185">2405.18185</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07384.html">Water-enhancing gels exhibiting heat-activated formation of silica aerogels for protection of critical infrastructure during catastrophic wildfire</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Changxin Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07384">2405.07384</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13204.html">BeadSight: An Inexpensive Tactile Sensor Using Hydro-Gel Beads</a></div></td>
-<td>Abraham George et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13204">2405.13204</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02948.html">Liquid Crystalline Assembly of Collagen for Deterministic Alignment and Spread of Human Schwann Cells</a></div><div class="paper-tags"><a href="crystallinity-all.html">crystallinity</a></div></td>
-<td>Homa Ghaiedi et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02948">2405.02948</a></td>
 </tr>
 </tbody></table>

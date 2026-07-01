@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>nanocomposites — all</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <a href="nanocomposites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03958.html">Haptic in-sensor computing device made of carbon nanotube-polydimethylsiloxane nanocomposites</a></div></td>
 <td>Kouki Kimizuka et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03958">2406.03958</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17831.html">Agarose Derived Carbon Based Nanocomposite for Hydrogen Storage at Near-Ambient Conditions</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="spectroscopy-all.html">spectroscopy</a> · <a href="tem-all.html">tem</a></div></td>
-<td>A Flamina et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17831">2405.17831</a></td>
 </tr>
 </tbody></table>

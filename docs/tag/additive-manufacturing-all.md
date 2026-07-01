@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">371 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2186,59 +2186,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03966.html">QuickCurve: revisiting slightly non-planar 3D printing</a></div></td>
 <td>Emilio Ottonello et al.</td>
 <td><a href="http://arxiv.org/abs/2406.03966">2406.03966</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00186.html">Surface roughness-informed fatigue life prediction of L-PBF Hastelloy X at elevated temperature</a></div></td>
-<td>Ritam Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00186">2406.00186</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17603.html">Towards Biomechanical Evaluation of a Transformative Additively Manufactured Flexible Pedicle Screw for Robotic Spinal Fixation</a></div></td>
-<td>Yash Kulkarni et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17603">2405.17603</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00031.html">AMGPT: a Large Language Model for Contextual Querying in Additive Manufacturing</a></div></td>
-<td>Achuth Chandrasekhar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00031">2406.00031</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.12931.html">Enabling Additive Manufacturing Part Inspection of Digital Twins via Collaborative Virtual Reality</a></div></td>
-<td>Vuthea Chheang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.12931">2405.12931</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11596.html">Bioinspired Nested-Isotropic Lattices with Tunable Anisotropy for Additive Manufacturing</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>R. Boda et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11596">2405.11596</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.09572.html">Deep Neural Operator Enabled Digital Twin Modeling for Additive Manufacturing</a></div></td>
-<td>Ning Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.09572">2405.09572</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03670.html">Harnessing metastability for grain size control in multiprincipal element alloys during additive manufacturing</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Akane Wakai et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03670">2405.03670</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.01520.html">AI for Manufacturing and Healthcare: a chemistry and engineering perspective</a></div></td>
-<td>Jihua Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.01520">2405.01520</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00812.html">Explosively driven Richtmyer--Meshkov instability jet suppression and enhancement via coupling machine learning and additive manufacturing</a></div></td>
-<td>Dane M. Sterbentz et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00812">2405.00812</a></td>
 </tr>
 </tbody></table>

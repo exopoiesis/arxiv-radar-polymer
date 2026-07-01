@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>benchmarking — all</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1112,23 +1112,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19145.html">Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate</a></div></td>
 <td>Amin Alibakhshi et al.</td>
 <td><a href="http://arxiv.org/abs/2406.19145">2406.19145</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05213.html">Exponential time propagators for elastodynamics</a></div></td>
-<td>Paavai Pari et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05213">2405.05213</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.02046.html">Cu$_x$Al$_{1-x}$ films as Alternatives to Copper for Advanced Interconnect Metallization</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Jean-Philippe Soulié et al.</td>
-<td><a href="http://arxiv.org/abs/2405.02046">2405.02046</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00401.html">Optimized Drug Design using Multi-Objective Evolutionary Algorithms with SELFIES</a></div><div class="paper-tags"><a href="selfies-all.html">selfies</a></div></td>
-<td>Tomoya Hömberg et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00401">2405.00401</a></td>
 </tr>
 </tbody></table>

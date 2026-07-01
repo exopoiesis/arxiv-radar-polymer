@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3574 papers across 26 months.
+**Total corpus:** 3501 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,8 +17,6 @@
     <li><a href=#sustainability--functional-applications>Sustainability & Functional Applications</a> (50)</li>
     <li><a href=#conducting-responsive--compartment-polymers>Conducting, Responsive & Compartment Polymers</a> (50)</li>
     <li><a href=#informatics--data-infrastructure>Informatics & Data Infrastructure</a> (50)</li>
-    <li><a href=#viaauthor-whitelistpolymer-simulation-soft-matter>via:author-whitelist:polymer simulation, soft matter</a> (2)</li>
-    <li><a href=#viaauthor-whitelistpolymer-dynamics-hydrodynamics>via:author-whitelist:polymer dynamics, hydrodynamics</a> (4)</li>
     <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (22)</li>
     <li><a href=#viaauthor-whitelistpolymer-ml-materials-informatics>via:author-whitelist:polymer ML, materials informatics</a> (10)</li>
     <li><a href=#viaauthor-whitelistpolymer-smiles-bigsmiles>via:author-whitelist:polymer SMILES, BigSMILES</a> (1)</li>
@@ -29,6 +27,8 @@
     <li><a href=#viaauthor-whitelistpolymer-property-prediction>via:author-whitelist:polymer property prediction</a> (5)</li>
     <li><a href=#viaauthor-whitelistpolymer-composites-ml-for-materials>via:author-whitelist:polymer composites, ML for materials</a> (7)</li>
     <li><a href=#viaauthor-whitelistpolymer-md-free-energy>via:author-whitelist:polymer MD, free energy</a> (8)</li>
+    <li><a href=#viaauthor-whitelistpolymer-dynamics-hydrodynamics>via:author-whitelist:polymer dynamics, hydrodynamics</a> (3)</li>
+    <li><a href=#viaauthor-whitelistpolymer-simulation-soft-matter>via:author-whitelist:polymer simulation, soft matter</a> (1)</li>
   </ol>
 </details>
 
@@ -573,26 +573,6 @@
 
 <p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
 
-## via:author-whitelist:polymer simulation, soft matter
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-05-16**|**Structure and dynamics of ionic liquids under shear flow**|Abbas Gholami et al.|[2505.11007](http://arxiv.org/abs/2505.11007)|[md](abstracts/2505.11007.md)|
-|**2024-05-01**|**Roadmap on Data-Centric Materials Science**|Stefan Bauer et al.|[2402.10932](http://arxiv.org/abs/2402.10932)|[md](abstracts/2402.10932.md)|
-
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
-
-## via:author-whitelist:polymer dynamics, hydrodynamics
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-01**|**Brownian motion of a rod threading through a ring with fixed ring-center**|Zhongqiang Xiong et al.|[2601.08130](http://arxiv.org/abs/2601.08130)|[md](abstracts/2601.08130.md)|
-|**2025-05-29**|**Polymer-modulated evaporation flow enables scalable self-assembly of highly aligned nanowires**|Liyiming Tao et al.|[2505.23227](http://arxiv.org/abs/2505.23227)|[md](abstracts/2505.23227.md)|
-|**2025-04-03**|**Response of magnetic particle to rotating magnetic field in viscoelastic fluid**|Han Gao et al.|[2504.02389](http://arxiv.org/abs/2504.02389)|[md](abstracts/2504.02389.md)|
-|**2024-05-21**|**Bending-Rotation coupling in the viscoelasticity of semiflexible polymers -- Rigorous perturbation analysis from the rod limit**|Zhongqiang Xiong et al.|[2403.05173](http://arxiv.org/abs/2403.05173)|[md](abstracts/2403.05173.md)|
-
-<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
-
 ## via:author-whitelist:polymer informatics, Polymer Genome
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -730,5 +710,23 @@
 |**2025-06-20**|**Omnidirectionally manipulated skyrmions in an orientationally chiral system**|Jiahao Chen et al.|[2506.16781](http://arxiv.org/abs/2506.16781)|[md](abstracts/2506.16781.md)|
 |**2025-04-07**|**IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films**|Joan Montes de Oca et al.|[2504.05179](http://arxiv.org/abs/2504.05179)|[md](abstracts/2504.05179.md)|
 |**2025-02-02**|**Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design**|Ming Han et al.|[2502.00910](http://arxiv.org/abs/2502.00910)|[md](abstracts/2502.00910.md)|
+
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+
+## via:author-whitelist:polymer dynamics, hydrodynamics
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-01**|**Brownian motion of a rod threading through a ring with fixed ring-center**|Zhongqiang Xiong et al.|[2601.08130](http://arxiv.org/abs/2601.08130)|[md](abstracts/2601.08130.md)|
+|**2025-05-29**|**Polymer-modulated evaporation flow enables scalable self-assembly of highly aligned nanowires**|Liyiming Tao et al.|[2505.23227](http://arxiv.org/abs/2505.23227)|[md](abstracts/2505.23227.md)|
+|**2025-04-03**|**Response of magnetic particle to rotating magnetic field in viscoelastic fluid**|Han Gao et al.|[2504.02389](http://arxiv.org/abs/2504.02389)|[md](abstracts/2504.02389.md)|
+
+<p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>
+
+## via:author-whitelist:polymer simulation, soft matter
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-05-16**|**Structure and dynamics of ionic liquids under shear flow**|Abbas Gholami et al.|[2505.11007](http://arxiv.org/abs/2505.11007)|[md](abstracts/2505.11007.md)|
 
 <p align=right>(<a href=#updated-on-20260701>back to top</a>)</p>

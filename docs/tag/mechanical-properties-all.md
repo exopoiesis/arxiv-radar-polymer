@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">824 papers</span>
+  <span class="paper-count">815 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -4904,59 +4904,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-electrolytes-all.html">polymer-electrolytes</a></div></td>
 <td>Ganesh K Rajahmundry et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20920.html">On the viscoelastic-electromagnetic-gravitational analogy</a></div></td>
-<td>Jose&#x27; M. Carcione et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20920">2405.20920</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18185.html">Revisiting the strain-induced softening behaviour in hydrogels</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
-<td>L. K. R. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18185">2405.18185</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.17274.html">Global existence for wave and beam equations with double damping and a new power nonlinearity</a></div></td>
-<td>Khaldi Said et al.</td>
-<td><a href="http://arxiv.org/abs/2405.17274">2405.17274</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16317.html">Delayed Gravitational Collapse of Attractive Colloidal Suspensions</a></div></td>
-<td>Kim William Torre et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16317">2405.16317</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07384.html">Water-enhancing gels exhibiting heat-activated formation of silica aerogels for protection of critical infrastructure during catastrophic wildfire</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
-<td>Changxin Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07384">2405.07384</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2403.05173.html">Bending-Rotation coupling in the viscoelasticity of semiflexible polymers -- Rigorous perturbation analysis from the rod limit</a></div></td>
-<td>Zhongqiang Xiong et al.</td>
-<td><a href="http://arxiv.org/abs/2403.05173">2403.05173</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11596.html">Bioinspired Nested-Isotropic Lattices with Tunable Anisotropy for Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
-<td>R. Boda et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11596">2405.11596</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07721.html">High-frequency Optimally Windowed Chirp rheometry for rapidly evolving viscoelastic materials: application to a crosslinking thermoset</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Thanasis Athanasiou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07721">2405.07721</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03090.html">A continuum and computational framework for viscoelastodynamics: III. A nonlinear theory</a></div></td>
-<td>Ju Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03090">2405.03090</a></td>
 </tr>
 </tbody></table>

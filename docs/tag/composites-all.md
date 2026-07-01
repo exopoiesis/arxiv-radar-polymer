@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">265 papers</span>
+  <span class="paper-count">261 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1580,29 +1580,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Ankit Patidar et al.</td>
 <td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19835.html">Anomalously Strong Size Effect on Thermal Conductivity of Diamond Microparticles</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Yufeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19835">2405.19835</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.13330.html">Magnetic structure of EuCd$_2$Sb$_2$ single-crystal thin-film</a></div></td>
-<td>Eliot Heinrich et al.</td>
-<td><a href="http://arxiv.org/abs/2405.13330">2405.13330</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07721.html">High-frequency Optimally Windowed Chirp rheometry for rapidly evolving viscoelastic materials: application to a crosslinking thermoset</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Thanasis Athanasiou et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07721">2405.07721</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07758.html">Significant improvement in sensitivity of an anomalous Nernst heat flux sensor by composite structure</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Hiroto Imaeda et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07758">2405.07758</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-conductivity — all</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <a href="thermal-conductivity-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,35 +506,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13085.html">Ultralow thermal conductance across the [FePt/h-BN/FePt] interface</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
 <td>chengchao Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2406.13085">2406.13085</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19835.html">Anomalously Strong Size Effect on Thermal Conductivity of Diamond Microparticles</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Yufeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19835">2405.19835</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19991.html">OpenTM: An Open-source, Single-GPU, Large-scale Thermal Microstructure Design Framework</a></div></td>
-<td>Yuchen Quan et al.</td>
-<td><a href="http://arxiv.org/abs/2405.19991">2405.19991</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18811.html">Computing the thermal transport coefficient of neutral amorphous polymers using exact vibrational density of states: Comparison with experiments</a></div></td>
-<td>Debashish Mukherji</td>
-<td><a href="http://arxiv.org/abs/2405.18811">2405.18811</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07564.html">Growth of GeO2 on R-plane and C-plane Sapphires by MOCVD</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Imteaz Rahaman et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07564">2405.07564</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.07758.html">Significant improvement in sensitivity of an anomalous Nernst heat flux sensor by composite structure</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Hiroto Imaeda et al.</td>
-<td><a href="http://arxiv.org/abs/2405.07758">2405.07758</a></td>
 </tr>
 </tbody></table>

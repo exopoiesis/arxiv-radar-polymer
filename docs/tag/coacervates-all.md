@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coacervates — all</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="coacervates-7d.html">7d</a> <a href="coacervates-30d.html">30d</a> <a href="coacervates-90d.html">90d</a> <a href="coacervates-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14129.html">Liquid-liquid phase separation at the interface of an evaporating droplet; formation of a regular lattice pattern</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Vahid Nasirimarekani</td>
 <td><a href="http://arxiv.org/abs/2408.14129">2408.14129</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06082.html">Thermodynamic Insights into Polyelectrolyte Complexation: A Theoretical Framework</a></div></td>
-<td>Souradeep Ghosh</td>
-<td><a href="http://arxiv.org/abs/2405.06082">2405.06082</a></td>
 </tr>
 </tbody></table>

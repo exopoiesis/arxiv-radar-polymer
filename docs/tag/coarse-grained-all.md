@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">281 papers</span>
+  <span class="paper-count">277 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1676,29 +1676,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-electrolytes-all.html">polymer-electrolytes</a></div></td>
 <td>Ganesh K Rajahmundry et al.</td>
 <td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18970.html">The surface tension of Martini 3 water mixtures</a></div></td>
-<td>Lorenzo Iannetti et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18970">2405.18970</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18185.html">Revisiting the strain-induced softening behaviour in hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>L. K. R. Duarte et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18185">2405.18185</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03551.html">Shortest paths govern fracture nucleation in thermoset networks</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2405.03551">2405.03551</a></td>
-</tr>
-<tr class="paper">
-<td>2024-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.00751.html">F$^3$low: Frame-to-Frame Coarse-grained Molecular Dynamics with SE(3) Guided Flow Matching</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shaoning Li et al.</td>
-<td><a href="http://arxiv.org/abs/2405.00751">2405.00751</a></td>
 </tr>
 </tbody></table>
