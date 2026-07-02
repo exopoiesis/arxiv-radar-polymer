@@ -1,0 +1,101 @@
+{
+ "2607.00526": {
+  "abstract": "Films of metal-insulator nanogranular composites (CoFeB)x(Al2O3)100-x with different contents of the metal ferromagnetic (FM) phase CoFeB (x ~ 15-50 at.%) are investigated by the method of electron spin resonance (ESR) in a wide range of frequencies (f = 7-80 GHz) and temperatures (T = 4.2-300 K). Besides the conventional FM resonance signal, the experimental spectra demonstrate an additional absorption peak with a double effective g-factor g ~ 4 which is explained within the quantum mechanical \"giant spin\" model by excitation of \"double quantum\" transitions in FM granules CoFeB. According to the theory, the intensity of this \"double quantum\" peak is a complex function of frequency and temperature, including as parameters the granule magnetic moment and anisotropy. Experimentally, the size and anisotropy of the granules can be varied either changing the nominal FM phase content x in the composites or annealing the samples at different temperatures. Here we study the effects of concentration x and thermal annealing of (CoFeB)x(Al2O3)100-x films on their ESR spectral parameters. The observed behavior of the \"double quantum\" peak intensity is well explained within the considered \"giant spin\" theoretical concept. In conclusion, we demonstrate the correlation between the size of FM granules in nanocomposites and their anisotropy, indicating the surface origin of this anisotropy.",
+  "authors": [
+   "A. B. Drovosekov",
+   "M. Yu. Dmitrieva",
+   "A. V. Sitnikov",
+   "S. N. Nikolaev",
+   "V. V. Rylkov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "A. B. Drovosekov",
+  "pdf_url": "http://arxiv.org/pdf/2607.00526",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-01",
+  "tags": [
+   "composites",
+   "nanocomposites"
+  ],
+  "title": "Effect of granules anisotropy on \"double quantum\" magnetic resonance excitation in nanogranular composites",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.00767": {
+  "abstract": "Ruggedness of the underlying energy landscape gives rise to heterogeneous mobility and non-Gaussian diffusion. We develop a theoretical framework for tagged-particle diffusion in multidimensional rugged energy landscapes modeled as correlated quenched Gaussian random fields. Using the self-propagator and self-dynamic structure factor, we characterize finite-time diffusion beyond the effective diffusion coefficient. We determine the effects of dimensionality, spatial correlations, and initial preparation. By introducing a coarse-grained mobility field and a mobility-memory approximation, we relate the non-Gaussian parameter to the time correlation of the mobility sampled by the particle. In the homogenized diffusive regime, the mobility correlation decays algebraically, leading to long-time relaxation of the non-Gaussian parameter as $t^{-1/2}$ in one dimension, $(\\ln t)/t$ in two dimensions, and $t^{-1}$ for $d>2$, with amplitudes that depend on dimensionality and the initial ensemble. Our results show that rugged energy landscapes leave distinct signatures in the effective diffusion coefficient, self-dynamic structure factor, and relaxation of non-Gaussian fluctuations.",
+  "authors": [
+   "Bimman Bagchi"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "63 pages, 1 Figure",
+  "first_author": "Bimman Bagchi",
+  "pdf_url": "http://arxiv.org/pdf/2607.00767",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-01",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Power-Law Relaxation of Non-Gaussian Parameter and Self-Dynamic Structure Factor in Multidimensional Rugged Energy Landscapes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.00813": {
+  "abstract": "We investigate the role of compressibility in the modified quasi-linear viscoelastic (MQLV) constitutive framework for soft solids at finite strain, where shear and bulk responses are governed by distinct relaxation functions. Analytical and semi-analytical results are derived for simple shear and torsion, under incompressible and slightly compressible assumptions. We show that compressibility affects the response only when volume changes occur: under isochoric deformations, the bulk contribution vanishes, while even small deviations from isochoricity significantly alter the normal response. Shear stress and torque are largely insensitive to compressibility, whereas normal stress and axial force exhibit pronounced sensitivity due to the coupling between shear and bulk relaxation. We further demonstrate that volumetric effects interact with the Poynting effect: in simple shear they oppose each other, reducing relaxation, while in torsion they reinforce each other, enhancing it. These trends agree with brain tissue experiments but reveal limitations of the slightly compressible model for highly compressible materials, such as agarose gels. Overall, the results emphasise the importance of accounting for compressibility in modelling normal stress responses and motivate the development of fully compressible formulations and numerical implementations.",
+  "authors": [
+   "Valentina Balbi",
+   "Griffen Small"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "math-ph"
+  ],
+  "comment": "22 pages, 8 figures",
+  "first_author": "Valentina Balbi",
+  "pdf_url": "http://arxiv.org/pdf/2607.00813",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "The Role of Compressibility in Modified Quasi-Linear Viscoelasticity: A Comparison of Simple Shear and Torsion",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.01031": {
+  "abstract": "Chemical gradients are ubiquitous in porous and crowded environments, including soils, filters, fabrics, tissues, hydrogels, biofilms and living cells. They arise from displacement fronts, dissolution and precipitation, ion exchange, metabolism, root exudation, evaporation, gas dissolution, freeze--thaw cycles and externally imposed chemical treatments. These gradients can drive colloids, macromolecules and emulsion droplets by diffusiophoresis, while simultaneously driving diffusioosmotic flows along confining surfaces. Classical models of colloid transport in porous media emphasize hydrodynamic dispersion, surface interactions, straining, deposition, detachment and filtration. This chapter places diffusiophoresis within that broader transport framework and reviews how porous media generate, stretch, disperse and sustain the solute gradients that drive phoretic motion. We first discuss sources of chemical gradients and the distinction between spreading and mixing, then summarize classical colloid transport, the minimal physicochemical model for diffusiophoresis and diffusioosmosis, and the experimental platforms used to study these effects. Particular emphasis is placed on recent results showing that diffuse solute fronts can enhance phoretic removal from dead-end pores by prolonging the duration of forcing, and that cross-streamline migration within flowing pathways can change macroscopic breakthrough and dispersion by orders of magnitude. We close by discussing emulsion droplets, multiphase flows, confined and living media, and open problems, including the transition from algebraic mixing in two-dimensional micromodels to chaotic mixing in three-dimensional porous media.",
+  "authors": [
+   "Amir A. Pahlavan"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "physics.chem-ph",
+   "physics.flu-dyn",
+   "physics.geo-ph"
+  ],
+  "comment": "This chapter is part of the book Diffusiophoresis and Diffusioosmosis: Theory, Experiment and Applications, Editors Guido Bolognesi, Ankur Gupta, Soft Matter Series of the Royal Society of Chemistry",
+  "first_author": "Amir A. Pahlavan",
+  "pdf_url": "http://arxiv.org/pdf/2607.01031",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-01",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Diffusiophoretic transport of colloids and emulsions in complex environments",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-01"
+ }
+}

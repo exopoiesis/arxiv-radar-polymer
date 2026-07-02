@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-01._
+_Updated 2026-07-02._
 
-**3501** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3505** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00526.html">Effect of granules anisotropy on &quot;double quantum&quot; magnetic resonance excitation in nanogranular composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
+<td>A. B. Drovosekov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00526">2607.00526</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00767.html">Power-Law Relaxation of Non-Gaussian Parameter and Self-Dynamic Structure Factor in Multidimensional Rugged Energy Landscapes</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Bimman Bagchi</td>
+<td><a href="http://arxiv.org/abs/2607.00767">2607.00767</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00813.html">The Role of Compressibility in Modified Quasi-Linear Viscoelasticity: A Comparison of Simple Shear and Torsion</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Valentina Balbi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00813">2607.00813</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01031.html">Diffusiophoretic transport of colloids and emulsions in complex environments</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Amir A. Pahlavan</td>
+<td><a href="http://arxiv.org/abs/2607.01031">2607.01031</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29766.html">Trajectory Optimization for Collision-Aware Redundant Robotic Multi-Axis Additive Manufacturing by Constrained Gradient Projection</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-07-01._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Mohammad Moein Naderi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26433.html">Frustrated shapes of solid domains in fluid membrane vesicles: From rolls and folds to crumples and wrinkles</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Geunwoong Jeon et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26433">2606.26433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Eric Li</td>
-<td><a href="http://arxiv.org/abs/2606.23661">2606.23661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24091.html">Two-Dimensional Phase Transitions in Classical Systems: 60 Years after the Hohenberg-Mermin-Wagner Theorem</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
-<td>Ruijian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24091">2606.24091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Anthony Gruber et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
 </tr>
 </tbody></table>

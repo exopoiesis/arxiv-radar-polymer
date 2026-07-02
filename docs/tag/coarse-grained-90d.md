@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00767.html">Power-Law Relaxation of Non-Gaussian Parameter and Self-Dynamic Structure Factor in Multidimensional Rugged Energy Landscapes</a></div></td>
+<td>Bimman Bagchi</td>
+<td><a href="http://arxiv.org/abs/2607.00767">2607.00767</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28289.html">Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Chih-Wei Joshua Liu et al.</td>
@@ -242,11 +248,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08022.html">Linear Response and Optimal Fingerprinting for Nonautonomous Systems</a></div></td>
 <td>Valerio Lucarini</td>
 <td><a href="http://arxiv.org/abs/2602.08022">2602.08022</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02281.html">AlloyVAE: A generative model for complex probabilistic field-to-field relationships in alloys</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
-<td>Ningyu Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02281">2604.02281</a></td>
 </tr>
 </tbody></table>

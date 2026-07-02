@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qspr — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="qspr-7d.html">7d</a> <a href="qspr-30d.html">30d</a> <a href="qspr-90d.html">90d</a> <strong>360d</strong> <a href="qspr-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10326.html">Atomic-Scale Origins of Oxidation Resistance in Amorphous Boron Nitride</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Onurcan Kaya et al.</td>
 <td><a href="http://arxiv.org/abs/2510.10326">2510.10326</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.04423.html">CEMP: a platform unifying high-throughput online calculation, databases and predictive models for clean energy materials</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Jifeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2507.04423">2507.04423</a></td>
 </tr>
 </tbody></table>

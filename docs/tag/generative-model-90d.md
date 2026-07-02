@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09769.html">Differentiable free energy surface: a variational approach to directly observing rare events using generative deep-learning models</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Shuo-Hui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09769">2604.09769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.02281.html">AlloyVAE: A generative model for complex probabilistic field-to-field relationships in alloys</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
-<td>Ningyu Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.02281">2604.02281</a></td>
 </tr>
 </tbody></table>

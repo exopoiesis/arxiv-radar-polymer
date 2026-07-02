@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">48 papers</span>
+  <span class="paper-count">47 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -296,11 +296,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04208.html">Towards Agentic Defect Reasoning: A Graph-Assisted Retrieval Framework for Laser Powder Bed Fusion</a></div></td>
 <td>Muhammad Rizwan Awan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.04208">2604.04208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01991.html">Integrated Identification of Collaborative Robots for Robot Assisted 3D Printing Processes</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a></div></td>
-<td>Alessandro Dimauro et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01991">2604.01991</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">261 papers</span>
+  <span class="paper-count">262 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00526.html">Effect of granules anisotropy on &quot;double quantum&quot; magnetic resonance excitation in nanogranular composites</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
+<td>A. B. Drovosekov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.00526">2607.00526</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
