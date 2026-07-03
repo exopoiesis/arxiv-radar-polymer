@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">164 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -998,11 +998,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.15477.html">String Formation and Arrested Ordering Kinetics in Nematics Induced by Polar Particles</a></div></td>
 <td>Pawan Kumar Mishra et al.</td>
 <td><a href="http://arxiv.org/abs/2502.15477">2502.15477</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.08986.html">Emergent facilitation by random constraints in a facilitated random walk model of glass</a></div></td>
-<td>Leo S. I. Lam et al.</td>
-<td><a href="http://arxiv.org/abs/2412.08986">2412.08986</a></td>
 </tr>
 </tbody></table>

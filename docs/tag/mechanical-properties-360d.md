@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">456 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2750,23 +2750,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.04592.html">Motion and hydrodynamic resistance of an elastic bead confined in a square microchannel</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Charles Paul Moore et al.</td>
 <td><a href="http://arxiv.org/abs/2501.04592">2501.04592</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.04802.html">Unified description of viscous, viscoelastic, or elastic thin active films on substrates</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Henning Reinken et al.</td>
-<td><a href="http://arxiv.org/abs/2502.04802">2502.04802</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06294.html">Rheologically tuned modes of collective transport in active viscoelastic films</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Henning Reinken et al.</td>
-<td><a href="http://arxiv.org/abs/2502.06294">2502.06294</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05186.html">Viscoelastic Characterization of Melanoma Cells Using Brillouin Spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Mykyta Kizilov et al.</td>
-<td><a href="http://arxiv.org/abs/2507.05186">2507.05186</a></td>
 </tr>
 </tbody></table>

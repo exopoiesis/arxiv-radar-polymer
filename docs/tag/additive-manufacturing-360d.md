@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1250,11 +1250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07757.html">Deep Learning based 3D Volume Correlation for Additive Manufacturing Using High-Resolution Industrial X-ray Computed Tomography</a></div></td>
 <td>Keerthana Chand et al.</td>
 <td><a href="http://arxiv.org/abs/2507.07757">2507.07757</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.05152.html">Macroscopic Structural Light Absorbers</a></div></td>
-<td>Jan M. Kaster</td>
-<td><a href="http://arxiv.org/abs/2507.05152">2507.05152</a></td>
 </tr>
 </tbody></table>

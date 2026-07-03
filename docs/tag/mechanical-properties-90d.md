@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,17 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03651.html">Pre-yielding mechanical response near the jamming transition</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Hidemasa Bessho et al.</td>
 <td><a href="http://arxiv.org/abs/2604.03651">2604.03651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03467.html">A Solid-Based Approach for Modeling Simple Yield-Stress Fluids: Rheological Transitions, Overshoot and Relaxation</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Jehyeok Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03467">2604.03467</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03492.html">Mechanical Softening of Vero Cells Induced by an Attenuated Measles Vaccine Virus</a></div></td>
-<td>Alexander Einschuetz Lopez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03492">2604.03492</a></td>
 </tr>
 </tbody></table>
