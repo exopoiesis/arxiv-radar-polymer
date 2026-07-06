@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02238.html">Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="qspr-360d.html">qspr</a></div></td>
+<td>Moritz Singer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02238">2607.02238</a></td>
+</tr>
+<tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Youness Hadouch et al.</td>
@@ -104,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20439.html">Toughening beta-Ga2O3 via mechanically seeded dislocations</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Zanlin Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20439">2508.20439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
-<td>Gabriel Paciaroni et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 </tbody></table>

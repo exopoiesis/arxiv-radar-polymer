@@ -5,15 +5,33 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-05._
+_Updated 2026-07-06._
 
-**3505** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3509** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02238.html">Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/qspr-30d.html">qspr</a> · <a href="tag/tem-30d.html">tem</a></div></td>
+<td>Moritz Singer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02238">2607.02238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02248.html">From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Siyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02248">2607.02248</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02448.html">AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Emmanuel George et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02448">2607.02448</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00526.html">Effect of granules anisotropy on &quot;double quantum&quot; magnetic resonance excitation in nanogranular composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
@@ -37,6 +55,12 @@ _Updated 2026-07-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01031.html">Diffusiophoretic transport of colloids and emulsions in complex environments</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
 <td>Amir A. Pahlavan</td>
 <td><a href="http://arxiv.org/abs/2607.01031">2607.01031</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01380.html">Lagrangian evaluation of polymeric stress in viscoelastic fluids</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Mohammad Majidi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01380">2607.01380</a></td>
 </tr>
 <tr class="paper">
 <td>2026-06-29</td>
@@ -169,29 +193,5 @@ _Updated 2026-07-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25340.html">Fractionalized Vortices Drive Kosterlitz-Thouless Transitions in Dipole-Conserving Systems</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Han-Xie Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.25340">2606.25340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25618.html">Critical Universality of the SU (2) Gauge Glass Model Analyzed by the Dynamical Scaling Method</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Yosei Takada et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25618">2606.25618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25865.html">Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design</a></div><div class="paper-tags"><a href="tag/selfies-30d.html">selfies</a></div></td>
-<td>Haoyu Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25865">2606.25865</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.25891.html">The interplay of interfaces, supramolecular assembly, and electronics in organic semiconductors</a></div></td>
-<td>Belinda J. Boehm et al.</td>
-<td><a href="http://arxiv.org/abs/2606.25891">2606.25891</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Mohammad Moein Naderi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,23 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09088.html">A General, Automated Method for Building Structural Tensors of Arbitrary Order for Anisotropic Function Representations</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Ravi G. Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09088">2507.09088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.05044.html">Hybrid machine learning based scale bridging framework for permeability prediction of fibrous structures</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
-<td>Denis Korolev et al.</td>
-<td><a href="http://arxiv.org/abs/2502.05044">2502.05044</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19758.html">Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO$_3$ Nanocomposites with Enhanced Photocatalytic Efficiency</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>P. Princeya Mary et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19758">2504.19758</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="polymerization-360d.html">polymerization</a> · <a href="tem-360d.html">tem</a></div></td>
-<td>Gabriel Paciaroni et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 </tbody></table>

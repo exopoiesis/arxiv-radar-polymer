@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08987.html">Enhancing the hydrophilicity of nylon-6 fabric via hydrolysis amidation dual treatment in alkaline as a pre-treatment for membrane filtration systems</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
 <td>Nhat Minh Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08987">2507.08987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19758.html">Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO$_3$ Nanocomposites with Enhanced Photocatalytic Efficiency</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="composites-360d.html">composites</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>P. Princeya Mary et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19758">2504.19758</a></td>
 </tr>
 </tbody></table>

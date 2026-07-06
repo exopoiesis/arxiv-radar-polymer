@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02448.html">AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition</a></div></td>
+<td>Emmanuel George et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02448">2607.02448</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29766.html">Trajectory Optimization for Collision-Aware Redundant Robotic Multi-Axis Additive Manufacturing by Constrained Gradient Projection</a></div></td>
 <td>Zhikai Shen et al.</td>
@@ -1244,11 +1250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06421.html">Never Trust the Manufacturer, Never Trust the Client: A Novel Method for Streaming STL Files for Secure Additive manufacturing</a></div></td>
 <td>Seyed Ali Ghazi Asgar et al.</td>
 <td><a href="http://arxiv.org/abs/2507.06421">2507.06421</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07757.html">Deep Learning based 3D Volume Correlation for Additive Manufacturing Using High-Resolution Industrial X-ray Computed Tomography</a></div></td>
-<td>Keerthana Chand et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07757">2507.07757</a></td>
 </tr>
 </tbody></table>

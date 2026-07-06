@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.00813">2607.00813</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01380.html">Lagrangian evaluation of polymeric stress in viscoelastic fluids</a></div></td>
+<td>Mohammad Majidi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01380">2607.01380</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30041.html">A phase-field model for viscoelastic compressible tumor growth</a></div></td>
 <td>Luise Zieger et al.</td>
@@ -2738,11 +2744,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09088.html">A General, Automated Method for Building Structural Tensors of Arbitrary Order for Anisotropic Function Representations</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Ravi G. Patel et al.</td>
 <td><a href="http://arxiv.org/abs/2507.09088">2507.09088</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07470.html">Label-free microscope for rheological imaging of cells</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Nicolas P. Mauranyapin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07470">2507.07470</a></td>
 </tr>
 </tbody></table>

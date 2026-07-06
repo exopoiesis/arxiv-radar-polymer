@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membranes — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <strong>360d</strong> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08987.html">Enhancing the hydrophilicity of nylon-6 fabric via hydrolysis amidation dual treatment in alkaline as a pre-treatment for membrane filtration systems</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Nhat Minh Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08987">2507.08987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07880.html">Membrane-mediated force transduction: Stick-slip motion of vesicles with fluid membranes</a></div></td>
-<td>Paula Magrinya et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07880">2507.07880</a></td>
 </tr>
 </tbody></table>

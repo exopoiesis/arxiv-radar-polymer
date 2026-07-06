@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">343 papers</span>
+  <span class="paper-count">344 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02238.html">Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators</a></div><div class="paper-tags"><a href="qspr-all.html">qspr</a> · <a href="tem-all.html">tem</a></div></td>
+<td>Moritz Singer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02238">2607.02238</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27207.html">Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>

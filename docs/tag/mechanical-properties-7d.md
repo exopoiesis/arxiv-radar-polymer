@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2607.00813">2607.00813</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.01380.html">Lagrangian evaluation of polymeric stress in viscoelastic fluids</a></div></td>
+<td>Mohammad Majidi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.01380">2607.01380</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30041.html">A phase-field model for viscoelastic compressible tumor growth</a></div></td>
 <td>Luise Zieger et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30041">2606.30041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29599.html">Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
-<td>Motahareh Nazari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29599">2606.29599</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>tem — all</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="tem-7d.html">7d</a> <a href="tem-30d.html">30d</a> <a href="tem-90d.html">90d</a> <a href="tem-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02238.html">Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="qspr-all.html">qspr</a></div></td>
+<td>Moritz Singer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02238">2607.02238</a></td>
+</tr>
 <tr class="paper">
 <td>2026-05-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>

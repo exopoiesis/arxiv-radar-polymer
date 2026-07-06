@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02448.html">AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition</a></div></td>
+<td>Emmanuel George et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02448">2607.02448</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29766.html">Trajectory Optimization for Collision-Aware Redundant Robotic Multi-Axis Additive Manufacturing by Constrained Gradient Projection</a></div></td>
 <td>Zhikai Shen et al.</td>
@@ -284,11 +290,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06313.html">Too Big, Too Small, Too $O_2$: The Pandoro Effect from Oxygen Gradients in Tomographic Volumetric Additive Manufacturing</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
 <td>Riccardo Rizzo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.06313">2604.06313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05077.html">Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>MD Shafikul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05077">2604.05077</a></td>
 </tr>
 </tbody></table>

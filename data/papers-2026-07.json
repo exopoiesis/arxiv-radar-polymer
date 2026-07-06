@@ -97,5 +97,111 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-07-01"
+ },
+ "2607.01380": {
+  "abstract": "Polymeric stresses in viscoelastic flows arise from the deformation of polymer chains and are commonly computed using Eulerian constitutive models, in which the conformation tensor is evolved as a transported field over the entire domain. This approach is computationally intensive, prone to numerical instabilities, and not directly applicable to experimentally measured velocity fields. In this work, we develop a Lagrangian integration scheme that reconstructs the polymeric stress field from the deformation-gradient history along fluid element trajectories in a known, steady velocity field. This approach avoids solving the full Eulerian constitutive transport equation, which we develop for the nonlinear FENE-P model as well as the Oldroyd-B model as a reference case. After validation on unidirectional, canonical flows, the scheme is applied to non-trivial channel flows past circular obstacles using velocity fields quantified from both numerical simulations and microfluidic experiments. The reconstructed stress fields across both experiments and simulations are in agreement with traditional Eulerian reference solutions. Not only does this new Lagrangian scheme enable the quantification of stress fields directly from experimental velocity field data, but it also enables partial or whole-field mapping of stresses without solving fully-coupled viscoelastic constitutive equations.",
+  "authors": [
+   "Mohammad Majidi",
+   "Rishu Gandhi",
+   "Louison Thorens",
+   "Maliheh Teimouri",
+   "Jeffrey S. Guasto",
+   "Arezoo M. Ardekani"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Mohammad Majidi",
+  "pdf_url": "http://arxiv.org/pdf/2607.01380",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Lagrangian evaluation of polymeric stress in viscoelastic fluids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-01"
+ },
+ "2607.02238": {
+  "abstract": "Tantalum (Ta) is a promising material for reaching long coherence times in superconducting qubits. A detailed understanding of the underlying structure-property relationship remains elusive though. In the present study, we sputter-deposited 200 nm thick Ta films on high-resistivity silicon (100) substrates at temperatures ranging from T = 20°C to 600°C, as well as on different seed layers (Nb, TiN and TaN). Alpha-Ta thin films were readily obtained at temperatures above 500°C and on all seed layers. The films were characterized in terms of surface morphology, residual-resistance ratio, crystal phase composition and superconducting transition temperature, as well as RF-performance using coplanar waveguide resonators. Internal quality factors of up to 1.5 million were measured at 100 mK in the single-photon regime. Despite similar bulk material properties, alpha-Ta films on different seed layers exhibit markedly different RF-performance, which we attribute to dissimilar strain and structural defects at the substrate-metal interfaces. Williamson-Hall analysis of XRD data reveals a clear correlation between decreasing microstrain and increasing quality factor. Cross-sectional HR-TEM further supports this interpretation by directly resolving interfacial disorder. Our results highlight the critical role of interface engineering in optimizing superconducting thin films for low-loss quantum computing circuitry.",
+  "authors": [
+   "Moritz Singer",
+   "Harsh Gupta",
+   "Benedikt Schoof",
+   "Elena Willinger",
+   "Anton Orekhov",
+   "Marc Tornow"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Moritz Singer",
+  "pdf_url": "http://arxiv.org/pdf/2607.02238",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-02",
+  "tags": [
+   "polymer-morphology",
+   "qspr",
+   "tem"
+  ],
+  "title": "Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02248": {
+  "abstract": "Single-molecule (SM) rotational dynamics of fluorescent probes in polystyrene near the glass transition temperature ($T_g$) are investigated over long times to reconstruct susceptibility spectra. The loss spectrum, commonly recorded using external field-driven (frequency-domain) spectroscopy, such as dielectric spectroscopy, is reconstructed from purely thermal SM rotational fluctuations. The results reproduce time-temperature superposition typically seen in dielectric spectroscopy for materials near $T_g$ and show that the ensemble spectrum is comprised of individual molecular responses to distinct environments.",
+  "authors": [
+   "Siyang Wang",
+   "Jaladhar Mahato",
+   "Laura J. Kaufman"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Siyang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2607.02248",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-02",
+  "tags": [
+   "glass-transition",
+   "spectroscopy"
+  ],
+  "title": "From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-02"
+ },
+ "2607.02448": {
+  "abstract": "Parts manufactured with Fused Deposition Modeling (FDM) often require Design for Additive Manufacturing (DFAM) modifications to ensure printability, structural integrity, and reduced post-processing. Current slicers identify defects such as steep overhangs but are unable to modify the underlying geometry. This work presents AgentsCAD, a multi-agent system that bridges raw boundary-representation (B-Rep) geometry and Large Language Model (LLM) reasoning to automate targeted DFM. The workflow begins by parsing a STEP file. The agentic system detects overhangs above a 45°threshold, constructs a face-adjacency topology graph, and optionally injects semantic feature labels from a GraphSAGE model trained on MFCAD++ (59,665 parts), before dispatching a Claude Sonnet design-reasoning agent that recommends reorientations, fillets, chamfers, and similar modifications. A GPT-4o vision-language verifier inspects rendered views to confirm geometric integrity. Outputs include a modified STEP file and a human-readable report. A test case on a birdhouse model demonstrates that the system correctly diagnoses overhangs, selects appropriate defect mitigation strategies, and proposes physically valid corrections, partially solving the geometry-to-language translation problem central to LLM-driven CAD modification.",
+  "authors": [
+   "Emmanuel George",
+   "Christopher Keefe",
+   "Peter Pak",
+   "Amir Barati Farimani"
+  ],
+  "categories": [
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Emmanuel George",
+  "pdf_url": "http://arxiv.org/pdf/2607.02448",
+  "primary_category": "cs.MA",
+  "published": "2026-07-02",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-02"
  }
 }

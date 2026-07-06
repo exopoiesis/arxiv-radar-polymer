@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02248.html">From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
+<td>Siyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02248">2607.02248</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27716.html">Amorphous Fe-Sn nanofilms for anomalous-Nernst heat-flux sensing</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Kenji Tanabe et al.</td>
@@ -404,11 +410,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>E. Reynolds et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13449">2507.13449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.19758.html">Bio-Derived Graphite from Pterocarpus marsupium Leaves for rGO-MoO$_3$ Nanocomposites with Enhanced Photocatalytic Efficiency</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
-<td>P. Princeya Mary et al.</td>
-<td><a href="http://arxiv.org/abs/2504.19758">2504.19758</a></td>
 </tr>
 </tbody></table>

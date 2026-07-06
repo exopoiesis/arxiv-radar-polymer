@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02248.html">From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
+<td>Siyang Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02248">2607.02248</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25618.html">Critical Universality of the SU (2) Gauge Glass Model Analyzed by the Dynamical Scaling Method</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Yosei Takada et al.</td>
@@ -110,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.16060.html">Super-Arrhenius temperature dependent viscosity due to liquid-liquid phase separation in the super-cooled Kob-Andersen model</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Jayme Brickley et al.</td>
 <td><a href="http://arxiv.org/abs/2602.16060">2602.16060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.04404.html">A solvable model of noisy coupled oscillators with fully random interactions</a></div></td>
-<td>Harukuni Ikeda</td>
-<td><a href="http://arxiv.org/abs/2604.04404">2604.04404</a></td>
 </tr>
 </tbody></table>

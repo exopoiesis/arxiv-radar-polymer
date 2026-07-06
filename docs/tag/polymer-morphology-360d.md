@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02238.html">Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators</a></div><div class="paper-tags"><a href="qspr-360d.html">qspr</a> · <a href="tem-360d.html">tem</a></div></td>
+<td>Moritz Singer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.02238">2607.02238</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27207.html">Organic Semiconductor Alignment via Confinement in Vapor-Guided Droplets</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Robert Malinowski et al.</td>
@@ -1226,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10645.html">Scaling Relations, Morphological Stability, and Asymptotic Freedom of Plasma-Surface Deposition Dynamics</a></div></td>
 <td>Joel Saucedo et al.</td>
 <td><a href="http://arxiv.org/abs/2507.10645">2507.10645</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07849.html">Modulation of PEDOT properties via cobalt ferrite nanoparticles: morphology, conjugation length, doping level, structure, and electrical conductivity</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymerization-360d.html">polymerization</a> · <a href="tem-360d.html">tem</a></div></td>
-<td>Gabriel Paciaroni et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07849">2507.07849</a></td>
 </tr>
 </tbody></table>
