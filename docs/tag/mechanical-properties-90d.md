@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,35 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08413.html">Elastic and Viscous Effects in Viscoelastic Flows: Elucidating the Distinct Roles of the Deborah and Weissenberg Numbers</a></div></td>
 <td>Luis G. Sarasúa et al.</td>
 <td><a href="http://arxiv.org/abs/2604.08413">2604.08413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05338.html">Linear Viscoelasticity of Semidilute Unentangled Flexible Polymer Solutions</a></div></td>
-<td>Amit Varakhedkar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05338">2604.05338</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05679.html">Asymptotic models for viscoelastic one-dimensional blood flow</a></div></td>
-<td>Diego Alonso-Orán et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05679">2604.05679</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.05892.html">Elasto-inertial transitions in viscoelastic flows through cylinder arrays</a></div></td>
-<td>Jack R. C. King et al.</td>
-<td><a href="http://arxiv.org/abs/2604.05892">2604.05892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06287.html">Asymptotic-Preserving Neural Networks for Viscoelastic Parameter Identification in Multiscale Blood Flow Modeling</a></div></td>
-<td>Giulia Bertaglia et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06287">2604.06287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09708.html">i-Rheo-Tempo: A Model-Free, Quadrature-Free Reconstruction of the Shear Relaxation Modulus from Complex Viscosity</a></div></td>
-<td>Jorge Ramírez et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09708">2604.09708</a></td>
 </tr>
 </tbody></table>
