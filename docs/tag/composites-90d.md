@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05633.html">Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td>Daniel M. Anderson et al.</td>
+<td><a href="http://arxiv.org/abs/2607.05633">2607.05633</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00526.html">Effect of granules anisotropy on &quot;double quantum&quot; magnetic resonance excitation in nanogranular composites</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a></div></td>
 <td>A. B. Drovosekov et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00732.html">Tunable information insulation induced by constraint mismatch</a></div></td>
 <td>Akshay Panda et al.</td>
 <td><a href="http://arxiv.org/abs/2604.00732">2604.00732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07495.html">Laterally Differentiated Polymorphs: a route to multifunctional nanostructures</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a></div></td>
-<td>Pete E. Lauer et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07495">2604.07495</a></td>
 </tr>
 </tbody></table>

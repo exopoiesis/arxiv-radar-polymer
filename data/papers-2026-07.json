@@ -203,5 +203,324 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-07-02"
+ },
+ "2607.03017": {
+  "abstract": "The aging global population drives demand for assistive robots, yet the safety risks and costs of physical testing make Human-in-the-Loop (HITL) simulation an attractive alternative. Its fidelity for coupled systems, however, is limited by interaction models whose impedance parameters are tuned heuristically rather than identified from data. We present a Real2Sim pipeline that identifies the coupled Physical Human-Robot Interaction (pHRI) dynamics of a pelvis--strap interface on an overground mobile balance assistant. The interface is modeled as a 6-DoF viscoelastic mechanism whose 12 directional stiffness and damping parameters are identified per subject via Covariance Matrix Adaptation Evolution Strategy (CMA-ES), using the user's ``Safe \\& Comfortable'' feedback as a reproducible operating point that resolves harness-tightness ambiguity across anthropometrics. An intraclass-correlation analysis over a five-subject cohort separates shareable from subject-specific parameters, yielding a set of prior parameters derived from the existing data. Deploying this prior configures a previously unseen subject by refining only 5 of the 12 parameters. The calibrated model then reproduces the real interaction envelope and induces biomechanically accurate gait adaptations in the Human Digital Twin (HDT). Overly compliant and overly stiff settings, by contrast, fail as extreme settings, confirming a correct operating point that no heuristic tuning procedure can reliably select. The pipeline thus improves HITL simulation fidelity and supports the Human Digital Twin as a predictive tool for pre-clinical verification of personalized controllers.",
+  "authors": [
+   "Chengyuan Yang",
+   "Yifan Wang",
+   "Chun Kwang Tan",
+   "Sherwin Stephen Chan",
+   "Youlong Wang",
+   "Xiaoyue Yan",
+   "Lei Li",
+   "Wei Tech Ang"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Chengyuan Yang",
+  "pdf_url": "http://arxiv.org/pdf/2607.03017",
+  "primary_category": "cs.RO",
+  "published": "2026-07-03",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Beyond Heuristics: A Standardized Real2Sim Pipeline for Physical Human Robot Interaction in Human-in-the-Loop Simulation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03037": {
+  "abstract": "The flow of structured fluids, such as polymeric and micellar solutions, involves a strong two-way coupling between flow kinematics and internal microstructural dynamics, including polymer stretching, micellar scission, and reformation. These interactions yield complex nonlinear rheological responses, including viscoelasticity, shear-thinning, and thixotropy. In this study, we perform high-fidelity numerical simulations of micellar solution flow past a circular cylinder using the Modified Bautista-Manero (MBM) model, which couples a viscoelastic constitutive equation with a kinetic equation for fluidity to capture reversible micellar breakage and reformation. Model parameters are derived from quantitative fitting of experimental data for the EHAC-NaSal system. Our results reveal substantially richer flow dynamics than in Newtonian fluids under the same conditions. Transitions to unsteady flow occur at significantly lower Reynolds numbers, indicating greater instability driven by microstructural effects. At intermediate Reynolds numbers, micellar flows exhibit quasi-periodic behaviour, contrasting with classical periodic vortex shedding in Newtonian cases. Unlike the monotonic drag reduction in Newtonian fluids, micellar solutions show an anomalous drag increase. Wake characteristics reverse with regime: larger recirculation zones at low Reynolds numbers but more compact wakes in unsteady flows. Lift coefficients and Strouhal numbers are consistently increased. Vorticity fields display pronounced spatial localisation within thin near-wake shear layers. A dynamic mode decomposition analysis reveals coexisting unstable time-decaying and self-sustained modes in micellar flows, whereas only self-sustained modes appear in Newtonian cases.",
+  "authors": [
+   " Kartik",
+   "Anant Chauhan",
+   "Chandi Sasmal"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": " Kartik",
+  "pdf_url": "http://arxiv.org/pdf/2607.03037",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-03",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Contrary to Newtonian trends: Early flow transition and drag enhancement at low to intermediate Reynolds number flows of structured fluids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.03557": {
+  "abstract": "While recent research has focused heavily on dexterous grasp pose generation, less attention has been devoted to the execution of planned grasps. Under shape and position uncertainty, open-loop execution often yields uncoordinated contacts, causing undesired in-hand object motion and even grasp failures. To address this, this paper proposes a tactile-driven model predictive controller for adaptive and delicate execution of diverse dexterous grasps. Our approach emphasizes multi-contact coordination across both approaching and grasping phases, with three key novelties: (i) coordination-aware phase separation, (ii) arm-hand coordination to compensate for position errors, and (iii) adaptive force coordination to increase contact forces in a balanced manner. An analytical model is employed to relate contact forces to robot joint motions for predictive control. Our formulation imposes no restrictions on grasp types or contact configurations and integrates seamlessly with state-of-the-art grasp pose generation methods. We validate the approach through large-scale simulations involving 15k grasps across 478 objects on three robotic hands, and real-world experiments on 8 objects. Results demonstrate that our method achieves higher grasp success rates and reduced undesired object movements.",
+  "authors": [
+   "Mingrui Yu",
+   "Yongpeng Jiang",
+   "Yongyi Jia",
+   "Ren Yi",
+   "Xiang Li"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "Accepted by ICRA 2026. Best Poster Award at ICRA 2026 Workshop on Dexterity with Multifingered Hands: Hardware, Sensing, and Skills. Project Website: https://ada-grasp-ctrl.github.io/",
+  "first_author": "Mingrui Yu",
+  "pdf_url": "http://arxiv.org/pdf/2607.03557",
+  "primary_category": "cs.RO",
+  "published": "2026-07-03",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-03"
+ },
+ "2607.04752": {
+  "abstract": "We consider the interaction of a general viscous compressible and heat-conducting fluid with an elastic shell located at the boundary of the fluid's domain. The fluid is described by the compressible Navier-Stokes-Fourier equations and the shell evolves in accordance with a viscoelastic beam equation. Both are coupled through kinematic boundary conditions and the balance of forces. Our first result is the local-in-time well-posedness of the underlying coupled system of nonlinear PDEs in smooth function spaces. Eventually, we prove a conditional regularity criterion which is in the spirit of the Beale-Kato-Majda condition for the incompressible Euler equations combined with the boundedness of density and temperature. It rests upon a weak-strong uniqueness result for the underlying system.",
+  "authors": [
+   "D. Breit",
+   "P. M. Ngougoue Ngougoue"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "D. Breit",
+  "pdf_url": "http://arxiv.org/pdf/2607.04752",
+  "primary_category": "math.AP",
+  "published": "2026-07-06",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Well-posedness and regularity in thermodynamics of compressible fluid-structure interactions",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.04768": {
+  "abstract": "Facial skin dynamics are inherently challenging to simulate due to a combination of geometric, material, and anatomical complexities. Human skin is a nonlinear layered material with spatially heterogeneous attachments to the underlying tissues. During contact events, localized compression and shear induce mechanical instabilities, leading to fine-scale wrinkling patterns governed by a delicate interplay of geometry, boundary conditions, and through-the-thickness stresses. We present a finite element framework to simulate contact-induced wrinkling of facial skin. We model skin as a viscoelastic material with time-dependent relaxation that governs the rate, persistence, and damping of wrinkle formation. We employ high-order prismatic solid-shell elements to resolve through-thickness stresses and high-frequency deformation modes. Central to our approach, we introduce a continuum-based formulation of skin ligaments to model heterogeneous skin attachments and provide anatomically inspired mobility constraints. These skin ligaments control the formation and appearance of facial wrinkles by modulating their amplitude, wavelength, and spatial distribution. We evaluate our method on a set of synthetic examples and compare simulations with real-world footage. These results demonstrate that our skin model produces temporally coherent and visually realistic wrinkle patterns during transient contact.",
+  "authors": [
+   "Juan Sebastian Montes Maestre",
+   "Ladislav Kavan",
+   "Edmond Boyer",
+   "Ryan Goldade",
+   "Stelian Coros",
+   "Bernhard Thomaszewski"
+  ],
+  "categories": [
+   "cs.GR"
+  ],
+  "comment": null,
+  "first_author": "Juan Sebastian Montes Maestre",
+  "pdf_url": "http://arxiv.org/pdf/2607.04768",
+  "primary_category": "cs.GR",
+  "published": "2026-07-06",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Physics-Based Simulation of Contact-Induced Facial Wrinkling",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.04954": {
+  "abstract": "The problem of simultaneous placement of distributed generators and DSTATCOMs in radial distribution networks (RDNs) is a combinatorial mixed-integer optimization problem whose scalability with growing decision dimensionality has been insufficiently explored. A cross-scale analysis of seven metaheuristic algorithms, GWO, SCA, PSO, WOA, GA, HHO and SMA, is conducted on the IEEE 33-bus, 69-bus, and 136-bus systems at three problem dimensions \\( d = 4, 8, 12 \\), with 30 independent runs per configuration being validated through Wilcoxon and Friedman tests. Mean-performance statistics are extended with a Catastrophic Failure Rate (CFR) metric. The main result will be that dimensional scaling serves as a behavioral discriminator. The Friedman \\( χ^2 \\) rises with the dimensionality, reaching its maximum value of \\( χ^2 = 143.79 \\) in the 136-bus at \\( d = 12 \\) that corresponds to the progressive phase separation of the algorithms into two clusters of high and low performance. GA is the best performer in terms of the lowest rank in all the configurations. SCA has low variance but convergence to increasingly sub-optimal solutions. HHO exhibits catastrophic instability at all scales. Perhaps most strikingly, GA and PSO obtain a \\( 3.3\\% \\) CFR on the 136-bus at \\( d = 12 \\) while the 33-bus at identical dimensionality has a \\( 73\\%-83\\% \\) CFR, showing that topology influences the reliability in a manner that is not captured by single-system measures.",
+  "authors": [
+   "Md. Tanvirul Islam"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": null,
+  "first_author": "Md. Tanvirul Islam",
+  "pdf_url": "http://arxiv.org/pdf/2607.04954",
+  "primary_category": "eess.SY",
+  "published": "2026-07-06",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Cross-Scale Performance Analysis of Metaheuristic Algorithms for Simultaneous DG and DSTATCOM Placement in Radial Distribution Networks",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05151": {
+  "abstract": "We propose a numerical algorithm to construct a Markov model with an extended list of variables to parameterize the equation of motion of a multidimensional coarse-grained physical system in an external potential, when memory effects are relevant. Our method uses autocorrelation data of the stationary velocities, but it avoids the inverse problem of finding the corresponding memory kernel from these data in a first step. Rather, the data are used to construct a Prony series approximation of the autocorrelation function, and the parameters of this Prony series provide the corresponding Markov model. Numerical results for molecular dynamics data show a good match for parameterized models with five auxiliary variables for a one-dimensional, and twelve auxiliary variables for a two-dimensional system.",
+  "authors": [
+   "Maximilian Braun",
+   "Martin Hanke",
+   "Niklas Wolf"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Maximilian Braun",
+  "pdf_url": "http://arxiv.org/pdf/2607.05151",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-06",
+  "tags": [
+   "coarse-grained",
+   "molecular-dynamics"
+  ],
+  "title": "On data-driven parameterizations of multidimensional generalized Langevin dynamics in the presence of a quadratic potential",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05154": {
+  "abstract": "Phase-separated liquid droplets organize molecules in cells, but the underlying physical principles differ from abiotic mixing and quantitative rules in living systems remain poorly understood. The pyrenoid -- a liquid-like organelle that enhances photosynthetic carbon fixation in algae and hornworts -- provides an unusually tractable model system. Here, we review recent advances in our understanding of pyrenoids from the perspective of biophysics. We highlight how reaction-diffusion models connect compartment architecture to catalytic performance, how soft matter theories link molecular interactions to condensate assembly, and how modern experimental methods enable these predictions to be tested quantitatively. Recent studies suggest that pyrenoid function may be described by a small number of effective   transport and reaction processes, while condensate assembly can be understood through molecular design parameters and thermodynamic constraints. Together, these findings establish the pyrenoid as a powerful system for investigating catalytic compartmentalization, biomolecular self-organization and the emergence of effective physical descriptions in living systems.",
+  "authors": [
+   "Charley Schaefer",
+   "Mark Leake"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": "22 pages, 5 figures",
+  "first_author": "Charley Schaefer",
+  "pdf_url": "http://arxiv.org/pdf/2607.05154",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-07-06",
+  "tags": [
+   "diffusion-model",
+   "soft-matter"
+  ],
+  "title": "Biophysics of the Pyrenoid",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05633": {
+  "abstract": "In this work we design a multi-layer model of composite contact lens drug release. Such lenses have been designed by encapsulating drug-polymer films in contact lens hydrogels. Composite lenses can promote sustained discharge of drug and achieve near zero-order release kinetics, thus surpassing other ocular delivery methods that are limited by short residence times and an undesirable initial burst release. Our model is informed by in vivo data, and includes three coupled partial differential equation layers to simulate the composite lens. We mathematically investigate the effect of composite contact lens design characteristics on the time to $50\\%$ therapeutic drug release ($t_{50}$) in the vial, eye, and blister pack settings. In the eye setting, we incorporate our prior model that considers the effect of many blinks on the pre- and post-lens tear film drug concentrations. We simulate drug cumulative release profiles and study the variability of $t_{50}$ across: (1) the ratio of the drug-polymer film to hydrogel diffusion coefficients, (2) the centerline of the polymer film within the hydrogel, and (3) the polymer film thickness. In the blister pack setting, we study storage questions that may inform future commercial design. This work may help medical professionals better understand the mechanics of contact lens drug delivery and predict targeted tissue transport of ophthalmic drugs.",
+  "authors": [
+   "Daniel M. Anderson",
+   "Rayanne A. Luke"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": "32 pages, 15 figures, 4 tables",
+  "first_author": "Daniel M. Anderson",
+  "pdf_url": "http://arxiv.org/pdf/2607.05633",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-07-06",
+  "tags": [
+   "composites",
+   "hydrogels"
+  ],
+  "title": "Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.05879": {
+  "abstract": "We study topological relaxation in ordered viscoelastic conformation flows at finite epsilon. In an ordered region, a positive spectral gap selects an oriented principal axis and hence an S^2-valued director with a Hopf class. We show that a change of this class must be accompanied, before the sharp-interface limit, by one of a finite list of costs: exterior gap concentration, ordered-core mass, boundary flux, FENE/collar loss, or a topology exit. The result is proved for a concrete Landau-de Gennes ordered-core closure coupled to an Oldroyd/FENE-type transport law. The structural hypotheses used in the argument are verified up to the first typed exit time: the Morse-Bott ordered well, tubular soft coordinates, massive-mode coercivity, a projected transported Ginzburg-Landau equation, exterior gap control, and tame FENE/collar coefficients. The projected Ginzburg-Landau equation separates translation modes from the remaining residuals. The translation modes give the normal line force, while the orthogonal soft, massive, geometric, and collar terms are absorbed by coercivity or charged to the corresponding exit. A modulated-energy argument propagates a nonempty class of vortex-tube data on regular intervals. On each such interval, the normalized core measures converge to an integral one-varifold satisfying a transported forced Brakke inequality with the computed force. The theorem therefore derives the force projection, open-basin propagation, and Brakke compactness estimates before invoking any limiting Brakke flow, and it records the finite-epsilon cost when the regular ordered-core description breaks down.",
+  "authors": [
+   "Sai Peng"
+  ],
+  "categories": [
+   "math.AP",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Sai Peng",
+  "pdf_url": "http://arxiv.org/pdf/2607.05879",
+  "primary_category": "math.AP",
+  "published": "2026-07-07",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Hopf Obstruction and Transported Forced Brakke Motion in Ordered Viscoelastic Cores",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.05905": {
+  "abstract": "We introduce a compensated Piola graph method for Lagrangian stability estimates in critical homogeneous Besov spaces below the usual product threshold. For $d\\ge2$, $2d\\le p<\\infty$, and $s=d/p$, we establish local Hadamard well-posedness and a continuation criterion in the scaling-critical Besov phase space $\\dot B^{s-1}_{p,1}(\\mathbb R^d)^d\\times \\dot B^s_{p,1}(\\mathbb R^d)$, for a class of incompressible parabolic systems coupled to nondiffusive internal variables. The main obstruction is that the formal Piola product between the inverse deformation gradient and the Lagrangian velocity is only borderline at $p=2d$ and is not continuous in general for $p>2d$. We replace this product by a closed solenoidal Piola graph, using a compensated divergence structure that survives in the high-integrability range. The principle applies to viscous non-resistive MHD, Hookean incompressible viscoelasticity, and nondiffusive Oldroyd--B systems with affine objective terms. In particular, it closes the previously untreated high-$p$ Hadamard well-posedness range for critical non-resistive MHD and for the nondiffusive Oldroyd--B systems considered here; combined with the known low-$p$ MHD theory, it gives the finite-$p$, $q=1$ critical Besov picture for non-resistive MHD.",
+  "authors": [
+   "Maotuo Guo"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Maotuo Guo",
+  "pdf_url": "http://arxiv.org/pdf/2607.05905",
+  "primary_category": "math.AP",
+  "published": "2026-07-07",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A compensated Piola principle for critical nondiffusive parabolic systems",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06110": {
+  "abstract": "We investigate the completion dynamics of an overdamped dimer moving in a bistable potential under thermal fluctuations and a weak periodic force. Both monomers start in one of the two wells separated by a barrier. The transition is initiated when the monomer closer to the barrier makes a jump across it. The completion dynamics refers to the next part of the dynamics where the second monomer has to wait for some time before it can follow up. We use the Conditional Residence Time (CRT) to study the delay between the successive barrier crossing of the two monomers. The CRT distributions highlight qualitatively different regimes formed by the competition between the escape times of the lagging monomer and the time period of the external drive. The effect is strongest in the weak coupling regime where the delayed completion is spread across multiple forcing cycles. By partitioning this process into three windows, i.e. the immediate, first cycle and later cycles, we show that the probability that the lagging monomer will make a transition in the said cycle is redistributed among these pathways as we change the frequency of the drive. This leads to a non-monotonic dependence of the mean CRT on the frequency of the drive. Our results demonstrate that transition initiation and completion in a coupled system are two separate processes and establish CRT as a useful measure to quantify the sequential barrier crossing dynamics in coupled stochastic systems.",
+  "authors": [
+   "Dhruv Agrawal",
+   "W. L. Reenbohn"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Dhruv Agrawal",
+  "pdf_url": "http://arxiv.org/pdf/2607.06110",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-07",
+  "tags": [],
+  "title": "Conditional Residence Times and Sequential Transition Dynamics of an Overdamped Dimere",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06122": {
+  "abstract": "We use molecular dynamics simulations to directly compute the effective diffusivity of hydrogen gas atoms in homogeneous distributions of monovacancies in tungsten and vanadium, and voids in tungsten. Rather than fitting the results to an Arrhenius law, we compare to an analytic approximation for the effective diffusivity recently derived for multi-occupancy traps [Kaur et al (2025), Phys. Rev. Mater. 9:125404]. We find good agreement between full atomistic simulation and our theory, validating the analytic model for diffusivity for materials containing nanoscale defects characteristic of radiation damage. There are no parameters fitted, only physically motivated quantities that can be computed with static density functional or atomistic potential calculations. In this study we prove rapid convergence of hydrogen trap occupation to the steady state using lattice kinetic Monte Carlo, the spontaneous emergence of voids in tungsten using atomistic simulation with empirical potentials, and molecular hydrogen formation in voids using molecular dynamics. We conclude with a prediction for diffusion and retention of hydrogen in voids in tungsten starting from first principles. This work shows that not only is the analytic form for diffusivity and retention in multi-occupancy traps a practical scheme for making predictive simulations of hydrogen isotope diffusion and retention in irradiated microstructures, derived and parameterized from first principles, it is superior to existing single-occupancy trap formalisms.",
+  "authors": [
+   "Daniel Mason",
+   "Sanjeet Kaur",
+   "Samanyu Tirumala",
+   "Prashanth Srinivasan",
+   "Ville Jantunen",
+   "Max Boleininger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Daniel Mason",
+  "pdf_url": "http://arxiv.org/pdf/2607.06122",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-07",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-07"
  }
 }

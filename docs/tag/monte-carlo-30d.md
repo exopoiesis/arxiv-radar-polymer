@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Daniel Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30267.html">Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis</a></div></td>
 <td>Johannes H. H. Dreckhoff et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10821.html">Continuous and discontinuous transitions in the Ising-Heisenberg model on the extended Lieb lattice in a magnetic field</a></div></td>
 <td>David Sivy et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10821">2606.10821</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.08763.html">Energy Barriers for Reversible Chain Scission and Healing under Tension with Displacement Control</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Mohammad A. Ansari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.08763">2606.08763</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Daniel Mason et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30267.html">Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis</a></div></td>
 <td>Johannes H. H. Dreckhoff et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.28672.html">How Many Qubits Can Be Teleported? Scalability of Fidelity-Constrained Quantum Applications</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Oscar Adamuz-Hinojosa et al.</td>
 <td><a href="http://arxiv.org/abs/2603.28672">2603.28672</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.06764.html">Towards National Quantum Communication in Europe: Planning and Sizing Terrestrial QKD Networks</a></div></td>
-<td>Sebastian Raubitzek et al.</td>
-<td><a href="http://arxiv.org/abs/2604.06764">2604.06764</a></td>
 </tr>
 </tbody></table>
