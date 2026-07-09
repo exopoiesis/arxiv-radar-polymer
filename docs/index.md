@@ -5,15 +5,63 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-08._
+_Updated 2026-07-09._
 
-**3522** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3531** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06961.html">Single-laser stimulated Brillouin scattering microscopy</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Feihong Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06961">2607.06961</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07113">2607.07113</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07194.html">Elastic pseudoturbulence induced by low-Galilei settling spheres</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Ludovico Fossà et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07194">2607.07194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07411.html">Hyperuniform systems are maximally irreversible</a></div><div class="paper-tags"><a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
+<td>Mathias Casiulis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07411">2607.07411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07453.html">Collaborate to decorrelate in path space: Hamiltonian replica exchange transition interface sampling (HRETIS)</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Sina Safaei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07453">2607.07453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wout Laeremans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07574.html">Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Siavash Mahmoudi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07574">2607.07574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Marlo Kunzner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07645">2607.07645</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.05879.html">Hopf Obstruction and Transported Forced Brakke Motion in Ordered Viscoelastic Cores</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -37,6 +85,12 @@ _Updated 2026-07-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Daniel Mason et al.</td>
 <td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.06814.html">Microscopic Dynamical Entropy II: Statistical and Stochastic Thermodynamics of Hamiltonian Systems</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Mingnan Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06814">2607.06814</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-06</td>
@@ -139,59 +193,5 @@ _Updated 2026-07-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.01380.html">Lagrangian evaluation of polymeric stress in viscoelastic fluids</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Mohammad Majidi et al.</td>
 <td><a href="http://arxiv.org/abs/2607.01380">2607.01380</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29766.html">Trajectory Optimization for Collision-Aware Redundant Robotic Multi-Axis Additive Manufacturing by Constrained Gradient Projection</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Zhikai Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29766">2606.29766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30041.html">A phase-field model for viscoelastic compressible tumor growth</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Luise Zieger et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30041">2606.30041</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30176.html">Trimers in the Extended Hubbard Model</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>R. R. Montenegro-Filho et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30176">2606.30176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.30267.html">Pathway variability, coat stiffening and mechanical adaptation during clathrin-mediated endocytosis</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Johannes H. H. Dreckhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30267">2606.30267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29285.html">A Signal Analysis Framework for Unshielded Room-Temperature Magnetocardiography</a></div></td>
-<td>Kushal Patel et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29285">2606.29285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.29599.html">Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Motahareh Nazari et al.</td>
-<td><a href="http://arxiv.org/abs/2606.29599">2606.29599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/gnn-30d.html">gnn</a></div></td>
-<td>Pharindra Pathak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28996">2606.28996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27674.html">Geometry-Preserving Reduced-Order Modeling via Immersed Tensor Decomposition (ITD)</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Lei Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27674">2606.27674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2606.27716.html">Amorphous Fe-Sn nanofilms for anomalous-Nernst heat-flux sensing</a></div><div class="paper-tags"><a href="tag/crystallinity-30d.html">crystallinity</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
-<td>Kenji Tanabe et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27716">2606.27716</a></td>
 </tr>
 </tbody></table>

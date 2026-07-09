@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Marlo Kunzner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07645">2607.07645</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03037.html">Contrary to Newtonian trends: Early flow transition and drag enhancement at low to intermediate Reynolds number flows of structured fluids</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td> Kartik et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09273.html">DWS-based microrheology of triblock copolymers</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>René Tammen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09273">2604.09273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08361.html">Axial forces in capillary liquid bridges of polymer solutions</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Sreeram Rajesh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08361">2604.08361</a></td>
 </tr>
 </tbody></table>

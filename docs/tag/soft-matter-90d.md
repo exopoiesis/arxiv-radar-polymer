@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07411.html">Hyperuniform systems are maximally irreversible</a></div></td>
+<td>Mathias Casiulis et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07411">2607.07411</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05154.html">Biophysics of the Pyrenoid</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
 <td>Charley Schaefer et al.</td>
@@ -116,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08016.html">Approximating Continuous Motions of Geometric Constraint Systems</a></div></td>
 <td>Matthias Adrian-Himmelmann</td>
 <td><a href="http://arxiv.org/abs/2602.08016">2602.08016</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08249.html">3D microprinting anisotropic and deformable active matter -- A perspective</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>Mengshi Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08249">2604.08249</a></td>
 </tr>
 </tbody></table>

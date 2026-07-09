@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07113">2607.07113</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04954.html">Cross-Scale Performance Analysis of Metaheuristic Algorithms for Simultaneous DG and DSTATCOM Placement in Radial Distribution Networks</a></div></td>
 <td>Md. Tanvirul Islam</td>
@@ -452,11 +458,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09447.html">Unifying hydrodynamic theory for motility-regulated active matter: from single particles to interacting polymers</a></div></td>
 <td>Alberto Dinelli et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09447">2604.09447</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08316.html">Active Transport as a Mechanism of Microphase Selection in Biomolecular Condensates</a></div></td>
-<td>Le Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08316">2604.08316</a></td>
 </tr>
 </tbody></table>

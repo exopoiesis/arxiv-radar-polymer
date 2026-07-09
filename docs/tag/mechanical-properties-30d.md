@@ -16,6 +16,30 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06961.html">Single-laser stimulated Brillouin scattering microscopy</a></div></td>
+<td>Feihong Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06961">2607.06961</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07194.html">Elastic pseudoturbulence induced by low-Galilei settling spheres</a></div></td>
+<td>Ludovico Fossà et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07194">2607.07194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07574.html">Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation</a></div></td>
+<td>Siavash Mahmoudi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07574">2607.07574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
+<td>Marlo Kunzner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07645">2607.07645</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05879.html">Hopf Obstruction and Transported Forced Brakke Motion in Ordered Viscoelastic Cores</a></div></td>
 <td>Sai Peng</td>
@@ -212,29 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10801.html">Nonlinear Anisotropic Visco-Anelasticity</a></div></td>
 <td>Souhayl Sadik et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10801">2606.10801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09007.html">High-Order Regularity and a Fully Discrete Fourier Spectral Method for a Partially Dissipative Viscoelastic Timoshenko System with Memory</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Zhenyang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09007">2606.09007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09128.html">Dynamic sliding and rolling friction models for linear viscoelastic contact pairs</a></div></td>
-<td>Luigi Romano</td>
-<td><a href="http://arxiv.org/abs/2606.09128">2606.09128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09560.html">Predicting Physical and Physical-Chemical Properties of Molecular-Based Materials Using Computational Neural Networks</a></div></td>
-<td>Andrei A. Gakh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09560">2606.09560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10145.html">Beyond the Markovian limit: Exact solutions for active motion in a power-law viscoelastic bath</a></div></td>
-<td>Mintu Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10145">2606.10145</a></td>
 </tr>
 </tbody></table>

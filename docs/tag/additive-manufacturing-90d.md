@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -278,11 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09889.html">In-situ process monitoring for defect detection in wire-arc additive manufacturing: an agentic AI approach</a></div></td>
 <td>Pallock Halder et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09889">2604.09889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08249.html">3D microprinting anisotropic and deformable active matter -- A perspective</a></div><div class="paper-tags"><a href="soft-matter-90d.html">soft-matter</a></div></td>
-<td>Mengshi Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08249">2604.08249</a></td>
 </tr>
 </tbody></table>

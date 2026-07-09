@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06814.html">Microscopic Dynamical Entropy II: Statistical and Stochastic Thermodynamics of Hamiltonian Systems</a></div></td>
+<td>Mingnan Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06814">2607.06814</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05633.html">Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
 <td>Daniel M. Anderson et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05633">2607.05633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.00526.html">Effect of granules anisotropy on &quot;double quantum&quot; magnetic resonance excitation in nanogranular composites</a></div><div class="paper-tags"><a href="nanocomposites-7d.html">nanocomposites</a></div></td>
-<td>A. B. Drovosekov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00526">2607.00526</a></td>
 </tr>
 </tbody></table>

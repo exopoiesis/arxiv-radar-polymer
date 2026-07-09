@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07113">2607.07113</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07453.html">Collaborate to decorrelate in path space: Hamiltonian replica exchange transition interface sampling (HRETIS)</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Sina Safaei et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07453">2607.07453</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Wout Laeremans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05151.html">On data-driven parameterizations of multidimensional generalized Langevin dynamics in the presence of a quadratic potential</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -242,17 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09769.html">Differentiable free energy surface: a variational approach to directly observing rare events using generative deep-learning models</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Shuo-Hui Li et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09769">2604.09769</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.02932.html">Data-driven Reduction of Transfer Operators for Particle Clustering Dynamics</a></div></td>
-<td>Nathalie Wehlitz et al.</td>
-<td><a href="http://arxiv.org/abs/2601.02932">2601.02932</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08022.html">Linear Response and Optimal Fingerprinting for Nonautonomous Systems</a></div></td>
-<td>Valerio Lucarini</td>
-<td><a href="http://arxiv.org/abs/2602.08022">2602.08022</a></td>
 </tr>
 </tbody></table>

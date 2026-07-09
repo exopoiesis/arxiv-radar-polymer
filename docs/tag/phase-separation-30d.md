@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07113">2607.07113</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04954.html">Cross-Scale Performance Analysis of Metaheuristic Algorithms for Simultaneous DG and DSTATCOM Placement in Radial Distribution Networks</a></div></td>
 <td>Md. Tanvirul Islam</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26128.html">Physics-guided Convolutional Neural Network for Domain Growth Prediction in Systems with Conserved Kinetics</a></div></td>
 <td>Vijay Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26128">2606.26128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Minaam Qamar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09341">2606.09341</a></td>
 </tr>
 </tbody></table>

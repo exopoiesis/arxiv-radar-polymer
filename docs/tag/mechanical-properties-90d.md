@@ -16,6 +16,30 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06961.html">Single-laser stimulated Brillouin scattering microscopy</a></div></td>
+<td>Feihong Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06961">2607.06961</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07194.html">Elastic pseudoturbulence induced by low-Galilei settling spheres</a></div></td>
+<td>Ludovico Fossà et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07194">2607.07194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07574.html">Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation</a></div></td>
+<td>Siavash Mahmoudi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07574">2607.07574</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Marlo Kunzner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07645">2607.07645</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05879.html">Hopf Obstruction and Transported Forced Brakke Motion in Ordered Viscoelastic Cores</a></div></td>
 <td>Sai Peng</td>
@@ -704,29 +728,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09273.html">DWS-based microrheology of triblock copolymers</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>René Tammen et al.</td>
 <td><a href="http://arxiv.org/abs/2604.09273">2604.09273</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07854.html">Viscoelastic Droplet Impact on Surfaces with Sharp Wettability Contrast: Coupled Influence of Relaxation Time and Surface Tension</a></div></td>
-<td>Mahmood Mousavi et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07854">2604.07854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07906.html">Tuning Cross-stream Lift in Viscoelastic Shear: Distinct Hydrodynamic Signatures of Force-bearing and Force-free Mechanisms</a></div></td>
-<td>Soumyodeep Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2604.07906">2604.07906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08361.html">Axial forces in capillary liquid bridges of polymer solutions</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Sreeram Rajesh et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08361">2604.08361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.08413.html">Elastic and Viscous Effects in Viscoelastic Flows: Elucidating the Distinct Roles of the Deborah and Weissenberg Numbers</a></div></td>
-<td>Luis G. Sarasúa et al.</td>
-<td><a href="http://arxiv.org/abs/2604.08413">2604.08413</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06814.html">Microscopic Dynamical Entropy II: Statistical and Stochastic Thermodynamics of Hamiltonian Systems</a></div></td>
+<td>Mingnan Ding et al.</td>
+<td><a href="http://arxiv.org/abs/2607.06814">2607.06814</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05633.html">Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Daniel M. Anderson et al.</td>
@@ -248,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10692.html">i-Tac: Inverse Design of 3D-Printed Tactile Elastomers with Scalable and Tunable Optical and Mechanical Properties</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="inverse-design-90d.html">inverse-design</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Wen Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10692">2604.10692</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.00732.html">Tunable information insulation induced by constraint mismatch</a></div></td>
-<td>Akshay Panda et al.</td>
-<td><a href="http://arxiv.org/abs/2604.00732">2604.00732</a></td>
 </tr>
 </tbody></table>

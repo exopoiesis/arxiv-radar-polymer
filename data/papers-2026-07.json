@@ -522,5 +522,244 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-07-07"
+ },
+ "2607.06814": {
+  "abstract": "The Microscopic Dynamical Entropy (MDE) introduced in Ref. [1] describes irreversible relaxation of selected variables x within a finite closed Hamiltonian system of fixed total energy E. Here we extend the framework to arbitrary total-energy distributions and time-dependent Hamiltonians. This allows work interactions with external agents or protocols, crucial in stochastic and classical thermodynamics, and driven systems more generally, to be addressed directly. The central step is to reduce the full microscopic description in terms of selected variables x and unmonitored variables y to one in terms of the selected variables and the instantaneous total energy (x,E). The unmonitored degrees of freedom y in Y enter through their conditional phase-space volume (CPV) $Ω_Y(x,E,t)$. This construction allows work and heat to be defined directly for finite Hamiltonian composites, including cases where Y is so small that its temperature is not well defined. We demonstrate monotonic MDE growth, corresponding to the macroscopic second law, under mixing and time-scale separation even for driven systems with arbitrary energy distributions. At trajectory level, we derive detailed and integral fluctuation relations for the MDE, generalising standard large-bath results. We verify these numerically in a driven few-particle Hamiltonian system, showing the emergence of stochastic thermodynamics for collective coordinates, such as the centre-of-mass position, even in closed systems with only ten or twenty degrees of freedom. Physically, these fluctuation relations connect irreversibility to the change in the number of unmonitored microstates compatible with initial and final data for the observed coordinates. Together, our results provide a finite-system Hamiltonian foundation for the emergence of classical and stochastic thermodynamics and extend their applicability to surprisingly small heat baths.",
+  "authors": [
+   "Mingnan Ding",
+   "Michael E. Cates"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "15 pages, 1 figure",
+  "first_author": "Mingnan Ding",
+  "pdf_url": "http://arxiv.org/pdf/2607.06814",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-07",
+  "tags": [
+   "composites"
+  ],
+  "title": "Microscopic Dynamical Entropy II: Statistical and Stochastic Thermodynamics of Hamiltonian Systems",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-07"
+ },
+ "2607.06961": {
+  "abstract": "Stimulated Brillouin scattering (SBS) microscopy enables label-free mapping of local viscoelastic properties, but frequency-domain implementations are often limited by uncertainty in the pump-probe frequency-difference axis. We demonstrate an RF-defined single-laser electro-optic-modulation SBS microscope in which the pump and probe are derived from the same optical carrier and their frequency difference is set by an electro-optically generated sideband. This architecture makes laser-frequency noise largely common mode and eliminates optical wavelength tuning during spectral scanning. It achieves Brillouin frequency shift and linewidth precisions of 0.07 MHz and 0.30 MHz, respectively. Comparison with a low-NA reference linewidth indicates a system-level spectral broadening of approximately 3.1 MHz, corresponding to an effective spectral resolution of approximately 3 MHz. Imaging of femtosecond-laser-modified chalcogenide glass resolves MHz-level Brillouin contrasts corresponding to 10^-4-level apparent longitudinal-modulus contrast. This work demonstrates the feasibility of transferring the frequency definition of SBS spectral scanning from optical wavelength tuning to RF-domain control, providing a new conceptual and technical basis for high-precision, high-spectral-fidelity Brillouin imaging.",
+  "authors": [
+   "Feihong Lin",
+   "Zechao Wen",
+   "Jiahui Li",
+   "Xiaoyu Yang",
+   "Haonan Zhang",
+   "Jiahe Zhang",
+   "Peiqing Zhang",
+   "Xu Liu",
+   "Qing Yang"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "22 pages, 9 figures, to be submitted to ACS Photonics",
+  "first_author": "Feihong Lin",
+  "pdf_url": "http://arxiv.org/pdf/2607.06961",
+  "primary_category": "physics.optics",
+  "published": "2026-07-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Single-laser stimulated Brillouin scattering microscopy",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07113": {
+  "abstract": "Understanding how nonequilibrium driving modifies phase-separation kinetics remains a fundamental challenge. Here we show that phase separation in a two-temperature system exhibits a striking density-induced reentrant coarsening behavior. Using Brownian dynamics simulations and a coarse-grained field-theoretic model, we find that the characteristic domain size grows as $L(t)\\sim t^{1/z}$, displaying a reentrant sequence $(t^{1/3} \\rightarrow t^{1/4}\\rightarrow t^{1/3})$ with increasing density. While the low- and high-density regimes are governed by classical curvature-driven bulk diffusion, the intermediate-density regime exhibits anomalously slow growth. We show that this slowdown originates from a transport bottleneck arising from the interplay of particle diffusivity, particle availability, and attachment kinetics, which suppresses the effective mass flux between domains. Unlike equilibrium phase separation, where density primarily affects morphology and crossover scales, the two-temperature drive renders density a key control parameter for coarsening pathways. Our results uncover a nonequilibrium mechanism for anomalous domain growth in two-temperature systems.",
+  "authors": [
+   "Partha Sarathi Mondal",
+   "Anish Kumar",
+   "Nayana Venkatareddy",
+   "Prabal K. Maiti",
+   "Shradha Mishra"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "5 Pages, 5 Figures",
+  "first_author": "Partha Sarathi Mondal",
+  "pdf_url": "http://arxiv.org/pdf/2607.07113",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-08",
+  "tags": [
+   "coarse-grained",
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Density-Induced Reentrant Coarsening in a Two-Temperature System",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07194": {
+  "abstract": "In this Letter, we show how a suspension of light solid spheres settling through a polymer solution results in a chaotic and highly-intermittent state. By leveraging particle-resolved direct numerical simulations, we investigate the effect of increasing polymer relaxation time and Deborah number $De$ on viscoelastic sedimentation at a low density ratio $ρ_s/ρ_f=5$ and a low Galilei number $Ga=3.16$. Even at moderate $De$, the spheres form gravity-aligned clusters and settle faster, while the polymer stresses energize the large scales of motion. The onset of elastic turbulence and intermittency is signaled by a $-4$ spectral scaling in the high-wavenumber range and by nonlinear high-order exponents of the velocity structure functions. These results indicate that viscoelastic effects induce pseudoturbulence in the presence of viscous-dominated sedimentation.",
+  "authors": [
+   "Ludovico Fossà",
+   "Michele Macaluso",
+   "Luca Brandt",
+   "Marco Edoardo Rosti"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "6 pages, 5 figures (manuscript) + 6 pages, 3 figures, 2 tables (supplemental material). Under consideration for publication in Physical Review Letters",
+  "first_author": "Ludovico Fossà",
+  "pdf_url": "http://arxiv.org/pdf/2607.07194",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Elastic pseudoturbulence induced by low-Galilei settling spheres",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07411": {
+  "abstract": "Hyperuniform systems, defined by the anomalous suppression of large-scale density fluctuations, are a paradigm of non-equilibrium self-assembly. While mechanisms underlying the self-assembly of hyperuniform states have been widely studied, the energetics of this process remain unexplored. This raises a fundamental question: what is the energetic cost of self-assembling a hyperuniform system? Here, we address this question across several noisy particle systems drawn from soft matter and machine learning, in which hyperuniformity can be induced by tuning noise correlations. Despite their distinct microscopic dynamics, we uncover a universal behavior across all systems: hyperuniform states are maximally irreversible, as quantified by the entropy production rate. Further, we develop a path integral formulation of the entropy production rate directly from the microscopic dynamics, which explains our observations. Our work establishes a direct link between emergent long-range structure and time irreversibility and opens a new avenue of probing the energetic cost of hyperuniform self-assembly, ubiquitous across physics, biology, and materials science.",
+  "authors": [
+   "Mathias Casiulis",
+   "Satyam Anand",
+   "Stefano Martiniani"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "67 pages, 8 figures",
+  "first_author": "Mathias Casiulis",
+  "pdf_url": "http://arxiv.org/pdf/2607.07411",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-08",
+  "tags": [
+   "soft-matter"
+  ],
+  "title": "Hyperuniform systems are maximally irreversible",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07453": {
+  "abstract": "We present Hamiltonian Replica Exchange Transition Interface Sampling (HRETIS), a path sampling framework designed to efficiently sample rare events in systems with complex potential energy landscapes. HRETIS introduces a helper potential within a Hamiltonian replica exchange scheme, which enhances exploration of path space when the underlying potential is not well suited for conventional path sampling approaches. This is particularly advantageous for systems exhibiting multiple pathways separated by orthogonal barriers such as in drug (un)binding, where standard algorithms often show slow convergence since they become trapped within specific pathways. By exchanging Hamiltonians between the path ensembles, HRETIS overcomes these limitations and increases the decorrelation between subsequent paths in the Monte Carlo chain. We demonstrate that HRETIS provides robust and accurate kinetics in several systems, including coarse-grained simulations of amino acid permeation through a dipalmitoylphosphatidylcholine (DPPC) membrane. Moreover, HRETIS is found to improve sampling efficiency and convergence, illustrating its potential as a powerful tool for rare event sampling in complex molecular systems.",
+  "authors": [
+   "Sina Safaei",
+   "Parham Rezaee",
+   "An Ghysels"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "physics.chem-ph",
+   "q-bio.QM"
+  ],
+  "comment": null,
+  "first_author": "Sina Safaei",
+  "pdf_url": "http://arxiv.org/pdf/2607.07453",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-07-08",
+  "tags": [
+   "coarse-grained",
+   "monte-carlo"
+  ],
+  "title": "Collaborate to decorrelate in path space: Hamiltonian replica exchange transition interface sampling (HRETIS)",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07561": {
+  "abstract": "DNA loop formation is a key mechanism in gene regulation, and looping kinetics are sensitive to mechanical tension acting on the DNA. In both single-molecule experiments and biological settings, this tension is typically transmitted through DNA segments flanking the looping region, rather than acting directly at the looping sites. How this indirect force transmission affects the looping time has not been systematically investigated. Using molecular dynamics simulations of a wormlike chain, we show that such flanking segments significantly steepen the force dependence of the looping time, an effect that is insensitive to their length once it exceeds the persistence length, and vanishes when the junction to the looping region is made flexible. We develop an analytical framework that accounts for this effect through a force-dependent shift in the effective free energy landscape of the looping segment. In the limit of small forces, this shift reduces to a zero-force equilibrium average, after which the entire force dependence of the looping time follows analytically. Applying this framework using a coarse-grained DNA model that treats individual bases as rigid bodies, we obtain predictions in quantitative agreement with experimental looping data. Our results demonstrate that the geometry of force transmission has a significant and predictable effect on looping kinetics, with direct implications for the interpretation of tension-dependent looping in both single-molecule experiments and gene regulatory contexts.",
+  "authors": [
+   "Wout Laeremans",
+   "Jef Hooyberghs",
+   "Wouter G. Ellenbroek"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "12 pages, 11 figures",
+  "first_author": "Wout Laeremans",
+  "pdf_url": "http://arxiv.org/pdf/2607.07561",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-07-08",
+  "tags": [
+   "coarse-grained",
+   "molecular-dynamics"
+  ],
+  "title": "DNA handles bias force-dependent looping times",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07574": {
+  "abstract": "Robotic surface swabbing requires sustained interaction between a compliant tool and heterogeneous environments, where accurate estimation of tip-level contact force is critical for consistent sampling performance. However, deformable tool dynamics introduce nonlinear viscoelastic hysteresis that decouples wrist-mounted force measurements from true contact forces, while tool-integrated sensors are impractical for deployment due to sterility and disposability constraints. This paper presents a data-driven framework for contact force estimation in Deformable Tool Manipulation (DTM) that leverages proprioceptive sensing without requiring explicit physical models or permanent embedded sensing hardware at the tool tip. A recurrent architecture is first identified through a comparative evaluation of temporal models, where a compact LSTM achieves the lowest estimation error and sub-millisecond inference latency. To address generalization across unseen surfaces and tool compliance conditions, we introduce a parameter-isolated few-shot adaptation strategy that augments a frozen recurrent backbone with low-dimensional context embeddings using feature-wise linear modulation (FiLM). Experiments on a UR5e platform across nine tool-surface interaction regimes demonstrate that the proposed approach significantly improves robustness under domain shift, reducing zero-shot estimation error by up to 63\\% while preserving baseline performance without catastrophic forgetting. These results show that separating shared deformation-history dynamics from domain-specific conditioning enables reliable force estimation for DTM in non-stationary environments.",
+  "authors": [
+   "Siavash Mahmoudi",
+   "Chaitainya Kuppar Reddy",
+   "Yang Tian",
+   "Dongyi Wang"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Siavash Mahmoudi",
+  "pdf_url": "http://arxiv.org/pdf/2607.07574",
+  "primary_category": "cs.RO",
+  "published": "2026-07-08",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Context-Aware Force Estimation for Deformable Tool Manipulation in Robotic Environmental Swabbing via Few-Shot Continual Adaptation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-08"
+ },
+ "2607.07645": {
+  "abstract": "Despite being intrinsically athermal and strongly driven, granular materials can exhibit remarkably glass-like dynamics. Whether their rheology can be described by the same scaling concepts remains an open question. Here, we investigate the linear viscoelastic response of an air-fluidized granular bed using small-amplitude oscillatory shear over a broad range of fluidization states. We show that the frequency-dependent spectra collapse onto a single master curve when shifted by a state-dependent relaxation time, establishing a time-state superposition principle analogous to time-temperature superposition in molecular glasses. The master curve spans more than five decades in relaxation time and is quantitatively described by a Cole-Davidson relaxation spectrum. By comparison with continuous shear measurements, we identify tribocharging as the origin of history-dependent deviations from universal scaling. Our results demonstrate that fluidization primarily rescales a single structural relaxation time while preserving the underlying relaxation spectrum, establishing a direct connection between the rheology of driven granular matter and molecular glass-forming liquids.",
+  "authors": [
+   "Marlo Kunzner",
+   "W. Till Kranz",
+   "Matthias Sperl",
+   "Jan Philipp Gabriel"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Marlo Kunzner",
+  "pdf_url": "http://arxiv.org/pdf/2607.07645",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-08",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Time-state superposition in non-equilibrium fluidized granular matter",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-08"
  }
 }

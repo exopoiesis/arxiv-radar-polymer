@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Wout Laeremans et al.</td>
+<td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Daniel Mason et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>N. Mendez et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09341.html">Hydride formation and phase separation in palladium nanoparticles from a transferable atomic cluster expansion potential</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Minaam Qamar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09341">2606.09341</a></td>
 </tr>
 </tbody></table>
