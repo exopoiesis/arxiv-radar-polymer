@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">152 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -926,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.06612.html">Time Evolution of the Symmetry Resolved Entanglement Entropy after a Mass Quench</a></div></td>
 <td>Federico Rottoli et al.</td>
 <td><a href="http://arxiv.org/abs/2502.06612">2502.06612</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.10517.html">Closure of superstatistics</a></div></td>
-<td>Sergio Davis</td>
-<td><a href="http://arxiv.org/abs/2507.10517">2507.10517</a></td>
 </tr>
 </tbody></table>

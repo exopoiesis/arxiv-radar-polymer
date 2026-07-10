@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 90d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <strong>90d</strong> <a href="thermal-conductivity-360d.html">360d</a> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.12532.html">Anisotropic Thermal Characterization of Suspended and Spin-Coated Polyimide Films Using a Square-Pulsed Source Method</a></div></td>
 <td>Bingjiang Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.12532">2604.12532</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.09873.html">Closing the ultrahigh temperature metrology gap: non-contact thermal conductivity ($\mathrm{k}$) and spectral emittance ($\mathrm{\varepsilon_λ}$) of molybdenum up to 3200 K</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Hunter B. Schonfeld et al.</td>
-<td><a href="http://arxiv.org/abs/2604.09873">2604.09873</a></td>
 </tr>
 </tbody></table>
