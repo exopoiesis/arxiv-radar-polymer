@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1226,11 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>E. Reynolds et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13449">2507.13449</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05362.html">Crushing, Comminution and Fracture: Extreme Particle Deformation in Three-Dimensional Granular Aggregates</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
-<td>Debdeep Bhattacharya et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05362">2506.05362</a></td>
 </tr>
 </tbody></table>

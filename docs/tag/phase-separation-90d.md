@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
+<td>Siyuan Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08176">2607.08176</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Partha Sarathi Mondal et al.</td>
@@ -446,11 +452,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10920.html">Non-Monotonic Marangoni Suppression of Hydrodynamic Coarsening in Bicontinuous Liquid-Liquid Phase Separation</a></div></td>
 <td>Tian Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.10920">2604.10920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10355.html">Miscibility and Transport Properties in Hydrogen-Neon Mixtures</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Armin Bergermann et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10355">2604.10355</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
+<td>Siyuan Jiang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08176">2607.08176</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Partha Sarathi Mondal et al.</td>
@@ -1922,11 +1928,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16464.html">Antiferromagnetism and Tightly Bound Cooper Pairs Induced by Kinetic Frustration</a></div></td>
 <td>Yixin Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.16464">2506.16464</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04169.html">Navigating Chemical Space: Multi-Level Bayesian Optimization with Hierarchical Coarse-Graining</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Luis J. Walter et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04169">2505.04169</a></td>
 </tr>
 </tbody></table>

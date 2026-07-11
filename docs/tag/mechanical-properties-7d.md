@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08213.html">Viscoelasticity Enhances Contactless Adhesion of Soft Substrates</a></div></td>
+<td>Marco Rizzo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08213">2607.08213</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06961.html">Single-laser stimulated Brillouin scattering microscopy</a></div></td>
@@ -62,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04768.html">Physics-Based Simulation of Contact-Induced Facial Wrinkling</a></div></td>
 <td>Juan Sebastian Montes Maestre et al.</td>
 <td><a href="http://arxiv.org/abs/2607.04768">2607.04768</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03017.html">Beyond Heuristics: A Standardized Real2Sim Pipeline for Physical Human Robot Interaction in Human-in-the-Loop Simulation</a></div></td>
-<td>Chengyuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03017">2607.03017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03037.html">Contrary to Newtonian trends: Early flow transition and drag enhancement at low to intermediate Reynolds number flows of structured fluids</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td> Kartik et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03037">2607.03037</a></td>
 </tr>
 </tbody></table>

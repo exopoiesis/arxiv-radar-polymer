@@ -761,5 +761,115 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-07-08"
+ },
+ "2607.08005": {
+  "abstract": "Magneto-thermal switch is a crucial thermal component which enables heat transfer control by the application of an external magnetic field. Recently, a nonvolatile behavior in magneto-thermal conductivity at zero magnetic field was observed in type-II and phase-separated superconductors owing to magnetic flux pinning nature, leading to an energy-efficient thermal control technology. However, the nonvolatile magneto-thermal switching ratio has been much lower than the volatile one in conventional materials. Here, we demonstrate a giant nonvolatile magneto-thermal switching in ferromagnetic Fe-superconducting Pb hybrids. The dispersion of pure Fe particles realizes increased electron and decreased phonon contributions in the thermal conductivity, which enhances the magneto-thermal switching ratio at the superconducting-to-normal conducting phase transition. Furthermore, in concert with trapped magnetic flux by supercurrent, ferromagnetic moment of Fe breaks the superconductivity of Pb matrix at zero magnetic field, enabling a significantly large nonvolatility even with a slight amount of Fe inclusions. Consequently, the nonvolatile magneto-thermal switching ratio reaches 719% in maximum at the Fe ratio of 8.7 vol%, which is more than twice the previous record value observed in Pb-Sn composites and the volatile one in pure Pb. This work broadens the exploration space and strategy for giant nonvolatile magneto-thermal switching materials.",
+  "authors": [
+   "Yui Sakamoto",
+   "Fuyuki Ando",
+   "Keigo Ito",
+   "Hossein Sepehri-Amin",
+   "Takamasa Hirai",
+   "Yuto Watanabe",
+   "Poonam Rani",
+   "Yoshikazu Mizuguchi",
+   "Ken-ichi Uchida"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": null,
+  "first_author": "Yui Sakamoto",
+  "pdf_url": "http://arxiv.org/pdf/2607.08005",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-07-09",
+  "tags": [
+   "composites",
+   "thermal-conductivity"
+  ],
+  "title": "Observation of giant nonvolatile magneto-thermal switching in superconductor-ferromagnet hybrids",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08176": {
+  "abstract": "We investigate strongly correlated electron-phonon (e-ph) systems via a non-Gaussian matrix product state method. By combining non-Gaussian states with matrix product states, our method efficiently characterizes the intractable entanglement between strongly correlated electrons and phononic modes of unbounded Hilbert space, enabling scalable simulations across broad parameter regimes. In one-dimensional generalized Hubbard--Holstein (HH) models, we identify a pronounced tendency toward phase separation (PS), an instability relevant to recent angle-resolved photoemission spectroscopy observations on doped cuprate chain. In two-dimensional HH models, we construct the phase diagram at half-filling featuring a metallic phase emerging from the competition between non-local phonon-mediated attraction and local Hubbard repulsion. Upon doping, we elucidate the role of soft phonons in stabilizing stripe phases. In the antiferromagnet, the stabilization of the fully filled stripe is attributed to a local retardation effect, wherein the charge order is pinned by phonons, leading to a diminished response to spin fluctuations. In the doped charge-density-wave regime, a novel bipolaronic stripe phase with an enlarged unit cell is stabilized via a non-local retardation effect, where long-range phonon-mediated interactions suppress PS. Our work establishes a systematic route to decoding the e-ph interplay that is crucial for superconductivity.",
+  "authors": [
+   "Siyuan Jiang",
+   "Tao Shi"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": null,
+  "first_author": "Siyuan Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2607.08176",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-07-09",
+  "tags": [
+   "phase-separation",
+   "spectroscopy"
+  ],
+  "title": "Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08213": {
+  "abstract": "Understanding adhesion is essential for describing stability, friction, and interfacial dynamics. Here, we investigate the adhesion force dynamics between a rigid sphere and a soft surface without direct contact, mediated by a viscous fluid. By combining controlled experiments, a first-principles visco-elastohydrodynamic theory, and numerical simulations, we demonstrate that viscoelastic relaxation fundamentally modifies elastohydrodynamic adhesion. Rather than simply dissipating energy, viscoelasticity causes the substrate to behave transiently as a stiffer solid, enhancing the maximum adhesive force, changing the early-time force growth for $t^{2/3}$ to $t^{1/3}$, shortening the interaction time, and giving rise to new scaling laws governed by the Deborah number. The two proposed dimensionless parameters, the softness parameter and the Deborah number, define a unified phase diagram connecting three distinct adhesion regimes: classical Reynolds lubrication, elastohydrodynamic adhesion, and the newly identified visco-elastohydrodynamic regime.",
+  "authors": [
+   "Marco Rizzo",
+   "Jacco H. Snoeijer",
+   "Vincent Bertin",
+   "Pascal Damman"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Marco Rizzo",
+  "pdf_url": "http://arxiv.org/pdf/2607.08213",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Viscoelasticity Enhances Contactless Adhesion of Soft Substrates",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08653": {
+  "abstract": "All glasses, including organic semiconductor glasses, are non-equilibrium materials whose properties will change with time. This physical aging process is poorly understood for organic semiconductors, hindering the rational design of highly durable devices. In this study, we investigated the volume and enthalpy recovery processes in both thin films and bulk glasses of N,N'-Bis(3-methylphenyl)-N,N'-diphenylbenzidine (TPD). Our results revealed that volume recovery kinetics exhibit negligible dependence on film thickness for liquid-cooled TPD films between 400 nm and 100 nm. Additionally, the volume recovery process in TPD films was strongly coupled to the enthalpy recovery observed in bulk TPD glasses during annealing near the glass transition temperature. Remarkably, TPD films prepared by physical vapor deposition at room temperature demonstrated exceptional resistance to physical aging, with an aging rate approximately one order of magnitude lower than that of their liquid-cooled counterparts. These results not only enhance our understanding of the non-equilibrium dynamics in amorphous systems but also offer valuable insights for the design of next-generation organic devices with significantly improved stability and durability.",
+  "authors": [
+   "Shinian Cheng",
+   "Kritika Jha",
+   "Zijian Wang",
+   "Juliana B. Lugo",
+   "Hayley Kositzke",
+   "John H. Perepezko",
+   "Zahra Fakhraai",
+   "Mark D. Ediger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages, 6 figures, 59 references, Supporting Information (12 figures)",
+  "first_author": "Shinian Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2607.08653",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Physical aging of glasses of an organic semiconductor",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-09"
  }
 }
