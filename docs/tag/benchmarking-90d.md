@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,11 +272,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2603.21011.html">ALL-FEM: Agentic Large Language models Fine-tuned for Finite Element Methods</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Rushikesh Deotale et al.</td>
 <td><a href="http://arxiv.org/abs/2603.21011">2603.21011</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.10798.html">A Control-Referenced Tri-Channel OECT Receiver for Hybrid Molecular Communication Toward Brain Organoid Interfaces</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="monte-carlo-90d.html">monte-carlo</a> · <a href="oect-90d.html">oect</a></div></td>
-<td>Hongbin Ni et al.</td>
-<td><a href="http://arxiv.org/abs/2604.10798">2604.10798</a></td>
 </tr>
 </tbody></table>

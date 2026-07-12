@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">319 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,17 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13964.html">Long-time analysis of a pair of on-lattice and continuous run-and-tumble particles with jamming interactions</a></div></td>
 <td>Arnaud Guillin et al.</td>
 <td><a href="http://arxiv.org/abs/2411.13964">2411.13964</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.14724.html">Edge-Edge Correlations without Edge-States: $η$-clustering State as Ground State of the Extended Attractive SU(3) Hubbard Chain</a></div></td>
-<td>Hironobu Yoshida et al.</td>
-<td><a href="http://arxiv.org/abs/2411.14724">2411.14724</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16464.html">Antiferromagnetism and Tightly Bound Cooper Pairs Induced by Kinetic Frustration</a></div></td>
-<td>Yixin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16464">2506.16464</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>soft-matter — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <strong>30d</strong> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21719.html">A Topology-Preserving Python Framework for Reliable Initialization of Star and Cyclic Polymer Architectures in Molecular Dynamics (LAMMPS) Simulations</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Oluwatumininu Emmanuel Ayo-Ojo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21719">2606.21719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13484.html">Tracking microscopic irreversibility during yielding of a colloidal fractal gel with Rheo-Echo-XPCS</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>William Chèvremont et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13484">2606.13484</a></td>
 </tr>
 </tbody></table>

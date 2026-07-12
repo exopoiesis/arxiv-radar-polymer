@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">463 papers</span>
+  <span class="paper-count">459 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2768,29 +2768,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11133.html">Force-Based Viscosity and Elasticity Measurements for Material Biomechanical Characterisation with a Collaborative Robotic Arm</a></div></td>
 <td>Luca Beber et al.</td>
 <td><a href="http://arxiv.org/abs/2507.11133">2507.11133</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02266.html">A semi-analytical solution for the lubrication force between two spheres approaching in viscoelastic fluids described by the Oldroyd-B model under small Deborah numbers</a></div></td>
-<td>Alan Rosales-Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02266">2507.02266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11822.html">Analysis of a fast fully discrete finite element method for fractional viscoelastic wave propagation</a></div></td>
-<td>Hao Yuan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11822">2507.11822</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12683.html">A Physics-Informed Data-Driven Discovery for Constitutive Modeling of Compressible, Nonlinear, History-Dependent Soft Materials under Multiaxial Cyclic Loading</a></div></td>
-<td>Alireza Ostadrahimi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12683">2507.12683</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12694.html">Stress Softening Damage in Strongly Nonlinear Viscoelastic Soft Materials A Physics Informed Data Driven Constitutive Model with Time Temperature Coupling</a></div></td>
-<td>Alireza Ostadrahimi et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12694">2507.12694</a></td>
 </tr>
 </tbody></table>
