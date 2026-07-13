@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09321.html">Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys</a></div></td>
+<td>O. I. Kushnerov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09321">2607.09321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="polymerization-30d.html">polymerization</a></div></td>
+<td>Senthilkumar Duraivel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09387">2607.09387</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
@@ -104,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18911.html">Nonequilibrium nucleation theory for nonconserved fields: from active matter to population dynamics</a></div></td>
 <td>Michalis Chatzittofi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.18911">2606.18911</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14328.html">Mathematical Modeling of Salt Precipitation and Multi-Phase Flow in High Enthalpy Fractured Geothermal Systems</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Micheal B. Oguntola et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14328">2606.14328</a></td>
 </tr>
 </tbody></table>

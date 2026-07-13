@@ -16,15 +16,15 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Mamta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="block-copolymer-30d.html">block-copolymer</a> · <a href="coarse-grained-30d.html">coarse-grained</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>James F. Tallman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14186.html">Stochastic Thermodynamics on Time-Evolving Curved Spaces</a></div></td>
-<td>Rihito Nagase et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14186">2606.14186</a></td>
 </tr>
 </tbody></table>

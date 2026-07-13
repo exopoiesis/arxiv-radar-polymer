@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">459 papers</span>
+  <span class="paper-count">458 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2762,11 +2762,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13806.html">Less is more: removing a single bond increases the toughness of elastic networks</a></div></td>
 <td>Antoine Sanner et al.</td>
 <td><a href="http://arxiv.org/abs/2507.13806">2507.13806</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.11133.html">Force-Based Viscosity and Elasticity Measurements for Material Biomechanical Characterisation with a Collaborative Robotic Arm</a></div></td>
-<td>Luca Beber et al.</td>
-<td><a href="http://arxiv.org/abs/2507.11133">2507.11133</a></td>
 </tr>
 </tbody></table>

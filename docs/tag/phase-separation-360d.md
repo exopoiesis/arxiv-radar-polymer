@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">318 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09321.html">Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys</a></div></td>
+<td>O. I. Kushnerov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09321">2607.09321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
+<td>Senthilkumar Duraivel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09387">2607.09387</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
@@ -1910,11 +1922,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19114.html">Fingerprints of a charge ice state in the doped Mott insulator Nb$_3$Cl$_8$</a></div></td>
 <td>Evgeny A. Stepanov</td>
 <td><a href="http://arxiv.org/abs/2405.19114">2405.19114</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.13964.html">Long-time analysis of a pair of on-lattice and continuous run-and-tumble particles with jamming interactions</a></div></td>
-<td>Arnaud Guillin et al.</td>
-<td><a href="http://arxiv.org/abs/2411.13964">2411.13964</a></td>
 </tr>
 </tbody></table>

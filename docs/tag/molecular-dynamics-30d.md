@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-30d.html">crystallinity</a> · <a href="nanocomposites-30d.html">nanocomposites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Zuzanna Malinowska-Trzmielak et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Wout Laeremans et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="block-copolymer-30d.html">block-copolymer</a> · <a href="coarse-grained-30d.html">coarse-grained</a> · <a href="membranes-30d.html">membranes</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>James F. Tallman et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16156">2606.16156</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>N. Mendez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
 </tr>
 </tbody></table>

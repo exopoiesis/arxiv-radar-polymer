@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09411.html">Finite-time cooling and accessibility of the stripe phase in the Ising antiferromagnet</a></div></td>
+<td>Tom Poisblaud</td>
+<td><a href="http://arxiv.org/abs/2607.09411">2607.09411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-30d.html">crystallinity</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
+<td>Zuzanna Malinowska-Trzmielak et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Partha Sarathi Mondal et al.</td>
@@ -98,17 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.17235.html">Physics-Informed Attention Mechanism and Generalization Capability of Deep Learning-Based Grain Growth Evolution Prediction</a></div></td>
 <td>Pungponhavoan Tep et al.</td>
 <td><a href="http://arxiv.org/abs/2606.17235">2606.17235</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14251.html">HiST: A Hierarchical Sparse Transformer for Cross-Modal Spatial Transcriptomics Modeling</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="multiscale-modeling-30d.html">multiscale-modeling</a></div></td>
-<td>Weiyi Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14251">2606.14251</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14964.html">Dependence of the extra-cellular diffusion coefficient on the fractions of neurites and cell bodies in gray matter</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Hong-Hsi Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14964">2606.14964</a></td>
 </tr>
 </tbody></table>

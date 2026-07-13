@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymerization — all</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <a href="polymerization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Senthilkumar Duraivel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09387">2607.09387</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>

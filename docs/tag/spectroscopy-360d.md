@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.08176">2607.08176</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08889.html">Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
+<td>Shinian Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08889">2607.08889</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02248.html">From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Siyang Wang et al.</td>
@@ -410,11 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04662.html">Tailored Thermal and Mechanical Performance of Biodegradable PLA-P(VDF-TrFE) Polymer Blends</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>G Suresh et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04662">2508.04662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>E. Reynolds et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13449">2507.13449</a></td>
 </tr>
 </tbody></table>

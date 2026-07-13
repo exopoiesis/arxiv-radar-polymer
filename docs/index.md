@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-12._
+_Updated 2026-07-13._
 
-**3535** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3542** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09321.html">Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>O. I. Kushnerov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09321">2607.09321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymerization-30d.html">polymerization</a></div></td>
+<td>Senthilkumar Duraivel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09387">2607.09387</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09411.html">Finite-time cooling and accessibility of the stripe phase in the Ising antiferromagnet</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Tom Poisblaud</td>
+<td><a href="http://arxiv.org/abs/2607.09411">2607.09411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Mamta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.09613.html">Dynamic Frechet Regression with Feature Selection for Distributional Data</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Kiran Adhikari et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09613">2607.09613</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08005.html">Observation of giant nonvolatile magneto-thermal switching in superconductor-ferromagnet hybrids</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
@@ -37,6 +67,18 @@ _Updated 2026-07-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08653.html">Physical aging of glasses of an organic semiconductor</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
 <td>Shinian Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08653">2607.08653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="tag/crystallinity-30d.html">crystallinity</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Zuzanna Malinowska-Trzmielak et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.08889.html">Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Shinian Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08889">2607.08889</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-08</td>
@@ -151,47 +193,5 @@ _Updated 2026-07-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.05633.html">Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
 <td>Daniel M. Anderson et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05633">2607.05633</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.03017.html">Beyond Heuristics: A Standardized Real2Sim Pipeline for Physical Human Robot Interaction in Human-in-the-Loop Simulation</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Chengyuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03017">2607.03017</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.03037.html">Contrary to Newtonian trends: Early flow transition and drag enhancement at low to intermediate Reynolds number flows of structured fluids</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td> Kartik et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03037">2607.03037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.03557.html">CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Mingrui Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03557">2607.03557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02238.html">Interfacial Strain and Structural Defects Govern the Performance of Tantalum Superconducting Waveguide Resonators</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/qspr-30d.html">qspr</a> · <a href="tag/tem-30d.html">tem</a></div></td>
-<td>Moritz Singer et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02238">2607.02238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02248.html">From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Siyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02248">2607.02248</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.02448.html">AgentsCAD: Automated Design for Manufacturing of FDM Parts via Multi-Agent LLM Reasoning and Geometric Feature Recognition</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Emmanuel George et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02448">2607.02448</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.00526.html">Effect of granules anisotropy on &quot;double quantum&quot; magnetic resonance excitation in nanogranular composites</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>A. B. Drovosekov et al.</td>
-<td><a href="http://arxiv.org/abs/2607.00526">2607.00526</a></td>
 </tr>
 </tbody></table>

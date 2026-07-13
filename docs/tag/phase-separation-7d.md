@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>phase-separation — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09321.html">Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys</a></div></td>
+<td>O. I. Kushnerov et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09321">2607.09321</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="polymerization-7d.html">polymerization</a></div></td>
+<td>Senthilkumar Duraivel et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09387">2607.09387</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a></div></td>

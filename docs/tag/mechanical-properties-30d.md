@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -206,17 +206,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15403.html">Cobalt-Catalysed Chain Transfer Polymerisation Enables Soft Methacrylate Nematic Elastomers for Switchable Pressure-Sensitive Adhesion</a></div><div class="paper-tags"><a href="polymerization-30d.html">polymerization</a> · <a href="rheology-30d.html">rheology</a></div></td>
 <td>Noboru Koshimizu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.15403">2606.15403</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>N. Mendez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14983.html">Thermally Regulated Viscoelastic Tidal Migration of Eccentric Planets</a></div></td>
-<td>Cristobal Petrovich et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14983">2606.14983</a></td>
 </tr>
 </tbody></table>

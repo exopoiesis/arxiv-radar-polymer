@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09411.html">Finite-time cooling and accessibility of the stripe phase in the Ising antiferromagnet</a></div></td>
+<td>Tom Poisblaud</td>
+<td><a href="http://arxiv.org/abs/2607.09411">2607.09411</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
+<td>Zuzanna Malinowska-Trzmielak et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
@@ -1220,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16626.html">Chemical Control for the Morphogenesis of Conducting Polymer Dendrites in Water</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
 <td>Antoine Baron et al.</td>
 <td><a href="http://arxiv.org/abs/2507.16626">2507.16626</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13449.html">reLAISS: A Python Package for Flexible Similarity Searches of Supernovae and Their Host Galaxies</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>E. Reynolds et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13449">2507.13449</a></td>
 </tr>
 </tbody></table>

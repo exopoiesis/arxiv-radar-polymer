@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>glass-transition — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <strong>30d</strong> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08653.html">Physical aging of glasses of an organic semiconductor</a></div></td>
 <td>Shinian Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08653">2607.08653</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08889.html">Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Shinian Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2607.08889">2607.08889</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-02</td>
@@ -44,17 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16719.html">Connectivity and Rigidity in Borosilicate Glasses</a></div></td>
 <td>Richard Kerner</td>
 <td><a href="http://arxiv.org/abs/2606.16719">2606.16719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14213.html">Vapor-to-glass preparation of biaxially aligned organic semiconductors</a></div></td>
-<td>Jianzhu Ju et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14213">2606.14213</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14888.html">Atomistic insights into the structural, thermal, and mechanical evolution of $Zr_{47.5}Cu_{47.5}Ag_{5}$ bulk metallic glass</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>N. Mendez et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14888">2606.14888</a></td>
 </tr>
 </tbody></table>

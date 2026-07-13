@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="membranes-30d.html">membranes</a></div></td>
+<td>Mamta Yadav et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09554">2607.09554</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07453.html">Collaborate to decorrelate in path space: Hamiltonian replica exchange transition interface sampling (HRETIS)</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Sina Safaei et al.</td>
@@ -56,11 +62,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16443.html">Persistence Properties of a Phase-ordering System with Competing Dynamics</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
 <td>Shubham Thwal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16443">2606.16443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14964.html">Dependence of the extra-cellular diffusion coefficient on the fractions of neurites and cell bodies in gray matter</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Hong-Hsi Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2606.14964">2606.14964</a></td>
 </tr>
 </tbody></table>

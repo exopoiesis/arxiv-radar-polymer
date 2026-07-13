@@ -871,5 +871,188 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-07-09"
+ },
+ "2607.08868": {
+  "abstract": "The graphite-to-diamond transition exhibits striking variability under high-pressure, high-temperature (HPHT) conditions, producing diamond, graphitic phases, or metastable, mixed diamond-graphite nanocomposites despite similar synthesis conditions. Existing atomistic models, largely based on idealised single-crystal graphite, do not explain the persistence of partially transformed intermediate states under HPHT conditions. Here, using large-scale molecular dynamics simulations, we show that precursor grain structure governs graphite-to-diamond transformation pathways by decoupling diamond nucleation from cooperative transformation propagation. Grain boundaries first facilitate local sp$^3$ nucleation, after which diamond growth propagates within individual grains but becomes arrested at crystallographically mismatched grain boundaries. As a result, structurally heterogeneous graphite stabilizes kinetically arrested mixed sp$^2$-sp$^3$ states, whereas large or single-crystalline domains favour cooperative bulk transformation into diamond. Our findings identify structural heterogeneity as a missing control parameter alongside pressure and temperature, reframing metastable transformation products as kinetically trapped states arising from precursor microstructure rather than thermodynamic intermediates. Precursor crystallinity therefore emerges as a practical control parameter governing graphite-to-diamond transformation pathways.",
+  "authors": [
+   "Zuzanna Malinowska-Trzmielak",
+   "Vilmos Neuman",
+   "Mark Wilson"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Zuzanna Malinowska-Trzmielak",
+  "pdf_url": "http://arxiv.org/pdf/2607.08868",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-09",
+  "tags": [
+   "crystallinity",
+   "molecular-dynamics",
+   "nanocomposites",
+   "polymer-morphology"
+  ],
+  "title": "Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.08889": {
+  "abstract": "Vapor-deposited glass mixtures of organic semiconductors commonly serve as active layers in organic electronic devices, whose lifetime and performance are strongly influenced by the stability and structure of these mixed glasses. Here, we study the stability and anisotropic molecular packing of six co-deposited organic semiconductor glass mixtures with 50:50 weight ratio, by differential scanning calorimetry and spectroscopic ellipsometry. We find that all six binary systems exhibit high kinetic stability and significantly reduced enthalpy relative to the corresponding liquid-cooled glassy mixtures (ultrastable behavior), even for systems where the glass transition temperatures of the components differ by more than 90 K. Furthermore, we demonstrate that the birefringence of a co-deposited glass mixture, a measure of its anisotropic packing, can be predicted from the birefringence of glasses of the two pure components. These results for stability and structure are expected to be applicable to other co-deposited organic semiconductor glass mixtures, so long as the two components mix well in the glass and individually can form ultrastable glasses. Therefore, our findings are significant for designing novel electronic devices with enhanced device lifetime and increased operational efficiency.",
+  "authors": [
+   "Shinian Cheng",
+   "Yejung Lee",
+   "Junguang Yu",
+   "Lian Yu",
+   "Mark D. Ediger"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "5 figures, 27 pages, 51 references, Supplemental Information (6 figures)",
+  "first_author": "Shinian Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2607.08889",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-09",
+  "tags": [
+   "glass-transition",
+   "spectroscopy"
+  ],
+  "title": "Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-09"
+ },
+ "2607.09321": {
+  "abstract": "A semi-empirical kinetic framework is formulated for predicting phase selection in multicomponent concentrated alloys under rapid solidification. The approach is based on the critical cooling rate required to suppress competing crystalline pathways and combines topology-dependent ranking of BCC-, FCC-, and HCP-like crystallization pathways with a correction for glass-forming ability. The formulation includes a topology-dependent viscosity correction with a smoothed BCC multiplier and a continuous correction factor for glass-forming ability based on mixing enthalpy, excess entropy, and atomic-size dispersion. Comparison with experimental and computational data shows that the kinetic criterion captures changes in the lattice type expected from the valence electron concentration criterion, describes kinetic suppression of phase separation, and identifies competitive multiphase crystallization. The model also distinguishes alloys with high and low glass-forming ability. The proposed framework provides a practical approach for preliminary evaluation of kinetic phase competition in rapidly solidified multicomponent melts.",
+  "authors": [
+   "O. I. Kushnerov",
+   "S. I. Ryabtsev",
+   "V. F. Bashev"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "11 pages, preprint version",
+  "first_author": "O. I. Kushnerov",
+  "pdf_url": "http://arxiv.org/pdf/2607.09321",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-10",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09387": {
+  "abstract": "Polymerization-induced phase separation (PIPS) provides a powerful route to generate structured polymeric materials by coupling chemical conversion with thermodynamic demixing. PIPS in liquid-state systems underlies dispersion polymerization, serving as a cornerstone technique for microparticle production, yet is constrained by solvent compatibility and limited range of morphologies. Here, we establish an elastically mediated PIPS regime that bridges these two limits by conducting controlled polymerization within a deformable elastomeric network. This approach, termed Dispersion Polymerization in an Elastomeric Solvent (DiPolES), serves as a solid-state analogue of dispersion polymerization in which an elastomeric network simultaneously serves as solvent and physical stabilizer. Using photoiniferter-mediated polymerization of methyl methacrylate (MMA) within poly(dimethyl siloxane) (PDMS) elastomeric solvent, DiPolES enables robust fabrication of elastomeric composites containing uniform PMMA microparticles with tunable size (0.85 to 3 μm) and shape (spheroidal and ellipsoidal). The strategy is generalizable beyond the PDMS/MMA system and is applicable to diverse monomers, such as acrylonitrile and 2-vinyl pyridine, which can be extracted from the elastomeric solvent, enabling high-yield production of microparticles. Real-time imaging and compositional analysis reveal that particle formation proceeds through rapid nucleation at low monomer conversion, followed by growth accompanied by cavitation of the surrounding network. Monomer loading governs the particle size, while solvent elasticity modulates the transition from isolated uniform spheroids to heterogeneous clusters. Interestingly, applying uniaxial strain during DiPolES enables production of ellipsoidal particles without any post-processing.",
+  "authors": [
+   "Senthilkumar Duraivel",
+   "Reagan J Dreiling",
+   "Tyler E Ball",
+   "Harsha Koganti",
+   "Jay Fu",
+   "Ethan E. O'Banion",
+   "Brett P. Fors",
+   "Eric R. Dufresne"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "26 pages, 5 figures",
+  "first_author": "Senthilkumar Duraivel",
+  "pdf_url": "http://arxiv.org/pdf/2607.09387",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-10",
+  "tags": [
+   "composites",
+   "phase-separation",
+   "polymerization"
+  ],
+  "title": "Dispersion Polymerization in an Elastomeric Solvent",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09411": {
+  "abstract": "The finite-rate cooling dynamics of the triangular-lattice $J_1-J_2$ Ising antiferromagnet is studied under local Metropolis updates. Although an antiferromagnetic next-nearest-neighbor coupling selects a stripe phase in equilibrium, the simulations show that this phase is not automatically reached on finite time scales. A kinetic stripe-formation time $n^*(L,J_2/J_1)$ is defined from the probability of obtaining a globally stripe-ordered final state. This time shifts to much slower cooling as the system size increases and to faster cooling as $J_2/J_1$ increases. The size dependence is compatible with a coarsening-controlled process, with an effective growth at least quadratic in L over the simulated range. Real-space morphology and fixed-temperature diagnostics show that failed trajectories are not simply disordered states: they often contain locally stripe-ordered domains separated by residual walls or competing orientations. In the weak-$J_2/J_1$ regime, the system can restore the local nearest-neighbor frustrated constraint while still failing to select a global stripe sector. These results separate three processes that are usually conflated: energetic degeneracy lifting by $J_2/J_1$, local constraint restoration, and global stripe-orientation selection under local dynamics.",
+  "authors": [
+   "Tom Poisblaud"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "22 pages, 9 figures, 2 appendices. Uses RevTex 4-2. The code will be added on github",
+  "first_author": "Tom Poisblaud",
+  "pdf_url": "http://arxiv.org/pdf/2607.09411",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-10",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Finite-time cooling and accessibility of the stripe phase in the Ising antiferromagnet",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09554": {
+  "abstract": "Salinity gradient energy offers a sustainable route to convert ionic chemical potential differences into usable power. Capacitive mixing enables this conversion without membranes, but suffers from limited ion regulation at electrode interfaces. Here we show that by grafting electrode surfaces with titrating polymers, the performance can be substantially improved. Using Grand Canonical Monte Carlo simulations with exact image-charge Ewald summations, we demonstrate how the coupled effects of ion adsorption and charge regulation in response to an external potential can be harnessed. Grafted electrodes are shown to deliver substantially more energy relative to bare surfaces, driven by charge regulation effects that exploit the pH difference that typically exists between rivers and the ocean. While the effect is in principle maximized at high grafting densities and moderate chain lengths, the performance is fairly robust to variations of these parameters, within reasonable bounds. Complementary classical polymer Density Functional Theory calculations confirm these trends, validating the mechanistic framework. This work also establishes a practical approach to harvest electrical energy during wastewater neutralization, where acidic (or alkaline) effluents serve as complementary reservoirs, and offers a promising strategy to couple environmental remediation with renewable energy recovery.",
+  "authors": [
+   "Mamta Yadav",
+   "Clifford E. Woodward",
+   "Jan Forsman"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "10 Figures",
+  "first_author": "Mamta Yadav",
+  "pdf_url": "http://arxiv.org/pdf/2607.09554",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-10",
+  "tags": [
+   "membranes",
+   "monte-carlo"
+  ],
+  "title": "A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.09613": {
+  "abstract": "Many scientific and engineering applications generate responses that are not scalars or vectors, but statistical objects whose form evolves over an ordered index such as time, depth. Probability distributions are a prominent example, capturing variability and uncertainty that cannot be summarized by low-dimensional statistics. When such responses are observed sequentially, the resulting dynamic distributional trajectories pose significant challenges for regression, particularly in relating scalar predictors to both within-index variability and cross-index evolution. We propose Dynamic Fréchet Regression (DFR), a framework for modeling index-dependent trajectories of distribution-valued responses. DFR extends Global Fréchet Regression by introducing an index-aware weighting mechanism. At each index, predictions are defined as weighted Fréchet means in a metric space of distributions (e.g., Wasserstein space), preserving the intrinsic geometry of the response. The weights depend jointly on predictor similarity and index proximity, enabling index-specific prediction while borrowing strength across neighboring indices. To improve interpretability in high-dimensional settings, DFR incorporates a geometry-aware feature selection approach based on sparse metric learning, which identifies predictors driving distributional dynamics without relying on Euclidean coefficients. Simulation studies show improved predictive accuracy and feature recovery over existing methods. An application to additive manufacturing data demonstrates its ability to produce interpretable, index-specific distributional predictions.",
+  "authors": [
+   "Kiran Adhikari",
+   "Amrutha Dinesh",
+   "Mathew Kuttolamadom",
+   "Ying Lin"
+  ],
+  "categories": [
+   "stat.ME",
+   "stat.ML"
+  ],
+  "comment": null,
+  "first_author": "Kiran Adhikari",
+  "pdf_url": "http://arxiv.org/pdf/2607.09613",
+  "primary_category": "stat.ME",
+  "published": "2026-07-10",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Dynamic Frechet Regression with Feature Selection for Distributional Data",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-10"
  }
 }
