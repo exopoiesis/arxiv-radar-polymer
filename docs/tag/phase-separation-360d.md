@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.15030.html">Interfacial Stability in Tensionless Phase-Separated Quorum-Sensing Systems</a></div></td>
 <td>Zihao Sun et al.</td>
 <td><a href="http://arxiv.org/abs/2507.15030">2507.15030</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19114.html">Fingerprints of a charge ice state in the doped Mott insulator Nb$_3$Cl$_8$</a></div></td>
-<td>Evgeny A. Stepanov</td>
-<td><a href="http://arxiv.org/abs/2405.19114">2405.19114</a></td>
 </tr>
 </tbody></table>
