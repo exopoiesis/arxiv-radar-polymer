@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Xingyu Dang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27467.html">Multi-Objective Molecular Generation with Frequency-Controlled Evolutionary Dynamics</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="selfies-90d.html">selfies</a></div></td>
 <td>Elia Colleoni et al.</td>
@@ -74,11 +80,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16671.html">Deep learning directed synthesis of fluid ferroelectric materials</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Charles Parton-Barr et al.</td>
 <td><a href="http://arxiv.org/abs/2512.16671">2512.16671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14241.html">Polyformer: a generative framework for thermodynamic modeling of polymeric molecules</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Alessio Valentini et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14241">2604.14241</a></td>
 </tr>
 </tbody></table>

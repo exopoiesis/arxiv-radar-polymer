@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12045.html">Bulk and microphase separation in chiral active systems</a></div></td>
+<td>Sumeja Bureković et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12045">2607.12045</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09321.html">Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys</a></div></td>
 <td>O. I. Kushnerov et al.</td>
@@ -440,11 +446,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17108.html">Defect-Mediated Aggregation and Motility-Induced Phase Separation in Self-Propelled Lattice-Gas Active XY Model</a></div></td>
 <td>Shun Inoue et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17108">2507.17108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.13843.html">On phase separation and crystallization of Ge-rich GeSbTe alloys from atomistic simulations with a machine learning interatomic potential</a></div></td>
-<td>Omar Abou El Kheir et al.</td>
-<td><a href="http://arxiv.org/abs/2604.13843">2604.13843</a></td>
 </tr>
 </tbody></table>

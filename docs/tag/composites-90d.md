@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10337.html">Interwoven long-range order induced by random fields</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Jeremiah Bender et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10337">2607.10337</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
@@ -236,23 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17631.html">Conjugate Beamforming Variants for Multicasting in Cell-Free Massive MIMO Systems</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Alejandro de la Fuente et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17631">2604.17631</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15766.html">Subdimensional Entanglement Entropy: From Geometric-Topological Response to Mixed-State Holography</a></div></td>
-<td>Meng-Yuan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15766">2510.15766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14289.html">Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Zhou-Quan Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14289">2604.14289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14432.html">Additively manufactured Shape Memory Alloy Hybrid Composites with a polymer matrix featuring a re-entrant honeycomb structure</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Manuel Kunzler et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14432">2604.14432</a></td>
 </tr>
 </tbody></table>

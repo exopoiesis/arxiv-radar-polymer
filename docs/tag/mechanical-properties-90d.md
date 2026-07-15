@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,54 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12405.html">Tunable Signal Penetration and Response Plateaus in Bistable Mechanical Media</a></div><div class="paper-tags"><a href="soft-matter-90d.html">soft-matter</a></div></td>
+<td>Sven Pattloch et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12405">2607.12405</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12582.html">A 2.5D NURBS-Trace Infinite-Element Method for Moving-Load Wave Propagation and Soil--Structure Interaction in Semi-Infinite Ground</a></div></td>
+<td>Yanhui Zhong et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12582">2607.12582</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12766.html">Entropy-Driven Initiation and Cellular Uptake Mediated by Viscoelastic Cytoskeleton: A Kinetic Phase Diagram from Onsager Variational Principle</a></div></td>
+<td>Jinjie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.12766">2607.12766</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10973.html">Understanding the Theory--Experiment Discrepancy in Pressure Drop of Dilute Polymer Solutions in Channel Flows</a></div></td>
+<td>Nan Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10973">2607.10973</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11110.html">Neural Discovery of Memory and Nonlocal Kernels in Integro-Differential Equations with Constrained Kolmogorov--Arnold Networks</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Aruzhan Tleubek et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11110">2607.11110</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11209.html">Uncertainty-Aware Structure-Property Mapping of Spinodoid Metamaterials via Heteroscedastic Gaussian Process Regression</a></div><div class="paper-tags"><a href="inverse-design-90d.html">inverse-design</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Minwoo Park et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11209">2607.11209</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11799.html">Universal scalings and switching entropy in yield-stress fluids</a></div></td>
+<td>Rajam Elancheliyan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.11799">2607.11799</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11802.html">Why gas-focused microjets are so fast: kinetically resolved, shear-driven flow focusing in vacuum</a></div></td>
+<td>Alfonso M. Ganan-Calvo</td>
+<td><a href="http://arxiv.org/abs/2607.11802">2607.11802</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08213.html">Viscoelasticity Enhances Contactless Adhesion of Soft Substrates</a></div></td>
@@ -668,17 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.08506.html">Mellin-Space Prony Representability of Linear Viscoelastic Models</a></div></td>
 <td>Dimiter Prodanov</td>
 <td><a href="http://arxiv.org/abs/2602.08506">2602.08506</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.03516.html">Airborne Minnaert-Like Resonance of an Air-Filled Elasto-Bubble</a></div></td>
-<td>Fanambinana Delmotte et al.</td>
-<td><a href="http://arxiv.org/abs/2604.03516">2604.03516</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14432.html">Additively manufactured Shape Memory Alloy Hybrid Composites with a polymer matrix featuring a re-entrant honeycomb structure</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="composites-90d.html">composites</a></div></td>
-<td>Manuel Kunzler et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14432">2604.14432</a></td>
 </tr>
 </tbody></table>

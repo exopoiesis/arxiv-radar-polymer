@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10337.html">Interwoven long-range order induced by random fields</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a></div></td>
+<td>Jeremiah Bender et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10337">2607.10337</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="membranes-7d.html">membranes</a></div></td>
 <td>Mamta Yadav et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07453.html">Collaborate to decorrelate in path space: Hamiltonian replica exchange transition interface sampling (HRETIS)</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a></div></td>
 <td>Sina Safaei et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07453">2607.07453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.06122.html">Multiscale modelling of diffusion and retention of hydrogen in multi-occupancy traps in irradiated bcc metals</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Daniel Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2607.06122">2607.06122</a></td>
 </tr>
 </tbody></table>

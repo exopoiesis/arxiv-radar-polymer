@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10337.html">Interwoven long-range order induced by random fields</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Jeremiah Bender et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10337">2607.10337</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09554.html">A Boosted Energy Extraction from the CapMix Process by Grafting with Titratable Polymers</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a></div></td>
@@ -164,17 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15433.html">The Phase Transitions in a $p$ spin Glass Model: A Numerical Study</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
 <td>Prerak Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2604.15433">2604.15433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.24303.html">Mixing, segregation, and collapse transitions of interacting copolymer rings</a></div></td>
-<td>EJ Janse van Rensburg et al.</td>
-<td><a href="http://arxiv.org/abs/2512.24303">2512.24303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14289.html">Quantum Charge-4e Superconductivity and Deconfined Pseudocriticality in the Attractive SU(4) Hubbard Model</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>Zhou-Quan Wan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.14289">2604.14289</a></td>
 </tr>
 </tbody></table>

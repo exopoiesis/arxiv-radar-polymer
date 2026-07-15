@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">67 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09914.html">Improved Heat Dissipation in CsPbBr${_3}$-hBN Heterostructures</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
+<td>Liudmila Starodubtceva et al.</td>
+<td><a href="http://arxiv.org/abs/2607.09914">2607.09914</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10009.html">Quantitative Analysis of Exciton Composition and Dynamics in Y6 Films for Single-Component Solar Cells</a></div><div class="paper-tags"><a href="organic-photovoltaics-360d.html">organic-photovoltaics</a></div></td>
+<td>Saba Mahmoodpour et al.</td>
+<td><a href="http://arxiv.org/abs/2607.10009">2607.10009</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
