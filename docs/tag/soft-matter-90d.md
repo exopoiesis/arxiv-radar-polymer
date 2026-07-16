@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>soft-matter — 90d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <strong>90d</strong> <a href="soft-matter-360d.html">360d</a> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16671.html">Deep learning directed synthesis of fluid ferroelectric materials</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="gnn-90d.html">gnn</a></div></td>
 <td>Charles Parton-Barr et al.</td>
 <td><a href="http://arxiv.org/abs/2512.16671">2512.16671</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.14926.html">Spectrally Accurate Simulation of Axisymmetric Vesicle Dynamics</a></div></td>
-<td>M. A. Shishkin</td>
-<td><a href="http://arxiv.org/abs/2604.14926">2604.14926</a></td>
 </tr>
 </tbody></table>

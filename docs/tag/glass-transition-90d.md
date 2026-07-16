@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21512.html">How to quantify long-time rotational motion in molecular systems</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Romain Simon et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21512">2604.21512</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.15433.html">The Phase Transitions in a $p$ spin Glass Model: A Numerical Study</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Prerak Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2604.15433">2604.15433</a></td>
 </tr>
 </tbody></table>

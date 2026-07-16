@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16899.html">Deciphering the chemical grammar of protein-RNA condensates</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Greta Grassmann et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16899">2604.16899</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17108.html">Defect-Mediated Aggregation and Motility-Induced Phase Separation in Self-Propelled Lattice-Gas Active XY Model</a></div></td>
-<td>Shun Inoue et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17108">2507.17108</a></td>
 </tr>
 </tbody></table>
