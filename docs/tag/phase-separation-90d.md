@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">73 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14451.html">Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets</a></div></td>
+<td>Samuel Kovach et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14451">2607.14451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15085.html">Light-activated Janus particles in geometrically confined binary solvent</a></div></td>
+<td>Michał Przerwa et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15085">2607.15085</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12045.html">Bulk and microphase separation in chiral active systems</a></div></td>

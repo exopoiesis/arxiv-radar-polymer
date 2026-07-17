@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14944.html">Harnessing Machine Learning for Hybrid Constitutive Modelling of Viscoelastic Fluid Flows in Computational Rheology</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>J. L. Cummings et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14944">2607.14944</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14287.html">XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Md Mahedi Hasan et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14287">2607.14287</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="generative-model-90d.html">generative-model</a></div></td>

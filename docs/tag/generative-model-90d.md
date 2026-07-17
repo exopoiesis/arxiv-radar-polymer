@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>generative-model — 90d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <strong>90d</strong> <a href="generative-model-360d.html">360d</a> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06303.html">Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces</a></div><div class="paper-tags"><a href="selfies-90d.html">selfies</a></div></td>
 <td>Zakaria Elabid et al.</td>
 <td><a href="http://arxiv.org/abs/2605.06303">2605.06303</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.16671.html">Deep learning directed synthesis of fluid ferroelectric materials</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
-<td>Charles Parton-Barr et al.</td>
-<td><a href="http://arxiv.org/abs/2512.16671">2512.16671</a></td>
 </tr>
 </tbody></table>

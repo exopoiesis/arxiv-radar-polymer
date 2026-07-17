@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14697.html">Imaging and characterization of spontaneous vortices in a proximity-induced superconductor</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Iku Nakaaki et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14697">2607.14697</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Zuzanna Malinowska-Trzmielak et al.</td>
@@ -254,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09693.html">Asymmetric Electronic Band Alignment and Potentially Enhanced Thermoelectric Properties in Phase-Separated Mg2X (X=Si,Ge,Sn) Alloys</a></div></td>
 <td>Byungki Ryu et al.</td>
 <td><a href="http://arxiv.org/abs/2506.09693">2506.09693</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08987.html">Enhancing the hydrophilicity of nylon-6 fabric via hydrolysis amidation dual treatment in alkaline as a pre-treatment for membrane filtration systems</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
-<td>Nhat Minh Tran et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08987">2507.08987</a></td>
 </tr>
 </tbody></table>

@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-7d.html">crystallinity</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Zuzanna Malinowska-Trzmielak et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14697.html">Imaging and characterization of spontaneous vortices in a proximity-induced superconductor</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Iku Nakaaki et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14697">2607.14697</a></td>
 </tr>
 </tbody></table>

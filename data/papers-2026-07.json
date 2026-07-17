@@ -1520,5 +1520,433 @@
    "Synthesis, Kinetics & Automation"
   ],
   "updated": "2026-07-14"
+ },
+ "2607.12949": {
+  "abstract": "We develop a thermodynamically consistent framework for weakly nonlocal continua with tensor-valued internal variables. Let $\\boldsymbol{L}=\\operatorname{grad}\\boldsymbol{v}$, with stretching tensor $\\boldsymbol{D}=\\operatorname{sym}\\boldsymbol{L}$ and spin tensor $\\boldsymbol{W}=\\operatorname{skw}\\boldsymbol{L}$. We introduce the generators $\\boldsymbolΓ_α=\\boldsymbol{W}+α\\boldsymbol{D}$, $α\\in\\{0,1\\}$, which unify corotational and upper-convected transport. The resulting kinematic structure induces canonical frame-indifferent evolutions of both the internal variable and its spatial gradient, thereby providing a closure for gradient-dependent theories.   Starting from the balances of linear momentum and microforces, together with an internal power expenditure depending on the internal variable and its gradient, we derive a local free-energy imbalance for incompressible isothermal processes. Under isotropy and inherited symmetry assumptions, this imbalance admits a canonical decomposition into contributions associated with $\\boldsymbol{D}$, $\\operatorname{grad}\\boldsymbol{L}$, the generator-induced rate $\\mathfrak{D}_α\\boldsymbol{J}$, and its gradient $\\mathfrak{D}^{\\nabla}_α(\\operatorname{grad}\\boldsymbol{J})$. This decomposition yields explicit constitutive restrictions ensuring thermodynamic consistency and identifies the induced higher-order stress contributions arising from gradient dependence.   Finally, we construct a coupled gradient theory combining viscoelasticity and constrained orientational order, in which distinct internal variables evolve under different transport mechanisms. The framework extends classical theories with tensorial internal variables, including Oldroyd-B and Landau-de Gennes-type models.",
+  "authors": [
+   "Luis Espath"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Luis Espath",
+  "pdf_url": "http://arxiv.org/pdf/2607.12949",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-14",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A Unified Gradient Theory for Frame-Indifferent Rates of Tensorial Internal Variables",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13058": {
+  "abstract": "As haptic interfaces integrate more seamlessly into wearables and everyday environments, they increasingly require actuators that are soft, thin, silent, and energy efficient. However, conventional motors and temperature-responsive polymers often struggle to deliver these properties due to their bulky form factors and high power consumption. High-Voltage Electrostatic Actuators (HVEAs), which generate force by applying an electric field to localized charge concentrations using high voltages and ultra-low currents, have recently emerged as a compelling alternative due to their fast, silent, and low-power operation within highly customizable and compliant form factors.   This paper presents a focused review of HVEAs for haptics, examining four major classes: electrostatic switchable adhesives, dielectric elastomer actuators, soft electrohydraulic actuators, and electrokinetic pumps. For each class, we describe their mechanisms that enable haptic output; characterize their bandwidths, force densities, and spatial scalability; and evaluate their versatility for rendering cutaneous and kinesthetic feedback across wearable and world-grounded interfaces. Through this cross-technology analysis, we identify common design constraints and emerging strategies for improving ergonomics, streamlining fabrication, and integrating self-sensing. We conclude by outlining where HVEAs are uniquely positioned to advance haptic interaction and highlighting key research directions needed to translate these technologies into practical systems.",
+  "authors": [
+   "Ahad M. Rauf",
+   "Ran Zhou",
+   "Eric Acome",
+   "Madeline Balaam",
+   "Sean Follmer",
+   "Teng Han",
+   "Craig Shultz",
+   "Daniel Leithinger"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.ET"
+  ],
+  "comment": "Copyright 2026 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works",
+  "first_author": "Ahad M. Rauf",
+  "pdf_url": "http://arxiv.org/pdf/2607.13058",
+  "primary_category": "cs.RO",
+  "published": "2026-07-06",
+  "tags": [],
+  "title": "Power from Potential: A Survey of Electrostatic Actuators for Haptics",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-07-06"
+ },
+ "2607.13163": {
+  "abstract": "In this note we focus our attention on a class of nonlocal-in-time evolution equations with Lévy diffusion, they arise as models of unidirectional viscoelastic fluid flow and physical phenomena with memory effect.We first consider the existence of the classical solution to a nonlocal linear evolution problem under conditions on the involved memory kernels which allows complete positivity. Then we investigate the limit of this model to a generalized Rayleigh-Stokes equation, as the index of Lévy diffusion gets concentrated near two, we prove that the solution of nonlocal-in-time problem with Lévy diffusion uniformly converges to that of the generalized Rayleigh-Stokes equation and reveal the convergence rate.Finally, the existence and limiting behavior of the mild solution to a nonlocal evolution problem with nonlinearity are established. The proofs are based on subordination principle and relaxation function theory.",
+  "authors": [
+   "Xi Huang",
+   "Li Peng",
+   "Yong Zhou"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Xi Huang",
+  "pdf_url": "http://arxiv.org/pdf/2607.13163",
+  "primary_category": "math.AP",
+  "published": "2026-07-14",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Non-local evolution equations with Lévy diffusion: Well-posedness and limiting behavior",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13174": {
+  "abstract": "Multimaterial 3D printing enables the fabrication of functionally graded components, but optimizing their spatial material distribution alongside structural topology remains a formidable challenge due to high-dimensional design spaces and complex constitutive modeling. This paper presents an end-to-end computational framework integrating sparsified physics-augmented neural networks with finite-element-based topology optimization. By extracting closed-form, composition-aware hyperelastic constitutive laws from experimental data, this approach facilitates exact symbolic differentiation via the adjoint state method implemented with FEniCSx, efficiently circumventing the bottlenecks of applying neural network constitutive models. This pipeline is deployed on soft robotic gripper applications, demonstrating continuous composition optimization for highly anisotropic contact responses, and the concurrent optimization of macroscopic topology and material distribution under non-failure stretch constraints. This methodology could replace laborious empirical prototyping, establishing interpretable machine-learning models as practical, robust design primitives for advanced multimaterial additive manufacturing.",
+  "authors": [
+   "Xue-Ling Luo",
+   "Steven Yang",
+   "Jingye Tan",
+   "Robert F. Shepherd",
+   "Noy Cohen",
+   "Nikolaos Bouklas"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.CE",
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Xue-Ling Luo",
+  "pdf_url": "http://arxiv.org/pdf/2607.13174",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-07-14",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Towards end-to-end optimization in multimaterial 3D printing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13199": {
+  "abstract": "We present a two-stage inverse design procedure for producing disordered stealthy hyperuniform trivalent photonic networks in two dimensions with isotropic complete photonic band gaps (PBGs) blocking light regardless of direction or polarization (TE or TM) over a wide frequency range. Most ordinary disordered systems fail to maintain complete PBGs as system size increases. The only known exceptions that remain open in the largest simulations have been generated by mapping stealthy hyperuniform point patterns into trivalent networks. However, the resulting networks are not truly stealthy hyperuniform two-phase media. Although their PBGs remain open, they are relatively narrow due to limited overlap between the TE and TM band gaps and broad band tails caused by localized defect states. By contrast, our two-stage inverse design aims to make the final network itself stealthy hyperuniform, achieving unprecedented near-optimal overlap between the TE and TM band gaps and a small defect state density at the band edges. We obtain not only single realizations with large PBGs, but a striking homogeneity across a large ensemble, effectively probing a network with 100,000 vertices. This ensemble-based band gap is comparable in width to the complete PBG of an anisotropic honeycomb photonic crystal with the same network parameters and nearly an order of magnitude wider than the previously widest known isotropic complete PBGs. Our designs can be fabricated using additive manufacturing, offering new pathways to manipulate electromagnetic waves for photonic technologies.",
+  "authors": [
+   "Joel Steinegger",
+   "Paul J. Steinhardt",
+   "Christoph Räth",
+   "Salvatore Torquato",
+   "Michael A. Klatt"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.dis-nn",
+   "physics.comp-ph"
+  ],
+  "comment": "18 pages, 4 figures",
+  "first_author": "Joel Steinegger",
+  "pdf_url": "http://arxiv.org/pdf/2607.13199",
+  "primary_category": "physics.optics",
+  "published": "2026-07-14",
+  "tags": [
+   "additive-manufacturing",
+   "band-gap",
+   "inverse-design"
+  ],
+  "title": "Towards stealthy hyperuniform networks with optimal isotropic complete photonic band gaps using a novel inverse design procedure",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13238": {
+  "abstract": "Architected triply periodic minimal surface (TPMS) lattices offer superior specific energy absorption, toughness, fatigue strength, and tunability. While recent advancements have established rate-dependent viscoplastic constitutive models to capture the complex nonlinear deformation response of additively manufactured polymeric TPMS structures, predicting fracture and the resulting structural failure remains a significant challenge. We address this by performing systematic experiments on unit cells and lattices of various sizes under tension, compression, and non-monotonic loading. The experiments inform the development of a new constitutive model that captures the damage and fracture behavior of polymeric TPMS lattices. We first implement a high-fidelity viscoplastic deformation constitutive model from Ma et al. (2026) into finite element software Abaqus/Explicit via a user material subroutine. We then propose a damage initiation criterion for amorphous polymers based on stored elastic energy and equivalent plastic strain. The damage model is implemented in Abaqus using gradient-damage framework following Konale and Srivastava(2025). The damage model and numerical simulation capability are quantitatively and qualitatively validated using experimental results for a unit cell under non-monotonic loading and lattices under tension. The proposed damage model and simulation capability enable in silico design of architected polymer structures.",
+  "authors": [
+   "Abhishek Gupta",
+   "Aditya Konale",
+   "Ke Ma",
+   "Keven Alkhoury",
+   "Pradeep Guduru",
+   "Yuri Bazilevs",
+   "Vikas Srivastava"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Abhishek Gupta",
+  "pdf_url": "http://arxiv.org/pdf/2607.13238",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-14",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Modeling damage and fracture in additively manufactured polymeric triply periodic minimal surface lattices",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-14"
+ },
+ "2607.13589": {
+  "abstract": "Boron neutron capture therapy (BNCT) requires knowledge of patient-specific $^{10}$B concentration for accurate dose estimation, yet no established method provides real-time boron-sensitive information during irradiation. Backscattered thermal neutrons carry a $^{10}$B-dependent intensity modulation through the $^{10}$B(n,$α$)$^{7}$Li reaction, documented in BNCT treatment rooms for three decades but not yet developed as a measurement signal. This paper uses Monte Carlo simulation to assess the feasibility of backscattered thermal neutrons as a measurement channel for $^{10}$B concentration. A thin $^{nat}$LiF-converter detector placed at the beam exit captures the composite forward-plus-backscatter field; differential imaging against a $^{10}$B-free baseline isolates the $^{10}$B-dependent component, quantified by the fractional reduction in the $^{6}$Li capture rate, termed Relative Detector Signal Reduction (RDSR). In homogeneous phantoms, RDSR shows linear concentration dependence ($R^2 = 0.997$) with a practical depth limit of approximately 6 cm. Edge-response analysis yields a diffusion-limited FWHM of 32-176 mm over 1-5 cm depth, with weak concentration dependence. In a voxelized patient phantom across 12 boron configurations, the $^{6}$Li capture cross-section provides intrinsic thermal neutron energy selectivity that preferentially weights the band where $^{10}$B absorption is concentrated. Region-of-interest integration achieves counting-statistics sensitivity below 10 ppm; the systematic detection floor (~22-28 ppm at $\\pm$1% baseline uncertainty) identifies baseline-reference precision as the dominant constraint. The modeled detector produces limited dose perturbation (+11.6% treatment-time increase). These results establish the physical basis for a boron-sensitive backscattered neutron measurement concept in BNCT.",
+  "authors": [
+   "Zirui Ye",
+   "Yuxin Wang",
+   "Meitong Wei",
+   "Xie George Xu"
+  ],
+  "categories": [
+   "physics.med-ph"
+  ],
+  "comment": "41 pages, 13 figures",
+  "first_author": "Zirui Ye",
+  "pdf_url": "http://arxiv.org/pdf/2607.13589",
+  "primary_category": "physics.med-ph",
+  "published": "2026-07-15",
+  "tags": [
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "Using backscattered thermal neutrons to monitor boron concentration during BNCT: a Monte Carlo feasibility study",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.14287": {
+  "abstract": "Defect segmentation in additive manufacturing (AM) X-ray computed tomography (XCT) images remains challenging due to severe class imbalance and large distribution shifts across scan conditions. Although recent foundation models such as the Segment Anything Model (SAM) provide strong general-purpose segmentation priors, their natural-image pre-training transfers poorly to the AM XCT domain, where defects appear as subtle non-semantic microstructural anomalies. Moreover, adapting SAM to the AM domain is further limited by the large domain gap and scarcity of labeled real XCT data. We present XCT-SAM, a sequential parameter-efficient adaptation framework for AM XCT defect segmentation. Instead of adapting SAM directly from natural images to XCT data, we first fine-tune Conv-LoRA adapters on an alloy-microstructure dataset and subsequently transfer the adapted model to XCT images, progressively bridging the domain gap. Using Conv-LoRA adapters with rank r=2, the framework injects convolutional spatial inductive bias into SAM's backbone while training approximately 4.15M parameters and keeping over 99% of the model frozen. We evaluate XCT-SAM on out-of-distribution CycleGAN-XCT benchmarks and real-world NIST XCT scans. Across both settings, XCT-SAM consistently outperforms zero-shot SAM and other domain-adapted SAM baselines, achieving the best overall IoU and Dice scores. These results demonstrate the effectiveness of intermediate domain adaptation with parameter-efficient adapters for industrial XCT defect segmentation. The source code is publicly available at https://github.com/Mahedi-61/XCT-SAM.git",
+  "authors": [
+   "Md Mahedi Hasan",
+   "Md Mushfiqur Rahaman",
+   "Alan Pachkovskiy",
+   "Imtiaz Ahmed",
+   "Jeremy Dawson",
+   "Srinjoy Das"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "10 pages, 7 figures, 3 tables. Accepted to the IAPR Workshop on Machine Vision for Industrial Inspection (MVI2), in conjunction with ICPR 2026. Code: https://github.com/Mahedi-61/XCT-SAM",
+  "first_author": "Md Mahedi Hasan",
+  "pdf_url": "http://arxiv.org/pdf/2607.14287",
+  "primary_category": "cs.CV",
+  "published": "2026-07-15",
+  "tags": [
+   "additive-manufacturing",
+   "benchmarking",
+   "polymer-morphology"
+  ],
+  "title": "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.14290": {
+  "abstract": "We present a comprehensive study of the timing resolution achievable in plastic scintillator detectors read out through wavelength-shifting (WLS) fibers coupled to silicon photomultipliers (SiPMs), combining a semi-analytical framework, toy Monte Carlo validation, and full Geant4 optical photon simulation. The analytical model traces the complete photon detection chain: scintillation emission, WLS fiber re-emission, optical transit time dispersion, SiPM single-photon time resolution, and electronics quantization. It expresses the timing resolution $\\sigt$ as a function of the detected photoelectron yield $\\Npe$, scintillator decay constants ($\\taur$, $\\taud$), WLS re-emission time ($\\tauwls$), fiber numerical aperture, detector geometry, and readout electronics parameters. The analytical predictions are validated at two levels. First, toy Monte Carlo simulations ($2\\times 10^5$ events per parameter point across 80 grid points spanning 8 fiber types and $\\Npe$ from 5 to 200) achieve analytical-to-MC agreement of $0.9997 \\pm 0.0015$. Second, full Geant4 optical photon simulations track the entire scintillation, wavelength-shifting, and fiber transport chain in realistic detector geometries, confirming the analytical timing predictions and providing first-principles photoelectron yield calibration. A comprehensive parameter scan covering 7 scintillator materials, 8 WLS fiber types, 5 SiPM models, 5 electronics configurations, 3 readout topologies, and 3 boundary conditions produces quantitative design maps and lookup tables for detector optimization.",
+  "authors": [
+   "Haohui Che",
+   "Guang Yang"
+  ],
+  "categories": [
+   "physics.ins-det",
+   "hep-ex"
+  ],
+  "comment": null,
+  "first_author": "Haohui Che",
+  "pdf_url": "http://arxiv.org/pdf/2607.14290",
+  "primary_category": "physics.ins-det",
+  "published": "2026-07-15",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Comprehensive study of timing resolution in plastic scintillator detectors with wavelength-shifting fiber and silicon photomultiplier readout",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-15"
+ },
+ "2607.14451": {
+  "abstract": "Biomolecular condensates are continually remodeled by biochemical reactions that can exhibit non-Markovian, history-dependent dynamics. We develop a theory of active phase separation with non-Markovian reactions and show that delayed reaction feedback destabilizes stationary droplets: when the memory time becomes comparable to the reaction turnover time, condensates deform and spontaneously acquire a polar, self-propelled state. In multidroplet systems, persistent memory wakes mediate alignment, producing polar flocks and, at higher concentrations, traveling labyrinths. These results establish reaction memory as a control parameter of active phase separation, linking condensate remodeling, autonomous motility, and collective organization, and suggest a possible route to flocking-like behavior within cells.",
+  "authors": [
+   "Samuel Kovach",
+   "Trevor GrandPre"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Samuel Kovach",
+  "pdf_url": "http://arxiv.org/pdf/2607.14451",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-16",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14457": {
+  "abstract": "A six-degree-of-freedom (6-DOF) nonlinear lumped-parameter biodynamic model of the seated human upper body is formulated to predict human response under different unknown loading conditions. The model consists of six anatomically partitioned cascade body segments: pelvis, lower torso, central torso, upper torso, neck, and head. The joints are connected through nonlinear viscoelastic joints incorporating strain-stiffening restoring forces consistent with the nonlinear constitutive behavior of biological soft tissue. Fifteen subject-specific mechanical parameters are considered as design variables. The design variables are six joint natural frequencies, six viscous damping ratios, one Rayleigh coefficient, one nonlinear stiffening scale, and one mass scale. The subject-specific design variables are identified from three distinct vehicular loading cases using a hybrid two-phase optimization strategy. Particle Swarm Optimization (PSO) globally searches on a frequency-domain surrogate and seeds a bounded Nelder-Mead refinement for the full nonlinear Ordinary Differential Equation (ODE) response. A rigorous parameter idealization methodology, based on error-weighted geometric mean in log space, was implemented to fuse the multi-case optima into a single subject-representative consensus parameter set. The idealized model retains physical interpretability across loading scenarios and is subsequently used in forward dynamics to predict and validate the subject's experimental response. The framework constitutes a complete subject-specific biodynamic pipeline, from experimental data through optimization, idealization, and forward prediction, suitable for occupational health assessment and protective equipment design across diverse loading scenarios.",
+  "authors": [
+   "Rahid Zaman",
+   "Ahmed Zubayer Raiyan",
+   "Md Navid Imtiaz Rifat",
+   "Mohammad Ibrahim Hossain",
+   "Ashfaq Adnan"
+  ],
+  "categories": [
+   "q-bio.TO"
+  ],
+  "comment": null,
+  "first_author": "Rahid Zaman",
+  "pdf_url": "http://arxiv.org/pdf/2607.14457",
+  "primary_category": "q-bio.TO",
+  "published": "2026-07-16",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A Validated Data-driven Subject and Vehicle Specific Nonlinear Biodynamic Model for Predicting Upper-Body Response in Vehicle Ride",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14697": {
+  "abstract": "Observation of spontaneous symmetry breaking is crucial to our understanding of a continuous second-order phase transition from a disordered system into an ordered one, which often leads to the formation of topological defects. In the case of superconductors, such topological defects are identified as quantized vortices. However, their geometrical characteristics have not been well investigated and understood yet. For the imaging of spontaneous vortices, we employ a proximity-coupled superconducting nanocomposite. Here we show from scanning superconducting quantum interference device microscope measurements that vortices with different polarities, size and shapes are observed stochastically especially under near zero-field conditions. The field distributions of the spontaneous vortices are more extended and intricate than those of the field induced Abrikosov vortices, yielding longer penetration depths ranging from ~1 to ~10 micrometer. The spontaneous vortices are created during cooling as a result of the competition between Josephson coupling and thermal phase fluctuation, both of which are inherently present in this proximity-coupled system. The morphology of the vortices most likely imprints the information that is frozen at the time of vortex formation, providing insights into the local phase differences that are present in the early stage of the phase transition.",
+  "authors": [
+   "Iku Nakaaki",
+   "Kotaro Taki",
+   "Mio Nomura",
+   "Haruna Ishimaru",
+   "Minagi Yono",
+   "Jun Chen",
+   "Hiroyo Segawa",
+   "Akiko Nakamura",
+   "Taku Moronaga",
+   "Minoru Tachiki",
+   "Shuuichi Ooi",
+   "Shunichi Arisawa",
+   "Tsutomu Nojima",
+   "Takashi Uchino"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "11 pages, 5 figures",
+  "first_author": "Iku Nakaaki",
+  "pdf_url": "http://arxiv.org/pdf/2607.14697",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-07-16",
+  "tags": [
+   "nanocomposites",
+   "polymer-morphology"
+  ],
+  "title": "Imaging and characterization of spontaneous vortices in a proximity-induced superconductor",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14730": {
+  "abstract": "Conventional robotic grippers face a significant challenge in agricultural automation: the trade-off between compliant, adaptive grasping, pressure balancing among all joints, and high load capacity, often at the cost of high energy consumption. This paper presents a novel hybrid rigid-soft gripper that integrated low-cost, membrane-based pneumatic actuators with 3D-printed dual ratchet-pawl mechanisms to simultaneously achieve shape adaptation, uniform force distribution, and energy-free self-locking. The dual-ratchet structure assembled in an offset configuration significantly increased the angular resolution of the joint locking mechanism. Key experimental results demonstrated the gripper's superior performance: a remarkable maximum load capacity of 4200 g, far exceeding that of conventional soft grippers (45-210 g); more uniform force distribution across object sizes (1.75-35.29% difference ratio) compared to a rigid gripper (56.77-66.44%), with peak contact forces remaining below surface damage thresholds; and a 50.05% reduction in total energy consumption to 42.6 J per grasp cycle, achieved by eliminating the need for continuous pneumatic pressure through the self-locking mechanism, compared to 85.28 J for a conventional soft gripper. The combination of additive manufacturing for ratchets and commercially available materials for pneumatic chambers ensured a low-cost and easily fabricated design. These findings validated that the proposed gripper successfully bridged the gap between soft compliance and rigid reliability, offering a robust and efficient solution for scalable agricultural harvesting and manipulation tasks.",
+  "authors": [
+   "Xi Chen",
+   "Yun Wang",
+   "Lichao Yang",
+   "Haitao Li",
+   "Ya Xiong"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "Accepted to ICRA 2026",
+  "first_author": "Xi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2607.14730",
+  "primary_category": "cs.RO",
+  "published": "2026-07-16",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Hybrid Rigid-Soft Robotic Gripper with Shape Adaptation, Uniform Force Distribution, and Self-Locking Capabilities",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.14944": {
+  "abstract": "Recent advances in data-driven modelling have highlighted the potential of hybrid approaches which combine Tensor Basis Neural Networks (TBNN) with Universal Differential Equations (UDE) to discover frame-invariant, non-linear viscoelastic constitutive models. These hybrid models enable the creation of digital twins for complex viscoelastic fluids, offering direct transferability to computational fluid dynamics simulations. In this work, we introduce a reduced dimensional tensor basis formulation that enhances both the physical consistency of the learned representations with respect to the training data and the numerical stability of subsequent simulations. The UDE architecture is embedded into an open-source finite volume solver in which the constitutive response is generated dynamically at runtime based on local fluid flow conditions. Training on synthetic datasets generated using a range of well established viscoelastic models in oscillatory shear flows alone, the performance of the resulting UDEs is evaluated under extrapolation to unseen conditions and flow-types. These include deploying the UDEs in viscometric extensional flows as well as 2D and 3D benchmark flows, such as the 4:1 sudden contraction and cross-slot, providing a quantitative analysis of their capabilities, limitations and failure modes. The proposed reduced-basis framework enables data-efficient discovery of frame-invariant constitutive models that generalise beyond their training regime, capturing key flow features such as the onset and growth of flow-induced elastic instabilities in strong extensional flows even though trained solely on shear data. Quantitative accuracy decreases as extrapolation increases, but incorporating first normal stress difference information further improves quantitative accuracy and extends predictive fidelity to higher Deborah numbers.",
+  "authors": [
+   "J. L. Cummings",
+   "C. Fernandes",
+   "F. Dong",
+   "M. A. Alves",
+   "M. S. N. Oliveira"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "33 pages",
+  "first_author": "J. L. Cummings",
+  "pdf_url": "http://arxiv.org/pdf/2607.14944",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-16",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties"
+  ],
+  "title": "Harnessing Machine Learning for Hybrid Constitutive Modelling of Viscoelastic Fluid Flows in Computational Rheology",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15085": {
+  "abstract": "The coupled dynamics of local fields exert a drastic influence on the light-activated self-propulsion of a Janus particle in a binary solvent under spatial confinement. In this work, we investigate this problem using numerical simulations that account for local phase separation and wetting phenomena, as well as hydrodynamic effects. We find that confining the binary solvent within a channel results in a reduction of the active particle's propulsion speed and an extension of the duration of its directed motion. Furthermore, the orientational dynamics of this self-propelled particle are not restricted to two dimensions, unlike the phenomenon known as \"orientational quenching\". Increasing the light intensity leads to strong fluctuations in the local fields and, consequently, in the particle's speed. In this context, the significance of key physical parameters governing the efficiency of particle motion control is elucidated.",
+  "authors": [
+   "Michał Przerwa",
+   "Piotr Nowakowski",
+   "Takeaki Araki",
+   "Anna Maciołek"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 13 figures, and 2 tables",
+  "first_author": "Michał Przerwa",
+  "pdf_url": "http://arxiv.org/pdf/2607.15085",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-16",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Light-activated Janus particles in geometrically confined binary solvent",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15162": {
+  "abstract": "Optical thermodynamics is a newly developed framework that applies principles from statistical mechanics to describe the intricate behavior of weakly nonlinear, multimode photonic systems. Utilizing this theory, the collective dynamics of complex optical arrangements can be systematically uncovered and understood. The purpose of this work is to examine fundamental aspects of optical thermodynamics, including optical pressure, and provide a unified framework that can be applied to effectively any optical setting within the domain of validity of optical thermodynamics. We find that in addition to the conservation laws, the remaining extensive and intensive parameters of the system are naturally provided by the parameters of the propagation constants. At this point, several thermodynamic approaches exist for analyzing optical forces in multimode settings. Here, we develop a new theoretical methodology that unifies these perspectives in a variety of different configurations, irrespective of whether they are discrete or continuous. We apply our theory in four different settings. By studying Su-Schrieffer-Heeger lattices, we elucidate the thermodynamics of polyatomic chains and show that intercell and intracell bonds can display different optical forces. In addition, we provide a thermodynamic formalism to predict and understand the optical pressure at equilibrium arising in arrangements characterized by a continuous index variation and apply our results to graded-index fibers.",
+  "authors": [
+   "Nikolaos K. Efremidis",
+   "Huizhong Ren",
+   "Demetrios N. Christodoulides"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "39 pages, 7 figures",
+  "first_author": "Nikolaos K. Efremidis",
+  "pdf_url": "http://arxiv.org/pdf/2607.15162",
+  "primary_category": "physics.optics",
+  "published": "2026-07-16",
+  "tags": [],
+  "title": "Unified framework of optical thermodynamics and optical pressure",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-16"
  }
 }

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14457.html">A Validated Data-driven Subject and Vehicle Specific Nonlinear Biodynamic Model for Predicting Upper-Body Response in Vehicle Ride</a></div></td>
+<td>Rahid Zaman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14457">2607.14457</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14944.html">Harnessing Machine Learning for Hybrid Constitutive Modelling of Viscoelastic Fluid Flows in Computational Rheology</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>J. L. Cummings et al.</td>
+<td><a href="http://arxiv.org/abs/2607.14944">2607.14944</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12405.html">Tunable Signal Penetration and Response Plateaus in Bistable Mechanical Media</a></div><div class="paper-tags"><a href="soft-matter-90d.html">soft-matter</a></div></td>
@@ -32,6 +44,24 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12766.html">Entropy-Driven Initiation and Cellular Uptake Mediated by Viscoelastic Cytoskeleton: A Kinetic Phase Diagram from Onsager Variational Principle</a></div></td>
 <td>Jinjie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12766">2607.12766</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12949.html">A Unified Gradient Theory for Frame-Indifferent Rates of Tensorial Internal Variables</a></div></td>
+<td>Luis Espath</td>
+<td><a href="http://arxiv.org/abs/2607.12949">2607.12949</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13163.html">Non-local evolution equations with Lévy diffusion: Well-posedness and limiting behavior</a></div></td>
+<td>Xi Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13163">2607.13163</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13238.html">Modeling damage and fracture in additively manufactured polymeric triply periodic minimal surface lattices</a></div></td>
+<td>Abhishek Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.13238">2607.13238</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-13</td>
@@ -704,11 +734,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16825.html">Coarse-Grained Dynamics with Spatial Disorder and Non-Markovian Memory</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Chuyi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2604.16825">2604.16825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2602.02801.html">Flow-induced bending response rheometer to measure viscoelastic bending of microrods</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
-<td>Barrett T Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2602.02801">2602.02801</a></td>
 </tr>
 </tbody></table>
