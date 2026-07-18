@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,17 +722,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17199.html">Modeling, Control and Self-sensing of Dielectric Elastomer Soft Actuators: A Review</a></div></td>
 <td>Y. Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2604.17199">2604.17199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16811.html">Impact dynamics of flexible hydrogels on solid substrates of different wettabilities</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Akash Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16811">2604.16811</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.16825.html">Coarse-Grained Dynamics with Spatial Disorder and Non-Markovian Memory</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Chuyi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.16825">2604.16825</a></td>
 </tr>
 </tbody></table>

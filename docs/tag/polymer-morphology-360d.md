@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1250,11 +1250,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00896.html">Phase-fraction guided denoising diffusion model for augmenting multiphase steel microstructure segmentation via micrograph image-mask pair synthesis</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Hoang Hai Nam Nguyen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00896">2508.00896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.16626.html">Chemical Control for the Morphogenesis of Conducting Polymer Dendrites in Water</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
-<td>Antoine Baron et al.</td>
-<td><a href="http://arxiv.org/abs/2507.16626">2507.16626</a></td>
 </tr>
 </tbody></table>

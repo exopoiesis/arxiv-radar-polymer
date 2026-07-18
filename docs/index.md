@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-17._
+_Updated 2026-07-18._
 
-**3575** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3576** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -55,6 +55,12 @@ _Updated 2026-07-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15162.html">Unified framework of optical thermodynamics and optical pressure</a></div></td>
 <td>Nikolaos K. Efremidis et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15162">2607.15162</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15266.html">Tunable Mpemba effect in a polymer-bead system with inertia</a></div></td>
+<td>Hosung Kwak et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15266">2607.15266</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -187,11 +193,5 @@ _Updated 2026-07-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10337.html">Interwoven long-range order induced by random fields</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Jeremiah Bender et al.</td>
 <td><a href="http://arxiv.org/abs/2607.10337">2607.10337</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10484.html">Firewall3D: A Hardware Firewall for Defending 3D Printers Against Firmware Attacks</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Seyed Ali Ghazi Asgar et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10484">2607.10484</a></td>
 </tr>
 </tbody></table>
