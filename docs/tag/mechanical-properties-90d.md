@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -716,11 +716,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18527.html">Fractional motions of an active particle on the quantum vortex</a></div></td>
 <td>Yun Jeong Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2604.18527">2604.18527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17199.html">Modeling, Control and Self-sensing of Dielectric Elastomer Soft Actuators: A Review</a></div></td>
-<td>Y. Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17199">2604.17199</a></td>
 </tr>
 </tbody></table>

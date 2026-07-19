@@ -8,19 +8,19 @@
   total: 567
   group: morphology
 - name: additive-manufacturing
-  count: 15
+  count: 14
   total: 371
   group: processing
-- name: polymer-morphology
-  count: 15
-  total: 351
-  group: morphology
 - name: composites
-  count: 14
+  count: 13
   total: 268
   group: processing
+- name: polymer-morphology
+  count: 13
+  total: 351
+  group: morphology
 - name: benchmarking
-  count: 11
+  count: 10
   total: 188
   group: informatics
 - name: monte-carlo
@@ -51,13 +51,13 @@
   count: 5
   total: 170
   group: applications
-- name: rheology
-  count: 4
-  total: 193
-  group: processing
 - name: nanocomposites
   count: 3
   total: 83
+  group: processing
+- name: rheology
+  count: 3
+  total: 193
   group: processing
 - name: selfies
   count: 3
@@ -119,10 +119,6 @@
   count: 1
   total: 53
   group: sustainability
-- name: polymer-informatics
-  count: 1
-  total: 11
-  group: informatics
 - name: polymerization
   count: 1
   total: 53
@@ -219,6 +215,10 @@
   count: 0
   total: 19
   group: applications
+- name: polymer-informatics
+  count: 0
+  total: 11
+  group: informatics
 - name: polymer-language-model
   count: 0
   total: 0
