@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15911.html">Zigzag ordering, defects, and anomalous relaxation in antiferromagnetic Kuramoto lattices</a></div></td>
+<td>Priyanka D. Bhoyar et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15911">2607.15911</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
@@ -224,17 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19563.html">Information-to-energy trade-offs and the optimal alphabet of polymer replication</a></div></td>
 <td>Damián G. Hernández</td>
 <td><a href="http://arxiv.org/abs/2604.19563">2604.19563</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18068.html">Self-averaging parameter estimation for coarse-grained particle models</a></div></td>
-<td>Carlos Monago et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18068">2604.18068</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18118.html">Contagion or Macroeconomic Fluctuations? Identifiability in Aggregated Default Data</a></div></td>
-<td>Shintaro Mori</td>
-<td><a href="http://arxiv.org/abs/2604.18118">2604.18118</a></td>
 </tr>
 </tbody></table>

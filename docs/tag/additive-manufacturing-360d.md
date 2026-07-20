@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">209 papers</span>
+  <span class="paper-count">207 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1256,17 +1256,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19388.html">A novel multi-thickness topology optimization method for balancing structural performance and manufacturability</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Gabriel Stankiewicz et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19388">2507.19388</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.06360.html">Analytical and numerical solutions to the three-phase Stefan problem with simultaneous occurrences of melting, solidification, boiling, and condensation phenomena</a></div></td>
-<td>Mehran Soleimani et al.</td>
-<td><a href="http://arxiv.org/abs/2503.06360">2503.06360</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18318.html">Parametric design and adaptive sizing of lattice structures for 3d additive manufacturing</a></div></td>
-<td>Jorge Manuel Mercado-Colmenero et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18318">2507.18318</a></td>
 </tr>
 </tbody></table>

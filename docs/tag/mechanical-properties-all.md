@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">841 papers</span>
+  <span class="paper-count">844 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15975.html">A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers</a></div><div class="paper-tags"><a href="extrusion-all.html">extrusion</a> · <a href="rheology-all.html">rheology</a></div></td>
+<td>Ivana Pajic-Lijakovic et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15975">2607.15975</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14457.html">A Validated Data-driven Subject and Vehicle Specific Nonlinear Biodynamic Model for Predicting Upper-Body Response in Vehicle Ride</a></div></td>
@@ -26,6 +32,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14944.html">Harnessing Machine Learning for Hybrid Constitutive Modelling of Viscoelastic Fluid Flows in Computational Rheology</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
 <td>J. L. Cummings et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14944">2607.14944</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15422.html">Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Harshit Thakker et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15422">2607.15422</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -92,6 +104,12 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11802.html">Why gas-focused microjets are so fast: kinetically resolved, shear-driven flow focusing in vacuum</a></div></td>
 <td>Alfonso M. Ganan-Calvo</td>
 <td><a href="http://arxiv.org/abs/2607.11802">2607.11802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="nanocomposites-all.html">nanocomposites</a></div></td>
+<td>Maxime Vassaux et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-09</td>

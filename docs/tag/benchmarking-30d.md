@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2607.14944">2607.14944</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15422.html">Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Harshit Thakker et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15422">2607.15422</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14287.html">XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Md Mahedi Hasan et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22073.html">Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Tongchen Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22073">2606.22073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21719.html">A Topology-Preserving Python Framework for Reliable Initialization of Star and Cyclic Polymer Architectures in Molecular Dynamics (LAMMPS) Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
-<td>Oluwatumininu Emmanuel Ayo-Ojo et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21719">2606.21719</a></td>
 </tr>
 </tbody></table>

@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2607.14697">2607.14697</a></td>
 </tr>
 <tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Maxime Vassaux et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Zuzanna Malinowska-Trzmielak et al.</td>
@@ -254,11 +260,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20826.html">Defect migration in supercrystalline nanocomposites</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Dmitry Lapkin et al.</td>
 <td><a href="http://arxiv.org/abs/2507.20826">2507.20826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.09693.html">Asymmetric Electronic Band Alignment and Potentially Enhanced Thermoelectric Properties in Phase-Separated Mg2X (X=Si,Ge,Sn) Alloys</a></div></td>
-<td>Byungki Ryu et al.</td>
-<td><a href="http://arxiv.org/abs/2506.09693">2506.09693</a></td>
 </tr>
 </tbody></table>

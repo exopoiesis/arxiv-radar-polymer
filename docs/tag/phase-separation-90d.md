@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">71 papers</span>
+  <span class="paper-count">69 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15703.html">How Topology Shapes the Phase Behavior of Polyelectrolytes</a></div><div class="paper-tags"><a href="coacervates-90d.html">coacervates</a></div></td>
+<td>David Beyer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15703">2607.15703</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14451.html">Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets</a></div></td>
@@ -422,23 +428,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19521.html">Singularities in phase separation models: a spectral element approach for the nonlocal Cahn-Hilliard equation</a></div></td>
 <td>Andrés Miniguano-Trujillo et al.</td>
 <td><a href="http://arxiv.org/abs/2604.19521">2604.19521</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.17772.html">A Deep Ritz Method for High-Dimensional Steady States of the Cahn--Hilliard Equation</a></div></td>
-<td>Yi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2604.17772">2604.17772</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18211.html">Weak solutions and weak-strong uniqueness for a Cahn-Hilliard type model with chemotaxis</a></div></td>
-<td>Robert Lasarzik et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18211">2604.18211</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18693.html">A new approach to long-lived particle detection at hadron colliders: the $\textsf{DELIGHT-SHIELD}$ concept</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="composites-90d.html">composites</a></div></td>
-<td>Biplob Bhattacherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18693">2604.18693</a></td>
 </tr>
 </tbody></table>

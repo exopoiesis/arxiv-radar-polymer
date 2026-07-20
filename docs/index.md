@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-19._
+_Updated 2026-07-20._
 
-**3576** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3582** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15703.html">How Topology Shapes the Phase Behavior of Polyelectrolytes</a></div><div class="paper-tags"><a href="tag/coacervates-30d.html">coacervates</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>David Beyer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15703">2607.15703</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15911.html">Zigzag ordering, defects, and anomalous relaxation in antiferromagnetic Kuramoto lattices</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Priyanka D. Bhoyar et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15911">2607.15911</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15975.html">A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers</a></div><div class="paper-tags"><a href="tag/extrusion-30d.html">extrusion</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Ivana Pajic-Lijakovic et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15975">2607.15975</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15988.html">Fast temperature up steps as a test of the Tool-Narayanaswamy formalism</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
+<td>Armand Rykner et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15988">2607.15988</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.14451.html">Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
@@ -61,6 +85,12 @@ _Updated 2026-07-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15266.html">Tunable Mpemba effect in a polymer-bead system with inertia</a></div></td>
 <td>Hosung Kwak et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15266">2607.15266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.15422.html">Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Harshit Thakker et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15422">2607.15422</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-15</td>
@@ -163,35 +193,5 @@ _Updated 2026-07-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11799.html">Universal scalings and switching entropy in yield-stress fluids</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Rajam Elancheliyan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.11799">2607.11799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11802.html">Why gas-focused microjets are so fast: kinetically resolved, shear-driven flow focusing in vacuum</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Alfonso M. Ganan-Calvo</td>
-<td><a href="http://arxiv.org/abs/2607.11802">2607.11802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.11864.html">Direct writing of individual quantum dots</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Weikun Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11864">2607.11864</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12045.html">Bulk and microphase separation in chiral active systems</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Sumeja Bureković et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12045">2607.12045</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.12116.html">Body-fitted tracking of 2d open curves with a level set based mesh evolution method</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Charles Dapogny</td>
-<td><a href="http://arxiv.org/abs/2607.12116">2607.12116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.10337.html">Interwoven long-range order induced by random fields</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Jeremiah Bender et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10337">2607.10337</a></td>
 </tr>
 </tbody></table>

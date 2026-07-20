@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15703.html">How Topology Shapes the Phase Behavior of Polyelectrolytes</a></div><div class="paper-tags"><a href="coacervates-30d.html">coacervates</a></div></td>
+<td>David Beyer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15703">2607.15703</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14451.html">Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets</a></div></td>
@@ -110,23 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
 <td>Callum Marsh et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Jin-Hyuk Seok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21027">2606.21027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21184.html">Many-body attractions do not stabilize gas-liquid phase separation in aqueous dispersions of charged colloids within the Poisson-Boltzmann framework</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Thijs ter Rele et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21184">2606.21184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21464.html">Nonlocal Sensing Drives Hybrid Phase Separation in Brownian Matter</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Benchang Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21464">2606.21464</a></td>
 </tr>
 </tbody></table>

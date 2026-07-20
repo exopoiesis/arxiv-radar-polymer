@@ -1971,5 +1971,170 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-07-16"
+ },
+ "2607.15301": {
+  "abstract": "Epoxy-based materials are inherently hygroscopic, absorbing moisture from the environment, which can significantly alter their short and long-term performance. The presence of graphene is often considered as a potential candidate to act as a microscopic barrier, mitigating the adverse effects of hydration on the matrix. This study investigates the impact of hydration on the glass transition and elastic mechanical properties of epoxy resins and their graphene nanocomposites, focusing on water content up to 5 %wt. Using large-ensemble molecular dynamics simulations, we analyze the temperature-driven glass transition and mechanical response of both neat epoxy and epoxy-graphene systems under varying hydration levels. Our results reveal a distinct threshold at 3 %wt water content: below this, hydration primarily reduces the glass transition temperature, while mechanical properties remain unaffected. Beyond 3 %wt, however, the mechanical properties deteriorate, highlighting a non-linear sensitivity to water uptake. Furthermore, we emphasize the critical role of ensemble size in ensuring the reliability of molecular dynamics predictions for such heterogeneous systems. Our simulations demonstrate that ensembles substantially larger than current state-of-the-art standards are necessary to achieve converged distributions of the predicted mechanical properties, particularly in highly heterogeneous hydrated epoxy-graphene nanocomposites. These findings provide novel insights into the hydration behavior of epoxy-based materials and underscore the potential of graphene to enhance their environmental resistance. This work also advances the understanding of structure-property relationships in polymer nanocomposites, offering guidance for the design of more robust materials in humid environments.",
+  "authors": [
+   "Maxime Vassaux",
+   "Werner A. Müller",
+   "James L. Suter",
+   "Alexandros Anastasiou",
+   "Martin Simmons",
+   "David Tilbrook",
+   "Peter V. Coveney"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Maxime Vassaux",
+  "pdf_url": "http://arxiv.org/pdf/2607.15301",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-10",
+  "tags": [
+   "glass-transition",
+   "mechanical-properties",
+   "molecular-dynamics",
+   "nanocomposites"
+  ],
+  "title": "Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations",
+  "topics": [
+   "Processing, Manufacturing & Composites",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-10"
+ },
+ "2607.15422": {
+  "abstract": "Soft robots are well-suited for applications such as rehabilitation and surgery that require adaptable and safe interaction with their environment. However, the challenges of reproducible and scalable fabrication of soft robots limit their real-world deployment. Various fabrication methods have been introduced, but many are labor-intensive and prone to human error. Therefore, traditional two-part pour casting remains an attractive option. This paper presents procedures for robust, repeatable, and scalable fabrication of soft pneumatic actuators using two-part pour casting. The presented methods prevent internal cavity clogging and ensure air-tight sealing. Additionally, a robust sensor embedding procedure for thin-film flex sensors is presented, which allows for accurate and repeatable data acquisition. Finite Element Modeling (FEM) of the soft actuator is performed to analyze stress and deformation from internal pressure loadings. Pneumatic actuation experiments with PID pressure control are performed. Automated image processing is used to calibrate the embedded flex sensor to bending angle measurements. Staircase and sinusoidal profile actuation experiments validate the performance of the fabricated actuator. Angle response experiments for the staircase input show repeatable performance, and the sinusoidal input shows a small amount of hysteresis consistent with viscoelastic response to pneumatic actuation of soft actuators. Simulated and real-world bending angles show comparable response. These methods provide a repeatable and robust fabrication procedure, validated across two operators and 24 successful fabrications, along with benchmark simulations and experimental testing. These benchmarks will enable more widespread adoption of soft robotics.",
+  "authors": [
+   "Harshit Thakker",
+   "Paul Dela Cruz",
+   "Mostafa Mo. Massoud",
+   "Jacqueline Libby"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "8 pages, 17 figures, to be published in: IEEE RAS/EMBS 11th International Conference on Biomedical Robotics and Biomechatronics (BioRob 2026)",
+  "first_author": "Harshit Thakker",
+  "pdf_url": "http://arxiv.org/pdf/2607.15422",
+  "primary_category": "cs.RO",
+  "published": "2026-07-16",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties"
+  ],
+  "title": "Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-16"
+ },
+ "2607.15703": {
+  "abstract": "We develop a topology-specific theory of polyelectrolyte coacervation using the random phase approximation and apply it to both simple and complex coacervation. Our results for stars and dendrimers show that more compact chain topologies display a greater propensity for liquid-liquid phase separation, as a function of both Bjerrum length and salt concentration. For mixtures of different topologies, we demonstrate that differences in polymer topology alone are sufficient to drive multiphase coacervation of polyelectrolytes, which we rationalize in terms of an effective $χ$ parameter. Analysis of a simplified global phase diagram reveals that the propensity for such topology-driven phase separation is largest at a finite molecular weight. Overall, our results establish polymer topology as a powerful design lever for tuning the phase diagram of charged macromolecules independently of molecular weight, net charge, and monomer chemistry, since changes in topology enable fine-tuning of the effective charge density without altering these molecular characteristics.",
+  "authors": [
+   "David Beyer",
+   "Pierre J. Walker",
+   "Lena Tarrach",
+   "Zhen-Gang Wang",
+   "Christian Holm"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "David Beyer",
+  "pdf_url": "http://arxiv.org/pdf/2607.15703",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-17",
+  "tags": [
+   "coacervates",
+   "phase-separation"
+  ],
+  "title": "How Topology Shapes the Phase Behavior of Polyelectrolytes",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-17"
+ },
+ "2607.15911": {
+  "abstract": "We investigate the nonequilibrium ordering dynamics of coupled Kuramoto oscillators with negative nearest-neighbor coupling, which induces a zigzag antiferromagnetic ordering. In one dimension, the defect density exhibits anomalously slow coarsening, decaying as $(D(t)\\sim t^{-1/4})$ before saturating at a system-size-dependent time $(t_c(N)\\sim N^z)$ with (z=2). The local persistence probability follows a stretched-exponential form, $(P(t)\\sim \\exp(-c t^α))$, with $(α=1/4)$. These exponents are observed are independent of the magnitude of the coupling, which merely rescales the characteristic time scale. The equality $(α=δ=1/4)$ together with (z=2) is consistent with a distinct universality class. These results demonstrate that deterministic nonlinear dynamics and geometric frustration alone are sufficient to generate slow relaxation and anomalous scaling, without quenched disorder or stochastic noise. A continuum approximation and the corresponding coarse-grained partial differential equation provide a theoretical explanation for the observed anomalous exponents, while linear stability analysis accounts for the emergence of the zigzag ordered state. In two dimensions, geometric frustration inhibits complete ordering and gives rise to long-lived metastable domain-wall structures. An initial transient defect decay is observed before crossover and saturation. These results demonstrate how frustration and continuous phase variables can fundamentally modify coarsening dynamics and generate anomalously slow relaxation in deterministic many-body systems.",
+  "authors": [
+   "Priyanka D. Bhoyar",
+   "Prashant M. Gade"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Priyanka D. Bhoyar",
+  "pdf_url": "http://arxiv.org/pdf/2607.15911",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-17",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Zigzag ordering, defects, and anomalous relaxation in antiferromagnetic Kuramoto lattices",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-17"
+ },
+ "2607.15975": {
+  "abstract": "Collective migration of epithelial monolayers emerges from the interplay between mechanical interactions and biochemical signalling. Here, we present a phenomenological mechanobiological framework linking cell-scale orientational interactions to tissue-scale mechanics. We distinguish reversible and irreversible head-on and glancing collisions, showing that reversible interactions store orientational mechanical energy while preserving collision geometry, whereas irreversible interactions dissipate energy and alter cell orientation. The balance between energy storage and dissipation governs collective migration, mechanical feedback, and density-dependent processes including cell jamming and live cell extrusion. These interactions regulate cell elasticity, contractility, and adhesion, thereby modifying epithelial surface tension and the effective viscoelastic response of the monolayer. We quantify these effects using orientational interaction potentials, an effective second virial coefficient, and dimensionless measures of stored and dissipated orientational energy. The relative contribution of these mechanisms increases with cell packing density, becoming dominant near the jamming transition. This framework provides a constitutive interpretation connecting collision-induced orientation dynamics with emergent epithelial rheology and suggests how density-dependent interaction regimes shape collective migration and tissue viscoelasticity.",
+  "authors": [
+   "Ivana Pajic-Lijakovic",
+   "Milan Milivojevic",
+   "Peter V. E. McClintock"
+  ],
+  "categories": [
+   "q-bio.CB",
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "13743 Pages, 6 Figures, 2 Tables",
+  "first_author": "Ivana Pajic-Lijakovic",
+  "pdf_url": "http://arxiv.org/pdf/2607.15975",
+  "primary_category": "q-bio.CB",
+  "published": "2026-07-17",
+  "tags": [
+   "extrusion",
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-17"
+ },
+ "2607.15988": {
+  "abstract": "We investigated the aging dynamics of a glass-forming liquid triethyl-2-acetylcitrate (TEAC), following fast temperature up steps with amplitudes ranging from 0.3 to 13.6 K. The initial states were either at equilibrium or prepared at increasing levels of out-of-equilibrium through a prior down step experiment. Our goal was to test the predictive power of the Tool-Narayanaswamy (TN) formalism which assumes that the non-linear re-equilibration of a liquid can be linked to its linear response to a small perturbation. We determined the TN parameters for steps with small to moderate amplitude ($\\leq$ 3.3 K) and crucially took advantage of down step aging experiments below the glass transition temperature to constrain the determination of the equilibrium relaxation time. We tested the TN predictions and found very good agreement for differences in fictive temperature characterizing the distance from equilibrium as high as 10 K. For larger steps, however, the prediction progressively fails to capture the aging dynamics. This likely indicates that the re-equilibration mechanism is no longer related to the equilibrium dynamics. Finally, we discuss the possibility of obtaining a general criterion for the limit of validity of the TN formalism, which we compare to other systems from the literature.",
+  "authors": [
+   "Armand Rykner",
+   "Marceau Hénot",
+   "François Ladieu"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "10 pages, 9 figures",
+  "first_author": "Armand Rykner",
+  "pdf_url": "http://arxiv.org/pdf/2607.15988",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-17",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Fast temperature up steps as a test of the Tool-Narayanaswamy formalism",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-17"
  }
 }

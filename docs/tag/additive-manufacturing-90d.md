@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,17 +260,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22857.html">IoT-Enhanced CNN-Based Labelled Crack Detection for Additive Manufacturing Image Annotation in Industry 4.0</a></div></td>
 <td>Mohsen Asghari Ilani et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22857">2604.22857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18154.html">Bridging Metal Additive Manufacturing and RF Accelerator Design: Development of a 704.4 MHz Crossbar H-Mode Linac for Efficient Beam Acceleration</a></div></td>
-<td>Chuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18154">2604.18154</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18664.html">Asteroid Mining to Sustain a Mars Colony: A Logistics Point of View</a></div></td>
-<td>Serena Suriano et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18664">2604.18664</a></td>
 </tr>
 </tbody></table>

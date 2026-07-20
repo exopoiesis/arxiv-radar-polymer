@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15975.html">A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Ivana Pajic-Lijakovic et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15975">2607.15975</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Marlo Kunzner et al.</td>
@@ -152,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21194.html">Linking molecular timescales to linear viscoelastic response in dilute and semidilute unentangled wormlike micelle solutions</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Avishek Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21194">2604.21194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01185.html">Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Léa Delance et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01185">2604.01185</a></td>
 </tr>
 </tbody></table>

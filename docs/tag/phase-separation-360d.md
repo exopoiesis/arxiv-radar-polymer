@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15703.html">How Topology Shapes the Phase Behavior of Polyelectrolytes</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a></div></td>
+<td>David Beyer et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15703">2607.15703</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14451.html">Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets</a></div></td>
 <td>Samuel Kovach et al.</td>
@@ -1904,11 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19248.html">Dynamically phase-separated states in driven binary dusty plasma</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Farida Batool et al.</td>
 <td><a href="http://arxiv.org/abs/2507.19248">2507.19248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18321.html">Static and dynamic properties of a binary, symmetric mixture of ultrasoft particles in the vicinity of criticality</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Tanmay Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18321">2507.18321</a></td>
 </tr>
 </tbody></table>

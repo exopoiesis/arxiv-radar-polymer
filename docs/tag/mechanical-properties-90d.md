@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15975.html">A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Ivana Pajic-Lijakovic et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15975">2607.15975</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14457.html">A Validated Data-driven Subject and Vehicle Specific Nonlinear Biodynamic Model for Predicting Upper-Body Response in Vehicle Ride</a></div></td>
@@ -26,6 +32,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14944.html">Harnessing Machine Learning for Hybrid Constitutive Modelling of Viscoelastic Fluid Flows in Computational Rheology</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>J. L. Cummings et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14944">2607.14944</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15422.html">Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Harshit Thakker et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15422">2607.15422</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-14</td>
@@ -92,6 +104,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11802.html">Why gas-focused microjets are so fast: kinetically resolved, shear-driven flow focusing in vacuum</a></div></td>
 <td>Alfonso M. Ganan-Calvo</td>
 <td><a href="http://arxiv.org/abs/2607.11802">2607.11802</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
+<td>Maxime Vassaux et al.</td>
+<td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-09</td>
@@ -692,29 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13146.html">Multi-scale Modeling of the Electro-viscoelasticity of Charged Polymers in Combined Flow and Electric Fields</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Zachary Wolfgram et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13146">2509.13146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20075.html">How elasticity affects bubble pinch-off</a></div></td>
-<td>Coen I. Verschuur et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20075">2511.20075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.01185.html">Polyelectrolyte adsorption at the solid-liquid interface favors receding contact line instability</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Léa Delance et al.</td>
-<td><a href="http://arxiv.org/abs/2604.01185">2604.01185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18090.html">Muscle-inspired magnetic actuators that push, pull, crawl, and grasp</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>Muhammad Bilal Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18090">2604.18090</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.18527.html">Fractional motions of an active particle on the quantum vortex</a></div></td>
-<td>Yun Jeong Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2604.18527">2604.18527</a></td>
 </tr>
 </tbody></table>
