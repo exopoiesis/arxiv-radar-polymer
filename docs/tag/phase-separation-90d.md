@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">69 papers</span>
+  <span class="paper-count">68 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -422,11 +422,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21200.html">A Temperature-Coupled Cahn-Hilliard-Stokes-Heat Model for Thermally Driven Phase Separation</a></div></td>
 <td>Maria Deliyianni et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21200">2604.21200</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.19521.html">Singularities in phase separation models: a spectral element approach for the nonlocal Cahn-Hilliard equation</a></div></td>
-<td>Andrés Miniguano-Trujillo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.19521">2604.19521</a></td>
 </tr>
 </tbody></table>
