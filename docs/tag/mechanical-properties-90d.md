@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21194.html">Linking molecular timescales to linear viscoelastic response in dilute and semidilute unentangled wormlike micelle solutions</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Avishek Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2604.21194">2604.21194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.20265.html">Compressible Navier-Stokes-Landau-Lifshitz-Gilbert system: derivations and well-posedness</a></div></td>
-<td>Boling Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.20265">2604.20265</a></td>
 </tr>
 </tbody></table>

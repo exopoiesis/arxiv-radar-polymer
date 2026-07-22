@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,41 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15422.html">Robust Silicone Pour Casting and Sensor Embedding Procedures for Soft Robotic Actuators</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
 <td>Harshit Thakker et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15422">2607.15422</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12405.html">Tunable Signal Penetration and Response Plateaus in Bistable Mechanical Media</a></div><div class="paper-tags"><a href="soft-matter-7d.html">soft-matter</a></div></td>
-<td>Sven Pattloch et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12405">2607.12405</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12582.html">A 2.5D NURBS-Trace Infinite-Element Method for Moving-Load Wave Propagation and Soil--Structure Interaction in Semi-Infinite Ground</a></div></td>
-<td>Yanhui Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12582">2607.12582</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12766.html">Entropy-Driven Initiation and Cellular Uptake Mediated by Viscoelastic Cytoskeleton: A Kinetic Phase Diagram from Onsager Variational Principle</a></div></td>
-<td>Jinjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12766">2607.12766</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12949.html">A Unified Gradient Theory for Frame-Indifferent Rates of Tensorial Internal Variables</a></div></td>
-<td>Luis Espath</td>
-<td><a href="http://arxiv.org/abs/2607.12949">2607.12949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13163.html">Non-local evolution equations with Lévy diffusion: Well-posedness and limiting behavior</a></div></td>
-<td>Xi Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13163">2607.13163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13238.html">Modeling damage and fracture in additively manufactured polymeric triply periodic minimal surface lattices</a></div></td>
-<td>Abhishek Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13238">2607.13238</a></td>
 </tr>
 </tbody></table>
