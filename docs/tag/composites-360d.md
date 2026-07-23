@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">153 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -932,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22971.html">Spin-Polaron Mediated Superconductivity in Doped Chern Antiferromagnets</a></div></td>
 <td>Xuepeng Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22971">2507.22971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00894.html">Additive Manufacturing of PEEK/Lunar Regolith Composites for Sustainable Lunar Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Mohammad Azami et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00894">2508.00894</a></td>
 </tr>
 </tbody></table>

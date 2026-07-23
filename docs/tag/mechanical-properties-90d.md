@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.22150.html">Waves dictate the yo-yoing decay of a viscoelastic mixing layer</a></div></td>
 <td>Giulio Foggi Rota et al.</td>
 <td><a href="http://arxiv.org/abs/2604.22150">2604.22150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21194.html">Linking molecular timescales to linear viscoelastic response in dilute and semidilute unentangled wormlike micelle solutions</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Avishek Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21194">2604.21194</a></td>
 </tr>
 </tbody></table>

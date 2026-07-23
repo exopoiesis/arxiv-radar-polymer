@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">166 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06510.html">Inverse Hamiltonian Reconstruction from Gravitational Energy Density in Curved Spacetime</a></div></td>
 <td>Davood Momeni</td>
 <td><a href="http://arxiv.org/abs/2508.06510">2508.06510</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20149.html">Finite size effect in the persistence probability of the Edwards-Wilkinson model of surface growth and effect of non-linearity</a></div></td>
-<td>Anirban Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20149">2507.20149</a></td>
 </tr>
 </tbody></table>
