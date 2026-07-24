@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,11 +254,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23522.html">Printable Nanocomposites with Superparamagnetic Maghemite ($γ$-Fe$_2$O$_3$) Particles for Microinductor-core Applications</a></div></td>
 <td>Mathias Zambach et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23522">2507.23522</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20826.html">Defect migration in supercrystalline nanocomposites</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Dmitry Lapkin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20826">2507.20826</a></td>
 </tr>
 </tbody></table>

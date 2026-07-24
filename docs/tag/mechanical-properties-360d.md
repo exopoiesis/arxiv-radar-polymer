@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,23 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21470.html">Stability of Large-Amplitude Viscous Shock Under Periodic Perturbation for 1-d Viscoelasticity with Non-Convex Constitutive Relations</a></div></td>
 <td>Yu Mei et al.</td>
 <td><a href="http://arxiv.org/abs/2507.21470">2507.21470</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14754.html">Bulk nanocrystalline Al-Mg-Y alloys with amorphous grain boundary complexions display high strength and compressive plasticity</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Tianjiao Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14754">2504.14754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.20826.html">Defect migration in supercrystalline nanocomposites</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Dmitry Lapkin et al.</td>
-<td><a href="http://arxiv.org/abs/2507.20826">2507.20826</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13164.html">A novel geometric predictive algorithm for assessing Compressive Elastic Modulus in MEX additive processes, based on part nonlinearities and layers stiffness,validated with PETG and PLA materials</a></div></td>
-<td>J. M. Mercado Colmenero et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13164">2508.13164</a></td>
 </tr>
 </tbody></table>

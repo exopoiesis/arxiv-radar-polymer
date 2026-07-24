@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,17 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22443.html">Spray flame synthesis of Y2O3-MgO nanoparticles for mid-infrared transparent nanocomposite ceramics</a></div></td>
 <td>Shuting Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22443">2507.22443</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.14754.html">Bulk nanocrystalline Al-Mg-Y alloys with amorphous grain boundary complexions display high strength and compressive plasticity</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Tianjiao Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2504.14754">2504.14754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00896.html">Phase-fraction guided denoising diffusion model for augmenting multiphase steel microstructure segmentation via micrograph image-mask pair synthesis</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
-<td>Hoang Hai Nam Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2508.00896">2508.00896</a></td>
 </tr>
 </tbody></table>

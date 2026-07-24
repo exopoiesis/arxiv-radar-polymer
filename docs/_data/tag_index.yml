@@ -4,21 +4,21 @@
   total: 844
   group: properties
 - name: phase-separation
-  count: 17
+  count: 13
   total: 568
   group: morphology
 - name: additive-manufacturing
   count: 12
   total: 371
   group: processing
-- name: composites
-  count: 11
-  total: 268
-  group: processing
 - name: coarse-grained
   count: 10
   total: 284
   group: simulation
+- name: composites
+  count: 10
+  total: 268
+  group: processing
 - name: monte-carlo
   count: 9
   total: 192
@@ -32,21 +32,17 @@
   total: 189
   group: informatics
 - name: glass-transition
-  count: 7
+  count: 6
   total: 148
   group: properties
-- name: spectroscopy
-  count: 7
-  total: 116
-  group: characterization
 - name: molecular-dynamics
   count: 6
   total: 247
   group: simulation
-- name: soft-matter
-  count: 5
-  total: 86
-  group: simulation
+- name: spectroscopy
+  count: 6
+  total: 116
+  group: characterization
 - name: hydrogels
   count: 4
   total: 170
@@ -59,6 +55,10 @@
   count: 4
   total: 194
   group: processing
+- name: soft-matter
+  count: 4
+  total: 86
+  group: simulation
 - name: thermal-conductivity
   count: 3
   total: 84
@@ -107,10 +107,6 @@
   count: 1
   total: 86
   group: applications
-- name: mlff
-  count: 1
-  total: 52
-  group: simulation
 - name: organic-photovoltaics
   count: 1
   total: 30
@@ -187,6 +183,10 @@
   count: 0
   total: 4
   group: sustainability
+- name: mlff
+  count: 0
+  total: 52
+  group: simulation
 - name: multiscale-modeling
   count: 0
   total: 36
