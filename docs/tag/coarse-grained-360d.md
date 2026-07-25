@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">164 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21269.html">Two-Temperature Induced Phase Separation: Non-equilibrium Phase Behavior, Ordering, and Kinetics</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Nayana Venkatareddy et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21269">2607.21269</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19452.html">Markov state models revisited: Principles and algorithms for unbiased observables</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>David Aristof et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19452">2607.19452</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15911.html">Zigzag ordering, defects, and anomalous relaxation in antiferromagnetic Kuramoto lattices</a></div></td>
@@ -992,11 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04672.html">MARTINI-based force fields for predicting gas separation performances of MOF/polymer composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Cecilia M. S. Alvares et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04672">2508.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.21621.html">What exactly is &#x27;active matter&#x27;?</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Michael te Vrugt et al.</td>
-<td><a href="http://arxiv.org/abs/2507.21621">2507.21621</a></td>
 </tr>
 </tbody></table>

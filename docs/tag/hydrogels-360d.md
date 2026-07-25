@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20770.html">Digitally Programmable Photochromic Hydrogel Contact Lenses as Light-Adaptive Artificial Irises</a></div></td>
+<td>Asad Nauman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20770">2607.20770</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05633.html">Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Daniel M. Anderson et al.</td>
@@ -536,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02399.html">Oscillating chemical reactions enable communication between responsive hydrogels</a></div></td>
 <td>Joseph J. Webber et al.</td>
 <td><a href="http://arxiv.org/abs/2508.02399">2508.02399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.19406.html">Falling through the cracks: energy storage along segmented brittle crack fronts</a></div></td>
-<td>Xinyue Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2507.19406">2507.19406</a></td>
 </tr>
 </tbody></table>

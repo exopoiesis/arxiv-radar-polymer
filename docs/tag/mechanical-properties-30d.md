@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="gnn-30d.html">gnn</a></div></td>
+<td>Amirhossein Nouranizadeh et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19820.html">Fluid Memory Enhances Active Beating via Back-and-Forth Motion</a></div></td>
+<td>Subhajit Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19820">2607.19820</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19060.html">Deep learning-based prediction of time-resolved adhesive forces in viscoelastic Hertzian contacts</a></div></td>
+<td>Ali Maghami et al.</td>
+<td><a href="http://arxiv.org/abs/2607.19060">2607.19060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17549.html">Universal Jamming Criticality and Self-Organizing Principles from Disorder to the Limit of Perfect Crystalline Order</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
+<td>Jianhua Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17549">2607.17549</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18463.html">Viscoelastic and thermal response on nuclear pasta states at finite baryon density</a></div></td>
+<td>Nicolás Grandi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.18463">2607.18463</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18547.html">The Stefan problem for complete melting of finitely strained solids into viscoelastic fluids</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
+<td>Tomáš Roubíček</td>
+<td><a href="http://arxiv.org/abs/2607.18547">2607.18547</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15975.html">A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a> · <a href="rheology-30d.html">rheology</a></div></td>
@@ -110,6 +146,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
 <td>Maxime Vassaux et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20535.html">A Graph Neural Network approach to zero-shot Digital Twins</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
+<td>Alicia Tierz et al.</td>
+<td><a href="http://arxiv.org/abs/2607.20535">2607.20535</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-09</td>
@@ -212,17 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26656.html">Analysing gelation transition through fractional viscoelasticity and Mittag-Leffler-Prabhakar function</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
 <td>Yogesh M Joshi</td>
 <td><a href="http://arxiv.org/abs/2606.26656">2606.26656</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.25309.html">Sharp Residual-Work Criteria for Positive-Cone Oldroyd-B and FENE-P Reynolds States</a></div></td>
-<td>Sai Peng</td>
-<td><a href="http://arxiv.org/abs/2606.25309">2606.25309</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Mohammad Moein Naderi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
 </tr>
 </tbody></table>

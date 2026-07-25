@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18547.html">The Stefan problem for complete melting of finitely strained solids into viscoelastic fluids</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Tomáš Roubíček</td>
+<td><a href="http://arxiv.org/abs/2607.18547">2607.18547</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15975.html">A phenomenological multiscale framework for orientational interactions and viscoelasticity in migrating epithelial monolayers</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Ivana Pajic-Lijakovic et al.</td>
@@ -146,11 +152,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25852.html">Efficient boundary elements for the Smoluchowski diffusion equation</a></div><div class="paper-tags"><a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Ignacio Labarca-Figueroa et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25852">2604.25852</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.21448.html">Continuum granular flow model with restitution-derived viscoelastic damping</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Bodhinanda Chandra et al.</td>
-<td><a href="http://arxiv.org/abs/2604.21448">2604.21448</a></td>
 </tr>
 </tbody></table>

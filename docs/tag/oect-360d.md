@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>oect — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="oect-7d.html">7d</a> <a href="oect-30d.html">30d</a> <a href="oect-90d.html">90d</a> <strong>360d</strong> <a href="oect-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.00663.html">Organic Electrochemical Neurons: Nonlinear Tools for Complex Dynamics</a></div></td>
 <td>Gonzalo Rivera-Sierra et al.</td>
 <td><a href="http://arxiv.org/abs/2508.00663">2508.00663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22021.html">Carbon-based Microfabricated Organic Electrochemical Transistors Enabled by Printing and Laser Ablation</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="extrusion-360d.html">extrusion</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
-<td>Alan Eduardo Avila Ramirez et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22021">2507.22021</a></td>
 </tr>
 </tbody></table>

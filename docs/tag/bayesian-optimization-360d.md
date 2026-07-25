@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17438.html">Multi-scale closed-loop melt pool control for LPBF via policy optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Junan Lin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.17438">2607.17438</a></td>
+</tr>
+<tr class="paper">
 <td>2026-06-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.11574.html">Range-Aware Bayesian Optimization for Discovering Diverse Designs within Target Property Windows</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Shengli Jiang et al.</td>
@@ -98,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05351.html">Self-Driving Laboratory Optimizes the Lower Critical Solution Temperature of Thermoresponsive Polymers</a></div></td>
 <td>Guoyue Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.05351">2509.05351</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.01900.html">Comparative Analysis of search Approaches to Discover Donor Molecules for Organic Solar Cells</a></div><div class="paper-tags"><a href="organic-photovoltaics-360d.html">organic-photovoltaics</a></div></td>
-<td>Mohammed Azzouzi et al.</td>
-<td><a href="http://arxiv.org/abs/2411.01900">2411.01900</a></td>
 </tr>
 </tbody></table>
