@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">316 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1910,17 +1910,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23576.html">Theory of ultrafast conductance modulation in electrochemical protonic synapses by multiphase polarization</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a></div></td>
 <td>Michael L. Li et al.</td>
 <td><a href="http://arxiv.org/abs/2507.23576">2507.23576</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22696.html">Transverse Self-Propulsion Enhances the Aggregation of Active Dumbbells</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Pasquale Digregorio et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22696">2507.22696</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22860.html">Complex topologies in phase separated droplets predicted from universal phase diagram</a></div></td>
-<td>Amit Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22860">2507.22860</a></td>
 </tr>
 </tbody></table>

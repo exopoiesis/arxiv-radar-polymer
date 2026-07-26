@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">472 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,23 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22303.html">CS-SHRED: Enhancing SHRED for Robust Recovery of Spatiotemporal Dynamics</a></div></td>
 <td>Romulo B. da Silva et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22303">2507.22303</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10608.html">Hierarchical Bayesian inference for uncertainty quantification of thermal grease rheology</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Pranay P. Nagrani et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10608">2503.10608</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22657.html">Viscoelastic Profiling of Rare Pediatric Extracranial Tumors using Multifrequency MR Elastography: A Pilot Study</a></div></td>
-<td>C. Metz et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22657">2507.22657</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23114.html">Extensional rheology of dilute suspensions of spheres in polymeric liquids</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Arjun Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23114">2507.23114</a></td>
 </tr>
 </tbody></table>
