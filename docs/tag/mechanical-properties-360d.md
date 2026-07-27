@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">467 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2816,17 +2816,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18399.html">From Champagne to Confined Polymer:Natural and Artificial Bubble Nucleation</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Carlos Arauz-Moreno et al.</td>
 <td><a href="http://arxiv.org/abs/2502.18399">2502.18399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19610.html">Unified discontinuous Galerkin analysis of a thermo/poro-viscoelasticity model</a></div></td>
-<td>Stefano Bonetti et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19610">2411.19610</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22303.html">CS-SHRED: Enhancing SHRED for Robust Recovery of Spatiotemporal Dynamics</a></div></td>
-<td>Romulo B. da Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2507.22303">2507.22303</a></td>
 </tr>
 </tbody></table>

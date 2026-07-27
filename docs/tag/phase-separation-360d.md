@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,17 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Zongpei Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.01328">2508.01328</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23573.html">Cohesion mediated layering in sheared grains</a></div></td>
-<td>Khushi Mahajan et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23573">2507.23573</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23576.html">Theory of ultrafast conductance modulation in electrochemical protonic synapses by multiphase polarization</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a></div></td>
-<td>Michael L. Li et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23576">2507.23576</a></td>
 </tr>
 </tbody></table>

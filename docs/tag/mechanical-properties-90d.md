@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25079.html">Lie symmetry classification and invariant solutions of time-fractional telegraph systems with variable coefficients</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Sodbaatar Adiya et al.</td>
 <td><a href="http://arxiv.org/abs/2604.25079">2604.25079</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.24140.html">Pressure sensing by electro-mechanical coupling in compliant dielectric membranes polarized by a bias voltage</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a></div></td>
-<td>Bart Van Damme et al.</td>
-<td><a href="http://arxiv.org/abs/2604.24140">2604.24140</a></td>
 </tr>
 </tbody></table>

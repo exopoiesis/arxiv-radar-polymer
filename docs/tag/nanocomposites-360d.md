@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">40 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -248,11 +248,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02534.html">Radiation stability of nanocomposite scintillators</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>L. Prouzova Prochazkova et al.</td>
 <td><a href="http://arxiv.org/abs/2507.02534">2507.02534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-07-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.23522.html">Printable Nanocomposites with Superparamagnetic Maghemite ($γ$-Fe$_2$O$_3$) Particles for Microinductor-core Applications</a></div></td>
-<td>Mathias Zambach et al.</td>
-<td><a href="http://arxiv.org/abs/2507.23522">2507.23522</a></td>
 </tr>
 </tbody></table>
