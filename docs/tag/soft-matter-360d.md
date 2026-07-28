@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">56 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,11 +344,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08432.html">Multistable polar textures in geometrically frustrated nematic liquid crystals</a></div></td>
 <td>Ufuoma I. Kara et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08432">2508.08432</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.17952.html">Athermal creep deformation of ultrastable amorphous solids</a></div></td>
-<td>Pinaki Chaudhuri et al.</td>
-<td><a href="http://arxiv.org/abs/2501.17952">2501.17952</a></td>
 </tr>
 </tbody></table>

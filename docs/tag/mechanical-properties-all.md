@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">851 papers</span>
+  <span class="paper-count">855 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: all
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23410.html">The Polymer Physics of Kinetoplast DNA as a Polymerised Membrane</a></div></td>
+<td>Takahiro Sakaue et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23410">2607.23410</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23562.html">On the flash temperature in sliding rubber contacts</a></div></td>
+<td>B. N. J. Persson</td>
+<td><a href="http://arxiv.org/abs/2607.23562">2607.23562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22833.html">Thermo-Structural Topology Optimization Considering Nonlinear Creep</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Stefan Knapik et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22833">2607.22833</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="gnn-all.html">gnn</a></div></td>
 <td>Amirhossein Nouranizadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21791.html">Load-dependent Taylor dispersion in a compliant electroosmotic pump conveying a simplified Phan-Thien-Tanner fluid</a></div></td>
+<td>Subhajyoti Sahoo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.21791">2607.21791</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-22</td>

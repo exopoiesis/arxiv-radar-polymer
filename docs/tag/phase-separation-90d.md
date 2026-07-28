@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23259.html">Microphase Separation in Quorum-Sensing Active Particles with Competing Interactions</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Michele Antonioli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23259">2607.23259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23382.html">Homeostatic Noise Buffering in Biomolecular Condensates Hinges on Phase Multiplicity Modulated by Interfacial and Droplet Size Effects</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Jonas Wessén et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23382">2607.23382</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21254.html">Quasiparticle specific heat of two-component Fermi mixtures: The atomic 163Dy-40K mixture</a></div></td>
 <td>Neda Ebrahimian</td>
@@ -398,17 +410,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26402.html">Energy stable auxiliary variable method for Cahn--Hilliard equations</a></div></td>
 <td>Fei Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2604.26402">2604.26402</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.06398.html">Reaction-Diffusion Driven Patterns in Immiscible Alloy Thin Films</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Vivek C. Peddiraju et al.</td>
-<td><a href="http://arxiv.org/abs/2601.06398">2601.06398</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.25302.html">Moving Cooling Source Induced Phase Separation in Binary Liquids: an interplay of competing velocities</a></div></td>
-<td>Lakshmipriya K et al.</td>
-<td><a href="http://arxiv.org/abs/2604.25302">2604.25302</a></td>
 </tr>
 </tbody></table>

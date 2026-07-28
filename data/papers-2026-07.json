@@ -2943,5 +2943,367 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-07-23"
+ },
+ "2607.21791": {
+  "abstract": "We develop a coupled model for electroosmotic pumping and passive-solute dispersion of a solvent-free simplified Phan-Thien-Tanner fluid in a compliant slit microchannel. Pressure, wall deformation, axial field, velocity, and dispersion are evaluated self-consistently along the finite-throughput pump characteristic. Lubrication theory, Debye-Huckel electrostatics, an elastic-foundation wall law, and Taylor-Aris macrotransport yield a closed-form flux relation for combined electroosmotic and pressure-driven forcing. Because the shear rate depends cubically on the total shear stress, the two contributions cannot be superposed. The flux decreases monotonically with pressure gradient, ensuring a unique inversion at prescribed throughput. Current conservation couples the axial field to the deformed gap under constant-current and constant-voltage operation. In pressure-free flow, thinning the electric double layer produces a plug-like profile and the Newtonian Taylor coefficient decays as the inverse square of the Debye parameter. Under hydraulic loading, an adverse pressure gradient drives a sheared core counterflow that persists in the thin-double-layer limit, causing the coefficient to approach a finite plateau. At fixed nonzero throughput, partial cancellation between electroosmotic and pressure-driven shear yields a maximum plate number at finite double-layer thickness. This optimum is conditional: joint optimization over throughput and double-layer thickness shifts the overall optimum toward free-flow, thin-double-layer operation. Viscoelasticity can enhance or suppress loaded dispersion, while compliance shifts the pump characteristic and separation optimum. Brownian dynamics validates the reduced model. The resulting load-resolution relation identifies conditions that balance pressure delivery and separation performance.",
+  "authors": [
+   "Subhajyoti Sahoo",
+   "Ameeya Kumar Nayak"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Subhajyoti Sahoo",
+  "pdf_url": "http://arxiv.org/pdf/2607.21791",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-07-23",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Load-dependent Taylor dispersion in a compliant electroosmotic pump conveying a simplified Phan-Thien-Tanner fluid",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-23"
+ },
+ "2607.21965": {
+  "abstract": "Computation is the controlled evolution of a state. Asynchronous evolutions, where all parts of the state change in their own time without stopping each other, put this control in jeopardy. It is in fact a mystery how natural processes perform asynchronous computations using many units with no global orchestration. Here we demonstrate how collective computational abilities can emerge in asynchronous many-body systems. The key insight is to split the physical \"hardware\" underlying the computation into two asymmetrically coupled parts, analogous to position and momentum in a harmonic oscillator. The resulting inertia nudges the evolution of the state so that the asynchronous computation proceeds in the right order. By treating our inertial asynchronous computer as a nonequilibrium material, we map out its phase diagram numerically and analytically using a framework we dub loop dynamical mean-field theory. We experimentally demonstrate our approach using analog spiking neuromorphic chips designed to mimic actual neurons in the brain. In addition, we construct software that can run on asynchronous hardware: we denoise movies whose clean versions were never seen during training, an instantiation of the generalization transition underlying modern machine learning. Our results point to a general strategy for reliable, decentralized computation in energy-constrained settings from dynamics self-assembly to cell differentiation.",
+  "authors": [
+   "Doruk Efe Gökmen",
+   "Michel Fruchart",
+   "Dmitrii Zendrikov",
+   "Giacomo Indiveri",
+   "Giulio Biroli",
+   "Vincenzo Vitelli"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Doruk Efe Gökmen",
+  "pdf_url": "http://arxiv.org/pdf/2607.21965",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-24",
+  "tags": [],
+  "title": "Inertial Asynchronous Computation",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22167": {
+  "abstract": "An analytical model to quantify large indentation force curves acquired on elastic thin films and living cells with spherical tip Atomic Force Microscopy (AFM) probes is presented. The model accounts for the bottom effect in the whole indentation range and overcomes the limitations of Sneddon's and Hertz's contact models, which are valid for semi-infinite thick samples, and of paraboloid tip models with bottom effect correction (BEC) that are applicable to spherical tips only for relatively small indentations. The model is experimentally validated with force volume measurements on polyacrylamide (PAA) hydrogel thin films, where an excellent agreement is obtained. The accurate correction of the bottom effect demonstrates that the intrinsic Young's modulus of PAA thin films increases for thickness below a critical value (~15 um). The model also shows excellent agreement with force curves acquired on live macrophages, providing accurate Young's modulus values for these very soft cells (E~200 Pa). Young's modulus values extracted with the proposed model significantly differ from those obtained from Sneddon's or paraboloid models with BEC, whose values deviate by 100% and -25%, respectively. Results show the potential of the proposed model for analysing force curve measurements with spherical tips at large indentations on thin film elastic materials and living cells at the micro and nanoscale.",
+  "authors": [
+   "Gabriel Gomila",
+   "Mauricio Cano",
+   "Beatriz Cantero",
+   "Sophie Strawbridge",
+   "Lara Aiassa",
+   "Loris Rizzello",
+   "Giuseppe Battaglia",
+   "Eleni Dalaka",
+   "Jordi Comelles",
+   "Annalisa Calò"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Gabriel Gomila",
+  "pdf_url": "http://arxiv.org/pdf/2607.22167",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-24",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Mechanical mapping of thin elastic films and living cells with spherical tip atomic force microscopy probes at large indentations",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22439": {
+  "abstract": "Quantum networks promise secure communication, distributed sensing and modular quantum computing by interconnecting distant quantum nodes through photonic links. Extending such networks beyond metropolitan distances requires quantum repeaters to overcome the exponential attenuation of photons in optical fiber. Across all architectures, a key requirement is the indistinguishability of single photons, which directly impacts the fidelity of photonic operations based on two-photon interference, such as Bell-state measurements and fusion gates. Here, we demonstrate generation of highly indistinguishable single photons from a coherently excited tin-vacancy center in diamond, achieving raw Hong-Ou-Mandel interference visibilities exceeding 0.95. By separating intrinsic emitter properties from technical imperfections, we show that decoherence plays a negligible role and that the remaining limitations are predominantly technical in nature, arriving at an intrinsic indistinguishability of up to 0.999. We further show that quantum frequency conversion to the telecom C-band preserves the photon indistinguishability. In combination with the long-lived electron and nuclear spin coherence times, these results establish tin-vacancy centers in diamond as a competitive platform for long-distance quantum networks and photonic quantum information processing. We further substantiate this potential through Monte Carlo simulations of a quantum-repeater link, demonstrating that the SnV-center platform surpasses the bound set by direct transmission.",
+  "authors": [
+   "Dennis Herrmann",
+   "Robert Morsch-Golsong",
+   "Tobias Bauer",
+   "Marlon Schäfer",
+   "David Lindler",
+   "Linus Ehre",
+   "Peter van Loock",
+   "Matthew Markham",
+   "Nicola Palmer",
+   "Soumen Mandal",
+   "Oliver Williams",
+   "Christoph Becher"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Dennis Herrmann",
+  "pdf_url": "http://arxiv.org/pdf/2607.22439",
+  "primary_category": "quant-ph",
+  "published": "2026-07-24",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Highly indistinguishable photons from a tin-vacancy spin qubit in diamond",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22833": {
+  "abstract": "Creep is a primary life-limiting mechanism for metallic components operating at high temperature, producing permanent deformation under sustained loads even when stresses remain below yield. The design of structures to minimize this deformation is critical to extending the service life of components. Incorporating creep into topology optimization (TO) remains open because the response is nonlinear, history-dependent, and thermomechanically coupled, and prior work often relies on linear viscoelastic models, which do not capture the behavior of metals at high temperatures. To bridge this gap, we introduce a differentiable thermo-structural TO framework. The approach considers creep deformation using the Norton model and leverages JAX's automatic differentiation to perform adjoint sensitivity analysis, enabling efficient gradient-based optimization. The transient material response is solved via a backward Euler scheme over a prescribed service life. Our objective is to minimize creep deformation subject to a volume constraint. We first demonstrate the framework on canonical two-dimensional benchmarks, showing that the proposed formulation significantly reduces permanent deformation compared to designs optimized solely for elastic stiffness. We then pose, as a challenge problem, the compositional design of a three-dimensional graded material turbine blade in which the local mixture of two candidate alloys is optimized. This challenge problem exercises the full capability of the framework, including transient nonlinear creep, coupled thermal loading, three-dimensional geometry, and gradient-based multi-material design, highlighting the need for creep-aware design in high-temperature applications.",
+  "authors": [
+   "Stefan Knapik",
+   "Aaditya Chandrasekhar",
+   "Deepak Sharma",
+   "Jian Cao",
+   "Changjie Sun",
+   "Wei Chen"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "Submitted to Structural and Multidisciplinary Optimization",
+  "first_author": "Stefan Knapik",
+  "pdf_url": "http://arxiv.org/pdf/2607.22833",
+  "primary_category": "cs.CE",
+  "published": "2026-07-24",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties"
+  ],
+  "title": "Thermo-Structural Topology Optimization Considering Nonlinear Creep",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-24"
+ },
+ "2607.22978": {
+  "abstract": "Microcanonical inflection-point analysis identifies MIPA-type higher-order transition structures from derivatives of the microcanonical entropy. Until recently, however, there was no canonical formulation for probing the corresponding fluctuation-level behavior directly from measurable energy fluctuations without reconstructing the density of states. Previous work addressed this limitation by introducing a canonical fluctuation diagnostic that quantifies energy-fluctuation asymmetry. Here, we investigate how this diagnostic behaves across representative first-, second-, and third-order phase transitions in the Ehrenfest classification. We consider the eight-state Potts model, the two-dimensional Ising model, and ideal three-dimensional Bose--Einstein condensation. The Potts and Ising systems exhibit a robust paired-extremum structure of the diagnostic near their respective transition regions, whereas ideal Bose--Einstein condensation exhibits a discontinuous response at the condensation temperature in the thermodynamic limit. These results show that a single fluctuation-based observable can display qualitatively distinct response morphologies across thermodynamic regimes, reflecting sensitivity to the nature of the underlying phase transition rather than serving as a direct classifier of Ehrenfest order.",
+  "authors": [
+   "Fangfang Wang",
+   "Wei Liu",
+   "Ying Tang",
+   "Zengru Di"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "12 pages, 4 figures",
+  "first_author": "Fangfang Wang",
+  "pdf_url": "http://arxiv.org/pdf/2607.22978",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-25",
+  "tags": [],
+  "title": "Response Morphologies of a Canonical Fluctuation Diagnostic Across Ehrenfest Phase Transitions",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23135": {
+  "abstract": "Classical multi-user diversity theory predicts that throughput over Rayleigh fading channels grows as $\\log_2\\!\\log_2 K$. In this work, we demonstrate a fundamental shift in this scaling law under heavy-tailed composite fading. Specifically, under Fisher--Snedecor $\\mathcal{F}$ composite fading, the channel power acquires a regularly varying upper tail, shifting extreme-value statistics from the Gumbel to the Fréchet domain. We prove that the maximum SINR among $K$ users scales polynomially as $K^{1/m_s}$, where $m_s$ is the shadowing severity parameter, leading to an ergodic capacity scaling of $\\frac{1}{m_s}\\log_2 K$. Crucially, this scaling persists in interference-limited Poisson networks, where aggregate co-channel interference alters the scaling constant but not the exponent. This polynomial gain is most relevant in severe-to-moderate shadowing ($m_s \\le 3$), as encountered in body-area networks, vehicular/industrial IoT, and dense indoor environments, where Fréchet asymptotics overtake industry-standard lognormal models at practical user counts. Finally, we establish the conditions necessary to harvest this gain (showing that proportional-fair scheduling under quasi-static shadowing reverts to Gumbel scaling) and validate all analytical findings through Monte Carlo simulations, including MIMO random beamforming.",
+  "authors": [
+   "Yonathan Murin",
+   "Ali Özer Ercan",
+   "Nariman Farsad"
+  ],
+  "categories": [
+   "cs.IT",
+   "eess.SP"
+  ],
+  "comment": null,
+  "first_author": "Yonathan Murin",
+  "pdf_url": "http://arxiv.org/pdf/2607.23135",
+  "primary_category": "cs.IT",
+  "published": "2026-07-25",
+  "tags": [
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "Multi-User Diversity Scaling in Heavy-Tailed Fading",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23259": {
+  "abstract": "Standard quorum-sensing models in active matter exhibit collective phenomena such as motility-induced phase separation. Here, we show that incorporating competing sensing ranges-- a minimal ingredient inspired by microbial communication --qualitatively changes this behavior, replacing macroscopic phase separation with self-organized microphases characterized by an emergent finite length scale. Starting from the microscopic dynamics, we derive a coarse-grained field theory whose coefficients are explicitly related to the moments of the microscopic sensing function. This mapping enables a direct comparison between particle-based simulations and continuum theory, allowing the characteristic modulation and correlation lengths to be predicted directly from the microscopic interaction parameters. Two-dimensional numerical simulations confirm these predictions and reveal a transition from macrophase separation to finite-wavelength density modulations as the competition between sensing scales increases. For stronger competing interactions, the system develops a peculiar cluster phase with an interstitial percolating network, which is captured by a higher-order gradient expansion. Our results identify competing quorum-sensing interactions as a simple microscopic mechanism for generating tunable active microphases.",
+  "authors": [
+   "Michele Antonioli",
+   "Nicoletta Gnan",
+   "Claudio Maggi"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "10 pages, 6 figures",
+  "first_author": "Michele Antonioli",
+  "pdf_url": "http://arxiv.org/pdf/2607.23259",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-25",
+  "tags": [
+   "coarse-grained",
+   "phase-separation"
+  ],
+  "title": "Microphase Separation in Quorum-Sensing Active Particles with Competing Interactions",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23382": {
+  "abstract": "Specific mixing or demixing of molecular species is a characteristic feature of condensed intracellular membraneless compartments. How sequence patterns of intrinsically disordered proteins (IDPs) fundamentally impact subcompartmentalization of biomolecular condensates and their role in buffering against concentration fluctuations are hereby addressed by modeling liquid-liquid phase separation (LLPS) of polyampholytic sequence pairs using random phase approximation (RPA) polymer theory and molecular dynamics (MD). RPA theory predicts both binary and ternary LLPS in a temperature-sensitive manner. We observe demixing underpinned by ternary LLPS for pairs with dissimilar sequence charge patterns but not for pairs with similar sequence charge patterns. Notably, the predicted behaviors are corroborated by MD when RPA is augmented with interfacial tension and/or a finite-size formalism commensurating with the typical small sizes of MD model systems, supporting our stipulation that RPA theory is a useful sequence-specific modeling tool for biomolecular condensates with larger, more realistic sizes when finite-size effects are much less significant. In principle, when the condensate size is sufficiently large, ternary LLPS is superior to binary LLPS in noise buffering because the IDP compositions of the three coexisting phases in ternary LLPS remain unchanged over an extended two-dimensional concentration regime, whereas the two coexisting phases in binary LLPS are fixed only along a tieline. However, when condensate sizes are sufficiently small, the buffering capacities of ternary versus binary LLPSs are more complex as they are modulated differently by finite-size effects. Biophysical ramifications of this interplay are discussed in view of the size diversity of natural biomolecular condensates.",
+  "authors": [
+   "Jonas Wessén",
+   "Tanmoy Pal",
+   "Suman Das",
+   "Hue Sun Chan"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "61 pages, 8 main-text figures, Supporting Information (containing supporting text, 1 supporting table, and 14 supporting figures), and 92 references. Submitted",
+  "first_author": "Jonas Wessén",
+  "pdf_url": "http://arxiv.org/pdf/2607.23382",
+  "primary_category": "q-bio.BM",
+  "published": "2026-07-25",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Homeostatic Noise Buffering in Biomolecular Condensates Hinges on Phase Multiplicity Modulated by Interfacial and Droplet Size Effects",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-25"
+ },
+ "2607.23400": {
+  "abstract": "A coordinated DIII-D campaign exposed and comparatively assessed 44 advanced plasma-facing materials from 12 institutions, including four public-private fusion partnerships, to support fusion pilot plant wall and divertor material down-selection. Samples were exposed using the Divertor Materials Evaluation System (DiMES) under Ohmic, L-mode, and H-mode conditions with edge-localized modes, at 0.2-2.5 MW m$^{-2}$ on flush geometries and 10-15 MW m$^{-2}$ on 10$^{\\circ}$ angled geometries. Engineered tungsten architectures retained integrity; long-fiber Wf/W showed the clearest crack-arrest behavior. W-Re and K-doped W showed near-ITER-W-like responses, while additively manufactured W-Ta showed heat-flux-sensitive mass losses of 0.64 mg for the flat sample and 2.19-2.87 mg for angled samples. After irradiation to 0.3 dpa at 550$^{\\circ}$C, neutron-irradiated ITER-grade W retained 2.8 times more deuterium than pristine W, while TiB$_2$ showed the lowest D$_2$ release in the Ohmic set. VTaHfMo was the most stable refractory multi-principal-element alloy. NbC and (Nb$_{0.5}$Ta$_{0.5}$)C retained integrity with 0.02-0.03 mg mass loss, whereas ZrC lost 7 mg. CVD SiC retained macroscopic integrity but exhibited an effective Si erosion yield of 0.5, about 5-10 times above prior DIII-D trends. Renewable boron pebble rods underwent controlled recession; 13% of released boron was ionized near the outer strike point and up to 50% was recovered locally. Initial in-situ chromium gross-erosion measurements yielded values of order $10^{-2}$. Together, these results provide cross-material benchmarks for fusion pilot plant down-selection and future AI/ML-assisted plasma-facing-material development.",
+  "authors": [
+   "Florian Effenberg",
+   "Jonathan D. Coburn",
+   "Luca Cappelli",
+   "Simon D. Corah",
+   "Amoolya Grandhi",
+   "Jerome Guterl",
+   "Charlie Hirst",
+   "Mike Jackson",
+   "Dylan A. Kohler",
+   "Rob Kolasinski",
+   "Erick Martinez-Loran",
+   "Ria Meston",
+   "Lauren Nuckols",
+   "Angelica Ottaviano",
+   "Zana Popovic",
+   "Sergey Tsurkan",
+   "Tessa Van Volkenburg",
+   "Daniel Velazquez",
+   "Aaliyah Zuniga",
+   "Arunodaya Bhattacharya",
+   "Jose Boedo",
+   "Kent Christian",
+   "Giacomo Dose",
+   "Eric Hollmann",
+   "Mykola Ialovega",
+   "Florian M. Laggner",
+   "Samara Levine",
+   "Xavier Navarro",
+   "Andrew Shone",
+   "Lance L. Snead",
+   "David Sprouster",
+   "Jason Trelewicz",
+   "Jayson Barr",
+   "Ryan Hood",
+   "Charlie Lasnier",
+   "Yan-Ru Lin",
+   "Vincent Mazon",
+   "Jun Ren",
+   "Gilson Ronchi",
+   "Dmitry Rudakov",
+   "Dinh Truong",
+   "Cedric Tsui",
+   "Shawn Zamperini",
+   "Weicheng Zhong",
+   "Tyler Abrams",
+   "Anthony W. Leonard",
+   "Roberto Maurizio"
+  ],
+  "categories": [
+   "physics.plasm-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "20 pages, 16 figures, 3 tables",
+  "first_author": "Florian Effenberg",
+  "pdf_url": "http://arxiv.org/pdf/2607.23400",
+  "primary_category": "physics.plasm-ph",
+  "published": "2026-07-26",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Comparative qualification of advanced plasma-facing materials for fusion pilot plants through public- and private-sector experiments in DIII-D",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-26"
+ },
+ "2607.23410": {
+  "abstract": "We analyze the conformational and dynamical properties of the kinetoplast DNA (kDNA), a massive sheet-like structure made from thousands of circular DNA molecules, found in the mitochondrion of certain parasites. The connectivity between circular DNA molecules is achieved by topological linking, hence, the kDNA may be regarded as a naturally occurring two-dimensional version of Olympic gels, whose physical properties are yet to be understood. We propose that the basic aspects in the large scale behaviors of kDNA could be described by the physics of polymerized membrane. Our analysis indicates the relevance of the hydrodynamic interactions in the dynamics of kDNA in aqueous solution. We demonstrate that the predicted dynamical scaling scenario captures various experimental data recently obtained from {\\it in vitro} imaging experiments in a unified manner. We also provide an estimate for the in-plane elastic modulus of kDNA, whose magnitude agrees well with recent measurements.",
+  "authors": [
+   "Takahiro Sakaue",
+   "Davide Michieletto"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "7 pages, 2 figures",
+  "first_author": "Takahiro Sakaue",
+  "pdf_url": "http://arxiv.org/pdf/2607.23410",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-26",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "The Polymer Physics of Kinetoplast DNA as a Polymerised Membrane",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-26"
+ },
+ "2607.23562": {
+  "abstract": "We present an analytical theory for the flash temperature for viscoelastic solids sliding on rigid and randomly rough surfaces. The theory takes into account the surface roughness on all relevant length scales.",
+  "authors": [
+   "B. N. J. Persson"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "B. N. J. Persson",
+  "pdf_url": "http://arxiv.org/pdf/2607.23562",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-26",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "On the flash temperature in sliding rubber contacts",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-26"
  }
 }

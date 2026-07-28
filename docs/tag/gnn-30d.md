@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>gnn — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <strong>30d</strong> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <a href="gnn-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20535.html">A Graph Neural Network approach to zero-shot Digital Twins</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Alicia Tierz et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20535">2607.20535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28996.html">On Surrogate Modeling of Static Response of AM Short-Fiber Thermoplastics Using Graph Neural Networks</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Pharindra Pathak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28996">2606.28996</a></td>
 </tr>
 </tbody></table>

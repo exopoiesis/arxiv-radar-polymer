@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23135.html">Multi-User Diversity Scaling in Heavy-Tailed Fading</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Yonathan Murin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23135">2607.23135</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22439.html">Highly indistinguishable photons from a tin-vacancy spin qubit in diamond</a></div></td>
+<td>Dennis Herrmann et al.</td>
+<td><a href="http://arxiv.org/abs/2607.22439">2607.22439</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19637.html">Decoding molecular distributional codes through collective instabilities</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>

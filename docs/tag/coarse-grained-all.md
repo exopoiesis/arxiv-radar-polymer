@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">286 papers</span>
+  <span class="paper-count">287 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23259.html">Microphase Separation in Quorum-Sensing Active Particles with Competing Interactions</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
+<td>Michele Antonioli et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23259">2607.23259</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21269.html">Two-Temperature Induced Phase Separation: Non-equilibrium Phase Behavior, Ordering, and Kinetics</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
