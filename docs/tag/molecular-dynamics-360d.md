@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Yotam M. Y. Feldman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25892">2607.25892</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23382.html">Homeostatic Noise Buffering in Biomolecular Condensates Hinges on Phase Multiplicity Modulated by Interfacial and Droplet Size Effects</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Jonas Wessén et al.</td>
@@ -830,11 +836,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03977.html">Constructing Generalized Sample Transition Probabilities with Biased Simulations</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Yanbin Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03977">2508.03977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01328.html">Electrostatic Depletion Force in Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="phase-separation-360d.html">phase-separation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Zongpei Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01328">2508.01328</a></td>
 </tr>
 </tbody></table>

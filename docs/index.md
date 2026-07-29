@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-07-28._
+_Updated 2026-07-29._
 
-**3624** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3626** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Yotam M. Y. Feldman et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25892">2607.25892</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23400.html">Comparative qualification of advanced plasma-facing materials for fusion pilot plants through public- and private-sector experiments in DIII-D</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
@@ -31,6 +37,12 @@ _Updated 2026-07-28._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23562.html">On the flash temperature in sliding rubber contacts</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>B. N. J. Persson</td>
 <td><a href="http://arxiv.org/abs/2607.23562">2607.23562</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.23768.html">Nanoscale linear response of strongly disordered stable solids</a></div></td>
+<td>D. V. Babin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.23768">2607.23768</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-25</td>
@@ -181,17 +193,5 @@ _Updated 2026-07-28._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.19452.html">Markov state models revisited: Principles and algorithms for unbiased observables</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>David Aristof et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19452">2607.19452</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17549.html">Universal Jamming Criticality and Self-Organizing Principles from Disorder to the Limit of Perfect Crystalline Order</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Jianhua Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17549">2607.17549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.17925.html">Informatics Modeling of High Tg Polymers: Assessing the Role of Processing versus Chemistry</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
-<td>Qinrui Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17925">2607.17925</a></td>
 </tr>
 </tbody></table>

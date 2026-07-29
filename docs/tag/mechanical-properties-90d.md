@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,23 +710,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27978.html">On three-dimensional flows of thermo-viscoelastic fluids of Giesekus type</a></div></td>
 <td>Miroslav Bulíček et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27978">2604.27978</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2601.13818.html">Two-dimensional FrBD friction models for rolling contact: extension to linear viscoelasticity</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Luigi Romano</td>
-<td><a href="http://arxiv.org/abs/2601.13818">2601.13818</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26240.html">Reduced-order modeling of a viscoelastic turbulent jet with hybrid machine learning models</a></div></td>
-<td>Christian Amor et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26240">2604.26240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26291.html">Coherent structures in Newtonian and viscoelastic turbulent planar jets</a></div></td>
-<td>Christian Amor et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26291">2604.26291</a></td>
 </tr>
 </tbody></table>

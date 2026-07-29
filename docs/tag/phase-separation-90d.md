@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">66 papers</span>
+  <span class="paper-count">63 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -392,23 +392,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01031.html">Influence of Coherent Elastic Strain on Phase Separation in BCC Nb-V Alloys</a></div></td>
 <td>Siya Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01031">2605.01031</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16164.html">The Carrollian Kaleidoscope</a></div></td>
-<td>Arjun Bagchi et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16164">2506.16164</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26346.html">Coexistence of patterned phases in chemically active multicomponent mixtures</a></div></td>
-<td>Chengjie Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26346">2604.26346</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.26402.html">Energy stable auxiliary variable method for Cahn--Hilliard equations</a></div></td>
-<td>Fei Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2604.26402">2604.26402</a></td>
 </tr>
 </tbody></table>

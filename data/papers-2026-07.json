@@ -3305,5 +3305,56 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-07-26"
+ },
+ "2607.23768": {
+  "abstract": "Strongly disordered solids exhibit distinctive properties at the nanoscale, where conventional continuum theory breaks down. We show that their disorder-averaged linear response can be described by a modified continuum theory in which the response coefficients are local but depend nonlocally on the structural properties. The stability criterion requires the response operator to be positive semidefinite, which naturally leads to a correlated Wishart disorder. In the limit of strong disorder, these equations reduce the long-wavelength response to a scalar disorder-induced contrast field. In elasticity, this field describes the formation of a stiff shell around rigid nanoparticles and boundaries, whose characteristic extent is set by the nonaffine length. The predictions are confirmed by molecular-dynamics simulations of a Lennard-Jones glass and a model polymer. Direct calculation of the nonlocal elastic kernels further shows that the response is predominantly local on the scale of the stiffened interphase.",
+  "authors": [
+   "D. V. Babin",
+   "I. O. Raikov",
+   "Y. M. Beltukov"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "D. V. Babin",
+  "pdf_url": "http://arxiv.org/pdf/2607.23768",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-07-26",
+  "tags": [],
+  "title": "Nanoscale linear response of strongly disordered stable solids",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-07-26"
+ },
+ "2607.25892": {
+  "abstract": "We present a method for approximating real-time correlation functions and quantum transport coefficients of bosonic condensed phases. The direct evaluation of quantum real-time correlation functions in the path integral formulation is impossible due to a severe dynamical sign problem. Evaluating imaginary-time correlation functions and inverting them using analytic continuation is famously ill-posed. Ring polymer molecular dynamics (RPMD) provides an alternative approach resulting in accurate approximations for real-time correlation functions of condensed phases but neglects exchange effects. In this work, we develop a bosonic RPMD method, which is exact in the harmonic, short time, and high temperature limits. A critical enabling observation is that the Kubo-transformed correlation function for bosons is real only when the correlated observables are symmetric under exchange. We benchmark the method on harmonic and anharmonic model systems and then use it to directly obtain the Lieb-Liniger gas density-density real-time correlation functions at various temperatures and momentum transfers. This work enables the direct simulation of finite-temperature, real-time dynamics of large bosonic condensed phases using RPMD for the first time.",
+  "authors": [
+   "Yotam M. Y. Feldman",
+   "Sourav Karmakar",
+   "Sutirtha Paul",
+   "Jacob Higer",
+   "Adrian Del Maestro",
+   "Barak Hirshberg"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Yotam M. Y. Feldman",
+  "pdf_url": "http://arxiv.org/pdf/2607.25892",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-07-28",
+  "tags": [
+   "benchmarking",
+   "molecular-dynamics"
+  ],
+  "title": "Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-07-28"
  }
 }
