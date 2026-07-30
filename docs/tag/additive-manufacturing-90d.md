@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26610.html">First- and Second-Order Phase Transformation Modeling Based on the Hamilton Principle: A Coupled Thermo-Mechanical Approach for Glass Additive Manufacturing</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Tobias Rudolf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26610">2607.26610</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26992.html">Generation of representative powder particle packing in 2D/3D: which tool for which application?</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Antoine Tainturier et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26992">2607.26992</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25062.html">A broadband, individually addressing two- and three-dimensional photonic integrated circuit for trapped-ion qubit control</a></div><div class="paper-tags"><a href="polymerization-90d.html">polymerization</a></div></td>
+<td>Daniel Klawson et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25062">2607.25062</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19652.html">An integrated super resolution THz 3D imaging system based on a linear nonlocal achromatic freeform Bessel beam lens and high power oscillator radiator array</a></div></td>
 <td>Jin Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19652">2607.19652</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24828.html">Extremal problem of area approximation</a></div></td>
+<td>O. O. Pokutnyi et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24828">2607.24828</a></td>
 </tr>
 <tr class="paper">
 <td>2026-07-20</td>
@@ -230,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.03328.html">LLM-ADAM: A Generalizable LLM Agent Framework for Pre-Print Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a></div></td>
 <td>Ahmadreza Eslaminia et al.</td>
 <td><a href="http://arxiv.org/abs/2605.03328">2605.03328</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02522.html">Weaving Life into Regolith: Engineered Autotrophic-Heterotrophic Consortia for Autonomous Biofabrication from Granular Feedstocks</a></div></td>
-<td>Nisha Rokaya et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02522">2406.02522</a></td>
 </tr>
 </tbody></table>

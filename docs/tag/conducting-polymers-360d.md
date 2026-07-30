@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>conducting-polymers — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="conducting-polymers-7d.html">7d</a> <a href="conducting-polymers-30d.html">30d</a> <a href="conducting-polymers-90d.html">90d</a> <strong>360d</strong> <a href="conducting-polymers-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05217.html">A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Minas Kouroublakis et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05217">2508.05217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.01757.html">Optical properties of emeraldine salt polymers from ab initio calculations: comparison with recent experimental data</a></div></td>
-<td>Renato Colle et al.</td>
-<td><a href="http://arxiv.org/abs/2508.01757">2508.01757</a></td>
 </tr>
 </tbody></table>

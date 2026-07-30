@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20066.html">Kinetically-Arrested Phase Separation leads to Tunable Domain Structures in Vapor-Deposited Glasses</a></div><div class="paper-tags"><a href="phase-separation-7d.html">phase-separation</a></div></td>
-<td>A T M Mahbub Alahe et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20066">2607.20066</a></td>
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26610.html">First- and Second-Order Phase Transformation Modeling Based on the Hamilton Principle: A Coupled Thermo-Mechanical Approach for Glass Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
+<td>Tobias Rudolf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26610">2607.26610</a></td>
 </tr>
 </tbody></table>

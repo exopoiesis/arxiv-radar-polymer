@@ -3328,6 +3328,259 @@
   ],
   "updated": "2026-07-26"
  },
+ "2607.23812": {
+  "abstract": "We present a method that enables efficient simulations of coarse-grained electrolyte solutions inside a narrow slit pore with an anisotropic dielectric permittivity tensor. The electrostatic equations for polarizable surfaces are solved using a 2D periodic Green's function method combined with a slab-corrected anisotropic 3D Ewald summation. We apply this approach in Monte Carlo simulations to study 1:1 electrolytes confined between both polarizable dielectric and metallic surfaces. Our results show that dielectric anisotropy aggressively reshapes the double-layer structure. While a coordinate stretching transformation demonstrates that individual ion-image interactions depend strictly on the bulk-like parallel permittivity, the suppression of the perpendicular permittivity dramatically amplifies direct in-plane ion-ion correlations. Under strong anisotropy, these lateral correlations dominate the thermodynamics completely, rendering the structural profiles of mutually opposing dielectric and metallic boundaries practically identical by forcing the smaller cations directly into the contact plane of the larger anions.",
+  "authors": [
+   "Alexandre P. dos Santos",
+   "Yan Levin"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Alexandre P. dos Santos",
+  "pdf_url": "http://arxiv.org/pdf/2607.23812",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-26",
+  "tags": [
+   "coarse-grained",
+   "monte-carlo"
+  ],
+  "title": "Electrolytes confined between polarizable surfaces in slit pores with anisotropic permittivity tensor",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-26"
+ },
+ "2607.24278": {
+  "abstract": "Lab-scale organic solar cells have shown high efficiency and strong potential for large-scale production. Among the fabrication techniques for upscaling production, roll-to-roll slot-die coating offers a cost-effective route toward scalable manufacturing. However, reliable in-line metrology is needed for real-time assessment and quality control of the coating during roll-to-roll manufacturing. In this work, we employ a hyperspectral camera for inline monitoring of P3HT and OIDTBR active layers in a roll-to-roll setup. Using multivariate curve resolution, we reliably resolved the spatial distribution of donor and acceptor contributions in the coating. Furthermore, by fitting the absorbance spectra of P3HT, we map the exciton bandwidth, providing insights into the polymer's aggregation and chain interactions. These results demonstrate the potential of hyperspectral imaging as a powerful tool for real-time monitoring and quality control in large-scale organic solar cell production.",
+  "authors": [
+   "Abdelouadoud Mammeri",
+   "Søren Alkærsig Jensen",
+   "Søren AR Kynde",
+   "Astrid Tranum Rømer",
+   "Raimo Korhonen",
+   "Matteo Ciambezi",
+   "Moises Espindola",
+   "Jens Wenzel Andreasen"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Abdelouadoud Mammeri",
+  "pdf_url": "http://arxiv.org/pdf/2607.24278",
+  "primary_category": "physics.optics",
+  "published": "2026-07-27",
+  "tags": [
+   "organic-photovoltaics"
+  ],
+  "title": "Hyperspectral imaging for inline quality monitoring of roll-to-roll slot-die coated organic photovoltaic active layers",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.24326": {
+  "abstract": "Phase separation phenomena occurring in complex fluids are known to be sensitive to hydrodynamic effects: when a binary fluid mixture undergoes spinodal decomposition, the emerging pattern of domains is no longer dictated by interfacial dynamics alone, but is reshaped by advection. In several applications of interest, advection effects may even cause the onset of turbulence, further affecting the segregation process on a wide range of spatial scales. Motivated by this, we propose a Cahn-Hilliard model driven by transport noise able to capture the intrinsic stochasticity of turbulence. The model is analyzed in its thermodynamically-relevant framework, namely employing a singular Flory-Huggins potential and a possibly degenerate mobility, and the noise is considered both in Ito and Stratonovich form. In this work, as a first-step investigation, we establish well-posedness of the system in two and three spatial dimensions and its thermodynamical consistency.",
+  "authors": [
+   "Andrea Di Primio",
+   "Andrea Papini",
+   "Luca Scarpa"
+  ],
+  "categories": [
+   "math.AP",
+   "math.PR"
+  ],
+  "comment": "49 pp",
+  "first_author": "Andrea Di Primio",
+  "pdf_url": "http://arxiv.org/pdf/2607.24326",
+  "primary_category": "math.AP",
+  "published": "2026-07-27",
+  "tags": [
+   "flory-huggins",
+   "phase-separation"
+  ],
+  "title": "Stochastic phase separation driven by transport noise",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.24828": {
+  "abstract": "This paper investigates the problem of optimal piecewise linear approximation of a smooth curve, in which the area of the region enclosed between the graph of the original function and the constructed interpolating polyline is minimized. This problem arises in technological processes such as laser and plasma cutting of metals, milling, additive manufacturing, and in the preparation of control programs for CNC equipment. For a quadratic parabola, the exact value of the minimum area is established, and it is shown that the optimal partition of the interval is uniform. For a cubic function, it is demonstrated that the optimal interpolation nodes are distributed non-uniformly; in the case of two internal partition points, their exact coordinates and the corresponding minimum area are obtained. The results can be applied in CAD systems for optimizing tool paths based on the criterion of minimum deviation area.",
+  "authors": [
+   "O. O. Pokutnyi",
+   "R. R. Salimov",
+   "M. V. Stefanchuk"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "O. O. Pokutnyi",
+  "pdf_url": "http://arxiv.org/pdf/2607.24828",
+  "primary_category": "math.OC",
+  "published": "2026-07-22",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Extremal problem of area approximation",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-22"
+ },
+ "2607.25009": {
+  "abstract": "This manuscript investigates the Cauchy problem for an incompressible fluid flow governed by a dual-scale hereditary memory, representing a viscoelastic variant of the classical Navier-Stokes equations that captures anomalous momentum transport. The non-local dissipation breaks exact global scale invariance, dictating a pseudo-differential analysis within the Hörmander class $S^{-2}_{1,0}$ where the spatial gradient induces a fractional temporal penalty. We rigorously establish $L^q-L^p$ decay estimates and identify the critical Lebesgue threshold $p_c = N (\\frac{1+α_\\infty}{1-α_\\infty})$. In the supercritical regime $1 < p < p_c$, we bypass the loss of spatial localization by mapping the frequency-modulated bilinear flow directly into Fourier space; by utilizing Bernstein's inequalities, we prove instantaneous norm inflation at the origin and confirm intrinsic ill-posedness. Conversely, in the topological limit $p \\to \\infty$, we demonstrate that the dual-scale memory structurally prevents the collapse traditionally observed for classical fluids within the maximal critical Besov space $\\dot{B}^{-1}_{\\infty, \\infty}$. By exploiting an asymmetric interpolation within Bony's para-differential calculus, we prove that the temporal smoothing overpowers the high-high convective resonant cascade. This delicate analytical balance confines ill-posedness to the non-separable high-frequency tail of the Besov topology, thereby establishing global-in-time Hadamard well-posedness for small initial data possessing high-frequency adherence within $\\dot{B}^{-κ}_{\\infty, \\infty}(\\mathbb{R}^N)$, a well-posedness regime strictly broader than the separable little Besov closure $\\dot{b}^{-κ}_{\\infty, \\infty}(\\mathbb{R}^N)$, where $κ= \\frac{1-α_\\infty}{1+α_\\infty}$.",
+  "authors": [
+   "Bruno de Andrade"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "28 pages",
+  "first_author": "Bruno de Andrade",
+  "pdf_url": "http://arxiv.org/pdf/2607.25009",
+  "primary_category": "math.AP",
+  "published": "2026-07-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "The Navier-Stokes equations with dual-scale hereditary viscosity: supercritical norm inflation and global well-posedness in critical spaces",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.25062": {
+  "abstract": "Trapped ions provide a high-fidelity platform for quantum information processing, yet delivery of multiple, distinct wavelengths across large networks of interaction zones remains a bottleneck. Conventional free-space light delivery lacks scalability, while on-chip grating couplers suffer from narrow operational bandwidth that increases circuit footprint and optical interfacing complexity. Here we show a broadband photonic integrated circuit capable of addressing individual ions. The circuit combines a planar waveguide lens with a micromirror fabricated using two-photon polymerization at wafer scale. This implementation can address three individual ions from $λ$ = 405 - 880 nm with -27 dB average intensity crosstalk at $5\\,μ\\mathrm{m}$ pitch. We trap $^{40}\\mathrm{Ca}^{+}$ and $^{138}\\mathrm{Ba}^{+}$ ions above such devices, characterize optical crosstalk with barium ions, and demonstrate individual repumping of calcium ions. This monolithic photonic architecture brings broadband addressing in an on-chip modality to trapped-ion technology. More generally, integrating additive manufacturing into quantum devices is poised to unlock expanded design space for implementing novel quantum architectures.",
+  "authors": [
+   "Daniel Klawson",
+   "Yiyang Zhi",
+   "Bingran You",
+   "Michael Bareian",
+   "Elijah Mossman",
+   "Chun-Yuan Fan",
+   "Arkadev Roy",
+   "Ke Sun",
+   "Jason Lee",
+   "Sung Cheol Yoon",
+   "Qiming Wu",
+   "Lai Jiang",
+   "Wenjun Ke",
+   "Weiwei Wu",
+   "Sirui Tang",
+   "Zachary Wall",
+   "Jiaxiang Wang",
+   "Louis Paul Romero",
+   "Sam Vizvary",
+   "Steven Diaz",
+   "Eric R. Hudson",
+   "Wesley C. Campbell",
+   "Hartmut Haeffner",
+   "Ming C. Wu"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.optics"
+  ],
+  "comment": "17 pages, 5 figures",
+  "first_author": "Daniel Klawson",
+  "pdf_url": "http://arxiv.org/pdf/2607.25062",
+  "primary_category": "quant-ph",
+  "published": "2026-07-27",
+  "tags": [
+   "additive-manufacturing",
+   "polymerization"
+  ],
+  "title": "A broadband, individually addressing two- and three-dimensional photonic integrated circuit for trapped-ion qubit control",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-27"
+ },
+ "2607.25267": {
+  "abstract": "We investigate a spin-degenerate Fermi gas coupled to a high-finesse optical cavity, where the competition between scalar and vectorial couplings is controlled by the relative polarization angle of the pump and cavity fields. We find that the phase transition threshold is synergistically determined by the scalar-vectorial coupling weight and Pauli blocking, with the latter dictating the critical pump lattice depth required for the onset of superradiance. For a two-component Fermi gas with opposite spins, the population ratio drives two distinct types of phase transitions corresponding to real-space phase separation: continuous and discontinuous. Nevertheless, the boundary of the phase transition remains fundamentally governed by the scalar-vectorial coupling competition. We clarify the impact of the relative polarization angle on phase transitions of the system; these results also apply to bosonic systems. Our results provide valuable theoretical insights for future experimental realizations.",
+  "authors": [
+   "Wei Qin",
+   "Yuan-Hong Chen",
+   "Renyuan Liao"
+  ],
+  "categories": [
+   "cond-mat.quant-gas",
+   "quant-ph"
+  ],
+  "comment": "6 pages, 4 figures",
+  "first_author": "Wei Qin",
+  "pdf_url": "http://arxiv.org/pdf/2607.25267",
+  "primary_category": "cond-mat.quant-gas",
+  "published": "2026-07-28",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Tuning Density and Spin Ordering of Degenerate Fermi Gases in an Optical Cavity",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.25743": {
+  "abstract": "Vacuoles have been observed in liquid droplets across variety of experimental systems, ranging from biomolecular condensates composed of proteins and RNA, to synthetic coacervates formed by charged polymers or synthetic nanostars. These vacuoles are long-lived domains depleted of droplet material, and their formation is puzzling because the associated increase in interfacial area is thermodynamically unfavorable. Using theory, we show that vacuoles form through a generic mechanism: a local spinodal instability within the droplet. We demonstrate this mechanism in several experimentally relevant scenarios, including temperature quenches and droplets coupled to chemical processes occurring either inside or outside the droplet. Using non-equilibrium thermodynamics, we develop a theoretical framework that identifies the physicochemical conditions controlling whether vacuoles form and how big vacuoles can become. Our results suggest molecular designs and chemical pathways that promote vacuolation, enabling multi-compartment formation with engineered functions such as enhanced surface catalysis and compartment fission.",
+  "authors": [
+   "Pranay Jaiswal",
+   "Ivar S. Haugerud",
+   "William Verstraeten",
+   "Kerstin Göpfrich",
+   "Job Boekhoven",
+   "Christoph A. Weber"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "16 pages, 9 figures",
+  "first_author": "Pranay Jaiswal",
+  "pdf_url": "http://arxiv.org/pdf/2607.25743",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-28",
+  "tags": [
+   "coacervates"
+  ],
+  "title": "Physical Mechanism of Vacuole Formation in Liquid Droplets",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.25767": {
+  "abstract": "Crystalline membranes hosting Dirac fermions, with graphene as the paradigmatic example, combine two low-energy sectors with sharply different dynamics: nonrelativistic flexural phonons and relativistic-like Dirac quasiparticles. We develop the low-energy field theory of this coupled system at charge neutrality and determine how this dynamical mismatch controls the coupling between the two sectors. In the long-wavelength flat phase, rotational symmetry ties the renormalization of the leading local scalar strain--density coupling to the scale-dependent bending rigidity, causing its dimensionless strength to decrease logarithmically. At the same time, flexural modes become parametrically slower than the Dirac fermions, so the resulting fermionic feedback vanishes as a power law.The flat phase is therefore stable against this perturbation. The physics changes when elastic interactions or electronic softening destabilize the membrane at a finite wavelength, selecting a ripple pattern formed by modes at $\\pm\\mathbf{Q}$. For an isolated pair of ordering wavevectors, provided that commensurability-induced phase pinning is irrelevant, the transition is governed by the bosonic Wilson--Fisher fixed point, while the Dirac fermions remain spectators. A genuinely hybrid electronic--structural critical point arises instead when symmetry permits a mass-type Dirac bilinear to share the ripple's momentum and quantum numbers, including horizontal-reflection parity. The transition is then described by the chiral-XY Gross--Neveu--Yukawa universality class. Using the known one-loop critical exponents, we characterize this transition, determine the induced secondary elastic distortion, and show that the fermionic and bosonic velocities lock in the isotropic continuum limit.",
+  "authors": [
+   "Sebastián Bahamondes",
+   "Rodrigo Soto-Garrido",
+   "Enrique Muñoz",
+   "Vladimir Juričić"
+  ],
+  "categories": [
+   "cond-mat.other",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Sebastián Bahamondes",
+  "pdf_url": "http://arxiv.org/pdf/2607.25767",
+  "primary_category": "cond-mat.other",
+  "published": "2026-07-28",
+  "tags": [
+   "membranes"
+  ],
+  "title": "Critical Ripples and Dirac Fermions in Crystalline Membranes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-28"
+ },
  "2607.25892": {
   "abstract": "We present a method for approximating real-time correlation functions and quantum transport coefficients of bosonic condensed phases. The direct evaluation of quantum real-time correlation functions in the path integral formulation is impossible due to a severe dynamical sign problem. Evaluating imaginary-time correlation functions and inverting them using analytic continuation is famously ill-posed. Ring polymer molecular dynamics (RPMD) provides an alternative approach resulting in accurate approximations for real-time correlation functions of condensed phases but neglects exchange effects. In this work, we develop a bosonic RPMD method, which is exact in the harmonic, short time, and high temperature limits. A critical enabling observation is that the Kubo-transformed correlation function for bosons is real only when the correlated observables are symmetric under exchange. We benchmark the method on harmonic and anharmonic model systems and then use it to directly obtain the Lieb-Liniger gas density-density real-time correlation functions at various temperatures and momentum transfers. This work enables the direct simulation of finite-temperature, real-time dynamics of large bosonic condensed phases using RPMD for the first time.",
   "authors": [
@@ -3353,8 +3606,267 @@
   ],
   "title": "Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics",
   "topics": [
-   "Informatics & Data Infrastructure"
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-07-28"
+ },
+ "2607.25938": {
+  "abstract": "We study the non-equilibrium dynamics of spinless fermions with dephasing noise in the framework of a many-particle Lindblad equation. Using a mapping to the exactly solvable one-dimensional Hubbard model with purely imaginary tunneling amplitude we analyze the Heisenberg-picture dynamics of operators quartic in fermions and determine their hydrodynamic projections. We construct the relevant diffusive eigenoperators explicitly and show that, in the quartic sector, they can be interpreted as interacting pairs of bilinear hydrodynamic modes. As a consequence, translationally invariant quartic operators generically exhibit non-vanishing diffusive late-time tails, unlike translationally invariant bilinears. Our results show that the hydrodynamic tails of microscopic operators cannot in general be inferred from symmetry constraints or coarse-grained fluctuating hydrodynamics alone; they also depend crucially on the spatial structure and effective size of the hydrodynamic eigenoperators.",
+  "authors": [
+   "Fabian H. L. Essler",
+   "Patrik Penc"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "quant-ph"
+  ],
+  "comment": "22 pages",
+  "first_author": "Fabian H. L. Essler",
+  "pdf_url": "http://arxiv.org/pdf/2607.25938",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-28",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Interacting hydrodynamic modes in spinless fermions with dephasing noise",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.26104": {
+  "abstract": "A person's physical characteristics such as weight and height are important indicators of his physical and mental health, daily life routines and finances. Body Mass Index (BMI) is a well known measure that encodes the characteristics of both the weight and the height. BMI has been used as a self-monitoring tool, and it has long-term implications on one's life. For example, it may help predicting the risk of various diseases and estimating longevity. Automatic BMI estimation using a single person image in the wild is a challenging task due to wide variations in human pose, camera geometry, personal appearance and distracting backgrounds. In this paper, we explore the performance of deep neural networks using single and multi-task learning by employing different modalities including RGB, depth-maps, pose-affinity maps, and edge-maps to predict BMI, weight, and height from daily life images available on social networking websites. Currently, no full body image dataset for BMI estimation is publicly available, therefore we propose a new dataset consisting of 6105 images with ground truth labels of height, weight and BMI. Our proposed dataset is collected in the wild containing images from various ethnicity and distributed over varying age groups and gender. It consists of frontal, back, full and half body, side poses, mirror selfies with varying backgrounds and scale variations and may contain artifacts hiding partial or full face. Extensive experimentation is performed using full body, half body and face images only using different CNN backbones including VGG, Densenet and ResNet. Our experimental results demonstrate that full body images have produced better results than the other half body and facial images in the wild.",
+  "authors": [
+   "Hira Yaseen",
+   "Arif Mahmood",
+   "Waqas Sultani"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.AI",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Hira Yaseen",
+  "pdf_url": "http://arxiv.org/pdf/2607.26104",
+  "primary_category": "cs.CV",
+  "published": "2026-07-28",
+  "tags": [
+   "selfies"
+  ],
+  "title": "Weight and Height Estimation from a Single Human Image Captured in the Wild",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.26289": {
+  "abstract": "Dipolar magnetic skyrmions can assemble into chains with alternating helicity that act as one-dimensional polymers, yet their statistical mechanics violates the universal harmonic scaling observed in actin, DNA, and microtubules. From first principles, we compute the inter-skyrmion pair potential and find a bi-exponential form of competing interactions with two characteristic decay lengths that encode the distinct microscopic mechanisms of repulsion and attraction. Multiscale simulations reveal a power-law temperature dependence with exponent $1$ in the worm-chain limit of a single bond, and exponent $1/2$ in the three-bond limit. We find that the power-law behavior is remarkably independent of magnetic field strength, and the crossover is due to competing radial interactions responsible for the bonds, resulting in a quartic transverse confinement. We show that the precise form of the competing interactions (e.g., Morse or double-Yukawa) does not affect the temperature dependence.",
+  "authors": [
+   "R. L. Silva",
+   "R. C. Silva",
+   "R. L. Stamps"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mes-hall",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "12 pages, 4 figures",
+  "first_author": "R. L. Silva",
+  "pdf_url": "http://arxiv.org/pdf/2607.26289",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-07-28",
+  "tags": [],
+  "title": "Scale-dependent universality class crossover in magnetic skyrmion polymers",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.26331": {
+  "abstract": "We construct quantum Turing patterns in Lindblad lattice dynamics and establish a rigorous theory of their nonlinear order and quantum fluctuations. For an explicit completely positive family with finite-range couplings, the first-moment equations undergo a supercritical instability at a nonzero wave number and admit analytic site- and bond-centered commensurate stripe branches. These branches are locally asymptotically stable in their reflection-fixed period-cell spaces, and projected coherent states exhibit extensive Bragg order on every bounded time interval in the semiclassical limit. We prove $O(N^{-1/2})$ convergence of microscopic covariances to a nonautonomous Gaussian Lyapunov flow, transferring strict partial-transpose uncertainty violations to sufficiently large $N$. In the homogeneous Gaussian sector, a single dimensionless ratio controls both the Turing stability determinant and the logarithmic negativity of opposite momenta, relating wavelength selection directly to quantum entanglement. Differential transport shifts the strongest opposite-momentum correlations from the infrared to the selected Turing scale. Numerical continuation and two-dimensional simulations display stripe, spot, and labyrinth morphologies whose Fourier modes and fluctuation spectra concentrate at the same selected wave numbers.",
+  "authors": [
+   "Kazuki Ikeda"
+  ],
+  "categories": [
+   "math-ph",
+   "cond-mat.stat-mech",
+   "math.AP",
+   "nlin.PS",
+   "quant-ph"
+  ],
+  "comment": "Code, data and Lean 4 formalization are available in https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern",
+  "first_author": "Kazuki Ikeda",
+  "pdf_url": "http://arxiv.org/pdf/2607.26331",
+  "primary_category": "math-ph",
+  "published": "2026-07-28",
+  "tags": [],
+  "title": "Quantum Turing Patterns",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-28"
+ },
+ "2607.26610": {
+  "abstract": "Additive manufacturing of glass inherently involves complex thermal histories characterized by extreme heating and rapid cooling rates. These extreme conditions directly govern the final microstructure and mechanical integrity of the printed material. This work presents a comprehensive multi-physics material model derived from the extended Hamilton principle, establishing a unified variational framework for coupled thermal, mechanical, and phase transformation processes at finite strains. The formulation integrates a rigorous thermodynamic description of first-order melting and second-order glass transitions with a kinematic split accounting for thermal expansion, phase specific density changes, and viscoelastic deformation. A temperature dependent viscosity model is employed to capture the kinetic freezing of the microstructure inherent to vitrification. The numerical implementation utilizes a monolithic Neighbored Element Method (NEM) for the solution of the heat equation, ensuring computational efficiency and stability. Numerical investigations at the material point level validate the models ability to reproduce Time-Temperature-Transformation (TTT) behavior under varying cooling rates. Furthermore, three dimensional Finite Element simulations in ANSYS of a laser-based deposition process demonstrate the accumulation of residual stresses and macroscopic warpage resulting from the interplay between phase transformation kinetics and viscous relaxation.",
+  "authors": [
+   "Tobias Rudolf",
+   "Meisam Soleimani",
+   "Philipp Junker"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Tobias Rudolf",
+  "pdf_url": "http://arxiv.org/pdf/2607.26610",
+  "primary_category": "cs.CE",
+  "published": "2026-07-29",
+  "tags": [
+   "additive-manufacturing",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "First- and Second-Order Phase Transformation Modeling Based on the Hamilton Principle: A Coupled Thermo-Mechanical Approach for Glass Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26793": {
+  "abstract": "The replicated liquid theory provides a microscopic mean-field description of the glass transition by combining the density functional theory of liquids with the replica method originally developed for spin glasses. In the conventional replica liquid theory, a glassy state is described by assuming that particles in different replicas undergo vibrational motion around common centers of mass, thereby forming molecules that contain one particle from every replica. Here we revisit this assumption by allowing each molecule to contain only a subset of replicas. This generalized formulation describes particle-level replica mismatches, which may be associated with non-vibrational motions such as particle hopping. We apply the theory to high-dimensional hard and harmonic spheres, where the mean-field description is expected to become exact. For hard spheres, replica mismatches destabilize the glassy metastable state and shift the dynamical transition to a significantly higher packing fraction, while leaving the leading thermodynamic glass transition unchanged. The resulting transition density agrees, at leading order in high dimensions, with the recent rigorous lower bound for random sphere packings obtained by Campos, Jenssen, Michelen, and Sahasrabudhe by using a discretized version of greedy Random Sequential Absorption, suggesting an algorithmic interpretation of the transition: grandcanonical dynamics is more efficient in high dimensional spaces than canonical one. For harmonic spheres at finite temperature, the glassy state contains a finite replica-mismatch fraction even at the thermodynamic ideal-glass transition, thereby shifting the transition point from that predicted by the conventional replica ansatz.",
+  "authors": [
+   "Harukuni Ikeda",
+   "Francesco Zamponi"
+  ],
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "27 pages, 6 figures",
+  "first_author": "Harukuni Ikeda",
+  "pdf_url": "http://arxiv.org/pdf/2607.26793",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-07-29",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "High-dimensional theory of the glass transition revisited: hopping and local defects",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26882": {
+  "abstract": "Thin-shell wormholes built from effective black hole geometries are sensitive not only to the lapse function but also to the choice of areal radius. We construct a reflection-symmetric thin-shell wormhole from the positive-lapse sector of a polymer black hole surrounded by Kiselev-type quintessence and keep the nonareal angular function throughout the junction, stability, thermodynamic, and optical analyses. The Israel junction conditions give a negative surface energy density for every static throat on the positive branch, while the tangential null and intrinsic strong energy combinations are controlled by the local lapse slope. The radial dynamics is written as an effective-potential problem in which the nonareal sector produces a momentum-flux term and modifies the local stability criterion for surface equations of state with explicit radius dependence. For the sampled calibrated configurations, the linear barotropic and variable phantomlike closures remain locally unstable, whereas the variable Chaplygin gas admits finite linear radial stability windows. The same geometric correction also modifies the local first-law balance and shell entropy bookkeeping, while the optical analysis shows that cross-throat propagation generates additional inner image branches despite the wormhole and black hole geometries sharing the same exterior critical curve. These results identify how polymer corrections and a quintessence environment jointly reorganize the matter content, radial response, thermodynamic bookkeeping, and optical appearance of the resulting thin-shell wormhole.",
+  "authors": [
+   "Jonathan A. Rebouças",
+   "Edson Otoniel",
+   "M. C. Araújo",
+   "J. Furtado",
+   "Celio R. Muniz"
+  ],
+  "categories": [
+   "gr-qc"
+  ],
+  "comment": null,
+  "first_author": "Jonathan A. Rebouças",
+  "pdf_url": "http://arxiv.org/pdf/2607.26882",
+  "primary_category": "gr-qc",
+  "published": "2026-07-29",
+  "tags": [],
+  "title": "Junction Conditions, Radial Stability, Thermodynamics, Optical Geometry and Appearance of Polymer-Quintessence Thin-Shell Wormholes",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26920": {
+  "abstract": "Universal scaling in phase separation is typically assumed to be isotropic in systems with conserved dynamics. Here we show that boundary forcing alone can break this dynamical scaling symmetry, leading to anisotropic coarsening, with different effective global growth laws observed parallel and perpendicular to the boundary. We consider a ternary mixture with two conserved components and a passive species undergoing surface evaporation, which provides a simple setting to investigate this effect. In this case, evaporation leads to a progressive mass loss and to the formation of macroscopic concentration gradients, which, in turn, drive anisotropic coarsening, with different effective growth laws observed parallel and perpendicular to the boundary. At the same time, bulk regions appear to retain the standard Model B scaling, suggesting that the observed anisotropy is mainly induced by boundary fluxes rather than by changes in the intrinsic dynamics. Our results indicate that boundary conditions can play an important role in breaking scaling symmetry and may offer a way to influence coarsening behavior in nonequilibrium phase separation.",
+  "authors": [
+   "Emilio N. M. Cirillo",
+   "Nicklas Jävergård",
+   "Adrian Muntean",
+   "Stela Andrea Muntean"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Emilio N. M. Cirillo",
+  "pdf_url": "http://arxiv.org/pdf/2607.26920",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-07-29",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.26992": {
+  "abstract": "Although dense sphere packings serve as the initial state for simulations in powder metallurgy, additive manufacturing and granular physics, the choice of a packing generator is rarely guided by a systematic benchmark. A representative packing must be (i)-(ii) physically admissible (non-overlapping particles in gravitational equilibrium); (iii) faithful to the target particle size distribution (PSD); (iv) representative in relative density Phi; and (v) computationally affordable. Four open-source tools have been benchmarked, meeting (i)-(ii) by construction: the sequential DR (dropping-and-rolling) and its densified variant DR-ME, and the discrete element method (DEM) codes LAMMPS (gravity) and dp3D (isostatic compression). Across four configurations (2D/3D lognormal, 3D bimodal, and a 3D domain-size study), they are compared against an industrial MIM-grade powder, with PSD fidelity measured by the bin-width-independent Hellinger distance and Phi against the feedstock solid loading (phi_exp = 0.62, by Archimedes' method). In 3D, the DEM codes reach the densest packings but run more than three orders of magnitude slower: for approximatively 20 000 particles, DR shows a 9% phi shortfall relative to dp3D while running 1800x faster. These idealised model packings yield application-driven tool-selection guidelines.",
+  "authors": [
+   "Antoine Tainturier",
+   "Louis Lemarquis",
+   "Victor Szczepan",
+   "Marc Bernacki"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Antoine Tainturier",
+  "pdf_url": "http://arxiv.org/pdf/2607.26992",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "additive-manufacturing",
+   "benchmarking"
+  ],
+  "title": "Generation of representative powder particle packing in 2D/3D: which tool for which application?",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-07-29"
+ },
+ "2607.27108": {
+  "abstract": "Precipitation-strengthened Cu-Ni-Al alloys are of interest for technological applications because coherent, $\\mathrm{L}1_2$-ordered $γ'$-$\\mathrm{Ni}_3\\mathrm{Al}$ precipitates can confer high mechanical strength while allowing the material to retain many of the good transport properties characteristic of elemental Cu. In this work, we study the thermodynamics and phase stability of the pseudobinary $\\textrm{Cu}_x (\\textrm{Ni}_{3/4} \\textrm{Al}_{1/4})_{1-x}$ system, $0 \\leq x \\leq 1$. We use a computational modelling framework combining first-principles electronic structure calculations with a concentration wave analysis from which atom-atom effective pair interactions are extracted for use in atomistic Monte Carlo simulations. Our modelling reveals three distinct, composition-dependent regimes of phase behaviour, in qualitative agreement with the experimentally determined phase diagram. At low Cu content, Cu is soluble in the $\\mathrm{L}1_2$-ordered $\\mathrm{Ni}_3\\mathrm{Al}$ phase, with a single identifiable phase transition corresponding to chemical ordering between Ni and Al. At intermediate compositions, this high-temperature ordering is followed at lower temperatures by phase separation of Cu and $\\mathrm{L}1_2$-ordered $\\mathrm{Ni}_3\\mathrm{Al}$. Finally, at high Cu content, $\\mathrm{L}1_2$-ordered $\\mathrm{Ni}_3\\mathrm{Al}$ precipitates directly from the solid solution, with no clearly identifiable secondary transition. We relate these phase transformations to features of the underlying electronic structures of the considered alloys. Overall, this work demonstrates a computationally efficient workflow capturing both chemical ordering and coherent precipitation in multicomponent substitutional alloys, with relevance to the study of phenomena such as precipitation strengthening.",
+  "authors": [
+   "Christopher D. Woodgate",
+   "Hubert J. Naguszewski",
+   "Samuel L. Deacon",
+   "Mathys P. Potel",
+   "Ján Minár",
+   "David Quigley",
+   "Julie B. Staunton"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": "19 pages, 10 figures",
+  "first_author": "Christopher D. Woodgate",
+  "pdf_url": "http://arxiv.org/pdf/2607.27108",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-07-29",
+  "tags": [
+   "monte-carlo",
+   "phase-separation"
+  ],
+  "title": "Formation of $\\mathrm{L}1_2$-ordered $γ'$-$\\mathrm{Ni}_3\\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-07-29"
  }
 }

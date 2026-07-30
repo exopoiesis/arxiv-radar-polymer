@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div></td>
+<td>Emilio N. M. Cirillo et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26920">2607.26920</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27108.html">Formation of $\mathrm{L}1_2$-ordered $γ&#x27;$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Christopher D. Woodgate et al.</td>
+<td><a href="http://arxiv.org/abs/2607.27108">2607.27108</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25267.html">Tuning Density and Spin Ordering of Degenerate Fermi Gases in an Optical Cavity</a></div></td>
+<td>Wei Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2607.25267">2607.25267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-07-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.24326.html">Stochastic phase separation driven by transport noise</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
+<td>Andrea Di Primio et al.</td>
+<td><a href="http://arxiv.org/abs/2607.24326">2607.24326</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23259.html">Microphase Separation in Quorum-Sensing Active Particles with Competing Interactions</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
@@ -116,11 +140,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03557.html">CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty</a></div></td>
 <td>Mingrui Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03557">2607.03557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30176.html">Trimers in the Extended Hubbard Model</a></div></td>
-<td>R. R. Montenegro-Filho et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30176">2606.30176</a></td>
 </tr>
 </tbody></table>

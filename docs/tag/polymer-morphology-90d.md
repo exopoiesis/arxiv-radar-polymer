@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-07-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26610.html">First- and Second-Order Phase Transformation Modeling Based on the Hamilton Principle: A Coupled Thermo-Mechanical Approach for Glass Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Tobias Rudolf et al.</td>
+<td><a href="http://arxiv.org/abs/2607.26610">2607.26610</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20066.html">Kinetically-Arrested Phase Separation leads to Tunable Domain Structures in Vapor-Deposited Glasses</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>A T M Mahbub Alahe et al.</td>
@@ -308,11 +314,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01087.html">Non-Equilibrium Thermodynamic Extremal Principles During Filament Formation in ECM Memristors</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Justin Brutger et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01087">2605.01087</a></td>
-</tr>
-<tr class="paper">
-<td>2026-04-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27726.html">Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
-<td>Ilya Olevsko et al.</td>
-<td><a href="http://arxiv.org/abs/2604.27726">2604.27726</a></td>
 </tr>
 </tbody></table>
