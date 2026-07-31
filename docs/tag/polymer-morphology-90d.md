@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01470.html">Colloidal layer deposition with a controllable number of layers and compositional order</a></div></td>
 <td>Akshaya Kumar Jena et al.</td>
 <td><a href="http://arxiv.org/abs/2605.01470">2605.01470</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.00732.html">Reconstruction of spin structures from topological charge distributions via generative neural network systems</a></div></td>
-<td>Kyra H. M. Klos et al.</td>
-<td><a href="http://arxiv.org/abs/2605.00732">2605.00732</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.01087.html">Non-Equilibrium Thermodynamic Extremal Principles During Filament Formation in ECM Memristors</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Justin Brutger et al.</td>
-<td><a href="http://arxiv.org/abs/2605.01087">2605.01087</a></td>
 </tr>
 </tbody></table>

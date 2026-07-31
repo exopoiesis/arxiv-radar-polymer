@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1220,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04674.html">Diffusion in a $d$-dimensional rough potential</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Jacob Jeffries et al.</td>
 <td><a href="http://arxiv.org/abs/2508.04674">2508.04674</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18399.html">From Champagne to Confined Polymer:Natural and Artificial Bubble Nucleation</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Carlos Arauz-Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18399">2502.18399</a></td>
 </tr>
 </tbody></table>

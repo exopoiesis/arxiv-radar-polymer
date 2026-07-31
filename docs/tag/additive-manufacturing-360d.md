@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03957.html">Space Environment and Debris: A Review of Micro-Meteoroids and Orbital Debris Impact Protection</a></div></td>
 <td>Binkal Kumar Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03957">2508.03957</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02847.html">Integrating Machine Learning with Multimodal Monitoring System Utilizing Acoustic and Vision Sensing to Evaluate Geometric Variations in Laser Directed Energy Deposition</a></div></td>
-<td>Ke Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02847">2508.02847</a></td>
 </tr>
 </tbody></table>

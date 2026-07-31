@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">472 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2846,11 +2846,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03362.html">The coherent structures of EVP Fluid Flow Past a Circular Cylinder</a></div></td>
 <td>Adrián Corrochano et al.</td>
 <td><a href="http://arxiv.org/abs/2508.03362">2508.03362</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.18399.html">From Champagne to Confined Polymer:Natural and Artificial Bubble Nucleation</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Carlos Arauz-Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2502.18399">2502.18399</a></td>
 </tr>
 </tbody></table>
