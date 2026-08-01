@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>nanocomposites — all</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <a href="nanocomposites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,23 +500,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10915.html">Development of nanocomposite scintillators for use in high-energy physics</a></div></td>
 <td>A. Antonelli et al.</td>
 <td><a href="http://arxiv.org/abs/2407.10915">2407.10915</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13325.html">Advances in perovskite nanocrystals and nanocomposites for scintillation applications</a></div></td>
-<td>Abhinav Anand et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13325">2406.13325</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13085.html">Ultralow thermal conductance across the [FePt/h-BN/FePt] interface</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>chengchao Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13085">2406.13085</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03958.html">Haptic in-sensor computing device made of carbon nanotube-polydimethylsiloxane nanocomposites</a></div></td>
-<td>Kouki Kimizuka et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03958">2406.03958</a></td>
 </tr>
 </tbody></table>

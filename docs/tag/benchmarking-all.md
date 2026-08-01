@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>benchmarking — all</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,17 +1172,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04839.html">Bayesian Analysis Reveals the Key to Extracting Pair Potentials from Neutron Scattering Data</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
 <td>Brennon L. Shanks et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04839">2407.04839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18366.html">Room temperature detection of the (H2)2 dimer</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>H. Fleurbaey et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18366">2407.18366</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19145.html">Local and Global Dynamics of a Functionally Graded Dielectric Elastomer Plate</a></div></td>
-<td>Amin Alibakhshi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19145">2406.19145</a></td>
 </tr>
 </tbody></table>

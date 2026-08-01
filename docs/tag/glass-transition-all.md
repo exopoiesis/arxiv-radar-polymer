@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,35 +896,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13272.html">Thermal modification of ZrCu metallic glass nanolaminates: Structure and mechanical properties</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Andrea Brognara et al.</td>
 <td><a href="http://arxiv.org/abs/2407.13272">2407.13272</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.20018.html">Learning glass transition temperatures via dimensionality reduction with data from computer simulations: Polymers as the pilot case</a></div></td>
-<td>Artem Glova et al.</td>
-<td><a href="http://arxiv.org/abs/2406.20018">2406.20018</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="composites-all.html">composites</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Ankit Patidar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03469.html">Unifying atoms and colloids near the glass transition through bond-order topology</a></div></td>
-<td>Laura Stricker et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03469">2406.03469</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02113.html">Timescale bridging in atomistic simulations of epoxy polymer mechanics using non-affine deformation theory</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Vinay Vaibhav et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02113">2406.02113</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01165.html">Evaluating the potential of thermoplastic polymers for cryogenic sealing applications: strain rate and temperature effects</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Zhenzhou Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01165">2406.01165</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>membranes — all</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,23 +518,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04319.html">Singular viscoelastic perturbation to soft lubrication</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Bharti Bharti et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04319">2407.04319</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13561.html">Shape and Size Tunability of Sheets of Interlocked Ring Copolymers</a></div></td>
-<td>Juan Luengo-Márquez et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13561">2406.13561</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13590.html">Chirality Effects in Molecular Chainmail</a></div></td>
-<td>Alexander R. Klotz et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13590">2406.13590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06190.html">Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a></div></td>
-<td>Malak Alaa Eddine et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06190">2406.06190</a></td>
 </tr>
 </tbody></table>

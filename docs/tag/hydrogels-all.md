@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogels — all</h1>
-  <span class="paper-count">172 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,35 +1016,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07819.html">Friction through molecular adsorption at the sliding interface of hydrogels: Theory and experiments</a></div></td>
 <td>Lola Ciapa et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07819">2407.07819</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16353.html">Micropores can enhance intrinsic fracture energy of hydrogels</a></div></td>
-<td>Puyu Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16353">2406.16353</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06190.html">Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="membranes-all.html">membranes</a></div></td>
-<td>Malak Alaa Eddine et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06190">2406.06190</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04970.html">Programmable Multi-responsive Nanocellulose-based Hydrogels with Embodied Logic</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Beatriz Arsuffi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04970">2406.04970</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04453.html">Rheological properties of acid-induced carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Gauthier Legrand et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04453">2406.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00297.html">Application and prospect of hydrogels in diabetic wound treatment</a></div></td>
-<td>Jiayi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00297">2406.00297</a></td>
 </tr>
 </tbody></table>

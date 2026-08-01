@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3645 papers across 26 months.
+**Total corpus:** 3555 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -17,12 +17,11 @@
     <li><a href=#sustainability--functional-applications>Sustainability & Functional Applications</a> (50)</li>
     <li><a href=#conducting-responsive--compartment-polymers>Conducting, Responsive & Compartment Polymers</a> (50)</li>
     <li><a href=#informatics--data-infrastructure>Informatics & Data Infrastructure</a> (50)</li>
-    <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (22)</li>
-    <li><a href=#viaauthor-whitelistpolymer-ml-materials-informatics>via:author-whitelist:polymer ML, materials informatics</a> (10)</li>
-    <li><a href=#viaauthor-whitelistpolymer-smiles-bigsmiles>via:author-whitelist:polymer SMILES, BigSMILES</a> (1)</li>
     <li><a href=#viaauthor-whitelistpolymer-md-coarse-graining>via:author-whitelist:polymer MD, coarse-graining</a> (1)</li>
     <li><a href=#viaauthor-whitelistpolymer-dynamics-glass-transition>via:author-whitelist:polymer dynamics, glass transition</a> (5)</li>
     <li><a href=#viaauthor-whitelistsoft-matter-active-matter>via:author-whitelist:soft matter, active matter</a> (9)</li>
+    <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (19)</li>
+    <li><a href=#viaauthor-whitelistpolymer-ml-materials-informatics>via:author-whitelist:polymer ML, materials informatics</a> (9)</li>
     <li><a href=#viaauthor-whitelistpolymer-thermodynamics>via:author-whitelist:polymer thermodynamics</a> (2)</li>
     <li><a href=#viaauthor-whitelistpolymer-property-prediction>via:author-whitelist:polymer property prediction</a> (5)</li>
     <li><a href=#viaauthor-whitelistpolymer-composites-ml-for-materials>via:author-whitelist:polymer composites, ML for materials</a> (7)</li>
@@ -575,60 +574,6 @@
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 
-## via:author-whitelist:polymer informatics, Polymer Genome
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et al.|[2602.16650](http://arxiv.org/abs/2602.16650)|[md](abstracts/2602.16650.md)|
-|**2026-01-26**|**Accelerated design of proton exchange membranes for green hydrogen production with artificial intelligence**|Huan Tran et al.|[2601.18914](http://arxiv.org/abs/2601.18914)|[md](abstracts/2601.18914.md)|
-|**2026-01-23**|**Magnetic threads and gravity: ALMA Observations of IRDC G14.225-0.506**|Nacho Añez-López et al.|[2601.16810](http://arxiv.org/abs/2601.16810)|[md](abstracts/2601.16810.md)|
-|**2026-01-23**|**On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations**|Ashutosh Srivastava et al.|[2601.17137](http://arxiv.org/abs/2601.17137)|[md](abstracts/2601.17137.md)|
-|**2025-12-02**|**Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations**|Saurabh et al.|[2512.08970](http://arxiv.org/abs/2512.08970)|[md](abstracts/2512.08970.md)|
-|**2025-12-01**|**polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer**|Sakshi Agarwal et al.|[2512.05138](http://arxiv.org/abs/2512.05138)|[md](abstracts/2512.05138.md)|
-|**2025-11-03**|**AI-assisted design of chemically recyclable polymers for food packaging**|Brandon K. Phan et al.|[2511.04704](http://arxiv.org/abs/2511.04704)|[md](abstracts/2511.04704.md)|
-|**2025-10-31**|**AI-Driven Design of poly(ethylene terephthalate)-replacement copolymers**|Chiho Kim et al.|[2511.04695](http://arxiv.org/abs/2511.04695)|[md](abstracts/2511.04695.md)|
-|**2025-10-21**|**An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design**|Harikrishna Sahu et al.|[2510.18860](http://arxiv.org/abs/2510.18860)|[md](abstracts/2510.18860.md)|
-|**2025-10-17**|**polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design**|Anagha Savit et al.|[2506.04233](http://arxiv.org/abs/2506.04233)|[md](abstracts/2506.04233.md)|
-|**2025-10-14**|**AI-Assisted Physics-Informed Predictions of Degradation Behavior of Polymeric Anion Exchange Membranes**|William Schertzer et al.|[2510.12655](http://arxiv.org/abs/2510.12655)|[md](abstracts/2510.12655.md)|
-|**2025-06-11**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et al.|[2504.17656](http://arxiv.org/abs/2504.17656)|[md](abstracts/2504.17656.md)|
-|**2025-06-02**|**Benchmarking Large Language Models for Polymer Property Predictions**|Sonakshi Gupta et al.|[2506.02129](http://arxiv.org/abs/2506.02129)|[md](abstracts/2506.02129.md)|
-|**2025-01-09**|**A multi-frequency study of sub-parsec jets with the Event Horizon Telescope**|Jan Röder et al.|[2501.05518](http://arxiv.org/abs/2501.05518)|[md](abstracts/2501.05518.md)|
-|**2024-12-23**|**A Tale of Three: Magnetic Fields along the Orion Integral-Shaped Filament as Revealed by JCMT BISTRO survey**|Jintai Wu et al.|[2412.17716](http://arxiv.org/abs/2412.17716)|[md](abstracts/2412.17716.md)|
-|**2024-12-11**|**Polymer Composites Informatics for Flammability, Thermal, Mechanical and Electrical Property Predictions**|Huan Tran et al.|[2412.08407](http://arxiv.org/abs/2412.08407)|[md](abstracts/2412.08407.md)|
-|**2024-11-15**|**DECaPS and SMA discovery of a highly-inclined class I YSO with an outflow: IRAS 08235-4316**|Joshua Bennett Lovell et al.|[2411.10518](http://arxiv.org/abs/2411.10518)|[md](abstracts/2411.10518.md)|
-|**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
-|**2024-09-08**|**A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity**|Ayush Jain et al.|[2409.05240](http://arxiv.org/abs/2409.05240)|[md](abstracts/2409.05240.md)|
-|**2024-06-22**|**Accelerating materials discovery for polymer solar cells: Data-driven insights enabled by natural language processing**|Pranav Shetty et al.|[2402.19462](http://arxiv.org/abs/2402.19462)|[md](abstracts/2402.19462.md)|
-|**2024-06-21**|**Gas permeability, diffusivity, and solubility in polymers: Simulation-experiment data fusion and multi-task machine learning**|Brandon K. Phan et al.|[2406.14809](http://arxiv.org/abs/2406.14809)|[md](abstracts/2406.14809.md)|
-|**2024-06-18**|**Magnetic field in mini starburst complex Sgr B2**|Xing Pan et al.|[2406.11800](http://arxiv.org/abs/2406.11800)|[md](abstracts/2406.11800.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:polymer ML, materials informatics
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-10-28**|**Breaking Ion Clusters: Size Asymmetry for Faster Ion Transport in Polymer Electrolytes**|Ganesh K Rajahmundry et al.|[2510.24580](http://arxiv.org/abs/2510.24580)|[md](abstracts/2510.24580.md)|
-|**2025-09-07**|**Packing, Phase Separation and Interface Compatibility in Reversibly Crosslinked Polymers**|Abhishek S. Chankapure et al.|[2509.05969](http://arxiv.org/abs/2509.05969)|[md](abstracts/2509.05969.md)|
-|**2025-08-08**|**Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water**|Sandeep Parma et al.|[2508.16591](http://arxiv.org/abs/2508.16591)|[md](abstracts/2508.16591.md)|
-|**2025-07-23**|**Molecular Mechanisms of Polymer Crosslinking via Thermal Activation**|Javed Akhtar et al.|[2507.21143](http://arxiv.org/abs/2507.21143)|[md](abstracts/2507.21143.md)|
-|**2025-06-26**|**Microphase Separation Controls the Dynamics of Associative Vitrimers**|Rahul Karmakar et al.|[2506.21066](http://arxiv.org/abs/2506.21066)|[md](abstracts/2506.21066.md)|
-|**2025-03-07**|**Thickening of liquids using copolymer grafted nanoparticles**|Prama Adhya et al.|[2503.05230](http://arxiv.org/abs/2503.05230)|[md](abstracts/2503.05230.md)|
-|**2025-02-27**|**Rouse Mode Analysis of Chain Relaxation in Reversibly Crosslinked Polymer Melts**|Rahul Karmakar et al.|[2503.09609](http://arxiv.org/abs/2503.09609)|[md](abstracts/2503.09609.md)|
-|**2025-02-24**|**An Explainable AI Model for Binary LJ Fluids**|Israrul H Hashmi et al.|[2502.17357](http://arxiv.org/abs/2502.17357)|[md](abstracts/2502.17357.md)|
-|**2024-09-15**|**Extrapolative ML Models for Copolymers**|Israrul H. Hashmi et al.|[2409.09691](http://arxiv.org/abs/2409.09691)|[md](abstracts/2409.09691.md)|
-|**2024-06-01**|**Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes**|Ganesh K Rajahmundry et al.|[2406.00270](http://arxiv.org/abs/2406.00270)|[md](abstracts/2406.00270.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
-## via:author-whitelist:polymer SMILES, BigSMILES
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2024-06-25**|**Quantification of Cyclic Topology in Polymer Networks Using 3D Nets**|Devosmita Sen et al.|[2406.17883](http://arxiv.org/abs/2406.17883)|[md](abstracts/2406.17883.md)|
-
-<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
-
 ## via:author-whitelist:polymer MD, coarse-graining
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -662,6 +607,48 @@
 |**2025-03-14**|**Hamiltonian Heat Baths, Coarse-Graining and Irreversibility: A Microscopic Dynamical Entropy from Classical Mechanics**|Mingnan Ding et al.|[2503.11334](http://arxiv.org/abs/2503.11334)|[md](abstracts/2503.11334.md)|
 |**2024-10-24**|**Statistical properties of microphase and bubbly phase-separated active fluids**|Giordano Fausti et al.|[2410.18770](http://arxiv.org/abs/2410.18770)|[md](abstracts/2410.18770.md)|
 |**2024-09-10**|**Hyperuniformity in phase ordering: the roles of activity, noise, and non-constant mobility**|Filippo De Luca et al.|[2405.00508](http://arxiv.org/abs/2405.00508)|[md](abstracts/2405.00508.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
+## via:author-whitelist:polymer informatics, Polymer Genome
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-02-18**|**Retrieval Augmented Generation of Literature-derived Polymer Knowledge: The Example of a Biodegradable Polymer Expert System**|Sonakshi Gupta et al.|[2602.16650](http://arxiv.org/abs/2602.16650)|[md](abstracts/2602.16650.md)|
+|**2026-01-26**|**Accelerated design of proton exchange membranes for green hydrogen production with artificial intelligence**|Huan Tran et al.|[2601.18914](http://arxiv.org/abs/2601.18914)|[md](abstracts/2601.18914.md)|
+|**2026-01-23**|**Magnetic threads and gravity: ALMA Observations of IRDC G14.225-0.506**|Nacho Añez-López et al.|[2601.16810](http://arxiv.org/abs/2601.16810)|[md](abstracts/2601.16810.md)|
+|**2026-01-23**|**On-the-Fly Machine-Learned Force Fields for High-Fidelity Polymer Glass Transition Simulations**|Ashutosh Srivastava et al.|[2601.17137](http://arxiv.org/abs/2601.17137)|[md](abstracts/2601.17137.md)|
+|**2025-12-02**|**Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations**|Saurabh et al.|[2512.08970](http://arxiv.org/abs/2512.08970)|[md](abstracts/2512.08970.md)|
+|**2025-12-01**|**polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer**|Sakshi Agarwal et al.|[2512.05138](http://arxiv.org/abs/2512.05138)|[md](abstracts/2512.05138.md)|
+|**2025-11-03**|**AI-assisted design of chemically recyclable polymers for food packaging**|Brandon K. Phan et al.|[2511.04704](http://arxiv.org/abs/2511.04704)|[md](abstracts/2511.04704.md)|
+|**2025-10-31**|**AI-Driven Design of poly(ethylene terephthalate)-replacement copolymers**|Chiho Kim et al.|[2511.04695](http://arxiv.org/abs/2511.04695)|[md](abstracts/2511.04695.md)|
+|**2025-10-21**|**An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design**|Harikrishna Sahu et al.|[2510.18860](http://arxiv.org/abs/2510.18860)|[md](abstracts/2510.18860.md)|
+|**2025-10-17**|**polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design**|Anagha Savit et al.|[2506.04233](http://arxiv.org/abs/2506.04233)|[md](abstracts/2506.04233.md)|
+|**2025-10-14**|**AI-Assisted Physics-Informed Predictions of Degradation Behavior of Polymeric Anion Exchange Membranes**|William Schertzer et al.|[2510.12655](http://arxiv.org/abs/2510.12655)|[md](abstracts/2510.12655.md)|
+|**2025-06-11**|**polyGen: A Learning Framework for Atomic-level Polymer Structure Generation**|Ayush Jain et al.|[2504.17656](http://arxiv.org/abs/2504.17656)|[md](abstracts/2504.17656.md)|
+|**2025-06-02**|**Benchmarking Large Language Models for Polymer Property Predictions**|Sonakshi Gupta et al.|[2506.02129](http://arxiv.org/abs/2506.02129)|[md](abstracts/2506.02129.md)|
+|**2025-01-09**|**A multi-frequency study of sub-parsec jets with the Event Horizon Telescope**|Jan Röder et al.|[2501.05518](http://arxiv.org/abs/2501.05518)|[md](abstracts/2501.05518.md)|
+|**2024-12-23**|**A Tale of Three: Magnetic Fields along the Orion Integral-Shaped Filament as Revealed by JCMT BISTRO survey**|Jintai Wu et al.|[2412.17716](http://arxiv.org/abs/2412.17716)|[md](abstracts/2412.17716.md)|
+|**2024-12-11**|**Polymer Composites Informatics for Flammability, Thermal, Mechanical and Electrical Property Predictions**|Huan Tran et al.|[2412.08407](http://arxiv.org/abs/2412.08407)|[md](abstracts/2412.08407.md)|
+|**2024-11-15**|**DECaPS and SMA discovery of a highly-inclined class I YSO with an outflow: IRAS 08235-4316**|Joshua Bennett Lovell et al.|[2411.10518](http://arxiv.org/abs/2411.10518)|[md](abstracts/2411.10518.md)|
+|**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
+|**2024-09-08**|**A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity**|Ayush Jain et al.|[2409.05240](http://arxiv.org/abs/2409.05240)|[md](abstracts/2409.05240.md)|
+
+<p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
+
+## via:author-whitelist:polymer ML, materials informatics
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-10-28**|**Breaking Ion Clusters: Size Asymmetry for Faster Ion Transport in Polymer Electrolytes**|Ganesh K Rajahmundry et al.|[2510.24580](http://arxiv.org/abs/2510.24580)|[md](abstracts/2510.24580.md)|
+|**2025-09-07**|**Packing, Phase Separation and Interface Compatibility in Reversibly Crosslinked Polymers**|Abhishek S. Chankapure et al.|[2509.05969](http://arxiv.org/abs/2509.05969)|[md](abstracts/2509.05969.md)|
+|**2025-08-08**|**Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water**|Sandeep Parma et al.|[2508.16591](http://arxiv.org/abs/2508.16591)|[md](abstracts/2508.16591.md)|
+|**2025-07-23**|**Molecular Mechanisms of Polymer Crosslinking via Thermal Activation**|Javed Akhtar et al.|[2507.21143](http://arxiv.org/abs/2507.21143)|[md](abstracts/2507.21143.md)|
+|**2025-06-26**|**Microphase Separation Controls the Dynamics of Associative Vitrimers**|Rahul Karmakar et al.|[2506.21066](http://arxiv.org/abs/2506.21066)|[md](abstracts/2506.21066.md)|
+|**2025-03-07**|**Thickening of liquids using copolymer grafted nanoparticles**|Prama Adhya et al.|[2503.05230](http://arxiv.org/abs/2503.05230)|[md](abstracts/2503.05230.md)|
+|**2025-02-27**|**Rouse Mode Analysis of Chain Relaxation in Reversibly Crosslinked Polymer Melts**|Rahul Karmakar et al.|[2503.09609](http://arxiv.org/abs/2503.09609)|[md](abstracts/2503.09609.md)|
+|**2025-02-24**|**An Explainable AI Model for Binary LJ Fluids**|Israrul H Hashmi et al.|[2502.17357](http://arxiv.org/abs/2502.17357)|[md](abstracts/2502.17357.md)|
+|**2024-09-15**|**Extrapolative ML Models for Copolymers**|Israrul H. Hashmi et al.|[2409.09691](http://arxiv.org/abs/2409.09691)|[md](abstracts/2409.09691.md)|
 
 <p align=right>(<a href=#updated-on-20260801>back to top</a>)</p>
 

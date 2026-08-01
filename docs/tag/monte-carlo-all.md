@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">199 papers</span>
+  <span class="paper-count">195 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1184,29 +1184,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00946.html">Atomic cluster expansion interatomic potential for defects and thermodynamics of Cu-W system</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Jiahao Pan et al.</td>
 <td><a href="http://arxiv.org/abs/2407.00946">2407.00946</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19068.html">Enhancing interfacial thermal transport by nanostructures: Monte Carlo simulations with ab initio phonon properties</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Wenzhu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19068">2406.19068</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15072.html">Features of heterogeneously charged systems at their liquid-liquid critical point</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Daniele Notarmuzi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15072">2406.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10376.html">Random Close Packing of Semi-Flexible Polymers in Two Dimensions: Emergence of Local and Global Order</a></div><div class="paper-tags"><a href="crystallinity-all.html">crystallinity</a></div></td>
-<td>Daniel Martinez-Fernandez et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10376">2406.10376</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01259.html">Aging modeling and lifetime prediction of a proton exchange membrane fuel cell using an extended Kalman filter</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
-<td>Serigne Daouda Pene et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01259">2406.01259</a></td>
 </tr>
 </tbody></table>

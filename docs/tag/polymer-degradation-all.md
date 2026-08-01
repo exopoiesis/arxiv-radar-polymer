@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-degradation — all</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">49 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <a href="polymer-degradation-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -308,29 +308,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04636.html">Surface-Functionalization of Oleate-Capped Nano-Emitters for Stable Dispersion in 3D-Printable Polymers</a></div><div class="paper-tags"><a href="polymerization-all.html">polymerization</a></div></td>
 <td>Akhilesh Kumar Pathak et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04636">2407.04636</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15432.html">A theoretical framework for multi-physics modeling of poro-visco-hyperelasticity-induced time-dependent fracture of blood clots</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Dongxu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15432">2406.15432</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.13354.html">Scintillation Properties of CsPbBr3 Nanocrystals Prepared by Ligand-Assisted Reprecipitation and Dual Effect of Polyacrylate Encapsulation toward Scalable Ultrafast Radiation Detectors</a></div><div class="paper-tags"><a href="polymer-representation-all.html">polymer-representation</a></div></td>
-<td>Francesca Cova et al.</td>
-<td><a href="http://arxiv.org/abs/2406.13354">2406.13354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04420.html">Numerical investigation of fracture behaviour of polyurethane adhesives under the influence of moisture</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Siva Pavan Josyula et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04420">2406.04420</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01259.html">Aging modeling and lifetime prediction of a proton exchange membrane fuel cell using an extended Kalman filter</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Serigne Daouda Pene et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01259">2406.01259</a></td>
 </tr>
 </tbody></table>

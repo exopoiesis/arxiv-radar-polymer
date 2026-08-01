@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>conducting-polymers — all</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="conducting-polymers-7d.html">7d</a> <a href="conducting-polymers-30d.html">30d</a> <a href="conducting-polymers-90d.html">90d</a> <a href="conducting-polymers-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,17 +164,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15842.html">Correlation between Electrochemical Relaxations and Morphologies of Conducting Polymer Dendrites</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Antoine Baron et al.</td>
 <td><a href="http://arxiv.org/abs/2409.15842">2409.15842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00293.html">A Compact Electrochemical Model for a Conducting Polymer Dendrite Impedance</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Antoine Baron et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00293">2407.00293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05461.html">Pyroresistive response of percolating conductive polymer composites</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Ettore Barbieri et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05461">2406.05461</a></td>
 </tr>
 </tbody></table>

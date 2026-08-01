@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlff — all</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <a href="mlff-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,17 +314,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04839.html">Bayesian Analysis Reveals the Key to Extracting Pair Potentials from Neutron Scattering Data</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
 <td>Brennon L. Shanks et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04839">2407.04839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07157.html">Machine learning potential for the Cu-W system</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Manura Liyanage et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07157">2406.07157</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="composites-all.html">composites</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Ankit Patidar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
 </tr>
 </tbody></table>

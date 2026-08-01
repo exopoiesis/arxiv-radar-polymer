@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">289 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1712,41 +1712,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="mlff-all.html">mlff</a></div></td>
 <td>Klara Bonneau et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19115.html">Coagulation-flocculation process on a lattice: Monte Carlo simulations</a></div></td>
-<td>V. Blavatska et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19115">2406.19115</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15072.html">Features of heterogeneously charged systems at their liquid-liquid critical point</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Daniele Notarmuzi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15072">2406.15072</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Ankit Patidar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02168.html">Normal Modes of Rouse-Ham Symmetric Star Polymer Model</a></div></td>
-<td>Takashi Uneyama</td>
-<td><a href="http://arxiv.org/abs/2406.02168">2406.02168</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01214.html">Effect of relative timescale on a system of particles sliding on a fluctuating energy landscape: Exact derivation of product measure condition</a></div></td>
-<td>Chandradip Khamrai et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01214">2406.01214</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00270.html">Understanding Ion Distribution and Diffusion in Solid Polymer Electrolytes</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-electrolytes-all.html">polymer-electrolytes</a></div></td>
-<td>Ganesh K Rajahmundry et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00270">2406.00270</a></td>
 </tr>
 </tbody></table>

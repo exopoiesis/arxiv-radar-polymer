@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">353 papers</span>
+  <span class="paper-count">343 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2072,65 +2072,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08769.html">AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline</a></div><div class="paper-tags"><a href="automated-synthesis-all.html">automated-synthesis</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Samuel P. Gleason et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08769">2407.08769</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02525.html">Increased antimicrobial activity of ZnO nanoparticle thin films: Effect of surface structuration</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Imroi El-Habib et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02525">2407.02525</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19068.html">Enhancing interfacial thermal transport by nanostructures: Monte Carlo simulations with ab initio phonon properties</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Wenzhu Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19068">2406.19068</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.16436.html">Petrophysical Characterization of Fractured Limestone from Beauce Aquifer Vadose Zone (O-ZNS Observatory, France)</a></div></td>
-<td>Abdoul Nasser Yacouba et al.</td>
-<td><a href="http://arxiv.org/abs/2406.16436">2406.16436</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11800.html">Magnetic field in mini starburst complex Sgr B2</a></div></td>
-<td>Xing Pan et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11800">2406.11800</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.10495.html">Segregation Kinetics of Miktoarm Star Polymers: A Dissipative Particle Dynamics Study</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Dorothy Gogoi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.10495">2406.10495</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07347.html">Periodic phase-separation during meniscus-guided deposition</a></div></td>
-<td>René de Bruijn et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07347">2406.07347</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="composites-all.html">composites</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a></div></td>
-<td>Ankit Patidar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08496.html">Modelling the Impact of Organic Molecules and Phosphate Ions on Biosilica Pattern Formation in Diatoms</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Svetlana Petrenko et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08496">2405.08496</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01165.html">Evaluating the potential of thermoplastic polymers for cryogenic sealing applications: strain rate and temperature effects</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Zhenzhou Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01165">2406.01165</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16459.html">Pattern formation in three-state systems: Towards understanding morphology formation in the presence of evaporation</a></div></td>
-<td>Emilio N. M. Cirillo et al.</td>
-<td><a href="http://arxiv.org/abs/2405.16459">2405.16459</a></td>
 </tr>
 </tbody></table>

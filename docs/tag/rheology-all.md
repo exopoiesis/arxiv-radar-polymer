@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rheology — all</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">189 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1148,41 +1148,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02860.html">Active Polar Ring Polymer in Shear Flow -- An Analytical Study</a></div></td>
 <td>Roland G. Winkler et al.</td>
 <td><a href="http://arxiv.org/abs/2407.02860">2407.02860</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18978.html">Anisotropic extended Burgers model, its relaxation tensor and properties of the associated Boltzmann viscoelastic system</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Maarten de Hoop et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18978">2406.18978</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06001.html">From yield stress to elastic instabilities: Tuning the extensional behavior of elastoviscoplastic fluid</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Mohamed S. Abdelgawad et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06001">2406.06001</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04420.html">Numerical investigation of fracture behaviour of polyurethane adhesives under the influence of moisture</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
-<td>Siva Pavan Josyula et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04420">2406.04420</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04453.html">Rheological properties of acid-induced carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Gauthier Legrand et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04453">2406.04453</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09496.html">Physics-Informed Neural Network based inverse framework for time-fractional differential equations for rheology</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Sukirt Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09496">2407.09496</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.00813.html">A Thermodynamically Consistent Model for Yield Stress Fluids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Nan Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.00813">2406.00813</a></td>
 </tr>
 </tbody></table>

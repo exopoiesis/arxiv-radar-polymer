@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">378 papers</span>
+  <span class="paper-count">369 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2228,59 +2228,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01484.html">Scaling on Frontier: Uncertainty Quantification Workflow Applications using ExaWorks to Enable Full System Utilization</a></div></td>
 <td>Mikhail Titov et al.</td>
 <td><a href="http://arxiv.org/abs/2407.01484">2407.01484</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.19096.html">In-situ Controller Autotuning by Bayesian Optimization for Closed-loop Feedback Control of Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Baris Kavas et al.</td>
-<td><a href="http://arxiv.org/abs/2406.19096">2406.19096</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.17487.html">Anatomically and mechanically conforming patient-specific spinal fusion cages designed by full-scale topology optimization</a></div></td>
-<td>Thijs Smit et al.</td>
-<td><a href="http://arxiv.org/abs/2406.17487">2406.17487</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15255.html">Additive Manufacturing of functionalised atomic vapour cells for next-generation quantum technologies</a></div><div class="paper-tags"><a href="polymerization-all.html">polymerization</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Feiran Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15255">2406.15255</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14478.html">Toward data-driven research: preliminary study to predict surface roughness in material extrusion using previously published data with Machine Learning</a></div><div class="paper-tags"><a href="extrusion-all.html">extrusion</a></div></td>
-<td>Fátima García-Martínez et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14478">2406.14478</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12286.html">VIRL: Volume-Informed Representation Learning towards Few-shot Manufacturability Estimation</a></div></td>
-<td>Yu-hsuan Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12286">2406.12286</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.12741.html">Characterization of Additive Manufacturing Materials for String Assembly in Cleanroom</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Jacopo Bernardini et al.</td>
-<td><a href="http://arxiv.org/abs/2406.12741">2406.12741</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07408.html">ADDOPT: An Additive Manufacturing Optimal Control Framework Demonstrated in Minimizing Layer-Level Thermal Variance in Electron Beam Powder Bed Fusion</a></div></td>
-<td>Mikhail Khrenov et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07408">2406.07408</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05430.html">Large Eddy Simulations of Flow over Additively Manufactured Surfaces: Impact of Roughness and Skewness on Turbulent Heat Transfer</a></div></td>
-<td>Himani Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05430">2406.05430</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.03966.html">QuickCurve: revisiting slightly non-planar 3D printing</a></div></td>
-<td>Emilio Ottonello et al.</td>
-<td><a href="http://arxiv.org/abs/2406.03966">2406.03966</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymerization — all</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <a href="polymerization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04636.html">Surface-Functionalization of Oleate-Capped Nano-Emitters for Stable Dispersion in 3D-Printable Polymers</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
 <td>Akhilesh Kumar Pathak et al.</td>
 <td><a href="http://arxiv.org/abs/2407.04636">2407.04636</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15255.html">Additive Manufacturing of functionalised atomic vapour cells for next-generation quantum technologies</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Feiran Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15255">2406.15255</a></td>
 </tr>
 </tbody></table>

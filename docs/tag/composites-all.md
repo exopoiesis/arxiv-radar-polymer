@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">269 papers</span>
+  <span class="paper-count">263 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1592,41 +1592,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07032.html">Acoustic waves in a halfspace material filled with random particulate</a></div></td>
 <td>Paulo S. Piva et al.</td>
 <td><a href="http://arxiv.org/abs/2407.07032">2407.07032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.07157.html">Machine learning potential for the Cu-W system</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
-<td>Manura Liyanage et al.</td>
-<td><a href="http://arxiv.org/abs/2406.07157">2406.07157</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06190.html">Tuning the water intrinsic permeability of PEGDA hydrogel membranes by adding free PEG chains of varying molar masses</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="membranes-all.html">membranes</a></div></td>
-<td>Malak Alaa Eddine et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06190">2406.06190</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05461.html">Pyroresistive response of percolating conductive polymer composites</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
-<td>Ettore Barbieri et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05461">2406.05461</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04799.html">The origin of g $\approx$ 4 EPR line in magnetic nanocomposites: Manifestation of double quantum transitions in ferromagnetic granules</a></div></td>
-<td>A. B. Drovosekov et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04799">2406.04799</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.04970.html">Programmable Multi-responsive Nanocellulose-based Hydrogels with Embodied Logic</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Beatriz Arsuffi et al.</td>
-<td><a href="http://arxiv.org/abs/2406.04970">2406.04970</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.05243.html">MARTINI Coarse-grained Force Field for Thermoplastic Starch Nanocomposites</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="glass-transition-all.html">glass-transition</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Ankit Patidar et al.</td>
-<td><a href="http://arxiv.org/abs/2406.05243">2406.05243</a></td>
 </tr>
 </tbody></table>

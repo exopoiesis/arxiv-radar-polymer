@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -680,35 +680,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08769.html">AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline</a></div><div class="paper-tags"><a href="automated-synthesis-all.html">automated-synthesis</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Samuel P. Gleason et al.</td>
 <td><a href="http://arxiv.org/abs/2407.08769">2407.08769</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18366.html">Room temperature detection of the (H2)2 dimer</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
-<td>H. Fleurbaey et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18366">2407.18366</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.00293.html">A Compact Electrochemical Model for a Conducting Polymer Dendrite Impedance</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
-<td>Antoine Baron et al.</td>
-<td><a href="http://arxiv.org/abs/2407.00293">2407.00293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02525.html">Increased antimicrobial activity of ZnO nanoparticle thin films: Effect of surface structuration</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Imroi El-Habib et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02525">2407.02525</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.15255.html">Additive Manufacturing of functionalised atomic vapour cells for next-generation quantum technologies</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="polymerization-all.html">polymerization</a></div></td>
-<td>Feiran Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2406.15255">2406.15255</a></td>
-</tr>
-<tr class="paper">
-<td>2024-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.11679.html">Voltage control of spin resonance in phase change materials</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Tian-Yue Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2406.11679">2406.11679</a></td>
 </tr>
 </tbody></table>
