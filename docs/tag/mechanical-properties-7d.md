@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23562.html">On the flash temperature in sliding rubber contacts</a></div></td>
 <td>B. N. J. Persson</td>
 <td><a href="http://arxiv.org/abs/2607.23562">2607.23562</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22833.html">Thermo-Structural Topology Optimization Considering Nonlinear Creep</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
-<td>Stefan Knapik et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22833">2607.22833</a></td>
 </tr>
 </tbody></table>
