@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,23 +914,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05217.html">A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
 <td>Minas Kouroublakis et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05217">2508.05217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02534.html">Radiation stability of nanocomposite scintillators</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>L. Prouzova Prochazkova et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02534">2507.02534</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04431.html">Active Extensile Hydrogels Actuated by Living Polymers of the Bacterial Cytokinetic Protein FtsZ</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Mikheil Kharbedia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04431">2508.04431</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04672.html">MARTINI-based force fields for predicting gas separation performances of MOF/polymer composites</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Cecilia M. S. Alvares et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04672">2508.04672</a></td>
 </tr>
 </tbody></table>

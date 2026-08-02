@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">201 papers</span>
+  <span class="paper-count">198 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1202,23 +1202,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06591.html">Generative Artificial Intelligence Extracts Structure-Function Relationships from Plants for New Materials</a></div></td>
 <td>Rachel K. Luu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06591">2508.06591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04662.html">Tailored Thermal and Mechanical Performance of Biodegradable PLA-P(VDF-TrFE) Polymer Blends</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>G Suresh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04662">2508.04662</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04672.html">MARTINI-based force fields for predicting gas separation performances of MOF/polymer composites</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="composites-360d.html">composites</a></div></td>
-<td>Cecilia M. S. Alvares et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04672">2508.04672</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04674.html">Diffusion in a $d$-dimensional rough potential</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Jacob Jeffries et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04674">2508.04674</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <strong>360d</strong> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06408.html">Heterogeneous optimized Schwarz Methods for heat conduction in composites with thermal contact resistance</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Huan Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.06408">2508.06408</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18412.html">Toda lattice formed in nonequilibrium steady states of SWCNT</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Heeyuen Koh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18412">2507.18412</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">168 papers</span>
+  <span class="paper-count">165 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1004,23 +1004,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17827.html">Hydrodynamics without Averaging -- a Hard Rods Study</a></div></td>
 <td>Friedrich Hübner</td>
 <td><a href="http://arxiv.org/abs/2507.17827">2507.17827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.18412.html">Toda lattice formed in nonequilibrium steady states of SWCNT</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Heeyuen Koh et al.</td>
-<td><a href="http://arxiv.org/abs/2507.18412">2507.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.03977.html">Constructing Generalized Sample Transition Probabilities with Biased Simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yanbin Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.03977">2508.03977</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04672.html">MARTINI-based force fields for predicting gas separation performances of MOF/polymer composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Cecilia M. S. Alvares et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04672">2508.04672</a></td>
 </tr>
 </tbody></table>

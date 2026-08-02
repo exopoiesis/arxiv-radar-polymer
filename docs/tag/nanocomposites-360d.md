@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -242,11 +242,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13202.html">Magnetic and Mossbauer studies of Ca$_x$Zn$_{1-x}$Fe$_2$O$_4$ nanoferrites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Kemi Y. Adewale et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13202">2508.13202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02534.html">Radiation stability of nanocomposite scintillators</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>L. Prouzova Prochazkova et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02534">2507.02534</a></td>
 </tr>
 </tbody></table>

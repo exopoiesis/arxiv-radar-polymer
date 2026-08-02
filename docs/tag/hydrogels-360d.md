@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11392.html">A 3D porous MXene/PNIPAAm hydrogel composite with advanced degradation stability and control of electronic properties in air</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Sitao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11392">2508.11392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.04431.html">Active Extensile Hydrogels Actuated by Living Polymers of the Bacterial Cytokinetic Protein FtsZ</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Mikheil Kharbedia et al.</td>
-<td><a href="http://arxiv.org/abs/2508.04431">2508.04431</a></td>
 </tr>
 </tbody></table>

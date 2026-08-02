@@ -8,7 +8,7 @@
   total: 563
   group: morphology
 - name: additive-manufacturing
-  count: 16
+  count: 15
   total: 369
   group: processing
 - name: monte-carlo
@@ -23,26 +23,22 @@
   count: 11
   total: 283
   group: simulation
-- name: polymer-morphology
-  count: 10
-  total: 343
-  group: morphology
-- name: glass-transition
-  count: 9
-  total: 147
-  group: properties
 - name: molecular-dynamics
   count: 9
   total: 249
   group: simulation
+- name: polymer-morphology
+  count: 9
+  total: 343
+  group: morphology
+- name: glass-transition
+  count: 8
+  total: 147
+  group: properties
 - name: composites
   count: 7
   total: 263
   group: processing
-- name: spectroscopy
-  count: 5
-  total: 111
-  group: characterization
 - name: gnn
   count: 4
   total: 34
@@ -55,6 +51,10 @@
   count: 4
   total: 87
   group: simulation
+- name: spectroscopy
+  count: 4
+  total: 111
+  group: characterization
 - name: hydrogels
   count: 3
   total: 167
@@ -87,14 +87,6 @@
   count: 2
   total: 53
   group: synthesis
-- name: qspr
-  count: 2
-  total: 19
-  group: properties
-- name: tem
-  count: 2
-  total: 26
-  group: characterization
 - name: thermal-conductivity
   count: 2
   total: 83
@@ -127,10 +119,18 @@
   count: 1
   total: 21
   group: properties
+- name: qspr
+  count: 1
+  total: 19
+  group: properties
 - name: selfies
   count: 1
   total: 35
   group: representation
+- name: tem
+  count: 1
+  total: 26
+  group: characterization
 - name: active-learning
   count: 0
   total: 17

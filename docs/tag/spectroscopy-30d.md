@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>spectroscopy — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <strong>30d</strong> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08889.html">Generic behavior of ultrastability and anisotropic molecular packing in co-deposited organic semiconductor glass mixtures</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
 <td>Shinian Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08889">2607.08889</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.02248.html">From microscopic fluctuations to susceptibility spectra: single-molecule relaxation in glassy media</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
-<td>Siyang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.02248">2607.02248</a></td>
 </tr>
 </tbody></table>
