@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -716,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09329.html">Exploring the Nonlinear Rheology of Composite Hydrogels: A New Paradigm for LAOS Analysis</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
 <td>Wayan A. Fontaine-Seiler et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09329">2508.09329</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05520.html">Rational Extended Thermodynamics for Non-Newtonian Fluids with Finite Relaxation Time</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Tommaso Ruggeri</td>
-<td><a href="http://arxiv.org/abs/2508.05520">2508.05520</a></td>
 </tr>
 </tbody></table>

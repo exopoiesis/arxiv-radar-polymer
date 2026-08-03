@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>conducting-polymers — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="conducting-polymers-7d.html">7d</a> <a href="conducting-polymers-30d.html">30d</a> <a href="conducting-polymers-90d.html">90d</a> <strong>360d</strong> <a href="conducting-polymers-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18536.html">Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
 <td>Yuyang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18536">2508.18536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05217.html">A Time-Domain Method of Auxiliary Sources for Efficient Analysis of Transient Electromagnetic Scattering by Moderately Conductive Cylinders</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Minas Kouroublakis et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05217">2508.05217</a></td>
 </tr>
 </tbody></table>

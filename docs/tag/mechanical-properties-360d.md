@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">468 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,17 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05824.html">Unexpectedly large entropic barrier controls bond rearrangements in vitrimers</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Shinian Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.05824">2508.05824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05043.html">Constitutive modeling of viscoelastic solids at large strains based on the theory of evolving natural configurations</a></div></td>
-<td>Tarun Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05043">2508.05043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05520.html">Rational Extended Thermodynamics for Non-Newtonian Fluids with Finite Relaxation Time</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Tommaso Ruggeri</td>
-<td><a href="http://arxiv.org/abs/2508.05520">2508.05520</a></td>
 </tr>
 </tbody></table>
