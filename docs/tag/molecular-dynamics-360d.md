@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">135 papers</span>
+  <span class="paper-count">132 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -806,23 +806,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14047.html">Microrheology with rotational Brownian motion</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Yasuya Nakayama</td>
 <td><a href="http://arxiv.org/abs/2508.14047">2508.14047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06012.html">Advancing Material Modeling in Hydrocodes Beyond Equations of State</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
-<td>Tim A. Linke et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06012">2508.06012</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06419.html">Dynamics of Protonated Oxalate from Machine-Learned Simulations and Experiment: Infrared Signatures, Proton Transfer Dynamics and Tunneling Splittings</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Valerii Andreichev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06419">2508.06419</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16591.html">Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water</a></div></td>
-<td>Sandeep Parma et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16591">2508.16591</a></td>
 </tr>
 </tbody></table>

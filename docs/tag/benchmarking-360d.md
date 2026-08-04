@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="gnn-360d.html">gnn</a> · <a href="inverse-design-360d.html">inverse-design</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Yuheng Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00707">2608.00707</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26992.html">Generation of representative powder particle packing in 2D/3D: which tool for which application?</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Antoine Tainturier et al.</td>
@@ -866,11 +872,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.22838.html">Modelling and simulation of electro-mechanically coupled dielectric elastomers and myocardial tissue using smoothed finite element methods</a></div></td>
 <td>Tan Tran et al.</td>
 <td><a href="http://arxiv.org/abs/2507.22838">2507.22838</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06419.html">Dynamics of Protonated Oxalate from Machine-Learned Simulations and Experiment: Infrared Signatures, Proton Transfer Dynamics and Tunneling Splittings</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Valerii Andreichev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06419">2508.06419</a></td>
 </tr>
 </tbody></table>

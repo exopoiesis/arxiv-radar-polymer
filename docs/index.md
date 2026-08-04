@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-03._
+_Updated 2026-08-04._
 
-**3555** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3557** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.00988.html">Exactly solvable model for the diffusive price-dynamics paradox under long-range correlated market-order flow</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Yuki Sato et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00988">2608.00988</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/gnn-30d.html">gnn</a> · <a href="tag/inverse-design-30d.html">inverse-design</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Yuheng Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.00707">2608.00707</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26610.html">First- and Second-Order Phase Transformation Modeling Based on the Hamilton Principle: A Coupled Thermo-Mechanical Approach for Glass Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-08-03._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.21965.html">Inertial Asynchronous Computation</a></div></td>
 <td>Doruk Efe Gökmen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21965">2607.21965</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22167.html">Mechanical mapping of thin elastic films and living cells with spherical tip atomic force microscopy probes at large indentations</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Gabriel Gomila et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22167">2607.22167</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.22439.html">Highly indistinguishable photons from a tin-vacancy spin qubit in diamond</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Dennis Herrmann et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22439">2607.22439</a></td>
 </tr>
 </tbody></table>

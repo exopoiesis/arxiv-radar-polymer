@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">147 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -896,11 +896,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08320.html">Representative Volume Element: Existence and Extent in Cracked Heterogeneous Medium</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
 <td>Hari Sankar R et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08320">2508.08320</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06408.html">Heterogeneous optimized Schwarz Methods for heat conduction in composites with thermal contact resistance</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Huan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06408">2508.06408</a></td>
 </tr>
 </tbody></table>

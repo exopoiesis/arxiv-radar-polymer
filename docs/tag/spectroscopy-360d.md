@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">68 papers</span>
+  <span class="paper-count">67 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -416,11 +416,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13202.html">Magnetic and Mossbauer studies of Ca$_x$Zn$_{1-x}$Fe$_2$O$_4$ nanoferrites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Kemi Y. Adewale et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13202">2508.13202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.06419.html">Dynamics of Protonated Oxalate from Machine-Learned Simulations and Experiment: Infrared Signatures, Proton Transfer Dynamics and Tunneling Splittings</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Valerii Andreichev et al.</td>
-<td><a href="http://arxiv.org/abs/2508.06419">2508.06419</a></td>
 </tr>
 </tbody></table>

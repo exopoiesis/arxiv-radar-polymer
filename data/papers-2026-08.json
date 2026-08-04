@@ -1,0 +1,60 @@
+{
+ "2608.00707": {
+  "abstract": "Graph representations compactly encode polycrystalline microstructures while retaining grain topology and grain boundary information. We present a conditional graph diffusion framework for property-guided inverse design of dual-phase Ti-6Al-4V microstructures. An enhanced grain graph neural network (GNN) with grain boundary edge features, learnable node and edge embeddings, and multi-statistic pooling serves as a forward surrogate for stress prediction and candidate evaluation. The conditional diffusion model generates candidates through reverse diffusion under prescribed α-phase volume fraction, elastic modulus, and yield-stress proxy targets. Across four target regimes and independently seeded starting sets, generated candidates consistently approach the prescribed properties, including a target outside the property envelope of the existing microstructures. Local crystallographic consistency is evaluated post-generation from deviations from the Burgers orientation relationship (BOR). BOR-aware ranking increases mean BOR consistency by up to 44.9% and 56.4% for the in- and out-of-envelope targets, respectively, while maintaining property alignment. Finite element validation of the five best candidates in each primary design case yields a maximum absolute relative error of 1.0% in their mean properties. In a representative benchmark, diffusion requires 32 candidate evaluations per input graph, compared with approximately 40,000 for random search and evolutionary optimization, and reduces runtime by approximately two orders of magnitude in the tested implementations. These results establish conditional grain-graph diffusion as an efficient framework for property-guided polycrystalline microstructure design.",
+  "authors": [
+   "Yuheng Zhou",
+   "Xiao Shang",
+   "Huicong Chen",
+   "Yu Zou"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Yuheng Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2608.00707",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-01",
+  "tags": [
+   "benchmarking",
+   "diffusion-model",
+   "gnn",
+   "inverse-design",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-01"
+ },
+ "2608.00988": {
+  "abstract": "We develop an exactly solvable nonlinear time-series model by incorporating the square-root price-impact law into the Lillo--Mike--Farmer (LMF) model to resolve the diffusive price-dynamics paradox under predictable market-order flow. In financial market microstructure, it is well established that the price dynamics are approximately described by Brownian motion at long times. However, it is also well-known that market-order flow is clearly predictable due to long-range correlations, as mathematically formulated by the LMF model. Since market orders have a positive price impact in general, predictable market-order flow seems to contradict Brownian price dynamics. In this work, we resolve this diffusive price-dynamics paradox by developing nonlinear time-series models that generalize the LMF model based on the square-root price-impact law. Our time-series models can be mathematically mapped onto the Lévy-walk framework---an exactly solvable class of non-Markovian stochastic processes developed in statistical physics. We prove that the price dynamics are diffusive at long times under the square-root law even under predictable market-order flow. Our work highlights the crucial practical importance of the square-root law in understanding the microstructural foundation of the Efficient Market Hypothesis.",
+  "authors": [
+   "Yuki Sato",
+   "Shunta Fujiwara",
+   "Kiyoshi Kanazawa"
+  ],
+  "categories": [
+   "q-fin.TR",
+   "cond-mat.stat-mech",
+   "econ.GN",
+   "q-fin.GN",
+   "q-fin.MF"
+  ],
+  "comment": "25 pages, 15 figures",
+  "first_author": "Yuki Sato",
+  "pdf_url": "http://arxiv.org/pdf/2608.00988",
+  "primary_category": "q-fin.TR",
+  "published": "2026-08-02",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Exactly solvable model for the diffusive price-dynamics paradox under long-range correlated market-order flow",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-02"
+ }
+}
