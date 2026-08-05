@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25938.html">Interacting hydrodynamic modes in spinless fermions with dephasing noise</a></div></td>
-<td>Fabian H. L. Essler et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25938">2607.25938</a></td>
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03619.html">Lower bounds on entropy production from dynamical correlation functions</a></div></td>
+<td>Paul Raux et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03619">2608.03619</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">283 papers</span>
+  <span class="paper-count">284 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03619.html">Lower bounds on entropy production from dynamical correlation functions</a></div></td>
+<td>Paul Raux et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03619">2608.03619</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25938.html">Interacting hydrodynamic modes in spinless fermions with dephasing noise</a></div></td>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01162.html">From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential</a></div><div class="paper-tags"><a href="active-learning-90d.html">active-learning</a> · <a href="mlff-90d.html">mlff</a></div></td>
+<td>Mirko Fischer et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01162">2608.01162</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Yotam M. Y. Feldman et al.</td>
@@ -182,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>F. E. Garbuzov et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05361.html">From Bulk to Surface: Structure and Dynamics of Amorphous Alumina from Deep Potential Molecular Dynamics</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="mlff-90d.html">mlff</a></div></td>
-<td>Zheng Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05361">2605.05361</a></td>
 </tr>
 </tbody></table>

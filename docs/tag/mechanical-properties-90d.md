@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03393.html">Active wetting/de-wetting of focal adhesions on viscoelastic substrates</a></div></td>
+<td>Ivana Pajic-Lijakovic et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03393">2608.03393</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01925.html">A numerical study to analyze the interplay of Weissenberg number and viscosity ratio in a log-strain tensorial model for viscoelastic fluids</a></div></td>
+<td>Nehal Dash et al.</td>
+<td><a href="http://arxiv.org/abs/2608.01925">2608.01925</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02117.html">Monolithic solution and null-space condensation of internal variables in finite viscoelasticity</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>C. Hesch et al.</td>
+<td><a href="http://arxiv.org/abs/2608.02117">2608.02117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="inverse-design-90d.html">inverse-design</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
@@ -674,11 +692,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
 <td>Prince Romeo Mensah</td>
 <td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.04937.html">Local elastic perturbation of colloidal suspensions near the colloidal glass transition</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Piotr Habdas et al.</td>
-<td><a href="http://arxiv.org/abs/2605.04937">2605.04937</a></td>
 </tr>
 </tbody></table>

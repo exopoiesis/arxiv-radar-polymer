@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03560.html">Control of collective activity to crystallize an oscillator gas</a></div></td>
+<td>Marine Le Blay et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03560">2608.03560</a></td>
+</tr>
 <tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div></td>
@@ -362,17 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09743.html">Equilibrium and non-equilibrium properties of active matter systems</a></div></td>
 <td>Mintu Karmakar</td>
 <td><a href="http://arxiv.org/abs/2605.09743">2605.09743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05364.html">Structural effects of liquid infiltration of 3Y-Zirconia with Sc, Mg and Y</a></div></td>
-<td>Asbjoern Slagtern Fjellvaag et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05364">2605.05364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05374.html">An Open-Source Flow for Single-Phase, Edge-Triggered to Two-Phase, Non-Overlapping Clocking Conversion</a></div></td>
-<td>Paolo Pedroso et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05374">2605.05374</a></td>
 </tr>
 </tbody></table>

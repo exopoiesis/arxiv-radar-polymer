@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03619.html">Lower bounds on entropy production from dynamical correlation functions</a></div></td>
+<td>Paul Raux et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03619">2608.03619</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25938.html">Interacting hydrodynamic modes in spinless fermions with dephasing noise</a></div></td>
 <td>Fabian H. L. Essler et al.</td>
@@ -200,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Runchen Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.05448.html">Breakdown of Emergent Chiral Order and Defect Chaos in Nonreciprocal Flocks</a></div></td>
-<td>Charlotte Myin et al.</td>
-<td><a href="http://arxiv.org/abs/2605.05448">2605.05448</a></td>
 </tr>
 </tbody></table>

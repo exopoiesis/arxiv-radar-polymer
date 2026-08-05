@@ -56,5 +56,378 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-08-02"
+ },
+ "2608.01162": {
+  "abstract": "Over the past decade, Machine Learning Interatomic Potentials (MLIPs) have emerged as a powerful technique for performing molecular dynamics (MD) simulations with nearly ab initio accuracy. Alongside the development of new descriptors and advanced machine learning architectures, sophisticated procedures for the generation of diverse and accurate reference datasets have been established. To date, research has focused primarily on MLIPs for crystalline or amorphous inorganic and small molecular systems; however, large macromolecules such as polymers remain underrepresented in the literature, despite beeing an important class of materials. In this work, we investigate several aspects of developing MLIPs for polymers, utilizing polyethylene as a representative, yet simple model system. First, we compare various local atomic descriptors, identifying the Atomic Cluster Expansion (ACE) as the most effective for this application. Second, we implement and automatized active learning scheme to efficiently generate diverse training data and demonstrate that ACE potentials fitted on small oligomers are transferable to larger polymers. Given that the accurate reproduction of the density depends critically on a correct description of intermolecular interactions, which are far more complex to learn than intramolecular interactions, we carefully evaluate the performance of the ACE potentials with respect to non-bonded interactions. By utilizing the computationally efficient OPLS-AA force field as a ground truth reference, we are able to perform a direct comparison of nanosecond-scale MD trajectories resulting from the ACE and reference potential. We find that the ACE potential accurately reproduces key thermodynamic, structural and dynamical properties.",
+  "authors": [
+   "Mirko Fischer",
+   "Andreas Heuer"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "Main manuscript: 21 pages, 8 figures; Supporting Information: 16 pages, 12 figures",
+  "first_author": "Mirko Fischer",
+  "pdf_url": "http://arxiv.org/pdf/2608.01162",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-02",
+  "tags": [
+   "active-learning",
+   "mlff",
+   "molecular-dynamics"
+  ],
+  "title": "From oligomers to entangled polymers: How to train a transferable machine learning interatomic potential",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-08-02"
+ },
+ "2608.01712": {
+  "abstract": "Gas-phase cluster growth by monomer addition is commonly modeled as an isothermal process. We develop a survival-limited framework in which association produces a thermally excited cluster that may dissociate before either cooling through bath-gas collisions or encountering the next monomer. A continuous-energy survival probability is first derived for an individual post-association thermal trajectory and is then marginalized over distributions of excitation energy, equilibrium energy, and monomer-arrival time using a trajectory functional. Molecular-dynamics simulations of water, silver, and gold clusters provide size-dependent caloric relationships and latent heats, while event-based Monte Carlo simulations independently test the survival formulation. Theory and Monte Carlo results agree closely. The ensemble-averaged survival probability exhibits strong and non-monotonic size dependence, with the largest thermal penalties generally occurring for the smallest clusters. Intermediate-size local maxima arise only when complete cluster-energy distributions are retained and result from competition between curvature-enhanced dissociation and the narrowing of the low-energy tail with increasing size. Surviving clusters are consequently drawn preferentially from the colder portion of the pre-collision energy distribution, and mean thermal trajectories can substantially underestimate population survival. To connect single-event survival to cumulative growth, we introduce a thermal forward-rate correction relative to an isothermal reference and incorporate it into a reversible birth--death model. Although the correction at each size may be moderate, its multiplicative accumulation can increase mean first-passage times by many orders of magnitude. The framework provides a general route for identifying post-collision stabilization as a control on gas-phase cluster growth.",
+  "authors": [
+   "Tomoya Tamadate",
+   "Christopher J. Hogan"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "20 pages, 11 Figures",
+  "first_author": "Tomoya Tamadate",
+  "pdf_url": "http://arxiv.org/pdf/2608.01712",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-03",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Post-Collision Thermal Excitation and Survival-Limited Cluster Growth in the Gas Phase",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.01925": {
+  "abstract": "We present a computational study aimed at exploring the different and independent roles of the Weissenberg number and of the ratio between the polymeric and solvent viscosity contributions in a viscoelastic fluid model. The tensorial model under investigation, recently proposed, is based on a logarithmic relation between the elastic (or recoverable) strain and the elastic stress. In this model, the elastic strain plays the role of a conformation tensor and its evolution equation inherently preserves its determinant and positive definiteness. These properties are also enforced in the computational method employed in the study. A finite-difference discretization in time is combined with a stabilized mixed finite element formulation based on the Variational Multiscale method for the spatial discretization and with a generalized Lie derivative approach for the advection terms. The behavior of the model is analyzed in paradigmatic pressure-driven flows and we find that the value of the viscosity ratio is crucial in determining to which extent non-Newtonian flow profiles are observed upon increasing the Weissenberg number. By comparing the solutions of the log-strain tensorial model with those of a suitable Generalized Newtonian Fluid model, we show that flow-type dependence plays a significant role even in the simple planar flow past a cylinder.",
+  "authors": [
+   "Nehal Dash",
+   "Ramon Codina",
+   "Giulio G. Giusteri"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Nehal Dash",
+  "pdf_url": "http://arxiv.org/pdf/2608.01925",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-03",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A numerical study to analyze the interplay of Weissenberg number and viscosity ratio in a log-strain tensorial model for viscoelastic fluids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.01945": {
+  "abstract": "Induction welding plays a central role in enabling lightweight, integrated structures made from fibre-reinforced thermoplastic composites. From a modelling perspective, the induction welding process can be approximated by one-way coupled electromagnetic and heat-transfer equations. In practice, material parameters such as electrical conductivity vary significantly resulting from the deviations in the placement of fibres and hence the fibre-fibre contacts in the mesostructure are governed by consolidation quality of the material. Explicit representation of this variability on the macroscopic scale is essential to capture the closed current loops required for the induction heating process. To address this, a stochastic material model is introduced that respects the symmetric positive-definite (SPD) nature of the conductivity tensor and separates scaling and orientation uncertainties, forming the basis of a surrogate framework. The resulting stochastic conductivity model is first used to quantify the uncertainty in the induction heating process through extensive Monte Carlo simulations, providing detailed insight into the induced currents and the resulting temperature field. Subsequently, to enable efficient uncertainty propagation, SPD-aware surrogate models are trained with a subset of the simulation data, consisting of labelled material states and temperature fields. The surrogates are formulated as Constitutive Manifold Neural Networks (CMNNs) that explicitly respect the underlying SPD manifold structure and are integrated with a Neural Ordinary Differential Equation (NODE) framework to capture temporal dynamics. Several NODE integration schemes are evaluated and compared.",
+  "authors": [
+   "Wouter J. Schuttert",
+   "Mohammed Iqbal Abdul Rasheed",
+   "Bojana Rosić"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Wouter J. Schuttert",
+  "pdf_url": "http://arxiv.org/pdf/2608.01945",
+  "primary_category": "cs.CE",
+  "published": "2026-08-03",
+  "tags": [
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "A manifold-aware Neural ODE surrogate model for stochastic induction heating with anisotropic electrical conductivity",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.02080": {
+  "abstract": "Whole-body tactile sensing is a prerequisite for humanoids that operate in contact-rich human environments, but conventional taxel arrays scale poorly with surface area, wiring complexity, and robot-specific curvature. We present a conformal electrical impedance tomography tactile skin fabricated through a geometry-adaptable additive-manufacturing workflow. A flexible conductive TPU layer forms a continuous sensing domain, while contact-induced coupling with conductive patches produces boundary voltage changes that are reconstructed using a one-step Gauss-Newton EIT solver. We first characterize the electromechanical design space of the layered structure and show that low-resistance contact-enhancement patches and a porous conductive TPU sensing layer improve sensitivity while preserving printability. We then validate contact localization on a planar prototype, a curved U-shaped prototype, and a qualitative iCub-face-shaped geometry. The curved sensor achieves a mean localization error of 6 mm over 18 contact positions without supervised post-processing. These results suggest that additively manufactured tomographic skins can reduce the morphology-specific redesign burden for humanoid tactile coverage and provide a practical route toward large-area contact sensing for human-centered deployment.",
+  "authors": [
+   "Haofeng Chen",
+   "Carson Kohlbrenner",
+   "Jiri Kubik",
+   "Lukas Rustler",
+   "Alexander Dickhans",
+   "Karel Bartunek",
+   "Alessandro Roncone",
+   "Hyosang Lee",
+   "Matej Hoffmann"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "Submitted to IEEE Humanoids",
+  "first_author": "Haofeng Chen",
+  "pdf_url": "http://arxiv.org/pdf/2608.02080",
+  "primary_category": "cs.RO",
+  "published": "2026-08-03",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Toward Geometry-Scalable Whole-Body Touch for Humanoids: A 3D-Printed Conformal EIT Skin",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.02117": {
+  "abstract": "Finite-strain viscoelasticity is commonly discussed from a constitutive perspective, whereas the nonlinear solution architecture induced by time and space discretization is studied less systematically. In this work, we consider a representative viscoelastic model with a strain-like internal variable and focus on the fully discrete coupled problem in the deformation and the internal state. Starting from the underlying energy-dissipation structure, we derive the discrete weak forms and obtain a monolithic Newton system with a naturally non-symmetric block tangent. The increment of the internal variable is eliminated consistently at the level of the linearized system by a Schur complement, and the same reduction is shown to admit a geometric interpretation in terms of a null-space basis of the tangent space of the internal constraint manifold. This yields a genuinely monolithic counterpart to classical nested Gauss-point condensation, in which local constitutive equations are solved separately before the global equilibrium step. Numerical results for two- and three-dimensional Cook's membrane benchmarks show that the proposed strategy retains essentially the same outer Newton behavior as the classical approach while substantially reducing computational cost by avoiding repeated local Newton solves, it also remains convergent for load increments for which the nested scheme fails. Moreover, the numerical study suggests that suitably chosen approximation spaces for the internal variable can yield additional savings in computational effort without significant loss of accuracy. Although presented for finite viscoelasticity, the construction extends naturally to broader classes of thermodynamically consistent internal-variable models.",
+  "authors": [
+   "C. Hesch",
+   "A. K. K. Sethuraman"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "C. Hesch",
+  "pdf_url": "http://arxiv.org/pdf/2608.02117",
+  "primary_category": "cs.CE",
+  "published": "2026-08-03",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties"
+  ],
+  "title": "Monolithic solution and null-space condensation of internal variables in finite viscoelasticity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-03"
+ },
+ "2608.03074": {
+  "abstract": "This study presents a systematic manufacturing approach that combines metal additive manufacturing and subtractive machining to construct flexible wing models for transonic wind tunnel testing. Two wing designs were fabricated and evaluated in terms of geometric accuracy, structural characteristics, and aeroelastic behavior. Three-dimensional scanning, static load tests, ground vibration tests, finite element analyses, and transonic wind tunnel tests were conducted. The fabricated models reproduced the designed geometries and structural properties with good accuracy. The average surface roughness was below 1.0 micrometer, and the average surface deviation was below 0.3 mm, improving geometric precision over previous skill-dependent polishing methods. Independently manufactured models also exhibited highly consistent flutter behavior, with measured flutter frequencies of 157.0 and 158.0 Hz. The results demonstrate that the combined additive and subtractive manufacturing approach enables efficient and reproducible production of flexible wing models for reliable aeroelastic wind tunnel experiments.",
+  "authors": [
+   "Natsuki Tsushima",
+   "Kensuke Soneda",
+   "Kenichi Saitoh",
+   "Kazuyuki Nakakita"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "15 pages, 27 figures, 10 tables. Published in Aerospace Science and Technology, Volume 167, Article 110665, 2025",
+  "first_author": "Natsuki Tsushima",
+  "pdf_url": "http://arxiv.org/pdf/2608.03074",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-04",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Construction of flexible wing models by combined manufacturing of additive and subtractive processes for transonic wind tunnel testing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03393": {
+  "abstract": "Cell adhesion to viscoelastic substrates is mediated by focal adhesions (FAs), which dynamically couple actomyosin contractility to the extracellular matrix. Although substrate stress relaxation is known to regulate adhesion stability and cell migration, a predictive physical framework linking viscoelasticity to force transmission and adhesion dynamics remains lacking. Here we review briefly what is known about the active wetting and de-wetting of FAs on viscoelastic substrates and synthesize existing experimental and theoretical work into a two-timescale physical framework to describe the phenomena reported. At short timescales, oscillatory actomyosin-driven displacements are transmitted through molecular clutches, leading to frequency-dependent energy transfer to the substrate. We show that this transfer is maximized at an optimal frequency set by a balance between elastic energy storage and viscous dissipation, establishing a resonance-like mechanism that selects both the effective FA stiffness and traction force amplitude. At longer timescales, this mechanically optimal state couples to adhesion remodelling through an effective surface tension, enabling FA growth and disassembly to be interpreted as active wetting and de-wetting processes. The model predicts that adhesion stability and steady-state size are controlled by substrate stiffness and viscoelastic timescales, as well as mechanosensitive feedback mediated by Piezo1-dependent calcium signalling.",
+  "authors": [
+   "Ivana Pajic-Lijakovic",
+   "Milan Milivojevic",
+   "Boris Martinac",
+   "Massimo Vassalli",
+   "Peter VE McClintock"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "q-bio.SC"
+  ],
+  "comment": "25 pages, 3 figures, 1 table",
+  "first_author": "Ivana Pajic-Lijakovic",
+  "pdf_url": "http://arxiv.org/pdf/2608.03393",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-04",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Active wetting/de-wetting of focal adhesions on viscoelastic substrates",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03525": {
+  "abstract": "In organic chemistry papers and patents, molecular structures, reaction schemes, and experimental conditions are often presented as molecular structure depictions, reaction diagrams, and complex tables or figures. Such information is difficult for general-purpose document parsing systems to directly convert into machine-readable data. This limits data production for organic chemistry knowledge base construction and for AI for Chemistry tasks such as reaction prediction, retrosynthesis, condition recommendation, molecular property prediction, and drug molecule design. This report introduces MinerU.Chem, a document parsing system for organic chemistry literature integrated into the MinerU online platform. Built on top of MinerU's general document parsing pipeline, MinerU.Chem adds five chemistry-specific modules: chemistry relevance filtering, molecular structure detection, molecule identifier extraction, molecular structure recognition, and reaction scheme parsing. Together, these modules convert organic-chemistry-related image regions in documents into a Molecule Summary List and a Reaction Summary List. For molecular structure recognition, MinerU.Chem uses CARBON (Complex Atomic Representation and Bonding Object Notation) as its core representation. CARBON enables recognition results to preserve both the visual layout of the original image and complex chemical semantics, while supporting the export of standard downstream formats such as MolFile and SMILES. On the SMILES-evaluable subset of MolRecBench-Wild (N=2,392), MinerU.Chem's molecular structure recognition module achieves a SMILES exact-match accuracy of 93.02%, outperforming the best evaluated comparison system, GPT-5.6-Sol (74.87%), by 18.15 percentage points. The system has been integrated into the MinerU online platform and is available at https://mineru.net/OpenSourceTools/Extractor .",
+  "authors": [
+   "Haote Yang",
+   "Jiang Wu",
+   "Jingchao Wang",
+   "Xingjian Wei",
+   "Lixin Ma",
+   "Linye Li",
+   "Chen Zhu",
+   "Xiaolong Wu",
+   "Yuheng Lu",
+   "Ziran Zhu",
+   "Junyuan Gao",
+   "Lingli Ge",
+   "Yuan Xu",
+   "Huijie Ao",
+   "QianQian Wu",
+   "Dechen Lin",
+   "Huaiyu Gu",
+   "Lu Chen",
+   "Shengxin Lu",
+   "ShaSha Wang",
+   "Yuanyuan Cao",
+   "Zhejia Yu",
+   "Ruijie Zhang",
+   "Zimai Tian",
+   "Jiaxing Sun",
+   "Yinfan Wang",
+   "Jiahe Song",
+   "Chuang Wang",
+   "Yubin Wang",
+   "Rui Nie",
+   "Hao Zheng",
+   "Bowen Jiang",
+   "Hongbin Lai",
+   "Yifan He",
+   "Chengjin Liu",
+   "Tingting Zhang",
+   "Liqun Wei",
+   "Lijun Wu",
+   "Bin Wang",
+   "Yuqiang Li",
+   "Guangyu Wang",
+   "Wei Li",
+   "Bowen Zhou",
+   "Dahua Lin",
+   "Conghui He"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Haote Yang",
+  "pdf_url": "http://arxiv.org/pdf/2608.03525",
+  "primary_category": "cs.CV",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "MinerU.Chem: A High-Precision System for Optical Chemical Structure and Reaction Recognition",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03560": {
+  "abstract": "Motility-induced phase separation occurs in assemblies of self-propelled units when activity is coupled negatively to density. In contrast, the consequences of a positive coupling between density and activity on the collective behaviour of active matter remain unexplored. Here, we show that collective activity can emerge from such a positive coupling among non-motile building blocks. We perform experiments with self-sustained oscillators powered by contact-charge electrophoresis. Although the oscillators are non-motile by design, they spontaneously form an active gas when confined together. The super-elastic nature of collisions constitutes a positive density-activity coupling and underlies the active gas properties. Elucidating the origin of binary collisions allows us to precisely control the structure of the active gas and its eventual crystallization. Beyond considering the overlooked positive coupling between density and activity, our work suggests that rich collective properties can emerge not only from the symmetry of interactions between active building blocks, but also from their adaptable and responsive behaviour.",
+  "authors": [
+   "Marine Le Blay",
+   "Joshua H. K. Saldi",
+   "Alexandre Morin"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Marine Le Blay",
+  "pdf_url": "http://arxiv.org/pdf/2608.03560",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-04",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Control of collective activity to crystallize an oscillator gas",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03619": {
+  "abstract": "Entropy production is a key property in stochastic thermodynamics. For partially observed and coarse-grained systems, its inference is challenging and typically rests on proven lower bounds. We derive two versions of such bounds based on the asymmetry of experimentally accessible two-time correlation functions of coarse-grained state observables. For non-equilibrium steady states, the bound is valid for arbitrary correlation lag. For time-dependent processes, it requires the limit of vanishing lag. These bounds hold true for any system that follows either a Markovian dynamics or a coupled set of overdamped Langevin equations on some underlying, unobservable level of description. We illustrate the bounds for both types of dynamics and discuss their optimization and potential tightness.",
+  "authors": [
+   "Paul Raux",
+   "Alexander M. Maier",
+   "Udo Seifert"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Paul Raux",
+  "pdf_url": "http://arxiv.org/pdf/2608.03619",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-04",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Lower bounds on entropy production from dynamical correlation functions",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03688": {
+  "abstract": "Trace residual solvents in solid polymer electrolytes (SPEs) significantly affect electrolyte and interface properties, where optimal selection enhances ionic conductivity and transference numbers. However, solvent complexity hinders general screening methods. We establish a universal criterion linking electronic (HOMO, LUMO) and macroscopic properties (dielectric constant, dipole moment, polarizability) via machine learning on an approximately 10,000-solvent dataset from high-throughput DFT. Two solvents, N-methoxy-N-methyl-2,2,2-trifluoroacetamide and 2,2,2-trifluoro-N,N-dimethylacetamide, were identified. Experimental incorporation of trace N-methoxy-N-methyl-2,2,2-trifluoroacetamide into a poly(vinylidene fluoride-co-hexafluoropropylene) matrix achieves a 4.5 V window, 5.5x10^-4 S cm^-1 conductivity (30 C), and 0.78 Li+ transference number. The cell retains 86.7% capacity over 500 cycles (LiFePO4) and 98.7% after 200 cycles at 2C (LiNi0.9Co0.05Mn0.05O2), outperforming 2,2,2-trifluoro-N,N-dimethylacetamide, dimethylformamide, N-methyl-2-pyrrolidone, and dimethyl sulfoxide. This synergy enables balanced ion transport, wide stability, and cycling durability, advancing safer, high-energy lithium metal batteries. Our integrated approach establishes a solvent screening paradigm for rational SPE design, accelerating next-generation battery development.",
+  "authors": [
+   "Jiadong Shen",
+   "Junjie Chen",
+   "Xiaosa Xu",
+   "Jin Li",
+   "Zhenyu Wang",
+   "Pengzhu Lin",
+   "Zixiao Guo",
+   "Yu Wang",
+   "Jing Sun",
+   "Baoling Huang",
+   "Tianshou Zhao"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jiadong Shen",
+  "pdf_url": "http://arxiv.org/pdf/2608.03688",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-04",
+  "tags": [
+   "polymer-electrolytes"
+  ],
+  "title": "Machine Learning-Guided Screening of Advantageous Solvents for Solid Polymer Electrolytes in Lithium Metal Batteries",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.03730": {
+  "abstract": "A finite density of mutually avoiding directed polymers in a quenched random medium is a minimal model of glassy line matter. The dilute theory, solved by replica Bethe ansatz, predicts an interaction free energy proportional to $ρ^2$ and disorder cumulants with distinct power-law dependences on the density $ρ$, but direct numerical tests have been hindered by the combinatorially large many-polymer transfer matrix. We recast the problem as filling logarithmic eigenvalues of a single-polymer transfer-matrix product, obtaining the quenched free energy, its cumulants, and a disorder-induced linear spectral edge consistent with the replica prediction.",
+  "authors": [
+   "Sen Mu",
+   "Abbas Ali Saberi",
+   "Mehran Kardar"
+  ],
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": "7 pages, 5 figures",
+  "first_author": "Sen Mu",
+  "pdf_url": "http://arxiv.org/pdf/2608.03730",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "A Spectral Route to Directed-Polymer Glasses",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-04"
  }
 }
