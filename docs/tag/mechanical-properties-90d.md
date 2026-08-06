@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">113 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04345.html">Expansion of a hole in a viscoelastic liquid sheet</a></div></td>
+<td>Tachin Ruangkriengsin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04345">2608.04345</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Wang-Qi Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03393.html">Active wetting/de-wetting of focal adhesions on viscoelastic substrates</a></div></td>
@@ -686,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="glass-transition-90d.html">glass-transition</a> · <a href="polymerization-90d.html">polymerization</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Mohammad Tanver Hossain et al.</td>
 <td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.06463.html">The simplified 2D Ericksen-Leslie liquid crystal model interacting with a 1D flexible shell</a></div></td>
-<td>Prince Romeo Mensah</td>
-<td><a href="http://arxiv.org/abs/2605.06463">2605.06463</a></td>
 </tr>
 </tbody></table>

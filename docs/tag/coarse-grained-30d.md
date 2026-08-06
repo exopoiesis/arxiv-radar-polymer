@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wang-Qi Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03619.html">Lower bounds on entropy production from dynamical correlation functions</a></div></td>
 <td>Paul Raux et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Wout Laeremans et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05151.html">On data-driven parameterizations of multidimensional generalized Langevin dynamics in the presence of a quadratic potential</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Maximilian Braun et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05151">2607.05151</a></td>
 </tr>
 </tbody></table>

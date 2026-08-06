@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04345.html">Expansion of a hole in a viscoelastic liquid sheet</a></div></td>
+<td>Tachin Ruangkriengsin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04345">2608.04345</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wang-Qi Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03393.html">Active wetting/de-wetting of focal adhesions on viscoelastic substrates</a></div></td>
 <td>Ivana Pajic-Lijakovic et al.</td>
@@ -254,17 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05905.html">A compensated Piola principle for critical nondiffusive parabolic systems</a></div></td>
 <td>Maotuo Guo</td>
 <td><a href="http://arxiv.org/abs/2607.05905">2607.05905</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04752.html">Well-posedness and regularity in thermodynamics of compressible fluid-structure interactions</a></div></td>
-<td>D. Breit et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04752">2607.04752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.04768.html">Physics-Based Simulation of Contact-Induced Facial Wrinkling</a></div></td>
-<td>Juan Sebastian Montes Maestre et al.</td>
-<td><a href="http://arxiv.org/abs/2607.04768">2607.04768</a></td>
 </tr>
 </tbody></table>

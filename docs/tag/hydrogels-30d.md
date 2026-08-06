@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hydrogels — 30d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <strong>30d</strong> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20770.html">Digitally Programmable Photochromic Hydrogel Contact Lenses as Light-Adaptive Artificial Irises</a></div></td>
 <td>Asad Nauman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20770">2607.20770</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05633.html">Drug release dynamics from a three-layer composite contact lens in the vial, eye wear with blinking, and blister pack settings</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Daniel M. Anderson et al.</td>
-<td><a href="http://arxiv.org/abs/2607.05633">2607.05633</a></td>
 </tr>
 </tbody></table>

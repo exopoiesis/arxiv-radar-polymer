@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-05._
+_Updated 2026-08-06._
 
-**3570** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3573** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04345.html">Expansion of a hole in a viscoelastic liquid sheet</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Tachin Ruangkriengsin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04345">2608.04345</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Wang-Qi Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03074.html">Construction of flexible wing models by combined manufacturing of additive and subtractive processes for transonic wind tunnel testing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
@@ -55,6 +67,12 @@ _Updated 2026-08-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03730.html">A Spectral Route to Directed-Polymer Glasses</a></div></td>
 <td>Sen Mu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03730">2608.03730</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04146.html">Fractional Viscoelasticity in Transient Unentangled Polymer Networks</a></div><div class="paper-tags"><a href="tag/rheology-30d.html">rheology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Sachin Shanbhag et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04146">2608.04146</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>
@@ -175,23 +193,5 @@ _Updated 2026-08-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26104.html">Weight and Height Estimation from a Single Human Image Captured in the Wild</a></div><div class="paper-tags"><a href="tag/selfies-30d.html">selfies</a></div></td>
 <td>Hira Yaseen et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26104">2607.26104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26289.html">Scale-dependent universality class crossover in magnetic skyrmion polymers</a></div></td>
-<td>R. L. Silva et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26289">2607.26289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26331.html">Quantum Turing Patterns</a></div></td>
-<td>Kazuki Ikeda</td>
-<td><a href="http://arxiv.org/abs/2607.26331">2607.26331</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.24278.html">Hyperspectral imaging for inline quality monitoring of roll-to-roll slot-die coated organic photovoltaic active layers</a></div><div class="paper-tags"><a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a></div></td>
-<td>Abdelouadoud Mammeri et al.</td>
-<td><a href="http://arxiv.org/abs/2607.24278">2607.24278</a></td>
 </tr>
 </tbody></table>

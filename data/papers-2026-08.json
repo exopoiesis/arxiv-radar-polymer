@@ -429,5 +429,79 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-08-04"
+ },
+ "2608.04146": {
+  "abstract": "Stress relaxation in transient polymer networks often shows extended power-law behavior, $G(t) \\sim t^{-β}$, where the exponent $β$ frequently departs from the value $1/2$ predicted by the sticky Rouse model and its variants. We introduce the fractional inhomogeneous Rouse model (FIRM), which uses a generalized Langevin equation driven by fractional Gaussian noise of exponent $α$, while retaining heterogeneous bead friction to represent sticky cross-links. Thus, FIRM unifies subdiffusive sticker dynamics and chain heterogeneity within a single framework. We show that the relaxation modulus $G(t)$ can be represented as a linear combination of Mittag-Leffler functions. For homogeneous chains, it recovers two power-law regimes, $t^{-α/2}$ and $t^{-2α}$, on either side of the terminal relaxation time. Fitting FIRM to stress relaxation data for an imine-based polystyrene vitrimer shows that $α< 1$ is required to capture the shape of the terminal relaxation. It also accommodates both Arrhenius and non-Arrhenius temperature dependence in the rheological activation energy. We derive expressions for dynamic properties such as mean-squared displacement and dielectric response and outline how generalized memory kernels extend the framework to real materials. Together, these results suggest novel ways in which data from rheology, dielectric spectroscopy, scattering, and other experimental methods may be incorporated into a chemistry-specific molecular model.",
+  "authors": [
+   "Sachin Shanbhag",
+   "Ralm G. Ricarte"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "38 pages, 11 figures, submitting to J. Chem. Phys",
+  "first_author": "Sachin Shanbhag",
+  "pdf_url": "http://arxiv.org/pdf/2608.04146",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-04",
+  "tags": [
+   "rheology",
+   "spectroscopy"
+  ],
+  "title": "Fractional Viscoelasticity in Transient Unentangled Polymer Networks",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.04345": {
+  "abstract": "Experiments on highly viscous polymeric films show that punctured holes expand exponentially in time, without sustained accumulation of liquid near the rim. This response departs from the Taylor--Culick description, in which displaced liquid accumulates in a growing rim that moves at constant speed. Although these differences were initially attributed to viscoelasticity, they were later rationalized using a purely viscous theory, leaving the role of viscoelastic stresses unresolved. We analyze the expansion of an axisymmetric hole in a freely suspended viscoelastic liquid sheet described by the Oldroyd-B model. Exploiting the separation of length scales between hole radius and film thickness, we derive extensional thin-film equations on the scale of the hole and an effective boundary condition from an asymptotic force balance in the tip region. Analytical solutions are obtained for weak viscoelasticity, $Wi\\ll 1$, and the ultra-dilute limit, $μ_p\\llμ_s$, where $Wi$ is the Weissenberg number, while $μ_s$ and $μ_p$ are solvent and polymeric viscosities, respectively. For weak viscoelasticity, the dimensionless hole radius grows approximately as $e^{(0.5+αWi β_p)T}$, where $α=(12 - 6\\log 2-π)/21\\approx 0.224$ and $β_p=μ_p/(μ_s+μ_p)$. In the ultra-dilute limit, the radius grows approximately as $e^{(0.5+α^{*}β_p )T}$, where $α^{*}(Wi)>0$ is evaluated numerically. In both regimes, viscoelastic stresses increase the exponential growth rate relative to the Newtonian limit and induce film-thickness variations, with thickening near the retracting edge. This acceleration arises from azimuthal stretching and radial compression of the polymers, which redistribute stresses in the film and modify the stress balance at the tip, leading to a stronger outward radial extensional flow.",
+  "authors": [
+   "Tachin Ruangkriengsin",
+   "Rodolfo Brandão",
+   "Howard A. Stone"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "30 pages, 7 figures",
+  "first_author": "Tachin Ruangkriengsin",
+  "pdf_url": "http://arxiv.org/pdf/2608.04345",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-05",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Expansion of a hole in a viscoelastic liquid sheet",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-05"
+ },
+ "2608.04359": {
+  "abstract": "Given the predominant role of inter-particle physicochemical forces in governing clay behavior, researchers have increasingly utilized coarse-grained molecular dynamics (CGMD) simulations. However, inter-particle friction has been historically overlooked due to methodological limitations, and the extent to which this omission influences simulation accuracy remains an unresolved question. This study proposes a novel hybrid CGMD framework explicitly coupling long-range Buckingham potential with Hertzian granular contact mechanics. A baseline model was validated via isotropic compression, where the resulting compressibility and derived compression index (Cc) aligned with macroscopic geotechnical observations. Parametric analyses revealed that viscoelastic damping of particle contacts governs structural evolution. Elevated damping suppresses densification, trapping platelets in disorganized, high-void-ratio configurations. Furthermore, evaluating the interplay with thermal fluctuations underscores the necessity of precise temperature control to prevent such unphysical kinetic trapping. Finally, uniaxial compression tests demonstrate the critical importance of inter-particle friction. Explicit friction locks sliding interfaces and sustains significantly higher loads compared to frictionless models; the latter rely solely on geometric interlocking and ultimately exhibit unphysical fluid-like yielding. By bridging atomistic potentials with contact mechanics, this framework highlights the fundamental role of the inter-particle friction and offers essential guidelines for future multi-scale simulations of clay assemblies.",
+  "authors": [
+   "Wang-Qi Xu",
+   "Yijie Wang",
+   "Zhen-Yu Yin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "25 pages in total, 11 figures, 2 tables",
+  "first_author": "Wang-Qi Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.04359",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-05",
+  "tags": [
+   "coarse-grained",
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-05"
  }
 }
