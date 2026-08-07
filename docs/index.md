@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-06._
+_Updated 2026-08-07._
 
-**3573** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3575** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Gianmarco Pinton</td>
+<td><a href="http://arxiv.org/abs/2608.06321">2608.06321</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04345.html">Expansion of a hole in a viscoelastic liquid sheet</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -25,6 +31,12 @@ _Updated 2026-08-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Wang-Qi Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05343.html">Confinement-induced evolution and breakup of viscoelastic filaments in microfluidic coflows</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>U. K. Kar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05343">2608.05343</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-04</td>
@@ -181,17 +193,5 @@ _Updated 2026-08-06._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yotam M. Y. Feldman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.25892">2607.25892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25938.html">Interacting hydrodynamic modes in spinless fermions with dephasing noise</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Fabian H. L. Essler et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25938">2607.25938</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26104.html">Weight and Height Estimation from a Single Human Image Captured in the Wild</a></div><div class="paper-tags"><a href="tag/selfies-30d.html">selfies</a></div></td>
-<td>Hira Yaseen et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26104">2607.26104</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">472 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div></td>
+<td>Gianmarco Pinton</td>
+<td><a href="http://arxiv.org/abs/2608.06321">2608.06321</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04345.html">Expansion of a hole in a viscoelastic liquid sheet</a></div></td>
@@ -26,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Wang-Qi Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05343.html">Confinement-induced evolution and breakup of viscoelastic filaments in microfluidic coflows</a></div></td>
+<td>U. K. Kar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05343">2608.05343</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-04</td>
@@ -2840,11 +2852,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08951.html">ShearView: A Compact Stress- and Strain-Controlled Rheometer for Integrated Rheo-microscopy</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Nikolaos Kalafatakis et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08951">2508.08951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05824.html">Unexpectedly large entropic barrier controls bond rearrangements in vitrimers</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Shinian Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05824">2508.05824</a></td>
 </tr>
 </tbody></table>

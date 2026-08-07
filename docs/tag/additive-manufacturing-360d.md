@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08839.html">Additive manufacturing in aluminium of a primary mirror for a CubeSat application: manufacture, testing and evaluation</a></div></td>
 <td>Ilhan Aziz et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08839">2508.08839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.13842.html">Overprinting with Tomographic Volumetric Additive Manufacturing</a></div></td>
-<td>Felix Wechsler et al.</td>
-<td><a href="http://arxiv.org/abs/2507.13842">2507.13842</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">88 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,11 +536,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09552.html">Zeolitic imidazolate framework glasses emit white light</a></div></td>
 <td>Zhencai Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09552">2508.09552</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.05824.html">Unexpectedly large entropic barrier controls bond rearrangements in vitrimers</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Shinian Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.05824">2508.05824</a></td>
 </tr>
 </tbody></table>

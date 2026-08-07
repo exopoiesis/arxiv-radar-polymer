@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div></td>
+<td>Gianmarco Pinton</td>
+<td><a href="http://arxiv.org/abs/2608.06321">2608.06321</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04345.html">Expansion of a hole in a viscoelastic liquid sheet</a></div></td>
 <td>Tachin Ruangkriengsin et al.</td>
@@ -26,6 +32,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Wang-Qi Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04359">2608.04359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05343.html">Confinement-induced evolution and breakup of viscoelastic filaments in microfluidic coflows</a></div></td>
+<td>U. K. Kar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05343">2608.05343</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-04</td>
@@ -254,17 +266,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
 <td>Marlo Kunzner et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07645">2607.07645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05879.html">Hopf Obstruction and Transported Forced Brakke Motion in Ordered Viscoelastic Cores</a></div></td>
-<td>Sai Peng</td>
-<td><a href="http://arxiv.org/abs/2607.05879">2607.05879</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05905.html">A compensated Piola principle for critical nondiffusive parabolic systems</a></div></td>
-<td>Maotuo Guo</td>
-<td><a href="http://arxiv.org/abs/2607.05905">2607.05905</a></td>
 </tr>
 </tbody></table>
