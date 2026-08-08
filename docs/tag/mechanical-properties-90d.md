@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,17 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16389.html">Haptic Rendering of Fractional-Order Viscoelasticity: Passivity and Rendering Fidelity</a></div></td>
 <td>Gorkem Gemalmaz et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16389">2605.16389</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.08906.html">Viscoelastic control of acoustic particle migration and trapping in microchannels</a></div></td>
-<td>T. Sujith et al.</td>
-<td><a href="http://arxiv.org/abs/2605.08906">2605.08906</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="glass-transition-90d.html">glass-transition</a> · <a href="polymerization-90d.html">polymerization</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Mohammad Tanver Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
 </tr>
 </tbody></table>

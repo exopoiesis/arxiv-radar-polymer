@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">199 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1208,11 +1208,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10973.html">Developing and Validating a High-Throughput Robotic System for the Accelerated Development of Porous Membranes</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Hongchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10973">2508.10973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12591.html">Revealing Nanostructures in High-Entropy Alloys via Machine-Learning Accelerated Scalable Monte Carlo Simulation</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Xianglin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12591">2503.12591</a></td>
 </tr>
 </tbody></table>

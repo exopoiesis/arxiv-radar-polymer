@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">118 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,17 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09829.html">Dynamics of phase separation in non-local elastic networks</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Oliver W. Paulin et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09829">2508.09829</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08951.html">ShearView: A Compact Stress- and Strain-Controlled Rheometer for Integrated Rheo-microscopy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Nikolaos Kalafatakis et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08951">2508.08951</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09329.html">Exploring the Nonlinear Rheology of Composite Hydrogels: A New Paradigm for LAOS Analysis</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
-<td>Wayan A. Fontaine-Seiler et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09329">2508.09329</a></td>
 </tr>
 </tbody></table>

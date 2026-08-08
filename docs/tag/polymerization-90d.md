@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymerization — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <strong>90d</strong> <a href="polymerization-360d.html">360d</a> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.17207.html">Structure of Molten FeCl2 and FeCl3</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Fakhrul Hasan Bhuiyan et al.</td>
 <td><a href="http://arxiv.org/abs/2605.17207">2605.17207</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.09194.html">Embedded Direct Ink Writing of Thermoset and Elastomeric Polymers via Frontal Polymerization</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a> · <a href="glass-transition-90d.html">glass-transition</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Mohammad Tanver Hossain et al.</td>
-<td><a href="http://arxiv.org/abs/2605.09194">2605.09194</a></td>
 </tr>
 </tbody></table>

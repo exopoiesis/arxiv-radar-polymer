@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2840,17 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09836.html">Embodied Tactile Perception of Soft Objects Properties</a></div></td>
 <td>Anirvan Dutta et al.</td>
 <td><a href="http://arxiv.org/abs/2508.09836">2508.09836</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12591.html">Revealing Nanostructures in High-Entropy Alloys via Machine-Learning Accelerated Scalable Monte Carlo Simulation</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Xianglin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12591">2503.12591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08951.html">ShearView: A Compact Stress- and Strain-Controlled Rheometer for Integrated Rheo-microscopy</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Nikolaos Kalafatakis et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08951">2508.08951</a></td>
 </tr>
 </tbody></table>

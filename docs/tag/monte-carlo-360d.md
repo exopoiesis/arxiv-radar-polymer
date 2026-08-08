@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11355.html">A 3D segmented Water-based Liquid Scintillator for high-precision detection of neutrinos in water</a></div></td>
 <td>Botao Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11355">2508.11355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.12591.html">Revealing Nanostructures in High-Entropy Alloys via Machine-Learning Accelerated Scalable Monte Carlo Simulation</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Xianglin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.12591">2503.12591</a></td>
 </tr>
 </tbody></table>

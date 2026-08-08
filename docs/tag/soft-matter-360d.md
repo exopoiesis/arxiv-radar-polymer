@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -332,11 +332,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06217.html">Multi-Scale Modeling and Predictive Control of Active Brownian Particles</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Sadra Saremi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06217">2509.06217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08951.html">ShearView: A Compact Stress- and Strain-Controlled Rheometer for Integrated Rheo-microscopy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Nikolaos Kalafatakis et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08951">2508.08951</a></td>
 </tr>
 </tbody></table>
