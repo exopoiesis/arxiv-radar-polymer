@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,23 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10973.html">Developing and Validating a High-Throughput Robotic System for the Accelerated Development of Porous Membranes</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Hongchen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.10973">2508.10973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09496.html">Pressure in active matter</a></div></td>
-<td>Guo Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09496">2508.09496</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09816.html">Self-propulsion via non-transitive phase coexistence in chemically active mixtures</a></div></td>
-<td>Yicheng Qiang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09816">2508.09816</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09829.html">Dynamics of phase separation in non-local elastic networks</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Oliver W. Paulin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09829">2508.09829</a></td>
 </tr>
 </tbody></table>

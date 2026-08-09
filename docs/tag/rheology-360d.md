@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,11 +704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11392.html">A 3D porous MXene/PNIPAAm hydrogel composite with advanced degradation stability and control of electronic properties in air</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Sitao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11392">2508.11392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09829.html">Dynamics of phase separation in non-local elastic networks</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Oliver W. Paulin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09829">2508.09829</a></td>
 </tr>
 </tbody></table>

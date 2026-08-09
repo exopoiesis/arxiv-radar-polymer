@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20535.html">A Graph Neural Network approach to zero-shot Digital Twins</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
 <td>Alicia Tierz et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20535">2607.20535</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08213.html">Viscoelasticity Enhances Contactless Adhesion of Soft Substrates</a></div></td>
-<td>Marco Rizzo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08213">2607.08213</a></td>
 </tr>
 </tbody></table>
