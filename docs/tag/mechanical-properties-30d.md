@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11802.html">Why gas-focused microjets are so fast: kinetically resolved, shear-driven flow focusing in vacuum</a></div></td>
 <td>Alfonso M. Ganan-Calvo</td>
 <td><a href="http://arxiv.org/abs/2607.11802">2607.11802</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Maxime Vassaux et al.</td>
-<td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20535.html">A Graph Neural Network approach to zero-shot Digital Twins</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a></div></td>
-<td>Alicia Tierz et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20535">2607.20535</a></td>
 </tr>
 </tbody></table>

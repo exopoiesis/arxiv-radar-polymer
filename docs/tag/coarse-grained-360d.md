@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">165 papers</span>
+  <span class="paper-count">163 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -992,17 +992,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15091.html">Visualizing Poloidal Orientation in DNA Minicircles</a></div></td>
 <td>Tony Lemos et al.</td>
 <td><a href="http://arxiv.org/abs/2508.15091">2508.15091</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08247.html">Identifying nonequilibrium degrees of freedom in high-dimensional stochastic systems</a></div></td>
-<td>Catherine Ji et al.</td>
-<td><a href="http://arxiv.org/abs/2508.08247">2508.08247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10483.html">Jamming of active particles in narrow pores: Implications for ratchet effect and diffusion coefficient</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Šimon Pajger et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10483">2508.10483</a></td>
 </tr>
 </tbody></table>

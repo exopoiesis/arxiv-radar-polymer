@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">468 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2822,17 +2822,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11392.html">A 3D porous MXene/PNIPAAm hydrogel composite with advanced degradation stability and control of electronic properties in air</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Sitao Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11392">2508.11392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.23360.html">Tension-Induced Soft Stress and Viscoelastic Bending in Liquid Crystal Elastomers for Enhanced Energy Dissipation</a></div></td>
-<td>Beijun Shen et al.</td>
-<td><a href="http://arxiv.org/abs/2506.23360">2506.23360</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.09429.html">Nanoscale friction of manganite superlattice films controlled by layer thickness and fluorine content</a></div></td>
-<td>Niklas A. Weber et al.</td>
-<td><a href="http://arxiv.org/abs/2507.09429">2507.09429</a></td>
 </tr>
 </tbody></table>
