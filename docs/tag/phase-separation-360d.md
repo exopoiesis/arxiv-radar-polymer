@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">312 papers</span>
+  <span class="paper-count">311 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1880,11 +1880,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05017.html">Asymmetric exclusion process with long-range interactions</a></div></td>
 <td>V. Belitsky et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05017">2409.05017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11254.html">Large-scale dynamics in visual quorum sensing chiral suspensions</a></div></td>
-<td>Yuxin Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11254">2508.11254</a></td>
 </tr>
 </tbody></table>

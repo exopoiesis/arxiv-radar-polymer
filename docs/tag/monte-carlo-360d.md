@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,11 +740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19281.html">CORTEX: Composite Overlay for Risk Tiering and Exposure in Operational AI Systems</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Aoun E Muhammad et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19281">2508.19281</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11355.html">A 3D segmented Water-based Liquid Scintillator for high-precision detection of neutrinos in water</a></div></td>
-<td>Botao Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11355">2508.11355</a></td>
 </tr>
 </tbody></table>

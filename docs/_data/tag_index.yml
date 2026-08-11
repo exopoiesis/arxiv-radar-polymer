@@ -8,7 +8,7 @@
   total: 564
   group: morphology
 - name: additive-manufacturing
-  count: 15
+  count: 14
   total: 370
   group: processing
 - name: benchmarking
@@ -16,7 +16,7 @@
   total: 195
   group: informatics
 - name: monte-carlo
-  count: 12
+  count: 11
   total: 197
   group: simulation
 - name: coarse-grained
@@ -35,14 +35,14 @@
   count: 5
   total: 147
   group: properties
-- name: composites
-  count: 4
-  total: 264
-  group: processing
 - name: gnn
   count: 4
   total: 35
   group: representation
+- name: composites
+  count: 3
+  total: 264
+  group: processing
 - name: inverse-design
   count: 3
   total: 45

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.01696.html">Significance of time-convolutionless mode-coupling theory in capturing the dynamics of glass-forming liquids</a></div></td>
 <td>Michio Tokuyama</td>
 <td><a href="http://arxiv.org/abs/2606.01696">2606.01696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12127.html">Identifying the relevant parameters in design strategies for stable glasses</a></div></td>
-<td>Leonardo Galliano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12127">2605.12127</a></td>
 </tr>
 </tbody></table>
