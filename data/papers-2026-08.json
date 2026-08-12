@@ -430,6 +430,27 @@
   ],
   "updated": "2026-08-04"
  },
+ "2608.03848": {
+  "abstract": "We study approximate counting and sampling algorithms for the hard-core model on $Δ$-regular bipartite graphs under a spectral expansion condition. Let $M_G$ be the biadjacency matrix of $G$. For every fixed $ξ\\in(0,1)$, we give an FPRAS for the hard-core partition function and an efficient approximate sampler whenever \\[ λ\\leq \\frac{1-ξ}{σ_2(M_G)}. \\]   The main idea is to introduce a family of quadratic tilts in the left-right occupation imbalance and show that each tilted measure can be sampled efficiently using Glauber dynamics. A discrete Gaussian identity expresses the original hard-core model as an exact positive mixture of these tilted measures; truncation and simulated annealing then yield efficient counting and sampling algorithms.   For the complementary high-fugacity regime, we refine the polymer-model approach and show that the required phase-dominance and cluster expansion conditions follow from the singular-spectrum bound alone. Combining the two regimes, we obtain efficient approximate counting and sampling at every fugacity $λ>0$ whenever \\[ σ_2(M_G)\\leq c\\left(\\frac{Δ^2}{\\log(\\mathrm eΔ)}\\right)^{1/3} \\] for an absolute constant $c>0$. In particular, this recovers all-fugacity algorithms for random $Δ$-regular bipartite graphs for all sufficiently large $Δ$, while providing an efficiently verifiable certificate of their success on a given instance.",
+  "authors": [
+   "Ijay Narang",
+   "Will Perkins"
+  ],
+  "categories": [
+   "cs.DS"
+  ],
+  "comment": null,
+  "first_author": "Ijay Narang",
+  "pdf_url": "http://arxiv.org/pdf/2608.03848",
+  "primary_category": "cs.DS",
+  "published": "2026-08-04",
+  "tags": [],
+  "title": "The Hard-Core Model on Bipartite Spectral Expanders: Counting and Sampling at All Fugacities",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-04"
+ },
  "2608.04146": {
   "abstract": "Stress relaxation in transient polymer networks often shows extended power-law behavior, $G(t) \\sim t^{-β}$, where the exponent $β$ frequently departs from the value $1/2$ predicted by the sticky Rouse model and its variants. We introduce the fractional inhomogeneous Rouse model (FIRM), which uses a generalized Langevin equation driven by fractional Gaussian noise of exponent $α$, while retaining heterogeneous bead friction to represent sticky cross-links. Thus, FIRM unifies subdiffusive sticker dynamics and chain heterogeneity within a single framework. We show that the relaxation modulus $G(t)$ can be represented as a linear combination of Mittag-Leffler functions. For homogeneous chains, it recovers two power-law regimes, $t^{-α/2}$ and $t^{-2α}$, on either side of the terminal relaxation time. Fitting FIRM to stress relaxation data for an imine-based polystyrene vitrimer shows that $α< 1$ is required to capture the shape of the terminal relaxation. It also accommodates both Arrhenius and non-Arrhenius temperature dependence in the rheological activation energy. We derive expressions for dynamic properties such as mean-squared displacement and dielectric response and outline how generalized memory kernels extend the framework to real materials. Together, these results suggest novel ways in which data from rheology, dielectric spectroscopy, scattering, and other experimental methods may be incorporated into a chemistry-specific molecular model.",
   "authors": [
@@ -529,6 +550,30 @@
   ],
   "updated": "2026-08-05"
  },
+ "2608.05881": {
+  "abstract": "Shell-based cohesive elements tend to overestimate the compression ahead of the crack tip because of approximations in the penalty stiffness. In this study, the higher-order structural cohesive element previously developed by the authors is enhanced with a resin-rich layer-dependent penalty stiffness to improve both computational efficiency and predictive accuracy. The proposed formulation distinguishes between the normal and shear penalty stiffnesses. It extends the resin-rich layer-based penalty stiffness from the layer-wise to the equivalent single-layer framework. This extension is achieved using the through-thickness distributions of the out-of-plane normal and transverse shear stresses derived from beam theory. The proposed method is verified and validated against benchmark problems for Mode I, Mode II, mixed-mode, and reinforced DCB configurations. Compared with the conventional formulation, it exhibits significantly improved mesh convergence and provides more accurate predictions of the compression distribution ahead of the crack tip and the delamination propagation.",
+  "authors": [
+   "Xiaopeng Ai",
+   "Christos Kassapoglou",
+   "Boyang Chen"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "45 pages, 30 figures",
+  "first_author": "Xiaopeng Ai",
+  "pdf_url": "http://arxiv.org/pdf/2608.05881",
+  "primary_category": "cs.CE",
+  "published": "2026-08-06",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Accurate simulation of delamination with a resin-rich layer-dependent penalty stiffness based on structural cohesive elements",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-06"
+ },
  "2608.06321": {
   "abstract": "Transcranial focused ultrasound is a non-invasive neuromodulation modality with millimetre-scale resolution, but its biophysical mechanism of action remains unresolved. Exposure is conventionally specified by transducer surface or derated focal pressure, quantities only indirectly related to what matters for therapy: which neurons fire and through which pathway. We address this gap with an end-to-end computational framework that maps a transcranial acoustic field to per-voxel neural firing maps registered to anatomy. The pipeline couples heterogeneous nonlinear full-wave acoustic propagation, viscoelastic shear-wave propagation, Pennes bioheat diffusion, a bilayer-mechanics conversion from tissue strain to membrane tension, and a multi-compartment Hodgkin-Huxley neuron carrying mechanosensitive, cavitation-coupled, calcium-coupled, thermosensitive, astrocytic-gliotransmitter, and mechanosensitive-synaptic pathways. Six candidate mechanisms are implemented as interchangeable components on a shared neuron model, so their firing predictions can be compared directly on the same field, and every numerical parameter is classified by source and bracketed by sensitivity analysis. We demonstrate the framework on a theta-burst sonication delivered through a micro-CT human-skull specimen targeting the left dorsal anterior cingulate cortex, predicting a focal firing zone of approximately 8,500 mm^3 at a focal thermal rise well within ITRUSST consensus safety envelopes. The principal output is a per-voxel firing-volume map resolved jointly with the acoustic, elastic, and thermal field histories that drive it, giving spatially resolved, falsifiable predictions that are testable against high-density extracellular recordings and support parameter estimation, cell-type-resolved mechanism identification, and quantitative safety assessment for ultrasound neuromodulation.",
   "authors": [
@@ -550,5 +595,102 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-08-06"
+ },
+ "2608.06694": {
+  "abstract": "Coarse-grained (CG) molecular dynamics extends polymer simulation beyond the scales accessible to all-atom (AA) methods, but bottom-up CG modeling is laborious. The CG resolution is a design choice, so a transferable parameter set is generally not available and the potentials are derived anew for each polymer mapping. Here we present CGMas, a multi-agent framework that automates topology construction, equilibration, mapping, potential derivation, and validation from a natural-language specification of the polymer and target resolution. A large-language-model (LLM) reasoning agent infers the AA topology from polymer name, while layered self-correction resolves physical errors common to unsaturated, heteroatom-containing, and polar polymers. Downstream agents equilibrate the system, map it onto CG representation, derive potentials through Boltzmann inversion, and benchmark the model against its atomistic reference. CGMas completed all 27 homopolymer and copolymer tasks, matched the AA density to within 5% in 22, and reduced simulation from 38-88 min to 1 min, establishing agentic LLMs as a route to automated polymer coarse-graining.",
+  "authors": [
+   "Joohee Choi",
+   "Junhyeong Lee",
+   "Seunghwa Ryu"
+  ],
+  "categories": [
+   "cs.AI",
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Joohee Choi",
+  "pdf_url": "http://arxiv.org/pdf/2608.06694",
+  "primary_category": "cs.AI",
+  "published": "2026-08-07",
+  "tags": [
+   "benchmarking",
+   "coarse-grained",
+   "molecular-dynamics"
+  ],
+  "title": "A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.08379": {
+  "abstract": "This is the first in a series of papers aimed at understanding the statistics of coalescing particles in turbulent flow and their relation to collisionless ghost particles. We perform three families of Direct Numerical Simulations (DNS) under identical flow conditions: ghost particles without mutual interactions; particles that coalesce upon collision with lost monomers replenished at random positions (CR); and particles with the same collision-coalescence kinetics without replenishment (CN). All analyses are monodisperse and concern only monomers. Across $St=0.01\\text{-}3.0$, the ghost-particle system has higher collision kernels ($K$) and radial distribution functions (RDFs, $g(r)$) near contact than the coalescing systems. A velocity-filtered RDF, $g_{\\mathrm{G}}^{(-)}(r)$, provides a reasonable estimate of the CR contact RDF, $g_{\\mathrm{CR}}(d)$. We show that the residual discrepancy between $g_{\\mathrm{G}}^{(-)}(d)$ and $g_{\\mathrm{CR}}(d)$, and between the corresponding kernels, arises from correlations among successive collisions in the ghost-particle system. A history-filtered ghost-particle kernel, excluding such correlations, reproduces the coalescing-system kernel. We introduce a collision-correlation time $τ_{\\mathrm{cc}}$ that quantifies how long current collisions influence future events and find that it has a finite, narrow range across the studied $St$. Filtering particles with collisions within a period comparable to $τ_{\\mathrm{cc}}$ yields a history-filtered RDF that reproduces those of both coalescing systems. Finally, the fraction of repeated collisions involving identical particles decays exponentially with $St$. These results unify the coalescing and ghost-particle systems as a history-filtered framework.",
+  "authors": [
+   "Fanxi Gong",
+   "Ewe-Wei Saw"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "24 pages, 10 figures, 3 supplementary figures",
+  "first_author": "Fanxi Gong",
+  "pdf_url": "http://arxiv.org/pdf/2608.08379",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-09",
+  "tags": [],
+  "title": "Correlated collisions and history filtering: unraveling and reproducing the statistics of coalescing particles in turbulence from the ghost-particle framework",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-09"
+ },
+ "2608.09714": {
+  "abstract": "Charged colloids coated with a polymer brush can be designed to preferentially self-assemble into different crystal structures by varying easy-to-tune experimental conditions. For a given set of conditions, we have observed in experiments and simulations a distribution of thermodynamically (meta)stable self-assembled crystal structures. Properly quantifying the free energy landscape of these colloidal systems is essential for rationally choosing conditions to preferentially target particular crystal structures. For some of the structures we have formed, standard crystalline order parameters are not able to differentiate between crystals or between crystals and amorphous aggregates. We show that local environment similarity descriptors are able to distinguish the relevant metastable states, but are too expensive for use in biased MD simulations. Here, we adopt an approach from machine-learned interaction potentials showing that SE(3)-equivariant transformer networks can serve as an efficient-to-evaluate machine-learned proxy. As a result, we can compute the relative free energies of accessible colloidal structures as a function of different experimentally-relevant physical knobs that can steer our system between two observed crystal types. As an example application, we then show how changing surface potentials of positive and negative colloids while maintaining the same attractive energy can shift which crystal structure is favored.",
+  "authors": [
+   "Michael S. Chen",
+   "Stefano Sacanna",
+   "Glen M. Hocky"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "10 pages, 5 figures",
+  "first_author": "Michael S. Chen",
+  "pdf_url": "http://arxiv.org/pdf/2608.09714",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-10",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-10"
+ },
+ "2608.09881": {
+  "abstract": "We study rooted Gibbs-DLR measures in the directed polymer model on $\\mathbb{Z}^2$ with an ergodic disorder distribution which satisfies an additional mild hypothesis. We prove that the set of extremal rooted Gibbs-DLR measures is closed and totally ordered, characterize extremality in terms of path coalescence, and show that each fully supported extremal rooted Gibbs measure canonically generates a globally consistent and coalescing family of extremal rooted Gibbs measures indexed by all lattice sites. These families are, moreover, totally ordered.   Building on this structure, we prove strong existence and strong uniqueness of the associated Busemann process, together with an $L^1$ continuity theorem for the shift-covariant Busemann cocycles which is joint in the inverse temperature, the tilt parameter, and the random environment. This yields, as a corollary, in-probability continuity of the generated extremal Gibbs measures corresponding to directions of differentiability under bounded i.i.d. perturbations of the weights. In positive temperature, it shows in-probability convergence of the generated extremal Gibbs measures. At zero temperature, it also yields quenched subsequential large deviation principles for the corresponding positive-temperature rooted Gibbs-DLR measures on path space. The rate functions are determined by a zero-temperature Busemann cocycle and vanish precisely on the infinite geodesics generated by that cocycle.",
+  "authors": [
+   "Christopher Janjigian",
+   "Firas Rassoul-Agha",
+   "Timo Seppäläinen"
+  ],
+  "categories": [
+   "math.PR",
+   "math-ph"
+  ],
+  "comment": "64 pages, 1 figure",
+  "first_author": "Christopher Janjigian",
+  "pdf_url": "http://arxiv.org/pdf/2608.09881",
+  "primary_category": "math.PR",
+  "published": "2026-08-10",
+  "tags": [],
+  "title": "Rooted Gibbs-DLR Measures in Planar Directed Polymers",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-10"
  }
 }

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Joohee Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Wang-Qi Xu et al.</td>
@@ -206,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Alberto Ocana et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13184.html">Magnesium-graphene interphase boundaries created by high-pressure torsion enhance hydrogen storage kinetics:Mechanisms and significance of activation energy and frequency factor</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="nanocomposites-90d.html">nanocomposites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Runchen Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13184">2605.13184</a></td>
 </tr>
 </tbody></table>

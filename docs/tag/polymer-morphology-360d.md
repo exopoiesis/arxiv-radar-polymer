@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,11 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18574.html">Diverse, Distinct, and Densely Packed DNA Droplets</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Aria S. Chaderjian et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18574">2508.18574</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11967.html">Persistence is All You Need -- A Topological Lens on Microstructural Characterization</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a></div></td>
-<td>Maksym Szemer et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11967">2508.11967</a></td>
 </tr>
 </tbody></table>

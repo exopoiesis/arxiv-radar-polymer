@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09714.html">Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables</a></div></td>
+<td>Michael S. Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09714">2608.09714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Joohee Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04359.html">Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Wang-Qi Xu et al.</td>
@@ -182,17 +194,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.16070.html">Biophysical Considerations for Rational Antibody and ADC Design</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="mlff-90d.html">mlff</a></div></td>
 <td>Alberto Ocana et al.</td>
 <td><a href="http://arxiv.org/abs/2605.16070">2605.16070</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12870.html">PACSim: A Flexible Simulation Framework for Polymer-Attenuated Coulombic Self-Assembly</a></div></td>
-<td>Philipp Höllmer et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12870">2605.12870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.13703.html">Nonlinear dynamic elastic moduli from equilibrium stress fluctuations</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>F. E. Garbuzov et al.</td>
-<td><a href="http://arxiv.org/abs/2605.13703">2605.13703</a></td>
 </tr>
 </tbody></table>

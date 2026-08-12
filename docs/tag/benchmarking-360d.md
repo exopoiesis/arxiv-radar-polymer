@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Joohee Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05881.html">Accurate simulation of delamination with a resin-rich layer-dependent penalty stiffness based on structural cohesive elements</a></div></td>
+<td>Xiaopeng Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05881">2608.05881</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02117.html">Monolithic solution and null-space condensation of internal variables in finite viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>

@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-11._
+_Updated 2026-08-12._
 
-**3575** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3581** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09714.html">Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Michael S. Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09714">2608.09714</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09881.html">Rooted Gibbs-DLR Measures in Planar Directed Polymers</a></div></td>
+<td>Christopher Janjigian et al.</td>
+<td><a href="http://arxiv.org/abs/2608.09881">2608.09881</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.08379.html">Correlated collisions and history filtering: unraveling and reproducing the statistics of coalescing particles in turbulence from the ghost-particle framework</a></div></td>
+<td>Fanxi Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08379">2608.08379</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Joohee Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.05881.html">Accurate simulation of delamination with a resin-rich layer-dependent penalty stiffness based on structural cohesive elements</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Xiaopeng Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05881">2608.05881</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -79,6 +109,12 @@ _Updated 2026-08-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03730.html">A Spectral Route to Directed-Polymer Glasses</a></div></td>
 <td>Sen Mu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.03730">2608.03730</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.03848.html">The Hard-Core Model on Bipartite Spectral Expanders: Counting and Sampling at All Fugacities</a></div></td>
+<td>Ijay Narang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03848">2608.03848</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-04</td>
@@ -157,41 +193,5 @@ _Updated 2026-08-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Emilio N. M. Cirillo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26920">2607.26920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26992.html">Generation of representative powder particle packing in 2D/3D: which tool for which application?</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Antoine Tainturier et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26992">2607.26992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.27108.html">Formation of $\mathrm{L}1_2$-ordered $γ&#x27;$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations</a></div><div class="paper-tags"><a href="tag/monte-carlo-30d.html">monte-carlo</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Christopher D. Woodgate et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27108">2607.27108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25267.html">Tuning Density and Spin Ordering of Degenerate Fermi Gases in an Optical Cavity</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Wei Qin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25267">2607.25267</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25743.html">Physical Mechanism of Vacuole Formation in Liquid Droplets</a></div><div class="paper-tags"><a href="tag/coacervates-30d.html">coacervates</a></div></td>
-<td>Pranay Jaiswal et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25743">2607.25743</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25767.html">Critical Ripples and Dirac Fermions in Crystalline Membranes</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
-<td>Sebastián Bahamondes et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25767">2607.25767</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Yotam M. Y. Feldman et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25892">2607.25892</a></td>
 </tr>
 </tbody></table>

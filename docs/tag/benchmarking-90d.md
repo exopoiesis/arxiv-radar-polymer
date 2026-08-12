@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Joohee Choi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05881.html">Accurate simulation of delamination with a resin-rich layer-dependent penalty stiffness based on structural cohesive elements</a></div></td>
+<td>Xiaopeng Ai et al.</td>
+<td><a href="http://arxiv.org/abs/2608.05881">2608.05881</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.02117.html">Monolithic solution and null-space condensation of internal variables in finite viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>C. Hesch et al.</td>
@@ -272,17 +284,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14898.html">Generative reconstruction of 2D and 3D polycrystalline microstructures using symmetrized hyperspherical harmonics</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Ali R. Safi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.14898">2605.14898</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.12980.html">CoRe-Gen: Robust Spectrum-to-Structure Generation under Imperfect Fingerprint Conditions</a></div><div class="paper-tags"><a href="selfies-90d.html">selfies</a></div></td>
-<td>Tianbo Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2605.12980">2605.12980</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.14198.html">A microcanonical approach to criticality in the mean-field $φ^4$ model: evidence of intrinsic microcanonical structure before the thermodynamic limit</a></div></td>
-<td>Loris Di Cairano et al.</td>
-<td><a href="http://arxiv.org/abs/2605.14198">2605.14198</a></td>
 </tr>
 </tbody></table>

@@ -3,6 +3,10 @@
   count: 35
   total: 841
   group: properties
+- name: benchmarking
+  count: 16
+  total: 197
+  group: informatics
 - name: phase-separation
   count: 16
   total: 564
@@ -11,26 +15,22 @@
   count: 14
   total: 370
   group: processing
-- name: benchmarking
-  count: 14
-  total: 195
-  group: informatics
 - name: monte-carlo
   count: 11
   total: 197
   group: simulation
 - name: coarse-grained
-  count: 9
-  total: 285
+  count: 10
+  total: 286
+  group: simulation
+- name: molecular-dynamics
+  count: 8
+  total: 253
   group: simulation
 - name: polymer-morphology
   count: 8
   total: 346
   group: morphology
-- name: molecular-dynamics
-  count: 6
-  total: 251
-  group: simulation
 - name: glass-transition
   count: 5
   total: 147

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13248.html">Visible-Light Photocatalytic Degradation of Cresols using Sustainable 3D-Printed Bi4O5I2-Hematite Scaffold</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Akash Rawat et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13248">2508.13248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13202.html">Magnetic and Mossbauer studies of Ca$_x$Zn$_{1-x}$Fe$_2$O$_4$ nanoferrites</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Kemi Y. Adewale et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13202">2508.13202</a></td>
 </tr>
 </tbody></table>
