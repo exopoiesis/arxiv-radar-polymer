@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,35 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13238.html">Modeling damage and fracture in additively manufactured polymeric triply periodic minimal surface lattices</a></div></td>
 <td>Abhishek Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13238">2607.13238</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.10973.html">Understanding the Theory--Experiment Discrepancy in Pressure Drop of Dilute Polymer Solutions in Channel Flows</a></div></td>
-<td>Nan Hu et al.</td>
-<td><a href="http://arxiv.org/abs/2607.10973">2607.10973</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11110.html">Neural Discovery of Memory and Nonlocal Kernels in Integro-Differential Equations with Constrained Kolmogorov--Arnold Networks</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Aruzhan Tleubek et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11110">2607.11110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11209.html">Uncertainty-Aware Structure-Property Mapping of Spinodoid Metamaterials via Heteroscedastic Gaussian Process Regression</a></div><div class="paper-tags"><a href="inverse-design-30d.html">inverse-design</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Minwoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11209">2607.11209</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11799.html">Universal scalings and switching entropy in yield-stress fluids</a></div></td>
-<td>Rajam Elancheliyan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11799">2607.11799</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11802.html">Why gas-focused microjets are so fast: kinetically resolved, shear-driven flow focusing in vacuum</a></div></td>
-<td>Alfonso M. Ganan-Calvo</td>
-<td><a href="http://arxiv.org/abs/2607.11802">2607.11802</a></td>
 </tr>
 </tbody></table>
