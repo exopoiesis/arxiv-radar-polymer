@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dielectric-properties — 360d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <strong>360d</strong> <a href="dielectric-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06402.html">Multihyperuniform Particle Composites Inspired by Avian Photoreceptor Patterns for Optical Applications</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>David Keeney et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06402">2510.06402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12642.html">Structural, optical, and dielectric properties of Cr-doped ZnO films via DC magnetron sputtering</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Men Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12642">2508.12642</a></td>
 </tr>
 </tbody></table>

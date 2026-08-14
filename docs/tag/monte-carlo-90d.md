@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07266.html">Homojunction-induced thermopower enhancement in polymer films</a></div><div class="paper-tags"><a href="conducting-polymers-90d.html">conducting-polymers</a></div></td>
+<td>Zhen Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07266">2608.07266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01712.html">Post-Collision Thermal Excitation and Survival-Limited Cluster Growth in the Gas Phase</a></div></td>
 <td>Tomoya Tamadate et al.</td>
@@ -176,11 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.27040.html">Designing Multivalent Copolymers for Selective Targeting of Multicomponent Surfaces</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a></div></td>
 <td>Vid Ravnik et al.</td>
 <td><a href="http://arxiv.org/abs/2605.27040">2605.27040</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.15625.html">ColPackAgent: Agent-Skill-Guided Hard-Particle Monte Carlo Workflows for Colloidal Packing</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Lijie Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2605.15625">2605.15625</a></td>
 </tr>
 </tbody></table>

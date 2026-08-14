@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03114.html">Electrochemical insights into manganese-cobalt doped $α-Fe_2O_3$ nanomaterial for cholesterol detection: A comparative approach</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Sushmitha S et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03114">2510.03114</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.12642.html">Structural, optical, and dielectric properties of Cr-doped ZnO films via DC magnetron sputtering</a></div><div class="paper-tags"><a href="dielectric-properties-360d.html">dielectric-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Men Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2508.12642">2508.12642</a></td>
 </tr>
 </tbody></table>

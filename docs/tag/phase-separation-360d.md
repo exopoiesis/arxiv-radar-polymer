@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div><div class="paper-tags"><a href="oect-360d.html">oect</a> · <a href="pedot-pss-360d.html">pedot-pss</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Siqi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03560.html">Control of collective activity to crystallize an oscillator gas</a></div></td>
 <td>Marine Le Blay et al.</td>
@@ -1868,11 +1874,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13888.html">Phase Separation Kinetics in a Polar Active Field Model</a></div></td>
 <td>Massimiliano Semeraro et al.</td>
 <td><a href="http://arxiv.org/abs/2508.13888">2508.13888</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.04482.html">Entropy-driven phase behaviour of all-DNA associative polymers</a></div></td>
-<td>Francesco Tosti Guerra et al.</td>
-<td><a href="http://arxiv.org/abs/2505.04482">2505.04482</a></td>
 </tr>
 </tbody></table>

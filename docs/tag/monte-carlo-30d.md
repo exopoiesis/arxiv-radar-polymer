@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07266.html">Homojunction-induced thermopower enhancement in polymer films</a></div><div class="paper-tags"><a href="conducting-polymers-30d.html">conducting-polymers</a></div></td>
+<td>Zhen Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07266">2608.07266</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.01712.html">Post-Collision Thermal Excitation and Survival-Limited Cluster Growth in the Gas Phase</a></div></td>
 <td>Tomoya Tamadate et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14290.html">Comprehensive study of timing resolution in plastic scintillator detectors with wavelength-shifting fiber and silicon photomultiplier readout</a></div></td>
 <td>Haohui Che et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14290">2607.14290</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.16301.html">Gaussian Reformulation of the Feynman Path Integral for Quantum Statistical Mechanics with Results for the Second Virial Coefficient of $^4$He</a></div></td>
-<td>Phil Attard</td>
-<td><a href="http://arxiv.org/abs/2607.16301">2607.16301</a></td>
 </tr>
 </tbody></table>

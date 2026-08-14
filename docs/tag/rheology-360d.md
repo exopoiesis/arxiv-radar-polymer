@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14518.html">A framework for finite-strain viscoelasticity based on rheological representations</a></div></td>
 <td>Chongran Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14518">2508.14518</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13248.html">Visible-Light Photocatalytic Degradation of Cresols using Sustainable 3D-Printed Bi4O5I2-Hematite Scaffold</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="catalyst-design-360d.html">catalyst-design</a> · <a href="composites-360d.html">composites</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
-<td>Akash Rawat et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13248">2508.13248</a></td>
 </tr>
 </tbody></table>

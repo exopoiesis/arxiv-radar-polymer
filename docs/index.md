@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-13._
+_Updated 2026-08-14._
 
-**3581** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3583** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -37,6 +37,18 @@ _Updated 2026-08-13._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Joohee Choi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div><div class="paper-tags"><a href="tag/oect-30d.html">oect</a> · <a href="tag/pedot-pss-30d.html">pedot-pss</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Siqi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.07266.html">Homojunction-induced thermopower enhancement in polymer films</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Zhen Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07266">2608.07266</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-06</td>
@@ -181,17 +193,5 @@ _Updated 2026-08-13._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26793.html">High-dimensional theory of the glass transition revisited: hopping and local defects</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
 <td>Harukuni Ikeda et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26793">2607.26793</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26882.html">Junction Conditions, Radial Stability, Thermodynamics, Optical Geometry and Appearance of Polymer-Quintessence Thin-Shell Wormholes</a></div></td>
-<td>Jonathan A. Rebouças et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26882">2607.26882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Emilio N. M. Cirillo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26920">2607.26920</a></td>
 </tr>
 </tbody></table>

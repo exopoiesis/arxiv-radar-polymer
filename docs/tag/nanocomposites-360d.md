@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -230,11 +230,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02572.html">Use of Physicochemical Modification Methods for Producing Traditional and Nanomodified Polymeric Composites with Improved Operational Properties</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Aleksandr E. Kolosov et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02572">2509.02572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.13393.html">Next-generation soliton frequency combs in photonic-crystal and nanocomposite microresonators</a></div></td>
-<td>Haixin Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.13393">2508.13393</a></td>
 </tr>
 </tbody></table>

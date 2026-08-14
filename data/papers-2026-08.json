@@ -623,6 +623,68 @@
   ],
   "updated": "2026-08-07"
  },
+ "2608.07130": {
+  "abstract": "The performance of organic electrochemical transistors (OECTs) is fundamentally governed by the interplay between ionic accessibility and electronic transport within organic mixed ionic-electronic conductors. Although increasing channel thickness enhances transconductance, it also prolongs ion transport, resulting in the well-known gain-speed trade-off. Here, we demonstrate that engineering the internal morphology of PEDOT:PSS:PEI films through pH-induced aqueous phase separation provides an effective route to mitigate this limitation. The resulting interconnected pore network promotes electrolyte penetration and increases the electrochemically addressable volume, while DMSO treatment and annealing enhance the continuity and ordering of the PEDOT-rich electronic phase. Consequently, porous OECT channels achieve a transconductance of 30 mS and a response time of 13 ms at an ultralow gate voltage of 0.05 V despite channel thicknesses exceeding 100 um. Comparison of films with comparable electronic conductivity but different pore architectures identifies morphology as the dominant factor governing device performance, supporting a transition from predominantly surface-limited modulation toward spatially distributed mixed ionic-electronic transport. Beyond demonstrating a scalable water-based fabrication strategy, this work establishes internal morphology as a design parameter that complements molecular structure and device geometry in organic mixed conductors, providing a general framework for the development of high-performance OECTs, soft bioelectronics, and future neuromorphic materials.",
+  "authors": [
+   "Siqi Wang",
+   "Maria Restrepo",
+   "John Linkhorst",
+   "Matthias Wessling"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "conducting polymer, PEDOT:PSS, porous films, organic electrochemical transistors (OECTs), ion sensing",
+  "first_author": "Siqi Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.07130",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "oect",
+   "pedot-pss",
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-08-07"
+ },
+ "2608.07266": {
+  "abstract": "It has been more than twenty years since conductive polymers began to receive attention as an emerging thermoelectric material. However, the trade-off between electrical conductivity (σ) and thermopower (S) has proven to be a major challenge that has obstructed their use in actual devices. Here we report the discovery that the thermopower of the p- and n-type legs of organic thermogenerators can be substantially enhanced, without significant deterioration of σ, by constructing an in-plane segmented structure consisting of a homojunction with different doping levels on either side. In such segmented layers, the S is abnormally higher than the average value of the constituent parts when applying a forward temperature gradient (heating the heavily doped counterpart), while it is lower upon a reverse temperature gradient. Typically, for a two-stage segmented film of p-type PDPP-Se, an abnormally large S of 210 uV K-1 and σ of 2.5*10^4 S m-1 are obtained, resulting in a large power factor (PF) of 1100 uW m-1 K-2 and a record ZT of 1.36 at room temperature. The enhanced thermopower is attributed to an additional voltage developed at the homojunction under heating as explained by kinetic Monte Carlo simulations. This finding provides a breakthrough approach to the modulation of thermoelectric transport properties of conductive polymers.",
+  "authors": [
+   "Zhen Xu",
+   "Hui Li",
+   "Guangzheng Zuo",
+   "Xiaojuan Dai",
+   "Jincheng Liao",
+   "Guofeng Cheng",
+   "Jian Song",
+   "Wenqing Zhang",
+   "Martijn Kemerink",
+   "Lidong Chen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "75 pages, 45 figures",
+  "first_author": "Zhen Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.07266",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-07",
+  "tags": [
+   "conducting-polymers",
+   "monte-carlo"
+  ],
+  "title": "Homojunction-induced thermopower enhancement in polymer films",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-08-07"
+ },
  "2608.08379": {
   "abstract": "This is the first in a series of papers aimed at understanding the statistics of coalescing particles in turbulent flow and their relation to collisionless ghost particles. We perform three families of Direct Numerical Simulations (DNS) under identical flow conditions: ghost particles without mutual interactions; particles that coalesce upon collision with lost monomers replenished at random positions (CR); and particles with the same collision-coalescence kinetics without replenishment (CN). All analyses are monodisperse and concern only monomers. Across $St=0.01\\text{-}3.0$, the ghost-particle system has higher collision kernels ($K$) and radial distribution functions (RDFs, $g(r)$) near contact than the coalescing systems. A velocity-filtered RDF, $g_{\\mathrm{G}}^{(-)}(r)$, provides a reasonable estimate of the CR contact RDF, $g_{\\mathrm{CR}}(d)$. We show that the residual discrepancy between $g_{\\mathrm{G}}^{(-)}(d)$ and $g_{\\mathrm{CR}}(d)$, and between the corresponding kernels, arises from correlations among successive collisions in the ghost-particle system. A history-filtered ghost-particle kernel, excluding such correlations, reproduces the coalescing-system kernel. We introduce a collision-correlation time $τ_{\\mathrm{cc}}$ that quantifies how long current collisions influence future events and find that it has a finite, narrow range across the studied $St$. Filtering particles with collisions within a period comparable to $τ_{\\mathrm{cc}}$ yields a history-filtered RDF that reproduces those of both coalescing systems. Finally, the fraction of repeated collisions involving identical particles decays exponentially with $St$. These results unify the coalescing and ghost-particle systems as a history-filtered framework.",
   "authors": [

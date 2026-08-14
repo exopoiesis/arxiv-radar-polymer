@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">466 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2810,11 +2810,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11948.html">Colloidal hydrodynamic interactions in viscoelastic fluids</a></div></td>
 <td>Dae Yeon Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2508.11948">2508.11948</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.10926.html">Experimental investigation of the flow rate--pressure drop relation of a viscoelastic Boger fluid in a deformable channel</a></div></td>
-<td>SungGyu Chun et al.</td>
-<td><a href="http://arxiv.org/abs/2506.10926">2506.10926</a></td>
 </tr>
 </tbody></table>
