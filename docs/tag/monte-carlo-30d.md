@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Amjad El-Mellouhi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08116">2608.08116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07195.html">Distribution of the Radius of Gyration for an ISAW</a></div></td>
+<td>Antony Lesage et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07195">2608.07195</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07266.html">Homojunction-induced thermopower enhancement in polymer films</a></div><div class="paper-tags"><a href="conducting-polymers-30d.html">conducting-polymers</a></div></td>
 <td>Zhen Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07266">2608.07266</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04350.html">Quantized topological invariant of symmetry-projected Gibbs states</a></div></td>
+<td>Weiguang Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.04350">2608.04350</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.03894.html">Accelerated quantum Monte Carlo simulations of the attractive Hubbard model on the kagome lattice</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
+<td>Jie Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.03894">2608.03894</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>
@@ -68,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19198.html">ATLAS: A Foundation Neural Sampler for Amorphous Materials</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="glass-transition-30d.html">glass-transition</a> · <a href="gnn-30d.html">gnn</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Mouyang Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19198">2607.19198</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13589.html">Using backscattered thermal neutrons to monitor boron concentration during BNCT: a Monte Carlo feasibility study</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Zirui Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13589">2607.13589</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14290.html">Comprehensive study of timing resolution in plastic scintillator detectors with wavelength-shifting fiber and silicon photomultiplier readout</a></div></td>
-<td>Haohui Che et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14290">2607.14290</a></td>
 </tr>
 </tbody></table>

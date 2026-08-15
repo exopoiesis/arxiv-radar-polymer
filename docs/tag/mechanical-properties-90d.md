@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">101 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td>Michael Eden et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13051">2608.13051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13542.html">Effective field theory of quasi-hydrodynamics from kinetic theory</a></div></td>
+<td>Lorenzo Gavassino</td>
+<td><a href="http://arxiv.org/abs/2608.13542">2608.13542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11722.html">The critical exponent for semilinear wave equations with damped oscillations</a></div></td>
+<td>Marcello D&#x27;Abbicco</td>
+<td><a href="http://arxiv.org/abs/2608.11722">2608.11722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08699.html">Deformation dynamics of Oldroyd B drop in alternating electric field</a></div></td>
+<td>Sarika Shivaji Bangar et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08699">2608.08699</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Amjad El-Mellouhi et al.</td>
+<td><a href="http://arxiv.org/abs/2608.08116">2608.08116</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07059.html">Active Brownian motion in a single-relaxation viscoelastic fluid</a></div></td>
+<td>Sanatan Halder et al.</td>
+<td><a href="http://arxiv.org/abs/2608.07059">2608.07059</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06321.html">An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics</a></div></td>

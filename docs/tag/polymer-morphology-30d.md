@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
+<td>Jesse M. Steenhoff et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a> · <a href="polymer-degradation-30d.html">polymer-degradation</a></div></td>
+<td>Sameer Kumar</td>
+<td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06877.html">Autonomous Optimization of Complex Oxides for Thermochemical Fuel Production</a></div><div class="paper-tags"><a href="automated-synthesis-30d.html">automated-synthesis</a></div></td>
+<td>Shuiping Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06877">2608.06877</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div><div class="paper-tags"><a href="oect-30d.html">oect</a> · <a href="pedot-pss-30d.html">pedot-pss</a> · <a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Siqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07644.html">Reply to Smallenburg: Near-melting nucleation and the exponential growth of hard-sphere nucleation times</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
+<td>Roseanna N. Zia</td>
+<td><a href="http://arxiv.org/abs/2608.07644">2608.07644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05496.html">Morphology of frozen labyrinths from irreversible threshold dynamics</a></div></td>
+<td>Daniel Richard Levy</td>
+<td><a href="http://arxiv.org/abs/2608.05496">2608.05496</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>
@@ -56,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14697.html">Imaging and characterization of spontaneous vortices in a proximity-induced superconductor</a></div><div class="paper-tags"><a href="nanocomposites-30d.html">nanocomposites</a></div></td>
 <td>Iku Nakaaki et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14697">2607.14697</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14287.html">XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Md Mahedi Hasan et al.</td>
-<td><a href="http://arxiv.org/abs/2607.14287">2607.14287</a></td>
 </tr>
 </tbody></table>

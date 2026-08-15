@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">197 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Jesse M. Steenhoff et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td>Sameer Kumar</td>
+<td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06877.html">Autonomous Optimization of Complex Oxides for Thermochemical Fuel Production</a></div><div class="paper-tags"><a href="automated-synthesis-360d.html">automated-synthesis</a></div></td>
+<td>Shuiping Gong et al.</td>
+<td><a href="http://arxiv.org/abs/2608.06877">2608.06877</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div><div class="paper-tags"><a href="oect-360d.html">oect</a> · <a href="pedot-pss-360d.html">pedot-pss</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Siqi Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07644.html">Reply to Smallenburg: Near-melting nucleation and the exponential growth of hard-sphere nucleation times</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Roseanna N. Zia</td>
+<td><a href="http://arxiv.org/abs/2608.07644">2608.07644</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05496.html">Morphology of frozen labyrinths from irreversible threshold dynamics</a></div></td>
+<td>Daniel Richard Levy</td>
+<td><a href="http://arxiv.org/abs/2608.05496">2608.05496</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-03</td>
