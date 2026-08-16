@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">167 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1010,11 +1010,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14047.html">Microrheology with rotational Brownian motion</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Yasuya Nakayama</td>
 <td><a href="http://arxiv.org/abs/2508.14047">2508.14047</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15091.html">Visualizing Poloidal Orientation in DNA Minicircles</a></div></td>
-<td>Tony Lemos et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15091">2508.15091</a></td>
 </tr>
 </tbody></table>

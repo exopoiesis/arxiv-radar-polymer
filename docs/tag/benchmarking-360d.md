@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">146 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16997.html">An improved lattice Boltzmann method with a novel conservative boundary scheme for viscoelastic fluid flows</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Yuan Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16997">2508.16997</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14980.html">Paired-Sampling Contrastive Framework for Joint Physical-Digital Face Attack Detection</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
-<td>Andrei Balykin et al.</td>
-<td><a href="http://arxiv.org/abs/2508.14980">2508.14980</a></td>
 </tr>
 </tbody></table>

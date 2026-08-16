@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.17851.html">Equivalence of effective actions</a></div></td>
 <td>Kevin Falls</td>
 <td><a href="http://arxiv.org/abs/2504.17851">2504.17851</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02572.html">Use of Physicochemical Modification Methods for Producing Traditional and Nanomodified Polymeric Composites with Improved Operational Properties</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Aleksandr E. Kolosov et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02572">2509.02572</a></td>
 </tr>
 </tbody></table>

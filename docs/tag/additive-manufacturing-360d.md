@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">201 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1220,11 +1220,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08093.html">Implicit Toolpath Generation for Functionally Graded Additive Manufacturing via Gradient-Informed Slicing</a></div></td>
 <td>Charles Wade et al.</td>
 <td><a href="http://arxiv.org/abs/2505.08093">2505.08093</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16661.html">QA-VLM: Providing human-interpretable quality assessment for wire-feed laser additive manufacturing parts with Vision Language Models</a></div></td>
-<td>Qiaojie Zheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16661">2508.16661</a></td>
 </tr>
 </tbody></table>
