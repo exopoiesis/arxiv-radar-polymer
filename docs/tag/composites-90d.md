@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20311.html">WaveGraphNet: Physics-Consistent Guided-Wave Damage Localization through Coupled Inverse-Forward Graph Learning</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Vinay Sharma et al.</td>
 <td><a href="http://arxiv.org/abs/2605.20311">2605.20311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.18254.html">Efficient generation of large-scale non-equilibrium distributions of particles</a></div></td>
-<td>Sergejs Tarasovs</td>
-<td><a href="http://arxiv.org/abs/2605.18254">2605.18254</a></td>
 </tr>
 </tbody></table>

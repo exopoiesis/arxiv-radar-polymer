@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">471 papers</span>
+  <span class="paper-count">469 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2828,17 +2828,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08839.html">The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows</a></div></td>
 <td>Callum W. Fairbairn et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08839">2506.08839</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08559.html">Interfacial Entanglement-Induced Time-Dependent Solidification of Polymeric Fluids</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Jaewon Shim et al.</td>
-<td><a href="http://arxiv.org/abs/2507.08559">2507.08559</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10722.html">Well-posedness and relaxation in a simplified model for viscoelastic phase separation via Hilbertian gradient flows</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Moritz Immanuel Gau et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10722">2508.10722</a></td>
 </tr>
 </tbody></table>

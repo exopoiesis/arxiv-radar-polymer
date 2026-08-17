@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymerization — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <strong>360d</strong> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18536.html">Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a></div></td>
 <td>Yuyang Li et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18536">2508.18536</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.15571.html">Controlling polymerization-induced phase separation in the synthesis of porous gels</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Yanxia Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.15571">2508.15571</a></td>
 </tr>
 </tbody></table>
