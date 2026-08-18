@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19937.html">Decoupling dynamics and crosslink stability in supramolecular hydrogels using associative exchange</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Pierre Le Bourdonnec et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19937">2508.19937</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.00161.html">Optimized Lattice-Structured Flexible EIT Sensor for Tactile Reconstruction and Classification</a></div></td>
-<td>Huazhi Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2505.00161">2505.00161</a></td>
 </tr>
 </tbody></table>

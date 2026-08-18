@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">469 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
+<td>Arisa Yokokoji et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13908">2608.13908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14118.html">Contact Formation and Viscoelastic Detachment in Non-Circular Soft Adhesive Contacts</a></div></td>
+<td>Sonu Dhiman et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14118">2608.14118</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
@@ -2822,11 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16997.html">An improved lattice Boltzmann method with a novel conservative boundary scheme for viscoelastic fluid flows</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Yuan Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16997">2508.16997</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08839.html">The Interplay of Parametric and Magnetorotational Instabilities in Oscillatory Shear Flows</a></div></td>
-<td>Callum W. Fairbairn et al.</td>
-<td><a href="http://arxiv.org/abs/2506.08839">2506.08839</a></td>
 </tr>
 </tbody></table>

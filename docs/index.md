@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-17._
+_Updated 2026-08-18._
 
-**3631** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3637** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13843.html">Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="tag/mlff-30d.html">mlff</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Xiaolong Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13843">2608.13843</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Arisa Yokokoji et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13908">2608.13908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14118.html">Contact Formation and Viscoelastic Detachment in Non-Circular Soft Adhesive Contacts</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Sonu Dhiman et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14118">2608.14118</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14276.html">Generalizing the multidimensional thermodynamic uncertainty relation to combinations of arbitrary counting variables</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Niklas Buschmann et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14276">2608.14276</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -55,6 +79,18 @@ _Updated 2026-08-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13542.html">Effective field theory of quasi-hydrodynamics from kinetic theory</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Lorenzo Gavassino</td>
 <td><a href="http://arxiv.org/abs/2608.13542">2608.13542</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13666.html">Far-from-equilibrium scaling of non-abelian Goldstone modes</a></div></td>
+<td>Carl Philipp Zelle et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13666">2608.13666</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div><div class="paper-tags"><a href="tag/dielectric-properties-30d.html">dielectric-properties</a> · <a href="tag/membranes-30d.html">membranes</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Jay Prakash Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-12</td>
@@ -157,41 +193,5 @@ _Updated 2026-08-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09714.html">Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Michael S. Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09714">2608.09714</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09881.html">Rooted Gibbs-DLR Measures in Planar Directed Polymers</a></div></td>
-<td>Christopher Janjigian et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09881">2608.09881</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.08379.html">Correlated collisions and history filtering: unraveling and reproducing the statistics of coalescing particles in turbulence from the ghost-particle framework</a></div></td>
-<td>Fanxi Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08379">2608.08379</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.08571.html">A General Theory for Phenotypic Association in Biological Systems</a></div></td>
-<td>Giuseppe Battaglia</td>
-<td><a href="http://arxiv.org/abs/2608.08571">2608.08571</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.08699.html">Deformation dynamics of Oldroyd B drop in alternating electric field</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Sarika Shivaji Bangar et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08699">2608.08699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a></div></td>
-<td>Steve Cabrel Teguia Kouam et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.07975.html">Turning angle analysis reveals hidden anisotropies in the anomalous diffusion of molecules in live cells</a></div></td>
-<td>Michał Balcerek et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07975">2608.07975</a></td>
 </tr>
 </tbody></table>
