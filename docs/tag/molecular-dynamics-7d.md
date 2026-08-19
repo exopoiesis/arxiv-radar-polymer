@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="gnn-7d.html">gnn</a> · <a href="polymer-degradation-7d.html">polymer-degradation</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="thermal-conductivity-7d.html">thermal-conductivity</a></div></td>
+<td>S. Saito et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15609">2608.15609</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13843.html">Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="mlff-7d.html">mlff</a></div></td>
 <td>Xiaolong Yang et al.</td>
@@ -32,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11880.html">Density-Selected Topological Pathways in the Melting of Single-Particle-Thick Stripes</a></div></td>
 <td>José Rafael Bordin</td>
 <td><a href="http://arxiv.org/abs/2608.11880">2608.11880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="diffusion-model-7d.html">diffusion-model</a></div></td>
-<td>Jiabao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
 </tr>
 </tbody></table>

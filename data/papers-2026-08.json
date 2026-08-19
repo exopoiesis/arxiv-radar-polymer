@@ -2151,5 +2151,221 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-08-14"
+ },
+ "2608.14853": {
+  "abstract": "The glass transition temperature ($T_{g}$) of alkali borate glasses is strongly composition-dependent and difficult to predict from first principles due to the structural complexity of the boron network. Here, we apply physics-informed symbolic regression (combining evolutive search with physically meaningful descriptors) to derive an interpretable closed-form expression for $T_{g}$ in the $x\\mathrm{M}_2\\mathrm{O}\\cdot(100-x)\\mathrm{B}_2\\mathrm{O}_3$ glass family, with M = Li, Na, and K and $x$ expressed in mol%, and subsequently extrapolate it to M = Rb and Cs. The resulting model achieves a root-mean-square error of 14-16 K while maintaining clear physical interpretability, explicitly capturing the interplay among $T_{g}$, structural dissociation energy, and network packing. Critically, models built on the Rigid Unit Packing Fraction (RUPF) yield substantially more realistic $T_{g}$ predictions than those using the conventional Atomic Packing Fraction (APF), as APF overestimates structural rigidity at intermediate compositions. The fitted dissociation energies are further validated against the revised Makishima-Mackenzie model, confirming that the inferred parameters are physically consistent, not merely statistically effective, within the alkali borate family. Finally, Monte Carlo uncertainty quantification reveals that prediction uncertainty is highest in the compositional regions associated with the boron anomaly, directly linking model limitations to a known structural transition in these glasses. This result highlights the potential of physics-informed symbolic regression as a transparent and interpretable alternative to black-box models for property prediction in glass systems.",
+  "authors": [
+   "Leonardo dos Santos Vitoria",
+   "Marcio Luis Ferreira Nascimento",
+   "Susana de Souza Lalic",
+   "Daniel Roberto Cassar"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 3 figures",
+  "first_author": "Leonardo dos Santos Vitoria",
+  "pdf_url": "http://arxiv.org/pdf/2608.14853",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-14",
+  "tags": [
+   "glass-transition",
+   "monte-carlo"
+  ],
+  "title": "Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-14"
+ },
+ "2608.14946": {
+  "abstract": "Widely used in mechanics and mathematical physics, physical components remove the inherent coordinate-dependent scaling in curvilinear coordinates, yielding components of consistent physical dimension. In orthogonal coordinates, they are constructed by normalizing the coordinate frame and coframe; in general coordinates, however, their construction requires additional, non-trivial choices. In this paper, we extract physical components of arbitrary tensors on arbitrary Riemannian manifolds by orthonormalization of the coordinate frame. We further formulate a general normalization framework distinguishing three requirements: dimensional consistency, dual frame-coframe compatibility, and unit normalization. We show that dimensional consistency alone leaves independent general linear gauge freedoms for the contravariant and covariant components. Further requiring dual compatibility locks these into a single general linear gauge; a dual-compatible frame and coframe are both of unit length if and only if they are orthonormal. Thus, the choice of orthonormal transformations emerges as the only physical-components framework that satisfies all three requirements. We apply this framework to nonlinear elasticity and inelasticity, referring broadly to constitutive responses involving internal distortions, of which we study anelasticity, viscoelasticity, and visco-anelasticity. We examine the deformation gradient, inelastic distortions, strain measures, and stress tensors. We conclude by arguing that physical components remain neither intrinsic nor unique.",
+  "authors": [
+   "Souhayl Sadik",
+   "Arash Yavari"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Souhayl Sadik",
+  "pdf_url": "http://arxiv.org/pdf/2608.14946",
+  "primary_category": "math-ph",
+  "published": "2026-08-15",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "On Physical Components of Tensors in Elasticity and Inelasticity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-15"
+ },
+ "2608.15320": {
+  "abstract": "Growth is a fundamental process in living systems. Although the stress-deformation response of growing materials is often described as either purely elastic or purely viscous, many biological tissues, from biofilms to tumors, exhibit both elastic and viscous behavior. Here, we show that this viscoelastic response can crucially control the mechanics of proliferating matter when the growth rate becomes comparable to the rate of stress relaxation. Focusing first on the prototypical case of a growing elastic beam, we find that the dynamics are governed by a single dimensionless parameter, $g τ$, where $g$ is the growth rate and $τ$ is the viscoelastic relaxation time. While the limits $g τ\\to 0$ and $g τ\\to \\infty$ recover purely viscous and purely elastic behavior, respectively, the intermediate regime is not merely a smooth crossover between them. Instead, qualitatively new dynamics emerge at $g τ\\sim 1$, including rapid transitions between metastable states that occur in neither limiting regime. We then develop a general, growth-compatible theoretical framework in which unconstrained growth is intrinsically stress-free, extending the analysis to other prototypical geometries and enabling simulations of more realistic growing biological materials. Within this framework, sharp mechanical transitions arise when stress generated by exponential growth accumulates faster than it can be dissipated by viscoelastic relaxation.",
+  "authors": [
+   "Valentin Slepukhin",
+   "Oskar Hallatschek"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "q-bio.PE"
+  ],
+  "comment": null,
+  "first_author": "Valentin Slepukhin",
+  "pdf_url": "http://arxiv.org/pdf/2608.15320",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-15",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Growth-Induced Transitions in Viscoelastic Matter",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-15"
+ },
+ "2608.15490": {
+  "abstract": "Tactile sensing is essential for robots in contact-rich tasks, yet many tactile sensors still provide sparse, low-dimensional signals that do not capture sufficient information for complex robotic perception and interaction. Vision-based tactile sensors (VBTSs) offer a powerful alternative by con-verting contact-induced deformation of a soft interface into im-ages. The image-based formulation gives VBTSs high-resolution, information-rich tactile observations that enable complex robotic tasks. This review surveys the full VBTS pipeline and treats sensing hardware, learning methods, simulation, and datasets as an integrated sensing-and-learning system. We 1) organize representative VBTSs into a hardware taxonomy structured by deformable elastomer design, sensor size and shape, and optical system design to guide future sensor development; 2) present a hierarchical view of learning-based tactile intelligence from low-level signal understanding to task-level policies and foundation models; and 3) examine simulation platforms and tactile datasets as a scaling layer, together with sim-to-real transfer and cross-sensor adaptation for training, benchmarking, and deployment. Finally, we identify open challenges and future directions for VBTSs in robotics. By providing a holistic view of how hardware, AI architectures, simulation, and datasets interact, this review aims to advance tactile intelligence for contact-rich robotic tasks.",
+  "authors": [
+   "Peng Zhou",
+   "Jun Hu",
+   "Sihan Chen",
+   "Zeqing Zhang",
+   "Haofei Ma",
+   "Zhenyu Lu",
+   "Sichao Liu",
+   "Xueqian Wang",
+   "Pai Zheng",
+   "Xiang Li",
+   "Shan Luo",
+   "Jia Pan",
+   "David Navarro-Alarcon",
+   "Chenguang Yang",
+   "Michael Yu Wang"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Peng Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2608.15490",
+  "primary_category": "cs.RO",
+  "published": "2026-08-16",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.15570": {
+  "abstract": "A persistent challenge in computational physical modeling is the substantial disparity between the characteristic length scales of microstructures and macroscopic structural components. Multiscale modeling has been widely adopted to bridge this gap by coupling methodologies tailored to different scales. However, conventional approaches, such as asymptotic homogenization (bottom-up) and submodeling (top-down), often entail rigorous mathematical prerequisites or intricate interfacing procedures. To address these limitations, we introduce a fully scalable neural-embedded graphical model (NEGM) that provides a unified framework for the progressive upscaling of highly heterogeneous composite materials. Specifically, NEGM encodes all microstructure- and material-related complexities into constituent neural network blocks, which are then organized into a hypergraph to simulate progressively larger domains. Extensive numerical benchmarks demonstrate that NEGM reliably predicts the physical responses of 2D and 3D composites exhibiting strong material nonlinearity, arbitrary boundary conditions, and irregular geometries. Crucially, because NEGM relies solely on neural network training and inference, it offers a scale-invariant formulation. This enables iterative application of NEGM to upscale from the microscale to arbitrarily large scales, circumventing the need for complex interfacing protocols between disparate modeling frameworks. We validate this progressive upscaling strategy on a large mosaic composite domain, showing that the accumulated error can be effectively contained provided the constituent blocks achieve sufficiently high prediction accuracy. Our findings suggest that artificial neural networks not only enhance the efficiency of direct single-scale simulations, as previously demonstrated, but also provide a clean and elegant pathway toward streamlined multiscale modeling.",
+  "authors": [
+   "Nuo Xu",
+   "Shaohua Chen"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Nuo Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.15570",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-08-16",
+  "tags": [
+   "benchmarking",
+   "composites",
+   "multiscale-modeling",
+   "polymer-morphology"
+  ],
+  "title": "Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.15609": {
+  "abstract": "Helium bubbles and grain boundaries in tungsten plasma-facing components alter hydrogen-isotope transport and thermal conduction by orders of magnitude, yet evaluating these transport properties for a given microstructure requires hours of molecular dynamics (MD) per configuration. We present a graph neural network surrogate that maps a tungsten atomic configuration containing helium bubbles and grain boundaries directly to the full $3\\times3$ symmetric tensors of the hydrogen diffusion coefficient $D_H(T)$ and the thermal conductivity $κ(T)$ at arbitrary temperature. Anisotropy is captured by a rotation-equivariant tensor pooling layer; temperature enters through predicted temperature-independent parameters (an Arrhenius pair $(D_0,E_a)$, a phonon conductivity tensor, and a defect residual resistivity) expanded analytically via the Arrhenius and Wiedemann-Franz-Matthiessen relations. Training labels for 635 microstructures are generated with an embedded-atom-method potential (Green-Kubo conductivity and multi-temperature tracer diffusion); the electronic channel is calibrated against published irradiation-degradation measurements, and the pipeline is anchored to a first-principles machine-learning potential (VASP+FLARE) through paired MD calibration runs and an active-learning loop. The learned activation energies (median 0.21 eV, rising in bubble and grain-boundary structures) reproduce literature hydrogen migration barriers and trapping physics, and the equivariant pooling keeps predictions consistent across arbitrarily oriented sub-blocks. Coupled finite-element thermal-hydrogen analyses driven by the surrogate show that conductivity degradation changes predicted hydrogen permeation by a factor of 2.5 through the temperature field. The model returns both tensors in milliseconds, enabling microstructure-resolved transport input for component-scale analyses of fusion divertors.",
+  "authors": [
+   "S. Saito",
+   "M. I. Kobayashi",
+   "T. Kasahara"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "S. Saito",
+  "pdf_url": "http://arxiv.org/pdf/2608.15609",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-16",
+  "tags": [
+   "gnn",
+   "molecular-dynamics",
+   "polymer-degradation",
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-16"
+ },
+ "2608.16111": {
+  "abstract": "Retrosynthesis is a cornerstone of drug discovery and organic synthesis. While data-driven deep learning models have shown remarkable progress, they autonomously learn reaction patterns from extensive datasets with limited integration of established chemical knowledge as priors.   To address this limitation, we introduce RetroMPA, a molecular property-aware, post-hoc enhancement module that injects chemical knowledge into the retrosynthesis pipeline. Rather than functioning as an independent SMILES sequence generator, RetroMPA is a broadly applicable, model-agnostic chemical filter designed to recalibrate and optimize the predictive pathways of existing algorithms.   This plug-and-play framework integrates seamlessly with a range of data-driven retrosynthesis methods, enhancing outputs without modifying model architecture or requiring resource-intensive retraining. By leveraging a property-aware latent embedding space, RetroMPA consistently improves top-1 accuracy across eight representative retrosynthesis models by an average of 5.50% on USPTO-50K.   Furthermore, we validate its scalability on the large-scale USPTO-Full dataset, achieving an average improvement of about 2.03% across both template-based and template-free architectures.   Wet-lab experiments provide preliminary support for the practical utility of the framework. These syntheses confirmed viable, previously unreported substrate combinations for classic reaction paradigms---specifically, Suzuki-Miyaura coupling, Bucherer reaction, and Friedel-Crafts acylation---suggesting that RetroMPA can operate beyond mere data fitting. The code is open-sourced at https://github.com/MengzhouLu/RetroMPA.",
+  "authors": [
+   "Mianzhi Liu",
+   "Fan Xiao",
+   "Zhiliang Yu",
+   "Huayang Huang",
+   "Yuke Li",
+   "Yi Yang",
+   "Wenbo Liu",
+   "Yu Wu"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": "Accepted for publication in Journal of Chemical Information and Modeling",
+  "first_author": "Mianzhi Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.16111",
+  "primary_category": "cs.LG",
+  "published": "2026-08-17",
+  "tags": [],
+  "title": "RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-08-17"
+ },
+ "2608.16267": {
+  "abstract": "Microfluidic devices are widely used in diagnostics, chemical synthesis, and biological analysis, but their development often depends on complex fabrication and design processes. Resin-based three-dimensional (3D) printing has emerged as a promising alternative to conventional microfabrication because it enables low-cost, rapid prototyping of complex multi-layer structures. However, the practical realization of 3D-printed microfluidic biochips remains challenging due to manual and expertise-intensive design workflows, the rigid nature of commonly used printing materials, and fabrication inaccuracies such as over-curing that distort internal features and may block narrow channels. In this paper, we present a cohesive design automation framework for 3D-printed microfluidics that addresses these challenges across both device design and fabrication. The framework combines interactive design tools, automated synthesis methods for functional 3D microfluidic devices, techniques for developing low-cost 3D-printed mixers, and design-for-manufacturing strategies to improve print fidelity on low-cost resin printers.",
+  "authors": [
+   "Yushen Zhang",
+   "Tsun-Ming Tseng",
+   "Ulf Schlichtmann"
+  ],
+  "categories": [
+   "cs.ET"
+  ],
+  "comment": "Accepted for publication in the 2026 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)",
+  "first_author": "Yushen Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.16267",
+  "primary_category": "cs.ET",
+  "published": "2026-08-17",
+  "tags": [
+   "automated-synthesis"
+  ],
+  "title": "Print-Aware Synthesis and Physical Design Methodologies for 3D-Printed Microfluidic Biochips",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-08-17"
  }
 }

@@ -5,15 +5,57 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-18._
+_Updated 2026-08-19._
 
-**3637** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3645** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div></td>
+<td>Mianzhi Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16111">2608.16111</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16267.html">Print-Aware Synthesis and Physical Design Methodologies for 3D-Printed Microfluidic Biochips</a></div><div class="paper-tags"><a href="tag/automated-synthesis-30d.html">automated-synthesis</a></div></td>
+<td>Yushen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16267">2608.16267</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.15490.html">Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Peng Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15490">2608.15490</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/multiscale-modeling-30d.html">multiscale-modeling</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Nuo Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15570">2608.15570</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.15609.html">Graph neural network prediction of temperature-dependent hydrogen diffusion and thermal conductivity tensors of tungsten containing helium bubbles and grain boundaries</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>S. Saito et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15609">2608.15609</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14946.html">On Physical Components of Tensors in Elasticity and Inelasticity</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Souhayl Sadik et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14946">2608.14946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.15320.html">Growth-Induced Transitions in Viscoelastic Matter</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Valentin Slepukhin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15320">2608.15320</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13843.html">Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="tag/mlff-30d.html">mlff</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
@@ -37,6 +79,12 @@ _Updated 2026-08-18._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14276.html">Generalizing the multidimensional thermodynamic uncertainty relation to combinations of arbitrary counting variables</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Niklas Buschmann et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14276">2608.14276</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Leonardo dos Santos Vitoria et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14853">2608.14853</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-13</td>
@@ -145,53 +193,5 @@ _Updated 2026-08-18._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div></td>
 <td>Junwoo Park et al.</td>
 <td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.10759.html">Scalable Size- and Shape-Selective Purification of Colloidal Building Blocks via Excluded Volume Interactions</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Thomas Kainz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10759">2608.10759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11117.html">T1, T2, and complex permittivities of hydrogels, paramagnetic salt solutions, and oils at 0.35, 1.5, and 3 Tesla</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>H Michael Gach et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11117">2608.11117</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11184.html">Microscopic derivation of a field equation for active Brownian particles</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Martín Pinto-Goldberg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11184">2608.11184</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11196.html">Work distribution for strongly coupled many-body open quantum systems</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>H. T. M. Nghiem et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11196">2608.11196</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11507.html">A piston-like polymer stochastic heat engine</a></div><div class="paper-tags"><a href="tag/tem-30d.html">tem</a></div></td>
-<td>Yi-Jui Chiu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11507">2608.11507</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09364.html">Quantum-Classical Coexistence Network Tomography</a></div></td>
-<td>Xuchuang Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09364">2608.09364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09478.html">Energy consistent hyperbolic approximation for a class of fourth-order partial differential equations</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Rahul Barthwal et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09478">2608.09478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.09714.html">Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Michael S. Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.09714">2608.09714</a></td>
 </tr>
 </tbody></table>

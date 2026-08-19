@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a> · <a href="multiscale-modeling-7d.html">multiscale-modeling</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Nuo Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15570">2608.15570</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Michael Eden et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11825.html">Lipid Controlled Non-Monotonic Assembly and Rheology of an Egg Yolk Protein at Water-Soybean Oil Interface</a></div><div class="paper-tags"><a href="phase-separation-7d.html">phase-separation</a> · <a href="rheology-7d.html">rheology</a></div></td>
 <td>Nancy Jaglan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11825">2608.11825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11196.html">Work distribution for strongly coupled many-body open quantum systems</a></div></td>
-<td>H. T. M. Nghiem et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11196">2608.11196</a></td>
 </tr>
 </tbody></table>

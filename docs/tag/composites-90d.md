@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Nuo Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15570">2608.15570</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Michael Eden et al.</td>
@@ -200,11 +206,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25287.html">Data-Driven Structural Health Monitoring of Short Carbon Fiber-Reinforced Polymer Composites via Multiphysics Phase-Field Simulation</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Behrouz Arash et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25287">2605.25287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.20986.html">Multiferroic Properties of Electrospun CFO-BCTSn Nanocomposites for Magnetoelectric and Magnetic Field Sensing Applications</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a> · <a href="tem-90d.html">tem</a></div></td>
-<td>Youness Hadouch et al.</td>
-<td><a href="http://arxiv.org/abs/2605.20986">2605.20986</a></td>
 </tr>
 </tbody></table>

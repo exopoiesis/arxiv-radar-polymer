@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15490.html">Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation</a></div></td>
+<td>Peng Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15490">2608.15490</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="multiscale-modeling-30d.html">multiscale-modeling</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Nuo Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15570">2608.15570</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -74,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20857.html">Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery</a></div><div class="paper-tags"><a href="gnn-30d.html">gnn</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Amirhossein Nouranizadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2607.20857">2607.20857</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17197.html">To win, a model must thin: Capillary thinning as a benchmark complex flow for constitutive models of viscoelastic polymer solutions</a></div></td>
-<td>Ranganathan Prabhakar et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17197">2607.17197</a></td>
 </tr>
 </tbody></table>

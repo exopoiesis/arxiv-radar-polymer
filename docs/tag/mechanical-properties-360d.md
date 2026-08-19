@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">470 papers</span>
+  <span class="paper-count">471 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14946.html">On Physical Components of Tensors in Elasticity and Inelasticity</a></div></td>
+<td>Souhayl Sadik et al.</td>
+<td><a href="http://arxiv.org/abs/2608.14946">2608.14946</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15320.html">Growth-Induced Transitions in Viscoelastic Matter</a></div></td>
+<td>Valentin Slepukhin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15320">2608.15320</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
@@ -2828,11 +2840,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19923.html">Existence for accreting viscoelastic solids at large strains</a></div></td>
 <td>Andrea Chiesa et al.</td>
 <td><a href="http://arxiv.org/abs/2508.19923">2508.19923</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16997.html">An improved lattice Boltzmann method with a novel conservative boundary scheme for viscoelastic fluid flows</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Yuan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16997">2508.16997</a></td>
 </tr>
 </tbody></table>

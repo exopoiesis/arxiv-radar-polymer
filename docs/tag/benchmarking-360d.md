@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15490.html">Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation</a></div></td>
+<td>Peng Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15490">2608.15490</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Nuo Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.15570">2608.15570</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
@@ -878,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00082.html">Phase-Field Modeling of Two-Phase Flows: A Projection-Based Cahn-Hilliard-Navier-Stokes Framework</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Sukriti Manna et al.</td>
 <td><a href="http://arxiv.org/abs/2509.00082">2509.00082</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16997.html">An improved lattice Boltzmann method with a novel conservative boundary scheme for viscoelastic fluid flows</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Yuan Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16997">2508.16997</a></td>
 </tr>
 </tbody></table>
