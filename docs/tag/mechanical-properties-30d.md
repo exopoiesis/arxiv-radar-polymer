@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,6 +56,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11722.html">The critical exponent for semilinear wave equations with damped oscillations</a></div></td>
 <td>Marcello D&#x27;Abbicco</td>
 <td><a href="http://arxiv.org/abs/2608.11722">2608.11722</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16943.html">PocketCaBER and PocketDoS: Low-cost open-source tools for teaching and learning advanced topics in fluid mechanics</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="rheology-30d.html">rheology</a></div></td>
+<td>Zhaofeng Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16943">2608.16943</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-09</td>
@@ -176,23 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19060.html">Deep learning-based prediction of time-resolved adhesive forces in viscoelastic Hertzian contacts</a></div></td>
 <td>Ali Maghami et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19060">2607.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17549.html">Universal Jamming Criticality and Self-Organizing Principles from Disorder to the Limit of Perfect Crystalline Order</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
-<td>Jianhua Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17549">2607.17549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18463.html">Viscoelastic and thermal response on nuclear pasta states at finite baryon density</a></div></td>
-<td>Nicolás Grandi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18463">2607.18463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18547.html">The Stefan problem for complete melting of finitely strained solids into viscoelastic fluids</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Tomáš Roubíček</td>
-<td><a href="http://arxiv.org/abs/2607.18547">2607.18547</a></td>
 </tr>
 </tbody></table>

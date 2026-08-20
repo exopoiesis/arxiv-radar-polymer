@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-19._
+_Updated 2026-08-20._
 
-**3645** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3650** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17248.html">Information fusion and machine learning for sensitivity analysis using physics knowledge and experimental data</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Berkcan Kapusuzoglu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17248">2608.17248</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17581.html">Modelling flow-driven pore closure of weakening poroelastic media</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Matthew V. Ghosh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.17581">2608.17581</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17692.html">Effect of Convection Rolls in Motility-Induced Phase Separation of Active Janus Particles</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Poulami Bag</td>
+<td><a href="http://arxiv.org/abs/2608.17692">2608.17692</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18059.html">Achieving Long Retention in Area-Dependent Resistive Memory with Phase-Separated Amorphous Tantalum Oxide</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Sangyong Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18059">2608.18059</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.16111.html">RetroMPA: A Molecular Property-Aware Auxiliary Framework for Enhancing Retrosynthesis Prediction</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-08-19._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11880.html">Density-Selected Topological Pathways in the Melting of Single-Particle-Thick Stripes</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>José Rafael Bordin</td>
 <td><a href="http://arxiv.org/abs/2608.11880">2608.11880</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12208.html">Dynamics of fluctuating populations in multi-state switching environments</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Mauro Mobilia</td>
-<td><a href="http://arxiv.org/abs/2608.12208">2608.12208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.12288.html">Revisiting Safe Temperature for Environmental Accelerated Aging of Additively Manufactured Polymers</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a></div></td>
-<td>Keven Alkhoury et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12288">2608.12288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jiabao Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10435">2608.10435</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.10480.html">Multi-Granular Rationale-Guided Molecular LLM for Property Prediction</a></div></td>
-<td>Junwoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10480">2608.10480</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">127 papers</span>
+  <span class="paper-count">126 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -770,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21688.html">Geometrically Frustrated Assembly at Finite Temperature: Phase Transitions from Self-Limiting to Bulk States</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Nicholas Hackney et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21688">2508.21688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19281.html">CORTEX: Composite Overlay for Risk Tiering and Exposure in Operational AI Systems</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Aoun E Muhammad et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19281">2508.19281</a></td>
 </tr>
 </tbody></table>

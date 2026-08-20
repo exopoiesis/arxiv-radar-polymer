@@ -28,6 +28,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2608.11825">2608.11825</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16943.html">PocketCaBER and PocketDoS: Low-cost open-source tools for teaching and learning advanced topics in fluid mechanics</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Zhaofeng Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16943">2608.16943</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06181.html">From expansion to collapse: Bubble and continuum multiscale modeling in open-system magmas</a></div></td>
 <td>Janine Birnbaum et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04146.html">Fractional Viscoelasticity in Transient Unentangled Polymer Networks</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Sachin Shanbhag et al.</td>
 <td><a href="http://arxiv.org/abs/2608.04146">2608.04146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18547.html">The Stefan problem for complete melting of finitely strained solids into viscoelastic fluids</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Tomáš Roubíček</td>
-<td><a href="http://arxiv.org/abs/2607.18547">2607.18547</a></td>
 </tr>
 </tbody></table>

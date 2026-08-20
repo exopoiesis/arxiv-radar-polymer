@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11825.html">Lipid Controlled Non-Monotonic Assembly and Rheology of an Egg Yolk Protein at Water-Soybean Oil Interface</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Nancy Jaglan et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11825">2608.11825</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16943.html">PocketCaBER and PocketDoS: Low-cost open-source tools for teaching and learning advanced topics in fluid mechanics</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Zhaofeng Peng et al.</td>
+<td><a href="http://arxiv.org/abs/2608.16943">2608.16943</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-06</td>

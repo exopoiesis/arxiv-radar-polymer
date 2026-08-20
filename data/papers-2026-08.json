@@ -2367,5 +2367,138 @@
    "Synthesis, Kinetics & Automation"
   ],
   "updated": "2026-08-17"
+ },
+ "2608.16943": {
+  "abstract": "We describe two open-source, 3D-printable, flexure-based tools for the quantitative measurement of extensional properties of viscoelastic fluids. These low-cost, portable, and scalable devices (which we have termed ``PocketCaBER'' and ``PocketDoS'') are particularly applicable for use in the field and in graduate-level teaching environments due to their low cost, printability on hobby 3D printers, compatibility with cell phone cameras, portability and user-friendly operation. We characterize and benchmark each device's performance against its lab-equivalent counterpart and provide downloadable STL files for rapid fabrication. We discuss experimental limitations of these devices compared with their bench-top counterparts. Finally, we illustrate the use of such tools in facilitating student engagement in polymer science and complex fluids classes---specifically, how progress in learning goals can be uniquely and effectively accelerated by providing the necessary rheological instruments directly to each individual student (especially for advanced modules such as nonlinear extensional rheology). By giving students personal, indefinite access to laboratory-level instrumentation through these open-source frugal science tools, we discuss our efforts to expand participation and engagement within the field of nonlinear rheology.",
+  "authors": [
+   "Zhaofeng Peng",
+   "Lucas Warwaruk",
+   "Thomas Livesay",
+   "Benjamin M. Yavitt",
+   "Randy H. Ewoldt",
+   "Gareth H. McKinley",
+   "Laurel Kroo"
+  ],
+  "categories": [
+   "physics.ed-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Zhaofeng Peng",
+  "pdf_url": "http://arxiv.org/pdf/2608.16943",
+  "primary_category": "physics.ed-ph",
+  "published": "2026-08-12",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "PocketCaBER and PocketDoS: Low-cost open-source tools for teaching and learning advanced topics in fluid mechanics",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-12"
+ },
+ "2608.17248": {
+  "abstract": "When computational models (either physics-based or data-driven) are used for the sensitivity analysis of engineering systems, the sensitivity estimate is affected by the accuracy and uncertainty of the model. This paper considers global sensitivity analysis (GSA) for situations where both a physics-based model and experimental observations are available, and investigates physics-informed machine learning strategies to effectively combine the two sources of information in order to maximize the accuracy of the sensitivity estimate. Two representative machine learning (ML) techniques are considered, namely, deep neural networks (DNN) and Gaussian process (GP) modeling, and two strategies for incorporating physics knowledge within these techniques are investigated, namely: (i) incorporating loss functions in the ML models to enforce physics constraints, and (ii) pre-training and updating the ML model using simulation and experimental data respectively. Four different models are built for each type (DNN and GP), and the uncertainties in these models are included in the Sobol indices computation. The DNN-based models, with many degrees of freedom in terms of model parameters and training options, are found to result in smaller bounds on the sensitivity estimates when compared to the GP-based models. The proposed methods are illustrated for additive manufacturing and lake temperature modeling examples.",
+  "authors": [
+   "Berkcan Kapusuzoglu",
+   "Sankaran Mahadevan"
+  ],
+  "categories": [
+   "cs.CE",
+   "cs.LG",
+   "stat.ME",
+   "stat.ML"
+  ],
+  "comment": "Reliability Engineering & System Safety",
+  "first_author": "Berkcan Kapusuzoglu",
+  "pdf_url": "http://arxiv.org/pdf/2608.17248",
+  "primary_category": "cs.CE",
+  "published": "2026-08-18",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Information fusion and machine learning for sensitivity analysis using physics knowledge and experimental data",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17581": {
+  "abstract": "Poroelastic materials, such as polymer tissue scaffolds, porous rocks, and hydrogels, can weaken due to interactions between the solid skeleton and chemical species in the interstitial fluid. We develop a mathematical model for a poroelastic material to provide fundamental mechanistic insight into how weakening the material can affect the time-varying mechanics of the system. Our model couples large-deformation poroelasticity with an advection-diffusion equation for the solute. Furthermore, we introduce a decay equation for the material stiffness, whose rate of decay depends on the solute concentration. In this way, we describe a three-way coupling between poroelastic deformation, weakening of the skeleton and transport of solute through the material. We exploit numerical and analytical techniques to reveal the flow-driven uniaxial compression of a weakening poroelastic material and determine parameter regimes for which weakening the material facilitates pore closure at the downstream boundary. We identify parameter regimes in which (1) a steady state is attained without pore closure, (2) pore closure occurs at a finite time or (3) the pores close instantaneously; we uncover case (2) through the introduction of weakening into the system. We provide insights into the relationship between the differing behaviours and the separation between the timescales of the system. For systems with slow weakening, we derive a leading-order approximation for the time of pore closure, treating the ratio of the timescales of poroelastic relaxation and weakening as a small parameter, and investigate the accuracy of this approximation and the new behaviours that arise when these timescales become comparable.",
+  "authors": [
+   "Matthew V. Ghosh",
+   "Matthew G. Hennessy",
+   "Andreas Münch",
+   "Sarah L. Waters"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "30 pages, 6 figures, Submitted to Journal of Fluid Mechanics",
+  "first_author": "Matthew V. Ghosh",
+  "pdf_url": "http://arxiv.org/pdf/2608.17581",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-18",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Modelling flow-driven pore closure of weakening poroelastic media",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.17692": {
+  "abstract": "We numerically study motility-induced phase separation of active particles in two-dimensional convection rolls. We analyse local packing-fraction distributions, density fluctuations, the corresponding phase diagrams, and diffusivity curves to characterise the interplay between self-propulsion, global packing fraction, and advection strength. In the weak-flow regime, the system exhibits phase separation characterised by bimodal density distributions, slowly decaying density fluctuations, and a sharp reduction in diffusivity. Increasing advection suppresses clustering by enhancing particle transport and reducing trapping, leading to a shift in the critical self-propulsion velocity for motility-induced phase separation and a shrinkage of the spinodal region. Beyond the intuitive suppression of clustering by weak-flow advection, our results reveal several non-trivial phenomena including a reentrant phase behaviour where extremely high self-propulsion hinders motility-induced phase separation by facilitating particle escape from dense regions. We also observe that the density distributions strongly depend on roll periodicity. These findings demonstrate that convection rolls provide an effective means to control non-equilibrium collective behaviour in active matter.",
+  "authors": [
+   "Poulami Bag"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Poulami Bag",
+  "pdf_url": "http://arxiv.org/pdf/2608.17692",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-18",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Effect of Convection Rolls in Motility-Induced Phase Separation of Active Janus Particles",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.18059": {
+  "abstract": "Resistive random-access memory (ReRAM) is a promising future nonvolatile memory technology. Most ReRAM exhibit a fundamental tradeoff: filament-type ReRAM provides long data retention but suffers from poor uniformity and high switching current, whereas nonfilamentary ReRAM shows lower-current, area-dependent switching but generally poor retention. No two-terminal device has been able to overcome this tradeoff. In this work, we present a two-terminal Ta2O5/ TaOX resistive memory cell that achieves both nonfilamentary switching and long retention. Electrical measurements and composition depth profile show that the switching is not confined to a single filament but is instead uniform across the entire switching region. Despite the nonfilamentary switching, this device can retain information for over 22 hours at 190 °C, which is comparable to the best filamentary devices. We propose that this long retention arises from composition phase separation in amorphous tantalum oxide. Our work shows that the fundamental tradeoff between information retention and switching uniformity can be overcome, and thereby provides a pathway toward more uniform and reliable oxide memory devices.",
+  "authors": [
+   "Sangyong Lee",
+   "Anton V. Ievlev",
+   "Dongjae Shin",
+   "Jingxian Li",
+   "Yiyang Li"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "22 pages, 4 figures",
+  "first_author": "Sangyong Lee",
+  "pdf_url": "http://arxiv.org/pdf/2608.18059",
+  "primary_category": "physics.app-ph",
+  "published": "2026-08-18",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Achieving Long Retention in Area-Dependent Resistive Memory with Phase-Separated Amorphous Tantalum Oxide",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-18"
  }
 }
