@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18867.html">Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Jakob Schattenfroh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18867">2608.18867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18868.html">Component-wise hyperreduction for nonlinear solid mechanics problems</a></div></td>
+<td>Stephan Ritzert et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18868">2608.18868</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14946.html">On Physical Components of Tensors in Elasticity and Inelasticity</a></div></td>
 <td>Souhayl Sadik et al.</td>
@@ -656,17 +668,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.25287.html">Data-Driven Structural Health Monitoring of Short Carbon Fiber-Reinforced Polymer Composites via Multiphysics Phase-Field Simulation</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Behrouz Arash et al.</td>
 <td><a href="http://arxiv.org/abs/2605.25287">2605.25287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.23752.html">Development of EAP-based actuators for high-frequency adaptive optics system</a></div><div class="paper-tags"><a href="dielectric-properties-90d.html">dielectric-properties</a></div></td>
-<td>A. Michel et al.</td>
-<td><a href="http://arxiv.org/abs/2605.23752">2605.23752</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.24276.html">Resonances in Overdamped Odd Materials</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Julius Kiln et al.</td>
-<td><a href="http://arxiv.org/abs/2605.24276">2605.24276</a></td>
 </tr>
 </tbody></table>

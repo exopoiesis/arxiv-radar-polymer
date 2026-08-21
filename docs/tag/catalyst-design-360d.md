@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalyst-design — 360d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <strong>360d</strong> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21766.html">Magnetism Enhanced Surface Bonding of O$_{2}$ on CoPt</a></div><div class="paper-tags"><a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
 <td>Kevin Allen et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21766">2508.21766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18536.html">Enzyme-free in situ polymerization of conductive polymers catalyzed by porous Au@Ag nanowires for stretchable neural electrodes</a></div><div class="paper-tags"><a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
-<td>Yuyang Li et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18536">2508.18536</a></td>
 </tr>
 </tbody></table>

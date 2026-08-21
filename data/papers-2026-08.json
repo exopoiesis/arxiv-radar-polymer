@@ -2500,5 +2500,177 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-08-18"
+ },
+ "2608.18333": {
+  "abstract": "Hydrogen detection is becoming increasingly important as its use grows across energy and industrial systems. Optical sensing platforms based on palladium (Pd) nanoparticles are attractive for this task because hydrogen uptake directly alters their plasmonic response. Organizing such nanoparticles into periodic two-dimensional arrays, known as metasurfaces, further enhances their optical response through collective resonances. However, the large design space presented by chemical composition, nanoparticle geometry, and array structure calls for systematic approaches for optimizing complex nanoalloy metasurface geometries. Here, we develop an inverse-design framework based on Bayesian optimization that couples first-principles dielectric functions with electromagnetic simulations to identify high-performance PdAu nanodisk arrays for hydrogen sensing in the 1 to 100 mbar range where the flammability of H2 becomes a concern. We use our approach to search a five-dimensional design space, comprising nanodisk height and radius, array pitch, polymer coating thickness, and Au fraction in order to maximize the H-induced change in extinction at a single wavelength of choice. The results show that integrating first-principles optical models with data-efficient optimization yields experimentally feasible nanoparticle metasurfaces tailored for targeted hydrogen pressures, while providing a pathway to future multiobjective sensor design. They also reveal remaining gaps in the modeling methodologies that still limit the quantitative reliability of the approach.",
+  "authors": [
+   "Pernilla Ekborg-Tanner",
+   "Athanasios Theodoridis",
+   "Joachim Fritzsche",
+   "Christoph Langhammer",
+   "Andrea Baldi",
+   "Paul Erhart"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "9 pages, 5 figures",
+  "first_author": "Pernilla Ekborg-Tanner",
+  "pdf_url": "http://arxiv.org/pdf/2608.18333",
+  "primary_category": "physics.optics",
+  "published": "2026-08-18",
+  "tags": [
+   "bayesian-optimization"
+  ],
+  "title": "Bayesian Optimization for Practical H2 Sensors: Inverse Design of Pd-based Plasmonic Metasurfaces",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.18418": {
+  "abstract": "As-built printed ferromagnets typically exhibit higher coercivity than optimized wrought materials, yet existing explanations rely on empirical fits or costly simulations. Herein, we provide a missing analytical theory that links print parameters directly to cooling rates, cellular spacing, dislocation density, and domain-wall pinning coercivity. Informed by metallographic grain data and using a single fitted constant, our model predicts six experimental datasets for pure Fe, Fe-6.9Si, and a multicomponent alloy within a factor of 1.9. We demonstrate that configurational lattice distortion is negligible, implying that single-phase printed alloys follow dilute-pinning laws. Critically, we introduce a confinement factor, $E=\\sqrt{λ_{c}/2δ_{w}}$, proving that solidification-induced dislocation packing makes cellular microstructures harder than conventionally cold-worked metals. The framework enables an alloy-sensitivity map to screen and rank compositions before manufacturing.",
+  "authors": [
+   "Dennis Boakye",
+   "Eric K. K. Abavare",
+   "Chuang Deng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Dennis Boakye",
+  "pdf_url": "http://arxiv.org/pdf/2608.18418",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-19",
+  "tags": [],
+  "title": "Solidification-cell confinement of domain-wall pinning in additively manufactured ferromagnets",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.18623": {
+  "abstract": "Ion conduction, membrane permeation and metal recognition hinge on electronic structure, yet first-principles simulation reaches only hundreds of atoms. UBio-MolFM lifts that ceiling: a foundation model trained on 160 million quantum-chemical labels, its receptive field spanning non-covalent distances at near-linear cost. The barrier is cost, not principle. One untuned potential keeps force error near 20 meV/Å past a thousand atoms, reproduces water's X-ray structure and ion hydration, and holds an RNA Mg$^{2+}$ site without ion-specific parameters. Cyclosporine A pays 3.5 kcal/mol in water for its permeable conformer, gated by one kinetically asymmetric hydrogen bond that a fixed-charge model flattens. In a 108,964-atom KcsA channel on one GPU, the relaxed four-ion column is anhydrous in all five replicas, in direct contact in four---the knock-on geometry ten fixed-charge simulations never form. It remains orders of magnitude costlier. Where electronic structure decides the answer, first-principles simulation is in reach.",
+  "authors": [
+   "Lin Huang",
+   "Frank Peng",
+   "JiaJun Cheng",
+   "Zion Wang",
+   "Hao Yin",
+   "Hao Li",
+   "Ji Zhang",
+   "Jack Jia",
+   "Junping Zhao",
+   "Arthur Jiang",
+   "Jia Zhang"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Lin Huang",
+  "pdf_url": "http://arxiv.org/pdf/2608.18623",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-19",
+  "tags": [],
+  "title": "UBio-MolFM: Enabling Biomolecular Dynamics at DFT Accuracy and $10^5$ Atoms with One Untuned Potential",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.18867": {
+  "abstract": "Magnetic resonance elastography (MRE) is established for noninvasive assessment of liver fibrosis. Conventional abdominal MRE is typically limited to 40-60 Hz. Lower frequencies remain largely unexplored, particularly with regard to hepatic inflammation. We developed ultra-wideband MRE covering 5-80 Hz to investigate frequency-resolved viscoelastic dispersion of the liver and spleen and to identify biomechanical markers of hepatic inflammation.   Following phantom validation, nine healthy volunteers and nine patients with inflammatory liver disease were examined at 12 frequencies. Spatiotemporal phase unwrapping and frequency-adaptive wavefield preprocessing enabled reconstruction of shear wave speed (SWS), penetration rate (PR), and loss angle ($φ$). Six rheological models were evaluated.   The largest inflammation-associated changes were observed at frequencies below 20 Hz: $φ$ increased by 63% (p<0.001), PR decreased by 37% (p=0.003), and SWS increased by 8% (p=0.008), indicating predominantly dissipative, rather than stiffness-related, changes and a shift toward fluid-like behavior with minor stiffness changes in the lower frequency regime. The rheological springpot model with serial dashpot provided the best fit and revealed distinct dispersion functions for liver and spleen. In patients, springpot elastic modulus increased (101%, p=0.001), while viscosity and springpot power-law exponent decreased (52%, p=0.002 and 58%, p<0.001) suggesting a shift from soft-fluid to stiff-solid liver properties.   Ultra-wideband MRE revealed that inflammatory liver disease is associated with property shifts toward stronger dissipation and fluid-like behavior at low frequencies while displaying solid-like behavior at higher frequencies. Ultra-low frequency MRE may provide a diagnostic window into inflammation-associated liver viscoelasticity without full rheological modeling.",
+  "authors": [
+   "Jakob Schattenfroh",
+   "Michael Fedders",
+   "Steffen P. Häseli",
+   "Tobias Puengel",
+   "Yanglei Wu",
+   "Tom Meyer",
+   "Hossein S. Aghamiry",
+   "Tim Ricken",
+   "Münevver Demir",
+   "Frank Tacke",
+   "Jing Guo",
+   "Rolf Reiter",
+   "Ingolf Sack"
+  ],
+  "categories": [
+   "physics.med-ph"
+  ],
+  "comment": null,
+  "first_author": "Jakob Schattenfroh",
+  "pdf_url": "http://arxiv.org/pdf/2608.18867",
+  "primary_category": "physics.med-ph",
+  "published": "2026-08-19",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.18868": {
+  "abstract": "Hyperreduced nonlinear solid-mechanics components can be generated offline and reused as transferable building blocks across different assemblies, boundary conditions, meshes, material parameters, and constitutive models. We use proper orthogonal decomposition (POD) and energy conserving sampling and weighting (ECSW) on the component level and connect the substructures by mortar mesh tying. The POD modes and the ECSW weights and elements are computed offline from simulations of single components and the finite rigid body motions are treated by 12 additional rigid body modes per substructure. The numerical examples demonstrate errors below 1 \\% for large quasi-static assemblies while evaluating less than 10 \\% of the elements. The same component bases and ECSW elements are successfully reused for finite-strain viscoelastic dynamics, although they were trained only on elastic Neo-Hookean component simulations. These results indicate that component-wise hyperreduction can provide reusable reduced building blocks for modular nonlinear solid-mechanics simulations.",
+  "authors": [
+   "Stephan Ritzert",
+   "Jannick Kehls",
+   "Erik Faust",
+   "Hagen Holthusen",
+   "Stefanie Reese",
+   "Tim Brepols"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Stephan Ritzert",
+  "pdf_url": "http://arxiv.org/pdf/2608.18868",
+  "primary_category": "cs.CE",
+  "published": "2026-08-19",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Component-wise hyperreduction for nonlinear solid mechanics problems",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-19"
+ },
+ "2608.19117": {
+  "abstract": "Quantitative microstructural characterization of Li-ion battery electrode materials using electron backscatter diffraction (EBSD) has been proven as a critical method for optimizing cell performance. However, the inherently slow nature of EBSD can hinder the throughput of analyses needed for statistical representation of a material microstructure being developed. This work demonstrates a machine learning super-resolution framework using a generative adversarial network (SRGAN) to significantly increase EBSD throughput. The SRGAN model was trained on EBSD data of LiNixMnyCozO2 (NMC) cathode particles to computationally enhance low-resolution datasets and its performance is compared against classical interpolation methods across various upscaling factors (2x to 12x). Both qualitative image metrics and quantitative microstructural analysis verified that the SRGAN systematically outperformed classical methods, particularly in preserving small grains and maintaining realistic grain boundaries. We demonstrate that a 5x upscaling factor, corresponding to a 25x speed-up in acquisition time or a 25x larger field of view, is practical while maintaining acceptable accuracy in key metrics like grain size and shape. For instance, at 5x upscaling, relative errors were +5.7%, +8.2%, and -14.6% on grain area-equivalent diameter, grain maximum sphere-inscribed diameter, and grain boundary length, respectively. The SRGAN methodology developed in this work significantly enhances the efficiency of EBSD acquisition for more statistically robust microstructural dataset, enabling EBSD as a high-throughput characterization tool for materials research and industrial process development.",
+  "authors": [
+   "John Mangum",
+   "Andrew Glaws",
+   "Francois Usseglio-Viretta",
+   "Steven Spurgeon",
+   "Donal Finegan"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "38 pages, 16 figures",
+  "first_author": "John Mangum",
+  "pdf_url": "http://arxiv.org/pdf/2608.19117",
+  "primary_category": "cs.LG",
+  "published": "2026-08-19",
+  "tags": [
+   "generative-model",
+   "polymer-morphology"
+  ],
+  "title": "Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-19"
  }
 }

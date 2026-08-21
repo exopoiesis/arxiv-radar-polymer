@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-20._
+_Updated 2026-08-21._
 
-**3650** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3656** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18418.html">Solidification-cell confinement of domain-wall pinning in additively manufactured ferromagnets</a></div></td>
+<td>Dennis Boakye et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18418">2608.18418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18623.html">UBio-MolFM: Enabling Biomolecular Dynamics at DFT Accuracy and $10^5$ Atoms with One Untuned Potential</a></div></td>
+<td>Lin Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18623">2608.18623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18867.html">Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Jakob Schattenfroh et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18867">2608.18867</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18868.html">Component-wise hyperreduction for nonlinear solid mechanics problems</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Stephan Ritzert et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18868">2608.18868</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19117.html">Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>John Mangum et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19117">2608.19117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.17248.html">Information fusion and machine learning for sensitivity analysis using physics knowledge and experimental data</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
@@ -37,6 +67,12 @@ _Updated 2026-08-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18059.html">Achieving Long Retention in Area-Dependent Resistive Memory with Phase-Separated Amorphous Tantalum Oxide</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Sangyong Lee et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18059">2608.18059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18333.html">Bayesian Optimization for Practical H2 Sensors: Inverse Design of Pd-based Plasmonic Metasurfaces</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a></div></td>
+<td>Pernilla Ekborg-Tanner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.18333">2608.18333</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-17</td>
@@ -157,41 +193,5 @@ _Updated 2026-08-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13666.html">Far-from-equilibrium scaling of non-abelian Goldstone modes</a></div></td>
 <td>Carl Philipp Zelle et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13666">2608.13666</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13735.html">Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities</a></div><div class="paper-tags"><a href="tag/dielectric-properties-30d.html">dielectric-properties</a> · <a href="tag/membranes-30d.html">membranes</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Jay Prakash Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13735">2608.13735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11594.html">Process-fracture mapping of a DLP-printed photopolymer using Bayesian active learning and surrogate-based sensitivity analysis</a></div><div class="paper-tags"><a href="tag/active-learning-30d.html">active-learning</a></div></td>
-<td>Ethan Blackwell et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11594">2608.11594</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11722.html">The critical exponent for semilinear wave equations with damped oscillations</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Marcello D&#x27;Abbicco</td>
-<td><a href="http://arxiv.org/abs/2608.11722">2608.11722</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11825.html">Lipid Controlled Non-Monotonic Assembly and Rheology of an Egg Yolk Protein at Water-Soybean Oil Interface</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Nancy Jaglan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11825">2608.11825</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Sameer Kumar</td>
-<td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.11880.html">Density-Selected Topological Pathways in the Melting of Single-Particle-Thick Stripes</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>José Rafael Bordin</td>
-<td><a href="http://arxiv.org/abs/2608.11880">2608.11880</a></td>
 </tr>
 </tbody></table>
