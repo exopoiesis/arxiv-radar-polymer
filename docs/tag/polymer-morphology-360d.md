@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20151.html">A Zoology of Quantum Turing Patterns</a></div></td>
+<td>Kazuki Ikeda</td>
+<td><a href="http://arxiv.org/abs/2608.20151">2608.20151</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19117.html">Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
@@ -1232,17 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20243.html">Linking heterogeneous microstructure informatics with expert characterization knowledge through customized and hybrid vision-language representations for industrial qualification</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a></div></td>
 <td>Mutahar Safdar et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20243">2508.20243</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.19100.html">Topological Invariants in the Pore Morphology Method</a></div></td>
-<td>Fernando Alonso-Marroquin</td>
-<td><a href="http://arxiv.org/abs/2502.19100">2502.19100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18574.html">Diverse, Distinct, and Densely Packed DNA Droplets</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Aria S. Chaderjian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18574">2508.18574</a></td>
 </tr>
 </tbody></table>

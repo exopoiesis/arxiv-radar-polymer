@@ -2672,5 +2672,196 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-08-19"
+ },
+ "2608.19724": {
+  "abstract": "Lipid-coated microscale hydrogels provide confined, hydrated environments in which polymer phase behavior can differ markedly from that in bulk. Here, we investigate the crystallization pathway of poly(ethylene glycol) (PEG) encapsulated in lipid-coated agarose microgels. Surprisingly, polarized-light microscopy reveals birefringence in the microgels under conditions where PEG remains non-crystalline in the corresponding bulk solution. The birefringence disappears upon heating and spontaneously reappears after further cooling or upon local mechanical stimulation. Infrared microspectroscopy demonstrates that the birefringent microgels contain crystalline PEG, whereas non-birefringent microgels contain PEG in an amorphous-like state, indicating the existence of a metastable precursor prior to crystallization. Furthermore, cooling below the phase-separation temperature produces PEG-rich domains preferentially near the membrane, suggesting that membrane wetting governs the spatial distribution of PEG before crystallization. Together, these results indicate that membrane confinement and agarose gelation cooperatively alter the local hydration environment of PEG, thereby stabilizing an amorphous-like precursor and redirecting the subsequent crystallization pathway. Our findings identify the coupling of membrane wetting and gelation as a key factor governing PEG crystallization in confined soft materials.",
+  "authors": [
+   "Masaki Yoshida",
+   "Naoya Yanagisawa",
+   "Fumiya Kanie",
+   "Hidemasa Teraoka",
+   "Ikki Morichika",
+   "Satoshi Ashihara",
+   "Tetsuya Hama",
+   "Miho Yanagisawa"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "8 pages, 6 figures",
+  "first_author": "Masaki Yoshida",
+  "pdf_url": "http://arxiv.org/pdf/2608.19724",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-20",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Cooperative effects of membrane confinement and gelation on PEG crystallization pathway",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.19810": {
+  "abstract": "The self-assembly of associative triblock copolymers composed of a central hydrophilic elastin-like polypeptide (ELP) block and short fatty acid end groups (C16) was investigated in aqueous solution. In one system, the ELP contains 80 pentapeptide units (C16-80-C16), whereas in the other two C16-ELP40 chains were oxidatively coupled through their terminal cysteine residues to form a central disulfide bond, yielding C16-(40)2-C16. Despite their nearly identical molecular weights and compositions, the two polymers exhibit markedly different self-assembly behaviors. C16-80-C16 forms large hydrophobic aggregates that remain kinetically trapped and do not develop a dynamically connected network. In contrast, C16-(40)2-C16 forms very small associative nodes with an aggregation number of only $\\sim$3 chains. These nodes coexist with larger clusters and become dynamically interconnected at higher concentrations, leading to transparent hydrogels at concentrations as low as 2.5 wt %. Oscillatory rheology reveals a transient Maxwell network governed by a single relaxation process associated with the reversible association of the C16 end groups. SAXS, light scattering, cryo-TEM, and molecular modeling consistently support a model in which the central disulfide junction promotes transient network formation.",
+  "authors": [
+   "Tingting Zhang",
+   "Jean-François Le Meins",
+   "Jean-Paul Chapel",
+   "Saron Catak",
+   "Guillaume Goudounet",
+   "Olivier Sandre",
+   "Nadia Mahmoudi",
+   "Christophe Schatz",
+   "Bertrand Garbay"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Tingting Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2608.19810",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-20",
+  "tags": [
+   "hydrogels",
+   "rheology",
+   "saxs",
+   "tem"
+  ],
+  "title": "A Central Disulfide Junction Drives Transient Network Formation in Elastin-Like Polypeptides, Enabling Low-Concentration Hydrogels",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.19884": {
+  "abstract": "Thermoresponsive microgels undergo large reversible size changes as temperature alters solvent quality. Predicting their nonequilibrium swelling and deswelling kinetics is challenging because polymer volume fraction, mechanical response, and solvent transport evolve during large volume changes. Here we develop a solvent-flux theory for the dynamics of a spherical microgel. The radius-change rate is driven by the osmotic-pressure imbalance across the particle boundary and resisted by water transport through the polymer network, yielding a nonlinear equation for the global swelling coordinate and a state- and temperature-dependent swelling diffusion coefficient, $D_{\\mathrm{SW}}(φ,T)$. In the linear-response regime, the theory recovers Tanaka--Fillmore exponential relaxation and the scaling $τ_\\mathrm{SW}\\sim R_{\\mathrm{eq}}^2γ/K_{\\mathrm{eq}}$, while providing a microscopic interpretation of the polymer--solvent friction coefficient $γ$. Beyond this limit, the model retains quadratic size scaling while accounting for state-dependent transport and mechanics. For pNIPAM microgels, it predicts asymmetric pathways, with deswelling faster than swelling over the same temperature interval. Finite thermalization produces a crossover from a microgel-controlled to a thermalization-controlled regime, in which the apparent relaxation time grows linearly with the external thermalization time and hysteresis-like loops emerge in the radius--temperature plane. A stochastic extension based on the Smoluchowski equation predicts transient broadening of the radius distribution during collapse, with maximal fluctuations in the volume-transition region. The theory links solvent transport, nonlinear swelling dynamics, thermalization effects, and nonequilibrium size fluctuations in responsive microgels.",
+  "authors": [
+   "Arturo Moncho-Jordá",
+   "Alessandro Patti",
+   "Fabián A. García-Daza",
+   "Alejandro Cuetos"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "14 pages ; 8 figures",
+  "first_author": "Arturo Moncho-Jordá",
+  "pdf_url": "http://arxiv.org/pdf/2608.19884",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-20",
+  "tags": [],
+  "title": "A solvent-flux theory for nonequilibrium swelling dynamics of thermoresponsive microgels",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20091": {
+  "abstract": "Growth may cease at a target size or continue throughout life: the determinate and indeterminate phenotypes. We develop an active viscoelastic continuum model of a tissue growing along one axis, in which cell division and death generate active stresses. We find two asymptotic states: one in which the tissue reaches a relative size fixed by its material parameters, and one in which it elongates linearly without bound. Which state is realised is set by the ratio of active stress to elastic modulus. The transition originates in a bound on the elastic stress the tissue can support: a sufficiently large activity can never be balanced. In a tissue made of parts with different material properties, the growing phase settles into fixed length proportions, set by the mechanical impedances of the parts rather than inherited; matching impedances to initial lengths preserves the proportions the tissue began with. Determinate, indeterminate and proportionate growth thus appear as regimes of one continuum mechanical framework.",
+  "authors": [
+   "Jigyasa Watwani",
+   "K. Vijay Kumar",
+   "Vishal Vasan"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft",
+   "q-bio.TO"
+  ],
+  "comment": null,
+  "first_author": "Jigyasa Watwani",
+  "pdf_url": "http://arxiv.org/pdf/2608.20091",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-08-20",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Growth phases of an active tissue: determinate, indeterminate, and proportionate",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20136": {
+  "abstract": "We introduce a geometric entropy for quantum preparations, defined as the logarithm of the Hilbert-space volume of pure states compatible with a given set of constraints. This construction extends Boltzmann's counting perspective to the quantum setting, where compatible states need not be orthogonal and the relevant notion of \"number of states\" is naturally replaced by a volume in state space. We analyze three classes of constraints: restriction to a subspace, fixed expectation values, and coarse-grained subsystem descriptions. For representative examples, including subspace projection, spin expectation values, partial trace, and an imperfect detector map, we obtain explicit scaling laws and closed-form expressions for the associated volumes. The resulting framework provides a geometric measure of quantum ignorance at the level of the preparation and complements entropy notions based on density matrices and coarse graining.",
+  "authors": [
+   "Raúl O. Vallejos",
+   "Isadora Veeren",
+   "Frederico Brito",
+   "Fernando de Melo"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "12 pages, 3 figures. Comments are welcome",
+  "first_author": "Raúl O. Vallejos",
+  "pdf_url": "http://arxiv.org/pdf/2608.20136",
+  "primary_category": "quant-ph",
+  "published": "2026-08-20",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Boltzmann counting in Hilbert space",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20151": {
+  "abstract": "We explore quantum Turing pattern zoology, where the same Lindblad equation supports a morphology atlas of stripes, spots, holes, labyrinths, and defects. The stable stripe species provides a quantitatively controlled case in which morphology and Gaussian witness loss separate parametrically. In particular, visible Turing stripes can remain after two Gaussian witness margins associated with the same $k_*$ mode cross zero in a completely positive Lindblad lattice. The witness thresholds on the exact shell fall as $\\mathcal{N}^{-1}$. The stripe nematic threshold tends to a nonzero value at fixed lattice size, time window, and morphology criterion. The ratio of the morphology threshold to either witness threshold therefore grows with $\\mathcal{N}$. Imaging and momentum-resolved covariance measurements probe these sectors separately.",
+  "authors": [
+   "Kazuki Ikeda"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech",
+   "math-ph",
+   "nlin.AO",
+   "nlin.PS"
+  ],
+  "comment": "A related work is available at arXiv:2607.26331. Code is publicly available in the author's GitHub repository. https://github.com/IKEDAKAZUKI/Quantum-Turing-Pattern",
+  "first_author": "Kazuki Ikeda",
+  "pdf_url": "http://arxiv.org/pdf/2608.20151",
+  "primary_category": "quant-ph",
+  "published": "2026-08-20",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "A Zoology of Quantum Turing Patterns",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20226": {
+  "abstract": "We study the translocation of a polymer chain through a nanopore where the chain length fluctuates stochastically due to the polymerization-depolymerization processes at the chain ends. We map this process to an equivalent representation where the pore performs a stochastic random-walk-like process on a line in the presence of two diffusing sinks on either side of it with diffusion constants $D_1$ and $D_3$ respectively. The translocation process terminates when the pore hits either of the two outer diffusing sinks. In the case where the pore motion itself is diffusive with diffusion constant $D_2$, we compute exactly the splitting probability that the pore hits the left (right) sink before hitting the right (left) sink. We show that the splitting probability in the presence of mobile sinks is rather nontrivial compared to the classical case of immobile sinks (the latter corresponds to the case when the chain length is fixed). Furthermore, we also compute exactly the probability distribution of the translocation time and that of the chain length at the completion time of the translocation. We show that both distributions have power law tails with exponents that depend continuously on the diffusion constants $D_1$, $D_2$ and $D_3$. We validate our analytical predictions via numerical simulations. We then present numerical results for the case when the pore performs a fractional Brownian motion with Hurst exponent $0<H<1$, while the sinks are still diffusive.",
+  "authors": [
+   "Alexander K. Hartmann",
+   "Satya N. Majumdar",
+   "Alberto Rosso"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": "18 pages, 14 figures",
+  "first_author": "Alexander K. Hartmann",
+  "pdf_url": "http://arxiv.org/pdf/2608.20226",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-20",
+  "tags": [
+   "polymerization"
+  ],
+  "title": "Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-20"
  }
 }

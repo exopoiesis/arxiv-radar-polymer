@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14276.html">Generalizing the multidimensional thermodynamic uncertainty relation to combinations of arbitrary counting variables</a></div></td>
-<td>Niklas Buschmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14276">2608.14276</a></td>
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20136.html">Boltzmann counting in Hilbert space</a></div></td>
+<td>Raúl O. Vallejos et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20136">2608.20136</a></td>
 </tr>
 </tbody></table>

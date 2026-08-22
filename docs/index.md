@@ -5,15 +5,57 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-21._
+_Updated 2026-08-22._
 
-**3656** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3663** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19724.html">Cooperative effects of membrane confinement and gelation on PEG crystallization pathway</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Masaki Yoshida et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19724">2608.19724</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19810.html">A Central Disulfide Junction Drives Transient Network Formation in Elastin-Like Polypeptides, Enabling Low-Concentration Hydrogels</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/saxs-30d.html">saxs</a> · <a href="tag/tem-30d.html">tem</a></div></td>
+<td>Tingting Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19810">2608.19810</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19884.html">A solvent-flux theory for nonequilibrium swelling dynamics of thermoresponsive microgels</a></div></td>
+<td>Arturo Moncho-Jordá et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19884">2608.19884</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20091.html">Growth phases of an active tissue: determinate, indeterminate, and proportionate</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Jigyasa Watwani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20091">2608.20091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20136.html">Boltzmann counting in Hilbert space</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Raúl O. Vallejos et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20136">2608.20136</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20151.html">A Zoology of Quantum Turing Patterns</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Kazuki Ikeda</td>
+<td><a href="http://arxiv.org/abs/2608.20151">2608.20151</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20226.html">Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation</a></div><div class="paper-tags"><a href="tag/polymerization-30d.html">polymerization</a></div></td>
+<td>Alexander K. Hartmann et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20226">2608.20226</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18418.html">Solidification-cell confinement of domain-wall pinning in additively manufactured ferromagnets</a></div></td>
@@ -151,47 +193,5 @@ _Updated 2026-08-21._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Michael Eden et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13051">2608.13051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13185.html">FOSSIL&#x27;s preliminary thermal architecture</a></div></td>
-<td>Valentin Sauvage et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13185">2608.13185</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Jesse M. Steenhoff et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13233.html">Manufacturing Complex Airtight Soft Pneumatic Actuators for Soft Robotics: Process Evaluation and Optimization</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/extrusion-30d.html">extrusion</a></div></td>
-<td>Mohammed Abboodi</td>
-<td><a href="http://arxiv.org/abs/2608.13233">2608.13233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13349.html">Capillary self-folding chains</a></div></td>
-<td>Megan Delens et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13349">2608.13349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13462.html">Aperiodicity is sufficient for macroscopic thermalization</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Amit Vikram</td>
-<td><a href="http://arxiv.org/abs/2608.13462">2608.13462</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13542.html">Effective field theory of quasi-hydrodynamics from kinetic theory</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Lorenzo Gavassino</td>
-<td><a href="http://arxiv.org/abs/2608.13542">2608.13542</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13666.html">Far-from-equilibrium scaling of non-abelian Goldstone modes</a></div></td>
-<td>Carl Philipp Zelle et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13666">2608.13666</a></td>
 </tr>
 </tbody></table>

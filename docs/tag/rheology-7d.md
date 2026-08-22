@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19810.html">A Central Disulfide Junction Drives Transient Network Formation in Elastin-Like Polypeptides, Enabling Low-Concentration Hydrogels</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a> · <a href="saxs-7d.html">saxs</a> · <a href="tem-7d.html">tem</a></div></td>
+<td>Tingting Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.19810">2608.19810</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18867.html">Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Jakob Schattenfroh et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18867">2608.18867</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
-<td>Arisa Yokokoji et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13908">2608.13908</a></td>
 </tr>
 </tbody></table>

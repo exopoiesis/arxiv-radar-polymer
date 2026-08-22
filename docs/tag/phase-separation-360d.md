@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">318 papers</span>
+  <span class="paper-count">317 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1916,11 +1916,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14548.html">Coarsening Kinetics in Active Model B+: Macroscale and Microscale Phase Separation</a></div></td>
 <td>Pradeep Kumar Yadav et al.</td>
 <td><a href="http://arxiv.org/abs/2506.14548">2506.14548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18574.html">Diverse, Distinct, and Densely Packed DNA Droplets</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Aria S. Chaderjian et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18574">2508.18574</a></td>
 </tr>
 </tbody></table>

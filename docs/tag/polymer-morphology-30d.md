@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20151.html">A Zoology of Quantum Turing Patterns</a></div></td>
+<td>Kazuki Ikeda</td>
+<td><a href="http://arxiv.org/abs/2608.20151">2608.20151</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19117.html">Enhancing EBSD throughput of battery electrode materials using super-resolution generative adversarial networks</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
 <td>John Mangum et al.</td>
@@ -92,11 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26610.html">First- and Second-Order Phase Transformation Modeling Based on the Hamilton Principle: A Coupled Thermo-Mechanical Approach for Glass Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Tobias Rudolf et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26610">2607.26610</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.20066.html">Kinetically-Arrested Phase Separation leads to Tunable Domain Structures in Vapor-Deposited Glasses</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>A T M Mahbub Alahe et al.</td>
-<td><a href="http://arxiv.org/abs/2607.20066">2607.20066</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20091.html">Growth phases of an active tissue: determinate, indeterminate, and proportionate</a></div></td>
+<td>Jigyasa Watwani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20091">2608.20091</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18867.html">Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
@@ -38,17 +44,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15320.html">Growth-Induced Transitions in Viscoelastic Matter</a></div></td>
 <td>Valentin Slepukhin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15320">2608.15320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Arisa Yokokoji et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13908">2608.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14118.html">Contact Formation and Viscoelastic Detachment in Non-Circular Soft Adhesive Contacts</a></div></td>
-<td>Sonu Dhiman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14118">2608.14118</a></td>
 </tr>
 </tbody></table>

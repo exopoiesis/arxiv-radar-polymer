@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20091.html">Growth phases of an active tissue: determinate, indeterminate, and proportionate</a></div></td>
+<td>Jigyasa Watwani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20091">2608.20091</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18867.html">Ultra-wideband MRE of the human liver and spleen for viscoelastic model identification in hepatic inflammation</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
 <td>Jakob Schattenfroh et al.</td>
@@ -182,11 +188,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.21791.html">Load-dependent Taylor dispersion in a compliant electroosmotic pump conveying a simplified Phan-Thien-Tanner fluid</a></div></td>
 <td>Subhajyoti Sahoo et al.</td>
 <td><a href="http://arxiv.org/abs/2607.21791">2607.21791</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19820.html">Fluid Memory Enhances Active Beating via Back-and-Forth Motion</a></div></td>
-<td>Subhajit Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2607.19820">2607.19820</a></td>
 </tr>
 </tbody></table>
