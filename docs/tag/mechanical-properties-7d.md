@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18868.html">Component-wise hyperreduction for nonlinear solid mechanics problems</a></div></td>
 <td>Stephan Ritzert et al.</td>
 <td><a href="http://arxiv.org/abs/2608.18868">2608.18868</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14946.html">On Physical Components of Tensors in Elasticity and Inelasticity</a></div></td>
-<td>Souhayl Sadik et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14946">2608.14946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15320.html">Growth-Induced Transitions in Viscoelastic Matter</a></div></td>
-<td>Valentin Slepukhin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.15320">2608.15320</a></td>
 </tr>
 </tbody></table>

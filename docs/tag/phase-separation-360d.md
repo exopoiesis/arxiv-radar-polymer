@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">317 papers</span>
+  <span class="paper-count">315 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1904,17 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21688.html">Geometrically Frustrated Assembly at Finite Temperature: Phase Transitions from Self-Limiting to Bulk States</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Nicholas Hackney et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21688">2508.21688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.08233.html">Realization of a doped quantum antiferromagnet with dipolar tunnelings in a Rydberg tweezer array</a></div></td>
-<td>Mu Qiao et al.</td>
-<td><a href="http://arxiv.org/abs/2501.08233">2501.08233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14548.html">Coarsening Kinetics in Active Model B+: Macroscale and Microscale Phase Separation</a></div></td>
-<td>Pradeep Kumar Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14548">2506.14548</a></td>
 </tr>
 </tbody></table>

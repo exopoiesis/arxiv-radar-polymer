@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">147 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -884,17 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01769.html">AM-DefectNet: Additive Manufacturing Defect Classification Using Machine Learning -- A comparative Study</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Mohsen Asghari Ilani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01769">2509.01769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.19878.html">On-chip wave chaos for photonic extreme learning</a></div></td>
-<td>Matthew R. Wilson et al.</td>
-<td><a href="http://arxiv.org/abs/2508.19878">2508.19878</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.00082.html">Phase-Field Modeling of Two-Phase Flows: A Projection-Based Cahn-Hilliard-Navier-Stokes Framework</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Sukriti Manna et al.</td>
-<td><a href="http://arxiv.org/abs/2509.00082">2509.00082</a></td>
 </tr>
 </tbody></table>

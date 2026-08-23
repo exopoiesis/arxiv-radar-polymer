@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1232,11 +1232,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20439.html">Toughening beta-Ga2O3 via mechanically seeded dislocations</a></div><div class="paper-tags"><a href="tem-360d.html">tem</a></div></td>
 <td>Zanlin Cheng et al.</td>
 <td><a href="http://arxiv.org/abs/2508.20439">2508.20439</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20243.html">Linking heterogeneous microstructure informatics with expert characterization knowledge through customized and hybrid vision-language representations for industrial qualification</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a></div></td>
-<td>Mutahar Safdar et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20243">2508.20243</a></td>
 </tr>
 </tbody></table>
