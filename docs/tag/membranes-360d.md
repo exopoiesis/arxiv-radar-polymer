@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membranes — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <strong>360d</strong> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02688.html">Ohta-Kawasaki Model Reveals Patterns on Multicomponent Vesicles</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Wangbo Luo et al.</td>
 <td><a href="http://arxiv.org/abs/2510.02688">2510.02688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20957.html">Pellet-based 3D Printing of Soft Thermoplastic Elastomeric Membranes for Soft Robotic Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Nick Willemstein et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20957">2503.20957</a></td>
 </tr>
 </tbody></table>

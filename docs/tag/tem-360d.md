@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>tem — 360d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="tem-7d.html">7d</a> <a href="tem-30d.html">30d</a> <a href="tem-90d.html">90d</a> <strong>360d</strong> <a href="tem-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Pavel Souček et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.20439.html">Toughening beta-Ga2O3 via mechanically seeded dislocations</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Zanlin Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2508.20439">2508.20439</a></td>
 </tr>
 </tbody></table>

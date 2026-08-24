@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">198 papers</span>
+  <span class="paper-count">197 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1196,11 +1196,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01769.html">AM-DefectNet: Additive Manufacturing Defect Classification Using Machine Learning -- A comparative Study</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Mohsen Asghari Ilani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01769">2509.01769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20957.html">Pellet-based 3D Printing of Soft Thermoplastic Elastomeric Membranes for Soft Robotic Applications</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
-<td>Nick Willemstein et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20957">2503.20957</a></td>
 </tr>
 </tbody></table>
