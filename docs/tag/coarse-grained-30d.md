@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21264.html">LCST and Closed-Loop Phase Behavior in Non-Associating Fully Symmetric Multicomponent Polymer Systems</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
+<td>Artem Petrov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21264">2608.21264</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20136.html">Boltzmann counting in Hilbert space</a></div></td>
 <td>Raúl O. Vallejos et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23812.html">Electrolytes confined between polarizable surfaces in slit pores with anisotropic permittivity tensor</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Alexandre P. dos Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23812">2607.23812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23259.html">Microphase Separation in Quorum-Sensing Active Particles with Competing Interactions</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Michele Antonioli et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23259">2607.23259</a></td>
 </tr>
 </tbody></table>

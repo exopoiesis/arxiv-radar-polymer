@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-24._
+_Updated 2026-08-25._
 
-**3663** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3669** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20979.html">Polymer Genome in the Age of Artificial Intelligence</a></div><div class="paper-tags"><a href="tag/inverse-design-30d.html">inverse-design</a> · <a href="tag/polymer-informatics-30d.html">polymer-informatics</a></div></td>
+<td>Jifeng Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20979">2608.20979</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21190.html">Shaping liquids into space structures - microgravity-assisted design and manufacturing of minimal surfaces</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Erez Hochman et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21190">2608.21190</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21264.html">LCST and Closed-Loop Phase Behavior in Non-Associating Fully Symmetric Multicomponent Polymer Systems</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/flory-huggins-30d.html">flory-huggins</a></div></td>
+<td>Artem Petrov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21264">2608.21264</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21313.html">Machine-Learned NMR Shieldings in Molecular Solids with Built-In Hybrid-Functional Molecular Corrections</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Matthias Kellner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21313">2608.21313</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19724.html">Cooperative effects of membrane confinement and gelation on PEG crystallization pathway</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
@@ -55,6 +79,12 @@ _Updated 2026-08-24._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20226.html">Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation</a></div><div class="paper-tags"><a href="tag/polymerization-30d.html">polymerization</a></div></td>
 <td>Alexander K. Hartmann et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20226">2608.20226</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20543.html">Highly organized smectic-like packing in vapor-deposited glasses of a liquid crystal</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
+<td>Ankit Gujral et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20543">2608.20543</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -163,35 +193,5 @@ _Updated 2026-08-24._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13843.html">Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="tag/mlff-30d.html">mlff</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Xiaolong Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13843">2608.13843</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Arisa Yokokoji et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13908">2608.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14118.html">Contact Formation and Viscoelastic Detachment in Non-Circular Soft Adhesive Contacts</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Sonu Dhiman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14118">2608.14118</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14276.html">Generalizing the multidimensional thermodynamic uncertainty relation to combinations of arbitrary counting variables</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Niklas Buschmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14276">2608.14276</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Leonardo dos Santos Vitoria et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14853">2608.14853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Michael Eden et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13051">2608.13051</a></td>
 </tr>
 </tbody></table>

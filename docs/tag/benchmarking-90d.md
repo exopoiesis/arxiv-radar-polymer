@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21313.html">Machine-Learned NMR Shieldings in Molecular Solids with Built-In Hybrid-Functional Molecular Corrections</a></div></td>
+<td>Matthias Kellner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21313">2608.21313</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15490.html">Vision-Based Tactile Intelligence for Robotics: Sensing, Learning, and Embodied Manipulation</a></div></td>
 <td>Peng Zhou et al.</td>
@@ -230,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28960.html">How Atoms Interact Within Molecules</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a></div></td>
 <td>Adil Kabylda et al.</td>
 <td><a href="http://arxiv.org/abs/2605.28960">2605.28960</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26833.html">Periodic Topological Deep Learning for Polymer Design and Discovery</a></div></td>
-<td>Yasharth Yadav et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26833">2605.26833</a></td>
 </tr>
 </tbody></table>

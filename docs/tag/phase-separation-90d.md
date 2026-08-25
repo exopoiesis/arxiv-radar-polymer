@@ -112,6 +112,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2608.04263">2608.04263</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20404.html">Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20404">2608.20404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div></td>
 <td>Emilio N. M. Cirillo et al.</td>
@@ -398,11 +404,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29162.html">Passive memory reshapes active persistence</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Ivan Di Terlizzi et al.</td>
 <td><a href="http://arxiv.org/abs/2605.29162">2605.29162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.26623.html">An Unconditionally Linearly Convergent ADMM Approach for the Allen-Cahn Equation with Flory-Huggins Potential</a></div><div class="paper-tags"><a href="flory-huggins-90d.html">flory-huggins</a></div></td>
-<td>Peng Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2605.26623">2605.26623</a></td>
 </tr>
 </tbody></table>

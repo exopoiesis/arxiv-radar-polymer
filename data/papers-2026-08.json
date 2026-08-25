@@ -2863,5 +2863,171 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-08-20"
+ },
+ "2608.20404": {
+  "abstract": "The discovery of governing partial differential equations (PDEs) directly from spatiotemporal data has emerged as a powerful tool for understanding the dynamics of complex systems. In this work, we apply PDE-SINDy to well-known phase-separating systems and examine how its performance depends on the amount of available data, the size of the function library, and the presence of noise. Our results show that the accuracy of equation discovery depends strongly on the amount of available data. Although the correct equation can be identified with limited data, several spurious terms also acquire finite selection probabilities. As the amount of data increases, these spurious terms are progressively suppressed, leading to a more robust identification of the governing equation. In contrast, increasing the size of the function library adversely affects the efficiency of equation discovery. Further, for the Glauber spin-flip Ising model, we show that the selection probabilities reveal a hierarchy of equations with varying levels of complexity. A sufficiently stringent selection threshold recovers a Model-A-like dynamical equation that accurately reproduces the dynamical and statistical features of phase separation and domain growth.",
+  "authors": [
+   "Partha Sarathi Mondal",
+   "Manav Kumar Jalan",
+   "Anish Kumar",
+   "Shradha Mishra"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "cs.LG"
+  ],
+  "comment": "14 pages, 12 figures",
+  "first_author": "Partha Sarathi Mondal",
+  "pdf_url": "http://arxiv.org/pdf/2608.20404",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-04",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-04"
+ },
+ "2608.20543": {
+  "abstract": "Glasses of a model smectic liquid crystal-forming molecule, itraconazole, were prepared by vapor deposition onto substrates with temperatures ranging from Tsubstrate = 0.78 Tg to 1.02 Tg, where Tg = 330 K is the glass transition temperature. The films were characterized using x-ray scattering techniques. For Tsubstrate near and below Tg, glasses with layered smectic-like structures can be prepared and the layer spacing can be tuned by 16% through choice of Tsubstrate. Remarkably, glasses prepared with Tsubstrate above Tg exhibit much higher structural organization than a thermally annealed film. These results are explained by a mechanism based upon preferred molecular orientation and enhanced molecular motion at the free surface, indicating that molecular organization in the glass is independent of the anchoring preferred at the substrate. These results suggest new strategies of optimizing molecular packing within active layers of organic electronic and optoelectronic devices.",
+  "authors": [
+   "Ankit Gujral",
+   "Jaritza Gomez",
+   "Jing Jiang",
+   "Chengbin Huang",
+   "Kathryn A. OHara",
+   "Michael F. Toney",
+   "Michael L. Chabinyc",
+   "Lian Yu",
+   "M. D. Ediger"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "7 figures, 50 references, 35 pages; Supplemental information (3 figures)",
+  "first_author": "Ankit Gujral",
+  "pdf_url": "http://arxiv.org/pdf/2608.20543",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-20",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Highly organized smectic-like packing in vapor-deposited glasses of a liquid crystal",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.20979": {
+  "abstract": "Artificial intelligence (AI) is redefining the landscape of polymer science. Although numerous AI applications have been introduced in this field, the roles of polymer encoding strategies and different applications of AI models in polymer design remain insufficiently understood. Here, we build upon the foundation of polymer databases to critically examine the performance and applicability of current encoding strategies across different use cases. We then focus on two major AI application domains, property prediction and inverse design, to evaluate the strengths, weaknesses and suitable scenarios for various model architectures. Finally, we emphasize the significance of the online platforms for promoting data accessibility and accelerating the migration from experience-based discovery toward AI-driven innovation in polymer science and engineering. Through these discussions, we aim to provide practical guidance for future research and development in AI-assisted polymer design.",
+  "authors": [
+   "Jifeng Wang",
+   "Ying Wang"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.other"
+  ],
+  "comment": "26 pages, 6 figures, 2 tables. review",
+  "first_author": "Jifeng Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.20979",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-21",
+  "tags": [
+   "inverse-design",
+   "polymer-informatics"
+  ],
+  "title": "Polymer Genome in the Age of Artificial Intelligence",
+  "topics": [
+   "Generative Design & Inverse Design",
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21190": {
+  "abstract": "This work advances a fundamentally new approach to space-based construction by using liquid self organization in microgravity as a generative design and fabrication principle. Building on the LiquiFab method, we demonstrate how minimal surface architectures - traditionally dependent on complex additive manufacturing - can instead emerge directly from the physics of fluid interfaces shaped by programmable boundary conditions. We present a simulation-to-fabrication workflow, that includes a boundary-driven minimal-surface solver integrated in Grasshopper/Rhino, and an experimental system that implements in a neutral buoyancy environment simulating microgravity. This enables the generation of customizable Schwarz-P-inspired with tunable geometry and thickness, illustrating a scalable pathway for material-efficient, on-orbit fabrication. To validate performance in true microgravity, a flight experiment on the International Space Station is scheduled for the first quarter of 2027 and we here detail the additional considerations required for this experiment.",
+  "authors": [
+   "Erez Hochman",
+   "Aaron Sprecher",
+   "Amos A. Hari",
+   "Moran Bercovici"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "physics.comp-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Erez Hochman",
+  "pdf_url": "http://arxiv.org/pdf/2608.21190",
+  "primary_category": "physics.app-ph",
+  "published": "2026-08-21",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Shaping liquids into space structures - microgravity-assisted design and manufacturing of minimal surfaces",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21264": {
+  "abstract": "Multicomponent liquids can phase separate upon heating, exhibiting a lower critical solution temperature (LCST). Moreover, a narrow class of materials can undergo disordering transition upon further heating, yielding closed-loop phase diagrams. Previously, it was shown that LCST or closed-loop phase behavior can appear in the models of liquids in which components are asymmetric or interaction potentials have a specifically designed attraction. Here, we show theoretically that LCST and closed-loop phase behavior can occur in a significantly wider set of models. In particular, we found that these phenomena can be exhibited by the simplest and widely used coarse-grained (CG) models of any multicomponent liquid in which species are fully symmetric and where all particles interact via an arbitrary repulsive potential. In addition, we discovered that LCST and closed-loop phase behavior in these models emerges merely due to the basic property of CG liquid models, namely, the appearance of strong monomer-monomer positional correlations at low monomer number density $ρ$. We simulated the models of fully symmetric binary blends and diblock copolymer melts where nonbonded monomers interacted via a generic T-independent purely repulsive harmonic potential. As predicted, LCST and closed-loop phase behavior emerged at $ρ$ sufficiently low to cause strong monomer-monomer correlations leading to a strong T-dependence of the effective coordination number, which, in turn, induced a nonmonotonic T-dependence of the Flory-Huggins parameter. To summarize, we discovered that the simplest fully symmetric non-associating CG models of multicomponent liquids can exhibit complex temperature response due to a mechanism stemming from the basic nature of any CG liquid model. This mechanism might contribute to the emergence of LCST and closed-loop phase behavior in many existing polymer materials.",
+  "authors": [
+   "Artem Petrov",
+   "Alfredo Alexander-Katz"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Artem Petrov",
+  "pdf_url": "http://arxiv.org/pdf/2608.21264",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-21",
+  "tags": [
+   "coarse-grained",
+   "flory-huggins"
+  ],
+  "title": "LCST and Closed-Loop Phase Behavior in Non-Associating Fully Symmetric Multicomponent Polymer Systems",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21313": {
+  "abstract": "Fast and accurate chemical shielding estimators are essential for shielding-driven Nuclear Magnetic Resonance (NMR) crystallography. Machine-learning models for shielding predictions have matured significantly and today are primarily limited by the electronic structure reference data they are trained on. Here, we introduce ShiftML4, a shielding-tensor model trained directly on monomer-corrected calculations that approximate PBE0, rather than the PBE reference targeted by earlier ShiftML models. ShiftML4 is trained on a diverse set of structures containing 12 of the most common NMR nuclei in molecular organic solids. On experimental benchmark sets, the 13C isotropic RMSE against experiment is 1.67 ppm, compared with 2.34 ppm for GIPAW-PBE on the same geometries. ShiftML4 gives a similar 1H prediction RMSE to ShiftML3 (0.5 ppm) and improves the 15N RMSE from 7.24 to 6.08 ppm. The model also reduces errors in the shielding-tensor anisotropy, with an RMSE of 4.63 ppm on 13C CSA principal components against 5.85 ppm for GIPAW. The improvements in prediction accuracy are retained on better geometries. Basing shift predictions on structures relaxed with PET-MOLS, a recent machine-learned interatomic potential that reaches approximate hybrid-DFT geometries in seconds, lowers the ShiftML4 errors further to 0.48 ppm (1H), 1.49 ppm (13C) and 3.66 ppm (15N).",
+  "authors": [
+   "Matthias Kellner",
+   "Ruben Rodriguez-Madrid",
+   "Jacob B. Holmes",
+   "Pablo A. Unzueta",
+   "Gregory J. O. Beran",
+   "Lyndon Emsley",
+   "Michele Ceriotti"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Matthias Kellner",
+  "pdf_url": "http://arxiv.org/pdf/2608.21313",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-21",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Machine-Learned NMR Shieldings in Molecular Solids with Built-In Hybrid-Functional Molecular Corrections",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-21"
  }
 }

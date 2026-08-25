@@ -112,6 +112,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2608.04263">2608.04263</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20404.html">Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics</a></div></td>
+<td>Partha Sarathi Mondal et al.</td>
+<td><a href="http://arxiv.org/abs/2608.20404">2608.20404</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div></td>
 <td>Emilio N. M. Cirillo et al.</td>
@@ -1898,11 +1904,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01408.html">When Blood Parts Ways: Phase Separation in Microstructured Environments</a></div></td>
 <td>Sampad Laha et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01408">2509.01408</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21688.html">Geometrically Frustrated Assembly at Finite Temperature: Phase Transitions from Self-Limiting to Bulk States</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Nicholas Hackney et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21688">2508.21688</a></td>
 </tr>
 </tbody></table>
