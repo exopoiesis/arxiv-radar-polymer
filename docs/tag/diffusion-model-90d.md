@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23190.html">Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Haley Duba-Sullivan et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23190">2608.23190</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10435.html">DynaPPI: A Large-scale Dynamic Protein Dataset for AI-driven Advances in Protein Interactomics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jiabao Wei et al.</td>
@@ -50,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.03524.html">Kinetics of Droplet Cloaking and Wetting Ridge Growth on Lubricated Polymer Brushes</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Antonio Torregrosa Abellán et al.</td>
 <td><a href="http://arxiv.org/abs/2606.03524">2606.03524</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28117.html">Analytical solution of the Langmuir model for moisture diffusion in cylindrical coordinates</a></div></td>
-<td>Corentin Guigot et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28117">2605.28117</a></td>
 </tr>
 </tbody></table>

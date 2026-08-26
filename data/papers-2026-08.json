@@ -3029,5 +3029,440 @@
    "Informatics & Data Infrastructure"
   ],
   "updated": "2026-08-21"
+ },
+ "2608.21453": {
+  "abstract": "We compute several new Laplace convolution integrals involving exponential functions, error functions, and parabolic cylinder functions. We extend our results using formulas for repeated integration and differentiation. We apply these convolution integrals to heat transfer and linear viscoelastic problems. As a by-product, we obtain new integral representations for the error function and the complementary error function.",
+  "authors": [
+   "González Santander",
+   "Juan Luis"
+  ],
+  "categories": [
+   "math.GM"
+  ],
+  "comment": "31 pages",
+  "first_author": "González Santander",
+  "pdf_url": "http://arxiv.org/pdf/2608.21453",
+  "primary_category": "math.GM",
+  "published": "2026-08-20",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "New Laplace convolution integrals involving exponential, error, and parabolic cylinder functions with applications in heat transfer and linear viscoelasticity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-20"
+ },
+ "2608.21540": {
+  "abstract": "We develop a method for analyzing grain boundary (GB) microstructures that identifies distinct interfacial phases and the dislocation line defects separating them. Similar to bulk materials, GBs can adopt multiple distinct interfacial phases and undergo first-order phase transitions. When these phases coexist, their spatial arrangement and phase junctions constitute a GB microstructure, characterized by variations in excess properties and line defects with associated dislocation content. Despite this intrinsic heterogeneity, our ability to quantitatively characterize GB microstructures remains limited, as it requires identification of individual GB phases, phase-resolved excess properties, and the Burgers content of phase junctions, capabilities not available in existing automated methods. Here, we present an automated tool that performs interfacial microstructure mapping for planar coincidence site lattice GBs. The method identifies the spatial distribution of GB phases, quantifies phase-specific excess properties, and estimates the Burgers content of GB phase junctions. We demonstrate the approach using three representative cases: (i) quantification of mass transport during diffusion-limited GB phase transformations; (ii) identification of structurally indistinguishable phases formed by vacancy and interstitial loops; and (iii) characterization of GB microstructures containing phase nuclei. More broadly, this framework enables quantitative studies of GB evolution processes, including spinodal decomposition and coarsening with direct implications for GB deformation, creep, and migration.",
+  "authors": [
+   "R. Daniel Moore",
+   "Ian S. Winter",
+   "Robert E. Rudd",
+   "Fadi Abdeljawad",
+   "Timofey Frolov"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "R. Daniel Moore",
+  "pdf_url": "http://arxiv.org/pdf/2608.21540",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-21",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Automated Analysis to Reveal Grain Boundary Phase Microstructures",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21617": {
+  "abstract": "The problem of single-chain conformations of polyelectrolytes in salt-added dilute solutions, and the associated concept of the electrostatic persistence length $\\textbf{l}_\\mathrm{e}$, has remained unresolved for decades. To address this challenge, we develop a comprehensive scaling theory and corroborate it with simulations. A unified scaling diagram is constructed that encompasses both flexible and intrinsically semiflexible/stiff polyelectrolytes. Nine distinct scaling regimes are identified, each characterized by different conformational statistics. The concept of the Gaussian electrostatic blob $ξ_\\mathrm{e}$ used in the description of flexible polyelectrolytes is extended to the semiflexible case, and the new characteristic length $ξ_\\mathrm{e}^{|}$ referred to as the rodlike electrostatic blob is introduced. This enables delineating the important crossovers and showcasing an analogy between semiflexible and flexible chains. The concept of electrostatic excluded volume is also reconsidered and generalized. Upon increasing the salt concentration, i.e., decreasing the Debye length $r_\\mathrm{D}$, chain conformations evolve from (i) rodlike stretches to (ii) Gaussian and then (iii) swollen coils with local electrostatic stiffening characterized by $\\textbf{l}_\\mathrm{e}$, followed by (iv) swollen coils without stiffening but with electrostatic exclude volume, and finally to (v) quasi-neutral Gaussian coils. In regimes of type (ii) and (iii), the electrostatic persistence length scales quadratically with $r_\\mathrm{D}$, in agreement with the OSF and KK predictions for semiflexible and flexible chains, respectively: $\\textbf{l}_\\mathrm{\\mathrm{OSF}} \\simeq r_\\mathrm{D}^{2}/ξ_\\mathrm{e}^{|}$ and $\\textbf{l}_\\mathrm{\\mathrm{KK}} \\simeq r_\\mathrm{D}^{2}/ξ_\\mathrm{e}$. These asymptotic scalings are confirmed by coarse-grained simulations presented in the accompanying article.",
+  "authors": [
+   "Artem M. Rumyantsev",
+   "Alexey A. Gavrilov",
+   "Albert Johner"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Artem M. Rumyantsev",
+  "pdf_url": "http://arxiv.org/pdf/2608.21617",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-21",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Electrostatic Persistence Length Revisited. I. Theory",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21627": {
+  "abstract": "For decades, debate has surrounded the electrostatic persistence length (EPL) controlling local polyelectrolyte stiffening, centered on two competing power laws: the linear BJ prediction, $\\textbf{l}_\\mathrm{e} \\sim r_\\mathrm{D}$, and the quadratic OSF/KK scaling, $\\textbf{l}_\\mathrm{e} \\sim r_\\mathrm{D}^{2}$, where $r_\\mathrm{D}$ is the Debye screening length. Building on the asymptotic scaling theory developed in the accompanying paper, we validate a complete diagram of limiting regimes using large-scale coarse-grained Monte Carlo simulations of ideal chains with charged monomers interacting through a screened Coulomb potential. By simulating long chains of up to $N \\simeq 10^{4} - 10^{5}$ Kuhn segments, we demonstrate that the electrostatic stiffening of both semiflexible and flexible polyelectrolytes obeys the same quadratic OSF/KK law. We track the exponent $α$ which measures how the chain size $R$ grows with the Debye radius, $R \\sim r_\\mathrm{D}^α$. For both cases, in agreement with the OSF/KK theory, $α$ rises past 3/5 and slowly approaches 1 as the chain length increases, whereas within the BJ theory it can never exceed 2/5. We further find that three common size measures, the end-to-end distance $R_\\mathrm{ee}$, radius of gyration $R_\\mathrm{g}$, and hydrodynamic radius $R_\\mathrm{h}$, reach this asymptotic behavior at progressively increasing chain lengths. Consequently, for any real polyelectrolyte, the apparent exponents obey $α_\\mathrm{ee} \\geq α_\\mathrm{g} \\geq α_\\mathrm{h}$, making $R_\\mathrm{g}$ a sharper experimental probe than $R_\\mathrm{h}$. Finally, we re-analyze the available experimental data and show that they rule out the linear BJ law and support the quadratic KK scaling, thereby resolving contradictions that stem from mistaking the apparent slopes measured for short chains for the true asymptotic exponent.",
+  "authors": [
+   "Alexey A. Gavrilov",
+   "Albert Johner",
+   "Artem M. Rumyantsev"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Alexey A. Gavrilov",
+  "pdf_url": "http://arxiv.org/pdf/2608.21627",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-21",
+  "tags": [
+   "coarse-grained",
+   "monte-carlo"
+  ],
+  "title": "Electrostatic Persistence Length Revisited. II. Simulations and Comparison to Experiment",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21634": {
+  "abstract": "Network Hamiltonian Models (NHMs) provide an efficient framework for modeling the aggregation of interacting particles (e.g., the condensation of proteins into gel-like, oligomeric, or fibrillar states), representing the system as a network whose edges represent bound interactions. Terms within the network Hamiltonian represent multi-body interactions governing aggregation behavior, and are specified via topological degrees of freedom. Because motional degrees of freedom are not explicitly represented within the NHM, their influence must be indirectly accounted for by introduction of corresponding terms to the Hamiltonian. Here, we describe specifications for terms representing motional degrees of freedom of two, three, and four-body interactions. We also consider the impact of these terms on the aggregation states of a minimal system governed only by a pairwise edge potential, showing that three and four-body interactions favor condensation of the system into small droplet-like structures at low temperature.",
+  "authors": [
+   "Peng Huang",
+   "Elizabeth M. Diessner",
+   "Carter T. Butts"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Peng Huang",
+  "pdf_url": "http://arxiv.org/pdf/2608.21634",
+  "primary_category": "q-bio.MN",
+  "published": "2026-08-21",
+  "tags": [],
+  "title": "Motional Degrees of Freedom in Network Hamiltonian Models",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21674": {
+  "abstract": "Memory effects and anomalous diffusion arising in models of transport in complex media, fractals, and viscoelastic materials can be described by fractional-differential equations, such as the time-fractional diffusion equation $D^α_t u - Δ_x u = 0$. The paper develops a decomposition of solutions of these equations into a product of spatial and temporal components, corresponding to a freeze-out at long times. For fractional diffusion with the Caputo derivative the spatial factor is the inverse-Laplacian $(-Δ)^{-1}$ of the initial data, while for the Riemann-Liouville derivative it is the inverse bi-Laplacian $ (-Δ)^{-2}$. In both cases, the temporal factor of the solution is a scaled negative power of time. This memory artifact explicitly encodes the initial data, which gives a simple and robust way to reconstruct the initial conditions in the backward-in-time inverse problem with solution values measured at long times. We derive characteristic timescales for Mittag-Leffler functions, which correspond to such factorization in anomalous diffusion. This also enables an accurate approximation of the number of real zeros of the Mittag-Leffler function. We apply these results to heat transfer on a comb, a model which manifests subdiffusion arising from the comb's fractal structure.",
+  "authors": [
+   "William Cvetko",
+   "Elena Cherkaev"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "29 pages, 11 figures",
+  "first_author": "William Cvetko",
+  "pdf_url": "http://arxiv.org/pdf/2608.21674",
+  "primary_category": "math.AP",
+  "published": "2026-08-21",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Anomalous diffusion memory factorization: Characteristic timescales and application to inverse problem",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-21"
+ },
+ "2608.21698": {
+  "abstract": "We investigate the impact of charge regulation (CR) on the non-uniform swelling behavior of polyelectrolyte hydrogels. The Poisson-Boltzmann theory with electro-elastic coupling between the local polymer density and elastic deformation is considered. We investigate the spatial distributions of the elastic displacement and polymer density under different salt concentrations and compare charge-regulated gels with fixed-charge (non-CR) gels of the same net charge. Our results show that the CR induces spatially varying charge fractions, which strengthen the electro-elastic response and lead to stronger non-uniform swelling compared with non-CR gels. These findings provide a theoretical basis for understanding and controlling non-uniform swelling in responsive polyelectrolyte hydrogels.",
+  "authors": [
+   "Du Chen",
+   "Rudolph Podgornik",
+   "David Andelman",
+   "Xianghong Wang",
+   "Linli He",
+   "Shigeyuki Komura",
+   "Bin Zheng"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Du Chen",
+  "pdf_url": "http://arxiv.org/pdf/2608.21698",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-22",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Non-uniform swelling of polyelectrolyte hydrogels: effects of charge regulation",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.21741": {
+  "abstract": "Polyethylene (PE) is one of the most commonly used synthetic polymers. While the synthesis and processing protocols for PE are well established, precise experimental assignment of microscopic structures at atomistic resolution (i.e., the position of each atom) remains largely limited to highly crystalline systems. This gap is often addressed via computer simulations using empirical interatomic potentials, which use approximate but efficient descriptions of interatomic interactions to reach the length and time scales needed to describe macromolecules. These empirical potentials typically perform well for bulk and/or collective properties but face challenges with chemical realism for complex systems, e.g., during reactive processes. In this work, we address this challenge by combining the computational efficiency of a deep potential (DP) machine-learning force field and the chemical realism of first-principles van der Waals (vdW) corrected hybrid density functional theory (DFT) enabled by a SeA high-throughput framework. Using this approach, we study the structure and dynamics of PE oligomers and polymers in an ethylene solvent under common high-pressure (supercritical) radical polymerization conditions. We found that the local solvation environment of radical-containing PE oligomers converges for chain lengths greater than (n~6), suggesting extensibility of our oligomer-trained MLFF to significantly longer polymers. We then confirmed the extensibility of these models to long PE chains by characterizing the molecular weight scaling of single-chain structure and dynamics, which showed classic good solvent behavior. Our PE MLFF retained a consistent level of fidelity and stability across a wide range of thermodynamic state points and chain lengths, at full atomistic resolution, therefore paving the way towards first-principles-based polymer structure and property prediction.",
+  "authors": [
+   "Bharatha K. Gunawardana",
+   "Teresa Shah",
+   "Bicha Azizova",
+   "Deepa Ranabhat",
+   "Yizhi Song",
+   "Akshath Shastri",
+   "Srinjoy Ghose",
+   "Thomas E. Gartner",
+   "Hsin-Yu Ko"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn",
+   "cs.LG",
+   "physics.chem-ph"
+  ],
+  "comment": "15 pages, 7 figures, and 1 table",
+  "first_author": "Bharatha K. Gunawardana",
+  "pdf_url": "http://arxiv.org/pdf/2608.21741",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-08-22",
+  "tags": [
+   "mlff",
+   "polymerization",
+   "radical-polymerization"
+  ],
+  "title": "First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.22128": {
+  "abstract": "Printability assessment in additive manufacturing is typically conducted at the geometry level before printing to determine whether a computer-aided design (CAD) model or stereolithography (STL) file can be successfully fabricated. Task suitability, in contrast, is usually evaluated after printing to determine whether the fabricated part satisfies the requirements of its intended use. As a result, for non-expert users to print functional parts, unsuitable material or process choices may only be identified after fabrication, leading to repeated printing, material waste, and user frustration. To address this challenge, this paper leverages the reasoning and language-understanding capabilities of large language models (LLMs), while grounding the reasoning with geometry evidence and structured material/printer knowledge to generate reliable pre-print recommendations. Given a stereolithography (STL) model and a natural-language task description, the framework generates a structured recommendation covering printability, material choice, process parameters, design guidance, risks, and explanations. We evaluate the framework on focused STL benchmark scenarios with novice-style task descriptions. The proposed method achieves 75.0% printability over 96 physical validation trials, with 88.9% task suitability among successfully printed samples. It also improves Gemini 2.5 Flash-Lite material-selection accuracy from 37.5% under pure LLM to 90.0%. Expert evaluation further shows improved report quality, while post-print feedback improves recommendations on selected problematic cases. These results suggest that user task intent, geometry evidence, and structured material knowledge are all important for reliable task-driven printability assistance.",
+  "authors": [
+   "Zhaoda Du",
+   "Qiaojie Zheng",
+   "Xiaoli Zhang"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Zhaoda Du",
+  "pdf_url": "http://arxiv.org/pdf/2608.22128",
+  "primary_category": "cs.AI",
+  "published": "2026-08-22",
+  "tags": [
+   "additive-manufacturing",
+   "benchmarking"
+  ],
+  "title": "Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-22"
+ },
+ "2608.22691": {
+  "abstract": "We study integro-differential sweeping processes of Volterra type in a separable Hilbert space, in which the velocity is governed by the normal cone to a prox-regular moving set and is driven by an outer set-valued perturbation together with a history-dependent integral term that endows the dynamics with memory. The perturbation is assumed measurable, with closed convex values, of linear growth, and upper semicontinuous from the strong to the weak topology. We study the existence of absolutely continuous solutions under either of two alternative compactness hypotheses: ball-compactness of the moving sets, or a measure-of-noncompactness condition on the perturbation. After a reduction of the constrained dynamics to an unconstrained differential inclusion and uniform a priori bounds on the state and its velocity, existence follows from a fixed-point theorem for set-valued maps with contractible values. The memory of the process makes this contractibility delicate, and we obtain it through a continuation argument that propagates the history of the dynamics. As applications, we solve a quasistatic frictionless viscoelastic contact problem with long memory and a spatially distributed bioeconomic fishery model with ecological memory, both featuring uncertain set-valued forcing and a moving constraint set that is not ball-compact.",
+  "authors": [
+   "Abderrahim Jourani",
+   "Diana Narváez",
+   "Emilio Vilches"
+  ],
+  "categories": [
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Abderrahim Jourani",
+  "pdf_url": "http://arxiv.org/pdf/2608.22691",
+  "primary_category": "math.OC",
+  "published": "2026-08-24",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Volterra Sweeping Processes with Multivalued Perturbations under Compactness Conditions",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.22789": {
+  "abstract": "Additive Manufacturing (AM) plays a vital role in the ongoing industrial revolution. However, quality control remains crucial and challenging due to printing defects or potential cyber-physical intrusions. Image or video-based anomaly detection is a key effort towards addressing these challenges. Various approaches have been explored in this domain, including reconstruction-based, embedding-based, and flow-based methods. Though normalizing flow-based methods address some of the core challenges of unforeseen defects and generalization while maintaining detection performance, existing approaches struggle with tiny/stringing defects common in 3D printing. In a small-data setting, this poses a limitation in generalization. To address these limitations, we propose \\textbf{GuidedFlow}, a novel attention-guided normalizing flow model for anomaly detection and localization. GuidedFlow employs a pre-trained ResNet model, fine-tuned on the domain dataset. An attention-guided spatial and temporal flow framework models the dynamics across multiple scales and frames. A Spatio-Temporal Attention Network (SAN) enables the flow model to prioritize relevant contextual cues from input frames. We evaluate GuidedFlow on our AM3D-AD dataset, consisting of benign and anomalous real 3D printed object images and videos. We also conduct a comparative study using the MVTec-AD industrial image anomaly detection dataset. Experimental results demonstrate that GuidedFlow outperforms most of the state-of-the-art models with enhanced detection accuracy and AUROC.",
+  "authors": [
+   "Sosmita Paul",
+   "Krishna Roy"
+  ],
+  "categories": [
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Sosmita Paul",
+  "pdf_url": "http://arxiv.org/pdf/2608.22789",
+  "primary_category": "cs.CV",
+  "published": "2026-08-24",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.22841": {
+  "abstract": "Developing physical neural network (PNN) hardwares is important to next generation artificial intelligence systems. Phononic devices-using heat current to encode and process information-is one of the solutions to neuromorphic computing. In this work, we back map an artificial neural network (ANN) into a PNN simulation model using polymer networked nanoparticles (PNNPs). Our atomistic simulation results demonstrate that the polymer linked nanoparticle networks can potentially realize information processing using heat current. Using high-throughput molecular dynamics (MD) simulations and the trust region Bayesian optimization (TuRBO) methods, we tune the plasticity of polymer linkers and the temperatures of nanoparticles to optimize the performance of the PNNP machines, which is similar to tune the weights and bias in ANNs. After 5 rounds of high-throughput MD simulations, we show that the PNNP machines have improved in performance. We also use a testing data set to verify the heat flow outputs from the top 5 PNNP machines in each round.",
+  "authors": [
+   "Xingfei Wei",
+   "Manuel Palma Banos",
+   "Rigoberto Hernandez"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Xingfei Wei",
+  "pdf_url": "http://arxiv.org/pdf/2608.22841",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-24",
+  "tags": [
+   "bayesian-optimization",
+   "molecular-dynamics"
+  ],
+  "title": "Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.22871": {
+  "abstract": "Determining the binding mechanisms between polymer dots and proteins is important for developing novel nanotechnologies for biomedicine and bioimaging. In this work, we use all-atom molecular dynamics simulations to determine the binding affinity of Pdots with ovalbumin protein at pH = 7 and 1. The selected Pdots are mixtures of Poly[(9,9-dioctylfluorenyl-2,7-diyl)-alt-co-(1,4-benzo-(2,1',3)-thiadiazole)] (PFBT) and poly(styrene/maleic anhydride) (PSMA) with varying composition. At pH = 7, the Pdots have a net negative charge due to the COO- functional groups on the PFBT, and the protein also has a net negative charge. At pH = 1, the Pdots are charge neutral with PFBT containing only COOH functional groups, and the protein also has a net positive charge. We sample the initial position of the protein by varying its initial position through all 6 orientations of a cube. For each orientation, we pull the protein towards the PFBT region of the Pdot. We compare the Coulombic and Lennard-Jones interaction energies for the 6 different interacting faces and two selected pH values. We find that the LJ interaction energies are similar among all 12 of these cases. The measured Coulombic interaction energies suggest that pH = 1 has better binding affinity than pH = 7. The potentials of mean force (PMF) along the pulling coordinates differ with pH. The PMFs from 2 of the 6 initial configurations at pH = 1 are negative whereas none of them are negative at pH = 7, confirming the preferred binding affinity when pH = 1. One of the faces at pH = 1 has the lowest PMF of about -30 kcal/mol, which is much lower than about 6 kcal/mol seen for the lowest case at pH = 7. Comparison of protein residue charge distributions at pH = 7 and 1 further shows that the electrostatic interaction is critical to the binding affinity, and negatively charged residues reduce at pH = 7 does not bind to negatively charged Pdot.",
+  "authors": [
+   "Xingfei Wei",
+   "Wandi Xu",
+   "Kushani Mendis",
+   "Zeev Rosenzweig",
+   "Rigoberto Hernandez"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Xingfei Wei",
+  "pdf_url": "http://arxiv.org/pdf/2608.22871",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-24",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Binding Affinity between Polymer Dots (Pdots) and Ovalbumin Protein at Varying pH",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.22934": {
+  "abstract": "Thermodynamic bounds on the spectrum of a Markov cycle depend on the cycle affinity and maximum escape rate, but they ignore how the local transition rates are distributed around the cycle. In this work, we show that a single additional cycle-wide kinetic quantity, the geometric means of forward and backward rates, yields a strictly stronger bound for every nonuniform cycle. By comparing each winding sector of the eigenmode with a product-matched uniform cycle, we bound oscillation frequencies, tighten the admissible spectral region, and show that only uniform cycles can saturate the Uhl-Seifert boundary. Our results show that retaining a coarse-grained kinetic scale can sharpen thermodynamic spectral bounds without requiring knowledge of the full generator. Our method also provides a complex-analytic framework which unifies generator-specific kinetic information with established affinity-winding bounds.",
+  "authors": [
+   "Rongxing Xu",
+   "Cuiling Meng"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "15 pages, 3 figures",
+  "first_author": "Rongxing Xu",
+  "pdf_url": "http://arxiv.org/pdf/2608.22934",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-24",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Coarse-grained kinetic scale tightens thermodynamic spectral bounds of Markov cycles",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.23076": {
+  "abstract": "Biomolecular condensates can undergo striking changes, such as transitioning from a liquid-like to a gel- or a solid-like aggregate due to changes in molecular interactions in response to changes in the biochemical environment. The question of how modified molecular interactions lead to such a transition in the material properties and spatial organization of condensates has not yet been elucidated. To address this question, we represent the biochemical environment as a triphasic mixture comprising a liquid-like protein-rich phase, a network-like protein-rich phase, and solvent. Owing to a change in the biochemical environment, protein molecules can reversibly switch between two conformational states. In a switched conformational state, the cross-linking domains of molecules are exposed which promote transient network formation in phase separated states. We develop a transient-network model and a continuum framework that couples phase separation, molecular switching, and dynamic cross-linking to predict condensate morphology and mechanics. The transient-network model predicts that a non-aging network behaves like a Maxwell fluid. When a network slowly ages via stabilization of cross-links, it shows Maxwell-like behavior and waiting time-dependent relaxation. However, a strongly aged network shows elastic recoil like characteristic of a Kelvin-Voigt solid. Our coupled continuum model demonstrates that the interplay of molecular switching and dynamic cross-linking in network formation shapes the spatial organization of condensate phases. In summary, this work demonstrates a mechanistic route explaining how conformational switching and molecular cross-linking regulate material properties and morphology of condensates.",
+  "authors": [
+   "Bhanjan Debnath"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Bhanjan Debnath",
+  "pdf_url": "http://arxiv.org/pdf/2608.23076",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-08-24",
+  "tags": [
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "From Maxwell Fluid to Kelvin Voigt Solid: A Transient Network Model of Condensate Aging and Morphology Transition in Phase Separation",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.23088": {
+  "abstract": "Near-surface low-velocity sediments can strongly modify seismic wavefields and therefore affect estimates of Newtonian noise at underground gravitational-wave observatories. We investigate these effects using 2-D viscoelastic simulations of a sediment layer overlying hard-rock basement. Controlled experiments examine the influence of sediment-basement interface geometry, sediment shear-wave velocity, attenuation, and test-mass position. Relative to a homogeneous model, the sediment layer produces frequency-dependent changes through wave trapping, interference, and attenuation. A constant-thickness layer generates a more laterally coherent wavefield and a sharper spectral enhancement than a basin-shaped interface, whereas lateral thickness variations broaden and shift the response. Sediment shear-wave velocity primarily controls the frequencies of the spectral features, while attenuation mainly controls their amplitudes. Newtonian noise is most sensitive to sediment structure for test masses located within or several hundred meters below the sediment layer. The sensitivity to lateral variations in sediment thickness decreases with burial depth and is weak at 2 km depth in the present model. These results demonstrate that near-surface sedimentary structure should be represented explicitly when assessing site-dependent Newtonian noise, particularly for test masses located between 200 m and 300 m depths.",
+  "authors": [
+   "Shi Yao",
+   "Patrick Schillings",
+   "Johannes Erdmann",
+   "Andreas Rietbrock"
+  ],
+  "categories": [
+   "astro-ph.IM"
+  ],
+  "comment": "16 pages, 10 figures",
+  "first_author": "Shi Yao",
+  "pdf_url": "http://arxiv.org/pdf/2608.23088",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-08-24",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Effects of near-surface sedimentary structure on Newtonian noise for the Einstein Telescope: a 2-D numerical study",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.23190": {
+  "abstract": "Computed tomography (CT) throughput is limited by scan time, which grows with both the number of projections acquired and the detector integration time for each. Reconstructing high-quality volumes from sparse-view or low-dose measurements therefore depends on an informative prior, typically a neural network trained for one specific scan setting and retrained whenever the modality, geometry, or material changes. We investigate whether a single diffusion model trained across several imaging domains can instead serve as a prior for many CT problems simultaneously. We evaluate the proposed method using the same frozen model on three datasets that differ in modality, beam geometry, material, and degradation type, spanning flaw analysis in additively manufactured metal parts imaged with cone-beam X-ray CT and concrete microstructure imaged with parallel-beam neutron CT. Our proposed method out-performs analytic reconstructions in all three cases, providing a step toward a reusable foundation prior for heterogeneous CT reconstruction problems.",
+  "authors": [
+   "Haley Duba-Sullivan",
+   "Patxi Fernandez-Zelaia",
+   "Obaidullah Rahman",
+   "Amirkoushyar Ziabari"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": null,
+  "first_author": "Haley Duba-Sullivan",
+  "pdf_url": "http://arxiv.org/pdf/2608.23190",
+  "primary_category": "cs.CV",
+  "published": "2026-08-24",
+  "tags": [
+   "diffusion-model",
+   "polymer-degradation",
+   "polymer-morphology"
+  ],
+  "title": "Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-24"
  }
 }

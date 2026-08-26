@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="polymerization-90d.html">polymerization</a> · <a href="radical-polymerization-90d.html">radical-polymerization</a></div></td>
+<td>Bharatha K. Gunawardana et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13843.html">Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Xiaolong Yang et al.</td>
@@ -38,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24352.html">Typical geometry of self-repelling polymers in a constant force field</a></div></td>
 <td>Kamil Khettabi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.24352">2606.24352</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28960.html">How Atoms Interact Within Molecules</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Adil Kabylda et al.</td>
-<td><a href="http://arxiv.org/abs/2605.28960">2605.28960</a></td>
 </tr>
 </tbody></table>

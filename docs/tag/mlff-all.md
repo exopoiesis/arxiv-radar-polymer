@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlff — all</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <a href="mlff-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="polymerization-all.html">polymerization</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>
+<td>Bharatha K. Gunawardana et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13843.html">Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

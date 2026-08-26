@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21627.html">Electrostatic Persistence Length Revisited. II. Simulations and Comparison to Experiment</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Alexey A. Gavrilov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21627">2608.21627</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="glass-transition-30d.html">glass-transition</a></div></td>
 <td>Leonardo dos Santos Vitoria et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27108.html">Formation of $\mathrm{L}1_2$-ordered $γ&#x27;$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Christopher D. Woodgate et al.</td>
 <td><a href="http://arxiv.org/abs/2607.27108">2607.27108</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23812.html">Electrolytes confined between polarizable surfaces in slit pores with anisotropic permittivity tensor</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Alexandre P. dos Santos et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23812">2607.23812</a></td>
 </tr>
 </tbody></table>

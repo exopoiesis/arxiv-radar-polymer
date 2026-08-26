@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21627.html">Electrostatic Persistence Length Revisited. II. Simulations and Comparison to Experiment</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
+<td>Alexey A. Gavrilov et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21627">2608.21627</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Leonardo dos Santos Vitoria et al.</td>
@@ -758,11 +764,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22663.html">Security Friction Quotient for Zero Trust Identity Policy with Empirical Validation</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Michel Youssef</td>
 <td><a href="http://arxiv.org/abs/2509.22663">2509.22663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.24041.html">Relaxation pathways and emergence of domains in square artificial spin ice</a></div></td>
-<td>Matteo Menniti et al.</td>
-<td><a href="http://arxiv.org/abs/2505.24041">2505.24041</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22128.html">Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Zhaoda Du et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22128">2608.22128</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21313.html">Machine-Learned NMR Shieldings in Molecular Solids with Built-In Hybrid-Functional Molecular Corrections</a></div></td>
 <td>Matthias Kellner et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Yotam M. Y. Feldman et al.</td>
 <td><a href="http://arxiv.org/abs/2607.25892">2607.25892</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23400.html">Comparative qualification of advanced plasma-facing materials for fusion pilot plants through public- and private-sector experiments in DIII-D</a></div></td>
-<td>Florian Effenberg et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23400">2607.23400</a></td>
 </tr>
 </tbody></table>

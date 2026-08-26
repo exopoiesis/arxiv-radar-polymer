@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22691.html">Volterra Sweeping Processes with Multivalued Perturbations under Compactness Conditions</a></div></td>
+<td>Abderrahim Jourani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22691">2608.22691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23088.html">Effects of near-surface sedimentary structure on Newtonian noise for the Einstein Telescope: a 2-D numerical study</a></div></td>
+<td>Shi Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23088">2608.23088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21674.html">Anomalous diffusion memory factorization: Characteristic timescales and application to inverse problem</a></div></td>
+<td>William Cvetko et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21674">2608.21674</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20091.html">Growth phases of an active tissue: determinate, indeterminate, and proportionate</a></div></td>
 <td>Jigyasa Watwani et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20091">2608.20091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21453.html">New Laplace convolution integrals involving exponential, error, and parabolic cylinder functions with applications in heat transfer and linear viscoelasticity</a></div></td>
+<td>González Santander et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21453">2608.21453</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -158,17 +182,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25009.html">The Navier-Stokes equations with dual-scale hereditary viscosity: supercritical norm inflation and global well-posedness in critical spaces</a></div></td>
 <td>Bruno de Andrade</td>
 <td><a href="http://arxiv.org/abs/2607.25009">2607.25009</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23410.html">The Polymer Physics of Kinetoplast DNA as a Polymerised Membrane</a></div></td>
-<td>Takahiro Sakaue et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23410">2607.23410</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23562.html">On the flash temperature in sliding rubber contacts</a></div></td>
-<td>B. N. J. Persson</td>
-<td><a href="http://arxiv.org/abs/2607.23562">2607.23562</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">108 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,34 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22691.html">Volterra Sweeping Processes with Multivalued Perturbations under Compactness Conditions</a></div></td>
+<td>Abderrahim Jourani et al.</td>
+<td><a href="http://arxiv.org/abs/2608.22691">2608.22691</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23088.html">Effects of near-surface sedimentary structure on Newtonian noise for the Einstein Telescope: a 2-D numerical study</a></div></td>
+<td>Shi Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23088">2608.23088</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21674.html">Anomalous diffusion memory factorization: Characteristic timescales and application to inverse problem</a></div></td>
+<td>William Cvetko et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21674">2608.21674</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20091.html">Growth phases of an active tissue: determinate, indeterminate, and proportionate</a></div></td>
 <td>Jigyasa Watwani et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20091">2608.20091</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21453.html">New Laplace convolution integrals involving exponential, error, and parabolic cylinder functions with applications in heat transfer and linear viscoelasticity</a></div></td>
+<td>González Santander et al.</td>
+<td><a href="http://arxiv.org/abs/2608.21453">2608.21453</a></td>
 </tr>
 <tr class="paper">
 <td>2026-08-19</td>
@@ -638,23 +662,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.30028.html">Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>R. Esquivel-Sirvent et al.</td>
 <td><a href="http://arxiv.org/abs/2605.30028">2605.30028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.28651.html">Determinants of Phase-Separation Propensities, Material States, and Material Properties of Biomolecular Condensates</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Huan-Xiang Zhou</td>
-<td><a href="http://arxiv.org/abs/2605.28651">2605.28651</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29050.html">Effective Roles between Sperm Head and Tail on the Motility</a></div></td>
-<td>Robert L. Scott et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29050">2605.29050</a></td>
-</tr>
-<tr class="paper">
-<td>2026-05-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2605.29162.html">Passive memory reshapes active persistence</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Ivan Di Terlizzi et al.</td>
-<td><a href="http://arxiv.org/abs/2605.29162">2605.29162</a></td>
 </tr>
 </tbody></table>
