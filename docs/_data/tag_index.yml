@@ -4,7 +4,7 @@
   total: 859
   group: properties
 - name: phase-separation
-  count: 21
+  count: 20
   total: 581
   group: morphology
 - name: polymer-morphology
@@ -12,15 +12,15 @@
   total: 359
   group: morphology
 - name: molecular-dynamics
-  count: 15
+  count: 14
   total: 263
   group: simulation
 - name: coarse-grained
-  count: 13
+  count: 12
   total: 295
   group: simulation
 - name: benchmarking
-  count: 12
+  count: 11
   total: 203
   group: informatics
 - name: monte-carlo
@@ -67,10 +67,6 @@
   count: 3
   total: 37
   group: representation
-- name: membranes
-  count: 3
-  total: 86
-  group: applications
 - name: active-learning
   count: 2
   total: 19
@@ -87,6 +83,10 @@
   count: 2
   total: 46
   group: design
+- name: membranes
+  count: 2
+  total: 86
+  group: applications
 - name: polymerization
   count: 2
   total: 55
@@ -99,10 +99,6 @@
   count: 2
   total: 28
   group: characterization
-- name: coacervates
-  count: 1
-  total: 17
-  group: morphology
 - name: conducting-polymers
   count: 1
   total: 26
@@ -151,10 +147,6 @@
   count: 1
   total: 14
   group: characterization
-- name: selfies
-  count: 1
-  total: 35
-  group: representation
 - name: thermal-conductivity
   count: 1
   total: 84
@@ -179,6 +171,10 @@
   count: 0
   total: 21
   group: synthesis
+- name: coacervates
+  count: 0
+  total: 17
+  group: morphology
 - name: crystallinity
   count: 0
   total: 28
@@ -235,6 +231,10 @@
   count: 0
   total: 3
   group: synthesis
+- name: selfies
+  count: 0
+  total: 35
+  group: representation
 - name: soft-matter
   count: 0
   total: 87

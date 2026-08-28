@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">200 papers</span>
+  <span class="paper-count">196 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1190,29 +1190,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03029.html">Multimodal learning of melt pool dynamics in laser powder bed fusion</a></div></td>
 <td>Satyajit Mojumder et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03029">2509.03029</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01247.html">A new diffuse reflector filament for additive manufacturing of 3D printing finely-segmented plastic scintillator</a></div></td>
-<td>S. Berns et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01247">2509.01247</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01448.html">5-axis Multi-material Desktop Additive Manufacturing of Conformal Antennas</a></div></td>
-<td>Ivan Revenga Riesco et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01448">2509.01448</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01754.html">TransMatch: A Transfer-Learning Framework for Defect Detection in Laser Powder Bed Fusion Additive Manufacturing</a></div></td>
-<td>Mohsen Asghari Ilani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01754">2509.01754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01769.html">AM-DefectNet: Additive Manufacturing Defect Classification Using Machine Learning -- A comparative Study</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Mohsen Asghari Ilani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01769">2509.01769</a></td>
 </tr>
 </tbody></table>
