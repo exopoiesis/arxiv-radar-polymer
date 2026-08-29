@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">89 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -548,11 +548,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08019.html">Molecular-Size Control of Properties of Therapeutic Nano-Paper Allows for Selective Drug Storage in Small Doses</a></div></td>
 <td>Elisabeth Erbes et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08019">2509.08019</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13048.html">Multi-Touch and Bending Perception Using Electrical Impedance Tomography for Robotics</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Haofeng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13048">2503.13048</a></td>
 </tr>
 </tbody></table>

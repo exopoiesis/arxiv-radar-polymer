@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">474 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Piyush Garg et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26479">2608.26479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26611.html">Resolvent analysis to inform viscoelastic coatings for turbulent drag reduction</a></div></td>
+<td>Soumen Chakravarty et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26611">2608.26611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26622.html">Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning</a></div></td>
+<td>Yanzhe Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26622">2608.26622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26625.html">A stable DG-POD reduced-order method for dynamic linear viscoelasticity</a></div></td>
+<td>Byeong-Chun Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26625">2608.26625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25928.html">AI Agentic Selective Laser Sintering Process Optimization</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Peter Pak et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25928">2608.25928</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22691.html">Volterra Sweeping Processes with Multivalued Perturbations under Compactness Conditions</a></div></td>
@@ -2840,23 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03363.html">Variation-matching sensitivity-based virtual fields for hyperelastic material model calibration</a></div></td>
 <td>Denislav P. Nikolov et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03363">2509.03363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08354.html">A mesoscopic model for the rheology of dilute and semidilute solutions of wormlike micelles</a></div></td>
-<td>Avishek Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2504.08354">2504.08354</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.09635.html">Asymptotic-analysis-inspired boundary conditions aiming at eliminating polymer diffusive instability</a></div></td>
-<td>Ming Dong et al.</td>
-<td><a href="http://arxiv.org/abs/2508.09635">2508.09635</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02059.html">Information-Theoretical Approach to Relaxation Time Distribution in Rheology: Log-Normal Relaxation Spectrum Model</a></div></td>
-<td>Takashi Uneyama</td>
-<td><a href="http://arxiv.org/abs/2509.02059">2509.02059</a></td>
 </tr>
 </tbody></table>

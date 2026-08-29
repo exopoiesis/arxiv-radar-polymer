@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24059.html">Composite fermions in the $ν=3$ fractional quantum spin Hall effect</a></div></td>
+<td>Hongquan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24059">2608.24059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25103.html">Convergence of the conformal Ward identity in the derivative expansion approximation</a></div></td>
+<td>Jorge Ibañez et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25103">2608.25103</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Nuo Xu et al.</td>
@@ -854,17 +866,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10125.html">Asymptotic stability of the composite wave of rarefaction wave and contact wave to nonlinear viscoelasticity model with non-convex flux</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Zhenhua Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10125">2409.10125</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.13048.html">Multi-Touch and Bending Perception Using Electrical Impedance Tomography for Robotics</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Haofeng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.13048">2503.13048</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22663.html">Security Friction Quotient for Zero Trust Identity Policy with Empirical Validation</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Michel Youssef</td>
-<td><a href="http://arxiv.org/abs/2509.22663">2509.22663</a></td>
 </tr>
 </tbody></table>

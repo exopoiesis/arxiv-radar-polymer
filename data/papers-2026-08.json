@@ -3464,5 +3464,505 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-08-24"
+ },
+ "2608.23885": {
+  "abstract": "Real-time optimization (RTO) relies on process models to locate economically optimal operating conditions. Because developing first-principles models requires significant process knowledge, data-driven alternatives are increasingly attractive. Modern machine-learning models can fit historical plant data accurately and often pass standard validation tests. Whether such models can be trusted for economic optimization, however, remains unclear. We investigate this question using a vinyl acetate monomer benchmark process with a unique, well-conditioned economic optimum. We train a structured hybrid model that combines known mass balances and thermodynamics with a neural-network closure for unknown kinetics, and a fully data-driven neural ordinary differential equation (ODE) model. Both models reproduce plant measurements accurately and exhibit little variation in predictions across random initializations. Yet their economic optima differ substantially from that of the plant. Where the plant returns a single optimum on multistart search, the trained models return many phantom optima. We further show that the training optimizer alone can be yet another source of error. Even with noise-free data and initialization at weights that recover the plant optimum, stochastic gradient training can drift to weights that yield substantially worse RTO solutions. The identified model is thus an artifact of the training optimizer as well as the data. These results demonstrate that a good predictive fit of all available measurements does not guarantee reliable economic performance. A data-driven model for RTO should at least be required to recover the optimum on a decision-oriented benchmark like the one developed here before being considered for plant testing and application.",
+  "authors": [
+   "Prithvi Dake",
+   "Rahul Bindlish",
+   "James B. Rawlings"
+  ],
+  "categories": [
+   "eess.SY",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Prithvi Dake",
+  "pdf_url": "http://arxiv.org/pdf/2608.23885",
+  "primary_category": "eess.SY",
+  "published": "2026-08-24",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-24"
+ },
+ "2608.24059": {
+  "abstract": "Well-understood fractional quantum Hall states in GaAs and graphene can be described in terms of weakly interacting composite fermions. It is natural to expect that the same unifying principle applies to the putative fractional quantum spin Hall effect in MoTe$_2$. Since the quantum spin Hall effect involves two spin components, two types of composite fermions must be present. We classify all two-component composite-fermion states at the filling factor $ν=3$. The classification includes the three classes of states, which were introduced from different physical perspectives in Refs. Sodemann Villadiego, Phys. Rev. B 110, 045114 (2024), Jian et al., Phys. Rev. X 15, 021063 (2025), and May-Mann et al., Phys. Rev. B 111, L201111, (2025), as well as two new classes of states. A majority of the composite-fermion states break the time-reversal symmetry. We review quasiparticle charges, statistics, and edge theories for each possible state. We also address a way of identifying the experimentally relevant state or states. This can be accomplished by combining three probes. First, the shot noise technique provides information about fractional charges. Second, thermal conductance helps count edge modes. The third probe is based on a new idea and involves transport between two quantum point contacts along a single edge. We find that the current from one contact to the other depends on the shape of the edge channel, which can be controlled with a side gate. The probe reveals the emergent symmetry group of the low-energy edge theory.",
+  "authors": [
+   "Hongquan Liu",
+   "D. E. Feldman"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "33 pages, 15 figures and 4 tables",
+  "first_author": "Hongquan Liu",
+  "pdf_url": "http://arxiv.org/pdf/2608.24059",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-08-25",
+  "tags": [
+   "composites"
+  ],
+  "title": "Composite fermions in the $ν=3$ fractional quantum spin Hall effect",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24378": {
+  "abstract": "Chain scission is a key molecular process underlying damage and fracture in polymer networks. In this Letter, we develop a statistical-mechanical framework for predicting chain-scission kinetics while accounting for three-dimensional (3D) conformational fluctuations. Within transition-state theory, scission is formulated as a multichannel first-rupture problem, with bond-specific rates governed primarily by self-consistent potentials of mean force. In the freely jointed limit, the additional 3D configurational freedom enhances rupture relative to the collinear 1D reference. Finite bending stiffness introduces orientational correlations that can reverse this enhancement and, at high stiffness, reduce rupture rates by orders of magnitude. These correlations also make rupture bond-position dependent, with higher rates near the chain ends and a common interior rate. For sufficiently long chains, the interior contribution dominates, yielding linear scaling of the chain-scission rate with chain length. These molecularly resolved rates provide physically grounded inputs for future network-scale models of polymer damage and fracture.",
+  "authors": [
+   "Jie Zhu",
+   "Laurence Brassart"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph"
+  ],
+  "comment": "46 pages, 12 figures",
+  "first_author": "Jie Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2608.24378",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-25",
+  "tags": [],
+  "title": "Conformation-Mediated Kinetics of Polymer Chain Scission under Tension",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24792": {
+  "abstract": "Nucleation is a key rate-limiting process in phase transition and phase separation. Recent studies highlight a significant discrepancy between experimentally measured nucleation rates and theoretical predictions, particularly when dynamic structural reordering occurs along multi-step pathways. To bridge this gap, we develop a multi-shell model with a space-time-dependent order-parameter field to describe the reordering-nucleation process, where structural reorganization couples with the early growth of condensed clusters. Through stochastic simulations, we track the time-resolved evolution of heterogeneous structural order inside growing clusters. Path analysis of the first-passage problem in early-stage nucleation demonstrates that shifting the reordering rate alters the nucleation rate by several orders of magnitude. Furthermore, as the coupling strength increases, the relationship between the mean first-passage time and reordering susceptibility shifts from monotonic to non-monotonic, exhibiting a turnover effect. We quantitatively rationalize these behaviors with an effective nucleation barrier that accounts for non-equilibrium properties. Our findings elucidate the mechanisms behind multi-step nucleation and offer a predictive framework for future studies.",
+  "authors": [
+   "Kaicheng Zhu",
+   "Haibin Su"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Kaicheng Zhu",
+  "pdf_url": "http://arxiv.org/pdf/2608.24792",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-25",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Kinetic Turnover in the Early-Stage Nucleation of Multi-Shell Condensed Clusters",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.24924": {
+  "abstract": "This article investigates the role of polyaniline as a conductive polymer in the active layer of perovskite solar cells. Samples were created by incorporating polyaniline into the transport layers to assess its impact on enhancing efficiency and conductivity. The application of this polymer across various layers of the cell structure led to improved stability and performance. Given its high doping capability, polyaniline was examined in detail, particularly focusing on two types of oxidation doping and its integration into the hole transport layer. Graphene oxide and reduced graphene oxide were chosen as comparative models, and their performance was evaluated against the standard polyaniline configuration. Laboratory results revealed that power conversion efficiency increased by 17.5% with graphene oxide and by 36.8% with reduced graphene oxide. Furthermore, short-circuit current density improved by 9.8% and 23.1%, respectively. These findings are consistent with existing studies in the field and support the validity of the approach.",
+  "authors": [
+   "Mehran Hosseinzadeh Dizaj"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci",
+   "eess.SY",
+   "hep-ex",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Mehran Hosseinzadeh Dizaj",
+  "pdf_url": "http://arxiv.org/pdf/2608.24924",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-08-18",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Polyaniline as a conductive polymer and its role in improving the efficiency and conductivity of perovskite solar cells",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-18"
+ },
+ "2608.25103": {
+  "abstract": "Conformal invariance is expected to be an emergent property of many systems in their critical regime. However, approximation schemes generically spoil this property. This is in particular the case of the derivative expansion, a widely used approximation scheme in the framework of the functional renormalization group. In this article, we consider Ward identities associated with conformal invariance in the 3-d Ising universality class with truncations at order 4 (next-to-next-to-leading order) in the derivative expansion, with $Z_2$ invariant composite operators. Our results confirm that the regulating functions which yield a small breaking of conformal invariance also present a small sensitivity of the universal critical exponents with the choice of this regulating function. We also show that, in the vicinity of regulator-parameter values for which the conformal constraints are best satisfied, the breaking of conformal invariance reduces as the order of the derivative expansion is increased, providing a new indication of the convergence of this approximation scheme.",
+  "authors": [
+   "Jorge Ibañez",
+   "Matthieu Tissier",
+   "Gonzalo De Polsi"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "hep-th"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Jorge Ibañez",
+  "pdf_url": "http://arxiv.org/pdf/2608.25103",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-25",
+  "tags": [
+   "composites"
+  ],
+  "title": "Convergence of the conformal Ward identity in the derivative expansion approximation",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-25"
+ },
+ "2608.25242": {
+  "abstract": "We investigate the structure and dynamics of a polymer in a fluid containing mobile spherical colloidal crowders of radius $R$. We compare and contrast the behavior with Langevin dynamics (LD) and lattice--Boltzmann molecular dynamics (LBMD), the latter incorporating long-range hydrodynamic interactions. Both the colloid size relative to the monomer radius $r$ and the volume fraction $φ$ are varied to determine how crowding modifies polymer behavior. Increasing volume fraction induces polymer compaction, with the mechanism strongly dependent on the size ratio $R/r$. Small colloids primarily modify the short-wavelength polymer conformation, causing self-avoiding-walk-like behavior to persist to shorter length scales, whereas large colloids reduce the effective long-wavelength Flory exponent, indicating degraded solvent quality consistent with a confinement-blob picture. Polymer diffusion exhibits distinct behavior in LD and LBMD. In LD, diffusion decreases rapidly and depends strongly on $R/r$; a phenomenological scaling involving $\\ln(1+R/r)$ captures this size dependence, and additional scaling with $R_g$ reduces scatter, indicating polymer-scale correlations induced by crowding. In contrast, LBMD diffusion follows an effective-medium-like exponential dependence on concentration, governed by hydrodynamic coupling. Rouse-mode analysis identifies three regimes: scaling breakdown at low volume fraction, Zimm-like behavior at intermediate density in both LD and LB, and at high density hydrodynamic screening in LB with confinement-dominated dynamics in LD.",
+  "authors": [
+   "Setarehalsadat Changizrezaei",
+   "Colin Denniston"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.comp-ph"
+  ],
+  "comment": "Accepted for publication in The Journal of Chemical Physics",
+  "first_author": "Setarehalsadat Changizrezaei",
+  "pdf_url": "http://arxiv.org/pdf/2608.25242",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-26",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Dynamical and conformational behavior of a polymer in a crowded solution",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25324": {
+  "abstract": "Using Langevin dynamics simulations, I investigate nonequilibrium systems of particles following a density-enhanced motility (DEM) rule: particles are passive below a critical local density and active above it. This mechanism represents an inverse of the conventional quorum-sensing rule. I explore specifically quorums much larger than particle size and at two levels of activity. Above critical values of the density, quorum size, and activity, the system undergoes phase separation into low- and high-energy regions. The passive particles organize into distinct spatial patterns, including holes, stripes, and labyrinthine structures, while the active particles form a gas. I characterize the resulting steady states and identify the qualitative mechanisms governing the selection of different morphological regimes. I further discuss the relevance of these results to biological systems governed by analogous quorum-sensing mechanisms and to biological systems exhibiting related forms of spatial organization. Finally, I present directions for future investigation.",
+  "authors": [
+   "Itay Azizi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Itay Azizi",
+  "pdf_url": "http://arxiv.org/pdf/2608.25324",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-26",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Multiple pattern formation in quorum sensing of density enhanced motility",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25649": {
+  "abstract": "Motility-induced phase separation (MIPS) describes a central clustering phenomenon in active matter systems where particles spontaneously separate into dense and dilute phases even in the absence of interparticle attractive forces. Recent theoretical and experimental efforts have taken the first steps to extend active matter concepts to the quantum level. However, whether a genuine quantum analog of MIPS exists and how quantum coherence would compete or cooperate with the dissipative self-propulsion has remained open so far. Here, we provide evidence that quantum MIPS can occur in a model of active hard-core bosons in one dimension. Our model yields superlinear number fluctuations characteristic of MIPS, leading to microphase separation with large but finite cluster size. Adding nearest-neighbor repulsive interactions, we find numerical evidence for restoring genuine phase separation with a divergent correlation length. Crucially, the clustered steady states maintain a long-distance quantum coherence, revealing a genuinely quantum feature with no classical counterpart. These results provide a foundation for exploring quantum MIPS and suggest that the coherence-activity interplay can generate new types of nonequilibrium quantum states.",
+  "authors": [
+   "Laurin Brunner",
+   "Ricard Alert",
+   "Reyhaneh Khasseh",
+   "Markus Heyl"
+  ],
+  "categories": [
+   "quant-ph",
+   "physics.bio-ph"
+  ],
+  "comment": "8 pages, 4 figures",
+  "first_author": "Laurin Brunner",
+  "pdf_url": "http://arxiv.org/pdf/2608.25649",
+  "primary_category": "quant-ph",
+  "published": "2026-08-26",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Quantum motility-induced phase separation",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.25928": {
+  "abstract": "Agentic systems enable the intelligent automation of complex workflows, specific to additive manufacturing this is applicable for complex tasks such as process parameter optimization for mechanical properties. This work investigates the AI enabled agentic process optimization within Selective Laser Sintering (SLS) to iteratively improve the tensile and flexural properties of 3 different materials on the Inova Mk1. These materials include PA12 GF, PA11 Onyx, and PA12 Blend (volume mixture of 25% PA12 GF and 75% PA12 White) and with using knowledge from previous builds and minimal guidance from the user, the agentic system was able to optimize process parameters over a small number of iterations to achieve comparable TDS specified mechanical properties. This work showcases the ability for an agentic system to continually learn from updated data, enabling the intelligent automation of complex tasks such as process parameter optimization for selective laser sintering.",
+  "authors": [
+   "Peter Pak",
+   "Victor Alvarado",
+   "Amir Barati Farimani"
+  ],
+  "categories": [
+   "cs.MA"
+  ],
+  "comment": null,
+  "first_author": "Peter Pak",
+  "pdf_url": "http://arxiv.org/pdf/2608.25928",
+  "primary_category": "cs.MA",
+  "published": "2026-08-26",
+  "tags": [
+   "additive-manufacturing",
+   "mechanical-properties"
+  ],
+  "title": "AI Agentic Selective Laser Sintering Process Optimization",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26073": {
+  "abstract": "Localized surface plasmons (LSPs) supported by metallic nanostructures exhibit a great tunability of their resonance frequencies and associated spatial field distributions. In particular, nanoscale gaps and sharp corners exhibit promising near-field enhancements for applications such as biochemical sensing and nanoantennas. In this work, we investigate the optical properties of bowtie nanowire dimers excited by linearly polarized light, including polarization orthogonal to the dimer axis. To distinguish dimer-separation-induced and monomer-shape-induced effects, we compare bowtie, circular-cylindrical dimer and triangular wires. We emphasize the advantages of a Bézier-type corner parametrization with tunable curvature and employ the discontinuous-Galerkin time-domain finite-element method for numerical calculations. This enables the identification of hybrid resonances and the systematic analysis of the role of geometrical parameters. For all investigated geometries, we compare the spatially local Drude model with the spatially nonlocal Halevi model. For the specific case of silver, we demonstrate quantitative curvature-dependent LSP line shifts arising from the longitudinal nonlocality captured by the Halevi model. For higher-order LSPs, this nonlocality gives rise to a sequence of resonances that may be exploited for light-harvesting applications. Furthermore, we investigate the field enhancement associated with LSP resonances and, motivated by the occurrence of both hot and cold spots, introduce geometry-dependent measures for assessing the ability of nanostructures to enhance nonlinear optical effects, such as through the optimal positioning of SERS-active molecules. To facilitate the simultaneous study these measures, we propose the use of suitable radar charts.",
+  "authors": [
+   "Gino Wegner",
+   "Bill Antonio Bernhardt",
+   "Ulf Peschel",
+   "Kurt Busch"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "40 pages, 32 figures",
+  "first_author": "Gino Wegner",
+  "pdf_url": "http://arxiv.org/pdf/2608.26073",
+  "primary_category": "physics.optics",
+  "published": "2026-08-26",
+  "tags": [],
+  "title": "Optical extinction and near-field properties of plasmonic dimers: Role of particle shape and separation",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26468": {
+  "abstract": "In this work, we investigate the extent to which fluctuation--response relations emerge from coarse-grained stochastic dynamics alone, and which aspects instead depend on additional information about the system. To address this question, we study the rotating stochastic Landau model, an exactly solvable system describing an overdamped charged Brownian particle in a constant magnetic field, coupled dissipatively to a rotating environment, whose steady state supports circulating probability currents. Using the Martin--Siggia--Rose path integral, we show that there is an emergent $\\mathbb{Z}_2$ symmetry transformation that implements the time-reversed dynamics and changes the action by a boundary term. Comparison with the Crooks fluctuation theorem identifies this term with the entropy associated with transitions between steady-state configurations. After coupling the theory to external sources, the same symmetry yields Ward identities relating fluctuations and response. These identities follow entirely from the coarse-grained stochastic theory and do not fix the noise strength. Finally, upon imposing the Einstein relation, we show that they coincide with the high-temperature fluctuation--dissipation relations implied by the rotating Kubo--Martin--Schwinger condition for a microscopic Gibbs ensemble.",
+  "authors": [
+   "Dhruv Kush",
+   "Nicki Mullins",
+   "Mauricio Hippert",
+   "Jorge Noronha"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "hep-th",
+   "nucl-th"
+  ],
+  "comment": null,
+  "first_author": "Dhruv Kush",
+  "pdf_url": "http://arxiv.org/pdf/2608.26468",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-08-26",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Fluctuation--response relations from an emergent $\\mathbb{Z}_2$ symmetry in the rotating stochastic Landau model",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-26"
+ },
+ "2608.26479": {
+  "abstract": "The asymptotic properties, with vanishing viscosity, of inertial turbulence in Newtonian fluids have been of intense scrutiny over the years. Much less is known about elastic turbulence - a distinct spatio-temporally chaotic state exhibited by viscoelastic fluids. In this work, using direct numerical simulations of turbulence in a triperiodic box, we show that elastic turbulence achieves an ultimate state with increasing polymer relaxation time, i.e., the Deborah number, for two different constitutive models (Oldroyd-B and FENE-P). In the limiting state, various bulk quantities - the fluid dissipation, the polymeric energy transfer, as well as the elastic stresses - are shown to become independent of the polymer relaxation time scale, notwithstanding the microstructure deformation scales distinctly depending on the model.",
+  "authors": [
+   "Piyush Garg",
+   "Marco Edoardo Rosti"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Piyush Garg",
+  "pdf_url": "http://arxiv.org/pdf/2608.26479",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-27",
+  "tags": [
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "The ultimate state of elastic turbulence",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.26520": {
+  "abstract": "In swollen elastomers, elasticity can arrest macroscopic demixing between the polymer network and the solvent, producing stable domains of finite size. While previous theories have focused on isotropically swollen elastomers, anisotropy strongly influences the phase behavior of many related systems, such as gels and crosslinked polymer blends. Building on the approach developed in Part I of this two-part paper, we investigate the effects of two experimentally induced sources of anisotropy: uniaxial swelling and stiffness gradients. We show that uniaxial swelling can lead to the formation of stable lamellar microphases and modify phase behavior, while stiffness gradients can cause spatial variations in the characteristic microphase size.",
+  "authors": [
+   "Manu Mannattil",
+   "David Andelman",
+   "Haim Diamant"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech",
+   "nlin.PS",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 5 figures",
+  "first_author": "Manu Mannattil",
+  "pdf_url": "http://arxiv.org/pdf/2608.26520",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-08-27",
+  "tags": [],
+  "title": "Phase transitions and microphases in elastomers. II. Anisotropy-driven morphologies",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.26611": {
+  "abstract": "Viscoelastic compliant coatings offer a passive route to modify wall-bounded turbulence; however, their effectiveness for drag reduction remains unresolved. We perform resolvent analysis of turbulent boundary layers over linear viscoelastic continuum, and apply it to incompressible hydrodynamic and compressible aerodynamic zero-pressure-gradient turbulent boundary layers, using both standard and eddy viscosity resolvent formulations. Across a wide range of storage modulus E and coating thickness H, viscoelastic surfaces amplify near-wall-cycle-type modes while also attenuating the resolvent gain of very large scale motions (VLSMs) by up to 50%, which together result in a reduction of Reynolds stress. For density-matched coatings representative of aqueous incompressible flows, however, these favorable bands lie entirely within the regime where the effective coatings are linearly unstable to traveling wave flutter, rendering them practically unrealizable. Optimizing material damping does not eliminate this but provides a pathway to use weaker sub-optimal interactions. In supersonic flow, the large solid-to-fluid density ratio (O(1000)) shifts the favorable interaction to substantially higher moduli, weakening the achievable reduction in turbulence production to a few percent. However, the strongest interaction band occurs in the linearly stable regime. These results suggest that compliant wall drag reduction via coupling with high gain modes is fundamentally constrained by flow-induced structural instabilities in incompressible applications, whereas the high density ratios of supersonic flow offer a much narrower but stable window for practical coatings.",
+  "authors": [
+   "Soumen Chakravarty",
+   "Venkat Narayanaswamy"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Soumen Chakravarty",
+  "pdf_url": "http://arxiv.org/pdf/2608.26611",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-08-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Resolvent analysis to inform viscoelastic coatings for turbulent drag reduction",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.26622": {
+  "abstract": "Achieving stable, sustained grasping with soft robotic hands remains a fundamental challenge. Compliance enables safe and adaptive contact, yet the intrinsic viscoelasticity of soft polymers leads to stress relaxation and a continuous decay of grasping force during holding. Inspired by human grasping, which combines phase-dependent stiffness regulation with continuous sensing and feedback, this paper presents an integrated structure--perception--learning framework. We develop a variable-stiffness soft gripper that uses onboard vision and infrared thermography to track deformation and the temperature field in real time, preserving continuous tracking of the interaction state. To mitigate relaxation-induced force decay, we propose a temperature-coupled viscoelastic force representation, together with a physics-informed learning model, to reconstruct the force trend and provide explicit compensation during holding. Experiments show that, in a 280s force-controlled grasp-and-hold task, the proposed method maintains the desired force with a mean absolute error of 0.066N, outperforming fixed-aperture and instantaneous-only baselines by 80% and 95%, respectively. Overall, the results support a mechanism--AI co-design view: mechanisms shape feasible interactions, while learning compensates remaining uncertainty in viscoelastic dynamics, together enabling stable, sustained grasping.",
+  "authors": [
+   "Yanzhe Wang",
+   "Hao Wu",
+   "Ziyi Zheng",
+   "Huixu Dong"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "11 pages, 9 figures. Published in Robotics: Science and Systems (RSS 2026)",
+  "first_author": "Yanzhe Wang",
+  "pdf_url": "http://arxiv.org/pdf/2608.26622",
+  "primary_category": "cs.RO",
+  "published": "2026-08-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.26625": {
+  "abstract": "We present a reduced-order modeling framework based on proper orthogonal decomposition for dynamic linear viscoelasticity governed by generalized Maxwell models. The hereditary constitutive law is reformulated using internal variables, and the resulting problem is discretized in space by a symmetric interior penalty discontinuous Galerkin method and in time by either the backward Euler or Crank--Nicolson scheme. The reduced model is obtained by projecting the fully discrete system onto low-dimensional spaces constructed from displacement snapshots. For the full-order discontinuous Galerkin formulation, we show well-posedness and derive an a priori stability bound without using Gronwall's inequality. Consequently, the bound grows at most linearly, rather than exponentially, with the final time. We further derive spatial error estimates and an error decomposition that separates the effects of spatial discretization, temporal discretization, and proper orthogonal decomposition truncation. The reduced formulation replaces the large full-order systems with low-dimensional problems, enabling efficient long-time simulations. Numerical experiments verify the predicted convergence behavior, assess different inner products for constructing the reduced basis, and demonstrate accurate recovery of transient oscillations and viscoelastic relaxation with substantial computational savings, even after accounting for snapshot generation and basis construction.",
+  "authors": [
+   "Byeong-Chun Shin",
+   "Yongseok Jang"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Byeong-Chun Shin",
+  "pdf_url": "http://arxiv.org/pdf/2608.26625",
+  "primary_category": "math.NA",
+  "published": "2026-08-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A stable DG-POD reduced-order method for dynamic linear viscoelasticity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.26717": {
+  "abstract": "Molecular aggregates are at the basis of a broad range of functional systems, including photosynthetic light-harvesting complexes, organic photovoltaics, optoelectronic devices, and molecular sensors. Their structural organization, however, is often difficult to resolve because intrinsic heterogeneity. In this context, circular dichroism (CD) spectroscopy is particularly powerful because of its sensitivity to the three-dimensional organization of molecular building blocks. Extending CD measurements from ensembles to individual objects therefore offers a unique approach to probing supramolecular architecture in heterogeneous, non-crystallizable systems. However, without spatial and orientational averaging, measurements are highly sensitive to imbalances between left- and right-circularly polarized excitation, deviations from ideal circular polarization, and polarization imperfections coupled to linear dichroism, which creates spurious CD signals. Here, we present a systematic theoretical and experimental framework for understanding, quantifying, and controlling artifacts in single-object CD spectroscopy. We develop a mathematical description of the principal artifact mechanisms, identify their origins in practical implementations, including Pockels-cell-based polarization modulation, and establish strategies for their minimization. We validate this framework using an experimental implementation capable of acquiring CD spectra from individual molecular aggregates over 690-785 nm. Our results demonstrate that reliable single-object CD measurements are achievable when polarization-related artifacts are rigorously characterized and controlled. This Tutorial Review provides a unified theoretical framework and practical guide for single-object CD spectroscopy and its application to single-particle chirality, supramolecular photonics, and biophotonics.",
+  "authors": [
+   "Stefan Goppelt",
+   "Lisa M. Günther",
+   "Jürgen Köhler"
+  ],
+  "categories": [
+   "physics.optics",
+   "cond-mat.mes-hall",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Stefan Goppelt",
+  "pdf_url": "http://arxiv.org/pdf/2608.26717",
+  "primary_category": "physics.optics",
+  "published": "2026-08-27",
+  "tags": [
+   "organic-photovoltaics",
+   "spectroscopy"
+  ],
+  "title": "Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.27048": {
+  "abstract": "Silent speech recognition (SSR) provides an alternative communication pathway in the absence of audible speech. However, conventional approaches are limited by the need for constant facial attachment, privacy concerns, and unstable signal acquisition. Here, we propose a soft, active electromyography (EMG) interface that enables word-level SSR using machine learning. Worn on the hand, the device uses a fingertip electrode that can be positioned near the lips to acquire EMG signals only when needed. The interface integrates liquid metal (LM) interconnects, transparent flexible printed circuit (FPC) electrodes, and elastomer encapsulation to ensure high mechanical stability during finger motion. A deep neural network trained on these stable signals achieved a mean accuracy of 97.2 $\\pm$ 1.3% across three subjects in classifying a 30-word vocabulary, demonstrating robust linguistic discrimination. Furthermore, real-time drone control validates the practicality of this approach in noisy and privacy-sensitive environments where conventional voice recognition fails. This study highlights the potential of soft, wearable EMG systems as secure and intuitive human-machine interfaces.",
+  "authors": [
+   "Yuta Kurotaki",
+   "Shusuke Yamakoshi",
+   "Reitaro Yoshida",
+   "Yutaka Isoda",
+   "Tamami Takano",
+   "Yuji Isano",
+   "Yusuke Miyake",
+   "Kentaro Kuribayashi",
+   "Hiroki Ota"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.HC",
+   "cs.SD"
+  ],
+  "comment": "17 pages, 5 figures, supplementary information",
+  "first_author": "Yuta Kurotaki",
+  "pdf_url": "http://arxiv.org/pdf/2608.27048",
+  "primary_category": "cs.LG",
+  "published": "2026-08-27",
+  "tags": [],
+  "title": "Soft Active Electromyography Interface for Machine Learning-Enabled Silent Speech Recognition",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-08-27"
+ },
+ "2608.27440": {
+  "abstract": "The physics of information scrambling in quantum many-body systems is intimately related to thermalisation and emergence of chaos. However, its standard characterisation through bipartite entanglement or operator growth remains inherently coarse-grained, obscuring the spatiotemporal anatomy of how quantum information flows between different regions of the system and across various length scales. In this work, we develop a theory for the dynamics of local information in local random unitary circuits which resolves the fine-grained microscopic structures of local information flow in such systems. Using the framework of information lattice which systematises the information content at each length scale within each subsystem, we identify a distribution of length scales at which information resides and obtain the dynamics of the distribution. For Haar-random circuits with infinite local Hilbert-space dimensions, we map this dynamics onto an exact classical stochastic process which reveals that this distribution is described by a Tracy-Widom form which moves ballistically in time ($ \\propto t$) toward larger scales, accompanied by a $\\sim t^{1/3}$ broadening. We also find the same qualitative behaviour for random Clifford circuits acting on qubits. The similar scaling behaviour in two rather different settings hints strongly towards the universality of our results. In the case of Clifford circuits, we develop a phenomenological Markov process for the dynamics of the stabiliser generators in a specific gauge which confirms the Tracy-Widom distribution and the $t^{1/3}$ scaling of the fluctuations. Ultimately, our results establish the universal properties of the dynamics of local quantum information in a length scale-resolved fashion and provide a possible route towards bridging exact microscopic theories for information dynamics with emergent hydrodynamic descriptions of information flow.",
+  "authors": [
+   "Ratul Thakur",
+   "Sthitadhi Roy"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech",
+   "hep-th"
+  ],
+  "comment": "31 pages, 21 figures",
+  "first_author": "Ratul Thakur",
+  "pdf_url": "http://arxiv.org/pdf/2608.27440",
+  "primary_category": "quant-ph",
+  "published": "2026-08-27",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Dynamics of local quantum information in random unitary circuits",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-08-27"
  }
 }

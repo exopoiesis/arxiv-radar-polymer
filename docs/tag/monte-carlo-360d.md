@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -758,11 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03604.html">Mott Glass and Criticality in a S=1/2 Bilayer Heisenberg Model with Interlayer Bond Dilution</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Kunpeng Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.03604">2509.03604</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22663.html">Security Friction Quotient for Zero Trust Identity Policy with Empirical Validation</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Michel Youssef</td>
-<td><a href="http://arxiv.org/abs/2509.22663">2509.22663</a></td>
 </tr>
 </tbody></table>

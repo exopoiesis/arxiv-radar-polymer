@@ -5,15 +5,123 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-08-28._
+_Updated 2026-08-29._
 
-**3686** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3706** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Piyush Garg et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26479">2608.26479</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26520.html">Phase transitions and microphases in elastomers. II. Anisotropy-driven morphologies</a></div></td>
+<td>Manu Mannattil et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26520">2608.26520</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26611.html">Resolvent analysis to inform viscoelastic coatings for turbulent drag reduction</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Soumen Chakravarty et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26611">2608.26611</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26622.html">Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Yanzhe Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26622">2608.26622</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26625.html">A stable DG-POD reduced-order method for dynamic linear viscoelasticity</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Byeong-Chun Shin et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26625">2608.26625</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26717.html">Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections</a></div><div class="paper-tags"><a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Stefan Goppelt et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26717">2608.26717</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27048.html">Soft Active Electromyography Interface for Machine Learning-Enabled Silent Speech Recognition</a></div></td>
+<td>Yuta Kurotaki et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27048">2608.27048</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27440.html">Dynamics of local quantum information in random unitary circuits</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Ratul Thakur et al.</td>
+<td><a href="http://arxiv.org/abs/2608.27440">2608.27440</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25242.html">Dynamical and conformational behavior of a polymer in a crowded solution</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Setarehalsadat Changizrezaei et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25242">2608.25242</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25324.html">Multiple pattern formation in quorum sensing of density enhanced motility</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Itay Azizi</td>
+<td><a href="http://arxiv.org/abs/2608.25324">2608.25324</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25649.html">Quantum motility-induced phase separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Laurin Brunner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25649">2608.25649</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25928.html">AI Agentic Selective Laser Sintering Process Optimization</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Peter Pak et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25928">2608.25928</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26073.html">Optical extinction and near-field properties of plasmonic dimers: Role of particle shape and separation</a></div></td>
+<td>Gino Wegner et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26073">2608.26073</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26468.html">Fluctuation--response relations from an emergent $\mathbb{Z}_2$ symmetry in the rotating stochastic Landau model</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Dhruv Kush et al.</td>
+<td><a href="http://arxiv.org/abs/2608.26468">2608.26468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24059.html">Composite fermions in the $ν=3$ fractional quantum spin Hall effect</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Hongquan Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24059">2608.24059</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24378.html">Conformation-Mediated Kinetics of Polymer Chain Scission under Tension</a></div></td>
+<td>Jie Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24378">2608.24378</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24792.html">Kinetic Turnover in the Early-Stage Nucleation of Multi-Shell Condensed Clusters</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Kaicheng Zhu et al.</td>
+<td><a href="http://arxiv.org/abs/2608.24792">2608.24792</a></td>
+</tr>
+<tr class="paper">
+<td>2026-08-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25103.html">Convergence of the conformal Ward identity in the derivative expansion approximation</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>Jorge Ibañez et al.</td>
+<td><a href="http://arxiv.org/abs/2608.25103">2608.25103</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22691.html">Volterra Sweeping Processes with Multivalued Perturbations under Compactness Conditions</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -63,6 +171,12 @@ _Updated 2026-08-28._
 <td><a href="http://arxiv.org/abs/2608.23190">2608.23190</a></td>
 </tr>
 <tr class="paper">
+<td>2026-08-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23885.html">A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
+<td>Prithvi Dake et al.</td>
+<td><a href="http://arxiv.org/abs/2608.23885">2608.23885</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21698.html">Non-uniform swelling of polyelectrolyte hydrogels: effects of charge regulation</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
 <td>Du Chen et al.</td>
@@ -79,119 +193,5 @@ _Updated 2026-08-28._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22128.html">Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
 <td>Zhaoda Du et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22128">2608.22128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20979.html">Polymer Genome in the Age of Artificial Intelligence</a></div><div class="paper-tags"><a href="tag/inverse-design-30d.html">inverse-design</a> · <a href="tag/polymer-informatics-30d.html">polymer-informatics</a></div></td>
-<td>Jifeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20979">2608.20979</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21190.html">Shaping liquids into space structures - microgravity-assisted design and manufacturing of minimal surfaces</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Erez Hochman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21190">2608.21190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21264.html">LCST and Closed-Loop Phase Behavior in Non-Associating Fully Symmetric Multicomponent Polymer Systems</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/flory-huggins-30d.html">flory-huggins</a></div></td>
-<td>Artem Petrov et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21264">2608.21264</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21313.html">Machine-Learned NMR Shieldings in Molecular Solids with Built-In Hybrid-Functional Molecular Corrections</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Matthias Kellner et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21313">2608.21313</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21540.html">Automated Analysis to Reveal Grain Boundary Phase Microstructures</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>R. Daniel Moore et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21540">2608.21540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21617.html">Electrostatic Persistence Length Revisited. I. Theory</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Artem M. Rumyantsev et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21617">2608.21617</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21627.html">Electrostatic Persistence Length Revisited. II. Simulations and Comparison to Experiment</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Alexey A. Gavrilov et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21627">2608.21627</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21634.html">Motional Degrees of Freedom in Network Hamiltonian Models</a></div></td>
-<td>Peng Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21634">2608.21634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21674.html">Anomalous diffusion memory factorization: Characteristic timescales and application to inverse problem</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>William Cvetko et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21674">2608.21674</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19724.html">Cooperative effects of membrane confinement and gelation on PEG crystallization pathway</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Masaki Yoshida et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19724">2608.19724</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19810.html">A Central Disulfide Junction Drives Transient Network Formation in Elastin-Like Polypeptides, Enabling Low-Concentration Hydrogels</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/saxs-30d.html">saxs</a> · <a href="tag/tem-30d.html">tem</a></div></td>
-<td>Tingting Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19810">2608.19810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.19884.html">A solvent-flux theory for nonequilibrium swelling dynamics of thermoresponsive microgels</a></div></td>
-<td>Arturo Moncho-Jordá et al.</td>
-<td><a href="http://arxiv.org/abs/2608.19884">2608.19884</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20091.html">Growth phases of an active tissue: determinate, indeterminate, and proportionate</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Jigyasa Watwani et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20091">2608.20091</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20136.html">Boltzmann counting in Hilbert space</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Raúl O. Vallejos et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20136">2608.20136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20151.html">A Zoology of Quantum Turing Patterns</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Kazuki Ikeda</td>
-<td><a href="http://arxiv.org/abs/2608.20151">2608.20151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20226.html">Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation</a></div><div class="paper-tags"><a href="tag/polymerization-30d.html">polymerization</a></div></td>
-<td>Alexander K. Hartmann et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20226">2608.20226</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.20543.html">Highly organized smectic-like packing in vapor-deposited glasses of a liquid crystal</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
-<td>Ankit Gujral et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20543">2608.20543</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21453.html">New Laplace convolution integrals involving exponential, error, and parabolic cylinder functions with applications in heat transfer and linear viscoelasticity</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>González Santander et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21453">2608.21453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.18418.html">Solidification-cell confinement of domain-wall pinning in additively manufactured ferromagnets</a></div></td>
-<td>Dennis Boakye et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18418">2608.18418</a></td>
 </tr>
 </tbody></table>
