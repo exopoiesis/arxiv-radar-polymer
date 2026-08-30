@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">89 papers</span>
+  <span class="paper-count">88 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -542,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06042.html">Ionic glass formers show an inverted relation between fragility and relaxation broadness</a></div></td>
 <td>Sophie G. M. van Lange et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06042">2509.06042</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03604.html">Mott Glass and Criticality in a S=1/2 Bilayer Heisenberg Model with Interlayer Bond Dilution</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Kunpeng Li et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03604">2509.03604</a></td>
 </tr>
 </tbody></table>
