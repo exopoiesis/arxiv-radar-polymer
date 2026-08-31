@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">475 papers</span>
+  <span class="paper-count">473 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2852,17 +2852,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04924.html">Blowup of solutions for compressible viscoelastic fluid</a></div></td>
 <td>Sébastien Boyaval et al.</td>
 <td><a href="http://arxiv.org/abs/2509.04924">2509.04924</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03799.html">Energy decay and blow-up of viscoelastic wave equations with polynomial nonlinearity and damping</a></div></td>
-<td>Qingqing Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.03799">2509.03799</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.04693.html">Emergent odd viscoelasticity in chiral soft glassy materials</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Debarghya Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2509.04693">2509.04693</a></td>
 </tr>
 </tbody></table>

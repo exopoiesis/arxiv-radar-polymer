@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03729.html">SR-CLD: Spatially Resolved Chord Length Distributions for Statistical Description and Visualization of Non-uniform Microstructures</a></div></td>
 <td>Sheila E. Whitman et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03729">2409.03729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.07107.html">A Framework for Supervised and Unsupervised Segmentation and Classification of Materials Microstructure Images</a></div></td>
-<td>Kungang Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2502.07107">2502.07107</a></td>
 </tr>
 </tbody></table>
