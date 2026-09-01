@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,17 +914,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00536.html">Brittleness of metallic glasses dictated by their state at the fragile-to-strong transition temperature</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Achraf Atila et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00536">2408.00536</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18133.html">Correlating ultrastability with fragility and surface mobility in vapor deposited tetrahedral glasses</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Fabio Leoni et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18133">2407.18133</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13272.html">Thermal modification of ZrCu metallic glass nanolaminates: Structure and mechanical properties</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Andrea Brognara et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13272">2407.13272</a></td>
 </tr>
 </tbody></table>

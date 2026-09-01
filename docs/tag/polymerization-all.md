@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymerization — all</h1>
-  <span class="paper-count">55 papers</span>
+  <span class="paper-count">54 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <a href="polymerization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -338,11 +338,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01828.html">Properties of promising cartilage implants based on cellulose-polyacrylamide composite hydrogels: results of in vivo tests carried out over a period of 90-120 days</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>
 <td>Alexander Buyanov et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01828">2408.01828</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04636.html">Surface-Functionalization of Oleate-Capped Nano-Emitters for Stable Dispersion in 3D-Printable Polymers</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
-<td>Akhilesh Kumar Pathak et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04636">2407.04636</a></td>
 </tr>
 </tbody></table>

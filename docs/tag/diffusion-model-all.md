@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>diffusion-model — all</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">42 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <a href="diffusion-model-90d.html">90d</a> <a href="diffusion-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -266,11 +266,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04199.html">Breaking the Brownian Barrier: Models and Manifestations of Molecular Diffusion in Complex Fluids</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Harish Srinivasan et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04199">2409.04199</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.11758.html">Diffusion-driven self-assembly of emerin nanodomains at the nuclear envelope</a></div></td>
-<td>Carlos D. Alas et al.</td>
-<td><a href="http://arxiv.org/abs/2407.11758">2407.11758</a></td>
 </tr>
 </tbody></table>

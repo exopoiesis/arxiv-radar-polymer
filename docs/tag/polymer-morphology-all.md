@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">360 papers</span>
+  <span class="paper-count">355 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2144,35 +2144,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00660.html">Droplet-confined electroplating for nanoscale additive manufacturing: current control of the initial stages of the growth of copper nanowires</a></div></td>
 <td>Mirco Nydegger et al.</td>
 <td><a href="http://arxiv.org/abs/2408.00660">2408.00660</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17138.html">Active particles confined in deformable droplets</a></div></td>
-<td>Javier Diaz et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17138">2407.17138</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05333.html">Generating multi-scale NMC particles with radial grain architectures using spatial stochastics and GANs</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Lukas Fuchs et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05333">2407.05333</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14354.html">High strength self-healable supercapacitor based on supramolecular polymer hydrogel with upper critical solubility temperature</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Roman Elashnikov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14354">2407.14354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10410.html">Effect of microstructure on fatigue properties of hyperelastic materials</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Anna Stepashkina et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10410">2407.10410</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08769.html">AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline</a></div><div class="paper-tags"><a href="automated-synthesis-all.html">automated-synthesis</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Samuel P. Gleason et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08769">2407.08769</a></td>
 </tr>
 </tbody></table>

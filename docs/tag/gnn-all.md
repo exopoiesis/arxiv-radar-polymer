@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>gnn — all</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="gnn-7d.html">7d</a> <a href="gnn-30d.html">30d</a> <a href="gnn-90d.html">90d</a> <a href="gnn-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08628.html">Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Killian Sheriff et al.</td>
 <td><a href="http://arxiv.org/abs/2405.08628">2405.08628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13838.html">Temperature Distribution Prediction in Laser Powder Bed Fusion using Transferable and Scalable Graph Neural Networks</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Riddhiman Raut et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13838">2407.13838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="mlff-all.html">mlff</a></div></td>
-<td>Klara Bonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
 </tr>
 </tbody></table>

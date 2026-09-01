@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">113 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -692,11 +692,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01340.html">On the origin of the light yield enhancement in polymeric composite scintillators loaded with dense nanoparticles</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="nanocomposites-all.html">nanocomposites</a></div></td>
 <td>Irene Villa et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01340">2408.01340</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08769.html">AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline</a></div><div class="paper-tags"><a href="automated-synthesis-all.html">automated-synthesis</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Samuel P. Gleason et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08769">2407.08769</a></td>
 </tr>
 </tbody></table>

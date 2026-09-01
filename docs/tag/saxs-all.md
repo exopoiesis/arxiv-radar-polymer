@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>saxs — all</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="saxs-7d.html">7d</a> <a href="saxs-30d.html">30d</a> <a href="saxs-90d.html">90d</a> <a href="saxs-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09159.html">Tuning the mechanical properties of organophilic clay dispersions: particle composition and preshear history effects</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Nikolaos A. Burger et al.</td>
 <td><a href="http://arxiv.org/abs/2408.09159">2408.09159</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13718.html">Characterizing hydrogel behavior under compression with gel-freezing osmometry</a></div><div class="paper-tags"><a href="flory-huggins-all.html">flory-huggins</a> · <a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Yanxia Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13718">2407.13718</a></td>
 </tr>
 </tbody></table>

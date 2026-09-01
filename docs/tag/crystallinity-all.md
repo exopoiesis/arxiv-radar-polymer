@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>crystallinity — all</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="crystallinity-7d.html">7d</a> <a href="crystallinity-30d.html">30d</a> <a href="crystallinity-90d.html">90d</a> <a href="crystallinity-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10748.html">Electronic vs. phononic thermal transport in Cr-doped V2O3 thin films across the Mott transition</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Johannes Mohr et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10748">2409.10748</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18585.html">Enhanced Piezoelectricity in Sustainable-by-design Chitosan Nanocomposite Elastomers for Prosthetics, Robotics, and Circular Electronics</a></div></td>
-<td>Jacopo Nicoletti et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18585">2407.18585</a></td>
 </tr>
 </tbody></table>

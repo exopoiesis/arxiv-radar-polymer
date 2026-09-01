@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>thermal-conductivity — all</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <a href="thermal-conductivity-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,23 +500,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11642.html">A diamond heater-thermometer microsensor for measuring localized thermal conductivity: a case study in gelatin hydrogel</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
 <td>Linjie Ma et al.</td>
 <td><a href="http://arxiv.org/abs/2408.11642">2408.11642</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18870.html">Efficient computational homogenization via tensor train format</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Yuki Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18870">2407.18870</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14348.html">Vibrations and damping of the eigenmodes of viscoelastic nanospheres with thermal conductivity</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Markus Wenin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14348">2407.14348</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13063.html">Smart polymer solution and thermal conductivity: How important is an exact polymer conformation?</a></div></td>
-<td>Mokter M. Chowdhury et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13063">2407.13063</a></td>
 </tr>
 </tbody></table>

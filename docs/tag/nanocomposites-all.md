@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>nanocomposites — all</h1>
-  <span class="paper-count">81 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <a href="nanocomposites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,11 +494,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01550.html">Interplay between Exchange Interaction and Magnetic Shape Anisotropy of ferromagnetic nanoparticles in a non-magnetic matrix for rare-earth-free permanent magnets</a></div></td>
 <td>Shouvik Sarker et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01550">2408.01550</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10915.html">Development of nanocomposite scintillators for use in high-energy physics</a></div></td>
-<td>A. Antonelli et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10915">2407.10915</a></td>
 </tr>
 </tbody></table>

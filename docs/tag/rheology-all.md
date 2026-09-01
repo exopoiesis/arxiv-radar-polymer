@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rheology — all</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1178,17 +1178,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03196.html">Microfluidic 3D Cell Culture: Potential Application of Collagen Hydrogels with an Optimal Dose of Bioactive Glasses</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Faezeh Ghobadi et al.</td>
 <td><a href="http://arxiv.org/abs/2408.03196">2408.03196</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18799.html">Time discretization in visco-elastodynamics at large displacements and strains in the Eulerian frame</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Tomáš Roubíček</td>
-<td><a href="http://arxiv.org/abs/2407.18799">2407.18799</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02860.html">Active Polar Ring Polymer in Shear Flow -- An Analytical Study</a></div></td>
-<td>Roland G. Winkler et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02860">2407.02860</a></td>
 </tr>
 </tbody></table>

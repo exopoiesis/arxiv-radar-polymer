@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3706 papers across 26 months.
+**Total corpus:** 3619 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,12 +12,11 @@
     <li><a href=#generative-design--inverse-design>Generative Design & Inverse Design</a> (50)</li>
     <li><a href=#molecular-dynamics--multiscale-modeling>Molecular Dynamics & Multiscale Modeling</a> (50)</li>
     <li><a href=#microstructure-morphology--characterization>Microstructure, Morphology & Characterization</a> (50)</li>
-    <li><a href=#synthesis-kinetics--automation>Synthesis, Kinetics & Automation</a> (27)</li>
+    <li><a href=#synthesis-kinetics--automation>Synthesis, Kinetics & Automation</a> (25)</li>
     <li><a href=#processing-manufacturing--composites>Processing, Manufacturing & Composites</a> (50)</li>
     <li><a href=#sustainability--functional-applications>Sustainability & Functional Applications</a> (50)</li>
     <li><a href=#conducting-responsive--compartment-polymers>Conducting, Responsive & Compartment Polymers</a> (50)</li>
     <li><a href=#informatics--data-infrastructure>Informatics & Data Infrastructure</a> (50)</li>
-    <li><a href=#viaauthor-whitelistpolymer-md-coarse-graining>via:author-whitelist:polymer MD, coarse-graining</a> (1)</li>
     <li><a href=#viaauthor-whitelistpolymer-dynamics-glass-transition>via:author-whitelist:polymer dynamics, glass transition</a> (5)</li>
     <li><a href=#viaauthor-whitelistsoft-matter-active-matter>via:author-whitelist:soft matter, active matter</a> (9)</li>
     <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (19)</li>
@@ -345,8 +344,6 @@
 |**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
 |**2024-08-27**|**Automated Synthesis of Quantum Algorithms via Classical Numerical Techniques**|Yuxin Huang et al.|[2408.15225](http://arxiv.org/abs/2408.15225)|[md](abstracts/2408.15225.md)|
 |**2024-08-19**|**BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**|Yifei Yang et al.|[2408.10285](http://arxiv.org/abs/2408.10285)|[md](abstracts/2408.10285.md)|
-|**2024-07-17**|**Accelerating the inference of string generation-based chemical reaction models for industrial applications**|Mikhail Andronov et al.|[2407.09685](http://arxiv.org/abs/2407.09685)|[md](abstracts/2407.09685.md)|
-|**2024-07-11**|**AuNR-SMA: Automated Gold Nanorod Spectral Morphology Analysis Pipeline**|Samuel P. Gleason et al.|[2407.08769](http://arxiv.org/abs/2407.08769)|[md](abstracts/2407.08769.md)|
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 
@@ -575,14 +572,6 @@
 |**2026-05-28**|**Exact Solution of the Discrete Wormlike Chain Model**|Benaoumeur Bakhti|[2605.29743](http://arxiv.org/abs/2605.29743)|[md](abstracts/2605.29743.md)|
 |**2026-05-28**|**Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods**|R. Esquivel-Sirvent et al.|[2605.30028](http://arxiv.org/abs/2605.30028)|[md](abstracts/2605.30028.md)|
 |**2026-05-28**|**Role of structure and charge trapping on the bipolaron formation and magnetic-field response of gated conjugated polymers**|Zuchong Yang et al.|[2605.30196](http://arxiv.org/abs/2605.30196)|[md](abstracts/2605.30196.md)|
-
-<p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
-
-## via:author-whitelist:polymer MD, coarse-graining
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2024-07-24**|**Reverse non-equilibrium molecular dynamics simulations of a melt of Kremer-Grest type model under fast shear**|Tatsuma Oishi et al.|[2407.17031](http://arxiv.org/abs/2407.17031)|[md](abstracts/2407.17031.md)|
 
 <p align=right>(<a href=#updated-on-20260901>back to top</a>)</p>
 

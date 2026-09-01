@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>oect — all</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="oect-7d.html">7d</a> <a href="oect-30d.html">30d</a> <a href="oect-90d.html">90d</a> <a href="oect-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13344.html">Adaptive AI decision interface for autonomous electronic material discovery</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Yahao Dai et al.</td>
 <td><a href="http://arxiv.org/abs/2504.13344">2504.13344</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07400.html">Invisible sweat sensor: ultrathin membrane mimics skin for stress monitoring</a></div></td>
-<td>Yuchen Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07400">2407.07400</a></td>
 </tr>
 </tbody></table>

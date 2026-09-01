@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">297 papers</span>
+  <span class="paper-count">290 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1754,47 +1754,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01407.html">Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="membranes-all.html">membranes</a> · <a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Emil Jackel et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01407">2408.01407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21203.html">Quantum advantage from measurement-induced entanglement in random shallow circuits</a></div></td>
-<td>Adam Bene Watts et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21203">2407.21203</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19563.html">Criticality enhances the reinforcement of disordered networks by rigid inclusions</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Jordan L. Shivers et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19563">2407.19563</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07226.html">Differential Effects of Sequence-Local versus Nonlocal Charge Patterns on Phase Separation and Conformational Dimensions of Polyampholytes as Model Intrinsically Disordered Proteins</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Tanmoy Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07226">2407.07226</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18784.html">Tuning the kinetics of intracellular transport</a></div></td>
-<td>Ardra Suchitran et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18784">2407.18784</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18957.html">Donnan equilibrium in charged slit-pores from a hybrid nonequilibrium Molecular Dynamics / Monte Carlo method with ions and solvent exchange</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Jeongmin Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18957">2405.18957</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.09654.html">A foundational framework for the mesoscale modeling of dynamic elastomers and gels</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Robert J. Wagner et al.</td>
-<td><a href="http://arxiv.org/abs/2407.09654">2407.09654</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a> · <a href="mlff-all.html">mlff</a></div></td>
-<td>Klara Bonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
 </tr>
 </tbody></table>

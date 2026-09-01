@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mlff — all</h1>
-  <span class="paper-count">54 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <a href="mlff-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,23 +320,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01407.html">Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="membranes-all.html">membranes</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Emil Jackel et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01407">2408.01407</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14134.html">On the Edge Roughness of Two-Dimensional Materials</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Pengjie Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14134">2407.14134</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04526.html">Peering inside the black box: Learning the relevance of many-body functions in Neural Network potentials</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Klara Bonneau et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04526">2407.04526</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04839.html">Bayesian Analysis Reveals the Key to Extracting Pair Potentials from Neutron Scattering Data</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
-<td>Brennon L. Shanks et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04839">2407.04839</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">55 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -344,17 +344,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02824.html">Inverse Design of Copolymers Including Stoichiometry and Chain Architecture</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a></div></td>
 <td>Gabriel Vogel et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02824">2410.02824</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05333.html">Generating multi-scale NMC particles with radial grain architectures using spatial stochastics and GANs</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Lukas Fuchs et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05333">2407.05333</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08074.html">Smooth Like Butter: Evaluating Multi-Lattice Transitions in Property-Augmented Latent Spaces</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Martha Baldwin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08074">2407.08074</a></td>
 </tr>
 </tbody></table>

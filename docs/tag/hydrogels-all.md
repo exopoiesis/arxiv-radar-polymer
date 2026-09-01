@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogels — all</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,53 +1016,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01828.html">Properties of promising cartilage implants based on cellulose-polyacrylamide composite hydrogels: results of in vivo tests carried out over a period of 90-120 days</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="polymerization-all.html">polymerization</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>
 <td>Alexander Buyanov et al.</td>
 <td><a href="http://arxiv.org/abs/2408.01828">2408.01828</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.20821.html">Hyper-Auxeticity and the Volume Phase Transition of Polymer Gels</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Andrea Ninarello et al.</td>
-<td><a href="http://arxiv.org/abs/2407.20821">2407.20821</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14966.html">Multi-dimensional memory in sheared granular materials</a></div></td>
-<td>Chloe W. Lindeman</td>
-<td><a href="http://arxiv.org/abs/2407.14966">2407.14966</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14354.html">High strength self-healable supercapacitor based on supramolecular polymer hydrogel with upper critical solubility temperature</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Roman Elashnikov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14354">2407.14354</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.14639.html">A multi-body finite element model for hydrogel packings: Linear response to shear</a></div></td>
-<td>Ahmed Elgailani et al.</td>
-<td><a href="http://arxiv.org/abs/2407.14639">2407.14639</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13718.html">Characterizing hydrogel behavior under compression with gel-freezing osmometry</a></div><div class="paper-tags"><a href="flory-huggins-all.html">flory-huggins</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="saxs-all.html">saxs</a></div></td>
-<td>Yanxia Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13718">2407.13718</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10410.html">Effect of microstructure on fatigue properties of hyperelastic materials</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Anna Stepashkina et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10410">2407.10410</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10298.html">Dynamics of fluid-driven fractures across material heterogeneities</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Sri Savya Tanikella et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10298">2407.10298</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07819.html">Friction through molecular adsorption at the sliding interface of hydrogels: Theory and experiments</a></div></td>
-<td>Lola Ciapa et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07819">2407.07819</a></td>
 </tr>
 </tbody></table>

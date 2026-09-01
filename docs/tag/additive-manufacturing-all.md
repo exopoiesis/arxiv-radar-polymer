@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">377 papers</span>
+  <span class="paper-count">362 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2186,95 +2186,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06343.html">Thin Film Reconfigurable Intelligent Surface for Harmonic Beam Steering</a></div></td>
 <td>Boxuan Xie et al.</td>
 <td><a href="http://arxiv.org/abs/2406.06343">2406.06343</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00590.html">Elastic wave control in reticulated plates using Schwarz primitive cells</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a></div></td>
-<td>Aida Hejazi Nooghabi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00590">2408.00590</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.19839.html">Additive manufacturing applications in astronomy: a review</a></div></td>
-<td>Younes Chahid et al.</td>
-<td><a href="http://arxiv.org/abs/2407.19839">2407.19839</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04598.html">Tunable kHz distributed feedback fiber laser enabled by glass additive-manufacturing</a></div></td>
-<td>Pawel Maniewski et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04598">2407.04598</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18558.html">PANDORA: The Open-Source, Structurally Elastic Humanoid Robot</a></div></td>
-<td>Connor W. Herron et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18558">2407.18558</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18827.html">Human-artificial intelligence teaming for scientific information extraction from data-driven additive manufacturing research using large language models</a></div></td>
-<td>Mutahar Safdar et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18827">2407.18827</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18109.html">Design, manufacture and metrology of additively manufactured, metal and ceramic lightweight circular mirror prototypes</a></div></td>
-<td>Greg Lister et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18109">2407.18109</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.17338.html">Accurate Inverse Process Optimization Framework in Laser Directed Energy Deposition</a></div></td>
-<td>Xiao Shang et al.</td>
-<td><a href="http://arxiv.org/abs/2407.17338">2407.17338</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.15877.html">Gaussian Process Model with Tensorial Inputs and Its Application to the Design of 3D Printed Antennas</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a></div></td>
-<td>Xi Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2407.15877">2407.15877</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13838.html">Temperature Distribution Prediction in Laser Powder Bed Fusion using Transferable and Scalable Graph Neural Networks</a></div><div class="paper-tags"><a href="bayesian-optimization-all.html">bayesian-optimization</a> · <a href="gnn-all.html">gnn</a></div></td>
-<td>Riddhiman Raut et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13838">2407.13838</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.10282.html">High-speed synchrotron X-ray imaging of melt pool dynamics during ultrasonic melt processing of Al6061</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Lovejoy Mutswatiwa et al.</td>
-<td><a href="http://arxiv.org/abs/2407.10282">2407.10282</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.07405.html">Targeting low micro-roughness for 3D printed aluminium mirrors using a hot isostatic press</a></div></td>
-<td>Carolyn Atkins et al.</td>
-<td><a href="http://arxiv.org/abs/2407.07405">2407.07405</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08074.html">Smooth Like Butter: Evaluating Multi-Lattice Transitions in Property-Augmented Latent Spaces</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Martha Baldwin et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08074">2407.08074</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.05314.html">Additive manufacturing in ceramics: targeting lightweight mirror applications in the visible, ultraviolet and X-ray</a></div></td>
-<td>Carolyn Atkins et al.</td>
-<td><a href="http://arxiv.org/abs/2407.05314">2407.05314</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.02162.html">ML-extendable framework for multiphysics-multiscale simulation workflow and data management using Kadi4Mat</a></div></td>
-<td>Somnath Bharech et al.</td>
-<td><a href="http://arxiv.org/abs/2407.02162">2407.02162</a></td>
-</tr>
-<tr class="paper">
-<td>2024-07-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.01484.html">Scaling on Frontier: Uncertainty Quantification Workflow Applications using ExaWorks to Enable Full System Utilization</a></div></td>
-<td>Mikhail Titov et al.</td>
-<td><a href="http://arxiv.org/abs/2407.01484">2407.01484</a></td>
 </tr>
 </tbody></table>
