@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">196 papers</span>
+  <span class="paper-count">193 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1172,23 +1172,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06469.html">Interactive Shaping of Granular Media Using Reinforcement Learning</a></div></td>
 <td>Benedikt Kreis et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06469">2509.06469</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.04180.html">Slice-100K: A Multimodal Dataset for Extrusion-based 3D Printing</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a></div></td>
-<td>Anushrut Jignasu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.04180">2407.04180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05268.html">Fast 360° 3D Metrology for Directed Energy Deposition</a></div></td>
-<td>James Taylor et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05268">2509.05268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22666.html">Universal Numerical Simulation Model for Laser Material Processing</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Andreas Otto et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22666">2509.22666</a></td>
 </tr>
 </tbody></table>

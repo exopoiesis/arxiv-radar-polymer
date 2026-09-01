@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>coarse-grained — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26468.html">Fluctuation--response relations from an emergent $\mathbb{Z}_2$ symmetry in the rotating stochastic Landau model</a></div></td>
 <td>Dhruv Kush et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26468">2608.26468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22934.html">Coarse-grained kinetic scale tightens thermodynamic spectral bounds of Markov cycles</a></div></td>
-<td>Rongxing Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22934">2608.22934</a></td>
 </tr>
 </tbody></table>
