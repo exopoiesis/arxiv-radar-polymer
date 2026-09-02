@@ -8,16 +8,16 @@
   total: 572
   group: morphology
 - name: polymer-morphology
-  count: 16
+  count: 15
   total: 355
   group: morphology
-- name: molecular-dynamics
-  count: 15
-  total: 257
-  group: simulation
 - name: coarse-grained
   count: 14
   total: 290
+  group: simulation
+- name: molecular-dynamics
+  count: 14
+  total: 257
   group: simulation
 - name: benchmarking
   count: 10
@@ -51,10 +51,6 @@
   count: 5
   total: 53
   group: sustainability
-- name: mlff
-  count: 4
-  total: 51
-  group: simulation
 - name: diffusion-model
   count: 3
   total: 42
@@ -63,14 +59,14 @@
   count: 3
   total: 23
   group: properties
+- name: mlff
+  count: 3
+  total: 51
+  group: simulation
 - name: spectroscopy
   count: 3
   total: 113
   group: characterization
-- name: active-learning
-  count: 2
-  total: 19
-  group: design
 - name: automated-synthesis
   count: 2
   total: 3
@@ -103,6 +99,10 @@
   count: 2
   total: 28
   group: characterization
+- name: active-learning
+  count: 1
+  total: 19
+  group: design
 - name: dielectric-properties
   count: 1
   total: 19

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">472 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,17 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10125.html">Asymptotic stability of the composite wave of rarefaction wave and contact wave to nonlinear viscoelasticity model with non-convex flux</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Zhenhua Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2409.10125">2409.10125</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02335.html">Permeability heterogeneity and bulk linear elasticity of displaced clay suspensions determine interfacial pattern morphologies in Hele-Shaw experiments</a></div></td>
-<td>Vaibhav Raj Singh Parmar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.02335">2509.02335</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.05855.html">Programming tension in 3D printed networks inspired by spiderwebs</a></div></td>
-<td>Thijs Masmeijer et al.</td>
-<td><a href="http://arxiv.org/abs/2509.05855">2509.05855</a></td>
 </tr>
 </tbody></table>
