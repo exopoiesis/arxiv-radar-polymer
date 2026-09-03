@@ -5,15 +5,51 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-02._
+_Updated 2026-09-03._
 
-**3619** polymer-relevant papers across **25** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3625** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02287.html">Vitrification-Devitrification Enables Tunable Photonic and Gas Sorption Properties of Zeolitic Imidazolate Frameworks</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
+<td>Zhencai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02287">2609.02287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02645.html">XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>William Chèvremont et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02645">2609.02645</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02696.html">A viscoelastic theory for ultrasound-induced intracellular streaming</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Niels Gieseler et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02696">2609.02696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00635.html">A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Souta Miyamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00635">2609.00635</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01883.html">Fractional oscillators with fractional damping in the presence of external forces</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Fernando Olivar-Romero et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01883">2609.01883</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01907.html">Yielded-region connectivity governs the onset of gravity-driven spreading in elastoviscoplastic drops</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Alice Woodbridge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01907">2609.01907</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
@@ -157,41 +193,5 @@ _Updated 2026-09-02._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23076.html">From Maxwell Fluid to Kelvin Voigt Solid: A Transient Network Model of Condensate Aging and Morphology Transition in Phase Separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Bhanjan Debnath</td>
 <td><a href="http://arxiv.org/abs/2608.23076">2608.23076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23088.html">Effects of near-surface sedimentary structure on Newtonian noise for the Einstein Telescope: a 2-D numerical study</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Shi Yao et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23088">2608.23088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23190.html">Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Haley Duba-Sullivan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23190">2608.23190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23885.html">A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Prithvi Dake et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23885">2608.23885</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21698.html">Non-uniform swelling of polyelectrolyte hydrogels: effects of charge regulation</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Du Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21698">2608.21698</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="tag/mlff-30d.html">mlff</a> · <a href="tag/polymerization-30d.html">polymerization</a> · <a href="tag/radical-polymerization-30d.html">radical-polymerization</a></div></td>
-<td>Bharatha K. Gunawardana et al.</td>
-<td><a href="http://arxiv.org/abs/2608.21741">2608.21741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22128.html">Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Zhaoda Du et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22128">2608.22128</a></td>
 </tr>
 </tbody></table>

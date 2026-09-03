@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">52 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -326,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01293.html">Equivariant U-Shaped Neural Operators for the Cahn-Hilliard Phase-Field Model</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Xiao Xue et al.</td>
 <td><a href="http://arxiv.org/abs/2509.01293">2509.01293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06217.html">Multi-Scale Modeling and Predictive Control of Active Brownian Particles</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Sadra Saremi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06217">2509.06217</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">173 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,17 +1040,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06528.html">Mechanisms of Chain Exchange in Diblock Copolymer Micelles</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Samuel Varner et al.</td>
 <td><a href="http://arxiv.org/abs/2509.06528">2509.06528</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11000.html">Unconventional Phase Separation and Fractal Interfaces of Colloids in Active Liquids</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Pragya Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11000">2508.11000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06217.html">Multi-Scale Modeling and Predictive Control of Active Brownian Particles</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Sadra Saremi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06217">2509.06217</a></td>
 </tr>
 </tbody></table>

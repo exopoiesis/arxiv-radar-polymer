@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02287.html">Vitrification-Devitrification Enables Tunable Photonic and Gas Sorption Properties of Zeolitic Imidazolate Frameworks</a></div></td>
+<td>Zhencai Li et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02287">2609.02287</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20543.html">Highly organized smectic-like packing in vapor-deposited glasses of a liquid crystal</a></div></td>
 <td>Ankit Gujral et al.</td>
@@ -536,11 +542,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07697.html">Mode-coupling theory of the glass transition for a liquid in a periodic potential</a></div></td>
 <td>Abolfazl Ahmadirahmat et al.</td>
 <td><a href="http://arxiv.org/abs/2509.07697">2509.07697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06042.html">Ionic glass formers show an inverted relation between fragility and relaxation broadness</a></div></td>
-<td>Sophie G. M. van Lange et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06042">2509.06042</a></td>
 </tr>
 </tbody></table>

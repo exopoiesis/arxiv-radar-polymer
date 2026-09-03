@@ -1,0 +1,174 @@
+{
+ "2609.00635": {
+  "abstract": "Standard rheological measurements yield only selected stress components; thus, inferring tensorial constitutive equations from experimentally accessible observables is complicated. We propose a constitutive formulation written in terms of a deviatoric stress tensor, whose trace is zero, rather than the extra stress tensor. From rheometric data including shear stress, first and second normal stress differences under shear, and elongational stress under uniaxial elongation, we can construct a deviatoric stress state without the indeterminate isotropic stress. The deviatoric-stress dynamics is represented by a closure inferred through symbolic regression, constrained to satisfy material objectivity and a given linear Maxwell response. To demonstrate the proposed formulation, two closures inferred from stress responses of the Giesekus and Larson models successfully captured untrained transient-flow responses under planar elongation and mixed shear/uniaxial elongations at deformation rates around an inverse relaxation time. Steady rheological functions of the closures agreed with the original models in the linear-response regime and over a deformation-rate range connected to the training data, whereas deviations and divergent responses appeared at larger deformation rates outside the training regime. These results demonstrate that the proposed deviatoric-stress formulation provides a practical route for constitutive modeling of observable linear and nonlinear viscoelastic dynamics, while clarifying its range of validity under strong deformation.",
+  "authors": [
+   "Souta Miyamoto",
+   "Shotaro Moro",
+   "Takeshi Sato",
+   "Shota Kato",
+   "Katsuaki Tanabe",
+   "John J. Molina",
+   "Takashi Taniguchi"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": "11 pages, 4 figures",
+  "first_author": "Souta Miyamoto",
+  "pdf_url": "http://arxiv.org/pdf/2609.00635",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-01",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01883": {
+  "abstract": "We investigate how a fractional oscillator reacts to external forces when the dynamic law includes a damping term that is explicitly fractional. The corresponding three-parametric fractional differential equation (in the Caputo sense) admits exact solution. Two of the fractional parameters are associated with the intrinsic dissipation mechanism that produces continuous dissipation of energy. The third fractional parameter characterizes the damping term against which the oscillator is driven by the external force. When external time-dependent forces are included, the fractional dynamic law is associated with the Newton-Scott-Blair model of viscoelastic materials. The Laplace transform of the external force defines the profile of the solution; specific examples include the absence of external forces as well as constant, sinusoidal and stepped external forces. With a constant driving force, the system reaches a fixed position after a transient period. With a sinusoidal driving force, the system exhibits persistent oscillatory behavior. These results suggest that the external driving force determines the long-term behavior of the fractionally damped oscillator.",
+  "authors": [
+   "Fernando Olivar-Romero",
+   "Oscar Rosas-Ortiz"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": "LaTex file, 27 pages, 7 figures",
+  "first_author": "Fernando Olivar-Romero",
+  "pdf_url": "http://arxiv.org/pdf/2609.01883",
+  "primary_category": "math-ph",
+  "published": "2026-09-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Fractional oscillators with fractional damping in the presence of external forces",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01907": {
+  "abstract": "The physical mechanisms controlling the onset of gravity-driven spreading of elastoviscoplastic drops remain unclear because yielding, elastic deformation, and viscous dissipation can occur simultaneously in different regions of the material. To isolate these mechanisms, we perform direct numerical simulations of large axisymmetric drops resting on a thin precursor layer of the same material. Each drop is first equilibrated under gravity, $g$, before being subjected to an additional constant downward acceleration of varying magnitude. The drop rheology is described by the Saramito--Herschel--Bulkley model. Once the rate of deformation becomes negligible under the enhanced forcing, the additional acceleration is removed and the drop is allowed to relax again under gravity alone, enabling the global deformation to be separated into recoverable and unrecoverable components. We find that spreading does not occur simply because some portion of the material yields locally. At low imposed accelerations, yielded regions remain confined within a predominantly solid-like viscoelastic matrix, and the resulting deformation is mostly recoverable. Appreciable spreading is observed when these yielded regions connect to form a continuous fluidised pathway from the drop interior to the free surface, allowing radial material transport. The acceleration required for this transition is governed primarily by the yield stress, whereas elasticity controls the partition between recoverable deformation and spreading by regulating the extent and spatial distribution of yielded regions.",
+  "authors": [
+   "Alice Woodbridge",
+   "Patrick O'Rourke",
+   "Cláudio P. Fonte",
+   "Anne Juel"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Alice Woodbridge",
+  "pdf_url": "http://arxiv.org/pdf/2609.01907",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-01",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Yielded-region connectivity governs the onset of gravity-driven spreading in elastoviscoplastic drops",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.02287": {
+  "abstract": "Zeolitic imidazolate framework (ZIF) glasses represent an emerging family of melt-quenched glasses, which exhibit immense potential for applications in gas separation, energy storage, and optics. However, their intrinsic porosity remains elusive due to the inherent challenges in resolving their disordered atomistic structures. Here, we systematically investigate the porosity of ZIF-4 and ZIF-62 crystals and their corresponding glasses. CO2 sorption at 195 K enables quantitative assessment of microporosity in both crystalline and glassy states, allowing the accessible micropore volume of the ZIF glasses to be determined. Moreover, establishing a direct relationship between photonic properties and structural porosity in Zn-based ZIF glasses remains challenging. Here we demonstrate striking broadband blue-light emission from ZIF-4 glass annealed under optimized conditions. A pronounced red shift is observed when increasing the annealing temperature above the glass transition temperature. By correlating the evolution of photoluminescence with structural porosity, we reveal the interplay between the photonic and gas sorption properties of ZIF glasses. These findings provide new insights into the structure-property relationships of ZIF glasses and offer a pathway toward the rational design of multifunctional MOF glasses.",
+  "authors": [
+   "Zhencai Li",
+   "Zihao Wang",
+   "Minhyuk Kim",
+   "Huotian Zhang",
+   "Bozhao Yin",
+   "Yong Li",
+   "Qi Zhang",
+   "Fengming Cao",
+   "Xuan Ge",
+   "Laurent Calvez",
+   "Daniel Irving",
+   "Guoping Dong",
+   "Feng Gao",
+   "Haomiao Zhu",
+   "Morten M. Smedskjaer",
+   "Hoi R. Moon",
+   "Yuanzheng Yue"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "17 pages, 4 figures",
+  "first_author": "Zhencai Li",
+  "pdf_url": "http://arxiv.org/pdf/2609.02287",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-02",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Vitrification-Devitrification Enables Tunable Photonic and Gas Sorption Properties of Zeolitic Imidazolate Frameworks",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02645": {
+  "abstract": "Echoes observed in the intensity-intensity autocorrelation functions [$g_2(q, τ)$] is a powerful method for probing nonaffine deformations and yielding behavior of soft viscoelastic materials subjected to an oscillatory shear. Multispeckle X-ray photon correlation spectroscopy (XPCS) measurements of large number of echoes with high time resolution impose severe constraints in terms of the computational hardware and potential degradation of the sample. These issues are alleviated by implementing a bunch-mode data acquisition scheme in which the highest resolution frames or bunches centered at the echo peaks. In addition, by placing the bunches in an aperiodic Fibonacci sequence, $g_2(q, τ)$ over a long time span can be measured with orders of magnitude lesser number of frames. The performance of these XPCS acquisition schemes is demonstrated using slowly relaxing model colloidal suspensions. Furthermore, an analytical expression is provided for the quantitative description of full $g_2(q, τ)$.",
+  "authors": [
+   "William Chèvremont",
+   "Thomas Gibaud",
+   "Yuriy Chushkin",
+   "Theyencheri Narayanan"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "William Chèvremont",
+  "pdf_url": "http://arxiv.org/pdf/2609.02645",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-02",
+  "tags": [
+   "mechanical-properties",
+   "polymer-degradation",
+   "spectroscopy"
+  ],
+  "title": "XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.02696": {
+  "abstract": "Ultrasound is increasingly used to control biological cells, but its multiple physical effects, including radiation force, streaming, heating, and cavitation, require theoretical frameworks that can quantify their relative strengths. Here we develop a semi-analytical model to predict flow patterns and energy distributions of ultrasound-induced intracellular streaming. Cells are modeled as viscoelastic droplets immersed in a fluid with different viscoelastic properties. For this geometry, the momentum equation with an Oldroyd-B constitutive law is solved using a perturbation expansion commonly applied in acoustofluidics. The resulting equations for the different orders of the expansion are solved using partial wave expansion and explicit integration. We investigate our model for a range of parameters which is relevant both for synthetic polymer and for protein solutions. We find a series of flow reversals that we can connect to the distribution of energy into the different modes. We also consider density and compressibility contrasts, which shift these transitions and introduce new ones. Finally, we discuss the potential biological relevance of our mathematical results for cellular sensing and signaling.",
+  "authors": [
+   "Niels Gieseler",
+   "Falko Ziebert",
+   "Ulrich S. Schwarz"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "cond-mat.soft",
+   "physics.flu-dyn",
+   "q-bio.SC"
+  ],
+  "comment": "Revtex, 22 pages, 7 figures, 6 appendices, 89 references",
+  "first_author": "Niels Gieseler",
+  "pdf_url": "http://arxiv.org/pdf/2609.02696",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-09-02",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A viscoelastic theory for ultrasound-induced intracellular streaming",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-02"
+ }
+}

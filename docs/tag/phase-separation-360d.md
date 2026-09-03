@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">316 papers</span>
+  <span class="paper-count">314 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1898,17 +1898,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08154.html">Structural Phase Separation and Enhanced Superconductivity in La1.875Ba0.125CuO4 under Uniaxial Strain</a></div></td>
 <td>Baizhi Gao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08154">2509.08154</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.11000.html">Unconventional Phase Separation and Fractal Interfaces of Colloids in Active Liquids</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Pragya Kushwaha et al.</td>
-<td><a href="http://arxiv.org/abs/2508.11000">2508.11000</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06217.html">Multi-Scale Modeling and Predictive Control of Active Brownian Particles</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Sadra Saremi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06217">2509.06217</a></td>
 </tr>
 </tbody></table>
