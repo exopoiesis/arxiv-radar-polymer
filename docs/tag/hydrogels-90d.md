@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogels — 90d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <strong>90d</strong> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12308.html">Laser-Liquid Interaction in Laser-Induced Forward Transfer (LIFT) Printing: A Multiscale Perspective on Bubble Dynamics and Material Ejection</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Shuqi Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2606.12308">2606.12308</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07384.html">Hydrogel mechanics below swelling equilibrium</a></div></td>
-<td>A. Chao Correas et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07384">2606.07384</a></td>
 </tr>
 </tbody></table>

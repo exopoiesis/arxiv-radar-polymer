@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,17 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10255.html">POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET</a></div></td>
 <td>Jonathan Schwartz et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10255">2606.10255</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07146.html">Decision-Aware Evaluation of Physics-Informed Surrogates</a></div></td>
-<td>Daniel Cieślak et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07146">2606.07146</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.07181.html">RETROSPECT: RETROsynthesis via Sequential Prediction, and Chemically Transformed-ranking</a></div></td>
-<td>Raja Sekhar Pappala et al.</td>
-<td><a href="http://arxiv.org/abs/2606.07181">2606.07181</a></td>
 </tr>
 </tbody></table>
