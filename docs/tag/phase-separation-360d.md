@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">314 papers</span>
+  <span class="paper-count">313 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03991.html">Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter</a></div></td>
+<td>Kingshuk Panja et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25324.html">Multiple pattern formation in quorum sensing of density enhanced motility</a></div></td>
@@ -1886,17 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08633.html">Quantifying the liquid-liquid transition in cold water/glycerol mixtures by ih-RIDME</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Sergei Kuzin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.08633">2509.08633</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01293.html">Equivariant U-Shaped Neural Operators for the Cahn-Hilliard Phase-Field Model</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Xiao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01293">2509.01293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08154.html">Structural Phase Separation and Enhanced Superconductivity in La1.875Ba0.125CuO4 under Uniaxial Strain</a></div></td>
-<td>Baizhi Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08154">2509.08154</a></td>
 </tr>
 </tbody></table>

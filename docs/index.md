@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-04._
+_Updated 2026-09-05._
 
-**3625** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3629** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,22 @@ _Updated 2026-09-04._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03991.html">Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Kingshuk Panja et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02287.html">Vitrification-Devitrification Enables Tunable Photonic and Gas Sorption Properties of Zeolitic Imidazolate Frameworks</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
 <td>Zhencai Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02287">2609.02287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02627.html">Pure FENE Bond Potential for Soft Matter and Biological Simulations: Theory, HOOMD-blue Implementation, and Applications to Polymer, Colloidal, and Membrane Systems</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/soft-matter-30d.html">soft-matter</a></div></td>
+<td>Anirban Polley</td>
+<td><a href="http://arxiv.org/abs/2609.02627">2609.02627</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -37,6 +49,18 @@ _Updated 2026-09-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00635.html">A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
 <td>Souta Miyamoto et al.</td>
 <td><a href="http://arxiv.org/abs/2609.00635">2609.00635</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01127.html">Nonmonotonic control of pattern formation by chemotaxis</a></div></td>
+<td>Mintu Karmakar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01127">2609.01127</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.01159.html">Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Mintu Karmakar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01159">2609.01159</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -169,29 +193,5 @@ _Updated 2026-09-04._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22789.html">GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
 <td>Sosmita Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22789">2608.22789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22841.html">Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices</a></div><div class="paper-tags"><a href="tag/bayesian-optimization-30d.html">bayesian-optimization</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22841">2608.22841</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22871.html">Binding Affinity between Polymer Dots (Pdots) and Ovalbumin Protein at Varying pH</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Xingfei Wei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22871">2608.22871</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22934.html">Coarse-grained kinetic scale tightens thermodynamic spectral bounds of Markov cycles</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Rongxing Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22934">2608.22934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.23076.html">From Maxwell Fluid to Kelvin Voigt Solid: A Transient Network Model of Condensate Aging and Morphology Transition in Phase Separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Bhanjan Debnath</td>
-<td><a href="http://arxiv.org/abs/2608.23076">2608.23076</a></td>
 </tr>
 </tbody></table>

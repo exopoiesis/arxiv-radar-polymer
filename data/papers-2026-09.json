@@ -29,6 +29,53 @@
   ],
   "updated": "2026-09-01"
  },
+ "2609.01127": {
+  "abstract": "We investigate pattern formation in generic two-species reaction--diffusion systems with chemotaxis. We show that chemotaxis can give rise to a striking nonmonotonic dependence of pattern formation on its strength, opening the possibility of re-entrant transitions between patterned and homogeneous states controlled by chemotaxis. In certain regimes, chemotaxis also induces additional heretofore unexplored instabilities. Furthermore, varying the strength of chemotaxis can drive morphological transitions between spot and stripe patterns.",
+  "authors": [
+   "Mintu Karmakar",
+   "Abhik Basu"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "Preliminary version",
+  "first_author": "Mintu Karmakar",
+  "pdf_url": "http://arxiv.org/pdf/2609.01127",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-01",
+  "tags": [],
+  "title": "Nonmonotonic control of pattern formation by chemotaxis",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-01"
+ },
+ "2609.01159": {
+  "abstract": "We study linear instabilities and pattern formation in a spatially extended Selkov model for glycolysis with diffusion and chemotactic interactions between two species. Linear stability analysis reveals two distinct bifurcations: a zero-wavevector, finite-frequency Hopf bifurcation leading to spatially homogeneous oscillations, and a finite-wavevector Turing instability with a saddle-node bifurcation leading to stationary inhomogeneous patterns. The selected wavevector, $k_c$, depends sensitively on the nature and strength of chemotaxis and varies nonmonotonically with the chemotaxis parameters, allowing re-entrant transitions between homogeneous and patterned states. For sufficiently strong chemotaxis, when the two species mutually attract or mutually repel each other, an unusual instability emerges in which the preferred wavevector diverges as a finite threshold in chemotactic strength is approached. We complement the linear analysis with extensive direct numerical simulations (DNS) of the nonlinear partial differential equations in two dimensions. The DNS confirm the predicted instabilities and their nonmonotonic and re-entrant character, and also reveal spatially uniform oscillatory states for suitable parameters. The stationary patterns include spots and, unexpectedly, stable stripes. We further uncover transitions between spot and stripe morphologies controlled by chemotactic strength and diffusivity ratios. The stability of the striped states is consistent with linear amplitude equations, whereas the spot-stripe transition is attributed to nonlinear effects beyond linear stability. Our results demonstrate that chemotaxis can act as a nonmonotonic control parameter for instability selection, wavelength selection, re-entrant pattern formation, and nonlinear pattern morphology in reaction-diffusion systems.",
+  "authors": [
+   "Mintu Karmakar",
+   "Abhik Basu"
+  ],
+  "categories": [
+   "nlin.PS",
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "Preliminary version",
+  "first_author": "Mintu Karmakar",
+  "pdf_url": "http://arxiv.org/pdf/2609.01159",
+  "primary_category": "nlin.PS",
+  "published": "2026-09-01",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-01"
+ },
  "2609.01883": {
   "abstract": "We investigate how a fractional oscillator reacts to external forces when the dynamic law includes a damping term that is explicitly fractional. The corresponding three-parametric fractional differential equation (in the Caputo sense) admits exact solution. Two of the fractional parameters are associated with the intrinsic dissipation mechanism that produces continuous dissipation of energy. The third fractional parameter characterizes the damping term against which the oscillator is driven by the external force. When external time-dependent forces are included, the fractional dynamic law is associated with the Newton-Scott-Blair model of viscoelastic materials. The Laplace transform of the external force defines the profile of the solution; specific examples include the absence of external forces as well as constant, sinusoidal and stepped external forces. With a constant driving force, the system reaches a fixed position after a transient period. With a sinusoidal driving force, the system exhibits persistent oscillatory behavior. These results suggest that the external driving force determines the long-term behavior of the fractionally damped oscillator.",
   "authors": [
@@ -117,6 +164,30 @@
   ],
   "updated": "2026-09-02"
  },
+ "2609.02627": {
+  "abstract": "The finitely extensible nonlinear elastic (FENE) potential is widely used as a bonded interaction in coarse-grained simulations of polymers, soft matter, colloids, and biological systems. In the classical Kremer--Grest framework, FENE bonding is combined with a short-range Weeks--Chandler--Andersen (WCA) interaction to provide finite bond extensibility together with excluded-volume repulsion. Although this combination is highly successful, it intrinsically couples bonded elasticity to the nonbonded interaction, limiting the ability to independently control these two contributions. Here, we introduce a standalone FENE bond potential in HOOMD-blue in which finite bond extensibility is implemented independently of the choice of nonbonded interaction. This formulation allows the same FENE bond potential to be combined with WCA, Lennard--Jones, or other pair interactions without modifying the bonded interaction itself. We demonstrate the utility of the standalone formulation in coarse-grained polymer chains, colloidal networks, and mesh-based biological membrane models. Across these systems, Pure FENE bonding without short-range excluded-volume stabilization produces pronounced structural contraction, whereas the addition of WCA repulsion suppresses this collapse and preserves finite, spatially extended structures. These results demonstrate that separating finite bond extensibility from steric interactions provides independent control over local bond mechanics and collective structural organization. The standalone FENE formulation therefore provides a modular framework for coarse-grained simulations in which molecular connectivity and nonbonded interactions represent distinct physical mechanisms.",
+  "authors": [
+   "Anirban Polley"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Anirban Polley",
+  "pdf_url": "http://arxiv.org/pdf/2609.02627",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-02",
+  "tags": [
+   "coarse-grained",
+   "soft-matter"
+  ],
+  "title": "Pure FENE Bond Potential for Soft Matter and Biological Simulations: Theory, HOOMD-blue Implementation, and Applications to Polymer, Colloidal, and Membrane Systems",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-02"
+ },
  "2609.02645": {
   "abstract": "Echoes observed in the intensity-intensity autocorrelation functions [$g_2(q, τ)$] is a powerful method for probing nonaffine deformations and yielding behavior of soft viscoelastic materials subjected to an oscillatory shear. Multispeckle X-ray photon correlation spectroscopy (XPCS) measurements of large number of echoes with high time resolution impose severe constraints in terms of the computational hardware and potential degradation of the sample. These issues are alleviated by implementing a bunch-mode data acquisition scheme in which the highest resolution frames or bunches centered at the echo peaks. In addition, by placing the bunches in an aperiodic Fibonacci sequence, $g_2(q, τ)$ over a long time span can be measured with orders of magnitude lesser number of frames. The performance of these XPCS acquisition schemes is demonstrated using slowly relaxing model colloidal suspensions. Furthermore, an analytical expression is provided for the quantitative description of full $g_2(q, τ)$.",
   "authors": [
@@ -170,5 +241,30 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-09-02"
+ },
+ "2609.03991": {
+  "abstract": "Spatial confinement and chemical screening fundamentally reshape the non-equilibrium phase behavior of autophoretic active particles. Here, we present a systematic study mapping the collective dynamics of self-propelled particles governed by chemo-attractive translational forces ($μ_t < 0$) and chemo-repulsive rotational torques ($μ_r > 0$) across varying screening parameters $κ$, torque magnitudes $μ_r$, and boundary condition coefficients $Λ^c$. Beyond standard chemotactic macro-phase separation and dynamic clustering, we report the emergence of novel boundary- and screening-induced bubbly phases, classified into boiling and bursting bubbles. Using a metric triad of steady-state cluster fraction $\\langle S \\rangle$, temporal fluctuation magnitude $σ_S$, and coordination number $\\langle Q \\rangle$, we draw phase diagrams to demarcate phases for no-flux boundaries ($Λ^c = 1$) and chemically permeable interfaces ($Λ^c = 0$) . Increasing chemical screening ($κ$) systematically suppresses long-range attraction, driving sequential phase transitions from macro-scale collapse toward bubbly states, dynamic micro-clusters, and homogeneous gas phases, while simultaneously inducing aggregate shape anisotropy. These findings provide predictive design rules for controlling active assembly and transport in microfluidic environments.",
+  "authors": [
+   "Kingshuk Panja",
+   "Günther Turk",
+   "Rajesh Singh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "7 figures, 10 pages; supplemental movies at https://softmatter.gitlab.io/bubbles",
+  "first_author": "Kingshuk Panja",
+  "pdf_url": "http://arxiv.org/pdf/2609.03991",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-03",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-03"
  }
 }

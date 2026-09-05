@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02627.html">Pure FENE Bond Potential for Soft Matter and Biological Simulations: Theory, HOOMD-blue Implementation, and Applications to Polymer, Colloidal, and Membrane Systems</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
+<td>Anirban Polley</td>
+<td><a href="http://arxiv.org/abs/2609.02627">2609.02627</a></td>
+</tr>
+<tr class="paper">
 <td>2026-07-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18457.html">Variational formulation for the dynamics of soft matter including inertia</a></div></td>
 <td>Andrew J Archer</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10020.html">Orthogonality between cellulose nanocrystals and a low-molecular weight gelator</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="saxs-360d.html">saxs</a></div></td>
 <td>Thuy-Linh Phi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10020">2509.10020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.01293.html">Equivariant U-Shaped Neural Operators for the Cahn-Hilliard Phase-Field Model</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Xiao Xue et al.</td>
-<td><a href="http://arxiv.org/abs/2509.01293">2509.01293</a></td>
 </tr>
 </tbody></table>

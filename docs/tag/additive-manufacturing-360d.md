@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">193 papers</span>
+  <span class="paper-count">192 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1166,11 +1166,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12436.html">A Meshing Framework for Digital Twins for Extrusion based Additive Manufacturing</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Lucas Gallup et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12436">2509.12436</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06469.html">Interactive Shaping of Granular Media Using Reinforcement Learning</a></div></td>
-<td>Benedikt Kreis et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06469">2509.06469</a></td>
 </tr>
 </tbody></table>

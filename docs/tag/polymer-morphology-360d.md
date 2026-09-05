@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01159.html">Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model</a></div></td>
+<td>Mintu Karmakar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.01159">2609.01159</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Piyush Garg et al.</td>
@@ -1238,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10894.html">A novel IR-SRGAN assisted super-resolution evaluation of photothermal coherence tomography for impact damage in toughened thermoplastic CFRP laminates under room temperature and low temperature</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="generative-model-360d.html">generative-model</a></div></td>
 <td>Pengfei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10894">2509.10894</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03729.html">SR-CLD: Spatially Resolved Chord Length Distributions for Statistical Description and Visualization of Non-uniform Microstructures</a></div></td>
-<td>Sheila E. Whitman et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03729">2409.03729</a></td>
 </tr>
 </tbody></table>

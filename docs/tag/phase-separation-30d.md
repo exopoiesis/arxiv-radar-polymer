@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03991.html">Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter</a></div></td>
+<td>Kingshuk Panja et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25324.html">Multiple pattern formation in quorum sensing of density enhanced motility</a></div></td>
@@ -110,17 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06371.html">Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
 <td>Monica Conti et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06371">2608.06371</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.04731.html">An improved car-oriented mean-field theory for stochastic traffic flow models</a></div></td>
-<td>Yasar Efe Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2608.04731">2608.04731</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05027.html">Scaling behavior in non-reciprocal and odd conserved dynamics near criticality</a></div></td>
-<td>Martin Kjøllesdal Johnsrud et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05027">2608.05027</a></td>
 </tr>
 </tbody></table>
