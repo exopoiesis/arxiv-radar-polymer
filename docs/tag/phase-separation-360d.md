@@ -22,6 +22,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00535.html">Spectral element lattice Boltzmann method for non-ideal gases with partial wetting boundary condition</a></div></td>
+<td>Chunheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00535">2609.00535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25324.html">Multiple pattern formation in quorum sensing of density enhanced motility</a></div></td>
 <td>Itay Azizi</td>
@@ -1886,11 +1892,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09920.html">Polarization-dependent Interference in Nonlinear Compton Scattering</a></div></td>
 <td>Zu-dong Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09920">2509.09920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08633.html">Quantifying the liquid-liquid transition in cold water/glycerol mixtures by ih-RIDME</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Sergei Kuzin et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08633">2509.08633</a></td>
 </tr>
 </tbody></table>

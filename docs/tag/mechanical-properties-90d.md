@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">107 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03645.html">Calibration of neural viscoelastic models via full-field data</a></div></td>
+<td>Brain M. Riemer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03645">2609.03645</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03725.html">Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Mounir El Skafi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03725">2609.03725</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02645.html">XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>

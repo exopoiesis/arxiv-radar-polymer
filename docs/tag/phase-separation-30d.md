@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00535.html">Spectral element lattice Boltzmann method for non-ideal gases with partial wetting boundary condition</a></div></td>
+<td>Chunheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00535">2609.00535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25324.html">Multiple pattern formation in quorum sensing of density enhanced motility</a></div></td>
 <td>Itay Azizi</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07644.html">Reply to Smallenburg: Near-melting nucleation and the exponential growth of hard-sphere nucleation times</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Roseanna N. Zia</td>
 <td><a href="http://arxiv.org/abs/2608.07644">2608.07644</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06371.html">Global weak solutions to the Cahn-Hilliard equation with degenerate mobility and singular diffusion</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
-<td>Monica Conti et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06371">2608.06371</a></td>
 </tr>
 </tbody></table>

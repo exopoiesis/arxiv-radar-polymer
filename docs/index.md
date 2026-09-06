@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-05._
+_Updated 2026-09-06._
 
-**3629** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3634** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03645.html">Calibration of neural viscoelastic models via full-field data</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Brain M. Riemer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03645">2609.03645</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03725.html">Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Mounir El Skafi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03725">2609.03725</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03991.html">Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
@@ -25,6 +37,12 @@ _Updated 2026-09-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02287.html">Vitrification-Devitrification Enables Tunable Photonic and Gas Sorption Properties of Zeolitic Imidazolate Frameworks</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
 <td>Zhencai Li et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02287">2609.02287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02489.html">A meshfree solver for coupled bulk-surface problems with self-organizing surface geometry</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Lennart J. Schulze et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02489">2609.02489</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -43,6 +61,18 @@ _Updated 2026-09-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.02696.html">A viscoelastic theory for ultrasound-induced intracellular streaming</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Niels Gieseler et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02696">2609.02696</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03163.html">Uncertainty quantification of fatigue initiation life for powder bed fusion metal additive manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Yulin Guo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03163">2609.03163</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.00535.html">Spectral element lattice Boltzmann method for non-ideal gases with partial wetting boundary condition</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Chunheng Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.00535">2609.00535</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-01</td>
@@ -163,35 +193,5 @@ _Updated 2026-09-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24059.html">Composite fermions in the $ν=3$ fractional quantum spin Hall effect</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
 <td>Hongquan Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24059">2608.24059</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24378.html">Conformation-Mediated Kinetics of Polymer Chain Scission under Tension</a></div></td>
-<td>Jie Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24378">2608.24378</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24792.html">Kinetic Turnover in the Early-Stage Nucleation of Multi-Shell Condensed Clusters</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Kaicheng Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24792">2608.24792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25103.html">Convergence of the conformal Ward identity in the derivative expansion approximation</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Jorge Ibañez et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25103">2608.25103</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22691.html">Volterra Sweeping Processes with Multivalued Perturbations under Compactness Conditions</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Abderrahim Jourani et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22691">2608.22691</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.22789.html">GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Sosmita Paul et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22789">2608.22789</a></td>
 </tr>
 </tbody></table>

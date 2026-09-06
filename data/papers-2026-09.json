@@ -1,4 +1,29 @@
 {
+ "2609.00535": {
+  "abstract": "We present a spectral element lattice Boltzmann method (LBM) for partial wetting on curved geometries. A non-ideal gas phase-field model is incorporated into the LBM framework to enable phase separation with a constant interface thickness and the potential form of surface tension force is used. We adopt the force-splitting approach, yielding significantly improved stability and accuracy. Complex boundaries are naturally handled using a flux bounce-back scheme, which resolves inconsistencies in normal vectors across adjacent elements. Additionally, a general wetting boundary condition is implemented to capture static contact line in a thermodynamically consistent manner. The method is validated through simulations of droplets on flat surfaces, 2/3-dimensional curved surfaces, and equilibrium droplets without boundaries. Results demonstrate that parasitic currents are significantly reduced on unstructured meshes with complex geometries, reaching residual kinetic energy levels on the order of $10^{-24}$ for wetting configurations and $10^{-30}$ for isolated droplets.",
+  "authors": [
+   "Chunheng Zhao",
+   "Saumil Patel",
+   "Taehun Lee"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Chunheng Zhao",
+  "pdf_url": "http://arxiv.org/pdf/2609.00535",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-01",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Spectral element lattice Boltzmann method for non-ideal gases with partial wetting boundary condition",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-09-01"
+ },
  "2609.00635": {
   "abstract": "Standard rheological measurements yield only selected stress components; thus, inferring tensorial constitutive equations from experimentally accessible observables is complicated. We propose a constitutive formulation written in terms of a deviatoric stress tensor, whose trace is zero, rather than the extra stress tensor. From rheometric data including shear stress, first and second normal stress differences under shear, and elongational stress under uniaxial elongation, we can construct a deviatoric stress state without the indeterminate isotropic stress. The deviatoric-stress dynamics is represented by a closure inferred through symbolic regression, constrained to satisfy material objectivity and a given linear Maxwell response. To demonstrate the proposed formulation, two closures inferred from stress responses of the Giesekus and Larson models successfully captured untrained transient-flow responses under planar elongation and mixed shear/uniaxial elongations at deformation rates around an inverse relaxation time. Steady rheological functions of the closures agreed with the original models in the linear-response regime and over a deformation-rate range connected to the training data, whereas deviations and divergent responses appeared at larger deformation rates outside the training regime. These results demonstrate that the proposed deviatoric-stress formulation provides a practical route for constitutive modeling of observable linear and nonlinear viscoelastic dynamics, while clarifying its range of validity under strong deformation.",
   "authors": [
@@ -164,6 +189,32 @@
   ],
   "updated": "2026-09-02"
  },
+ "2609.02489": {
+  "abstract": "In many systems, the interaction between a deformable surface or interface and the surrounding bulk fluid is coupled with intrinsic spatiotemporal dynamics within the moving surface. Examples include tumor growth, biological tissue morphogenesis, cardiac mechanics, multi-phase surfactant chemistry, additive manufacturing, clothing wear-and-tear, and reactive combustion flows. Solving such problems requires both geometric computing algorithms to track and resolve the surface and numerical methods to solve the coupled governing equations in the surface and the surrounding bulk phase. Here, we present a fully meshfree numerical solver for such coupled bulk-surface problems with deformable interfaces. The presented solver tracks the surface implicitly, solving for the dynamic surface geometry based on stress balance coupled to surrounding fluid phases. We show convergence for a mass-conserving case on a growing sphere and solve bulk-surface problems with incompressible Navier-Stokes fluids coupled to in-surface nonlinear reaction-diffusion dynamics. Finally, we show a model of biological morphogenesis, solving simultaneously for the dynamic surface shape and the fields on the curved surface with two-way coupling.",
+  "authors": [
+   "Lennart J. Schulze",
+   "Alejandra Foggia",
+   "Ivo F. Sbalzarini"
+  ],
+  "categories": [
+   "cs.CE",
+   "math.NA",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Lennart J. Schulze",
+  "pdf_url": "http://arxiv.org/pdf/2609.02489",
+  "primary_category": "cs.CE",
+  "published": "2026-09-02",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "A meshfree solver for coupled bulk-surface problems with self-organizing surface geometry",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-02"
+ },
  "2609.02627": {
   "abstract": "The finitely extensible nonlinear elastic (FENE) potential is widely used as a bonded interaction in coarse-grained simulations of polymers, soft matter, colloids, and biological systems. In the classical Kremer--Grest framework, FENE bonding is combined with a short-range Weeks--Chandler--Andersen (WCA) interaction to provide finite bond extensibility together with excluded-volume repulsion. Although this combination is highly successful, it intrinsically couples bonded elasticity to the nonbonded interaction, limiting the ability to independently control these two contributions. Here, we introduce a standalone FENE bond potential in HOOMD-blue in which finite bond extensibility is implemented independently of the choice of nonbonded interaction. This formulation allows the same FENE bond potential to be combined with WCA, Lennard--Jones, or other pair interactions without modifying the bonded interaction itself. We demonstrate the utility of the standalone formulation in coarse-grained polymer chains, colloidal networks, and mesh-based biological membrane models. Across these systems, Pure FENE bonding without short-range excluded-volume stabilization produces pronounced structural contraction, whereas the addition of WCA repulsion suppresses this collapse and preserves finite, spatially extended structures. These results demonstrate that separating finite bond extensibility from steric interactions provides independent control over local bond mechanics and collective structural organization. The standalone FENE formulation therefore provides a modular framework for coarse-grained simulations in which molecular connectivity and nonbonded interactions represent distinct physical mechanisms.",
   "authors": [
@@ -242,6 +293,90 @@
   ],
   "updated": "2026-09-02"
  },
+ "2609.03163": {
+  "abstract": "Predicting fatigue life with quantified uncertainties is essential for the qualification of critical components produced by laser-based powder bed fusion additive manufacturing. We present a framework that propagates microstructure and defect uncertainties directly to a fatigue initiation life distribution for a specific part. In particular, microstructure and defect characterizations are obtained from electron backscatter diffraction and micro-computed tomography scan data, which in turn inform three physics-based simulations yielding the fatigue-affecting quantities: the elastic energy release rate, the surface energy along the crack path, and the fatigue indicator parameter. Accounting for the uncertainties in these quantities and the high correlations among them due to the shared underlying microstructure, we derive a closed-form probability density function for the fatigue initiation life. This provides an analytical distribution instead of conservative deterministic predictions and enables more informed decision making for the qualification and deployment of additively manufactured components. Applying the framework to 316L stainless steel parts produced by an EOS M290 laser powder bed fusion machine, we find that both grain sizes and void distributions influence the fatigue initiation life distribution. Specifically, for a fixed total void volume fraction, larger grain sizes cause a marginal reduction in fatigue initiation life, and a population of many small voids is more favorable for fatigue life than fewer, larger voids of equivalent total volume.",
+  "authors": [
+   "Yulin Guo",
+   "Veera Sundararaghavan",
+   "Boris Kramer"
+  ],
+  "categories": [
+   "stat.AP"
+  ],
+  "comment": null,
+  "first_author": "Yulin Guo",
+  "pdf_url": "http://arxiv.org/pdf/2609.03163",
+  "primary_category": "stat.AP",
+  "published": "2026-09-02",
+  "tags": [
+   "additive-manufacturing",
+   "polymer-morphology"
+  ],
+  "title": "Uncertainty quantification of fatigue initiation life for powder bed fusion metal additive manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-02"
+ },
+ "2609.03645": {
+  "abstract": "We propose an unsupervised learning framework for calibrating a physics-augmented neural network (PANN) for small-strain viscoelasticity via full-field data. It only requires quantities that are directly accessible in real experiments for training, namely global reaction forces and surface displacements. The underlying PANN is embedded in the generalized standard materials theory, in which two scalar-valued potentials render the constitutive model thermodynamically consistent by construction, while invariant-based representations of the free energy and the dual dissipation potential additionally ensure material symmetry. Considering a thin specimen under the plane stress assumption, we formulate a constrained optimization problem based on the equilibrium gap method in combination with quasi-Newton optimizers and automatic differentiation. Thereby, the unknown out-of-plane strain follows from the plane stress condition and the evolution of the internal variables is captured by an implicit time integration scheme. The resulting system of nonlinear equations is solved via a local Newton iteration at quadrature point and time step. To drastically reduce the computational cost of training, the backward adjoint method is employed to compute the gradient of the target loss, instead of backpropagating through all Newton iteration steps. The proposed framework is demonstrated for synthetic data, including noisy displacements and forces, showing excellent agreement across a wide range of deformation rates and load paths.",
+  "authors": [
+   "Brain M. Riemer",
+   "Markus Kästner",
+   "Karl A. Kalina"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Brain M. Riemer",
+  "pdf_url": "http://arxiv.org/pdf/2609.03645",
+  "primary_category": "cs.CE",
+  "published": "2026-09-03",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Calibration of neural viscoelastic models via full-field data",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.03725": {
+  "abstract": "A copper-based metal-organic framework, Cu(Im)2, was synthesized using a sol-gel process and subsequently melt-quenched into glass upon heating above 240 °C. In this paper, we present a multimodal, multiscale interrogation of the MOF nanocrystals and the resulting glasses. Structural characterization using X-ray diffraction, atomic force microscopy, and electron microscopy was performed to understand the morphology and size of the synthesized nanocrystals and glasses. Thermogravimetric analysis and differential scanning calorimetry were employed to understand the melting process of the crystals to form the glass. Synchrotron pair distribution function analysis was performed to verify that the framework structure is maintained upon melting, and nearfield infrared nanospectroscopy provided insight into the local chemical structure of the materials. The mechanical characterization via nanoindentation revealed that the resulting glasses exhibit an appreciably high elastic modulus (~10 GPa) and the highest fracture toughness (K_1c ~ 0.5 MPa m^1/2) yet reported for MOF glasses. This development is central to the emerging field of MOF-based materials processing and shaping, while upholding mechanical robustness and resistance to cracking.",
+  "authors": [
+   "Mounir El Skafi",
+   "Guo-Qiang Li",
+   "Sophie R. Thomas",
+   "James D. Taylor",
+   "Mark Frogley",
+   "Gianfelice Cinque",
+   "Marc Pignitter",
+   "Michael Reithofer",
+   "Jia-Min Chin",
+   "Sebastian Henke",
+   "Jin-Chong Tan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall",
+   "cond-mat.soft"
+  ],
+  "comment": "26 pages, 6 figures, supporting information",
+  "first_author": "Mounir El Skafi",
+  "pdf_url": "http://arxiv.org/pdf/2609.03725",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-03",
+  "tags": [
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-03"
+ },
  "2609.03991": {
   "abstract": "Spatial confinement and chemical screening fundamentally reshape the non-equilibrium phase behavior of autophoretic active particles. Here, we present a systematic study mapping the collective dynamics of self-propelled particles governed by chemo-attractive translational forces ($μ_t < 0$) and chemo-repulsive rotational torques ($μ_r > 0$) across varying screening parameters $κ$, torque magnitudes $μ_r$, and boundary condition coefficients $Λ^c$. Beyond standard chemotactic macro-phase separation and dynamic clustering, we report the emergence of novel boundary- and screening-induced bubbly phases, classified into boiling and bursting bubbles. Using a metric triad of steady-state cluster fraction $\\langle S \\rangle$, temporal fluctuation magnitude $σ_S$, and coordination number $\\langle Q \\rangle$, we draw phase diagrams to demarcate phases for no-flux boundaries ($Λ^c = 1$) and chemically permeable interfaces ($Λ^c = 0$) . Increasing chemical screening ($κ$) systematically suppresses long-range attraction, driving sequential phase transitions from macro-scale collapse toward bubbly states, dynamic micro-clusters, and homogeneous gas phases, while simultaneously inducing aggregate shape anisotropy. These findings provide predictive design rules for controlling active assembly and transport in microfluidic environments.",
   "authors": [
@@ -263,6 +398,7 @@
   ],
   "title": "Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter",
   "topics": [
+   "Microstructure, Morphology & Characterization",
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-09-03"
