@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,11 +860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10894.html">A novel IR-SRGAN assisted super-resolution evaluation of photothermal coherence tomography for impact damage in toughened thermoplastic CFRP laminates under room temperature and low temperature</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Pengfei Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2509.10894">2509.10894</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10125.html">Asymptotic stability of the composite wave of rarefaction wave and contact wave to nonlinear viscoelasticity model with non-convex flux</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Zhenhua Guo et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10125">2409.10125</a></td>
 </tr>
 </tbody></table>

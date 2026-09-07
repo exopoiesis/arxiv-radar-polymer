@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">105 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -644,29 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10801.html">Nonlinear Anisotropic Visco-Anelasticity</a></div></td>
 <td>Souhayl Sadik et al.</td>
 <td><a href="http://arxiv.org/abs/2606.10801">2606.10801</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09007.html">High-Order Regularity and a Fully Discrete Fourier Spectral Method for a Partially Dissipative Viscoelastic Timoshenko System with Memory</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>Zhenyang Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09007">2606.09007</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09128.html">Dynamic sliding and rolling friction models for linear viscoelastic contact pairs</a></div></td>
-<td>Luigi Romano</td>
-<td><a href="http://arxiv.org/abs/2606.09128">2606.09128</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.09560.html">Predicting Physical and Physical-Chemical Properties of Molecular-Based Materials Using Computational Neural Networks</a></div></td>
-<td>Andrei A. Gakh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.09560">2606.09560</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10145.html">Beyond the Markovian limit: Exact solutions for active motion in a power-law viscoelastic bath</a></div></td>
-<td>Mintu Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10145">2606.10145</a></td>
 </tr>
 </tbody></table>

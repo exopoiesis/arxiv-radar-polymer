@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymerization — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <strong>360d</strong> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06474.html">In-space manufacturing of optical lenses: Fluidic Shaping aboard the International Space Station</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Omer Luria et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06474">2510.06474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.20447.html">Atomistic Insights into the Chain-Length-Dependent Antifreeze Activity of Oligoprolines</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Wentao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.20447">2410.20447</a></td>
 </tr>
 </tbody></table>
