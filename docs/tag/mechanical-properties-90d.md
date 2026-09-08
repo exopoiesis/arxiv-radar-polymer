@@ -28,6 +28,18 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.03725">2609.03725</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04538.html">Lagrangian dynamics unveil polymer conformation in viscoelastic flows</a></div></td>
+<td>Louison Thorens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04538">2609.04538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04541.html">Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials</a></div></td>
+<td>Josué García-Ávila et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04541">2609.04541</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02645.html">XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
 <td>William Chèvremont et al.</td>
@@ -632,17 +644,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Tianyi Chu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10268.html">Rotation-to-translation conversion by geometric asymmetry in viscoelastic fluids</a></div></td>
-<td>Takuya Kobayashi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10268">2606.10268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.10801.html">Nonlinear Anisotropic Visco-Anelasticity</a></div></td>
-<td>Souhayl Sadik et al.</td>
-<td><a href="http://arxiv.org/abs/2606.10801">2606.10801</a></td>
 </tr>
 </tbody></table>

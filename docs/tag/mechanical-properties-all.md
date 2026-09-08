@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">847 papers</span>
+  <span class="paper-count">849 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03725.html">Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Mounir El Skafi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03725">2609.03725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04538.html">Lagrangian dynamics unveil polymer conformation in viscoelastic flows</a></div></td>
+<td>Louison Thorens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04538">2609.04538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04541.html">Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials</a></div></td>
+<td>Josué García-Ávila et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04541">2609.04541</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>

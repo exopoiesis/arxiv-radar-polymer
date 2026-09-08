@@ -28,6 +28,18 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.03725">2609.03725</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04538.html">Lagrangian dynamics unveil polymer conformation in viscoelastic flows</a></div></td>
+<td>Louison Thorens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04538">2609.04538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04541.html">Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials</a></div></td>
+<td>Josué García-Ávila et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04541">2609.04541</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02645.html">XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme</a></div><div class="paper-tags"><a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>William Chèvremont et al.</td>
@@ -2858,17 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.11276.html">Multi-Partitioned Meshfree Quantum Finite Particle Method: A Hybrid Quantum Framework for Fluid Flow</a></div></td>
 <td>Yudong Li et al.</td>
 <td><a href="http://arxiv.org/abs/2509.11276">2509.11276</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14591.html">Active viscoelastic condensates provide controllable mechanical anchor points</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Oliver W. Paulin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14591">2506.14591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10020.html">Orthogonality between cellulose nanocrystals and a low-molecular weight gelator</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="saxs-360d.html">saxs</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Thuy-Linh Phi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10020">2509.10020</a></td>
 </tr>
 </tbody></table>

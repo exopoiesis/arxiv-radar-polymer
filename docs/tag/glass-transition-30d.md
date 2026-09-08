@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04399.html">Composition-dependent nonlinear viscoelastic-viscoplastic behavior and constitutive framework for digitally mixed polymers spanning the glass transition</a></div></td>
+<td>Beijun Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04399">2609.04399</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02287.html">Vitrification-Devitrification Enables Tunable Photonic and Gas Sorption Properties of Zeolitic Imidazolate Frameworks</a></div></td>
 <td>Zhencai Li et al.</td>
@@ -38,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12288.html">Revisiting Safe Temperature for Environmental Accelerated Aging of Additively Manufactured Polymers</a></div><div class="paper-tags"><a href="polymer-degradation-30d.html">polymer-degradation</a></div></td>
 <td>Keven Alkhoury et al.</td>
 <td><a href="http://arxiv.org/abs/2608.12288">2608.12288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08358.html">A Shared Observation Shields Collective Fluctuations while Preserving Local Independence</a></div></td>
-<td>Hu Cang</td>
-<td><a href="http://arxiv.org/abs/2608.08358">2608.08358</a></td>
 </tr>
 </tbody></table>

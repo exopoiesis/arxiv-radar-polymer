@@ -402,5 +402,82 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-09-03"
+ },
+ "2609.04399": {
+  "abstract": "Multi-material PolyJet printing produces voxel-scale digital mixtures of an elastomeric photopolymer (Agilus) and a glassy photopolymer (Vero), giving a material family whose room-temperature response ranges from elastomeric to glassy; a unified description spanning the family has remained challenging. Large-deformation uniaxial compression over nearly three orders of magnitude in strain rate reveals a nonlinear, rate-dependent load-unload response that evolves continuously with composition, from recoverable elastomeric hysteresis to glassy yield with post-yield softening, hardening, and substantial residual strain. Dynamic mechanical analysis (DMA) shows that each mixture has a single glass transition temperature ($T_g$) that shifts to higher temperature with both Vero fraction and frequency, so composition acts much as temperature or loading rate does. This time-composition equivalence motivates one constitutive structure for the whole family rather than a separate property set per mixture: an equilibrium hyperelastic network with three non-equilibrium, rate-dependent branches carrying reptational, intermolecular, and glassy resistance. Its properties are anchored at the two endpoints and interpolated by smooth composition scaling laws. The model captures the compression response of all seven calibrated compositions and predicts a withheld mixture from the scaling laws alone. Resolving the predicted stress into its branches shows the load passing from the elastomeric to the glassy mechanism, and the work from elastic storage to dissipation, as Vero content and rate rise. The glass transition that DMA maps at small strain therefore governs the large-strain deformation mechanisms. The framework gives a compact, physically based description of digitally mixed polymers and a predictive basis for designing functionally graded, architected multi-material structures.",
+  "authors": [
+   "Beijun Shen",
+   "Mary C. Boyce"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "16 figures",
+  "first_author": "Beijun Shen",
+  "pdf_url": "http://arxiv.org/pdf/2609.04399",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-03",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Composition-dependent nonlinear viscoelastic-viscoplastic behavior and constitutive framework for digitally mixed polymers spanning the glass transition",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04538": {
+  "abstract": "The complex flow behavior of viscoelastic fluids emerges from a feedback between fluid stress and the out-of-equilibrium conformational dynamics of their constituent polymer chains. While constitutive models can predict flow and stress fields in simple geometries, a fundamental understanding of the mechanisms regulating viscoelastic flows with mixed kinematics and non-trivial polymer dynamics remains elusive. Quantifying the history-dependent conformation of polymer chains in flow is essential to resolve these complex systems. To address this knowledge gap, we employ direct Lagrangian tracking of individual DNA molecules to reveal their conformational dynamics in microfluidic viscoelastic flows for different polymer contour lengths and concentrations. Comparing the measured molecular extension and orientation reveals discrepancies with canonical constitutive models, which do not fully capture the transient dynamics. Our measurements show a distinct anisotropy in polymer relaxation and shape, which couple the polymer's rotation and extension through hydrodynamic drag, regulating their Lagrangian mechanics. These findings emphasize the importance of Lagrangian polymer history and the need to account for non-trivial intra-molecular mechanics to improve constitutive descriptions of viscoelastic flows.",
+  "authors": [
+   "Louison Thorens",
+   "Gabriel Juarez",
+   "Jeffrey S. Guasto",
+   "Paulo E. Arratia"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Louison Thorens",
+  "pdf_url": "http://arxiv.org/pdf/2609.04538",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-03",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Lagrangian dynamics unveil polymer conformation in viscoelastic flows",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-03"
+ },
+ "2609.04541": {
+  "abstract": "Digital materials fabricated by multi-material 3D printing are designed as controlled mixtures of stiff and compliant constituents, yielding effective responses that span more than an order of magnitude in apparent stiffness and exhibit strongly nonlinear, composition-dependent, and rate-dependent dissipative behavior. Classical finite-strain viscoelastic models represent such behavior with closed-form strain energy functions for equilibrium and non-equilibrium stresses as well as evolution of internal variables, which may limit flexibility when a single constitutive model is expected to generalize across materials and loading rates. Here, we present a data-driven multi-material constitutive modeling framework that generalizes a formulation by Bergström and Boyce. The proposed framework retains the structure of the classical model, namely multiplicative kinematics, invariant-based strain-energy functions, and a scalar dissipative evolution law directed along the normalized nonequilibrium deviatoric stress. For the equilibrium branch, the data-driven discovery framework either directly predicts closed-form model parameters as functions of composition or automatically constructs a polyconvex strain-energy function using neural ordinary differential equations (NODEs). The nonequilibrium branch kinetics are learned similarly, either by directly identifying closed-form parameters across compositions or by using appropriately constrained artificial neural networks. Using multi-rate uniaxial compression data across multiple material compositions, we show that the proposed formulation captures rate-dependent stiffness and hysteresis across compositions while preserving thermodynamic consistency.",
+  "authors": [
+   "Josué García-Ávila",
+   "Beijun Shen",
+   "Manuel K. Rausch",
+   "Mary C. Boyce",
+   "Adrián Buganza-Tepole"
+  ],
+  "categories": [
+   "cs.AI",
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft"
+  ],
+  "comment": "40 pages including references, 9 figures in the main manuscript. Supplementary material is available upon request from the corresponding author",
+  "first_author": "Josué García-Ávila",
+  "pdf_url": "http://arxiv.org/pdf/2609.04541",
+  "primary_category": "cs.AI",
+  "published": "2026-09-03",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-03"
  }
 }

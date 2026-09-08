@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14915.html">Evolving transport properties of dynamic hydrogels enable self-tuning of short- and long-term cargo delivery</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Samya Sen et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14915">2503.14915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.10020.html">Orthogonality between cellulose nanocrystals and a low-molecular weight gelator</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="saxs-360d.html">saxs</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Thuy-Linh Phi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.10020">2509.10020</a></td>
 </tr>
 </tbody></table>

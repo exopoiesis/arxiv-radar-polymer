@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,6 +26,18 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03725.html">Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Mounir El Skafi et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03725">2609.03725</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04538.html">Lagrangian dynamics unveil polymer conformation in viscoelastic flows</a></div></td>
+<td>Louison Thorens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04538">2609.04538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04541.html">Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials</a></div></td>
+<td>Josué García-Ávila et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04541">2609.04541</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -182,11 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08699.html">Deformation dynamics of Oldroyd B drop in alternating electric field</a></div></td>
 <td>Sarika Shivaji Bangar et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08699">2608.08699</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Amjad El-Mellouhi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.08116">2608.08116</a></td>
 </tr>
 </tbody></table>

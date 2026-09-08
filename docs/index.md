@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-07._
+_Updated 2026-09-08._
 
-**3634** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3637** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -31,6 +31,24 @@ _Updated 2026-09-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03991.html">Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Kingshuk Panja et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04399.html">Composition-dependent nonlinear viscoelastic-viscoplastic behavior and constitutive framework for digitally mixed polymers spanning the glass transition</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
+<td>Beijun Shen et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04399">2609.04399</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04538.html">Lagrangian dynamics unveil polymer conformation in viscoelastic flows</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Louison Thorens et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04538">2609.04538</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04541.html">Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Josué García-Ávila et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04541">2609.04541</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-02</td>
@@ -175,23 +193,5 @@ _Updated 2026-09-07._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25928.html">AI Agentic Selective Laser Sintering Process Optimization</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Peter Pak et al.</td>
 <td><a href="http://arxiv.org/abs/2608.25928">2608.25928</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26073.html">Optical extinction and near-field properties of plasmonic dimers: Role of particle shape and separation</a></div></td>
-<td>Gino Wegner et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26073">2608.26073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26468.html">Fluctuation--response relations from an emergent $\mathbb{Z}_2$ symmetry in the rotating stochastic Landau model</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Dhruv Kush et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26468">2608.26468</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.24059.html">Composite fermions in the $ν=3$ fractional quantum spin Hall effect</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Hongquan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.24059">2608.24059</a></td>
 </tr>
 </tbody></table>

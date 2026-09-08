@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">313 papers</span>
+  <span class="paper-count">309 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1868,29 +1868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12837.html">Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kumpei Shiraishi et al.</td>
 <td><a href="http://arxiv.org/abs/2509.12837">2509.12837</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.10746.html">CosForce: A Force-Based General Pedestrian Model with Anticipation and Reaction Mechanisms</a></div></td>
-<td>Jinghui Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.10746">2410.10746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.15158.html">Forestalled Phase Separation as the Precursor to Stripe Order</a></div></td>
-<td>Aritra Sinha et al.</td>
-<td><a href="http://arxiv.org/abs/2411.15158">2411.15158</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.14591.html">Active viscoelastic condensates provide controllable mechanical anchor points</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Oliver W. Paulin et al.</td>
-<td><a href="http://arxiv.org/abs/2506.14591">2506.14591</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09920.html">Polarization-dependent Interference in Nonlinear Compton Scattering</a></div></td>
-<td>Zu-dong Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09920">2509.09920</a></td>
 </tr>
 </tbody></table>
