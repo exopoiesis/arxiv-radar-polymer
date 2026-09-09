@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-08._
+_Updated 2026-09-09._
 
-**3637** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3641** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07292.html">An integrated viscoelastic modeling framework combining analytical and FEM approaches: Application to WSe2 coatings</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Mohamed Bensalem et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07292">2609.07292</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07861.html">Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Midhuna Suresh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07861">2609.07861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.05922.html">Seismic P-wave attenuation estimation based on frequency-dependent AVO using Kramers-Kronig relations for gas reservoir prediction</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Shengyi Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05922">2609.05922</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.06300.html">Exploring causal relationships in elastomeric fracture</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Asal Y Siavoshani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06300">2609.06300</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.03645.html">Calibration of neural viscoelastic models via full-field data</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -169,29 +193,5 @@ _Updated 2026-09-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27440.html">Dynamics of local quantum information in random unitary circuits</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Ratul Thakur et al.</td>
 <td><a href="http://arxiv.org/abs/2608.27440">2608.27440</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25242.html">Dynamical and conformational behavior of a polymer in a crowded solution</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Setarehalsadat Changizrezaei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25242">2608.25242</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25324.html">Multiple pattern formation in quorum sensing of density enhanced motility</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Itay Azizi</td>
-<td><a href="http://arxiv.org/abs/2608.25324">2608.25324</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25649.html">Quantum motility-induced phase separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Laurin Brunner et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25649">2608.25649</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.25928.html">AI Agentic Selective Laser Sintering Process Optimization</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Peter Pak et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25928">2608.25928</a></td>
 </tr>
 </tbody></table>

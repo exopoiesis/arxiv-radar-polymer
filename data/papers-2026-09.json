@@ -479,5 +479,107 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-09-03"
+ },
+ "2609.05922": {
+  "abstract": "Estimation of seismic attenuation (inverse quality factor) is important for gas reservoir prediction. Two key issues in seismic attenuation estimation are the development of a physically consistent reflection coefficient equation and stable estimation of seismic attenuation from seismic data. To address these issues, this study, within the framework of isotropic linear viscoelastic media, starts from the Kramers-Kronig relations and expresses the viscoelastic stiffness matrix as a function of seismic attenuation. Under the assumptions of weak attenuation and small elastic and attenuation contrasts across the interface, a frequency-dependent PP-wave reflection coefficient equation explicitly containing seismic attenuation terms is derived using scattering theory. The derived reflection coefficient equation not only satisfies the causality constraint, but also preserves a compact mathematical form. Based on this reflection coefficient equation, seismic attenuation is estimated within the framework of frequency-dependent AVO inversion. Synthetic seismic data tests show that the estimated P-wave attenuation attribute is sensitive to variations in reservoir gas saturation, with reservoirs of higher gas saturation exhibiting stronger P-wave attenuation anomalies. Application to field seismic data further demonstrates that the P-wave attenuation anomalies agree well with the gas saturation log and effectively identify high gas saturation reservoirs. This study provides a new approach for extracting P-wave attenuation information from seismic data and achieving high resolution prediction of gas reservoirs.",
+  "authors": [
+   "Shengyi Wang",
+   "Xuehua Chen",
+   "Xingyu Luo",
+   "Kaixing Huang"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Shengyi Wang",
+  "pdf_url": "http://arxiv.org/pdf/2609.05922",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-09-05",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Seismic P-wave attenuation estimation based on frequency-dependent AVO using Kramers-Kronig relations for gas reservoir prediction",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-05"
+ },
+ "2609.06300": {
+  "abstract": "The conventional interpretation of elastomeric fracture treats the tearing energy G as an output determined by tear speed, taken to equal crack velocity vc, concluding that higher vc produced greater viscoelastic dissipation to increase G. Based on spatially and temporally resolved polarized optical microscopic (str-POM) measurements of tip stress tip stress, we use prenotched pure shear experiments to clarify the causality: Local crack-tip stress determines the network lifetime, making vc the passive kinetic output. In the elastic limit that can be readily achieved for a well crosslinked elastomer in a wide range of temperatures, Rivlin-Thomas scaling holds, and vc depends only on the applied strain, independent of stretch rate, indicating one-to-one correspondence between vc and tip stress. In a highly stretchable elastomer made with reduced crosslink density, vc no longer correlates well with the far-field load as rate-dependent viscoelastic processes emerge to affect network lifetime. Because of the rheological effects on how chain tension builds in the elastomeric network, vc is higher at a common nominal strain when it is imposed with higher stretch rate. confirm that different stretch rates produce different levels of tip stress. The same tip stress still produces the same vc. With str-POM measurements we are also able to elucidate the nature of temperature dependence: at a given tip stress,, crack growth is slower at lower temperatures; conversely it requires higher tip stress to produce the same vc at lower temperatures.",
+  "authors": [
+   "Asal Y Siavoshani",
+   "Zehao Fan",
+   "Shi-Qing Wang"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Asal Y Siavoshani",
+  "pdf_url": "http://arxiv.org/pdf/2609.06300",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-05",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Exploring causal relationships in elastomeric fracture",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-05"
+ },
+ "2609.07292": {
+  "abstract": "This work presents an integrated methodology combining analytical and finite element FEM based viscoelastic modeling for characterizing the nanoindentation response of coatings. The proposed framework combines two complementary modeling approaches: an analytical model based on the Burgers formulation to analyze nanoindentation load displacement data and extract rheological parameters, and a numerical FEM model implemented in ABAQUS using a 2D axisymmetric indenter coating substrate configuration with viscoelasticity represented through Prony series. An automated inverse optimization routine employing the Nelder Mead simplex algorithm minimizes the discrepancy between experimental and simulated responses. The methodology is demonstrated and validated on WSe2 coatings, showing an agreement between the analytical predictions, FEM simulations, and experimental measurements. Despite the geometric simplifications, the FEM approach provides accurate predictions while maintaining high computational efficiency of time dependent mechanical behavior. The proposed framework provides a robust tool for characterizing viscoelastic behavior from nanoindentation data while enabling access to internal stress and strain fields, thereby offering deeper insight into plastic deformation, crack initiation, and failure mechanism.",
+  "authors": [
+   "Mohamed Bensalem",
+   "Fateh Bahadur",
+   "Yue Wang",
+   "Nabil Daghbouj",
+   "Tomas Polcar"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Mohamed Bensalem",
+  "pdf_url": "http://arxiv.org/pdf/2609.07292",
+  "primary_category": "physics.app-ph",
+  "published": "2026-09-07",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "An integrated viscoelastic modeling framework combining analytical and FEM approaches: Application to WSe2 coatings",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.07861": {
+  "abstract": "Grid-based fluid dynamics solvers routinely struggle with exhaustive meshing demands and ill-posed inverse problems. A practical mesh-free alternative is given by Physics-informed neural networks (PINNs) but, applying them to highly elastic Oldroyd-B fluids results in many training failures. The High Weissenberg Number Problem (HWNP), driven by the exponential stress growth near stagnation points is a major issue, which causes standard PINN optimizers to diverge. To prevent the network from crashing, we apply a Cholesky decomposition to the conformation tensor. This mathematical constraint stabilizes the gradients by guaranteeing a positive-definite stress field. Beyond mathematical stability, the inherent spectral bias of deep learning models can hinder the network from accurately capturing the highly elastic wake structures. Therefore, we used sparse data assimilation to force the model toward the actual physical solution. By anchoring the physics loss with targeted CFD data points and accelerating training via transfer learning, we successfully pushed the network past non-physical local minima. We validated this Cholesky-PINN approach on flow past cylindrical geometries for Reynolds numbers (Re) between 5-25, for the single-cylinder setup. In addition, the relaxation time (λ) is increased from 0.1 to 0.5 to test the stability of the network. Finally, we scale the framework to a complex 3-cylinder array which proved our constructive solid geometry approach completely bypasses the tedious re-meshing steps of traditional CFD. The combined framework accurately captured sharp viscoelastic wakes, providing a stable computational tool for complex rheological modeling.",
+  "authors": [
+   "Midhuna Suresh",
+   "Akanksha Gupta"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.comp-ph"
+  ],
+  "comment": "17 pages",
+  "first_author": "Midhuna Suresh",
+  "pdf_url": "http://arxiv.org/pdf/2609.07861",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-07",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-07"
  }
 }
