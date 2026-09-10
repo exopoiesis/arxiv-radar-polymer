@@ -4,7 +4,7 @@
   total: 853
   group: properties
 - name: phase-separation
-  count: 14
+  count: 13
   total: 574
   group: morphology
 - name: polymer-morphology
@@ -15,18 +15,18 @@
   count: 11
   total: 291
   group: simulation
+- name: additive-manufacturing
+  count: 10
+  total: 366
+  group: processing
 - name: rheology
   count: 10
   total: 199
   group: processing
 - name: molecular-dynamics
-  count: 9
+  count: 8
   total: 257
   group: simulation
-- name: additive-manufacturing
-  count: 8
-  total: 364
-  group: processing
 - name: benchmarking
   count: 6
   total: 201

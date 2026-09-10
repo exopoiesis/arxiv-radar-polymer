@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">27 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -170,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16443.html">Persistence Properties of a Phase-ordering System with Competing Dynamics</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Shubham Thwal et al.</td>
 <td><a href="http://arxiv.org/abs/2606.16443">2606.16443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12778.html">Revealing nonvolatile behaviors in magneto-thermal switching using microstructure-controlled superconducting composites</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
-<td>Keigo Ito et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12778">2606.12778</a></td>
 </tr>
 </tbody></table>

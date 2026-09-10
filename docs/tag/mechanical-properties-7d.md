@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,17 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04541.html">Data-Driven Discovery of Composition-Dependent Constitutive Models for Hyperelasticity and Viscoelasticity of Digital Materials</a></div></td>
 <td>Josué García-Ávila et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04541">2609.04541</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02645.html">XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme</a></div><div class="paper-tags"><a href="polymer-degradation-7d.html">polymer-degradation</a> · <a href="spectroscopy-7d.html">spectroscopy</a></div></td>
-<td>William Chèvremont et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02645">2609.02645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02696.html">A viscoelastic theory for ultrasound-induced intracellular streaming</a></div></td>
-<td>Niels Gieseler et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02696">2609.02696</a></td>
 </tr>
 </tbody></table>

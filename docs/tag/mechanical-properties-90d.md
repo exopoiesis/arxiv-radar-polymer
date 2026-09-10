@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">109 papers</span>
+  <span class="paper-count">107 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -656,17 +656,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.14983.html">Thermally Regulated Viscoelastic Tidal Migration of Eccentric Planets</a></div></td>
 <td>Cristobal Petrovich et al.</td>
 <td><a href="http://arxiv.org/abs/2606.14983">2606.14983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.12786.html">Well-posedness and Stability Analysis of Suspension Bridge Models Coupled with Cattaneo Heat Conduction: The Role of Viscoelastic Memory</a></div></td>
-<td>Jun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.12786">2606.12786</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.13584.html">Limits of constant-parameter constitutive models for hydrogels under inertial cavitation</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
-<td>Tianyi Chu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.13584">2606.13584</a></td>
 </tr>
 </tbody></table>

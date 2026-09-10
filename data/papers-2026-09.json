@@ -530,6 +530,34 @@
   ],
   "updated": "2026-09-05"
  },
+ "2609.06417": {
+  "abstract": "Electromagnetic shielding materials play a pivotal role in both aerospace applications and daily life. However, their design and manufacturing still face persistent challenges. Machine learning demonstrates significant potential in accelerating material development and compositions optimization. Furthermore, laser additive manufacturing provides powerful technical support for fabricating multi-component, multifunctional electromagnetic shielding materials with tailored properties. In this study, the multiple machine learning strategies have been proposed, based on experimental derivation and soft magnetic material databases, to accelerate the design of multifunctional FeCo-based alloys for electromagnetic interference (EMI) shielding within an almost infinite compositional space. This work presents a novel approach for the rapid and automated discovery of multifunctional alloys with optimized EMI shielding effectiveness, as well as enhanced magnetic and electrical properties.",
+  "authors": [
+   "Luting Wang",
+   "Suiyuan Chen",
+   "Xiancheng Zhu",
+   "Zhiqing Fang",
+   "Mei Wang",
+   "Yifan Li",
+   "Lei Shen"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Luting Wang",
+  "pdf_url": "http://arxiv.org/pdf/2609.06417",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-06",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Machine learning for the design and prediction of soft-magnetic electromagnetic shielding FeCo-based alloys in laser cladding",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-06"
+ },
  "2609.07292": {
   "abstract": "This work presents an integrated methodology combining analytical and finite element FEM based viscoelastic modeling for characterizing the nanoindentation response of coatings. The proposed framework combines two complementary modeling approaches: an analytical model based on the Burgers formulation to analyze nanoindentation load displacement data and extract rheological parameters, and a numerical FEM model implemented in ABAQUS using a 2D axisymmetric indenter coating substrate configuration with viscoelasticity represented through Prony series. An automated inverse optimization routine employing the Nelder Mead simplex algorithm minimizes the discrepancy between experimental and simulated responses. The methodology is demonstrated and validated on WSe2 coatings, showing an agreement between the analytical predictions, FEM simulations, and experimental measurements. Despite the geometric simplifications, the FEM approach provides accurate predictions while maintaining high computational efficiency of time dependent mechanical behavior. The proposed framework provides a robust tool for characterizing viscoelastic behavior from nanoindentation data while enabling access to internal stress and strain fields, thereby offering deeper insight into plastic deformation, crack initiation, and failure mechanism.",
   "authors": [
@@ -554,6 +582,31 @@
   "title": "An integrated viscoelastic modeling framework combining analytical and FEM approaches: Application to WSe2 coatings",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-07"
+ },
+ "2609.07337": {
+  "abstract": "This paper proposes a topology optimization method for reducing the residual stress arising in the building process of metal additive manufacturing. First, a layer-by-layer process analysis model based on an elastoplastic inherent strain method is introduced. In this model, the incremental displacement is solved anew at each layer step, and the stress history is explicitly incorporated into the constitutive equation as the stress accumulated up to the previous step, which guarantees the stress continuity across layer interfaces without introducing activation strains. Next, the design sensitivity of this analysis model is derived based on the adjoint method. Taking the pair of the stress and the equivalent plastic strain as the state variables reduces the dependency between layer steps to a one-step recurrence, and the adjoint fields are constructed as a layer-by-layer reverse sweep that reuses the coefficient tensors obtained in the forward analysis. Consequently, the cost of the sensitivity analysis scales linearly with the number of layers and remains of the same order as that of the forward analysis. An optimization problem is then formulated based on the density method to minimize the P-norm of the residual stress at the completion of the building process under the volume and final-use compliance constraints, and the derived sensitivities are verified by comparison with central finite differences. Finally, the proposed method is demonstrated through two- and three-dimensional examples of residual stress minimization under a compliance constraint. The results clarify that, under the elastoplastic analysis, the maximum residual stress is bounded by the yield surface, and the optimization therefore reduces the extent of the yielded and plastic strain accumulating regions rather than the peak stress value.",
+  "authors": [
+   "Takao Miki",
+   "Jike Han",
+   "Kazuhiro Izui",
+   "Shinji Nishiwaki"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": "34 pages, 17 figures, 6 tables",
+  "first_author": "Takao Miki",
+  "pdf_url": "http://arxiv.org/pdf/2609.07337",
+  "primary_category": "cs.CE",
+  "published": "2026-09-07",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Elastoplastic inherent strain-based topology optimization for residual stress reduction in metal additive manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-09-07"
  },

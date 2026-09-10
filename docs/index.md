@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-09._
+_Updated 2026-09-10._
 
-**3641** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3643** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -22,9 +22,21 @@ _Updated 2026-09-09._
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07337.html">Elastoplastic inherent strain-based topology optimization for residual stress reduction in metal additive manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Takao Miki et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07337">2609.07337</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.07861.html">Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
 <td>Midhuna Suresh et al.</td>
 <td><a href="http://arxiv.org/abs/2609.07861">2609.07861</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.06417.html">Machine learning for the design and prediction of soft-magnetic electromagnetic shielding FeCo-based alloys in laser cladding</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Luting Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.06417">2609.06417</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-05</td>
@@ -181,17 +193,5 @@ _Updated 2026-09-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.26717.html">Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections</a></div><div class="paper-tags"><a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Stefan Goppelt et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26717">2608.26717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27048.html">Soft Active Electromyography Interface for Machine Learning-Enabled Silent Speech Recognition</a></div></td>
-<td>Yuta Kurotaki et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27048">2608.27048</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2608.27440.html">Dynamics of local quantum information in random unitary circuits</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Ratul Thakur et al.</td>
-<td><a href="http://arxiv.org/abs/2608.27440">2608.27440</a></td>
 </tr>
 </tbody></table>
