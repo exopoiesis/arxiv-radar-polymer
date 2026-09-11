@@ -3,10 +3,6 @@
   count: 33
   total: 853
   group: properties
-- name: phase-separation
-  count: 13
-  total: 574
-  group: morphology
 - name: polymer-morphology
   count: 13
   total: 358
@@ -15,6 +11,10 @@
   count: 11
   total: 291
   group: simulation
+- name: phase-separation
+  count: 11
+  total: 574
+  group: morphology
 - name: additive-manufacturing
   count: 10
   total: 366
@@ -24,7 +24,7 @@
   total: 199
   group: processing
 - name: molecular-dynamics
-  count: 8
+  count: 7
   total: 257
   group: simulation
 - name: benchmarking
@@ -32,17 +32,17 @@
   total: 201
   group: informatics
 - name: composites
-  count: 6
+  count: 5
   total: 268
   group: processing
-- name: hydrogels
-  count: 6
-  total: 167
-  group: applications
 - name: glass-transition
   count: 5
   total: 152
   group: properties
+- name: hydrogels
+  count: 5
+  total: 167
+  group: applications
 - name: polymer-degradation
   count: 5
   total: 54
@@ -50,10 +50,6 @@
 - name: bayesian-optimization
   count: 2
   total: 29
-  group: design
-- name: diffusion-model
-  count: 2
-  total: 42
   group: design
 - name: mlff
   count: 2
@@ -71,10 +67,6 @@
   count: 2
   total: 114
   group: characterization
-- name: tem
-  count: 2
-  total: 28
-  group: characterization
 - name: active-learning
   count: 1
   total: 19
@@ -91,6 +83,10 @@
   count: 1
   total: 19
   group: properties
+- name: diffusion-model
+  count: 1
+  total: 42
+  group: design
 - name: extrusion
   count: 1
   total: 35
@@ -139,6 +135,10 @@
   count: 1
   total: 88
   group: simulation
+- name: tem
+  count: 1
+  total: 28
+  group: characterization
 - name: thermal-conductivity
   count: 1
   total: 81

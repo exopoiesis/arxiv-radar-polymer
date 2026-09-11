@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">479 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2870,23 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22678.html">Enduring mechanical memory from the constitutive response of elastically recoverable nanostructured materials</a></div></td>
 <td>Abhishek Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22678">2509.22678</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14915.html">Evolving transport properties of dynamic hydrogels enable self-tuning of short- and long-term cargo delivery</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Samya Sen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14915">2503.14915</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08356.html">In Vivo Wideband MR Elastography for Assessing Age-Related Viscoelastic Changes of the Human Brain</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Jakob Schattenfroh et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08356">2509.08356</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12006.html">Rheological Insights from the Oscillation Dynamics of Viscoelastic Sessile Drops</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Peyman Rostami et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12006">2509.12006</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">86 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -524,11 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13850.html">Surfing on chemical waves: a simple yet dynamically rich two-sphere responsive gel swimmer</a></div></td>
 <td>Joseph J. Webber et al.</td>
 <td><a href="http://arxiv.org/abs/2509.13850">2509.13850</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14915.html">Evolving transport properties of dynamic hydrogels enable self-tuning of short- and long-term cargo delivery</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Samya Sen et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14915">2503.14915</a></td>
 </tr>
 </tbody></table>

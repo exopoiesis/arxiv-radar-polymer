@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hydrogels — 30d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <strong>30d</strong> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13051.html">A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Michael Eden et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13051">2608.13051</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11117.html">T1, T2, and complex permittivities of hydrogels, paramagnetic salt solutions, and oils at 0.35, 1.5, and 3 Tesla</a></div></td>
-<td>H Michael Gach et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11117">2608.11117</a></td>
 </tr>
 </tbody></table>
