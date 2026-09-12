@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Jesse M. Steenhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a> · <a href="polymer-degradation-30d.html">polymer-degradation</a></div></td>
-<td>Sameer Kumar</td>
-<td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
 </tr>
 </tbody></table>

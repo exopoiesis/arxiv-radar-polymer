@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15588.html">A quantum monomer-dimer model on Penrose tilings</a></div></td>
 <td>Jeet Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2503.15588">2503.15588</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22315.html">Entropy of self-avoiding branching polymers: mean field theory and Monte Carlo simulations</a></div></td>
-<td>Davide Marcato et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22315">2506.22315</a></td>
 </tr>
 </tbody></table>

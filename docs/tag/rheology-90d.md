@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,11 +122,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19870.html">Physiological Sex-Specific Haematocrit Has Minimal Effect on Coronary Computational Haemodynamics: Modelling Implications for Blood Rheology</a></div></td>
 <td>C. Shen et al.</td>
 <td><a href="http://arxiv.org/abs/2606.19870">2606.19870</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.15403.html">Cobalt-Catalysed Chain Transfer Polymerisation Enables Soft Methacrylate Nematic Elastomers for Switchable Pressure-Sensitive Adhesion</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
-<td>Noboru Koshimizu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.15403">2606.15403</a></td>
 </tr>
 </tbody></table>

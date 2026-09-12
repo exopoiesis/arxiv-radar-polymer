@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">85 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,11 +518,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15341.html">Competing Supramolecular Structures: Dielectric and Rheological Spectroscopy on Glycerol/Propanol Mixtures</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Jan Philipp Gabriel</td>
 <td><a href="http://arxiv.org/abs/2509.15341">2509.15341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12837.html">Benchmarking thermostat algorithms in molecular dynamics simulations of a binary Lennard-Jones glass-former model</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Kumpei Shiraishi et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12837">2509.12837</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">195 papers</span>
+  <span class="paper-count">194 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1178,11 +1178,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08663.html">A Neutron Sensitive Detector Using 3D-Printed Scintillators</a></div></td>
 <td>Adam Barr et al.</td>
 <td><a href="http://arxiv.org/abs/2507.08663">2507.08663</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.12545.html">Coupled Infrared Imaging and Multiphysics Modeling to Predict Three-Dimensional Thermal Characteristics during Selective Laser Melting</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Vijay Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.12545">2509.12545</a></td>
 </tr>
 </tbody></table>
