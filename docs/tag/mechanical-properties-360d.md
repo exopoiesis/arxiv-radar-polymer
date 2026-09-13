@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">473 papers</span>
+  <span class="paper-count">470 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2834,23 +2834,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16416.html">Joint inviscid, incompressible, and continuous phenotype limit in nonlocal models of tissue growth</a></div></td>
 <td>Chen-Chih Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16416">2509.16416</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.19681.html">Point-Cloud Based Inverse Design of Free-Form Metamaterials Using Deep Generative Networks</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
-<td>Kijung Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2411.19681">2411.19681</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13777.html">A numerical approach for the dynamics of active viscoelastic surfaces</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Francine Kolley-Köchel et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13777">2509.13777</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13860.html">Impulsive shock wave propagation in granular packings under gravity</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>S. van den Wildenberg et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13860">2509.13860</a></td>
 </tr>
 </tbody></table>
