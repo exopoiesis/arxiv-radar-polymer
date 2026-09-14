@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">170 papers</span>
+  <span class="paper-count">169 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1028,11 +1028,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20893.html">MolCluster: Integrating Graph Neural Network with Community Detection for Coarse-Grained Mapping</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
 <td>Zhixuan Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20893">2509.20893</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15077.html">A pedestrian&#x27;s approach to large deviations in semi-Markov processes with an application to entropy production</a></div></td>
-<td>Alexander M. Maier et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15077">2509.15077</a></td>
 </tr>
 </tbody></table>
