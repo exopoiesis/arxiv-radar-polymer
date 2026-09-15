@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">191 papers</span>
+  <span class="paper-count">188 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1142,23 +1142,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18366.html">Turning Hearsay into Discovery: Industrial 3D Printer Side Channel Information Translated to Stealing the Object Design</a></div></td>
 <td>Aleksandr Dolgavin et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18366">2509.18366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.12043.html">A comparative analysis for different finite element types in strain-gradient elasticity simulations performed on Firedrake and FEniCS</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>B. Cagri Sarar et al.</td>
-<td><a href="http://arxiv.org/abs/2411.12043">2411.12043</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15562.html">Implicit Modeling for 3D-printed Multi-material Computational Object Design via Python</a></div></td>
-<td>Charles Wade et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15562">2509.15562</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16114.html">Real-Time Thermal State Estimation and Forecasting in Laser Powder Bed Fusion</a></div></td>
-<td>Yukta Pareek et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16114">2509.16114</a></td>
 </tr>
 </tbody></table>

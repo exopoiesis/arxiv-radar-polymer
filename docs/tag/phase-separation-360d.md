@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">307 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1850,11 +1850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17229.html">Arrested phase separation and chiral symmetry breaking in active dumbbells under shear</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Lucio Mauro Carenza et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17229">2509.17229</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15526.html">Fluid flow and spatiotemporal chaos in chemically active emulsions</a></div></td>
-<td>Charu Datt et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15526">2509.15526</a></td>
 </tr>
 </tbody></table>
