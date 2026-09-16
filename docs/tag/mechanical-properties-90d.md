@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">99 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,78 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16903.html">Bayesian inference in active microrheology with wall and particle-particle interactions</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Parajal Rai et al.</td>
+<td><a href="http://arxiv.org/abs/2609.16903">2609.16903</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17104.html">Extending high value components performances with Additive Manufacturing: application to naval applications</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
+<td>Matthieu Rauch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17104">2609.17104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17476.html">Designing Homogeneous Ti-Nb-Fe-Sn $β$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
+<td>João Felipe Queiroz Rodrigues et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17476">2609.17476</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15584.html">Multiscale modeling of host-pathogen interactions and mucociliary clearance during non-tuberculous mycobacterial pulmonary infection</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Jindong Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.15584">2609.15584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13658.html">Thixotropy versus viscoelasticity: a matter of time</a></div></td>
+<td>Rishabh V. More</td>
+<td><a href="http://arxiv.org/abs/2609.13658">2609.13658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11581.html">Low inertia limit of elasto-inertial turbulence</a></div></td>
+<td>Shoaib Kamil et al.</td>
+<td><a href="http://arxiv.org/abs/2609.11581">2609.11581</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12229.html">Spreading dynamics of a drop of yield-stress fluid subject to vertical oscillations</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Alice Woodbridge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12229">2609.12229</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09760.html">Through-thickness coupling of diffusion and viscoelastic relaxation in the transient bending of bilayer microcantilevers</a></div></td>
+<td>YingCheng Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09760">2609.09760</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10908.html">A virtual element method for Kelvin--Voigt viscoelasticity</a></div></td>
+<td>Utkarsh Rajput et al.</td>
+<td><a href="http://arxiv.org/abs/2609.10908">2609.10908</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08202.html">Viscoelasticity reshapes the frequency response of a rotating magnetic particle</a></div></td>
+<td>Zhiyuan Zhao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08202">2609.08202</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08451.html">A finite-strain logarithmic viscoelastic model for Antarctic ice shelves based on an additive split</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Maxime Nutte et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08451">2609.08451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08986.html">Well-posedness and exponential stability for abstract evolution equations with delay in the nonlinear source: frictional and viscoelastic cases</a></div></td>
+<td>Houria Chellaoua et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08986">2609.08986</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07292.html">An integrated viscoelastic modeling framework combining analytical and FEM approaches: Application to WSe2 coatings</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
@@ -602,11 +674,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21554.html">Revisiting creeping viscoelastic cross-slot flow: Global linear stability and structural sensitivity analyses</a></div></td>
 <td>Kun Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21554">2606.21554</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.18626.html">Dynamics of monohydroxy alcohols with chain-like structures: Hydrogen bonding lifetime, chain swapping, and Debye process</a></div></td>
-<td>Shiwang Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2606.18626">2606.18626</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">44 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14586.html">A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets</a></div></td>
+<td>Aleksei M. Cherkasov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14586">2609.14586</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13715.html">Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables</a></div></td>
+<td>Christopher Angstmann et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13715">2609.13715</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13029.html">Geometry of Urban Order</a></div></td>
+<td>Marc Barthelemy et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13029">2609.13029</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12000.html">Optical effects of one-sided Kiselev-type quintessence in reflection-asymmetric polymer thin-shell wormholes</a></div></td>
+<td>Jonathan A. Rebouças et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12000">2609.12000</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09761.html">Morphology and depletion force-based large-scale self-assembly of nanocubes on surface</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Yeonhee Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.09761">2609.09761</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08451.html">A finite-strain logarithmic viscoelastic model for Antarctic ice shelves based on an additive split</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Maxime Nutte et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08451">2609.08451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07973.html">Substrate-induced crystallisation in polymers: Exceptional impact of prefreezing versus heterogeneous nucleation on kinetics and morphology</a></div></td>
+<td>Marthinus van Niekerk et al.</td>
+<td><a href="http://arxiv.org/abs/2609.07973">2609.07973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03725.html">Multimodal and Multiscale Interrogation of a Mechanically Tough Glass Forming Copper-Based Metal-Organic Framework</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
@@ -236,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20939.html">Locally period homogenization of multiscale model for plant tissue biomechanics</a></div></td>
 <td>Mariya Ptashnyk</td>
 <td><a href="http://arxiv.org/abs/2606.20939">2606.20939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
-<td>Hadi H. Arefi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23719.html">A Hybrid Quantum-Classical Approach for Melt Pool Prediction in Laser Powder Bed Fusion</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
-<td>Matthew M. Sato et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23719">2606.23719</a></td>
 </tr>
 </tbody></table>

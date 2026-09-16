@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14540.html">Anisotropic Nanoparticle Rejamming Triggers Thermodynamic Cavitation in Elastomer Nanocomposites</a></div><div class="paper-tags"><a href="nanocomposites-90d.html">nanocomposites</a></div></td>
+<td>Harshad Bhapkar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14540">2609.14540</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14599.html">Glassiness and dynamic arrest in magnetic and non-magnetic colloids</a></div></td>
+<td>Anuj Kumar Singh et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14599">2609.14599</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12555.html">Interfacial Packing of DNA Nanostars Regulates Dynamics on Synthetic Cell Membranes</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="membranes-90d.html">membranes</a></div></td>
+<td>Kazutoshi Masuda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.12555">2609.12555</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div></td>
+<td>Alireza F. Behbahani et al.</td>
+<td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05373.html">Molecular interfacial rheology: Lipid membrane shear viscosity</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Zhi-Xun Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.05373">2609.05373</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25242.html">Dynamical and conformational behavior of a polymer in a crowded solution</a></div></td>
@@ -188,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21719.html">A Topology-Preserving Python Framework for Reliable Initialization of Star and Cyclic Polymer Architectures in Molecular Dynamics (LAMMPS) Simulations</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
 <td>Oluwatumininu Emmanuel Ayo-Ojo et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21719">2606.21719</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19418.html">Sequential replica exchange with solute tempering for atomistic modeling of supramolecular polymer structures</a></div><div class="paper-tags"><a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
-<td>Hadi H. Arefi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19418">2606.19418</a></td>
 </tr>
 </tbody></table>

@@ -1,8 +1,8 @@
-## Updated on 2026.09.15
+## Updated on 2026.09.16
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3643 papers across 26 months.
+**Total corpus:** 3705 papers across 26 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -85,12 +85,24 @@
 |**2024-12-02**|**Tokenizing 3D Molecule Structure with Quantized Spherical Coordinates**|Kaiyuan Gao et al.|[2412.01564](http://arxiv.org/abs/2412.01564)|[md](abstracts/2412.01564.md)|
 |**2024-11-12**|**3-DUSSS: 3-Dimensional Ultrasonic Self Supervised Segmentation**|Shaun McKnight et al.|[2411.07835](http://arxiv.org/abs/2411.07835)|[md](abstracts/2411.07835.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Property Prediction & QSPR
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-15**|**Inertialess turbulence in viscoelastic pipe flow**|Shoaib Kamil et al.|[2609.16492](http://arxiv.org/abs/2609.16492)|[md](abstracts/2609.16492.md)|
+|**2026-09-15**|**Bayesian inference in active microrheology with wall and particle-particle interactions**|Parajal Rai et al.|[2609.16903](http://arxiv.org/abs/2609.16903)|[md](abstracts/2609.16903.md)|
+|**2026-09-15**|**Designing Homogeneous Ti-Nb-Fe-Sn $β$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy**|João Felipe Queiroz Rodrigues et al.|[2609.17476](http://arxiv.org/abs/2609.17476)|[md](abstracts/2609.17476.md)|
+|**2026-09-14**|**Multiscale modeling of host-pathogen interactions and mucociliary clearance during non-tuberculous mycobacterial pulmonary infection**|Jindong Wang et al.|[2609.15584](http://arxiv.org/abs/2609.15584)|[md](abstracts/2609.15584.md)|
+|**2026-09-12**|**Thixotropy versus viscoelasticity: a matter of time**|Rishabh V. More|[2609.13658](http://arxiv.org/abs/2609.13658)|[md](abstracts/2609.13658.md)|
+|**2026-09-10**|**Low inertia limit of elasto-inertial turbulence**|Shoaib Kamil et al.|[2609.11581](http://arxiv.org/abs/2609.11581)|[md](abstracts/2609.11581.md)|
+|**2026-09-10**|**Spreading dynamics of a drop of yield-stress fluid subject to vertical oscillations**|Alice Woodbridge et al.|[2609.12229](http://arxiv.org/abs/2609.12229)|[md](abstracts/2609.12229.md)|
+|**2026-09-09**|**Through-thickness coupling of diffusion and viscoelastic relaxation in the transient bending of bilayer microcantilevers**|YingCheng Zhou et al.|[2609.09760](http://arxiv.org/abs/2609.09760)|[md](abstracts/2609.09760.md)|
+|**2026-09-09**|**A virtual element method for Kelvin--Voigt viscoelasticity**|Utkarsh Rajput et al.|[2609.10908](http://arxiv.org/abs/2609.10908)|[md](abstracts/2609.10908.md)|
+|**2026-09-08**|**Viscoelasticity reshapes the frequency response of a rotating magnetic particle**|Zhiyuan Zhao et al.|[2609.08202](http://arxiv.org/abs/2609.08202)|[md](abstracts/2609.08202.md)|
+|**2026-09-08**|**A finite-strain logarithmic viscoelastic model for Antarctic ice shelves based on an additive split**|Maxime Nutte et al.|[2609.08451](http://arxiv.org/abs/2609.08451)|[md](abstracts/2609.08451.md)|
+|**2026-09-08**|**Well-posedness and exponential stability for abstract evolution equations with delay in the nonlinear source: frictional and viscoelastic cases**|Houria Chellaoua et al.|[2609.08986](http://arxiv.org/abs/2609.08986)|[md](abstracts/2609.08986.md)|
 |**2026-09-07**|**An integrated viscoelastic modeling framework combining analytical and FEM approaches: Application to WSe2 coatings**|Mohamed Bensalem et al.|[2609.07292](http://arxiv.org/abs/2609.07292)|[md](abstracts/2609.07292.md)|
 |**2026-09-07**|**Physics-informed neural networks for viscoelastic fluid flows around a cylinder in a two-dimensional channel**|Midhuna Suresh et al.|[2609.07861](http://arxiv.org/abs/2609.07861)|[md](abstracts/2609.07861.md)|
 |**2026-09-05**|**Seismic P-wave attenuation estimation based on frequency-dependent AVO using Kramers-Kronig relations for gas reservoir prediction**|Shengyi Wang et al.|[2609.05922](http://arxiv.org/abs/2609.05922)|[md](abstracts/2609.05922.md)|
@@ -129,25 +141,14 @@
 |**2026-08-13**|**A Two-Component Poro-viscoelastic System for Fibre-Reinforced Hydrogels: Analysis and Homogenization**|Michael Eden et al.|[2608.13051](http://arxiv.org/abs/2608.13051)|[md](abstracts/2608.13051.md)|
 |**2026-08-13**|**Effective field theory of quasi-hydrodynamics from kinetic theory**|Lorenzo Gavassino|[2608.13542](http://arxiv.org/abs/2608.13542)|[md](abstracts/2608.13542.md)|
 |**2026-08-13**|**Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities**|Jay Prakash Singh et al.|[2608.13735](http://arxiv.org/abs/2608.13735)|[md](abstracts/2608.13735.md)|
-|**2026-08-12**|**The critical exponent for semilinear wave equations with damped oscillations**|Marcello D'Abbicco|[2608.11722](http://arxiv.org/abs/2608.11722)|[md](abstracts/2608.11722.md)|
-|**2026-08-12**|**PocketCaBER and PocketDoS: Low-cost open-source tools for teaching and learning advanced topics in fluid mechanics**|Zhaofeng Peng et al.|[2608.16943](http://arxiv.org/abs/2608.16943)|[md](abstracts/2608.16943.md)|
-|**2026-08-11**|**Multi-Granular Rationale-Guided Molecular LLM for Property Prediction**|Junwoo Park et al.|[2608.10480](http://arxiv.org/abs/2608.10480)|[md](abstracts/2608.10480.md)|
-|**2026-08-09**|**Deformation dynamics of Oldroyd B drop in alternating electric field**|Sarika Shivaji Bangar et al.|[2608.08699](http://arxiv.org/abs/2608.08699)|[md](abstracts/2608.08699.md)|
-|**2026-08-08**|**Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis**|Amjad El-Mellouhi et al.|[2608.08116](http://arxiv.org/abs/2608.08116)|[md](abstracts/2608.08116.md)|
-|**2026-08-07**|**Active Brownian motion in a single-relaxation viscoelastic fluid**|Sanatan Halder et al.|[2608.07059](http://arxiv.org/abs/2608.07059)|[md](abstracts/2608.07059.md)|
-|**2026-08-07**|**Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of Organic Semiconductors**|Shinian Cheng et al.|[2608.07320](http://arxiv.org/abs/2608.07320)|[md](abstracts/2608.07320.md)|
-|**2026-08-07**|**A transient nonlinear finite element framework and implementation of coupled electro-chemo-mechanics of polyelectrolyte hydrogels**|Bibekananda Datta et al.|[2608.07638](http://arxiv.org/abs/2608.07638)|[md](abstracts/2608.07638.md)|
-|**2026-08-06**|**An open-source framework for predicting ultrasound neuromodulation: bridging tissue elastomechanics and neuron firing dynamics**|Gianmarco Pinton|[2608.06321](http://arxiv.org/abs/2608.06321)|[md](abstracts/2608.06321.md)|
-|**2026-08-05**|**Expansion of a hole in a viscoelastic liquid sheet**|Tachin Ruangkriengsin et al.|[2608.04345](http://arxiv.org/abs/2608.04345)|[md](abstracts/2608.04345.md)|
-|**2026-08-05**|**Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics**|Wang-Qi Xu et al.|[2608.04359](http://arxiv.org/abs/2608.04359)|[md](abstracts/2608.04359.md)|
-|**2026-08-05**|**Confinement-induced evolution and breakup of viscoelastic filaments in microfluidic coflows**|U. K. Kar et al.|[2608.05343](http://arxiv.org/abs/2608.05343)|[md](abstracts/2608.05343.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Generative Design & Inverse Design
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-10**|**Molecular representation shapes the balance between target fidelity and exploration in flow based polymer generation**|Tianren Zhang|[2609.16028](http://arxiv.org/abs/2609.16028)|[md](abstracts/2609.16028.md)|
 |**2026-08-24**|**Polymer-Linked Nanoparticle Networks Running on Heat Can Act as Computing Devices**|Xingfei Wei et al.|[2608.22841](http://arxiv.org/abs/2608.22841)|[md](abstracts/2608.22841.md)|
 |**2026-08-21**|**Polymer Genome in the Age of Artificial Intelligence**|Jifeng Wang et al.|[2608.20979](http://arxiv.org/abs/2608.20979)|[md](abstracts/2608.20979.md)|
 |**2026-08-18**|**Bayesian Optimization for Practical H2 Sensors: Inverse Design of Pd-based Plasmonic Metasurfaces**|Pernilla Ekborg-Tanner et al.|[2608.18333](http://arxiv.org/abs/2608.18333)|[md](abstracts/2608.18333.md)|
@@ -197,16 +198,44 @@
 |**2025-10-06**|**The PPP model - a minimal viable parametrisation of conjugated chemistry for modern computing applications**|Marcel David Fabian et al.|[2510.04632](http://arxiv.org/abs/2510.04632)|[md](abstracts/2510.04632.md)|
 |**2025-10-05**|**CryoCCD: Conditional Cycle-consistent Diffusion with Biophysical Modeling for Cryo-EM Synthesis**|Runmin Jiang et al.|[2505.23444](http://arxiv.org/abs/2505.23444)|[md](abstracts/2505.23444.md)|
 |**2025-10-03**|**On diffusion posterior sampling via sequential Monte Carlo for zero-shot scaffolding of protein motifs**|James Matthew Young et al.|[2412.05788](http://arxiv.org/abs/2412.05788)|[md](abstracts/2412.05788.md)|
-|**2025-10-03**|**Fully automated inverse co-optimization of templates and block copolymer blending recipes for DSA lithography**|Yuhao Zhou et al.|[2510.02715](http://arxiv.org/abs/2510.02715)|[md](abstracts/2510.02715.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Molecular Dynamics & Multiscale Modeling
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-15**|**A Symmetry-Constrained Fourier--Morse Framework for Compact Anisotropic Interaction Potentials**|Hadis Ghodrati et al.|[2609.15405](http://arxiv.org/abs/2609.15405)|[md](abstracts/2609.15405.md)|
+|**2026-09-14**|**Borromean Criticality in Two Dimensions**|Alexandru Golic et al.|[2609.15259](http://arxiv.org/abs/2609.15259)|[md](abstracts/2609.15259.md)|
+|**2026-09-14**|**Investigating the Nature of Discontinuous Shear Thickening: Beyond a Mean-Field Description**|Jetin E. Thomas et al.|[2609.15288](http://arxiv.org/abs/2609.15288)|[md](abstracts/2609.15288.md)|
+|**2026-09-14**|**Multiscale modeling of host-pathogen interactions and mucociliary clearance during non-tuberculous mycobacterial pulmonary infection**|Jindong Wang et al.|[2609.15584](http://arxiv.org/abs/2609.15584)|[md](abstracts/2609.15584.md)|
+|**2026-09-13**|**A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets**|Aleksei M. Cherkasov et al.|[2609.14586](http://arxiv.org/abs/2609.14586)|[md](abstracts/2609.14586.md)|
+|**2026-09-13**|**Glassiness and dynamic arrest in magnetic and non-magnetic colloids**|Anuj Kumar Singh et al.|[2609.14599](http://arxiv.org/abs/2609.14599)|[md](abstracts/2609.14599.md)|
+|**2026-09-12**|**First-order integrability-breaking phase transitions in dynamical systems**|Anne Ketri P. da Fonseca et al.|[2609.13616](http://arxiv.org/abs/2609.13616)|[md](abstracts/2609.13616.md)|
+|**2026-09-12**|**Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables**|Christopher Angstmann et al.|[2609.13715](http://arxiv.org/abs/2609.13715)|[md](abstracts/2609.13715.md)|
+|**2026-09-11**|**Thermodynamic Speed Limits in Isolated Quantum Systems**|Rikuya Kobashi|[2609.12520](http://arxiv.org/abs/2609.12520)|[md](abstracts/2609.12520.md)|
+|**2026-09-11**|**Interfacial Packing of DNA Nanostars Regulates Dynamics on Synthetic Cell Membranes**|Kazutoshi Masuda et al.|[2609.12555](http://arxiv.org/abs/2609.12555)|[md](abstracts/2609.12555.md)|
+|**2026-09-11**|**Geometry of Urban Order**|Marc Barthelemy et al.|[2609.13029](http://arxiv.org/abs/2609.13029)|[md](abstracts/2609.13029.md)|
+|**2026-09-10**|**Models and Measures of Statistical Physics and Sociophysics for Fracture Mechanics and Earthquake Dynamics: An Introduction**|Sudip Sarkar et al.|[2609.12109](http://arxiv.org/abs/2609.12109)|[md](abstracts/2609.12109.md)|
+|**2026-09-09**|**A Function-Space Approach to the Statistical Mechanics of Learning Dynamics**|Yizhou Zhang et al.|[2609.09589](http://arxiv.org/abs/2609.09589)|[md](abstracts/2609.09589.md)|
+|**2026-09-09**|**Coarse-graining to create minimalist models for dynamic, end-linked star-polymer networks**|Tyla R. Holoman et al.|[2609.09594](http://arxiv.org/abs/2609.09594)|[md](abstracts/2609.09594.md)|
+|**2026-09-09**|**Morphology and depletion force-based large-scale self-assembly of nanocubes on surface**|Yeonhee Lee et al.|[2609.09761](http://arxiv.org/abs/2609.09761)|[md](abstracts/2609.09761.md)|
+|**2026-09-09**|**Configurational-space separation and structure selection in three hard squares**|Yuheng Yang et al.|[2609.09936](http://arxiv.org/abs/2609.09936)|[md](abstracts/2609.09936.md)|
+|**2026-09-09**|**Effect of Spherical Confinement on the 2-TIPS of Soft Repulsive Spherocylinders**|Jaydeep Mandal et al.|[2609.10014](http://arxiv.org/abs/2609.10014)|[md](abstracts/2609.10014.md)|
+|**2026-09-09**|**Topology-dependent mixing of knots in flexible polymer chains**|Souradeep Sengupta et al.|[2609.10188](http://arxiv.org/abs/2609.10188)|[md](abstracts/2609.10188.md)|
+|**2026-09-08**|**Structure-Informed Bayesian Inference of Anomalous Transport and Hidden Molecular Trapping in Amorphous Media**|Andrey Ananev et al.|[2609.08780](http://arxiv.org/abs/2609.08780)|[md](abstracts/2609.08780.md)|
+|**2026-09-08**|**Disordered hyperuniform modulated phases and the cosmic web from one free energy**|Fausto Martelli|[2609.11988](http://arxiv.org/abs/2609.11988)|[md](abstracts/2609.11988.md)|
+|**2026-09-07**|**Fragility from Enthalpy Fluctuations and Fictive-Temperature Dynamics**|Biman Bagchi|[2609.07396](http://arxiv.org/abs/2609.07396)|[md](abstracts/2609.07396.md)|
+|**2026-09-07**|**Aggressive Phase Separation in Dense Mixtures of Passive and Active Particles**|Purnendu Pathak et al.|[2609.07572](http://arxiv.org/abs/2609.07572)|[md](abstracts/2609.07572.md)|
+|**2026-09-07**|**Directional memory of early spectral selection during spinodal decomposition in finite systems**|Boliang Yu et al.|[2609.07764](http://arxiv.org/abs/2609.07764)|[md](abstracts/2609.07764.md)|
+|**2026-09-07**|**Exact fermionic dual of the Bose-Hubbard model**|Lei Su et al.|[2609.07830](http://arxiv.org/abs/2609.07830)|[md](abstracts/2609.07830.md)|
+|**2026-09-07**|**Tensor network investigation of the monomer-dimer model on the honeycomb lattice**|De-Zhang Li et al.|[2609.07899](http://arxiv.org/abs/2609.07899)|[md](abstracts/2609.07899.md)|
+|**2026-09-04**|**Modelling Palomar Transients: Constraints from Reflection Geometry and Orbital Altitude**|Beatriz Villarroel et al.|[2609.05105](http://arxiv.org/abs/2609.05105)|[md](abstracts/2609.05105.md)|
+|**2026-09-04**|**Coarse-graining far-from-equilibrium dynamics using oblique projectors**|Gerhard Jung|[2609.05217](http://arxiv.org/abs/2609.05217)|[md](abstracts/2609.05217.md)|
+|**2026-09-04**|**Molecular interfacial rheology: Lipid membrane shear viscosity**|Zhi-Xun Xu et al.|[2609.05373](http://arxiv.org/abs/2609.05373)|[md](abstracts/2609.05373.md)|
 |**2026-09-03**|**Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter**|Kingshuk Panja et al.|[2609.03991](http://arxiv.org/abs/2609.03991)|[md](abstracts/2609.03991.md)|
 |**2026-09-02**|**Pure FENE Bond Potential for Soft Matter and Biological Simulations: Theory, HOOMD-blue Implementation, and Applications to Polymer, Colloidal, and Membrane Systems**|Anirban Polley|[2609.02627](http://arxiv.org/abs/2609.02627)|[md](abstracts/2609.02627.md)|
+|**2026-09-02**|**Critical emergence of quantum theory, spacetime and gravity from generalised trace dynamics**|Tejinder P. Singh|[2609.10571](http://arxiv.org/abs/2609.10571)|[md](abstracts/2609.10571.md)|
 |**2026-09-01**|**Nonmonotonic control of pattern formation by chemotaxis**|Mintu Karmakar et al.|[2609.01127](http://arxiv.org/abs/2609.01127)|[md](abstracts/2609.01127.md)|
 |**2026-09-01**|**Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model**|Mintu Karmakar et al.|[2609.01159](http://arxiv.org/abs/2609.01159)|[md](abstracts/2609.01159.md)|
 |**2026-08-27**|**Phase transitions and microphases in elastomers. II. Anisotropy-driven morphologies**|Manu Mannattil et al.|[2608.26520](http://arxiv.org/abs/2608.26520)|[md](abstracts/2608.26520.md)|
@@ -226,42 +255,22 @@
 |**2026-08-20**|**Boltzmann counting in Hilbert space**|Raúl O. Vallejos et al.|[2608.20136](http://arxiv.org/abs/2608.20136)|[md](abstracts/2608.20136.md)|
 |**2026-08-20**|**A Zoology of Quantum Turing Patterns**|Kazuki Ikeda|[2608.20151](http://arxiv.org/abs/2608.20151)|[md](abstracts/2608.20151.md)|
 |**2026-08-20**|**Splitting probabilities for Brownian motion with diffusing boundaries: Application to polymer translocation**|Alexander K. Hartmann et al.|[2608.20226](http://arxiv.org/abs/2608.20226)|[md](abstracts/2608.20226.md)|
-|**2026-08-16**|**Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites**|Nuo Xu et al.|[2608.15570](http://arxiv.org/abs/2608.15570)|[md](abstracts/2608.15570.md)|
-|**2026-08-14**|**Energy Partitioning in Dust-catalyzed $\mathrm{H_2}$ and HD Formation Revealed by Molecular Simulations Considering Nuclear Quantum Effects**|Xiaolong Yang et al.|[2608.13843](http://arxiv.org/abs/2608.13843)|[md](abstracts/2608.13843.md)|
-|**2026-08-14**|**Generalizing the multidimensional thermodynamic uncertainty relation to combinations of arbitrary counting variables**|Niklas Buschmann et al.|[2608.14276](http://arxiv.org/abs/2608.14276)|[md](abstracts/2608.14276.md)|
-|**2026-08-13**|**Capillary self-folding chains**|Megan Delens et al.|[2608.13349](http://arxiv.org/abs/2608.13349)|[md](abstracts/2608.13349.md)|
-|**2026-08-13**|**Aperiodicity is sufficient for macroscopic thermalization**|Amit Vikram|[2608.13462](http://arxiv.org/abs/2608.13462)|[md](abstracts/2608.13462.md)|
-|**2026-08-13**|**Far-from-equilibrium scaling of non-abelian Goldstone modes**|Carl Philipp Zelle et al.|[2608.13666](http://arxiv.org/abs/2608.13666)|[md](abstracts/2608.13666.md)|
-|**2026-08-12**|**Density-Selected Topological Pathways in the Melting of Single-Particle-Thick Stripes**|José Rafael Bordin|[2608.11880](http://arxiv.org/abs/2608.11880)|[md](abstracts/2608.11880.md)|
-|**2026-08-12**|**Dynamics of fluctuating populations in multi-state switching environments**|Mauro Mobilia|[2608.12208](http://arxiv.org/abs/2608.12208)|[md](abstracts/2608.12208.md)|
-|**2026-08-11**|**Work distribution for strongly coupled many-body open quantum systems**|H. T. M. Nghiem et al.|[2608.11196](http://arxiv.org/abs/2608.11196)|[md](abstracts/2608.11196.md)|
-|**2026-08-11**|**A piston-like polymer stochastic heat engine**|Yi-Jui Chiu et al.|[2608.11507](http://arxiv.org/abs/2608.11507)|[md](abstracts/2608.11507.md)|
-|**2026-08-10**|**Quantum-Classical Coexistence Network Tomography**|Xuchuang Wang et al.|[2608.09364](http://arxiv.org/abs/2608.09364)|[md](abstracts/2608.09364.md)|
-|**2026-08-10**|**Sampling Free Energy Landscapes of Ionic Colloidal Crystal Systems using Machine-Learned Proxy Collective Variables**|Michael S. Chen et al.|[2608.09714](http://arxiv.org/abs/2608.09714)|[md](abstracts/2608.09714.md)|
-|**2026-08-09**|**A General Theory for Phenotypic Association in Biological Systems**|Giuseppe Battaglia|[2608.08571](http://arxiv.org/abs/2608.08571)|[md](abstracts/2608.08571.md)|
-|**2026-08-08**|**Turning angle analysis reveals hidden anisotropies in the anomalous diffusion of molecules in live cells**|Michał Balcerek et al.|[2608.07975](http://arxiv.org/abs/2608.07975)|[md](abstracts/2608.07975.md)|
-|**2026-08-08**|**A Shared Observation Shields Collective Fluctuations while Preserving Local Independence**|Hu Cang|[2608.08358](http://arxiv.org/abs/2608.08358)|[md](abstracts/2608.08358.md)|
-|**2026-08-07**|**Active Brownian motion in a single-relaxation viscoelastic fluid**|Sanatan Halder et al.|[2608.07059](http://arxiv.org/abs/2608.07059)|[md](abstracts/2608.07059.md)|
-|**2026-08-07**|**Distribution of the Radius of Gyration for an ISAW**|Antony Lesage et al.|[2608.07195](http://arxiv.org/abs/2608.07195)|[md](abstracts/2608.07195.md)|
-|**2026-08-07**|**Homojunction-induced thermopower enhancement in polymer films**|Zhen Xu et al.|[2608.07266](http://arxiv.org/abs/2608.07266)|[md](abstracts/2608.07266.md)|
-|**2026-08-06**|**Morphology of frozen labyrinths from irreversible threshold dynamics**|Daniel Richard Levy|[2608.05496](http://arxiv.org/abs/2608.05496)|[md](abstracts/2608.05496.md)|
-|**2026-08-06**|**From expansion to collapse: Bubble and continuum multiscale modeling in open-system magmas**|Janine Birnbaum et al.|[2608.06181](http://arxiv.org/abs/2608.06181)|[md](abstracts/2608.06181.md)|
-|**2026-08-05**|**Quantized topological invariant of symmetry-projected Gibbs states**|Weiguang Cao et al.|[2608.04350](http://arxiv.org/abs/2608.04350)|[md](abstracts/2608.04350.md)|
-|**2026-08-05**|**Unveiling the Role of Friction in Coarse-Grained Clay: A Hybrid Framework Integrating Long-Range Interactions and Granular Contact Mechanics**|Wang-Qi Xu et al.|[2608.04359](http://arxiv.org/abs/2608.04359)|[md](abstracts/2608.04359.md)|
-|**2026-08-05**|**An improved car-oriented mean-field theory for stochastic traffic flow models**|Yasar Efe Dai et al.|[2608.04731](http://arxiv.org/abs/2608.04731)|[md](abstracts/2608.04731.md)|
-|**2026-08-05**|**Scaling behavior in non-reciprocal and odd conserved dynamics near criticality**|Martin Kjøllesdal Johnsrud et al.|[2608.05027](http://arxiv.org/abs/2608.05027)|[md](abstracts/2608.05027.md)|
-|**2026-08-05**|**Next Generation of Ultra-Coarse-Graining: Self-Consistent Inference of Critical Internal States**|Weizhi Xue et al.|[2608.05388](http://arxiv.org/abs/2608.05388)|[md](abstracts/2608.05388.md)|
-|**2026-08-04**|**Lower bounds on entropy production from dynamical correlation functions**|Paul Raux et al.|[2608.03619](http://arxiv.org/abs/2608.03619)|[md](abstracts/2608.03619.md)|
-|**2026-08-04**|**A Spectral Route to Directed-Polymer Glasses**|Sen Mu et al.|[2608.03730](http://arxiv.org/abs/2608.03730)|[md](abstracts/2608.03730.md)|
-|**2026-08-04**|**Accelerated quantum Monte Carlo simulations of the attractive Hubbard model on the kagome lattice**|Jie Zhang et al.|[2608.03894](http://arxiv.org/abs/2608.03894)|[md](abstracts/2608.03894.md)|
-|**2026-08-04**|**Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics**|Partha Sarathi Mondal et al.|[2608.20404](http://arxiv.org/abs/2608.20404)|[md](abstracts/2608.20404.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Microstructure, Morphology & Characterization
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-15**|**Adsorbing Boundaries Stratify the Kinetics of Confined Colloidal Phase Separation**|Kui Lin et al.|[2609.16583](http://arxiv.org/abs/2609.16583)|[md](abstracts/2609.16583.md)|
+|**2026-09-15**|**Enhanced thermal stability of SiGeSn by suppressing surface-mediated degradation**|Anis Attiaoui et al.|[2609.17504](http://arxiv.org/abs/2609.17504)|[md](abstracts/2609.17504.md)|
+|**2026-09-10**|**From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes**|Alireza F. Behbahani et al.|[2609.04548](http://arxiv.org/abs/2609.04548)|[md](abstracts/2609.04548.md)|
+|**2026-09-09**|**Effect of Spherical Confinement on the 2-TIPS of Soft Repulsive Spherocylinders**|Jaydeep Mandal et al.|[2609.10014](http://arxiv.org/abs/2609.10014)|[md](abstracts/2609.10014.md)|
+|**2026-09-09**|**Direct separation of intra- and inter-molecular contributions in pulse dipolar EPR experiments**|Olga Vojtiskova et al.|[2609.10204](http://arxiv.org/abs/2609.10204)|[md](abstracts/2609.10204.md)|
+|**2026-09-07**|**Aggressive Phase Separation in Dense Mixtures of Passive and Active Particles**|Purnendu Pathak et al.|[2609.07572](http://arxiv.org/abs/2609.07572)|[md](abstracts/2609.07572.md)|
+|**2026-09-07**|**Directional memory of early spectral selection during spinodal decomposition in finite systems**|Boliang Yu et al.|[2609.07764](http://arxiv.org/abs/2609.07764)|[md](abstracts/2609.07764.md)|
+|**2026-09-07**|**Substrate-induced crystallisation in polymers: Exceptional impact of prefreezing versus heterogeneous nucleation on kinetics and morphology**|Marthinus van Niekerk et al.|[2609.07973](http://arxiv.org/abs/2609.07973)|[md](abstracts/2609.07973.md)|
+|**2026-09-04**|**Liquid-liquid phase separation precedes crystallization in supercooled water-glycerol solutions**|Iason Andronis et al.|[2609.04929](http://arxiv.org/abs/2609.04929)|[md](abstracts/2609.04929.md)|
 |**2026-09-03**|**Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter**|Kingshuk Panja et al.|[2609.03991](http://arxiv.org/abs/2609.03991)|[md](abstracts/2609.03991.md)|
 |**2026-09-01**|**Spectral element lattice Boltzmann method for non-ideal gases with partial wetting boundary condition**|Chunheng Zhao et al.|[2609.00535](http://arxiv.org/abs/2609.00535)|[md](abstracts/2609.00535.md)|
 |**2026-08-26**|**Multiple pattern formation in quorum sensing of density enhanced motility**|Itay Azizi|[2608.25324](http://arxiv.org/abs/2608.25324)|[md](abstracts/2608.25324.md)|
@@ -303,17 +312,8 @@
 |**2026-07-17**|**How Topology Shapes the Phase Behavior of Polyelectrolytes**|David Beyer et al.|[2607.15703](http://arxiv.org/abs/2607.15703)|[md](abstracts/2607.15703.md)|
 |**2026-07-16**|**Memory-Driven Self-Propulsion and Flocking of Chemically Active Droplets**|Samuel Kovach et al.|[2607.14451](http://arxiv.org/abs/2607.14451)|[md](abstracts/2607.14451.md)|
 |**2026-07-16**|**Light-activated Janus particles in geometrically confined binary solvent**|Michał Przerwa et al.|[2607.15085](http://arxiv.org/abs/2607.15085)|[md](abstracts/2607.15085.md)|
-|**2026-07-13**|**Bulk and microphase separation in chiral active systems**|Sumeja Bureković et al.|[2607.12045](http://arxiv.org/abs/2607.12045)|[md](abstracts/2607.12045.md)|
-|**2026-07-10**|**Semi-Empirical Kinetic Model for Phase Selection in Rapidly Solidified Multicomponent Concentrated Alloys**|O. I. Kushnerov et al.|[2607.09321](http://arxiv.org/abs/2607.09321)|[md](abstracts/2607.09321.md)|
-|**2026-07-10**|**Dispersion Polymerization in an Elastomeric Solvent**|Senthilkumar Duraivel et al.|[2607.09387](http://arxiv.org/abs/2607.09387)|[md](abstracts/2607.09387.md)|
-|**2026-07-09**|**Observation of giant nonvolatile magneto-thermal switching in superconductor-ferromagnet hybrids**|Yui Sakamoto et al.|[2607.08005](http://arxiv.org/abs/2607.08005)|[md](abstracts/2607.08005.md)|
-|**2026-07-09**|**Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States**|Siyuan Jiang et al.|[2607.08176](http://arxiv.org/abs/2607.08176)|[md](abstracts/2607.08176.md)|
-|**2026-07-08**|**Density-Induced Reentrant Coarsening in a Two-Temperature System**|Partha Sarathi Mondal et al.|[2607.07113](http://arxiv.org/abs/2607.07113)|[md](abstracts/2607.07113.md)|
-|**2026-07-06**|**Cross-Scale Performance Analysis of Metaheuristic Algorithms for Simultaneous DG and DSTATCOM Placement in Radial Distribution Networks**|Md. Tanvirul Islam|[2607.04954](http://arxiv.org/abs/2607.04954)|[md](abstracts/2607.04954.md)|
-|**2026-07-06**|**Biophysics of the Pyrenoid**|Charley Schaefer et al.|[2607.05154](http://arxiv.org/abs/2607.05154)|[md](abstracts/2607.05154.md)|
-|**2026-07-03**|**CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty**|Mingrui Yu et al.|[2607.03557](http://arxiv.org/abs/2607.03557)|[md](abstracts/2607.03557.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Synthesis, Kinetics & Automation
 
@@ -345,12 +345,14 @@
 |**2024-08-27**|**Automated Synthesis of Quantum Algorithms via Classical Numerical Techniques**|Yuxin Huang et al.|[2408.15225](http://arxiv.org/abs/2408.15225)|[md](abstracts/2408.15225.md)|
 |**2024-08-19**|**BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**|Yifei Yang et al.|[2408.10285](http://arxiv.org/abs/2408.10285)|[md](abstracts/2408.10285.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Processing, Manufacturing & Composites
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-15**|**Extending high value components performances with Additive Manufacturing: application to naval applications**|Matthieu Rauch et al.|[2609.17104](http://arxiv.org/abs/2609.17104)|[md](abstracts/2609.17104.md)|
+|**2026-09-13**|**Anisotropic Nanoparticle Rejamming Triggers Thermodynamic Cavitation in Elastomer Nanocomposites**|Harshad Bhapkar et al.|[2609.14540](http://arxiv.org/abs/2609.14540)|[md](abstracts/2609.14540.md)|
 |**2026-09-07**|**Elastoplastic inherent strain-based topology optimization for residual stress reduction in metal additive manufacturing**|Takao Miki et al.|[2609.07337](http://arxiv.org/abs/2609.07337)|[md](abstracts/2609.07337.md)|
 |**2026-09-06**|**Machine learning for the design and prediction of soft-magnetic electromagnetic shielding FeCo-based alloys in laser cladding**|Luting Wang et al.|[2609.06417](http://arxiv.org/abs/2609.06417)|[md](abstracts/2609.06417.md)|
 |**2026-09-02**|**A meshfree solver for coupled bulk-surface problems with self-organizing surface geometry**|Lennart J. Schulze et al.|[2609.02489](http://arxiv.org/abs/2609.02489)|[md](abstracts/2609.02489.md)|
@@ -399,15 +401,21 @@
 |**2026-06-18**|**Multi-Head Attention-Based Feature Extractor Integration with Soft Actor-Critic for Porosity Prediction and Process Parameter Optimization in Additive Manufacturing**|Kianoush Aqabakee et al.|[2606.20087](http://arxiv.org/abs/2606.20087)|[md](abstracts/2606.20087.md)|
 |**2026-06-17**|**A hybrid sharp-diffuse interface approach to accurately model melt pool dynamics with rapid evaporation in laser-based processing of metals**|Nils Much et al.|[2606.19556](http://arxiv.org/abs/2606.19556)|[md](abstracts/2606.19556.md)|
 |**2026-06-17**|**A Hybrid Quantum-Classical Approach for Melt Pool Prediction in Laser Powder Bed Fusion**|Matthew M. Sato et al.|[2606.23719](http://arxiv.org/abs/2606.23719)|[md](abstracts/2606.23719.md)|
-|**2026-06-10**|**Effect of Additively Manufactured Wall Lattice Structures on Flashback Limits in a Hydrogen Jet Flame Combustor**|Alexander Jaeschke et al.|[2606.12302](http://arxiv.org/abs/2606.12302)|[md](abstracts/2606.12302.md)|
-|**2026-06-09**|**Neural electron backscatter diffraction**|I-Tzu Huang et al.|[2606.10352](http://arxiv.org/abs/2606.10352)|[md](abstracts/2606.10352.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Sustainability & Functional Applications
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-14**|**Occupancy Network-Guided Autonomous Robotic Partial Nephrectomy**|Ethan Kilmer et al.|[2609.16186](http://arxiv.org/abs/2609.16186)|[md](abstracts/2609.16186.md)|
+|**2026-09-13**|**Interfacial Engineering Enabled High-Resolution Stretchable Metal-Level Conductive Lines and Transparent Conductor**|Ke Chen et al.|[2609.14311](http://arxiv.org/abs/2609.14311)|[md](abstracts/2609.14311.md)|
+|**2026-09-13**|**Binder chemistry sets the interfacial balance constant in CsPbBr$_3$ nanocrystal supercapacitor electrodes**|Arun Kumar et al.|[2609.14588](http://arxiv.org/abs/2609.14588)|[md](abstracts/2609.14588.md)|
+|**2026-09-10**|**Colloidal shadows reveal hidden solute transport**|Haoyu Liu et al.|[2609.12130](http://arxiv.org/abs/2609.12130)|[md](abstracts/2609.12130.md)|
+|**2026-09-09**|**Direct separation of intra- and inter-molecular contributions in pulse dipolar EPR experiments**|Olga Vojtiskova et al.|[2609.10204](http://arxiv.org/abs/2609.10204)|[md](abstracts/2609.10204.md)|
+|**2026-09-07**|**Aggressive Phase Separation in Dense Mixtures of Passive and Active Particles**|Purnendu Pathak et al.|[2609.07572](http://arxiv.org/abs/2609.07572)|[md](abstracts/2609.07572.md)|
+|**2026-09-04**|**Liquid-liquid phase separation precedes crystallization in supercooled water-glycerol solutions**|Iason Andronis et al.|[2609.04929](http://arxiv.org/abs/2609.04929)|[md](abstracts/2609.04929.md)|
+|**2026-09-03**|**A discrete crack-tip theory for nonlinear lattice networks**|Jiabin Liu et al.|[2609.04568](http://arxiv.org/abs/2609.04568)|[md](abstracts/2609.04568.md)|
 |**2026-08-27**|**Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections**|Stefan Goppelt et al.|[2608.26717](http://arxiv.org/abs/2608.26717)|[md](abstracts/2608.26717.md)|
 |**2026-08-22**|**Non-uniform swelling of polyelectrolyte hydrogels: effects of charge regulation**|Du Chen et al.|[2608.21698](http://arxiv.org/abs/2608.21698)|[md](abstracts/2608.21698.md)|
 |**2026-08-20**|**Cooperative effects of membrane confinement and gelation on PEG crystallization pathway**|Masaki Yoshida et al.|[2608.19724](http://arxiv.org/abs/2608.19724)|[md](abstracts/2608.19724.md)|
@@ -450,21 +458,18 @@
 |**2026-05-13**|**Kin-ematic Exclusion in Active Matter: Modelling Mutual Inhibition in \textit{Pseudomonas aeruginosa} Sibling Colonies**|Dario Buonomo et al.|[2605.13927](http://arxiv.org/abs/2605.13927)|[md](abstracts/2605.13927.md)|
 |**2026-05-12**|**Nanostructure of PEGDA-PEG hydrogel membranes and how it controls their permeability**|Sixtine de Chateauneuf-Randon et al.|[2605.11719](http://arxiv.org/abs/2605.11719)|[md](abstracts/2605.11719.md)|
 |**2026-05-11**|**A molecular perspective on coordination, screening, and emergent length scales in lithium electrolytes**|A. Coste et al.|[2605.10089](http://arxiv.org/abs/2605.10089)|[md](abstracts/2605.10089.md)|
-|**2026-05-07**|**Exploring the Potential of Ternary Blending for Two and Three-Junction RAINBOW Solar Cells**|Francesc Xavier Capella-Guardià et al.|[2605.07718](http://arxiv.org/abs/2605.07718)|[md](abstracts/2605.07718.md)|
-|**2026-05-06**|**On Electropolymerized Fingerprints and their Potential for Identification and Encryption**|Antoine Baron et al.|[2605.04599](http://arxiv.org/abs/2605.04599)|[md](abstracts/2605.04599.md)|
-|**2026-05-05**|**Linear and Non-Linear Rheology of Single and Double Cross-Linked Biopolymer Networks under Viscous Shear Flow**|Nasrollah Hajaliakbari et al.|[2605.03728](http://arxiv.org/abs/2605.03728)|[md](abstracts/2605.03728.md)|
-|**2026-05-03**|**Hindered transport of spherical particles in cylindrical pores: The role of structural heterogeneity in rejection-permeability trade-offs**|Debanik Bhattacharjee et al.|[2605.01820](http://arxiv.org/abs/2605.01820)|[md](abstracts/2605.01820.md)|
-|**2026-05-02**|**Loop expansion in polymer field theory: application to phase separation**|Kiyoharu Kawana et al.|[2605.01261](http://arxiv.org/abs/2605.01261)|[md](abstracts/2605.01261.md)|
-|**2026-04-30**|**Universal Nano-Bead Emitter Inks for Programmable Nanometric Fluorescent Architectures**|Ilya Olevsko et al.|[2604.27726](http://arxiv.org/abs/2604.27726)|[md](abstracts/2604.27726.md)|
-|**2026-04-29**|**Linear poroelastic response of thin permeable gel films**|Caroline Kopecz-Muller et al.|[2604.26464](http://arxiv.org/abs/2604.26464)|[md](abstracts/2604.26464.md)|
-|**2026-04-29**|**Confinement-Connectivity Coupling Enables High-Efficiency Piezoionic Transduction**|Tofayel Ahammad Ovee et al.|[2604.27240](http://arxiv.org/abs/2604.27240)|[md](abstracts/2604.27240.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Conducting, Responsive & Compartment Polymers
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-13**|**Interfacial Engineering Enabled High-Resolution Stretchable Metal-Level Conductive Lines and Transparent Conductor**|Ke Chen et al.|[2609.14311](http://arxiv.org/abs/2609.14311)|[md](abstracts/2609.14311.md)|
+|**2026-09-13**|**Binder chemistry sets the interfacial balance constant in CsPbBr$_3$ nanocrystal supercapacitor electrodes**|Arun Kumar et al.|[2609.14588](http://arxiv.org/abs/2609.14588)|[md](abstracts/2609.14588.md)|
+|**2026-09-09**|**Direct separation of intra- and inter-molecular contributions in pulse dipolar EPR experiments**|Olga Vojtiskova et al.|[2609.10204](http://arxiv.org/abs/2609.10204)|[md](abstracts/2609.10204.md)|
+|**2026-09-07**|**Aggressive Phase Separation in Dense Mixtures of Passive and Active Particles**|Purnendu Pathak et al.|[2609.07572](http://arxiv.org/abs/2609.07572)|[md](abstracts/2609.07572.md)|
+|**2026-09-04**|**Liquid-liquid phase separation precedes crystallization in supercooled water-glycerol solutions**|Iason Andronis et al.|[2609.04929](http://arxiv.org/abs/2609.04929)|[md](abstracts/2609.04929.md)|
 |**2026-08-19**|**UBio-MolFM: Enabling Biomolecular Dynamics at DFT Accuracy and $10^5$ Atoms with One Untuned Potential**|Lin Huang et al.|[2608.18623](http://arxiv.org/abs/2608.18623)|[md](abstracts/2608.18623.md)|
 |**2026-08-18**|**Polyaniline as a conductive polymer and its role in improving the efficiency and conductivity of perovskite solar cells**|Mehran Hosseinzadeh Dizaj|[2608.24924](http://arxiv.org/abs/2608.24924)|[md](abstracts/2608.24924.md)|
 |**2026-08-07**|**Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation**|Siqi Wang et al.|[2608.07130](http://arxiv.org/abs/2608.07130)|[md](abstracts/2608.07130.md)|
@@ -510,18 +515,23 @@
 |**2025-12-18**|**Predicting the Interfacial Energy and Morphology of DNA Condensates**|Sihan Liu et al.|[2512.16150](http://arxiv.org/abs/2512.16150)|[md](abstracts/2512.16150.md)|
 |**2025-12-02**|**Size control guidelines for chemically active droplets**|Guido Kusters et al.|[2512.02542](http://arxiv.org/abs/2512.02542)|[md](abstracts/2512.02542.md)|
 |**2025-11-22**|**Active motility and wetting cooperatively regulate liquid-liquid phase separation**|Dixi Yang et al.|[2511.18077](http://arxiv.org/abs/2511.18077)|[md](abstracts/2511.18077.md)|
-|**2025-11-13**|**Physics of droplet regulation in biological cells**|David Zwicker et al.|[2501.13639](http://arxiv.org/abs/2501.13639)|[md](abstracts/2501.13639.md)|
-|**2025-11-11**|**(Dis-)appearance of liquid-liquid phase transitions in a heterogeneous activated patchy particle model and experiment**|Furio Surfaro et al.|[2511.08123](http://arxiv.org/abs/2511.08123)|[md](abstracts/2511.08123.md)|
-|**2025-11-10**|**Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors**|Lukas M. Bongartz et al.|[2412.07921](http://arxiv.org/abs/2412.07921)|[md](abstracts/2412.07921.md)|
-|**2025-11-10**|**edible polysaccharides as stabilizers and carriers for the delivery of phenolic compounds and pigments in food formulations**|Liliane Siqueira de Oliveira et al.|[2511.07264](http://arxiv.org/abs/2511.07264)|[md](abstracts/2511.07264.md)|
-|**2025-11-06**|**Nonequilibrium dynamics of membraneless active droplets**|Chenxi Liu et al.|[2511.04181](http://arxiv.org/abs/2511.04181)|[md](abstracts/2511.04181.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## Informatics & Data Infrastructure
 
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
+|**2026-09-15**|**In-Situ Quantum Optical Measurement for Colloidal Quantum Dots Confined in an Optical Trap**|Zhi-Bo Ni et al.|[2609.16692](http://arxiv.org/abs/2609.16692)|[md](abstracts/2609.16692.md)|
+|**2026-09-13**|**Language-Guided Representation Learning for Robust Cross-Sensor Material Recognition**|Mashood M. Mohsan et al.|[2609.14783](http://arxiv.org/abs/2609.14783)|[md](abstracts/2609.14783.md)|
+|**2026-09-11**|**First application of the transcorrelated method to noncovalent interactions: The A24 dataset**|Johannes Hauskrecht et al.|[2609.13018](http://arxiv.org/abs/2609.13018)|[md](abstracts/2609.13018.md)|
+|**2026-09-10**|**Optical effects of one-sided Kiselev-type quintessence in reflection-asymmetric polymer thin-shell wormholes**|Jonathan A. Rebouças et al.|[2609.12000](http://arxiv.org/abs/2609.12000)|[md](abstracts/2609.12000.md)|
+|**2026-09-10**|**Colloidal shadows reveal hidden solute transport**|Haoyu Liu et al.|[2609.12130](http://arxiv.org/abs/2609.12130)|[md](abstracts/2609.12130.md)|
+|**2026-09-08**|**BIFTA: Brain-Inspired Few-Shot Tactile Adaptation for Unknown Sensors**|Boheng Liu et al.|[2609.08673](http://arxiv.org/abs/2609.08673)|[md](abstracts/2609.08673.md)|
+|**2026-09-08**|**Structure-Informed Bayesian Inference of Anomalous Transport and Hidden Molecular Trapping in Amorphous Media**|Andrey Ananev et al.|[2609.08780](http://arxiv.org/abs/2609.08780)|[md](abstracts/2609.08780.md)|
+|**2026-09-07**|**Dynamic compensation of diffusion-limited oxygen sensing with deep learning**|Nikolaos Salaris et al.|[2609.07625](http://arxiv.org/abs/2609.07625)|[md](abstracts/2609.07625.md)|
+|**2026-09-03**|**A Silicon-Compatible Uncooled Compact Broadband Infrared Spectrometer**|A. Nomezine et al.|[2609.03284](http://arxiv.org/abs/2609.03284)|[md](abstracts/2609.03284.md)|
+|**2026-09-02**|**The 2024 MRSI Data Processing and Quantification Challenge Synthetic Dataset**|John T. LaMaster et al.|[2609.02637](http://arxiv.org/abs/2609.02637)|[md](abstracts/2609.02637.md)|
 |**2026-08-27**|**Soft Active Electromyography Interface for Machine Learning-Enabled Silent Speech Recognition**|Yuta Kurotaki et al.|[2608.27048](http://arxiv.org/abs/2608.27048)|[md](abstracts/2608.27048.md)|
 |**2026-08-26**|**Optical extinction and near-field properties of plasmonic dimers: Role of particle shape and separation**|Gino Wegner et al.|[2608.26073](http://arxiv.org/abs/2608.26073)|[md](abstracts/2608.26073.md)|
 |**2026-08-25**|**Conformation-Mediated Kinetics of Polymer Chain Scission under Tension**|Jie Zhu et al.|[2608.24378](http://arxiv.org/abs/2608.24378)|[md](abstracts/2608.24378.md)|
@@ -562,18 +572,8 @@
 |**2026-06-09**|**Reflection-Positive Construction of a Four-Dimensional SU(N) Yang-Mills Theory with Mass Gap and Confinement**|Mir Faizal et al.|[2606.19362](http://arxiv.org/abs/2606.19362)|[md](abstracts/2606.19362.md)|
 |**2026-06-08**|**No need to stay positive: a practical approach to direct numerical simulations of elastic turbulence**|Damiano Capocci et al.|[2606.09468](http://arxiv.org/abs/2606.09468)|[md](abstracts/2606.09468.md)|
 |**2026-06-08**|**POPSICLE: Benchmark Datasets for Segmentation and Localization in CryoET**|Jonathan Schwartz et al.|[2606.10255](http://arxiv.org/abs/2606.10255)|[md](abstracts/2606.10255.md)|
-|**2026-06-07**|**Protein Dynamics Beyond Structure Prediction**|Juliette Griffié et al.|[2606.08647](http://arxiv.org/abs/2606.08647)|[md](abstracts/2606.08647.md)|
-|**2026-06-05**|**Decision-Aware Evaluation of Physics-Informed Surrogates**|Daniel Cieślak et al.|[2606.07146](http://arxiv.org/abs/2606.07146)|[md](abstracts/2606.07146.md)|
-|**2026-06-05**|**Detective scaffolding for within-session reasoning development: a three-phase framework evaluated in polymer engineering and pre-university outreach**|Haolin Feng et al.|[2606.07279](http://arxiv.org/abs/2606.07279)|[md](abstracts/2606.07279.md)|
-|**2026-06-04**|**Polymer quantum mechanics on compact configuration spaces**|Maxwell R. Siebersma et al.|[2606.06019](http://arxiv.org/abs/2606.06019)|[md](abstracts/2606.06019.md)|
-|**2026-06-04**|**PolyGraphPy: A unified Python framework for atomistic simulation and machine learning-driven polymer design**|João G. C. S. Duarte et al.|[2606.06415](http://arxiv.org/abs/2606.06415)|[md](abstracts/2606.06415.md)|
-|**2026-06-01**|**Physically-Motivated Primitive Path Analysis of Entangled Polymer Networks**|B M Shahi Sifat Mottaqin et al.|[2606.02174](http://arxiv.org/abs/2606.02174)|[md](abstracts/2606.02174.md)|
-|**2026-05-28**|**Lingering Sweetness of Ethanol Clusters: Sensory Discovery and Objective Discrimination by Impedance-Based Electronic Tongue**|Jiaxin Peng et al.|[2605.29530](http://arxiv.org/abs/2605.29530)|[md](abstracts/2605.29530.md)|
-|**2026-05-28**|**Exact Solution of the Discrete Wormlike Chain Model**|Benaoumeur Bakhti|[2605.29743](http://arxiv.org/abs/2605.29743)|[md](abstracts/2605.29743.md)|
-|**2026-05-28**|**Hysteretic Acoustic Band Structures in Shape-Memory Composite Thin Rods**|R. Esquivel-Sirvent et al.|[2605.30028](http://arxiv.org/abs/2605.30028)|[md](abstracts/2605.30028.md)|
-|**2026-05-28**|**Role of structure and charge trapping on the bipolaron formation and magnetic-field response of gated conjugated polymers**|Zuchong Yang et al.|[2605.30196](http://arxiv.org/abs/2605.30196)|[md](abstracts/2605.30196.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer dynamics, glass transition
 
@@ -585,7 +585,7 @@
 |**2025-03-10**|**Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions**|Anoop Mutneja et al.|[2503.07436](http://arxiv.org/abs/2503.07436)|[md](abstracts/2503.07436.md)|
 |**2024-08-21**|**Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids**|Anoop Mutneja et al.|[2408.11647](http://arxiv.org/abs/2408.11647)|[md](abstracts/2408.11647.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:soft matter, active matter
 
@@ -601,7 +601,7 @@
 |**2024-10-24**|**Statistical properties of microphase and bubbly phase-separated active fluids**|Giordano Fausti et al.|[2410.18770](http://arxiv.org/abs/2410.18770)|[md](abstracts/2410.18770.md)|
 |**2024-09-10**|**Hyperuniformity in phase ordering: the roles of activity, noise, and non-constant mobility**|Filippo De Luca et al.|[2405.00508](http://arxiv.org/abs/2405.00508)|[md](abstracts/2405.00508.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer informatics, Polymer Genome
 
@@ -627,7 +627,7 @@
 |**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
 |**2024-09-08**|**A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity**|Ayush Jain et al.|[2409.05240](http://arxiv.org/abs/2409.05240)|[md](abstracts/2409.05240.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer ML, materials informatics
 
@@ -643,7 +643,7 @@
 |**2025-02-24**|**An Explainable AI Model for Binary LJ Fluids**|Israrul H Hashmi et al.|[2502.17357](http://arxiv.org/abs/2502.17357)|[md](abstracts/2502.17357.md)|
 |**2024-09-15**|**Extrapolative ML Models for Copolymers**|Israrul H. Hashmi et al.|[2409.09691](http://arxiv.org/abs/2409.09691)|[md](abstracts/2409.09691.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer thermodynamics
 
@@ -652,7 +652,7 @@
 |**2025-10-10**|**Simulating dynamic bonding in soft materials**|Tyla R. Holoman et al.|[2510.08879](http://arxiv.org/abs/2510.08879)|[md](abstracts/2510.08879.md)|
 |**2024-09-23**|**Plasmonic Metal Oxide Nanocrystals as Building Blocks for Infrared Metasurfaces**|Woo Je Chang et al.|[2409.15573](http://arxiv.org/abs/2409.15573)|[md](abstracts/2409.15573.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer property prediction
 
@@ -664,7 +664,7 @@
 |**2025-07-23**|**All-sky search for long-duration gravitational-wave transients in the first part of the fourth LIGO-Virgo-KAGRA Observing run**|The LIGO Scientific Collaboration et al.|[2507.12282](http://arxiv.org/abs/2507.12282)|[md](abstracts/2507.12282.md)|
 |**2024-12-11**|**Polymer Composites Informatics for Flammability, Thermal, Mechanical and Electrical Property Predictions**|Huan Tran et al.|[2412.08407](http://arxiv.org/abs/2412.08407)|[md](abstracts/2412.08407.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer composites, ML for materials
 
@@ -678,7 +678,7 @@
 |**2025-04-01**|**Understanding process-structure-property relation for elastoplastic behavior of polymer nanocomposites with agglomeration anomalies and gradient interphase percolation**|Prajakta Prabhune et al.|[2412.01967](http://arxiv.org/abs/2412.01967)|[md](abstracts/2412.01967.md)|
 |**2025-01-27**|**Time-Integrated Southern-Sky Neutrino Source Searches with 10 Years of IceCube Starting-Track Events at Energies Down to 1 TeV**|R. Abbasi et al.|[2501.16440](http://arxiv.org/abs/2501.16440)|[md](abstracts/2501.16440.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer MD, free energy
 
@@ -693,7 +693,7 @@
 |**2025-04-07**|**IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films**|Joan Montes de Oca et al.|[2504.05179](http://arxiv.org/abs/2504.05179)|[md](abstracts/2504.05179.md)|
 |**2025-02-02**|**Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design**|Ming Han et al.|[2502.00910](http://arxiv.org/abs/2502.00910)|[md](abstracts/2502.00910.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer dynamics, hydrodynamics
 
@@ -703,7 +703,7 @@
 |**2025-05-29**|**Polymer-modulated evaporation flow enables scalable self-assembly of highly aligned nanowires**|Liyiming Tao et al.|[2505.23227](http://arxiv.org/abs/2505.23227)|[md](abstracts/2505.23227.md)|
 |**2025-04-03**|**Response of magnetic particle to rotating magnetic field in viscoelastic fluid**|Han Gao et al.|[2504.02389](http://arxiv.org/abs/2504.02389)|[md](abstracts/2504.02389.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>
 
 ## via:author-whitelist:polymer simulation, soft matter
 
@@ -711,4 +711,4 @@
 |---|---|---|---|---|
 |**2025-05-16**|**Structure and dynamics of ionic liquids under shear flow**|Abbas Gholami et al.|[2505.11007](http://arxiv.org/abs/2505.11007)|[md](abstracts/2505.11007.md)|
 
-<p align=right>(<a href=#updated-on-20260915>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260916>back to top</a>)</p>

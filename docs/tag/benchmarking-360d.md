@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14783.html">Language-Guided Representation Learning for Robust Cross-Sensor Material Recognition</a></div></td>
+<td>Mashood M. Mohsan et al.</td>
+<td><a href="http://arxiv.org/abs/2609.14783">2609.14783</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13018.html">First application of the transcorrelated method to noncovalent interactions: The A24 dataset</a></div></td>
+<td>Johannes Hauskrecht et al.</td>
+<td><a href="http://arxiv.org/abs/2609.13018">2609.13018</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08451.html">A finite-strain logarithmic viscoelastic model for Antarctic ice shelves based on an additive split</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Maxime Nutte et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08451">2609.08451</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08673.html">BIFTA: Brain-Inspired Few-Shot Tactile Adaptation for Unknown Sensors</a></div></td>
+<td>Boheng Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.08673">2609.08673</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03284.html">A Silicon-Compatible Uncooled Compact Broadband Infrared Spectrometer</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
+<td>A. Nomezine et al.</td>
+<td><a href="http://arxiv.org/abs/2609.03284">2609.03284</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02637.html">The 2024 MRSI Data Processing and Quantification Challenge Synthetic Dataset</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
+<td>John T. LaMaster et al.</td>
+<td><a href="http://arxiv.org/abs/2609.02637">2609.02637</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23885.html">A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization</a></div></td>
