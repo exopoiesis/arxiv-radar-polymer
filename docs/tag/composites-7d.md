@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18412.html">Measuring correlations in quantum and statistical systems</a></div></td>
+<td>V. I. Yukalov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18412">2609.18412</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15259.html">Borromean Criticality in Two Dimensions</a></div></td>
 <td>Alexandru Golic et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15259">2609.15259</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10188.html">Topology-dependent mixing of knots in flexible polymer chains</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a></div></td>
-<td>Souradeep Sengupta et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10188">2609.10188</a></td>
 </tr>
 </tbody></table>

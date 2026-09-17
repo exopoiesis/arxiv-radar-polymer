@@ -2284,5 +2284,157 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-09-15"
+ },
+ "2609.17716": {
+  "abstract": "We show that microscopically inversion-asymmetric, permeable active fluid membranes are statistically flat and effectively inversion-symmetric at large scales. Their fluctuations are governed by an asymptotically exact linear hydrodynamic equation giving orientational long-range order and positional quasi-long-range order. At intermediate scales, their dynamics is described by a Kardar-Parisi-Zhang equation with spatially long-range noise, producing rough membranes with short-range translational and long-range orientational order described by exactly known scaling exponents. Active stresses can destabilize the membrane at long wavelengths, while sufficiently strong active permeation flow can drive finite-wavevector instabilities and pattern formation. These results reveal a novel activity-driven route to the destruction of flat fluid membranes.",
+  "authors": [
+   "Debayan Jana",
+   "Astik Haldar",
+   "Abhik Basu"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "Preliminary version",
+  "first_author": "Debayan Jana",
+  "pdf_url": "http://arxiv.org/pdf/2609.17716",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-15",
+  "tags": [
+   "membranes"
+  ],
+  "title": "Activity-induced emergent flatness, instabilities and pattern formation in fluid membranes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-15"
+ },
+ "2609.17990": {
+  "abstract": "Accurate thermal properties of metal thin films are essential for microelectronic thermal modeling and for interpreting thermoreflectance measurements when signals are sensitive to film thermal transport. In practice, film thermal conductivity is commonly inferred from electrical resistivity via the Wiedemann-Franz (WF) law with the Sommerfeld-Lorenz number L_0, neglecting phonon contributions and microstructure-dependent scattering. Here, we combine square-pulsed source (SPS) thermoreflectance with van der Pauw measurements to characterize thermal and electrical transport in Al, Ti, and Ta thin films prepared by thermal evaporation, e-beam evaporation, and magnetron sputtering. SPS measurements from 80 to 300 K yield the film thermal conductivity k_m and volumetric heat capacity C_m, with C_m agreeing with bulk values within +/-8%. Compared with WF-based estimates using L_0 and a modeled resistivity, \\r{ho}_model (T)=\\r{ho}_bulk (T)+\\r{ho}_0, k_m deviates by 5-20% for Al and Ti and up to 40% for sputtered Ta at 300 K. While the smaller deviations are comparable to experimental uncertainty, the large mismatch for Ta demonstrates the limitation of applying the bulk L_0 to highly resistive metal films. Apparent Lorenz numbers L_app=k_m \\r{ho}_meas/T from 150 to 300 K further reveal that deposition-induced disorder, grain-boundary scattering, and possible phase-related effects can modify the correlation between heat and charge transport in thin metal films. These results clarify the applicability of the WF law to deposited metal thin films and offer practical guidance for thermal modeling and thermoreflectance analysis.",
+  "authors": [
+   "Zhiwei Deng",
+   "Jinlong Ma",
+   "Puqing Jiang"
+  ],
+  "categories": [
+   "cond-mat.mes-hall"
+  ],
+  "comment": "24 pages, 6 figures",
+  "first_author": "Zhiwei Deng",
+  "pdf_url": "http://arxiv.org/pdf/2609.17990",
+  "primary_category": "cond-mat.mes-hall",
+  "published": "2026-09-16",
+  "tags": [
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Experimental assessment of the Wiedemann-Franz law in thin metal films using thermoreflectance and electrical measurements",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18093": {
+  "abstract": "We present a general method for estimating entropy differences between arbitrary probability distributions using stochastic interpolants. The marginal distributions which bridge the base and target obey a continuity equation, which allows a straightforward calculation of the entropy difference in terms of an inner product of the probability flow velocity and score fields. This formulation has several advantages: (i) no computationally expensive divergence calculations of either field are required, (ii) the score field need not even be learned directly if model transferability is not required, and (iii) on-the-fly estimates are produced nearly for free during training. When tractable base distributions are chosen (e.g. Gaussian chain, ideal gas, etc.), statistical thermodynamic entropies are then immediately recovered. Notably, the analysis relies only on the definition of the Gibbs-Shannon entropy, rather than any particular statistical mechanical ensemble, so that generalized non-equilibrium entropies may be computed. The method is demonstrated on several systems of increasing complexity: (i) a 40-dimensional Gaussian mixture model, (ii) the classical XY model of N spins arranged in one dimension, (iii) the 13-atom Lennard-Jones cluster, and (iv) an active Brownian polymer.",
+  "authors": [
+   "Phillip M. Rauscher"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Phillip M. Rauscher",
+  "pdf_url": "http://arxiv.org/pdf/2609.18093",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-16",
+  "tags": [],
+  "title": "Entropy Estimates from Stochastic Interpolants",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18364": {
+  "abstract": "Mechanical memristors are systems whose dissipative response depends on the history of previous loading through an evolving internal state. History-dependent forces and dissipation occur in a wide range of materials and devices, including viscoelastic polymers, shape-memory materials, piezoelectrics, granular media and field-responsive fluids. Determining which of these responses admits a mechanical-memristor representation requires a constitutive test, as well as a comparison of scales. In this work, a fractional-order mechanical memristor model is developed and cast into a nondimensional form to identify the governing parameters controlling memory-dependent dissipation. The formulation leads to a set of dimensionless groups that characterise dissipation magnitude, memory-state scale and memory transfer. These quantities are combined into an effective mechanical memristance screening index \\(\\Mh = βγ|\\mathcal H_α(Ω)|\\), which provides a conditional measure of local damping modulation at matched response amplitude, constitutive slope and reference scales. Illustrative parameter scenarios are then constructed for material classes including shape-memory polymers, shape-memory alloys, hydrogels, nanocellulose, lignin-rich materials, natural fibres, piezoelectric polymers, piezoelectric ceramics, electrorheological fluids, magnetorheological fluids and granular dampers. The framework establishes a common basis for comparing memory-dependent damping within the adopted constitutive description and identifies the calibration required for its application to candidate materials and devices",
+  "authors": [
+   "Abdulla Alhembar",
+   "Fabrizio Scarpa",
+   "Chrystel D. L. Remillat",
+   "Rodrigo J. da Silva",
+   "Ross Anderson",
+   "Ludovico Cademartiri",
+   "Abderrezak Bezazi",
+   "James P. K. Armstrong",
+   "Adam W. Perriman"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "45 pages, 3 figures",
+  "first_author": "Abdulla Alhembar",
+  "pdf_url": "http://arxiv.org/pdf/2609.18364",
+  "primary_category": "physics.app-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties"
+  ],
+  "title": "A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18412": {
+  "abstract": "The survey discusses the problem of measuring correlations in composite quantum and statistical systems. After briefly recalling the standard methods of describing correlations, the emphasis is on the method of correlation indices. The latter method for quantifying the strength of correlations in composite physical systems is sufficiently general allowing for measuring in a unique way the correlation strength in both quantum and statistical systems, for static as well as for dynamic processes. The correlation indices, can be defined for correlation operators, reduced density matrices, and other operators containing information on correlations in the studied composite systems. The correlation indices measure all types of correlations, quantum correlations, such as entanglement, as well as classical correlations. They are applicable for characterizing static as well as dynamical processes. Examples are given of correlation indices for several quantum states and for spin and pseudospin systems. The quantification of correlations in a nonequilibrium system is exemplified by calculating the correlation index for a trapped Bose-Einstein condensate subject to the action of an alternating field.",
+  "authors": [
+   "V. I. Yukalov",
+   "E. P. Yukalova"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "Ltex file, 19 pages, 3 figures",
+  "first_author": "V. I. Yukalov",
+  "pdf_url": "http://arxiv.org/pdf/2609.18412",
+  "primary_category": "quant-ph",
+  "published": "2026-09-16",
+  "tags": [
+   "composites"
+  ],
+  "title": "Measuring correlations in quantum and statistical systems",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.18636": {
+  "abstract": "The reuse of metal powders in directed energy deposition using laser powder offers promising sustainability benefits for additive manufacturing, yet its impact on part quality remains unknown. This study investigates the influence of powder reuse on the directed energy deposition process of Inconel 625. Virgin powder was first characterized in terms of flowability, morphology, size and chemical composition, then used to manufacture parts under fixed process parameters. These parts were analysed through two configurations (as-built and hot isostatically pressed) to assess microstructural evolution and mechanical performance. Results show that hot isostatic pressing reduces porosity and promotes grain recrystallization, enhancing ductility while decreasing tensile strength. Recovered powders from one manufacturing cycle, were also characterized. Particle size distribution and morphology remained stable, interstitial contents, particularly oxygen, increased, potentially affecting laser-material interaction and melt pool behaviour in future production. These findings highlight the importance of evaluating powder reuse through a full-process approach, from powder to final part. Future work will focus on the tensile and fatigue performance of parts produced with recovered powders.",
+  "authors": [
+   "Romain Deloffre",
+   "Lorène Héraud",
+   "Julie Lartigau"
+  ],
+  "categories": [
+   "cs.CE"
+  ],
+  "comment": null,
+  "first_author": "Romain Deloffre",
+  "pdf_url": "http://arxiv.org/pdf/2609.18636",
+  "primary_category": "cs.CE",
+  "published": "2026-09-16",
+  "tags": [
+   "additive-manufacturing",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-16"
  }
 }

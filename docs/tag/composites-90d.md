@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18412.html">Measuring correlations in quantum and statistical systems</a></div></td>
+<td>V. I. Yukalov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18412">2609.18412</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-14</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15259.html">Borromean Criticality in Two Dimensions</a></div></td>
 <td>Alexandru Golic et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Jin-Hyuk Seok et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21027">2606.21027</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20403.html">Superconductivity and non-Fermi liquid metals in a charge-1/3 anyon fluid</a></div></td>
-<td>Zhengyan Darius Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.20403">2606.20403</a></td>
 </tr>
 </tbody></table>

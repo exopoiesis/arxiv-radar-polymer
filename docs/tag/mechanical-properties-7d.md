@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
+<td>Abdulla Alhembar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18364">2609.18364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Romain Deloffre et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16903.html">Bayesian inference in active microrheology with wall and particle-particle interactions</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
 <td>Parajal Rai et al.</td>
@@ -56,17 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12229.html">Spreading dynamics of a drop of yield-stress fluid subject to vertical oscillations</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
 <td>Alice Woodbridge et al.</td>
 <td><a href="http://arxiv.org/abs/2609.12229">2609.12229</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.09760.html">Through-thickness coupling of diffusion and viscoelastic relaxation in the transient bending of bilayer microcantilevers</a></div></td>
-<td>YingCheng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.09760">2609.09760</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10908.html">A virtual element method for Kelvin--Voigt viscoelasticity</a></div></td>
-<td>Utkarsh Rajput et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10908">2609.10908</a></td>
 </tr>
 </tbody></table>

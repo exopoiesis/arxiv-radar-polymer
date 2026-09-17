@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-16._
+_Updated 2026-09-17._
 
-**3705** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3711** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.17990.html">Experimental assessment of the Wiedemann-Franz law in thin metal films using thermoreflectance and electrical measurements</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Zhiwei Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17990">2609.17990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18093.html">Entropy Estimates from Stochastic Interpolants</a></div></td>
+<td>Phillip M. Rauscher</td>
+<td><a href="http://arxiv.org/abs/2609.18093">2609.18093</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Abdulla Alhembar et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18364">2609.18364</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18412.html">Measuring correlations in quantum and statistical systems</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
+<td>V. I. Yukalov et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18412">2609.18412</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Romain Deloffre et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.15405.html">A Symmetry-Constrained Fourier--Morse Framework for Compact Anisotropic Interaction Potentials</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -61,6 +91,12 @@ _Updated 2026-09-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.17504.html">Enhanced thermal stability of SiGeSn by suppressing surface-mediated degradation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Anis Attiaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17504">2609.17504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.17716.html">Activity-induced emergent flatness, instabilities and pattern formation in fluid membranes</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
+<td>Debayan Jana et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17716">2609.17716</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-14</td>
@@ -157,41 +193,5 @@ _Updated 2026-09-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13018.html">First application of the transcorrelated method to noncovalent interactions: The A24 dataset</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
 <td>Johannes Hauskrecht et al.</td>
 <td><a href="http://arxiv.org/abs/2609.13018">2609.13018</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13029.html">Geometry of Urban Order</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Marc Barthelemy et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13029">2609.13029</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.04548.html">From Single-Chain Dynamics to Structure Formation: Dynamic Self-Consistent Field Theory and Molecular Dynamics of (Co)polymer Melts across Entanglement Regimes</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Alireza F. Behbahani et al.</td>
-<td><a href="http://arxiv.org/abs/2609.04548">2609.04548</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.11581.html">Low inertia limit of elasto-inertial turbulence</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Shoaib Kamil et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11581">2609.11581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.12000.html">Optical effects of one-sided Kiselev-type quintessence in reflection-asymmetric polymer thin-shell wormholes</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Jonathan A. Rebouças et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12000">2609.12000</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.12109.html">Models and Measures of Statistical Physics and Sociophysics for Fracture Mechanics and Earthquake Dynamics: An Introduction</a></div></td>
-<td>Sudip Sarkar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12109">2609.12109</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.12130.html">Colloidal shadows reveal hidden solute transport</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Haoyu Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12130">2609.12130</a></td>
 </tr>
 </tbody></table>

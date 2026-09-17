@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">143 papers</span>
+  <span class="paper-count">142 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -866,11 +866,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18616.html">Intermittent Viscoelastic Turbulence in Strongly Coupled Plasmas</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Rauoof Wani et al.</td>
 <td><a href="http://arxiv.org/abs/2509.18616">2509.18616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17229.html">Arrested phase separation and chiral symmetry breaking in active dumbbells under shear</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Lucio Mauro Carenza et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17229">2509.17229</a></td>
 </tr>
 </tbody></table>

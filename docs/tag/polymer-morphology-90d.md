@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17990.html">Experimental assessment of the Wiedemann-Franz law in thin metal films using thermoreflectance and electrical measurements</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
+<td>Zhiwei Deng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.17990">2609.17990</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Romain Deloffre et al.</td>
+<td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14586.html">A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets</a></div></td>
 <td>Aleksei M. Cherkasov et al.</td>
@@ -266,17 +278,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21464.html">Nonlocal Sensing Drives Hybrid Phase Separation in Brownian Matter</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Benchang Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.21464">2606.21464</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.19934.html">Speeding up the annotation process in semantic segmentation industrial applications</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
-<td>Marta Fernandez-Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2606.19934">2606.19934</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.20939.html">Locally period homogenization of multiscale model for plant tissue biomechanics</a></div></td>
-<td>Mariya Ptashnyk</td>
-<td><a href="http://arxiv.org/abs/2606.20939">2606.20939</a></td>
 </tr>
 </tbody></table>
