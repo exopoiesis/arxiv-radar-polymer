@@ -22,6 +22,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19347.html">Kinematics-Grounded Agentic AI for Robotic Additive Manufacturing Process Planning</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a></div></td>
+<td>Jingzhan Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19347">2609.19347</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17104.html">Extending high value components performances with Additive Manufacturing: application to naval applications</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Matthieu Rauch et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21190.html">Shaping liquids into space structures - microgravity-assisted design and manufacturing of minimal surfaces</a></div></td>
 <td>Erez Hochman et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21190">2608.21190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17248.html">Information fusion and machine learning for sensitivity analysis using physics knowledge and experimental data</a></div></td>
-<td>Berkcan Kapusuzoglu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17248">2608.17248</a></td>
 </tr>
 </tbody></table>

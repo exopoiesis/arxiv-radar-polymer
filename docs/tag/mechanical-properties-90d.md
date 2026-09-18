@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19667.html">Experimental study of the impact dynamics of polymeric hollow droplets</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Mohammad Mahdi Nasiri et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19667">2609.19667</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19854.html">Inverse coefficient problem for the wave equation with nonlocal attenuation</a></div></td>
+<td>Yavar Kian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19854">2609.19854</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20721.html">Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators</a></div></td>
+<td>Malte Schade et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20721">2609.20721</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
@@ -680,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22073.html">Dynamics, stability, and energy efficiency of an energy-recycling rimless wheel with spring-clutch legs</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
 <td>Tongchen Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22073">2606.22073</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21554.html">Revisiting creeping viscoelastic cross-slot flow: Global linear stability and structural sensitivity analyses</a></div></td>
-<td>Kun Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21554">2606.21554</a></td>
 </tr>
 </tbody></table>

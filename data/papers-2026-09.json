@@ -2436,5 +2436,262 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-09-16"
+ },
+ "2609.19347": {
+  "abstract": "Robotic additive manufacturing (AM) extends material-extrusion printing beyond gantry kinematics but makes process planning robot-dependent. A slicer-generated plan that appears favorable in part coordinates can become infeasible or robotically unfavorable on a manipulator because slicer-process decisions and part orientation determine the generated path, while part orientation and workspace placement affect its kinematic realization. Existing AM tools, large language model (LLM)-based decision-support methods, and digital-shadow systems do not provide integrated pre-execution evaluation of these coupled decisions. This paper presents agentic robotic additive manufacturing (A-RAM), an agent-specialist-tool framework that converts user intent and a part file into traceable, execution-ready plans. The LLM interprets manufacturing objectives and constraints, identifies prescribed and searchable planning variables, and encodes this reasoning in a schema-constrained request; a deterministic Planning Agent instantiates the corresponding search workflow, while domain tools compute quantitative evidence for slicing, placement, inverse kinematics, trajectory timing, Joint-6 jerk, and extrusion. The framework is evaluated on a six-axis robotic-arm AM cell through three case studies covering expert-specified planning, goal-only planning, objective-dependent infill screening, and geometry-dependent orientation-placement selection. Across the evaluated candidate sets, selected plans achieve up to 53.5% lower maximum Joint-6 jerk and 48.3% lower mean absolute Joint-6 jerk than the least favorable valid candidates, while objective-specific infill screening yields motion-plan completion times up to 40.1% shorter and extrusion paths up to 12.7% shorter than the corresponding least favorable screened patterns.",
+  "authors": [
+   "Jingzhan Ge",
+   "Ruimin Chen",
+   "Azadeh Haghighi",
+   "Jiong Tang",
+   "Farhad Imani"
+  ],
+  "categories": [
+   "cs.RO",
+   "cs.AI",
+   "eess.SY"
+  ],
+  "comment": "25 pages, 17 figures",
+  "first_author": "Jingzhan Ge",
+  "pdf_url": "http://arxiv.org/pdf/2609.19347",
+  "primary_category": "cs.RO",
+  "published": "2026-09-16",
+  "tags": [
+   "additive-manufacturing",
+   "extrusion"
+  ],
+  "title": "Kinematics-Grounded Agentic AI for Robotic Additive Manufacturing Process Planning",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19367": {
+  "abstract": "Ensuring intrinsic safety in physical human robot interaction (pHRI) is a critical requirement for social and service robots. While Series Elastic Actuators (SEAs) offer hardware based compliance, traditional metallic designs often require complex, multi part assemblies. This paper presents the design, finite element analysis (FEA), and experimental validation of a low stiffness, torsional spring for SEAs, manufactured via 3D printed thermoplastic polyurethane (TPU). The compliant element exhibits a highly linear torque deformation response (Ks = 0.066 Nm/degree), matching numerical predictions with under 3% deviation, a variance attributed to FDM structural anisotropy. To accommodate external interactions using standard position limited servomotors, a hybrid position controller with torque threshold switching was implemented. Experimental evaluations demonstrate the system ability to accurately track non stationary trajectories and safely yield to external disturbances. Furthermore, the inherent material damping of the TPU acts as a passive low pass filter, preventing high frequency oscillations during control mode transitions. The proposed architecture offers a cost effective, reliable, and easily manufacturable solution for safe pHRI.",
+  "authors": [
+   "Joel Hidalgo Pisco",
+   "Melissa Cobos Condo",
+   "Luigi Miranda",
+   "Dennys Paillacho"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Joel Hidalgo Pisco",
+  "pdf_url": "http://arxiv.org/pdf/2609.19367",
+  "primary_category": "cs.RO",
+  "published": "2026-09-16",
+  "tags": [],
+  "title": "Design and Experimental Validation of a 3D Printed Torsional Series Elastic Actuator for Safe Human Robot Interaction",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-09-16"
+ },
+ "2609.19618": {
+  "abstract": "Multicomponent order can melt in stages, leaving a composite order after its primary constituents become short ranged. We study this possibility for commensurate three-$Q$ loop-current order on the kagome lattice. Large-scale cluster and parallel-tempering Monte Carlo simulations reveal direct and two-stage melting regimes in an effective fixed-amplitude sign model. In the latter regime, translation-sector domain walls proliferate before chirality-changing walls, restoring lattice translational symmetry while preserving long-range time-reversal-odd order. The primary $M$-point correlations are short ranged in this intermediate phase. The two-stage regime begins when the lowest-energy chirality-changing wall is only about $12$--$13\\%$ more costly than a same-chirality translation wall. Finite-size scaling of a stable amplitude-resolved Ginzburg--Landau theory shows that the phase survives amplitude relaxation. Our results establish a quantitative domain-wall criterion for vestigial loop-current order and a fluctuation route to time-reversal symmetry breaking without long-range loop-current Bragg order. This separation provides a possible thermodynamic framework for time-reversal-odd responses recently reported above the critical temperature for conventional charge-density-wave ordering in kagome metals.",
+  "authors": [
+   "Yin Shi",
+   "Xuande Bu",
+   "Sheng Meng"
+  ],
+  "categories": [
+   "cond-mat.str-el"
+  ],
+  "comment": "11 pages, 5 figures",
+  "first_author": "Yin Shi",
+  "pdf_url": "http://arxiv.org/pdf/2609.19618",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-17",
+  "tags": [
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "Vestigial chirality from fluctuating loop currents on the kagome lattice",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.19667": {
+  "abstract": "The impact dynamics of hollow droplets, while influential in applications such as coating and spraying, remain less explored than their dense counterparts. In particular, the impact dynamics of viscoelastic hollow droplets have yet to be fully explored. This study presents an experimental investigation into the impact of hollow Newtonian (water) and viscoelastic (polymeric solution) droplets on a solid surface at different impact velocities and polymer concentrations. We demonstrate two hallmark features of hollow droplet flattening: the formation of a central counter-jet and the final deposition, both associated with the entrapped air bubble. For Newtonian droplets, the counter-jet exhibits rapid growth and breakup due to capillary instabilities. Introducing polymer additives fundamentally alters this behavior: viscoelasticity affects the counter-jet's height and velocity, delays bubble rupture, and inhibits droplet detachment. Crucially, we observe the emergence of beads-on-a-string structures during filament thinning, a signature of the competition between elastic and capillary forces. By systematically varying the polymer concentration and impact velocity, we identify the conditions under which three distinct outcomes occur: deposition, partial deposition, and detachment. Our results show how inertia, viscosity, capillarity, and elasticity together govern the splashing morphology of hollow non-Newtonian droplets.",
+  "authors": [
+   "Mohammad Mahdi Nasiri",
+   "Mohammad Reza Daneshvar Garmroodi",
+   "Damian Vadillo",
+   "Moussa Tembely"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "Submitted to Physics of Fluids",
+  "first_author": "Mohammad Mahdi Nasiri",
+  "pdf_url": "http://arxiv.org/pdf/2609.19667",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-17",
+  "tags": [
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Experimental study of the impact dynamics of polymeric hollow droplets",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.19800": {
+  "abstract": "We introduce Active Model H$^{-}$, a scalar phase-field model of non-equilibrium phase separation in the overdamped hydrodynamic limit, and show that it produces filamentous networks with enhanced connections and arrested coarsening, a morphology not observed in existing scalar active field theories. Isolated filaments are unstable to spontaneous bending, and the resulting curvature drives self-propulsion towards the convex side, causing them to collide and assemble into a percolating network. The networks are locally non-equilibrium, with anomalously curved edges, disordered vertex angles and heterogeneous topological charge, yet recover Lewis's law macroscopically. Under noise they show balanced break and reform dynamics.",
+  "authors": [
+   "Elena Lucas",
+   "Varun Venkatesh",
+   "Amin Doostmohammadi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Elena Lucas",
+  "pdf_url": "http://arxiv.org/pdf/2609.19800",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-17",
+  "tags": [
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Spontaneous filament formation and network self-assembly via active phase separation",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.19854": {
+  "abstract": "In this article, we investigate the inverse problem of determining time-dependent first- and zeroth-order coefficients for a wave equation with nonlocal-in-time attenuation on a Riemannian manifold, using boundary measurements. This problem is motivated by applications in imaging and viscoelasticity, where such equations arise naturally, and we aim to characterize the properties of the underlying medium by recovering these coefficients. Our main objective is to exploit the memory properties of solutions induced by nonlocal attenuation, establishing the recovery of a general class of lower-order coefficients from boundary measurements collected over an arbitrarily small time interval. As a byproduct of our analysis, we also prove recovery results for time-dependent coefficients using measurements supported on disjoint time intervals. While such data restrictions are unavailable, and generally impossible, for the classical wave equation, we demonstrate that they become feasible under standard assumptions due to the presence of nonlocal-in-time attenuation. Our analysis combines techniques from differential geometry, the theory of partial differential equations with nonlocal terms, complex analysis, and the theory of nonlocal operators.",
+  "authors": [
+   "Yavar Kian",
+   "Zouhour Rezig",
+   "Gunther Uhlmann"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Yavar Kian",
+  "pdf_url": "http://arxiv.org/pdf/2609.19854",
+  "primary_category": "math.AP",
+  "published": "2026-09-17",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Inverse coefficient problem for the wave equation with nonlocal attenuation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20461": {
+  "abstract": "Studying the dynamical behavior of a system often depends on characterizing how it transitions between long-lived states. Because such transitions are rare, observing them usually requires specialized enhanced sampling techniques. Transition Path Sampling (TPS) is a well-established method for generating reactive trajectories, which is simple to implement and does not require the definition of a preconceived reaction coordinate. However, its efficiency is limited by its sequential nature and the resulting correlations between sampled paths. Previous work addressed this limitation by combining TPS with a sampling scheme based on conditioned Boltzmann Generators, a generative machine learning model capable of sampling a given target probability distribution. This approach produces uncorrelated transition paths but relies on an accurate reaction coordinate, which is rarely known in advance. Building on recent advances in committor learning, specifically on the Artificial Intelligence for Molecular Mechanism Discovery (AIMMD) method, in this work we introduce GenAIMMD, an iterative algorithm that actively and self-consistently learns the ideal reaction coordinate (the committor) and trains a conditioned Boltzmann Generator to sample from arbitrary bias windows along it. GenAIMMD thereby provides a correlation-free and fully parallelizable path sampling scheme that does not require prior knowledge of the system's transition mechanism. We apply GenAIMMD to a two-dimensional toy model and a higher-dimensional polymer system. In both cases, GenAIMMD succeeds in training the Boltzmann Generator and learning the committor. Benchmark results show a substantial increase in performance compared to standard TPS.",
+  "authors": [
+   "Maximilian Negedly",
+   "Sebastian Falkner",
+   "Alessandro Coretti",
+   "Christoph Dellago"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.stat-mech",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Maximilian Negedly",
+  "pdf_url": "http://arxiv.org/pdf/2609.20461",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-09-17",
+  "tags": [
+   "benchmarking",
+   "enhanced-sampling"
+  ],
+  "title": "Correlation-Free Transition Path Sampling through Shooting Point Generation Guided by Committor Learning",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20708": {
+  "abstract": "Threshold analyses of quantum error-correcting codes are well established for stochastic error models, in which errors occur randomly with given probabilities. However, errors in actual devices can also be coherent, such as unwanted $Z$ rotations due to imperfect control, which are not captured by stochastic error models. For the surface code, numerical studies have indicated threshold behavior even under coherent errors, but a rigorous proof of threshold existence is lacking. Here we prove that a positive threshold for coherent $Z$-rotation errors exists for quantum low-density parity-check codes with a bounded number of logical qubits, including the surface code and other topological codes. Specifically, we show that the maximum-likelihood Pauli recovery suppresses the entanglement infidelity exponentially in the code distance up to a prefactor linear in the number of physical qubits whenever the rotation angles lie below a constant that is independent of the code size. The proof combines Fourier analysis to retain the interference among the amplitudes of coherent errors with the cluster expansion of abstract polymer models. Our results expand the theoretical foundation of quantum error correction and offer a statistical-mechanical description of quantum error correction beyond stochastic errors.",
+  "authors": [
+   "Shiro Tamiya",
+   "Masato Koashi"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "21 pages, 1 figure",
+  "first_author": "Shiro Tamiya",
+  "pdf_url": "http://arxiv.org/pdf/2609.20708",
+  "primary_category": "quant-ph",
+  "published": "2026-09-17",
+  "tags": [],
+  "title": "Proof of a positive coherent-error threshold for topological quantum codes",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20721": {
+  "abstract": "We present a quantum algorithm for simulating classical oscillator networks characterized by non-Markovian dissipation and time-varying material properties, extending recent speedups for undamped harmonic systems to viscoacoustic and viscoelastic media. We embed the history-dependent dynamics into a Markovian state space governed by a non-Hermitian operator by approximating memory kernels through a Prony series. We then use linear combination of Hamiltonian simulation to estimate the instantaneous kinetic and potential energy for a subset of oscillators at time $t$ within error $ε$ using a number of queries to the oscillator system that scales as $\\widetilde{\\mathcal{O}}(α_{\\rm tot} t/ε)$, where $α_{\\rm tot}$ is polynomial in the strength of the dissipation, spring constants, inverse masses, and sparsity of the connections in the network. We further show that this energy estimation task is in the worst-case classically hard (i.e., a corresponding decision problem is $\\mathsf{BQP}$-complete), even in the presence of strong dissipation. For time-dependent materials, we show that changes in material properties appear as effective dissipation or growth in the energy representation. Additionally, we prove the infeasibility of exponential quantum advantages in locally coupled topologies through a novel form of Lieb-Robinson-like bounds that apply to differential equations. This allows our quantum algorithms to provide quartic speedups for locally coupled damped oscillator systems in three dimensions, raising the possibility of practical quantum speedups for realistically damped oscillator networks and approximated wave equations.",
+  "authors": [
+   "Malte Schade",
+   "Sophia Simon",
+   "Nathan Wiebe",
+   "Scott Keating",
+   "Cyrill Bösch",
+   "Andreas Fichtner"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "59 pages, 7 figures",
+  "first_author": "Malte Schade",
+  "pdf_url": "http://arxiv.org/pdf/2609.20721",
+  "primary_category": "quant-ph",
+  "published": "2026-09-17",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-17"
+ },
+ "2609.20743": {
+  "abstract": "Active Brownian particles confined to rigid substrates are known to accumulate near rigid boundaries and, under suitable conditions, undergo motility-induced phase separation (MIPS). A particularly intriguing manifestation of this behavior is the formation of self-sustained vortices around circular obstacles, which act as localized nucleation sites for particle aggregation. While several dynamical properties of such vortices have been previously characterized, their behavior in the thermodynamic limit remains largely unexplored. Here, we investigate how the mass and spatial extent of a dry active-matter vortex scale with system size. Using numerical simulations of repulsive active Brownian Particles interacting with a fixed circular obstacle, we measure the vortex mass, mean radius, and maximum radius as functions of the global area fraction, obstacle size, and system size. We find two distinct scaling regimes. At low densities, the vortex remains localized and its characteristic properties saturate as the system size increases. Above a critical density, however, the vortex mass grows extensively with the total number of particles, while its spatial dimensions scale linearly with the system size, indicating the emergence of an obstacle-stabilized condensed state.",
+  "authors": [
+   "Felipe P. S. Júnior",
+   "F. Q. Potiguar",
+   "Jorge L. C. Domingos",
+   "W. P. Ferreira"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "26 pages and 8 figures",
+  "first_author": "Felipe P. S. Júnior",
+  "pdf_url": "http://arxiv.org/pdf/2609.20743",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-17",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Scaling and Condensation of Dry Active Matter Around Circular Obstacles",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-17"
  }
 }

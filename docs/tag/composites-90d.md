@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Yin Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19618">2609.19618</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18412.html">Measuring correlations in quantum and statistical systems</a></div></td>
 <td>V. I. Yukalov et al.</td>
@@ -170,11 +176,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22566.html">Deep material network for homogenization of piezoelectric composites</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Ting-Ju Wei et al.</td>
 <td><a href="http://arxiv.org/abs/2606.22566">2606.22566</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.21027.html">Self-Supervised Dual-Frequency Phase Decomposition for Single-Shot Composite Fringe Projection Profilometry</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Jin-Hyuk Seok et al.</td>
-<td><a href="http://arxiv.org/abs/2606.21027">2606.21027</a></td>
 </tr>
 </tbody></table>

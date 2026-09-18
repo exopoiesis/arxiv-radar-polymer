@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Yin Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19618">2609.19618</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15405.html">A Symmetry-Constrained Fourier--Morse Framework for Compact Anisotropic Interaction Potentials</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Hadis Ghodrati et al.</td>
@@ -764,11 +770,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06960.html">Role of interaction anisotropy in polymer cononsolvency: insights from the Flory-Huggins-Potts framework</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="flory-huggins-360d.html">flory-huggins</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Satyen Dhamankar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06960">2506.06960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.15588.html">A quantum monomer-dimer model on Penrose tilings</a></div></td>
-<td>Jeet Shah et al.</td>
-<td><a href="http://arxiv.org/abs/2503.15588">2503.15588</a></td>
 </tr>
 </tbody></table>

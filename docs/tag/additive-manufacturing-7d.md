@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
 <td>Romain Deloffre et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19347.html">Kinematics-Grounded Agentic AI for Robotic Additive Manufacturing Process Planning</a></div><div class="paper-tags"><a href="extrusion-7d.html">extrusion</a></div></td>
+<td>Jingzhan Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19347">2609.19347</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>

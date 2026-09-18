@@ -5,15 +5,63 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-17._
+_Updated 2026-09-18._
 
-**3711** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3721** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Yin Shi et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19618">2609.19618</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19667.html">Experimental study of the impact dynamics of polymeric hollow droplets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Mohammad Mahdi Nasiri et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19667">2609.19667</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19800.html">Spontaneous filament formation and network self-assembly via active phase separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Elena Lucas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19800">2609.19800</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19854.html">Inverse coefficient problem for the wave equation with nonlocal attenuation</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Yavar Kian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19854">2609.19854</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20461.html">Correlation-Free Transition Path Sampling through Shooting Point Generation Guided by Committor Learning</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/enhanced-sampling-30d.html">enhanced-sampling</a></div></td>
+<td>Maximilian Negedly et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20461">2609.20461</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20708.html">Proof of a positive coherent-error threshold for topological quantum codes</a></div></td>
+<td>Shiro Tamiya et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20708">2609.20708</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20721.html">Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Malte Schade et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20721">2609.20721</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.20743.html">Scaling and Condensation of Dry Active Matter Around Circular Obstacles</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Felipe P. S. Júnior et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20743">2609.20743</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.17990.html">Experimental assessment of the Wiedemann-Franz law in thin metal films using thermoreflectance and electrical measurements</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
@@ -43,6 +91,18 @@ _Updated 2026-09-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Romain Deloffre et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19347.html">Kinematics-Grounded Agentic AI for Robotic Additive Manufacturing Process Planning</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/extrusion-30d.html">extrusion</a></div></td>
+<td>Jingzhan Ge et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19347">2609.19347</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19367.html">Design and Experimental Validation of a 3D Printed Torsional Series Elastic Actuator for Safe Human Robot Interaction</a></div></td>
+<td>Joel Hidalgo Pisco et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19367">2609.19367</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-15</td>
@@ -133,65 +193,5 @@ _Updated 2026-09-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14540.html">Anisotropic Nanoparticle Rejamming Triggers Thermodynamic Cavitation in Elastomer Nanocomposites</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
 <td>Harshad Bhapkar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14540">2609.14540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14586.html">A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Aleksei M. Cherkasov et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14586">2609.14586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14588.html">Binder chemistry sets the interfacial balance constant in CsPbBr$_3$ nanocrystal supercapacitor electrodes</a></div><div class="paper-tags"><a href="tag/pedot-pss-30d.html">pedot-pss</a></div></td>
-<td>Arun Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14588">2609.14588</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14599.html">Glassiness and dynamic arrest in magnetic and non-magnetic colloids</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Anuj Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14599">2609.14599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14783.html">Language-Guided Representation Learning for Robust Cross-Sensor Material Recognition</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Mashood M. Mohsan et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14783">2609.14783</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13616.html">First-order integrability-breaking phase transitions in dynamical systems</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Anne Ketri P. da Fonseca et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13616">2609.13616</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13658.html">Thixotropy versus viscoelasticity: a matter of time</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Rishabh V. More</td>
-<td><a href="http://arxiv.org/abs/2609.13658">2609.13658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13715.html">Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Christopher Angstmann et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13715">2609.13715</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.12520.html">Thermodynamic Speed Limits in Isolated Quantum Systems</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Rikuya Kobashi</td>
-<td><a href="http://arxiv.org/abs/2609.12520">2609.12520</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.12555.html">Interfacial Packing of DNA Nanostars Regulates Dynamics on Synthetic Cell Membranes</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/membranes-30d.html">membranes</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Kazutoshi Masuda et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12555">2609.12555</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.13018.html">First application of the transcorrelated method to noncovalent interactions: The A24 dataset</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Johannes Hauskrecht et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13018">2609.13018</a></td>
 </tr>
 </tbody></table>

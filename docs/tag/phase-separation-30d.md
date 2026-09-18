@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19800.html">Spontaneous filament formation and network self-assembly via active phase separation</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Elena Lucas et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19800">2609.19800</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20743.html">Scaling and Condensation of Dry Active Matter Around Circular Obstacles</a></div></td>
+<td>Felipe P. S. Júnior et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20743">2609.20743</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16583.html">Adsorbing Boundaries Stratify the Kinetics of Confined Colloidal Phase Separation</a></div></td>
 <td>Kui Lin et al.</td>
@@ -92,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23076.html">From Maxwell Fluid to Kelvin Voigt Solid: A Transient Network Model of Condensate Aging and Morphology Transition in Phase Separation</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Bhanjan Debnath</td>
 <td><a href="http://arxiv.org/abs/2608.23076">2608.23076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17692.html">Effect of Convection Rolls in Motility-Induced Phase Separation of Active Janus Particles</a></div></td>
-<td>Poulami Bag</td>
-<td><a href="http://arxiv.org/abs/2608.17692">2608.17692</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.18059.html">Achieving Long Retention in Area-Dependent Resistive Memory with Phase-Separated Amorphous Tantalum Oxide</a></div></td>
-<td>Sangyong Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2608.18059">2608.18059</a></td>
 </tr>
 </tbody></table>

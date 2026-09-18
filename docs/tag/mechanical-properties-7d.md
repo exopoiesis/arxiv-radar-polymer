@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19667.html">Experimental study of the impact dynamics of polymeric hollow droplets</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Mohammad Mahdi Nasiri et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19667">2609.19667</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19854.html">Inverse coefficient problem for the wave equation with nonlocal attenuation</a></div></td>
+<td>Yavar Kian et al.</td>
+<td><a href="http://arxiv.org/abs/2609.19854">2609.19854</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20721.html">Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators</a></div></td>
+<td>Malte Schade et al.</td>
+<td><a href="http://arxiv.org/abs/2609.20721">2609.20721</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
@@ -56,17 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13658.html">Thixotropy versus viscoelasticity: a matter of time</a></div></td>
 <td>Rishabh V. More</td>
 <td><a href="http://arxiv.org/abs/2609.13658">2609.13658</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.11581.html">Low inertia limit of elasto-inertial turbulence</a></div></td>
-<td>Shoaib Kamil et al.</td>
-<td><a href="http://arxiv.org/abs/2609.11581">2609.11581</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.12229.html">Spreading dynamics of a drop of yield-stress fluid subject to vertical oscillations</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Alice Woodbridge et al.</td>
-<td><a href="http://arxiv.org/abs/2609.12229">2609.12229</a></td>
 </tr>
 </tbody></table>
