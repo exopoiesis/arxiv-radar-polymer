@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13458.html">An adaptive, data-driven multiscale approach for dense granular flows</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
 <td>B. Siddani et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13458">2505.13458</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15341.html">Competing Supramolecular Structures: Dielectric and Rheological Spectroscopy on Glycerol/Propanol Mixtures</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Jan Philipp Gabriel</td>
-<td><a href="http://arxiv.org/abs/2509.15341">2509.15341</a></td>
 </tr>
 </tbody></table>

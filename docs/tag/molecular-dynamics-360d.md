@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,11 +860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16266.html">Vibrational Fingerprints of Strained Polymers: A Spectroscopic Pathway to Mechanical State Prediction</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Julian Konrad et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16266">2509.16266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18616.html">Intermittent Viscoelastic Turbulence in Strongly Coupled Plasmas</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Rauoof Wani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18616">2509.18616</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <a href="organic-photovoltaics-90d.html">90d</a> <strong>360d</strong> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01118.html">Generative Machine Learning Models for the Deconvolution of Charge Carrier Dynamics in Organic Photovoltaic Cells</a></div></td>
 <td>Li Raymond et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01118">2511.01118</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18663.html">Beyond Bloch: A Theoretical Blueprint for Conjugated Polymer Optoelectronics</a></div></td>
-<td>Miguel Lagos et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18663">2509.18663</a></td>
 </tr>
 </tbody></table>

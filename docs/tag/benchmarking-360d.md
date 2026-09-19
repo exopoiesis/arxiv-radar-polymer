@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">152 papers</span>
+  <span class="paper-count">151 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -920,11 +920,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20526.html">Fundamental Scaling Constraints for Equilibrium Molecular Computing</a></div></td>
 <td>Erin Crawley et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20526">2509.20526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07838.html">3D-ADAM: A Dataset for 3D Anomaly Detection in Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Paul McHard et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07838">2507.07838</a></td>
 </tr>
 </tbody></table>

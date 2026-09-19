@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">51 papers</span>
+  <span class="paper-count">50 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -314,11 +314,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20668.html">Quantum Algorithm for Subcellular Multiscale Reaction-Diffusion Systems</a></div></td>
 <td>Margot Lockwood et al.</td>
 <td><a href="http://arxiv.org/abs/2509.20668">2509.20668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18616.html">Intermittent Viscoelastic Turbulence in Strongly Coupled Plasmas</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rauoof Wani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18616">2509.18616</a></td>
 </tr>
 </tbody></table>

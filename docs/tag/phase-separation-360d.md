@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">314 papers</span>
+  <span class="paper-count">312 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1886,17 +1886,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19971.html">Dynamic self-assembly of active particle systems controlled by light fields</a></div></td>
 <td>Sihang Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2509.19971">2509.19971</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16529.html">Three-component Phase Separation for Ultramassive White Dwarf Models</a></div></td>
-<td>Matias Castro-Tapia et al.</td>
-<td><a href="http://arxiv.org/abs/2506.16529">2506.16529</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.13728.html">Phase stability and structural properties of the K$_{x}$Ca$_{1-x}$N novel ferromagnetic alloy from first-principles</a></div></td>
-<td>K. Larbaoui et al.</td>
-<td><a href="http://arxiv.org/abs/2509.13728">2509.13728</a></td>
 </tr>
 </tbody></table>

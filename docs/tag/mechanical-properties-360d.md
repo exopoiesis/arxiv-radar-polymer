@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">483 papers</span>
+  <span class="paper-count">480 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2894,23 +2894,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21316.html">Two ADI compact difference methods for variable-exponent diffusion wave equations</a></div></td>
 <td>Hao Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2509.21316">2509.21316</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15341.html">Competing Supramolecular Structures: Dielectric and Rheological Spectroscopy on Glycerol/Propanol Mixtures</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="rheology-360d.html">rheology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Jan Philipp Gabriel</td>
-<td><a href="http://arxiv.org/abs/2509.15341">2509.15341</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18515.html">Active Ornstein-Uhlenbeck particle under stochastic resetting</a></div></td>
-<td>Uma Shankari et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18515">2509.18515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.18616.html">Intermittent Viscoelastic Turbulence in Strongly Coupled Plasmas</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Rauoof Wani et al.</td>
-<td><a href="http://arxiv.org/abs/2509.18616">2509.18616</a></td>
 </tr>
 </tbody></table>
