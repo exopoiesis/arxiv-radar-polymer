@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlff — 360d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <strong>360d</strong> <a href="mlff-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -158,11 +158,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14020.html">A Set of Tutorials for the LAMMPS Simulation Package</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Simon Gravelle et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14020">2503.14020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16266.html">Vibrational Fingerprints of Strained Polymers: A Spectroscopic Pathway to Mechanical State Prediction</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Julian Konrad et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16266">2509.16266</a></td>
 </tr>
 </tbody></table>

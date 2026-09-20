@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">188 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,17 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22409.html">X-ray and neural network based in-situ identification of the melt pool during the additive manufacturing of a stainless steel part</a></div></td>
 <td>Loic Jegou et al.</td>
 <td><a href="http://arxiv.org/abs/2509.22409">2509.22409</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.19652.html">Quality-Ensured In-Situ Process Monitoring with Deep Canonical Correlation Analysis</a></div></td>
-<td>Xiaoyang Song et al.</td>
-<td><a href="http://arxiv.org/abs/2509.19652">2509.19652</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.21398.html">Skeleton Sparsification and Densification Scale-Spaces</a></div></td>
-<td>Julia Gierke et al.</td>
-<td><a href="http://arxiv.org/abs/2509.21398">2509.21398</a></td>
 </tr>
 </tbody></table>

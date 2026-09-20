@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15584.html">Multiscale modeling of host-pathogen interactions and mucociliary clearance during non-tuberculous mycobacterial pulmonary infection</a></div><div class="paper-tags"><a href="polymer-degradation-7d.html">polymer-degradation</a> · <a href="rheology-7d.html">rheology</a></div></td>
 <td>Jindong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.15584">2609.15584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13658.html">Thixotropy versus viscoelasticity: a matter of time</a></div></td>
-<td>Rishabh V. More</td>
-<td><a href="http://arxiv.org/abs/2609.13658">2609.13658</a></td>
 </tr>
 </tbody></table>
