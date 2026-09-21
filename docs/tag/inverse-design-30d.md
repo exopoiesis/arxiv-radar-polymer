@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>inverse-design — 30d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <strong>30d</strong> <a href="inverse-design-90d.html">90d</a> <a href="inverse-design-360d.html">360d</a> <a href="inverse-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16028.html">Molecular representation shapes the balance between target fidelity and exploration in flow based polymer generation</a></div></td>
 <td>Tianren Zhang</td>
 <td><a href="http://arxiv.org/abs/2609.16028">2609.16028</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20979.html">Polymer Genome in the Age of Artificial Intelligence</a></div><div class="paper-tags"><a href="polymer-informatics-30d.html">polymer-informatics</a></div></td>
-<td>Jifeng Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.20979">2608.20979</a></td>
 </tr>
 </tbody></table>

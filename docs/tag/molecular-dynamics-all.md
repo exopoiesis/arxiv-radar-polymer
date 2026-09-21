@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>molecular-dynamics — all</h1>
-  <span class="paper-count">262 papers</span>
+  <span class="paper-count">264 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="composites-all.html">composites</a> · <a href="rheology-all.html">rheology</a></div></td>
+<td>Tanner A. Wilcoxson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21204">2609.21204</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21297.html">Granular thermostat implementation within the soft-sphere Discrete Element Method (DEM) framework, considerations and limitations</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Marco Previtali et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21297">2609.21297</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14540.html">Anisotropic Nanoparticle Rejamming Triggers Thermodynamic Cavitation in Elastomer Nanocomposites</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>

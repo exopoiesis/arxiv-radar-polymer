@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">111 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21256.html">Blow-up at arbitrary energy levels for a strongly damped viscoelastic wave equation with a variable-exponent logarithmic source</a></div></td>
+<td>Menglan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21256">2609.21256</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21574.html">Frequency-swept Brillouin spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
+<td>Lin Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21574">2609.21574</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19667.html">Experimental study of the impact dynamics of polymeric hollow droplets</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
@@ -668,23 +680,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Mohammad Moein Naderi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22755.html">Asymmetric fractional coupled magnetizable piezoelectric beams with infinite viscoelastic memory: polynomial decay and sharpness of the decay rate</a></div></td>
-<td>Jun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22755">2606.22755</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.22848.html">Non-monotonic variations in pressure drop and chaos in viscoelastic fluid flows through an ordered microporous medium</a></div></td>
-<td>A. Chauhan et al.</td>
-<td><a href="http://arxiv.org/abs/2606.22848">2606.22848</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23940.html">Prediction of Viscoelastic Droplet Impact Dynamics Using a Vision Transformer-Based Approach</a></div></td>
-<td>Diego A. de Aguiar et al.</td>
-<td><a href="http://arxiv.org/abs/2606.23940">2606.23940</a></td>
 </tr>
 </tbody></table>

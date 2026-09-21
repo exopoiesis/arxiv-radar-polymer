@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">70 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21574.html">Frequency-swept Brillouin spectroscopy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Lin Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21574">2609.21574</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17476.html">Designing Homogeneous Ti-Nb-Fe-Sn $β$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>

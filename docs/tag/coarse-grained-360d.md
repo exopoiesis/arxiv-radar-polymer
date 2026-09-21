@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">176 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="rheology-360d.html">rheology</a></div></td>
+<td>Tanner A. Wilcoxson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21204">2609.21204</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15405.html">A Symmetry-Constrained Fourier--Morse Framework for Compact Anisotropic Interaction Potentials</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
@@ -1064,17 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06960.html">Role of interaction anisotropy in polymer cononsolvency: insights from the Flory-Huggins-Potts framework</a></div><div class="paper-tags"><a href="flory-huggins-360d.html">flory-huggins</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Satyen Dhamankar et al.</td>
 <td><a href="http://arxiv.org/abs/2506.06960">2506.06960</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20827.html">Topological Catenation-induced Pore Size in 2D Olympic Network</a></div></td>
-<td>Wenbo Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20827">2509.20827</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.20893.html">MolCluster: Integrating Graph Neural Network with Community Detection for Coarse-Grained Mapping</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
-<td>Zhixuan Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2509.20893">2509.20893</a></td>
 </tr>
 </tbody></table>

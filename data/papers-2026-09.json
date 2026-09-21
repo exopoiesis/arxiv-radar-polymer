@@ -2693,5 +2693,163 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-09-17"
+ },
+ "2609.21204": {
+  "abstract": "Soft materials linked by reversible covalent or supramolecular bonds form a diverse class of assemblies with promising applications from nanoscience to medicine. Experiments typically probe bulk phase behavior and rheology, but it remains difficult to measure how microscopic bonding kinetics and the mechanics of the constituent elements give rise to bulk properties. Coarse-grained molecular dynamics (MD) simulations can bridge these scales, but most simulation approaches do not control individual bond kinetics, and those that do were mostly developed for bespoke applications that do not readily generalize. Here we present pySNAP (Simulation and Network Assembly Pipelines), a modular open source Python platform that integrates tunable dynamic bonding with a workflow, template, and analysis setup, so that users can study a wide range of systems with only small changes to input files. The platform is built on the GPU-accelerated HOOMD-blue MD engine and integrates DyBond, a GPU-accelerated plugin that forms and breaks bonds consistent with an equilibrium distribution and supports bonding between multiple types of partner species. Around this core, the snap_simulate package compiles a directory of parameter files into a HOOMD-blue simulation, and the snap_workflow package orchestrates the resulting parameter sweeps across workstations and high-performance computing schedulers. We describe the theory behind simulated dynamic bonding and how to use the package, from setting up a parameter sweep to analyzing its results, and demonstrate the framework on a diverse range of dynamically bonded systems, showing that it accommodates distinct interaction mechanisms, geometries, and physical scenarios within a unified workflow, while enabling both reproduction of existing models and rapid construction of more complex composite systems.",
+  "authors": [
+   "Tanner A. Wilcoxson",
+   "Tianhao Li",
+   "Tyla R. Holoman",
+   "Gaurav Mitra",
+   "Thomas M. Truskett",
+   "Glen M. Hocky"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "17 pages, 12 figures",
+  "first_author": "Tanner A. Wilcoxson",
+  "pdf_url": "http://arxiv.org/pdf/2609.21204",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "coarse-grained",
+   "composites",
+   "molecular-dynamics",
+   "rheology"
+  ],
+  "title": "Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21256": {
+  "abstract": "We study a strongly damped viscoelastic wave equation with a logarithmic source whose measurable exponent satisfies $2<p_-\\le p(x) \\le p_+<2^*$. An optimal pointwise correction to the source--potential inequality defines a \\emph{shifted energy}. Under suitable kernel conditions, we prove finite-time blow-up for negative shifted energy and for a class of nonnegative shifted energies with no fixed upper energy threshold. Explicit upper lifespan bounds follow from an estimate for reaching negative shifted energy and a concavity argument. We also construct smooth blow-up data at every prescribed real energy level and show that our lifespan estimate covers additional data in the constant-exponent case. Explicit examples are given to illustrate the blow-up results.",
+  "authors": [
+   "Menglan Liao",
+   "Mingxue Zhang"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Menglan Liao",
+  "pdf_url": "http://arxiv.org/pdf/2609.21256",
+  "primary_category": "math.AP",
+  "published": "2026-09-18",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Blow-up at arbitrary energy levels for a strongly damped viscoelastic wave equation with a variable-exponent logarithmic source",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21297": {
+  "abstract": "Dense granular flows are commonly investigated using the soft-sphere Discrete Element Method (DEM), whereas large-scale applications generally require continuum models. Granular temperature, defined as the variance of particle velocity fluctuations, is a relevant variable to collapse rheological scaling. However, experimental forcing approaches used to control temperature also affects other aspects of the granular state.   An alternative is to use a thermostat algorithm to control the fluctuation energy directly. Although thermostat algorithms are well established in Molecular Dynamics (MD), their behaviour in dissipative DEM systems has received comparatively little attention. We show that conventional Langevin and Nosé-Hoover thermostats exhibit complementary limitations: Langevin control requires strong coupling to offset collisional dissipation, thereby damping particle dynamics, whereas Nosé-Hoover does not independently disrupt the correlations and segregation generated by repeated inelastic collisions, leading to non-ergodic and numerically unstable states.   To address these limitations, we introduce two pairwise hybrid formulations combining deterministic temperature regulation with stochastic decorrelation. Both enforce the prescribed temperature, while variation of the stochastic decorrelation timescale modifies velocity statistics and associated mesoscopic properties such as diffusivity. Finally, application to pressure-controlled simple shear shows that increasing granular temperature at fixed inertial number reduces the apparent friction, consistent with previously reported trends. The framework therefore provides controlled reference states for comparing differently forced granular systems and identifying the variables required for temperature-dependent constitutive models.",
+  "authors": [
+   "Marco Previtali",
+   "Herbert Eric Huppert",
+   "Sergio Andres Galindo Torres"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "27 pages main text, 31 with appendix, 34 with references. 14 figures. Relevant data is available at https://data.mendeley.com/datasets/yt9pvmvz9t/1. The paper has been submitted to Physics Review Research",
+  "first_author": "Marco Previtali",
+  "pdf_url": "http://arxiv.org/pdf/2609.21297",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics",
+   "rheology"
+  ],
+  "title": "Granular thermostat implementation within the soft-sphere Discrete Element Method (DEM) framework, considerations and limitations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21501": {
+  "abstract": "Stimulus-responsive hydrogels convert temperature changes into magnetic-field shifts detectable by nitrogen-vacancy (NV) centers, enabling nanoscale thermometry in soft and biological environments. Existing hydrogel-nanodiamond demonstrations rely on NV ensembles, whose high photon throughput is accompanied by gradient-induced inhomogeneous broadening, while idealized single-NV projections assume high-fluence fluorescence/ODMR readout. Here we study a pulsed single-NV route for the same class of sensors and ask whether decoherence-aware coherent control can improve thermometric performance over optimized Ramsey interrogation at equal detected-photon budget. Using a sigmoidal volume-phase-transition model, dipolar magnetic transduction, and Lindblad master-equation simulations, we find a reproducible 25-27% per-shot sensitivity gain over optimized Ramsey, i.e., a 57-60% gain in Fisher information (1.57-1.60). The same gain carries over to the photon-normalized Fisher information. The rate gain is governed by the measurement duty cycle, the fraction of the experimental cycle spent accumulating signal rather than initializing, reading out or waiting, and becomes largest when the overhead or optical-dose constraint dominates the cycle time. The optimized trajectories reveal a response-shaping mechanism in which phase accumulation is concentrated near the end of the sequence, and a closed-form depth-two solution reproduces the numerical optimum and exhibits that mechanism analytically. The advantage is most pronounced when the dephasing time is short compared with the measurement overhead or dose-limited waiting time, which is the operating regime targeted by hydrogel-transduced single-spin biosensing.",
+  "authors": [
+   "Ugur Tamer",
+   "Sina Zeytinoglu",
+   "Ozgur E. Mustecaplioglu"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "24 pages, 12 figures, 4 tables",
+  "first_author": "Ugur Tamer",
+  "pdf_url": "http://arxiv.org/pdf/2609.21501",
+  "primary_category": "quant-ph",
+  "published": "2026-09-18",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Optimal control for duty-cycle-limited interferometry with single-NV centers",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21556": {
+  "abstract": "We uncover an emergent phase separation in a system of inertial dumbbells put into persistent rotation by a constant applied torque, breaking chiral symmetry, while interacting with each other through repulsive hard-core interactions. We numerically determine the phase diagram of the model, showing that there exists a binodal and a spinodal region where the system separates into a dense liquid and an ordered phase, which we identify as hexatic. An analysis of the system pressure unveils that the mechanism underlying the phase separation is heavily controlled by inertia. Locally injected kinetic energy is steadily stored into the system in a way that depends on density and that, at large inertia, results in a hot dilute and cool dense state, leading to a generically unstable homogeneous phase. The interplay between dumbbells' arrangement into clusters and chiral forces produces a spontaneous rigid rotation of the clusters around their centers of mass.",
+  "authors": [
+   "Lucio Mauro Carenza",
+   "Pasquale Digregorio",
+   "Massimiliano Semeraro",
+   "Antonio Suma",
+   "Ignacio Pagonabarraga",
+   "Giuseppe Gonnella"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "8 pages, 8 figures",
+  "first_author": "Lucio Mauro Carenza",
+  "pdf_url": "http://arxiv.org/pdf/2609.21556",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Phase Separation in a system of Brownian inertial rotors",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.21574": {
+  "abstract": "Spontaneous Brillouin microscopy provides non-contact access to the viscoelastic properties of materials. Standard measurements typically utilize a single-wavelength continuous-wave laser to illuminate a specimen and excites a spontaneous Brillouin scattering signal, which is then recorded by a spectrometer. Existing Brillouin spectrometers are mostly built around either a scanning Fabry-Pérot etalon or a virtually imaged phased array (VIPA) etalon. While performing well, these setups are bulky and demand significant optical expertise to construct and maintain. Here, we propose a new approach to conducting Brillouin spectroscopy. In this approach, a frequency-swept laser excites a series of Brillouin spectra with incrementally shifted central frequencies, while a frequency picker, consisting of a narrow bandpass filter and a highly sensitive single-photon detector, sequentially records each spectral component to reconstruct the full spectrum. We demonstrate that the frequency-swept Brillouin spectroscopy can run under shot-noise limited condition using standard samples. Compared with conventional spectrometers, our system features a much more compact design for portable applications and holds potential for rapid mechanical imaging through multiplexing.",
+  "authors": [
+   "Lin Kang",
+   "Shahrin Jahan Jaima",
+   "Jitao Zhang"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "4 pages,4 figures",
+  "first_author": "Lin Kang",
+  "pdf_url": "http://arxiv.org/pdf/2609.21574",
+  "primary_category": "physics.optics",
+  "published": "2026-09-18",
+  "tags": [
+   "mechanical-properties",
+   "spectroscopy"
+  ],
+  "title": "Frequency-swept Brillouin spectroscopy",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-18"
  }
 }

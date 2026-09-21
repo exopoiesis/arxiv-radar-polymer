@@ -5,15 +5,51 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-20._
+_Updated 2026-09-21._
 
-**3721** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3727** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Tanner A. Wilcoxson et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21204">2609.21204</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21256.html">Blow-up at arbitrary energy levels for a strongly damped viscoelastic wave equation with a variable-exponent logarithmic source</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Menglan Liao et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21256">2609.21256</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21297.html">Granular thermostat implementation within the soft-sphere Discrete Element Method (DEM) framework, considerations and limitations</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Marco Previtali et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21297">2609.21297</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21501.html">Optimal control for duty-cycle-limited interferometry with single-NV centers</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Ugur Tamer et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21501">2609.21501</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21556.html">Phase Separation in a system of Brownian inertial rotors</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Lucio Mauro Carenza et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21556">2609.21556</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21574.html">Frequency-swept Brillouin spectroscopy</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Lin Kang et al.</td>
+<td><a href="http://arxiv.org/abs/2609.21574">2609.21574</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -157,41 +193,5 @@ _Updated 2026-09-20._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.17716.html">Activity-induced emergent flatness, instabilities and pattern formation in fluid membranes</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
 <td>Debayan Jana et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17716">2609.17716</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.15259.html">Borromean Criticality in Two Dimensions</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Alexandru Golic et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15259">2609.15259</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.15288.html">Investigating the Nature of Discontinuous Shear Thickening: Beyond a Mean-Field Description</a></div><div class="paper-tags"><a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Jetin E. Thomas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15288">2609.15288</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.15584.html">Multiscale modeling of host-pathogen interactions and mucociliary clearance during non-tuberculous mycobacterial pulmonary infection</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Jindong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15584">2609.15584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.16186.html">Occupancy Network-Guided Autonomous Robotic Partial Nephrectomy</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Ethan Kilmer et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16186">2609.16186</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14311.html">Interfacial Engineering Enabled High-Resolution Stretchable Metal-Level Conductive Lines and Transparent Conductor</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a></div></td>
-<td>Ke Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14311">2609.14311</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.14540.html">Anisotropic Nanoparticle Rejamming Triggers Thermodynamic Cavitation in Elastomer Nanocomposites</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Harshad Bhapkar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.14540">2609.14540</a></td>
 </tr>
 </tbody></table>
