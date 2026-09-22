@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23168.html">An active soft glassy rheology model</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Raffaele Mendozza et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23168">2609.23168</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02627.html">Pure FENE Bond Potential for Soft Matter and Biological Simulations: Theory, HOOMD-blue Implementation, and Applications to Polymer, Colloidal, and Membrane Systems</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Anirban Polley</td>
@@ -50,11 +56,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28240.html">Entropy density functional theory for inhomogeneous fluids</a></div></td>
 <td>Matthias Schmidt</td>
 <td><a href="http://arxiv.org/abs/2606.28240">2606.28240</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24091.html">Two-Dimensional Phase Transitions in Classical Systems: 60 Years after the Hohenberg-Mermin-Wagner Theorem</a></div></td>
-<td>Ruijian Zhu et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24091">2606.24091</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">481 papers</span>
+  <span class="paper-count">482 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23737.html">Experimentally validated process-microstructure-property relations of bainitic steels derived from phase-field simulations</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Dhanunjaya Kumar Nerella et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23737">2609.23737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23787.html">Design of a combined polarimetric and velocimetric measurement for viscoelastic stress, and its constitutive resolving power</a></div></td>
+<td>Zijian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23787">2609.23787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21256.html">Blow-up at arbitrary energy levels for a strongly damped viscoelastic wave equation with a variable-exponent logarithmic source</a></div></td>
@@ -2894,11 +2906,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23658.html">Twist-Free Enhancement of Strength and Modulus in Electrospun Yarns via Liquid-Assisted Capillary Densification</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Saujatya Mandal et al.</td>
 <td><a href="http://arxiv.org/abs/2509.23658">2509.23658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.02941.html">Numerical analysis of high-order methods for variable-exponent fractional diffusion-wave equation</a></div></td>
-<td>Wenlin Qiu et al.</td>
-<td><a href="http://arxiv.org/abs/2406.02941">2406.02941</a></td>
 </tr>
 </tbody></table>

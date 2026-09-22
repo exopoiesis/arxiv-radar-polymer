@@ -34,6 +34,12 @@ current_window: 30d
 <td><a href="http://arxiv.org/abs/2609.17104">2609.17104</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22268.html">Efficient spectral Galerkin framework for nonlinear transient heat transfer in finite domains</a></div></td>
+<td>Théo Andrieux et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22268">2609.22268</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-07</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07337.html">Elastoplastic inherent strain-based topology optimization for residual stress reduction in metal additive manufacturing</a></div></td>
 <td>Takao Miki et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22789.html">GuidedFlow: An Attention-Guided Framework for Anomaly Detection in Additive Manufacturing</a></div></td>
 <td>Sosmita Paul et al.</td>
 <td><a href="http://arxiv.org/abs/2608.22789">2608.22789</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.22128.html">Task-Driven 3D Printability Assistance via Geometry- and Knowledge-Grounded LLM Reasoning</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Zhaoda Du et al.</td>
-<td><a href="http://arxiv.org/abs/2608.22128">2608.22128</a></td>
 </tr>
 </tbody></table>

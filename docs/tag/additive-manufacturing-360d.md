@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">185 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,6 +32,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17104.html">Extending high value components performances with Additive Manufacturing: application to naval applications</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Matthieu Rauch et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17104">2609.17104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22268.html">Efficient spectral Galerkin framework for nonlinear transient heat transfer in finite domains</a></div></td>
+<td>Théo Andrieux et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22268">2609.22268</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-07</td>
@@ -1118,17 +1124,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14307.html">LLM-3D Print: Large Language Models To Monitor and Control 3D Printing</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a></div></td>
 <td>Yayati Jadhav et al.</td>
 <td><a href="http://arxiv.org/abs/2408.14307">2408.14307</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22397.html">From Concept to Reality: Additive Manufacturing in Particle Accelerator and Storage Ring R&amp;D at GSI and for FAIR</a></div></td>
-<td>Chuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22397">2509.22397</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.22409.html">X-ray and neural network based in-situ identification of the melt pool during the additive manufacturing of a stainless steel part</a></div></td>
-<td>Loic Jegou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.22409">2509.22409</a></td>
 </tr>
 </tbody></table>

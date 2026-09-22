@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">61 papers</span>
+  <span class="paper-count">60 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
+<td>Shivashree Gowda et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24081">2609.24081</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24445.html">Charge-4e Superconducting Ground State without Pair Condensation: Exact Quartet Dynamics, Rigorous Order, and a Microscopic Route</a></div></td>
+<td>Jin-Tao Jin et al.</td>
+<td><a href="http://arxiv.org/abs/2609.24445">2609.24445</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21556.html">Phase Separation in a system of Brownian inertial rotors</a></div></td>
 <td>Lucio Mauro Carenza et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21556">2609.21556</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22533.html">Two-Stage Ordering Kinetics in Binary Mixtures of Ellipsoidal Particles</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Parameshwaran A et al.</td>
+<td><a href="http://arxiv.org/abs/2609.22533">2609.22533</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-17</td>
@@ -356,29 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Mohammad Moein Naderi et al.</td>
 <td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.23661.html">Prime-Power Rarefaction and a Density-One Lower Bound for Erdős Problem 400</a></div></td>
-<td>Eric Li</td>
-<td><a href="http://arxiv.org/abs/2606.23661">2606.23661</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24106.html">Flexible and Stable Dynamics Discovery with Onsager&#x27;s Variational Principle</a></div></td>
-<td>Anthony Gruber et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24106">2606.24106</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24534.html">Multicomponent Grain Boundary Segregation Dilute-Limit Model and Its Effect on Nanocrystalline Stability</a></div></td>
-<td>Georgiy Marchiy et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24534">2606.24534</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.24660.html">Extended pseudo-spectral physics-informed neural networks for phase-field models</a></div></td>
-<td>Callum Marsh et al.</td>
-<td><a href="http://arxiv.org/abs/2606.24660">2606.24660</a></td>
 </tr>
 </tbody></table>

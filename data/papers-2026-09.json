@@ -2851,5 +2851,250 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-09-18"
+ },
+ "2609.22268": {
+  "abstract": "Accurately modelling the temporal evolution of heterogeneous temperature fields requires resolving strong nonlinearities in the heat equation arising from temperature-dependent thermophysical properties, latent heats of transformation and any local heat sources/sinks. In this work, we present a spectral Galerkin (SG) framework to solve the fully nonlinear transient heat equation in finite domains to attain the accuracy of high-fidelity finite element (FE) simulations at considerably lower computational cost. The heat equation is reformulated into a linear reference problem with constant thermophysical properties and residual forcing terms. Solving the reference problem provides a complete three-dimensional orthonormal trigonometric basis, whose Galerkin projection reduces the heat equation to a set of modal ordinary differential equations (ODEs) in time; the reference operator is diagonal in the modal basis, and results in independent modal updates for a fixed nonlinear forcing. These ODEs can be integrated using exponential time differencing and iteratively corrected for nonlinearities. The SG method eliminates the global solve required by FE methods, and its use of structured grids allows efficient GPU parallelization. Applied to rapid laser-metal interactions, the SG solver reproduces high-fidelity FE temperature fields with less than 1% relative error while achieving 227-fold faster GPU runtimes. Applied to a part-scale laser scanning study [Ramani et al., Additive Manufacturing 52 (2022) 102643], the method shows that accounting for evaporation and latent heat more than halves their proposed processing metric. The source code of the SG heat solver and some worked examples are available at https://github.com/manasvupadhyay/spectral_galerkin_heat under the Apache 2.0 license.",
+  "authors": [
+   "Théo Andrieux",
+   "Andreas Ntinos",
+   "Manas V. Upadhyay"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "preprint, 30 pages, 1 algorithm, 1 link to source code, 15 figures, 3 tables",
+  "first_author": "Théo Andrieux",
+  "pdf_url": "http://arxiv.org/pdf/2609.22268",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-09",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Efficient spectral Galerkin framework for nonlinear transient heat transfer in finite domains",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-09"
+ },
+ "2609.22533": {
+  "abstract": "We investigate the nonequilibrium phase-ordering kinetics of a binary mixture of uniaxial ellipsoidal particles interacting via the anisotropic Gay-Berne potential using large-scale molecular dynamics simulations. Following a temperature quench from the isotropic and homogeneous phase into the coexistence region, the system exhibits two distinct ordering processes occurring on different time scales. At first, rapid orientational ordering leads to the formation and coarsening of nematic domains, characterized by dynamical scaling, generalized Porod-law behavior, and a growth law $\\ell(t) \\sim t^{1/2}$ consistent with nonconserved order-parameter dynamics. Later, the system undergoes binary phase separation driven by compositional fluctuations. This compositional ordering process shows a transition from diffusive growth $\\ell(t) \\sim t^{1/3}$ to hydrodynamic regimes, with finite-size scaling analysis indicating asymptotic viscous growth $\\ell(t) \\sim t$. Despite the presence of global orientational order, the phase-separation kinetics remains effectively isotropic. These results demonstrate a clear separation between orientational and compositional ordering dynamics, governed by distinct conservation laws, and provide a unified framework for understanding phase ordering in anisotropic particle systems.",
+  "authors": [
+   "Parameshwaran A",
+   "Sanjay Puri",
+   "Bhaskar Sen Gupta"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "cond-mat.other",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Parameshwaran A",
+  "pdf_url": "http://arxiv.org/pdf/2609.22533",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-18",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Two-Stage Ordering Kinetics in Binary Mixtures of Ellipsoidal Particles",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-18"
+ },
+ "2609.23168": {
+  "abstract": "Biological materials such as the cytoskeleton and confluent cell monolayers are active, dense systems continuously subjected to internal stresses and strains, making their rheological characterization essential. While activity in soft matter can be modeled across multiple length scales, its mechanical consequences remain strongly model dependent and no unified theoretical framework has yet emerged. Here, we study the rheology of dense active amorphous materials using the Soft Glassy Rheology (SGR) model, incorporating activity at the mesoscopic scale of local elements as a stochastic strain rate that is persistent on some timescale $τ_p$. We show that activity opens a long-time relaxation channel, driving a crossover from SGR-like power-law rheology to Maxwell-like behavior at the lowest frequencies. Combining analytical arguments in limiting regimes with numerical simulations, we characterize the resulting fluidisation time scale and its dependence on the activity parameters, which shows strong analogies with effective temperatures introduced elsewhere that similarly encode activity-induced fluidisation. Our active SGR model provides a minimal mesoscopic route to understanding how driving by activity modifies the rheology of dense amorphous materials.",
+  "authors": [
+   "Raffaele Mendozza",
+   "Tobias Müller",
+   "Peter Sollich"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "9 pages, 4 figures",
+  "first_author": "Raffaele Mendozza",
+  "pdf_url": "http://arxiv.org/pdf/2609.23168",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-19",
+  "tags": [
+   "rheology",
+   "soft-matter"
+  ],
+  "title": "An active soft glassy rheology model",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-19"
+ },
+ "2609.23611": {
+  "abstract": "Polymer properties emerge from interactions across scales, yet existing polymer models typically preserve either detailed monomer chemistry without an explicit polymer graph or polymer connectivity with simplified monomer representations, due to computational constraints, as polymers typically contain tens of thousands of atoms. We present Uni-Macro-FRPN (FRPN), a Full-Resolution Polymer Network that retains both detailed atom-level and monomer-level features and explicit polymer structure information within a unified framework. Two Transformers jointly learn atom-informed monomer semantics, sequence order, and chain topology from BigSMILES-derived representations. On the Block Copolymer Database (BCDB) lamellar-versus-non-lamellar classification task, FRPN achieves 86.4% accuracy and 90.6% ROC-AUC, establishing state-of-the-art performance. Ablation results indicate that the gain is not explained solely by increased parameter count. On a linear homopolymer benchmark, monomer-centric learning remains competitive, highlighting a boundary case where polymer-scale organization is simple. To test generalization beyond linear polymers, we further construct an all-atom molecular-dynamics benchmark of 1640 datapoints spanning diverse monomer chemistries, sequence orderings, chain topologies, and physical properties. FRPN achieves the strongest overall performance on this topology-rich benchmark, with diagnostics supporting the benefit of jointly modeling monomer chemistry and polymer structure. Taken together, FRPN provides a practical route for moving polymer representation learning beyond monomer-centric representations. The leading performance of FRPN also suggests a promising direction for polymer informatics: future polymer prediction models should treat polymers not only as collections of monomer descriptors, but as complete multiscale chemical and topological objects.",
+  "authors": [
+   "Jintao Wu",
+   "Yiran Shan",
+   "Rui Zhang"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jintao Wu",
+  "pdf_url": "http://arxiv.org/pdf/2609.23611",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-20",
+  "tags": [
+   "benchmarking",
+   "bigsmiles",
+   "block-copolymer",
+   "polymer-informatics"
+  ],
+  "title": "Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-09-20"
+ },
+ "2609.23737": {
+  "abstract": "This study examines the impact of processing conditions, such as thermalprocessing, on the resulting microstructure and mechanical properties. Spe-cial emphasis is placed on microstructural features obtained from three-dimensional phase-field simulations, which provide detailed insights into bai-nite morphology, phase distribution and retained austenite content. Thesesimulated microstructures are correlated with changes in yield strength undermultiaxial load, as represented in the yield surface of the material. The re-sults demonstrate that optimized processing routes can refine the microstruc-ture, enhance mechanical properties and significantly alter the yield surfacecharacteristics. These findings provide valuable insights for the design andapplication of bainitic steels, as well as for the development of predictivemodels linking process-structure-property relationships.",
+  "authors": [
+   "Dhanunjaya Kumar Nerella",
+   "Muhammad Adil Ali",
+   "Oguz Gulbay",
+   "Oleg Shchyglo",
+   "Ingo Steinbach"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Dhanunjaya Kumar Nerella",
+  "pdf_url": "http://arxiv.org/pdf/2609.23737",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-20",
+  "tags": [
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Experimentally validated process-microstructure-property relations of bainitic steels derived from phase-field simulations",
+  "topics": [
+   "Processing, Manufacturing & Composites",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-20"
+ },
+ "2609.23787": {
+  "abstract": "A polarimeter does not report stress. It reports a retardance and an azimuth, and converting those to a stress pair fixes both the calibration that is required and the covariance that the subsequent inference must carry. We set out that observation chain for planar viscoelastic flow, combine it with velocimetry, and ask what the combined measurement can resolve. The calibration constant is fixed by three separately measurable quantities: path length, stress-optic coefficient and wavelength, rather than being fitted. Propagating the polarimetric errors to first order gives a stress covariance that is anisotropic and site dependent even for independent homoscedastic inputs, and whose conditioning degrades as the retardance approaches zero, where the linearization itself stops describing the measurement. Wrapping imposes a separate design bound. Holding the total scalar count fixed and varying the split between velocimetric and optical sites, an unequal allocation favoring optical sites outperforms either pure configuration. We then ask what the measurement resolves between constitutive models compatible with the same velocity data. In self-consistent pressure-driven flow of the finitely extensible nonlinear elastic Peterlin model, at extensibility L^2=50 and 3% noise, the optical channel rejects the velocity-compatible Oldroyd-B family in 78.1% of realizations at the Deborah number De=2, the ratio of the relaxation time to the flow timescale, and in 100% at De=4, while rejecting only about 5% below De=0.3. The resolving power of a design is therefore a strong function of Deborah number and must be quoted with it. Both numerical studies use ideal calibrated stress coordinates under a prescribed covariance; propagating the polarimetric covariance into them is the next step.",
+  "authors": [
+   "Zijian Liu",
+   "Julian Olszewski",
+   "Bruce I. Gaynes",
+   "Jie Xu"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.data-an",
+   "physics.optics"
+  ],
+  "comment": "16 pages, 4 figures, 1 tables. Supplementary material (15 pages) is included as an ancillary file",
+  "first_author": "Zijian Liu",
+  "pdf_url": "http://arxiv.org/pdf/2609.23787",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-20",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Design of a combined polarimetric and velocimetric measurement for viscoelastic stress, and its constitutive resolving power",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-20"
+ },
+ "2609.24081": {
+  "abstract": "(AlxGa1-x)2O3/beta-Ga2O3 transistors are an emerging candidate for high-power and high-frequency electronic devices. beta-Ga2O3 in particular is notably limited for anisotropic low thermal conductivity, which is further reduced in (AlxGa1-x)2O3 due to alloy and other defect-driven phonon scattering mechanisms. In this work we show that the thermal conductivity of (010) oriented (AlxGa1-x)2O3 thin films for 0.01 < x < 0.20, measured using time-domain thermoreflectance (TDTR), is limited by alloy scattering without observable adverse scattering by additional defects. This is enabled through the synthesis of the (AlxGa1-x)2O3 films using molecular beam epitaxy (MBE) on \\b{eta}-Ga2O3 substrates, leveraging indium-catalyzed growth to suppress dislocation formation and phase separation to achieve single-phase pseudomorphic films up to x = 0.2. This growth process improved the thermal conductivity of (AlxGa1-x)2O3 by 2X as compared to previously reported values. For increasing Al composition (x), we observe a steady decline in (AlxGa1-x)2O3 thermal conductivity due to alloy scattering which is validated using virtual crystal approximation (VCA) model. We also show that the thermal boundary conductance across the Al/(AlxGa1-x)2O3 interface is reduced with increasing x, which we posit is due to the stiffening of the (AlxGa1-x)2O3 acoustic modes with increasing x by comparing experimental results with a diffuse mismatch model (DMM). Overall, these thermal characteristics provide valuable insights for designing heterostructures with optimized interfaces and composition.",
+  "authors": [
+   "Shivashree Gowda",
+   "Stephen Schaefer",
+   "Ethan A. Scott",
+   "Samreen Khan",
+   "Patrick E. Hopkins",
+   "M. Brooks Tellekamp"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.mes-hall"
+  ],
+  "comment": null,
+  "first_author": "Shivashree Gowda",
+  "pdf_url": "http://arxiv.org/pdf/2609.24081",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-21",
+  "tags": [
+   "benchmarking",
+   "phase-separation",
+   "thermal-conductivity"
+  ],
+  "title": "Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-21"
+ },
+ "2609.24445": {
+  "abstract": "A direct charge-\\(4e\\) superconductor exhibits coherent four-electron order while every charge-\\(2e\\) pairing channel remains uncondensed. We establish three complementary results. First, building on the \\(η\\)-clustering states and bipartite parent of Yoshida and Katsura, we formulate and exactly solve a minimal two-term parent on any connected graph. Its fixed-number ground states have quartet off-diagonal long-range order (ODLRO) without charge-\\(2e\\) ODLRO, while an exact mapping to classical hard-core exclusion dynamics yields the full fixed-sector gap and a branch of quartet-density modes. Nonzero quartet stiffness and vanishing inverse quartet compressibility identify this \\(z=2\\) parent as a phase-separation boundary. Second, for a finite-range fermionic family with explicit quartet transfer and sufficiently large onsite penalty, we rigorously prove quartet ODLRO without charge-\\(2e\\) ODLRO at half quartet filling, both at the hypercubic XY point for \\(d\\geq2\\) and throughout a finite XXZ interval on the square lattice. Third, we derive a strong-coupling realization using only electron hopping and two-body interactions. With local gap \\(U_0\\), pair hopping \\(K\\) generates quartet motion at order \\(K^2/U_0\\), whereas electron hopping \\(t\\) first contributes at order \\(t^4/U_0^3\\); charge-\\(2e\\) excitations remain gapped at \\(O(U_0)\\). On bipartite lattices, positive inverse quartet compressibility opens an asymptotically controlled homogeneous \\(z=1\\) regime with short-ranged pair correlations, while negative curvature drives phase separation.",
+  "authors": [
+   "Jin-Tao Jin",
+   "Pengfei Li",
+   "Yi Zhou"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.supr-con"
+  ],
+  "comment": "19 pages, 2 figures",
+  "first_author": "Jin-Tao Jin",
+  "pdf_url": "http://arxiv.org/pdf/2609.24445",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-21",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Charge-4e Superconducting Ground State without Pair Condensation: Exact Quartet Dynamics, Rigorous Order, and a Microscopic Route",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-09-21"
+ },
+ "2609.24529": {
+  "abstract": "Droplets in complex environments often encounter compositional gradients that drive their propulsion. For example, surfactant gradients induce surface-tension-driven propulsion via the Marangoni effect. Here, we show that such propulsion emerges generically, even in the absence of surfactants. Employing a thin-interface approximation, we derive a compact expression for the droplet velocity in terms of droplet size, viscosity, the sensitivity of surface tension to a regulating component, and the chemical potential gradient of that component. Our theory reveals that droplets move toward regions of lower stability, as encoded in the morphology of the phase diagram, particularly near critical points. Numerical simulations confirm these results, which establish a general route to predicting and designing droplet motility from the phase behavior of complex fluids.",
+  "authors": [
+   "Stefan Köstler",
+   "Malcolm Steen",
+   "David Zwicker"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "physics.bio-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": "7 pages, 5 figures, and Appendix",
+  "first_author": "Stefan Köstler",
+  "pdf_url": "http://arxiv.org/pdf/2609.24529",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-21",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Phase diagram morphology shapes droplet propulsion in chemical gradients",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-21"
  }
 }

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>block-copolymer — all</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="block-copolymer-7d.html">7d</a> <a href="block-copolymer-30d.html">30d</a> <a href="block-copolymer-90d.html">90d</a> <a href="block-copolymer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23611.html">Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="bigsmiles-all.html">bigsmiles</a> · <a href="polymer-informatics-all.html">polymer-informatics</a></div></td>
+<td>Jintao Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23611">2609.23611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-06-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.16156.html">Phase Behavior of Unilamellar Hybrid Lipid-Diblock Copolymer Membranes</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="membranes-all.html">membranes</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23737.html">Experimentally validated process-microstructure-property relations of bainitic steels derived from phase-field simulations</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Dhanunjaya Kumar Nerella et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23737">2609.23737</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23787.html">Design of a combined polarimetric and velocimetric measurement for viscoelastic stress, and its constitutive resolving power</a></div></td>
+<td>Zijian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23787">2609.23787</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21256.html">Blow-up at arbitrary energy levels for a strongly damped viscoelastic wave equation with a variable-exponent logarithmic source</a></div></td>
@@ -74,11 +86,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17476.html">Designing Homogeneous Ti-Nb-Fe-Sn $β$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a></div></td>
 <td>João Felipe Queiroz Rodrigues et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17476">2609.17476</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15584.html">Multiscale modeling of host-pathogen interactions and mucociliary clearance during non-tuberculous mycobacterial pulmonary infection</a></div><div class="paper-tags"><a href="polymer-degradation-7d.html">polymer-degradation</a> · <a href="rheology-7d.html">rheology</a></div></td>
-<td>Jindong Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15584">2609.15584</a></td>
 </tr>
 </tbody></table>

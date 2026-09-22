@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-informatics — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="polymer-informatics-7d.html">7d</a> <a href="polymer-informatics-30d.html">30d</a> <a href="polymer-informatics-90d.html">90d</a> <strong>360d</strong> <a href="polymer-informatics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23611.html">Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="bigsmiles-360d.html">bigsmiles</a> · <a href="block-copolymer-360d.html">block-copolymer</a></div></td>
+<td>Jintao Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.23611">2609.23611</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20979.html">Polymer Genome in the Age of Artificial Intelligence</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a></div></td>
