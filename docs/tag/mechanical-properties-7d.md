@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26734.html">Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework</a></div></td>
+<td>Jinjie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26734">2609.26734</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23737.html">Experimentally validated process-microstructure-property relations of bainitic steels derived from phase-field simulations</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
@@ -68,23 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
 <td>Romain Deloffre et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.16903.html">Bayesian inference in active microrheology with wall and particle-particle interactions</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Parajal Rai et al.</td>
-<td><a href="http://arxiv.org/abs/2609.16903">2609.16903</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17104.html">Extending high value components performances with Additive Manufacturing: application to naval applications</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
-<td>Matthieu Rauch et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17104">2609.17104</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17476.html">Designing Homogeneous Ti-Nb-Fe-Sn $β$ Titanium Alloys by PBF-LB: A Pre-Alloyed Powder Blend Strategy</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a></div></td>
-<td>João Felipe Queiroz Rodrigues et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17476">2609.17476</a></td>
 </tr>
 </tbody></table>

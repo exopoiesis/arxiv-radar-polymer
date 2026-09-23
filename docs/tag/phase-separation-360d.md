@@ -28,6 +28,12 @@ current_window: 360d
 <td><a href="http://arxiv.org/abs/2609.24445">2609.24445</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25262.html">A Quantum Phase-based Comparator</a></div></td>
+<td>Alessandro Berti et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25262">2609.25262</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21556.html">Phase Separation in a system of Brownian inertial rotors</a></div></td>
 <td>Lucio Mauro Carenza et al.</td>
@@ -1862,11 +1868,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24289.html">In-situ X-ray imaging of reduction-nitridation in ferric oxide under high Pressure</a></div></td>
 <td>Yu Tao et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24289">2509.24289</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06960.html">Role of interaction anisotropy in polymer cononsolvency: insights from the Flory-Huggins-Potts framework</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="flory-huggins-360d.html">flory-huggins</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Satyen Dhamankar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06960">2506.06960</a></td>
 </tr>
 </tbody></table>

@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26681.html">Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
+<td>Victoria Byelova et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26681">2609.26681</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="rheology-7d.html">rheology</a></div></td>
 <td>Tanner A. Wilcoxson et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21204">2609.21204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.15405.html">A Symmetry-Constrained Fourier--Morse Framework for Compact Anisotropic Interaction Potentials</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
-<td>Hadis Ghodrati et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15405">2609.15405</a></td>
 </tr>
 </tbody></table>

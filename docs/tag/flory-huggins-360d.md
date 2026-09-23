@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flory-huggins — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <a href="flory-huggins-90d.html">90d</a> <strong>360d</strong> <a href="flory-huggins-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07754.html">Fusion of two critical points and accelerated phase dynamics in orientational ternary mixtures</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Hiroshi Yokota</td>
 <td><a href="http://arxiv.org/abs/2511.07754">2511.07754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06960.html">Role of interaction anisotropy in polymer cononsolvency: insights from the Flory-Huggins-Potts framework</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Satyen Dhamankar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06960">2506.06960</a></td>
 </tr>
 </tbody></table>

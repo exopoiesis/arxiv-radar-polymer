@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26547.html">Topology-Stratified Materials Discovery with A Flow-Based Generative Model</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a></div></td>
+<td>Jingyi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26547">2609.26547</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Romain Deloffre et al.</td>
@@ -1118,11 +1124,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26402.html">Increase in packing density during multi-layer powder spreading: An experimental and numerical study</a></div></td>
 <td>Olivier Gaboriault et al.</td>
 <td><a href="http://arxiv.org/abs/2509.26402">2509.26402</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14307.html">LLM-3D Print: Large Language Models To Monitor and Control 3D Printing</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a></div></td>
-<td>Yayati Jadhav et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14307">2408.14307</a></td>
 </tr>
 </tbody></table>

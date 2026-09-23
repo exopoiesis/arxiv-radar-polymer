@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26681.html">Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Victoria Byelova et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26681">2609.26681</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Tanner A. Wilcoxson et al.</td>
@@ -1064,11 +1070,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13458.html">An adaptive, data-driven multiscale approach for dense granular flows</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>B. Siddani et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13458">2505.13458</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.06960.html">Role of interaction anisotropy in polymer cononsolvency: insights from the Flory-Huggins-Potts framework</a></div><div class="paper-tags"><a href="flory-huggins-360d.html">flory-huggins</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Satyen Dhamankar et al.</td>
-<td><a href="http://arxiv.org/abs/2506.06960">2506.06960</a></td>
 </tr>
 </tbody></table>

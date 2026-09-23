@@ -2954,7 +2954,8 @@
   ],
   "title": "Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers",
   "topics": [
-   "Informatics & Data Infrastructure"
+   "Informatics & Data Infrastructure",
+   "Representation & Foundation Models"
   ],
   "updated": "2026-09-20"
  },
@@ -3096,5 +3097,133 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-09-21"
+ },
+ "2609.25262": {
+  "abstract": "Quantum comparators decide the order of two operands. They rely on reversible logic acting on basis-encoded integers, so their width grows with the precision. We introduce the Quantum Phase-based Comparator (QPC), which compares two values carried in relative phases instead. The circuit places the two phases, entered with opposite signs, between a pair of Hadamard gates, and a fixed offset centers the interference, so that the probability of measuring zero falls below one half exactly when the first phase is the smaller. We give two implementations. With hard-coded values, the two values are written into the parameters of two phase gates, and the comparison costs one qubit and five gates. With the register-driven cascade, the values are drawn from two $t$-qubit registers through binary-weighted controlled-phase gates, at a cost of one qubit beyond the registers and depth linear in $t$; since the cascade induces each phase linearly from the register content, one circuit handles a superposition of operand pairs. The readout yields a biased coin rather than a definite bit, and we quantify the shots that a decision takes at a given phase separation. Scaling both phases by an integer widens the decision margin at no cost in width or depth, and an adaptive doubling schedule turns this amplification into a shot count logarithmic in the inverse separation.",
+  "authors": [
+   "Alessandro Berti",
+   "Alessandro Poggiali"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Alessandro Berti",
+  "pdf_url": "http://arxiv.org/pdf/2609.25262",
+  "primary_category": "quant-ph",
+  "published": "2026-09-21",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "A Quantum Phase-based Comparator",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-09-21"
+ },
+ "2609.26469": {
+  "abstract": "Myelin membranes are tightly connected to the axon, forming an electrical route for rapid saltatory conduction of action potentials from node to node. Beneath the myelin, adjacent to the node, lie voltage-gated potassium (K$^+$) channels, whose fundamental role in conduction remains poorly understood. Constrained by biological data, we developed a finite element model of a node of Ranvier encompassing an adaxonal membrane separating oligodendrocyte cytoplasm from the periaxonal space, and solved the full coupled set of physical equations governing electrodiffusion and voltage profiles at the nanoscale. Remarkably, we find that nodal action potentials invert at the inner adaxonal myelin membrane. The hyperpolarization-driven opening of myelinic Kir4.1 channels produces an instantaneous, powerful K$^+$ prebuffering, clamping the periaxonal K$^+$ concentration and enabling high-frequency action potential generation. Together, these findings indicate that the periaxon maintains an electrical feedback loop with the node, and suggest a key evolutionary advantage of juxtaparanodal K$^+$ channel positioning.",
+  "authors": [
+   "T. M. Kamsma",
+   "R. van Roij",
+   "C. Spitoni",
+   "M. H. P. Kole"
+  ],
+  "categories": [
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "T. M. Kamsma",
+  "pdf_url": "http://arxiv.org/pdf/2609.26469",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-09-22",
+  "tags": [
+   "membranes"
+  ],
+  "title": "The nanoscopic submyelin space mediates efficient K$^+$ uptake and shapes nodal action potentials",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26547": {
+  "abstract": "Accurate generation of crystal structures is the foundation to the discovery of high-performance materials for extreme-environment applications, such as aerospace, additive manufacturing, and fusion energy systems. Although generative modeling has emerged as a promising approach for crystal design, its performance remains limited by the complex crystal structures and diverse chemical compositions. In this work, we develop UFO-MGen, a universal flow-based generative model that learns topological features of Wyckoff representations and leverages this information to accurately generate crystals across vast structural and chemical spaces. Compared with state-of-the-art generative models, UFO-MGen achieves the highest crystal generation success rate under a rigorous multi-stability evaluation framework, the highest SUN (stable, unique, novel) rate, and a remarkable extrapolation capability that has not been reported by previous models. Furthermore, a fine-tuning module is implemented to UFO-MGen for property-constrained crystal generation, enabling the inverse materials design toward target properties. The UFO-MGen opens a new avenue for accelerated materials discovery and providing a foundation for universal materials intelligence.",
+  "authors": [
+   "Jingyi Zhou",
+   "Oyshee Chowdhury",
+   "Noah Oyeniran",
+   "Chongze Hu"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Jingyi Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2609.26547",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "additive-manufacturing",
+   "generative-model"
+  ],
+  "title": "Topology-Stratified Materials Discovery with A Flow-Based Generative Model",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26681": {
+  "abstract": "The rationalization of protein hydrogel design is essential in creating bespoke and functional materials for a range of medical and healthcare applications, such as tissue engineering, wound healing and bio-sensors. The dynamic process of protein unfolding can significantly influence the resultant gel structure and behaviour - conformational changes in individual protein building blocks affect the bulk gel, whilst changes to bulk conditions influence how individual proteins move and respond. In order to characterize and control protein hydrogels, a multi-lengthscale picture must be built so that this complex interplay can be understood. We develop a coarse-grained computational model to investigate fundamental aspects of dynamic unfolding within chemically crosslinked protein hydrogels, focussing on the mesoscale structure during and after gelation. In simplifying protein unfolding to a single dynamic step, we are able to create a heterogeneous network formed of coarse-grained proteins. We observe evolving hydrogels consisting of regions of high-density protein clusters with a low degree of unfolding due to local crowding effects, interconnected by low-density stranded regions with a higher concentration of unfolded proteins. Systematically varying the barrier height for single protein unfolding demonstrates a weak influence on the mesoscale structure as characterised by fractal dimension and correlation length. Conversely, the measured changes in these parameters are greater after the gel experiences sustained conformational relaxation. This work demonstrates the effectiveness of coarse-grained modelling in capturing the heterogeneous mesoscale network of crosslinked unfoldable proteins. A greater predictive understanding of the structure and behaviour of protein hydrogels is gained through this model and will accelerate the design of novel biomaterials.",
+  "authors": [
+   "Victoria Byelova",
+   "Lorna Dougan",
+   "David Head"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "9 pages, 8 figures",
+  "first_author": "Victoria Byelova",
+  "pdf_url": "http://arxiv.org/pdf/2609.26681",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-22",
+  "tags": [
+   "coarse-grained",
+   "hydrogels"
+  ],
+  "title": "Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26734": {
+  "abstract": "Receptor-mediated endocytosis requires a particle to approach the cell membrane to within a few nanometers before ligand--receptor binding can occur. Existing continuum models often start from an already established contact and do not explicitly describe how crowding particles on the extracellular side influence the distribution of the particle near the membrane. We examine entropic depletion forces as one possible nonspecific contribution to this initial approach. For ideal depletants, the Asakura--Oosawa excluded-volume construction gives an exact depletion potential for the planar geometry before contact. The potential and force vanish continuously at the onset of excluded-volume overlap. This interaction provides a possible contribution to membrane proximity before specific binding, while its extension to curved wrapping geometries requires additional approximation. Within a reduced continuum model, we combine depletion attraction, ligand--receptor binding, membrane deformation, and cytoskeletal viscoelastic dissipation. The viscoelastic contact is formulated through a hereditary integral and a standard linear solid. The kinetic model gives a conditional minimum ligand density for complete engulfment, a finite particle-size window, and a stiffness-dependent upper limit. When the stationary radius lies inside the domain of finite positive wrapping times, the estimated wrapping time has a minimum at a radius that decreases with increasing binding energy density. At fixed viscosity and other independent parameters, the same time approximation predicts slower wrapping as cell stiffness increases. The two positive roots defining the size window merge at a limiting parameter value, which characterizes closure of the admissible size interval. Depletion attraction is interpreted as one possible contribution to particle-membrane association",
+  "authors": [
+   "Jinjie Liu",
+   "Zhongcan Ouyang",
+   "Hao Wu"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mes-hall",
+   "cond-mat.stat-mech",
+   "physics.bio-ph",
+   "q-bio.CB"
+  ],
+  "comment": "14 pages, 3 figures, 2 tables",
+  "first_author": "Jinjie Liu",
+  "pdf_url": "http://arxiv.org/pdf/2609.26734",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-22",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-22"
  }
 }

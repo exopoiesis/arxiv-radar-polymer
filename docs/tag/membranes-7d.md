@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17716.html">Activity-induced emergent flatness, instabilities and pattern formation in fluid membranes</a></div></td>
-<td>Debayan Jana et al.</td>
-<td><a href="http://arxiv.org/abs/2609.17716">2609.17716</a></td>
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26469.html">The nanoscopic submyelin space mediates efficient K$^+$ uptake and shapes nodal action potentials</a></div></td>
+<td>T. M. Kamsma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26469">2609.26469</a></td>
 </tr>
 </tbody></table>

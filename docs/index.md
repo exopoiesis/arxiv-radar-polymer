@@ -5,15 +5,39 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-22._
+_Updated 2026-09-23._
 
-**3736** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3741** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26469.html">The nanoscopic submyelin space mediates efficient K$^+$ uptake and shapes nodal action potentials</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
+<td>T. M. Kamsma et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26469">2609.26469</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26547.html">Topology-Stratified Materials Discovery with A Flow-Based Generative Model</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
+<td>Jingyi Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26547">2609.26547</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26681.html">Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Victoria Byelova et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26681">2609.26681</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26734.html">Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Jinjie Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26734">2609.26734</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
@@ -31,6 +55,12 @@ _Updated 2026-09-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.24529.html">Phase diagram morphology shapes droplet propulsion in chemical gradients</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Stefan Köstler et al.</td>
 <td><a href="http://arxiv.org/abs/2609.24529">2609.24529</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25262.html">A Quantum Phase-based Comparator</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Alessandro Berti et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25262">2609.25262</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-20</td>
@@ -163,35 +193,5 @@ _Updated 2026-09-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Abdulla Alhembar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.18364">2609.18364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18412.html">Measuring correlations in quantum and statistical systems</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>V. I. Yukalov et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18412">2609.18412</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Romain Deloffre et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19347.html">Kinematics-Grounded Agentic AI for Robotic Additive Manufacturing Process Planning</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/extrusion-30d.html">extrusion</a></div></td>
-<td>Jingzhan Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19347">2609.19347</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19367.html">Design and Experimental Validation of a 3D Printed Torsional Series Elastic Actuator for Safe Human Robot Interaction</a></div></td>
-<td>Joel Hidalgo Pisco et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19367">2609.19367</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.15405.html">A Symmetry-Constrained Fourier--Morse Framework for Compact Anisotropic Interaction Potentials</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Hadis Ghodrati et al.</td>
-<td><a href="http://arxiv.org/abs/2609.15405">2609.15405</a></td>
 </tr>
 </tbody></table>

@@ -28,6 +28,12 @@ current_window: 90d
 <td><a href="http://arxiv.org/abs/2609.24445">2609.24445</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25262.html">A Quantum Phase-based Comparator</a></div></td>
+<td>Alessandro Berti et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25262">2609.25262</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21556.html">Phase Separation in a system of Brownian inertial rotors</a></div></td>
 <td>Lucio Mauro Carenza et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27220.html">Light-driven active phase separation and droplet division</a></div><div class="paper-tags"><a href="coacervates-90d.html">coacervates</a></div></td>
 <td>Zi Lin et al.</td>
 <td><a href="http://arxiv.org/abs/2606.27220">2606.27220</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26272.html">Droplet Fusion as a Relaxation Process: Comparison with Shape Recovery of Newtonian and Viscoelastic Droplets</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Mohammad Moein Naderi et al.</td>
-<td><a href="http://arxiv.org/abs/2606.26272">2606.26272</a></td>
 </tr>
 </tbody></table>
