@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>selfies — 360d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <strong>360d</strong> <a href="selfies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Anagha Savit et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Zhaohan Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
 </tr>
 </tbody></table>

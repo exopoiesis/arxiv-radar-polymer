@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26983.html">Control of filament network rigidity by the condensation of crowding molecules</a></div></td>
+<td>Jiyong Cheon et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26983">2609.26983</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Shivashree Gowda et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.24792.html">Kinetic Turnover in the Early-Stage Nucleation of Multi-Shell Condensed Clusters</a></div></td>
 <td>Kaicheng Zhu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.24792">2608.24792</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23076.html">From Maxwell Fluid to Kelvin Voigt Solid: A Transient Network Model of Condensate Aging and Morphology Transition in Phase Separation</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Bhanjan Debnath</td>
-<td><a href="http://arxiv.org/abs/2608.23076">2608.23076</a></td>
 </tr>
 </tbody></table>

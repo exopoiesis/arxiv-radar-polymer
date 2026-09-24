@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
+<td>Robert W. Learsch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="composites-90d.html">composites</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Tanner A. Wilcoxson et al.</td>
@@ -206,11 +212,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.05151.html">On data-driven parameterizations of multidimensional generalized Langevin dynamics in the presence of a quadratic potential</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Maximilian Braun et al.</td>
 <td><a href="http://arxiv.org/abs/2607.05151">2607.05151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27133.html">Unraveling Internal Friction in a Coarse-Grained Protein Model</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Carlos Monago et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27133">2606.27133</a></td>
 </tr>
 </tbody></table>

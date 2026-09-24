@@ -3121,6 +3121,106 @@
   ],
   "updated": "2026-09-21"
  },
+ "2609.25663": {
+  "abstract": "Reconstructing the stress field of a planar viscoelastic flow from optical measurements loses its direct evidence wherever optical coverage is interrupted, and no improvement in optical precision restores an observation that was never made. We characterize what a second, velocity channel adds, and what neither channel can supply. Two calibrated optical components determine the local deviatoric stress pointwise, while velocity constrains spatial stress variation through momentum balance, so the two channels are complementary rather than redundant. The isotropic part of the stress is unobservable to both: the divergence of an isotropic field is a pure gradient, which the Leray projection annihilates, so every representable isotropic mode lies in the joint null space. That accounts for the null space exactly when the optical field is complete, and bounds it from below otherwise, since finite incomplete sampling and aperture zeros can remove further directions. We verify the count directly on three discretizations. In paired synthetic tests with finite measurement apertures, spatially correlated noise and optical stripe dropout, adding velocity reduces the mean whole-domain deviatoric error from 50.40% to 27.82% at 3% reference noise, and the improvement survives shared gaps, inverse-grid refinement at fixed physical sampling, and a constitutively generated stress field. The improvement does not rest on how the regularization parameter is chosen: it holds under both the expected-norm discrepancy rule and generalized cross-validation, and we report each selection with its position in the search interval, which is where the two rules differ.",
+  "authors": [
+   "Zijian Liu",
+   "Julian Olszewski",
+   "Bruce I. Gaynes",
+   "Jie Xu"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "physics.data-an"
+  ],
+  "comment": "12 pages, 5 figures, 2 tables. Supplementary material (28 pages) is included as an ancillary file. Companion paper: arXiv:2609.23787",
+  "first_author": "Zijian Liu",
+  "pdf_url": "http://arxiv.org/pdf/2609.25663",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-22",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.25997": {
+  "abstract": "Understanding how growth conditions govern structural order and ion transport in Prussian blue analogues (PBAs) thin films is essential for optimizing their electrochemical performance. Here, cobalt and nickel hexacyanoferrate (CoHCF and NiHCF) thin films were electrodeposited potentiostatically at temperatures between 20 and 60 degrees C. A combination of cyclic voltammetry, scanning electron microscopy, X-ray diffraction, and Raman spectroscopy was employed to elucidate the interplay between composition, crystallinity, and chemical structure. Under identical conditions, CoHCF exhibits a maximum current density approximately 2.2 times higher than NiHCF, indicating significantly faster electrochemical kinetics. X-ray diffraction reveals temperature-dependent lattice expansion without phase transitions, with a maximum near 40 degrees C, associated with structural relaxation and compositional variations. Raman spectroscopy further reveals temperature-dependent local structural evolution, where cyanide band narrowing at intermediate temperatures indicates improved short-range order, while band broadening at higher temperatures reflects increased defect density. These findings demonstrate that temperature-controlled defect redistribution governs both short- and long-range structural order in PBA thin films, directly influencing ion transport and electrochemical response. This work provides new insights into structure-property relationships in PBAs and establishes deposition temperature as a key parameter for tuning electrochemical functionality in hexacyanoferrate-based electrodes.",
+  "authors": [
+   "Larissa de O. Garcia",
+   "Michael Pohlitz",
+   "Mohammed F. Kalady",
+   "Christian K. Muller"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Larissa de O. Garcia",
+  "pdf_url": "http://arxiv.org/pdf/2609.25997",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-22",
+  "tags": [
+   "crystallinity",
+   "spectroscopy"
+  ],
+  "title": "Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26431": {
+  "abstract": "Active microrheology is an effective tool to determine the rheological properties of viscous, viscoelastic, or elastic materials on microscopic length scales. The positional response of an embedded probe particle to an externally applied oscillating driving force allows to indirectly characterize the properties of the surrounding media. We aim to explore the linear and nonlinear response of probe particles in a microrheological setup of planar geometry. For this purpose, we extend the computational method of fluid particle dynamics from viscous fluid-like to viscoelastic and elastic media, including nonlinear regimes. We consider a system confined by solid walls. In this case, we validate the approach by quantifying the linear response in terms of a Jeffreys model. Increasing the amplitude of the driving force, we observe distinct nonlinear effects. They include distorted stress-strain curves and a gradual net drift of probe particles initially positioned close to a wall. This drift vanishes in the viscous fluid-like and elastic solid-like limits, but is manifest for intermediate viscoelastic systems. We further address a setup of two probe particles in the absence of walls. They experience reciprocal pairwise oscillatory forcing. Here, nonlinearities in viscoelastic systems induce a net drift gradually moving the particles further apart from each other. Comparing with real setups, our implementation of the driving force is in line with experimental setups of optical tweezers or active magnetic microrheology.",
+  "authors": [
+   "Muhammed Muhsin Abdul Azeez",
+   "Henning Reinken",
+   "Andreas M. Menzel"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Muhammed Muhsin Abdul Azeez",
+  "pdf_url": "http://arxiv.org/pdf/2609.26431",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-22",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26442": {
+  "abstract": "Water's anomalous properties have been hypothesized to originate from a liquid-liquid critical point in the supercooled regime, separating high- and low-density liquid states. Experimental verification remains challenging due to rapid crystallization under these conditions. A recent study reported evidence for such a transition, based primarily on a pronounced increase in the heat capacity of rapidly heated low-density amorphous ice. Here, we show that this heat capacity increase can be explained without invoking a liquid-liquid transition. By combining simulations using a machine-learning potential trained on the state-of-the-art MB-pol water model, combined with the Tool-Narayanaswamy-Moynihan (TNM) model of the glass transition, we demonstrate that the observed signal can arise instead from a dynamical effect induced by the mobilization of rotational and translational molecular degrees of freedom during ultrafast heating. We further show that our findings are fully consistent with recent electron diffraction measurements showing structural arrest of supercooled water close to our predicted glass-transition temperature. These results provide an alternative interpretation of the experimental observations and highlight the importance of nonequilibrium glassy dynamics in the interpretation of the behavior of supercooled water on ultra-short time scales.",
+  "authors": [
+   "Florian Pabst",
+   "Ali Hassanali"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Florian Pabst",
+  "pdf_url": "http://arxiv.org/pdf/2609.26442",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-22",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Reinterpreting ultrafast experiments on supercooled water: Glass transition versus liquid-liquid criticality",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-22"
+ },
  "2609.26469": {
   "abstract": "Myelin membranes are tightly connected to the axon, forming an electrical route for rapid saltatory conduction of action potentials from node to node. Beneath the myelin, adjacent to the node, lie voltage-gated potassium (K$^+$) channels, whose fundamental role in conduction remains poorly understood. Constrained by biological data, we developed a finite element model of a node of Ranvier encompassing an adaxonal membrane separating oligodendrocyte cytoplasm from the periaxonal space, and solved the full coupled set of physical equations governing electrodiffusion and voltage profiles at the nanoscale. Remarkably, we find that nodal action potentials invert at the inner adaxonal myelin membrane. The hyperpolarization-driven opening of myelinic Kir4.1 channels produces an instantaneous, powerful K$^+$ prebuffering, clamping the periaxonal K$^+$ concentration and enabling high-frequency action potential generation. Together, these findings indicate that the periaxon maintains an electrical feedback loop with the node, and suggest a key evolutionary advantage of juxtaparanodal K$^+$ channel positioning.",
   "authors": [
@@ -3222,8 +3322,126 @@
   ],
   "title": "Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework",
   "topics": [
-   "Molecular Dynamics & Multiscale Modeling"
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
   ],
   "updated": "2026-09-22"
+ },
+ "2609.26943": {
+  "abstract": "Cavitation, the growth of bubbles in fluids and soft matter, plays a central role in tissue damage, ultrasound therapies, and material failure, yet the influence of viscoelastic dissipation on bubble dynamics remains unclear. Here, we investigate cavitation in polyacrylamide hydrogels with identical elastic moduli but different viscous dissipation. We observe a striking symmetry breaking transition: elastic gels rapidly develop ellipsoidal cavities before rupture, whereas viscoelastic gels sustain large, nearly spherical bubbles. A modified Rayleigh Plesset framework shows that viscous stresses suppress shape instabilities and delay symmetry breaking, whereas elastic stresses accelerate cavity deformation. Finite element simulations independently validate these findings. The Deborah number (De) further captures the competition between material relaxation and cavity growth, with higher De associated with predominantly elastic growth and lower De with greater relaxation. Together, our results establish viscous dissipation as a key stabilizing mechanism that governs bubble morphology and failure in soft materials. These results have direct implications for understanding cavitation-mediated damage in biological tissues, optimizing therapeutic ultrasound, and advancing mechanical characterization of hydrogels for engineering and food processing applications.",
+  "authors": [
+   "Sushma SP",
+   "Anshul Shrivastava",
+   "Imnatoshi Jamir",
+   "Aritra Chatterjee",
+   "Namrata Gundiah"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Sushma SP",
+  "pdf_url": "http://arxiv.org/pdf/2609.26943",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-22",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties",
+   "polymer-morphology",
+   "soft-matter"
+  ],
+  "title": "Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.26983": {
+  "abstract": "Understanding how liquid-liquid phase separation impacts the mechanics of filament networks 6 is a fundamental physical problem at the heart of biological cellular processes and soft material 7 design. While a few theoretical mechanisms have been proposed, a clear demonstration of the direct 8 coupling of phase separation to the overall network stiffness is missing. We report experiments 9 that reveal a universal mechanism by which the condensation of macromolecular crowders induces 10 a rigidity transition in a model filament network. We reconstituted stiff sterically interacting helical 11 filaments and polymeric crowders. Initially, the macromolecules were uniformly dissolved and the 12 filaments formed bundles that assembled a rigid entangled network. Once the crowders condensed 13 into droplets, the network structure lost its rigidity and its mechanical response weakened by an 14 order-of-magnitude. The subsequent dissolution of the condensates was accompanied by the re15 establishment of rigidity. Our results show that crowder phase separation modulates the mechanics 16 of filament networks by tuning the osmotic pressure holding the network together. This principle 17 may serve as a paradigm for devising dynamically tunable filamentous materials.",
+  "authors": [
+   "Jiyong Cheon",
+   "Zhengyan Lin",
+   "Dean Kim",
+   "Anirudh Malli",
+   "Itamar Kolvin"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "15 pages, 6 main figures, 3 appendices, 6 supplementary figures",
+  "first_author": "Jiyong Cheon",
+  "pdf_url": "http://arxiv.org/pdf/2609.26983",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-22",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Control of filament network rigidity by the condensation of crowding molecules",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.27036": {
+  "abstract": "Polymer property prediction lacks open, standardized benchmarks that enable rigorous comparison of machine-learning methods, with existing resources covering only a narrow fraction of polymer architectures, such as homopolymers. We introduce Polymer Benchmark 2026 (PolyBench26), an open dataset comprising nearly 250,000 polymer-property datapoints across eight physical properties, including data from experimental measurements, density functional theory, and molecular dynamics. The benchmark supports four evaluation tasks across homopolymers and alternating, random, and block copolymers: in-distribution property prediction, dataset-size scaling, repeat-unit complexity, and transfer to held-out polymer architectures. We compare language model, graph-based, and descriptor-based approaches and find graph-based models provide the lowest errors in property prediction, retain their advantage across the evaluated training-set sizes, and remain robust to increasing repeat-unit complexity. PolyBench26 provides a reproducible foundation for developing models for the increasingly complex polymer design space. The PolyBench26 benchmark is available open-source at https://github.com/rlearsch/PolymerBenchmark2026.",
+  "authors": [
+   "Robert W. Learsch",
+   "Nicholas Liesen",
+   "Daniel S. Levine",
+   "Anna M. Hiszpanski",
+   "Evan R. Antoniuk"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Robert W. Learsch",
+  "pdf_url": "http://arxiv.org/pdf/2609.27036",
+  "primary_category": "cs.LG",
+  "published": "2026-09-22",
+  "tags": [
+   "benchmarking",
+   "inverse-design",
+   "molecular-dynamics"
+  ],
+  "title": "An open benchmark for machine learning-based polymer property prediction",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-09-22"
+ },
+ "2609.28244": {
+  "abstract": "This paper presents the design and experimental evaluation of a fully solderless realization of a 400 V, 2.5 kW GaN-based variable speed drive (VSD), using screw-clamped resin molds and rubber compression pads instead of soldered interconnections. The power stage uses 650 V GaN power transistors and is operated at a switching frequency of 200 kHz. The solderless demonstrator is compared to a soldered reference realization using an identical printed circuit board (PCB). Over 120 thermal cycles with heatsink temperatures up to 90 °C, the solderless contacts show no degradation in effective on-state resistances (including contact resistances). Separately, open-loop vibration sweeps from 5 Hz to 2 kHz with acceleration amplitudes above 10 g were performed on the solderless assembly and left the continuously powered demonstrator electrically intact; subsequent resistance and nominal-power checks likewise indicate no contact degradation. An initial life-cycle assessment (LCA) indicated a higher embodied carbon footprint for the solderless realization due to 3D-printed resin molds, whereas a prospectively evaluated injection-molding scenario reduces the carbon footprint to near that of the soldered reference. The solderless assembly furthermore enables non-destructive component replacement, as demonstrated after a power transistor failure, as well as component re-use. These results support the feasibility of repair-oriented, industrially relevant kilowatt-class solderless power converters.",
+  "authors": [
+   "Luc Imperiali",
+   "Aaron Griesser",
+   "Jonas Huber"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "Submitted to an IEEE journal",
+  "first_author": "Luc Imperiali",
+  "pdf_url": "http://arxiv.org/pdf/2609.28244",
+  "primary_category": "eess.SY",
+  "published": "2026-09-23",
+  "tags": [
+   "generative-model",
+   "life-cycle-assessment",
+   "polymer-degradation"
+  ],
+  "title": "Modularity is Not Enough: Demonstration of a Solderless 400 V DC, 2.5 kW Three-Phase Inverter",
+  "topics": [
+   "Generative Design & Inverse Design",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-23"
  }
 }

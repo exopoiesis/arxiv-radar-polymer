@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Robert W. Learsch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Shivashree Gowda et al.</td>
@@ -920,11 +926,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01365.html">RheOFormer: A generative transformer model for simulation of complex fluids and flows</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Maedeh Saberi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.01365">2510.01365</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.01651.html">FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
-<td>Zhaohan Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2406.01651">2406.01651</a></td>
 </tr>
 </tbody></table>

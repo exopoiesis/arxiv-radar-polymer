@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>mechanical-properties — all</h1>
-  <span class="paper-count">875 papers</span>
+  <span class="paper-count">878 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,27 @@ current_window: all
 <tbody>
 <tr class="paper">
 <td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25663.html">Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry</a></div></td>
+<td>Zijian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25663">2609.25663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Muhammed Muhsin Abdul Azeez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26431">2609.26431</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26734.html">Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework</a></div></td>
 <td>Jinjie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26734">2609.26734</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
+<td>Sushma SP et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-20</td>

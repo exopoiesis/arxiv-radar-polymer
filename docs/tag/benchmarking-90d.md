@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="inverse-design-90d.html">inverse-design</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Robert W. Learsch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
 <td>Shivashree Gowda et al.</td>
@@ -212,11 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28289.html">Optimal parameterization of nonequilibrium generalized master equations from discrete-time experimental data</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Chih-Wei Joshua Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28289">2606.28289</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27467.html">Multi-Objective Molecular Generation with Frequency-Controlled Evolutionary Dynamics</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="selfies-90d.html">selfies</a></div></td>
-<td>Elia Colleoni et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27467">2606.27467</a></td>
 </tr>
 </tbody></table>

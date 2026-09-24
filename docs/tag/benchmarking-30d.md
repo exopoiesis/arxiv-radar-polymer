@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="inverse-design-30d.html">inverse-design</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Robert W. Learsch et al.</td>
+<td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Shivashree Gowda et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02637.html">The 2024 MRSI Data Processing and Quantification Challenge Synthetic Dataset</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>John T. LaMaster et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02637">2609.02637</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23885.html">A tale of perfect fit and phantom optima: how data-driven models can fail in real-time optimization</a></div></td>
-<td>Prithvi Dake et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23885">2608.23885</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
+<td>Sushma SP et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24529.html">Phase diagram morphology shapes droplet propulsion in chemical gradients</a></div></td>
 <td>Stefan Köstler et al.</td>
@@ -1292,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24227.html">Non-Invasive Detection of PROState Cancer with Novel Time-Dependent Diffusion MRI and AI-Enhanced Quantitative Radiological Interpretation: PROS-TD-AI</a></div></td>
 <td>Baltasar Ramos et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24227">2509.24227</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.23658.html">Twist-Free Enhancement of Strength and Modulus in Electrospun Yarns via Liquid-Assisted Capillary Densification</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Saujatya Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2509.23658">2509.23658</a></td>
 </tr>
 </tbody></table>

@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2609.26681">2609.26681</a></td>
 </tr>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="soft-matter-7d.html">soft-matter</a></div></td>
+<td>Sushma SP et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21501.html">Optimal control for duty-cycle-limited interferometry with single-NV centers</a></div></td>
 <td>Ugur Tamer et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21501">2609.21501</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
-<td>Abdulla Alhembar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18364">2609.18364</a></td>
 </tr>
 </tbody></table>

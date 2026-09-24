@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26983.html">Control of filament network rigidity by the condensation of crowding molecules</a></div></td>
+<td>Jiyong Cheon et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26983">2609.26983</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.24081.html">Enhanced thermal conductivity of (010) (AlxGa1-x)2O3 epitaxial films utilizing indium-catalyzed molecular beam epitaxy</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
 <td>Shivashree Gowda et al.</td>
@@ -368,11 +374,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30176.html">Trimers in the Extended Hubbard Model</a></div></td>
 <td>R. R. Montenegro-Filho et al.</td>
 <td><a href="http://arxiv.org/abs/2606.30176">2606.30176</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27220.html">Light-driven active phase separation and droplet division</a></div><div class="paper-tags"><a href="coacervates-90d.html">coacervates</a></div></td>
-<td>Zi Lin et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27220">2606.27220</a></td>
 </tr>
 </tbody></table>

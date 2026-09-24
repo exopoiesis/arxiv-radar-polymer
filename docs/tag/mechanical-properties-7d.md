@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,27 @@ current_window: 7d
 <tbody>
 <tr class="paper">
 <td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25663.html">Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry</a></div></td>
+<td>Zijian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25663">2609.25663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
+<td>Muhammed Muhsin Abdul Azeez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26431">2609.26431</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26734.html">Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework</a></div></td>
 <td>Jinjie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26734">2609.26734</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="soft-matter-7d.html">soft-matter</a></div></td>
+<td>Sushma SP et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-20</td>
@@ -62,17 +80,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20721.html">Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators</a></div></td>
 <td>Malte Schade et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20721">2609.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a></div></td>
-<td>Abdulla Alhembar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18364">2609.18364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Romain Deloffre et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
 </tr>
 </tbody></table>

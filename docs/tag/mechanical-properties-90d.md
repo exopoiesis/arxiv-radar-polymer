@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">112 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -17,9 +17,27 @@ current_window: 90d
 <tbody>
 <tr class="paper">
 <td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25663.html">Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry</a></div></td>
+<td>Zijian Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2609.25663">2609.25663</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
+<td>Muhammed Muhsin Abdul Azeez et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26431">2609.26431</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26734.html">Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework</a></div></td>
 <td>Jinjie Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26734">2609.26734</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="soft-matter-90d.html">soft-matter</a></div></td>
+<td>Sushma SP et al.</td>
+<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-20</td>
@@ -680,11 +698,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28567.html">Ultrafast directed transport via energy recuperation in non-Markovian systems</a></div></td>
 <td>Mateusz WIśniewski et al.</td>
 <td><a href="http://arxiv.org/abs/2606.28567">2606.28567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.26656.html">Analysing gelation transition through fractional viscoelasticity and Mittag-Leffler-Prabhakar function</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Yogesh M Joshi</td>
-<td><a href="http://arxiv.org/abs/2606.26656">2606.26656</a></td>
 </tr>
 </tbody></table>
