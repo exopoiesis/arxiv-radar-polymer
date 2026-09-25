@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-09-24._
+_Updated 2026-09-25._
 
-**3749** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3754** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -15,10 +15,40 @@ _Updated 2026-09-24._
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.29720.html">Microscopic origin of the Baumgärtel-Schausberger-Winter Relaxation Spectrum in Polymer Melts and Particle Rafts</a></div></td>
+<td>Dario Nichetti et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29720">2609.29720</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.29904.html">Extracting hydrogel properties by watching hydrogel particles moving through solid ice</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Yanxia Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29904">2609.29904</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.30162.html">From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>Sourin Chatterjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30162">2609.30162</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28244.html">Modularity is Not Enough: Demonstration of a Solderless 400 V DC, 2.5 kW Three-Phase Inverter</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a></div></td>
 <td>Luc Imperiali et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28244">2609.28244</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28655.html">Bayesian Monitoring of a Diffusive Particle in One Dimension</a></div></td>
+<td>Federico Gerbino et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28655">2609.28655</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Lauren Bogo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28734">2609.28734</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-22</td>
@@ -163,35 +193,5 @@ _Updated 2026-09-24._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21556.html">Phase Separation in a system of Brownian inertial rotors</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Lucio Mauro Carenza et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21556">2609.21556</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.21574.html">Frequency-swept Brillouin spectroscopy</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Lin Kang et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21574">2609.21574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.22533.html">Two-Stage Ordering Kinetics in Binary Mixtures of Ellipsoidal Particles</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Parameshwaran A et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22533">2609.22533</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Yin Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19618">2609.19618</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19667.html">Experimental study of the impact dynamics of polymeric hollow droplets</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Mohammad Mahdi Nasiri et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19667">2609.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.19800.html">Spontaneous filament formation and network self-assembly via active phase separation</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Elena Lucas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19800">2609.19800</a></td>
 </tr>
 </tbody></table>

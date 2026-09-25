@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a></div></td>
-<td>Yin Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19618">2609.19618</a></td>
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30162.html">From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a></div></td>
+<td>Sourin Chatterjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30162">2609.30162</a></td>
 </tr>
 </tbody></table>

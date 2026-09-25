@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">124 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30162.html">From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Sourin Chatterjee et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30162">2609.30162</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19618.html">Vestigial chirality from fluctuating loop currents on the kagome lattice</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
@@ -752,17 +758,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14020.html">A Set of Tutorials for the LAMMPS Simulation Package</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Simon Gravelle et al.</td>
 <td><a href="http://arxiv.org/abs/2503.14020">2503.14020</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07648.html">Continuous-time multifarious systems -- Part I: equilibrium multifarious self-assembly</a></div></td>
-<td>Jakob Metson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07648">2506.07648</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.07649.html">Continuous-time multifarious systems -- Part II: non-reciprocal multifarious self-organization</a></div></td>
-<td>Jakob Metson et al.</td>
-<td><a href="http://arxiv.org/abs/2506.07649">2506.07649</a></td>
 </tr>
 </tbody></table>

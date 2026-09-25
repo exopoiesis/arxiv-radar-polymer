@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 90d</h1>
-  <span class="paper-count">6 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <strong>90d</strong> <a href="thermal-conductivity-360d.html">360d</a> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -44,11 +44,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08005.html">Observation of giant nonvolatile magneto-thermal switching in superconductor-ferromagnet hybrids</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>Yui Sakamoto et al.</td>
 <td><a href="http://arxiv.org/abs/2607.08005">2607.08005</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.27716.html">Amorphous Fe-Sn nanofilms for anomalous-Nernst heat-flux sensing</a></div><div class="paper-tags"><a href="crystallinity-90d.html">crystallinity</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Kenji Tanabe et al.</td>
-<td><a href="http://arxiv.org/abs/2606.27716">2606.27716</a></td>
 </tr>
 </tbody></table>

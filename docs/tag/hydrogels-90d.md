@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29904.html">Extracting hydrogel properties by watching hydrogel particles moving through solid ice</a></div></td>
+<td>Yanxia Feng et al.</td>
+<td><a href="http://arxiv.org/abs/2609.29904">2609.29904</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26681.html">Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Victoria Byelova et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.29599.html">Manganese-Functionalized GelMA Hydrogels for MRI-Guided Immunotheranostics in Precision Oncology</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Motahareh Nazari et al.</td>
 <td><a href="http://arxiv.org/abs/2606.29599">2606.29599</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.28003.html">Porosity Effects on Cyclic Gas Invasion and Trapping in Deformable Porous Media</a></div></td>
-<td>Haiyi Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2606.28003">2606.28003</a></td>
 </tr>
 </tbody></table>

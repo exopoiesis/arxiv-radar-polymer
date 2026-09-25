@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Lauren Bogo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28734">2609.28734</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Sushma SP et al.</td>
@@ -1292,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17824.html">Micromechanical characterisation of osteoarthritic subchondral bone by micropillar compression</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Samuel McPhee et al.</td>
 <td><a href="http://arxiv.org/abs/2510.17824">2510.17824</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24227.html">Non-Invasive Detection of PROState Cancer with Novel Time-Dependent Diffusion MRI and AI-Enhanced Quantitative Radiological Interpretation: PROS-TD-AI</a></div></td>
-<td>Baltasar Ramos et al.</td>
-<td><a href="http://arxiv.org/abs/2509.24227">2509.24227</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-09-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Lauren Bogo et al.</td>
+<td><a href="http://arxiv.org/abs/2609.28734">2609.28734</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25663.html">Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry</a></div></td>
@@ -62,23 +68,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21574.html">Frequency-swept Brillouin spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a></div></td>
 <td>Lin Kang et al.</td>
 <td><a href="http://arxiv.org/abs/2609.21574">2609.21574</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19667.html">Experimental study of the impact dynamics of polymeric hollow droplets</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Mohammad Mahdi Nasiri et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19667">2609.19667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.19854.html">Inverse coefficient problem for the wave equation with nonlocal attenuation</a></div></td>
-<td>Yavar Kian et al.</td>
-<td><a href="http://arxiv.org/abs/2609.19854">2609.19854</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20721.html">Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators</a></div></td>
-<td>Malte Schade et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20721">2609.20721</a></td>
 </tr>
 </tbody></table>

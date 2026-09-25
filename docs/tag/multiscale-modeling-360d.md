@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multiscale-modeling — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="multiscale-modeling-7d.html">7d</a> <a href="multiscale-modeling-30d.html">30d</a> <a href="multiscale-modeling-90d.html">90d</a> <strong>360d</strong> <a href="multiscale-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -140,11 +140,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06904.html">Microstructure sensitive recurrent neural network surrogate model of crystal plasticity</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Michael D. Atkinson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06904">2510.06904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13458.html">An adaptive, data-driven multiscale approach for dense granular flows</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>B. Siddani et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13458">2505.13458</a></td>
 </tr>
 </tbody></table>

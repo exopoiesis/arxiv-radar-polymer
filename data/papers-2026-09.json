@@ -3443,5 +3443,145 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-09-23"
+ },
+ "2609.28655": {
+  "abstract": "We study the Bayesian monitoring of a single particle diffusing along a line, while an observer tracks it continuously using noisy measurements at each spatial point. The average Shannon entropy $\\overline{S(t)}$ associated with the posterior distribution of the particle's position quantifies the uncertainty that remains after conditioning on the sequence of measurements. We map the problem to the calculation of the moments of the partition functions of directed polymers in $1 + 1$ dimensions. For a constant monitoring rate, the entropy remains bounded for any finite measurement intensity and can be quantified using exact results from the Kardar-Parisi-Zhang equation, providing both the saturation value and the asymptotic behavior for long times. For a monitoring intensity that decreases according to a power law $\\sim t^{-α}$, two distinct asymptotic regimes emerge: $\\overline{S(t)} \\simeq \\tfrac12 \\ln t$ for $α> 1/2$ and $\\overline{S(t)} \\simeq α\\ln t$ for $0 < α< 1/2$. Both results are obtained using the replica method, which maps the problem onto an attractive Lieb-Liniger Hamiltonian with a time-dependent coupling: the two regimes can be understood from a perturbative expansion around free diffusion and around the attractive Lieb-Liniger ground state, respectively. We discuss the limiting case $α= 1/2$ and compare the predictions with simulations of discrete Gaussian and log-gamma polymer models.",
+  "authors": [
+   "Federico Gerbino",
+   "Guido Giachetti",
+   "Pierre Le Doussal",
+   "Andrea De Luca"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "6 pages (main text) + 2 pages (End Matter) + 15 pages (Supplemental Material)",
+  "first_author": "Federico Gerbino",
+  "pdf_url": "http://arxiv.org/pdf/2609.28655",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-23",
+  "tags": [],
+  "title": "Bayesian Monitoring of a Diffusive Particle in One Dimension",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.28734": {
+  "abstract": "The thermal history of the melt pool in laser powder bed fusion (LPBF) additive manufacturing processes governs the solidification microstructure and the mechanical properties of the resulting 3D-printed parts. Dual-laser systems offer additional degrees of freedom to control the cooling profile by reheating material behind the melt pool, but calibrating process parameters is challenging due to the complex physics of the process. We present an optimization-based iterative learning controller that determines optimal power, velocity, and offset settings by judiciously combining simulations and experiments: the model supplies search directions while feedback obtained from experiments on the real plant corrects for parameter errors, enabling convergence despite model inaccuracies. The approach is validated in simulation using a high-fidelity thermal model as a plant surrogate, with deliberate mismatches in absorption coefficient, latent heat treatment, and powder-bed effective conductivity between plant and model. Results show that the controller drives the plant cost down by over an order of magnitude and reaches a tight band of low-cost solutions across seeds, while model-only feedforward optimization stalls at a substantially higher plant cost despite appearing to converge on the surrogate.",
+  "authors": [
+   "Lauren Bogo",
+   "Adam Clare",
+   "Dominic Liao-McPherson"
+  ],
+  "categories": [
+   "eess.SY"
+  ],
+  "comment": "7 pages, 9 figures, 2 tables. Accepted to the 2026 IEEE Conference on Control Technology and Applications (CCTA)",
+  "first_author": "Lauren Bogo",
+  "pdf_url": "http://arxiv.org/pdf/2609.28734",
+  "primary_category": "eess.SY",
+  "published": "2026-09-23",
+  "tags": [
+   "additive-manufacturing",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-09-23"
+ },
+ "2609.29720": {
+  "abstract": "Entangled polymer melts exhibit the robust two-branch Baumgärtel-Schausberger-Winter (BSW) relaxation spectrum, while related spectra occur in nonpolymeric monodisperse disordered systems. In spite of the successful application of BSW to many different materials, a molecular derivation of these spectra is lacking. We construct a molecular theory in which a chain segment moves relative to a screened, dynamically responding multichain environment. Gaussian-chain preaveraging gives $M_{\\rm seg}(Δm)\\sim(Δm)^{-1/2}$, hence $λ_p\\sim p^{3/2}$ and, after stress projection, $H(τ)\\simτ^{-2/3}$. Independently, longitudinal primitive-path diffusion gives contour-length fluctuations with $H(τ)\\simτ^{1/4}$. A molecular-weight-constrained implementation is tested simultaneously against experimental $G'(ω)$ and $G''(ω)$ data for four monodisperse polybutadiene (PBD) melts, without fitting spectral exponents or individual modal weights. The resulting BSW spectrum exhibits a continuous transfer from the fast cooperative to the slow constraint-renewal cascade before a finite-chain terminal edge. A common two-sector caged dynamics then connects polymers to particle rafts without assuming identical microscopic mechanisms.",
+  "authors": [
+   "Dario Nichetti",
+   "H. Henning Winter",
+   "Alessio Zaccone"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn",
+   "cond-mat.mtrl-sci",
+   "cond-mat.stat-mech",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Dario Nichetti",
+  "pdf_url": "http://arxiv.org/pdf/2609.29720",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-24",
+  "tags": [],
+  "title": "Microscopic origin of the Baumgärtel-Schausberger-Winter Relaxation Spectrum in Polymer Melts and Particle Rafts",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.29904": {
+  "abstract": "Strikingly, when hydrogel particles are embedded in ice in a temperature gradient, they move through the solid ice towards warmer temperatures, while swelling as they warm up. This motion comes from a flow of unfrozen water through the hydrogel mesh, driven by a process known as `cryosuction'. Here, we show how one can use this behavior to measure -- with extremely high resolution -- a range of different hydrogel transport properties, and how these change as a hydrogel deswells. These properties include permeability, compressibility, and poroelastic diffusivity: all of which are challenging to measure, but widely important for phenomena involving swelling, dehydration, transpiration and filtration. We demonstrate the measurement technique using poly(ethylene glycol) diacrylate (PEGDA) hydrogels. The technique uses picoliter-scale hydrogel volumes, and yields measurements of hydrogel properties that are consistent with existing literature data. The high resolution of our measurements also allows us to test commonly-used, classical predictions for hydrogel properties (derived assuming an idealized, homogeneous polymer network in the hydrogel). We show that these classical predictions do not work well, highlighting the need for new models that can accurately describe real hydrogels.",
+  "authors": [
+   "Yanxia Feng",
+   "Se-Hyeong Jung",
+   "Camillo Sirvinski",
+   "Dan Balkanyi",
+   "Federico Paratore",
+   "Lucio Isa",
+   "Robert W. Style"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Yanxia Feng",
+  "pdf_url": "http://arxiv.org/pdf/2609.29904",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-24",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Extracting hydrogel properties by watching hydrogel particles moving through solid ice",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30162": {
+  "abstract": "We study the spin-1/2 nearest-neighbor Heisenberg model on the breathing pyrochlore lattice in the mixed ferro-antiferromagnetic regime, where one tetrahedral sublattice is antiferromagnetic and the other ferromagnetic. The classical ground-state manifold is then that of the nearest-neighbor face-centered-cubic (fcc) antiferromagnet built from composite tetrahedral moments. Classical Monte Carlo simulations and the self-consistent Gaussian approximation show that thermal order-by-disorder lifts its subextensive degeneracy and selects the collinear Type-I state with wave vector $X=(1,0,0)$ through a strongly first-order transition. Pseudofermion functional renormalization group calculations for $S=1/2$ and $S=1$ reveal a nonmagnetic window adjacent to the decoupled antiferromagnetic-tetrahedron limit, beyond which $X$ order reappears. Density matrix renormalization group calculations show that this window is not featureless: the antiferromagnetic tetrahedra develop nearly ideal tetramer correlations, with four bonds carrying $\\langle\\mathbf{S}_i\\cdot\\mathbf{S}_j\\rangle\\simeq-1/2$ and the two opposite bonds $\\simeq+1/4$, while the structure factor retains broad maxima at $X$. A third-order effective Hamiltonian in the tetrahedral-singlet manifold explains this: reversing the sign of the inter-tetrahedron coupling converts Tsunetsugu's dimer selection into a uniform tetramer selection, as confirmed by exact diagonalization. A dynamic high-temperature expansion traces how local tetrahedral excitations give way to low-energy $X$-centered spectral weight. Finally, we place density-functional parameters for eight structures of spin-3/2 breathing chromium thiospinels in the classical phase diagram. The mapping reproduces the $\\mathbf{k}=(1,0,0)$ order of CuInCr$_4$S$_8$, accounts for the absence of order in LiGaCr$_4$S$_8$, and predicts Type-I order for LiInCr$_4$S$_8$.",
+  "authors": [
+   "Sourin Chatterjee",
+   "Kelvin Salou-Smith",
+   "Benedikt Schneider",
+   "Imre Hagymási",
+   "Arnaud Ralko",
+   "Johannes Reuther",
+   "Jeffrey G. Rau",
+   "Karlo Penc",
+   "Harald O. Jeschke",
+   "Ludovic D. C. Jaubert",
+   "Yasir Iqbal"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "38 pages, 23 figures, 6 tables",
+  "first_author": "Sourin Chatterjee",
+  "pdf_url": "http://arxiv.org/pdf/2609.30162",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-09-24",
+  "tags": [
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-24"
  }
 }
