@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">186 papers</span>
+  <span class="paper-count">185 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1124,11 +1124,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00516.html">Time-marching multi-level variational multiscale tensor decomposition algorithm for heat conduction with moving heat source</a></div></td>
 <td>Xinyi Guan et al.</td>
 <td><a href="http://arxiv.org/abs/2510.00516">2510.00516</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.26402.html">Increase in packing density during multi-layer powder spreading: An experimental and numerical study</a></div></td>
-<td>Olivier Gaboriault et al.</td>
-<td><a href="http://arxiv.org/abs/2509.26402">2509.26402</a></td>
 </tr>
 </tbody></table>

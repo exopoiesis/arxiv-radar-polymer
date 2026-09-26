@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">72 papers</span>
+  <span class="paper-count">71 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -440,11 +440,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04679.html">Non-resonant spin injection of exciton-polaritons with halide perovskites at room temperature</a></div></td>
 <td>Pablo Vaquer de Nieves et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04679">2510.04679</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.17824.html">Micromechanical characterisation of osteoarthritic subchondral bone by micropillar compression</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Samuel McPhee et al.</td>
-<td><a href="http://arxiv.org/abs/2510.17824">2510.17824</a></td>
 </tr>
 </tbody></table>

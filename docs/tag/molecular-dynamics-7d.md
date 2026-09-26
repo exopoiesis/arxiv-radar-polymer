@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,23 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a> · <a href="inverse-design-7d.html">inverse-design</a></div></td>
 <td>Robert W. Learsch et al.</td>
 <td><a href="http://arxiv.org/abs/2609.27036">2609.27036</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="composites-7d.html">composites</a> · <a href="rheology-7d.html">rheology</a></div></td>
-<td>Tanner A. Wilcoxson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21204">2609.21204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21297.html">Granular thermostat implementation within the soft-sphere Discrete Element Method (DEM) framework, considerations and limitations</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Marco Previtali et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21297">2609.21297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22533.html">Two-Stage Ordering Kinetics in Binary Mixtures of Ellipsoidal Particles</a></div><div class="paper-tags"><a href="phase-separation-7d.html">phase-separation</a></div></td>
-<td>Parameshwaran A et al.</td>
-<td><a href="http://arxiv.org/abs/2609.22533">2609.22533</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">309 papers</span>
+  <span class="paper-count">306 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1850,23 +1850,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.08642.html">Contact temporal network during motility induced phase separation</a></div></td>
 <td>Italo Salas et al.</td>
 <td><a href="http://arxiv.org/abs/2506.08642">2506.08642</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15773.html">Phase separation for the 2D Cahn-Hilliard equation with a background shear flow</a></div></td>
-<td>Yu Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15773">2509.15773</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.25616.html">Hydrodynamic interactions destroy motility-induced phase separation in active suspensions</a></div></td>
-<td>Tingtao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2509.25616">2509.25616</a></td>
-</tr>
-<tr class="paper">
-<td>2025-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.00285.html">Relativistic hydrodynamics with spinodal decomposition</a></div></td>
-<td>Joseph Kapusta et al.</td>
-<td><a href="http://arxiv.org/abs/2510.00285">2510.00285</a></td>
 </tr>
 </tbody></table>
