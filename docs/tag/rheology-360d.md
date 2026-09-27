@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03644.html">Geometrically Exact Hard Magneto-Elastic Cosserat Shells: Static Formulation for Shape Morphing</a></div></td>
 <td>Mohammadjavad Javadi et al.</td>
 <td><a href="http://arxiv.org/abs/2510.03644">2510.03644</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.01365.html">RheOFormer: A generative transformer model for simulation of complex fluids and flows</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Maedeh Saberi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.01365">2510.01365</a></td>
 </tr>
 </tbody></table>
