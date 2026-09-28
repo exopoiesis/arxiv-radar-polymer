@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03557.html">CoorGrasp: Coordinated Contact Control for Adaptive Dexterous Grasping Under Uncertainty</a></div></td>
 <td>Mingrui Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2607.03557">2607.03557</a></td>
-</tr>
-<tr class="paper">
-<td>2026-06-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2606.30176.html">Trimers in the Extended Hubbard Model</a></div></td>
-<td>R. R. Montenegro-Filho et al.</td>
-<td><a href="http://arxiv.org/abs/2606.30176">2606.30176</a></td>
 </tr>
 </tbody></table>

@@ -3583,5 +3583,159 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-09-24"
+ },
+ "2609.30359": {
+  "abstract": "I show that the initial conditions imposed by Balan [Phys.\\ Fluids \\textbf{35}, 113108 (2023)] are incompatible with a nonzero retardation time, so that the problem solved is not impulsive start-up, but, as I prove exactly, the start-up of a plate ramped as $1 - \\mathrm{e}^{-t/λ_2}$ on the retardation timescale $λ_2$ (a material parameter, not a setting in a rheometer). Values digitized from that paper's viscoelastic figures fall on the ramped-plate solution, not on Tanner's start-up solution. The large negative wall normal stress reported for the corotational model is a grid-dependent artifact due to the same error in the initial data. An open-source code repository provides annotated notebooks reproducing every figure and number in this Comment.",
+  "authors": [
+   "Ivan C. Christov"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "4 pages, 1 figure. Comment on C. Balan, Phys. Fluids 35, 113108 (2023). Code and notebooks: doi:10.5281/zenodo.22930190",
+  "first_author": "Ivan C. Christov",
+  "pdf_url": "http://arxiv.org/pdf/2609.30359",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-09-24",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Comment on \"Note on the start-up of Couette flow for viscoelastic fluids\" [Phys. Fluids 35, 113108 (2023)]",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30520": {
+  "abstract": "The mechanical properties of network-based materials have been extensively studied under qui- escent conditions, yet their self-assembly in nature occurs mainly in a mechanically stressed envi- ronment. Here, we show that the stiffness of collagen networks, one of the main building blocks of the mammalian extracellular matrix, can be tuned by applying shear stress during gelation, which first strains and aligns the material, then triggers a dramatic irreversible increase in the elastic modulus. This stiffening is anchored by maintaining the stress until the gel is fully matured. Using particle-based simulations, we show that the underlying microscopic mechanism is likely generic to a broad class of network-based systems and arises from two synergetic effects: changes in the network orientation and topology through the formation of permanent contacts that stabilize the system. Our findings are rationalized using a rigidity percolation framework and offer a general principle for encoding elasticity in biological and synthetic networks.",
+  "authors": [
+   "Lens M. Dedroog",
+   "Olivier Deschaume",
+   "Carmen Bartic",
+   "Yovan de Coene",
+   "Erin Koos",
+   "Minne P. Lettinga",
+   "Mehdi Bouzid"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Lens M. Dedroog",
+  "pdf_url": "http://arxiv.org/pdf/2609.30520",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-24",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Shear stress during self-assembly encodes stiffness of network-based materials",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30596": {
+  "abstract": "The ground state, magnetization curves, low-temperature thermodynamics, and heat-engine performance of the fully frustrated spin-$1/2$ Heisenberg four-leg tube with antiferromagnetic inter- and intra-plaquette coupling constants J1 and J2 are examined using exact diagonalization, density matrix renormalization group, and localized-magnon theory. In the unfrustrated to weakly frustrated regime J2/J1 << 2, the system exhibits a continuous field-driven quantum phase transition between the gapped Haldane phase and a gapless Tomonaga-Luttinger quantum spin liquid. In the highly frustrated regime J2/J1 > 2, the system contrarily displays discontinuous field-driven quantum phase transitions between the Wigner magnon crystals, which are manifested in zero-temperature magnetization curves as intermediate plateaus at zero, one-quarter, one-half, and three-quarters of the saturation magnetization. The low-temperature magnetic and thermodynamic properties in this regime are accurately captured by an effective interacting lattice-gas model of two monomer quasi-particle species constructed from localized one- and two-magnon states. Finally, we explore a quantum Stirling heat engine using the fully frustrated four-leg tube as the working medium. The work output and efficiency are strongly suppressed near discontinuous field-induced transitions and reach pronounced local maxima well inside the stability regions of the Wigner magnon crystals.",
+  "authors": [
+   "Azam Zoshki",
+   "Hamid Arian Zad",
+   "Jozef Strecka"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.str-el"
+  ],
+  "comment": "14 pages, 8 figures",
+  "first_author": "Azam Zoshki",
+  "pdf_url": "http://arxiv.org/pdf/2609.30596",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-09-24",
+  "tags": [],
+  "title": "Emergent Wigner magnon crystals in a fully frustrated Heisenberg four-leg tube",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-24"
+ },
+ "2609.30970": {
+  "abstract": "Growing biochemical systems are intrinsically noisy, with one important source of stochasticity arising from the discrete reaction events of the underlying biochemical network. Because growing systems do not generally admit stationary abundance distributions, it is unclear how to separate this intrinsic chemical noise from other sources of variability in population and single-cell data. Here we develop a large-deviation theory for exponentially growing stochastic chemical reaction networks by decomposing abundance into volume and composition. In these coordinates, balanced growth corresponds to a stable composition together with exponentially increasing volume. We show that composition fluctuations satisfy a large-deviation principle with speed equal to the volume of the growing system, and the corresponding quasipotential is selected by a solution of the contact Hamilton--Jacobi equation. We also derive a fluctuation theory for accumulated observables and show that their covariances decay with accumulated-volume, rather than with physical time. Applications to a minimal autocatalytic network and a coarse-grained cellular growth model demonstrate how the theory predicts composition quasipotentials, growth-rate fluctuations, and correlations between observables. The framework therefore provides a stochastic null model for single-cell heterogeneity generated by the intrinsic stochasticity of the underlying chemical reaction network.",
+  "authors": [
+   "Praful Gagrani",
+   "Ignacio Madrid",
+   "Tetsuya J Kobayashi"
+  ],
+  "categories": [
+   "q-bio.MN",
+   "cond-mat.stat-mech",
+   "physics.chem-ph"
+  ],
+  "comment": "13 pages, 6 figures",
+  "first_author": "Praful Gagrani",
+  "pdf_url": "http://arxiv.org/pdf/2609.30970",
+  "primary_category": "q-bio.MN",
+  "published": "2026-09-25",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Large-deviations theory for growing chemical reaction networks",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31143": {
+  "abstract": "Weakly flexible, directed polymers can adopt a potentially infinite variety of conformations, some of them chiral. We develop a second-virial theory for semi-rigid polymers embedded in a nematic environment based on the assumption that the chains possess no intrinsic molecular chirality but can take on weakly helical conformations of either handedness. We demonstrate how these transient helical fluctuations can be exploited to predict the degree of chain stiffening induced by molecular crowding. The theoretical predictions are in good agreement with large-scale molecular dynamics simulations of bead-spring polymers with tunable backbone flexibility. Although both theory and simulations rule out spontaneous global chiral symmetry breaking imparted by chain conformations alone, they do reveal that polymers can develop pronounced enantiomeric shapes. Nematic fluids of semi-rigid polymers can be viewed as compensated cholesterics composed of transiently helical polymers with zero enantiomeric excess. By quantifying the degree of compensated chiral order developed over a broad range of concentrations and persistence lengths, two distinct regimes of weak and strong enantiomerism can be identified. A crossover between the two occurs when the chain persistence length drops below roughly three times the contour length.",
+  "authors": [
+   "S. Biswas",
+   "W. S. Fall",
+   "H. H. Wensink"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "13 pages, 10 figures",
+  "first_author": "S. Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2609.31143",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-09-25",
+  "tags": [
+   "molecular-dynamics"
+  ],
+  "title": "Shape enantiomerism in semi-rigid polymer liquid crystals",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-09-25"
+ },
+ "2609.31270": {
+  "abstract": "Polymers are widely used as functional insulating materials, but predicting their dielectric behavior is challenging because multiple mechanisms, acting across different spatial and temporal scales, contribute to their response. In polyethylene (PE), one of the most common polymers, electronic, atomic, and mesoscale dynamics must all be considered.   In this work, semicrystalline models of polyethylene were developed and investigated using a multiscale approach. Quantum simulations were employed to describe electronic and vibrational contributions to the dielectric response, while classical molecular dynamics simulations captured the behavior of polymer chains at room temperature and frequencies down to the 10-100 MHz range.   The study focuses on the impact of radio-oxidation defects on the dielectric properties of polyethylene. Quantum calculations reveal how electronic and vibrational contributions depend on the local atomic environment surrounding these defects. Comparison with molecular dynamics results highlights the influence of temperature on the static dielectric constant. Structural analyses further assess the effect of each defect type on PE crystallinity.   Analysis of dipolar correlation functions shows that different defects interact with one another and with the polymer matrix in distinct ways, affecting permittivity and dielectric loss peaks. For all defect types, defect-defect interactions provide the largest contribution to dielectric response. While most oxidized groups exhibit positive coupling with the PE matrix, alcohol defects display a negative cross-correlation, partially offsetting their impact on the dielectric properties.   Our results also show that ketone groups produce the largest dielectric loss between the defects studied.",
+  "authors": [
+   "Roshal Perepadan Shaju",
+   "Guido Roma",
+   "Xavier Colin"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.soft",
+   "physics.app-ph",
+   "physics.comp-ph"
+  ],
+  "comment": "36 pages, 11 figures",
+  "first_author": "Roshal Perepadan Shaju",
+  "pdf_url": "http://arxiv.org/pdf/2609.31270",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-09-25",
+  "tags": [
+   "crystallinity",
+   "dielectric-properties",
+   "molecular-dynamics"
+  ],
+  "title": "Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-09-25"
  }
 }

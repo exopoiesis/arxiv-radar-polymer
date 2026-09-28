@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">124 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,17 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05788.html">On diffusion posterior sampling via sequential Monte Carlo for zero-shot scaffolding of protein motifs</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>James Matthew Young et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05788">2412.05788</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.01446.html">The emergent dynamics of double-folded randomly branching ring polymers</a></div></td>
-<td>Elham Ghobadpour et al.</td>
-<td><a href="http://arxiv.org/abs/2503.01446">2503.01446</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.14020.html">A Set of Tutorials for the LAMMPS Simulation Package</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simon Gravelle et al.</td>
-<td><a href="http://arxiv.org/abs/2503.14020">2503.14020</a></td>
 </tr>
 </tbody></table>

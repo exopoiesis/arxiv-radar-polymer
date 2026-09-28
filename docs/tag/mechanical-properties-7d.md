@@ -16,6 +16,18 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30359.html">Comment on &quot;Note on the start-up of Couette flow for viscoelastic fluids&quot; [Phys. Fluids 35, 113108 (2023)]</a></div></td>
+<td>Ivan C. Christov</td>
+<td><a href="http://arxiv.org/abs/2609.30359">2609.30359</a></td>
+</tr>
+<tr class="paper">
+<td>2026-09-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30520.html">Shear stress during self-assembly encodes stiffness of network-based materials</a></div></td>
+<td>Lens M. Dedroog et al.</td>
+<td><a href="http://arxiv.org/abs/2609.30520">2609.30520</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
 <td>Lauren Bogo et al.</td>
@@ -44,17 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="soft-matter-7d.html">soft-matter</a></div></td>
 <td>Sushma SP et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23737.html">Experimentally validated process-microstructure-property relations of bainitic steels derived from phase-field simulations</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Dhanunjaya Kumar Nerella et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23737">2609.23737</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23787.html">Design of a combined polarimetric and velocimetric measurement for viscoelastic stress, and its constitutive resolving power</a></div></td>
-<td>Zijian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.23787">2609.23787</a></td>
 </tr>
 </tbody></table>
