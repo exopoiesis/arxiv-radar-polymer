@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11727.html">Multi-objective Bayesian Optimization with Human-in-the-Loop for Flexible Neuromorphic Electronics Fabrication</a></div></td>
 <td>Benius Dunn et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11727">2510.11727</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02715.html">Fully automated inverse co-optimization of templates and block copolymer blending recipes for DSA lithography</a></div><div class="paper-tags"><a href="block-copolymer-360d.html">block-copolymer</a></div></td>
-<td>Yuhao Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02715">2510.02715</a></td>
 </tr>
 </tbody></table>

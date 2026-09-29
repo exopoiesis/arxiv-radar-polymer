@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1280,17 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04892.html">Effect of ice nucleating proteins on the structure-property relationships of ice: A molecular dynamics study</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>A. K. Shargh et al.</td>
 <td><a href="http://arxiv.org/abs/2510.04892">2510.04892</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02688.html">Ohta-Kawasaki Model Reveals Patterns on Multicomponent Vesicles</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Wangbo Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02688">2510.02688</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02904.html">Dynamic roughening of cities driven by multiplicative noise</a></div></td>
-<td>Martin Hendrick et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02904">2510.02904</a></td>
 </tr>
 </tbody></table>

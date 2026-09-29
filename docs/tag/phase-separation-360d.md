@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">305 papers</span>
+  <span class="paper-count">304 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1838,11 +1838,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05415.html">The roles of elasticity and dimension in liquid-gel phase separation</a></div></td>
 <td>Shichen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05415">2510.05415</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.02688.html">Ohta-Kawasaki Model Reveals Patterns on Multicomponent Vesicles</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Wangbo Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2510.02688">2510.02688</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>band-gap — 360d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="band-gap-7d.html">7d</a> <a href="band-gap-30d.html">30d</a> <a href="band-gap-90d.html">90d</a> <strong>360d</strong> <a href="band-gap-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18860.html">An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
 <td>Harikrishna Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18860">2510.18860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.03114.html">Electrochemical insights into manganese-cobalt doped $α-Fe_2O_3$ nanomaterial for cholesterol detection: A comparative approach</a></div><div class="paper-tags"><a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Sushmitha S et al.</td>
-<td><a href="http://arxiv.org/abs/2510.03114">2510.03114</a></td>
 </tr>
 </tbody></table>
