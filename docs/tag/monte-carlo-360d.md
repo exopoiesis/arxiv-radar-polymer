@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05259.html">Direct measurement of photons from the electron-hadron bremsstrahlung at the EIC</a></div></td>
 <td>L. Adamczyk et al.</td>
 <td><a href="http://arxiv.org/abs/2510.05259">2510.05259</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.16872.html">Unveiling Complex Territorial Socio-Economic Dynamics: A Statistical Mechanics Approach</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Pierpaolo Massoli</td>
-<td><a href="http://arxiv.org/abs/2506.16872">2506.16872</a></td>
 </tr>
 </tbody></table>
