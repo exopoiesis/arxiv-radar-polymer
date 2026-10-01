@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dielectric-properties — all</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <a href="dielectric-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -122,17 +122,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2411.06226.html">Terahertz-permittivity of Carbon Nitrides: Revealing humidity-enhanced dielectric properties on the picosecond timescales relevant for charge carrier photogeneration</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Reehab Jahangir et al.</td>
 <td><a href="http://arxiv.org/abs/2411.06226">2411.06226</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11506.html">Rheological behavior of molybdenum disulfide (MoS2) inks under electric fields: influence of concentration and voltage</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Pedro C Rijo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11506">2408.11506</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09502.html">The Electrical Design of a Membrane Antenna for Lunar-based Low-frequency Radio Telescope</a></div></td>
-<td>Suonanben et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09502">2408.09502</a></td>
 </tr>
 </tbody></table>

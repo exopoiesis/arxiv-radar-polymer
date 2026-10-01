@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogels — all</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">167 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1016,53 +1016,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01533.html">Double-network-inspired mechanical metamaterials</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>James Utama Surjadi et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01533">2409.01533</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17247.html">Gellan-Based Hydrogels and Microgels for culturage heritage: a rheological perspective</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Silvia Franco et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17247">2408.17247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13014.html">Contraction response of a polyelectrolyte hydrogel under spatially nonuniform electric fields</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ekrem Bahceci et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13014">2408.13014</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11560.html">Collective dynamics and elasto-chemical cluster waves in communicating colloids with explicit size response</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
-<td>Nils Göth et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11560">2408.11560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11642.html">A diamond heater-thermometer microsensor for measuring localized thermal conductivity: a case study in gelatin hydrogel</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Linjie Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11642">2408.11642</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08573.html">Meta-creatures: Developing an omnipotent hydrogel cell to construct bio-inspired systems</a></div></td>
-<td>Hanqing Dai et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08573">2408.08573</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03196.html">Microfluidic 3D Cell Culture: Potential Application of Collagen Hydrogels with an Optimal Dose of Bioactive Glasses</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Faezeh Ghobadi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03196">2408.03196</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02560.html">Minimal actuation and control of a soft hydrogel swimmer from flutter instability</a></div></td>
-<td>Ariel Surya Boiardi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02560">2408.02560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01828.html">Properties of promising cartilage implants based on cellulose-polyacrylamide composite hydrogels: results of in vivo tests carried out over a period of 90-120 days</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="polymerization-all.html">polymerization</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>
-<td>Alexander Buyanov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01828">2408.01828</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rheology — all</h1>
-  <span class="paper-count">208 papers</span>
+  <span class="paper-count">200 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1214,53 +1214,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01229.html">Thermo-elastodynamics of nonlinearly viscous solids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>S. Almi et al.</td>
 <td><a href="http://arxiv.org/abs/2409.01229">2409.01229</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17247.html">Gellan-Based Hydrogels and Microgels for culturage heritage: a rheological perspective</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Silvia Franco et al.</td>
-<td><a href="http://arxiv.org/abs/2408.17247">2408.17247</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.17353.html">The Liquid-Gas Transition in Granular Matter : a Question of Effective Friction ?</a></div></td>
-<td>O. Coquand</td>
-<td><a href="http://arxiv.org/abs/2408.17353">2408.17353</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13694.html">Giant enhancement of bacterial upstream swimming in macromolecular flows</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Ding Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13694">2408.13694</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11506.html">Rheological behavior of molybdenum disulfide (MoS2) inks under electric fields: influence of concentration and voltage</a></div><div class="paper-tags"><a href="dielectric-properties-all.html">dielectric-properties</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Pedro C Rijo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11506">2408.11506</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11647.html">Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Anoop Mutneja et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11647">2408.11647</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.14505.html">Dynamics of colloidal rods rotating in viscoelastic media</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>N Narinder et al.</td>
-<td><a href="http://arxiv.org/abs/2406.14505">2406.14505</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06748.html">Buoyancy induced motion of a Newtonian drop in elastoviscoplastic materials</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Giancarlo Esposito et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06748">2408.06748</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03196.html">Microfluidic 3D Cell Culture: Potential Application of Collagen Hydrogels with an Optimal Dose of Bioactive Glasses</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Faezeh Ghobadi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03196">2408.03196</a></td>
 </tr>
 </tbody></table>

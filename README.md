@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3760 papers across 26 months.
+**Total corpus:** 3663 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,12 +12,11 @@
     <li><a href=#generative-design--inverse-design>Generative Design & Inverse Design</a> (50)</li>
     <li><a href=#molecular-dynamics--multiscale-modeling>Molecular Dynamics & Multiscale Modeling</a> (50)</li>
     <li><a href=#microstructure-morphology--characterization>Microstructure, Morphology & Characterization</a> (50)</li>
-    <li><a href=#synthesis-kinetics--automation>Synthesis, Kinetics & Automation</a> (25)</li>
+    <li><a href=#synthesis-kinetics--automation>Synthesis, Kinetics & Automation</a> (23)</li>
     <li><a href=#processing-manufacturing--composites>Processing, Manufacturing & Composites</a> (50)</li>
     <li><a href=#sustainability--functional-applications>Sustainability & Functional Applications</a> (50)</li>
     <li><a href=#conducting-responsive--compartment-polymers>Conducting, Responsive & Compartment Polymers</a> (50)</li>
     <li><a href=#informatics--data-infrastructure>Informatics & Data Infrastructure</a> (50)</li>
-    <li><a href=#viaauthor-whitelistpolymer-dynamics-glass-transition>via:author-whitelist:polymer dynamics, glass transition</a> (5)</li>
     <li><a href=#viaauthor-whitelistsoft-matter-active-matter>via:author-whitelist:soft matter, active matter</a> (9)</li>
     <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (19)</li>
     <li><a href=#viaauthor-whitelistpolymer-ml-materials-informatics>via:author-whitelist:polymer ML, materials informatics</a> (9)</li>
@@ -25,6 +24,7 @@
     <li><a href=#viaauthor-whitelistpolymer-property-prediction>via:author-whitelist:polymer property prediction</a> (5)</li>
     <li><a href=#viaauthor-whitelistpolymer-composites-ml-for-materials>via:author-whitelist:polymer composites, ML for materials</a> (7)</li>
     <li><a href=#viaauthor-whitelistpolymer-md-free-energy>via:author-whitelist:polymer MD, free energy</a> (8)</li>
+    <li><a href=#viaauthor-whitelistpolymer-dynamics-glass-transition>via:author-whitelist:polymer dynamics, glass transition</a> (4)</li>
     <li><a href=#viaauthor-whitelistpolymer-dynamics-hydrodynamics>via:author-whitelist:polymer dynamics, hydrodynamics</a> (3)</li>
     <li><a href=#viaauthor-whitelistpolymer-simulation-soft-matter>via:author-whitelist:polymer simulation, soft matter</a> (1)</li>
   </ol>
@@ -342,8 +342,6 @@
 |**2025-04-04**|**A greener process for poly-L-lactic acid production and chemical upcycling under mild conditions using highly active alkali-metal based catalysts**|Christian Rentero et al.|[2504.03811](http://arxiv.org/abs/2504.03811)|[md](abstracts/2504.03811.md)|
 |**2025-01-26**|**BoTier: Multi-Objective Bayesian Optimization with Tiered Composite Objectives**|Mohammad Haddadnia et al.|[2501.15554](http://arxiv.org/abs/2501.15554)|[md](abstracts/2501.15554.md)|
 |**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
-|**2024-08-27**|**Automated Synthesis of Quantum Algorithms via Classical Numerical Techniques**|Yuxin Huang et al.|[2408.15225](http://arxiv.org/abs/2408.15225)|[md](abstracts/2408.15225.md)|
-|**2024-08-19**|**BatGPT-Chem: A Foundation Large Model For Retrosynthesis Prediction**|Yifei Yang et al.|[2408.10285](http://arxiv.org/abs/2408.10285)|[md](abstracts/2408.10285.md)|
 
 <p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
@@ -575,18 +573,6 @@
 
 <p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 
-## via:author-whitelist:polymer dynamics, glass transition
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2026-04-14**|**Unified Microscopic Theory of Stress Relaxation, Structural Evolution, and Memory Effects in Dense Glass Forming Brownian Suspensions After Flow Cessation**|Anoop Mutneja et al.|[2604.13284](http://arxiv.org/abs/2604.13284)|[md](abstracts/2604.13284.md)|
-|**2026-03-31**|**Microscopic Basis for Recovery Rheology and the Nonequilibrium Structure,Yielding, and Flow of Dense Particle Suspensions**|Anoop Mutneja et al.|[2604.00147](http://arxiv.org/abs/2604.00147)|[md](abstracts/2604.00147.md)|
-|**2026-03-27**|**Liquid structure adjacent to solid surfaces follows the superposition principle**|Qian Ai et al.|[2603.25992](http://arxiv.org/abs/2603.25992)|[md](abstracts/2603.25992.md)|
-|**2025-03-10**|**Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions**|Anoop Mutneja et al.|[2503.07436](http://arxiv.org/abs/2503.07436)|[md](abstracts/2503.07436.md)|
-|**2024-08-21**|**Microscopic Theory of the Elastic Shear Modulus and Length-Scale-Dependent Dynamic Re-Entrancy Phenomena in Very Dense Sticky Particle Fluids**|Anoop Mutneja et al.|[2408.11647](http://arxiv.org/abs/2408.11647)|[md](abstracts/2408.11647.md)|
-
-<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
-
 ## via:author-whitelist:soft matter, active matter
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -692,6 +678,17 @@
 |**2025-06-20**|**Omnidirectionally manipulated skyrmions in an orientationally chiral system**|Jiahao Chen et al.|[2506.16781](http://arxiv.org/abs/2506.16781)|[md](abstracts/2506.16781.md)|
 |**2025-04-07**|**IEC-Independent Coupling Between Water Uptake and Ionic Conductivity in Anion-Conducting Polymer Films**|Joan Montes de Oca et al.|[2504.05179](http://arxiv.org/abs/2504.05179)|[md](abstracts/2504.05179.md)|
 |**2025-02-02**|**Attention-Based Functional-Group Coarse-Graining: A Deep Learning Framework for Molecular Prediction and Design**|Ming Han et al.|[2502.00910](http://arxiv.org/abs/2502.00910)|[md](abstracts/2502.00910.md)|
+
+<p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
+
+## via:author-whitelist:polymer dynamics, glass transition
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2026-04-14**|**Unified Microscopic Theory of Stress Relaxation, Structural Evolution, and Memory Effects in Dense Glass Forming Brownian Suspensions After Flow Cessation**|Anoop Mutneja et al.|[2604.13284](http://arxiv.org/abs/2604.13284)|[md](abstracts/2604.13284.md)|
+|**2026-03-31**|**Microscopic Basis for Recovery Rheology and the Nonequilibrium Structure,Yielding, and Flow of Dense Particle Suspensions**|Anoop Mutneja et al.|[2604.00147](http://arxiv.org/abs/2604.00147)|[md](abstracts/2604.00147.md)|
+|**2026-03-27**|**Liquid structure adjacent to solid surfaces follows the superposition principle**|Qian Ai et al.|[2603.25992](http://arxiv.org/abs/2603.25992)|[md](abstracts/2603.25992.md)|
+|**2025-03-10**|**Microscopic Theory of Nonlinear Rheology and Double Yielding in Dense Attractive Glass Forming Colloidal Suspensions**|Anoop Mutneja et al.|[2503.07436](http://arxiv.org/abs/2503.07436)|[md](abstracts/2503.07436.md)|
 
 <p align=right>(<a href=#updated-on-20261001>back to top</a>)</p>
 

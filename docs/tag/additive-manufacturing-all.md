@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">372 papers</span>
+  <span class="paper-count">360 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2174,77 +2174,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05240.html">A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="rheology-all.html">rheology</a></div></td>
 <td>Ayush Jain et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05240">2409.05240</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00248.html">Unveiling Processing--Property Relationships in Laser Powder Bed Fusion: The Synergy of Machine Learning and High-throughput Experiments</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Mahsa Amiri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00248">2409.00248</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13843.html">Consistent machine learning for topology optimization with microstructure-dependent neural network material models</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Harikrishnan Vijayakumaran et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13843">2408.13843</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11126.html">Binocular Model: A deep learning solution for online melt pool temperature analysis using dual-wavelength Imaging Pyrometry</a></div></td>
-<td>Javid Akhavan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11126">2408.11126</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.09322.html">Shape effects in binary mixtures of PA12 powder in additive manufacturing</a></div></td>
-<td>Sudeshna Roy et al.</td>
-<td><a href="http://arxiv.org/abs/2408.09322">2408.09322</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08409.html">You Have to Grow Wefts to Fold Them</a></div></td>
-<td>Lauren Niu et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08409">2408.08409</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06891.html">Automatic Feature Recognition and Dimensional Attributes Extraction From CAD Models for Hybrid Additive-Subtractive Manufacturing</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Muhammad Tayyab Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06891">2408.06891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05823.html">A Comprehensive Review of Lunar-based Manufacturing and Construction</a></div></td>
-<td>Mohammad Azami et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05823">2408.05823</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04827.html">Towards Intelligent Cooperative Robotics in Additive Manufacturing: Past, Present and Future</a></div></td>
-<td>Sean Rescsanski et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04827">2408.04827</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05144.html">The Effect of Blue and Infrared Laser Melting Frequency on Oxide Morphology in 304L</a></div></td>
-<td>Jonathan S. Paras et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05144">2408.05144</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04677.html">Open-Source Software Architecture for Multi-Robot Wire Arc Additive Manufacturing (WAAM)</a></div></td>
-<td>Honglu He et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04677">2408.04677</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02427.html">Attenuation-adjusted deep learning of pore defects in 2D radiographs of additive manufacturing powders</a></div></td>
-<td>Andreas Bjerregaard et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02427">2408.02427</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.06343.html">Thin Film Reconfigurable Intelligent Surface for Harmonic Beam Steering</a></div></td>
-<td>Boxuan Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2406.06343">2406.06343</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>extrusion — all</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">35 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <a href="extrusion-90d.html">90d</a> <a href="extrusion-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -224,11 +224,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16318.html">Thermo-mechanical Properties of Hierarchical Biocomposite Materials from Photosynthetic Microorganisms</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Israel Kellersztein et al.</td>
 <td><a href="http://arxiv.org/abs/2409.16318">2409.16318</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05850.html">Machine learning for characterizing uncertain elastic properties of fused filament fabricated materials for topology optimization applications</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Zahra Kazemi et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05850">2408.05850</a></td>
 </tr>
 </tbody></table>

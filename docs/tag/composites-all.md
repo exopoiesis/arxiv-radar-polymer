@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">276 papers</span>
+  <span class="paper-count">268 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1622,53 +1622,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05765.html">Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
 <td>Vinay Kopnar et al.</td>
 <td><a href="http://arxiv.org/abs/2409.05765">2409.05765</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.10103.html">One-step Pulsed Laser Deposition of Metal oxynitride/Carbon Composites for Supercapacitor Application</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
-<td>Subrata Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2405.10103">2405.10103</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14824.html">Nonvolatile magneto-thermal switching driven by vortex trapping in commercial In-Sn solder</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Poonam Rani et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14824">2408.14824</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15225.html">Automated Synthesis of Quantum Algorithms via Classical Numerical Techniques</a></div></td>
-<td>Yuxin Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15225">2408.15225</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06891.html">Automatic Feature Recognition and Dimensional Attributes Extraction From CAD Models for Hybrid Additive-Subtractive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a></div></td>
-<td>Muhammad Tayyab Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06891">2408.06891</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.06974.html">Decoupling elasticity and electrical conductivity of carbon black gels filled with insulating non-Brownian grains</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Thomas Larsen et al.</td>
-<td><a href="http://arxiv.org/abs/2405.06974">2405.06974</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06533.html">Dynamics of polymers in coarse-grained nematic solvents</a></div></td>
-<td>Zahra Valei et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06533">2408.06533</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01828.html">Properties of promising cartilage implants based on cellulose-polyacrylamide composite hydrogels: results of in vivo tests carried out over a period of 90-120 days</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="polymerization-all.html">polymerization</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>
-<td>Alexander Buyanov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01828">2408.01828</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01340.html">On the origin of the light yield enhancement in polymeric composite scintillators loaded with dense nanoparticles</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Irene Villa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01340">2408.01340</a></td>
 </tr>
 </tbody></table>

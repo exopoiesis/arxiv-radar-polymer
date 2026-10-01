@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>bayesian-optimization — all</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <a href="bayesian-optimization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.10405.html">Elucidating microstructural influences on fatigue behavior for additively manufactured Hastelloy X using Bayesian-calibrated crystal plasticity model</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Ajay Kushwaha et al.</td>
 <td><a href="http://arxiv.org/abs/2412.10405">2412.10405</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.05135.html">SPACIER: On-Demand Polymer Design with Fully Automated All-Atom Classical Molecular Dynamics Integrated into Machine Learning Pipelines</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shun Nanjo et al.</td>
-<td><a href="http://arxiv.org/abs/2408.05135">2408.05135</a></td>
 </tr>
 </tbody></table>

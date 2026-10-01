@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,29 +914,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01471.html">Modeling the Dielectric Relaxation in Semicrystalline Polymers -- Understanding the Role of the Interphase between the Amorphous and Crystalline Domains</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
 <td>Valeriy V. Ginzburg</td>
 <td><a href="http://arxiv.org/abs/2409.01471">2409.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14985.html">Fragile-to-strong glass transition in two-dimensional vortex liquids</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Ilaria Maccari et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14985">2408.14985</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11579.html">Dissecting mode-coupling theory for supercooled liquids</a></div></td>
-<td>Ilian Pihlajamaa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11579">2408.11579</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03207.html">Relationship between the shear modulus and volume relaxation in high-entropy metallic glasses: experiment and physical origin</a></div></td>
-<td>R. S. Khmyrov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03207">2408.03207</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00536.html">Brittleness of metallic glasses dictated by their state at the fragile-to-strong transition temperature</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Achraf Atila et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00536">2408.00536</a></td>
 </tr>
 </tbody></table>

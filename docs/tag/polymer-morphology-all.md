@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">367 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2216,41 +2216,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04646.html">Stripe and Bubble Ratchets on Asymmetric Substrates</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
 <td>C. Reichhardt et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04646">2409.04646</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13843.html">Consistent machine learning for topology optimization with microstructure-dependent neural network material models</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="inverse-design-all.html">inverse-design</a></div></td>
-<td>Harikrishnan Vijayakumaran et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13843">2408.13843</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.08842.html">Phase-Separated Charge Order and Twinning Across Length Scales in CsV$_3$Sb$_5$</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Jayden Plumb et al.</td>
-<td><a href="http://arxiv.org/abs/2408.08842">2408.08842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01828.html">Properties of promising cartilage implants based on cellulose-polyacrylamide composite hydrogels: results of in vivo tests carried out over a period of 90-120 days</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a> · <a href="polymerization-all.html">polymerization</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>
-<td>Alexander Buyanov et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01828">2408.01828</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01195.html">Kinetics of vapor-liquid transition of active matter system under quasi one-dimensional confinement</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Parameshwaran A et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01195">2408.01195</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00536.html">Brittleness of metallic glasses dictated by their state at the fragile-to-strong transition temperature</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Achraf Atila et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00536">2408.00536</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.00660.html">Droplet-confined electroplating for nanoscale additive manufacturing: current control of the initial stages of the growth of copper nanowires</a></div></td>
-<td>Mirco Nydegger et al.</td>
-<td><a href="http://arxiv.org/abs/2408.00660">2408.00660</a></td>
 </tr>
 </tbody></table>

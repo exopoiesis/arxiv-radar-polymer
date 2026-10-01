@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">294 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1778,53 +1778,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02461.html">Phase separation in soft repulsive polymer mixtures: foundation and implication for chromatin organization</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Naoki Iso et al.</td>
 <td><a href="http://arxiv.org/abs/2409.02461">2409.02461</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15921.html">Structural transitions of a Semi-Flexible Polyampholyte</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Rakesh Palariya et al.</td>
-<td><a href="http://arxiv.org/abs/2408.15921">2408.15921</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13014.html">Contraction response of a polyelectrolyte hydrogel under spatially nonuniform electric fields</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Ekrem Bahceci et al.</td>
-<td><a href="http://arxiv.org/abs/2408.13014">2408.13014</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11690.html">The off-equilibrium Kinetic Ising model: The Metric Case</a></div></td>
-<td>Luca Di Carlo</td>
-<td><a href="http://arxiv.org/abs/2408.11690">2408.11690</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06609.html">A Neural-Network-Based Mapping and Optimization Framework for High-Precision Coarse-Grained Simulation</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a></div></td>
-<td>Zhixuan Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06609">2408.06609</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.18032.html">Anisotropic Cage Evolution in Quasi-two-dimensional Colloidal Fluids</a></div></td>
-<td>Noman Hanif Barbhuiya et al.</td>
-<td><a href="http://arxiv.org/abs/2407.18032">2407.18032</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03580.html">Atom-Field-Medium Interactions I: Graded Influence Actions for $N$ Harmonic Atoms in a Dielectric-Altered Quantum Field</a></div></td>
-<td>Jen-Tsung Hsiang et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03580">2408.03580</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.03263.html">Multiscale modeling framework of a constrained fluid with complex boundaries using twin neural networks</a></div></td>
-<td>Peiyuan Gao et al.</td>
-<td><a href="http://arxiv.org/abs/2408.03263">2408.03263</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01407.html">Free energy, rates, and mechanism of transmembrane dimerization in lipid bilayers from dynamically unbiased molecular dynamics simulations</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="membranes-all.html">membranes</a> · <a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Emil Jackel et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01407">2408.01407</a></td>
 </tr>
 </tbody></table>

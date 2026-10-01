@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">117 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -716,35 +716,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01471.html">Modeling the Dielectric Relaxation in Semicrystalline Polymers -- Understanding the Role of the Interphase between the Amorphous and Crystalline Domains</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a></div></td>
 <td>Valeriy V. Ginzburg</td>
 <td><a href="http://arxiv.org/abs/2409.01471">2409.01471</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.13456.html">Diffusing Wave Microrheology in Polymeric Fluids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>George D. J. Phillies</td>
-<td><a href="http://arxiv.org/abs/2408.13456">2408.13456</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.08160.html">Harnessing quantum light for microscopic biomechanical imaging of cells and tissues</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Tian Li et al.</td>
-<td><a href="http://arxiv.org/abs/2407.08160">2407.08160</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2406.18577.html">Nanodiamond-based spatial-temporal deformation sensing for cell mechanics</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Yue Cui et al.</td>
-<td><a href="http://arxiv.org/abs/2406.18577">2406.18577</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06118.html">Analysis of KIC 7023917 -- spotted low-mass ratio eclipsing binary with $δ$ Scuti pulsations</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Pavol Gajdoš et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06118">2408.06118</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.01340.html">On the origin of the light yield enhancement in polymeric composite scintillators loaded with dense nanoparticles</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="nanocomposites-all.html">nanocomposites</a></div></td>
-<td>Irene Villa et al.</td>
-<td><a href="http://arxiv.org/abs/2408.01340">2408.01340</a></td>
 </tr>
 </tbody></table>

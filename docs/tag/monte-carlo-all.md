@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">207 papers</span>
+  <span class="paper-count">203 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1232,29 +1232,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03882.html">Free-energy landscape of a polymer in the presence of two nanofluidic entropic traps</a></div></td>
 <td>James M. Polson et al.</td>
 <td><a href="http://arxiv.org/abs/2409.03882">2409.03882</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.00165.html">FOS: A fully integrated open-source program for Fast Optical Spectrum calculations of nanoparticle media</a></div><div class="paper-tags"><a href="nanocomposites-all.html">nanocomposites</a></div></td>
-<td>Daniel Carne et al.</td>
-<td><a href="http://arxiv.org/abs/2409.00165">2409.00165</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.14985.html">Fragile-to-strong glass transition in two-dimensional vortex liquids</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a></div></td>
-<td>Ilaria Maccari et al.</td>
-<td><a href="http://arxiv.org/abs/2408.14985">2408.14985</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.02847.html">Intertwined Superconductivity and Magnetism from Repulsive Interactions in Kondo Bilayers</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Clara S. Weber et al.</td>
-<td><a href="http://arxiv.org/abs/2408.02847">2408.02847</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.21171.html">Two-stage assembly of patchy ellipses: From bent-core particlesto liquid crystal analogs</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Anuj Kumar Singh et al.</td>
-<td><a href="http://arxiv.org/abs/2407.21171">2407.21171</a></td>
 </tr>
 </tbody></table>

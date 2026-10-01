@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>soft-matter — all</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">87 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -536,23 +536,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04646.html">Stripe and Bubble Ratchets on Asymmetric Substrates</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>C. Reichhardt et al.</td>
 <td><a href="http://arxiv.org/abs/2409.04646">2409.04646</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.15791.html">Brownian Colloids in Optothermal Field: An Experimental Perspective</a></div></td>
-<td>G. V. Pavan Kumar</td>
-<td><a href="http://arxiv.org/abs/2408.15791">2408.15791</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.11560.html">Collective dynamics and elasto-chemical cluster waves in communicating colloids with explicit size response</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
-<td>Nils Göth et al.</td>
-<td><a href="http://arxiv.org/abs/2408.11560">2408.11560</a></td>
-</tr>
-<tr class="paper">
-<td>2024-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.06114.html">Motility-induced crystallization and rotating crystallites</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Max Philipp Holl et al.</td>
-<td><a href="http://arxiv.org/abs/2408.06114">2408.06114</a></td>
 </tr>
 </tbody></table>
