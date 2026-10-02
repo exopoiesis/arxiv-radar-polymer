@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Mengyi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="composites-30d.html">composites</a> · <a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -116,11 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03163.html">Uncertainty quantification of fatigue initiation life for powder bed fusion metal additive manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
 <td>Yulin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03163">2609.03163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01159.html">Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model</a></div></td>
-<td>Mintu Karmakar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01159">2609.01159</a></td>
 </tr>
 </tbody></table>

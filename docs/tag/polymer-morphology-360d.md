@@ -16,6 +16,18 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Mengyi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01432">2610.01432</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="composites-360d.html">composites</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Lauren Bogo et al.</td>
@@ -1268,17 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06399.html">Phase segregation of liquid-vapor systems with a gravitational field</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>A. Lamura</td>
 <td><a href="http://arxiv.org/abs/2510.06399">2510.06399</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04720.html">Agile manoeuvring of dandelion-inspired micro-flyers with vortex-enabled stability</a></div></td>
-<td>Jianfeng Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04720">2510.04720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04892.html">Effect of ice nucleating proteins on the structure-property relationships of ice: A molecular dynamics study</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>A. K. Shargh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04892">2510.04892</a></td>
 </tr>
 </tbody></table>

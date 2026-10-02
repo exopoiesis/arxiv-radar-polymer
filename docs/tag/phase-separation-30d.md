@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01672.html">Scalar field theory for (chiral) active Brownian particles: bottom-up derivation revisited</a></div></td>
+<td>Yuta Kuroda et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01672">2610.01672</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26983.html">Control of filament network rigidity by the condensation of crowding molecules</a></div></td>
 <td>Jiyong Cheon et al.</td>
@@ -110,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03991.html">Boundary- and Screening-Induced Bubbly Phases in Autophoretic Active Matter</a></div></td>
 <td>Kingshuk Panja et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03991">2609.03991</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00535.html">Spectral element lattice Boltzmann method for non-ideal gases with partial wetting boundary condition</a></div></td>
-<td>Chunheng Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00535">2609.00535</a></td>
 </tr>
 </tbody></table>

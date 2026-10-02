@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">118 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -722,17 +722,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07120.html">Towards Reliable Emergency Wireless Communications over SAGINs: A Composite Fading and QoS-Centric Perspective</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Yinong Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07120">2510.07120</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10237.html">FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Ray Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10237">2508.10237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05259.html">Direct measurement of photons from the electron-hadron bremsstrahlung at the EIC</a></div></td>
-<td>L. Adamczyk et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05259">2510.05259</a></td>
 </tr>
 </tbody></table>

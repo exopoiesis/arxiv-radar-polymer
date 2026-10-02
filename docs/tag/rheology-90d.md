@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>rheology — 90d</h1>
-  <span class="paper-count">25 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <strong>90d</strong> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01621.html">Learning to Classify Threading in Melts of Rings</a></div></td>
+<td>Filippo Conforto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01621">2610.01621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02026.html">Interpreting effective homogeneous rheologies through a local differential map with application to the Moon</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2610.02026">2610.02026</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
@@ -158,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07645.html">Time-state superposition in non-equilibrium fluidized granular matter</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Marlo Kunzner et al.</td>
 <td><a href="http://arxiv.org/abs/2607.07645">2607.07645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.03037.html">Contrary to Newtonian trends: Early flow transition and drag enhancement at low to intermediate Reynolds number flows of structured fluids</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td> Kartik et al.</td>
-<td><a href="http://arxiv.org/abs/2607.03037">2607.03037</a></td>
 </tr>
 </tbody></table>

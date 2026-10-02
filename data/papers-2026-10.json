@@ -1,0 +1,323 @@
+{
+ "2610.00892": {
+  "abstract": "We propose a deviatoric-stress constitutive equation derived from orientational kinetics, while implicitly retaining contributions from conformational stretch. Starting from the dumbbell model, we show that conformational stretch affects orientational dynamics through an effective stress scale and rotational diffusivity, which determine an effective relaxation time. The orientation-based equation is derived by assuming an approximate relation between orientational anisotropy and the stretch state. Within the proposed framework, constant effective coefficients yield steady-oscillatory shear correspondences closely related to the empirical Cox-Merz and Gleissle-Osaki relations. For model-specific effective coefficients, the upper-convected Maxwell model is characterized by a constant relaxation time and an increasing modulus under steady shear, whereas finite extensibility with Peterlin preaveraging shortens the relaxation time and suppresses the modulus increase. With coefficients determined from steady-shear states, the proposed equation successfully reproduces stress responses under transient shear, large-amplitude oscillatory shear, and uniaxial extension. These results show that the effects of conformational stretch on orientational kinetics can be retained implicitly, providing a constitutive description based on a deviatoric-stress state reconstructable from standard rheometry and a physical interpretation of how stretch enters polymer viscoelasticity.",
+  "authors": [
+   "Souta Miyamoto",
+   "Takeshi Sato",
+   "Wanxiang Jin",
+   "Katsuaki Tanabe",
+   "John J. Molina",
+   "Takashi Taniguchi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "14 pages, 4 figures",
+  "first_author": "Souta Miyamoto",
+  "pdf_url": "http://arxiv.org/pdf/2610.00892",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Polymer viscoelasticity from an orientational closure with implicit stretch",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01015": {
+  "abstract": "Photoacoustic tomography (PAT) is a hybrid imaging modality that combines high optical contrast with high ultrasonic resolution for biomedical imaging applications. In this work, we investigate the inverse problem of recovering the initial pressure distribution from boundary measurements in the presence of nonlinear acoustic propagation and viscous attenuation effects. To model these phenomena more accurately, we consider a nonlinear damped viscoelastic wave equation incorporating spatially varying sound speed, temporal attenuation, and nonlinear propagation mechanisms. We first establish the well-posedness of the corresponding forward problem using a Galerkin approximation combined with energy estimates and a fixed-point argument. For the inverse problem, we derive existence, uniqueness, and local uniqueness results under suitable assumptions through a harmonic extension reduction, spectral Laplace transform techniques, and observability estimates. To numerically reconstruct the initial pressure field, we develop a hybrid reconstruction framework that combines a convolutional neural network (CNN) with a gradient-free optimization strategy based on the sequential quadratic Hamiltonian (SQH) method derived from Pontryagin's maximum principle. The CNN is used to generate an informative initial guess, while the SQH framework enforces the governing PDE dynamics during the reconstruction process. Numerical experiments demonstrate that the proposed hybrid strategy significantly improves reconstruction quality, contrast, and robustness compared to standalone time-reversal and CNN-based approaches.",
+  "authors": [
+   "Madhu Gupta",
+   "Anwesa Dey",
+   "Prapti Tala",
+   "Souvik Roy"
+  ],
+  "categories": [
+   "math.OC",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Madhu Gupta",
+  "pdf_url": "http://arxiv.org/pdf/2610.01015",
+  "primary_category": "math.OC",
+  "published": "2026-10-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Initial condition recovery in nonlinear damped viscous photoacoustic tomography using a convolutional neural network-guided gradient-free optimization framework",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01051": {
+  "abstract": "On cooling liquids towards their glass-transition temperature, the dramatic increase of their relaxation times is accompanied by changes in particle dynamics at two distinct temperatures: A high-T crossover, where particles become temporarily caged by their neighbors, and a low-T crossover, where the cage escape mechanism changes. While there is some evidence that the former is associated with a change in local particle arrangement, no structural modification has so far been detected across the low-T crossover, fueling scepticism about the relevance of structure for glassy dynamics. Here, we introduce a novel four-point correlation function which allows to determine a structural length scale characterizing cage anisotropy. Extensive molecular dynamics simulations reveal that this scale, as well as the mean structural length scale of the glass-former, extends into the medium range, i.e., significantly exceeds the particle size. Strikingly, the difference between these two scales - a measure of the degree of cage anisotropy - peaks at both crossover temperatures. We discuss how the presence of these peaks enables understanding the nature of the change in the microscopic transport mechanism at the two temperatures, thereby linking both dynamical crossovers to a single structural observable, the anisotropic medium-range order. This fundamental insight demonstrates that structure, extending well-beyond the local cage, is an essential ingredient for understanding the relaxation dynamics of deeply supercooled liquids.",
+  "authors": [
+   "Kamlesh Mishra",
+   "Rajesh Ganapathy",
+   "Walter Kob"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Kamlesh Mishra",
+  "pdf_url": "http://arxiv.org/pdf/2610.01051",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-01",
+  "tags": [
+   "glass-transition",
+   "molecular-dynamics"
+  ],
+  "title": "Anisotropic medium-range order uncovers dynamic crossovers in glass-forming liquids",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01258": {
+  "abstract": "Autonomous colonoscopic navigation can reduce operator burden and the risk of loop formation or tissue trauma, but remains challenging due to deformable anatomy, weak-texture and specular endoscopic visuals, and contact-rich viscoelastic interactions. Existing methods either rely on geometry-driven pipelines, which are efficient and interpretable yet brittle due to manually engineered features and switching logic, or adopt learning-based policies, whose inferred depth/geometry can become temporally inconsistent or overly smooth under weak texture and specular highlights while simulation-trained variants (e.g., deep reinforcement learning) may further suffer from a sim-to-real gap. We propose ColoACT, an autonomous navigation system that integrates an RGB-D-E based Action Chunking Transformer policy (ColoACT policy) for a compact self-propelled Bevel-Gear-Based Endoscopic Robot (BGER). The ColoACT policy augments RGB with estimated relative depth and a gradient-based pseudo-elevation map to enhance fold-ridge saliency and other high-frequency geometric cues, and enables smooth continuous control of the BGER by predicting overlapping action chunks and fusing them via temporal ensembling. In different \\textit{ex-vivo} porcine colons (approximately 60 cm), our system achieves success rates of 85.4\\% and 72.5\\% in straight and curved segments, respectively, and achieves 70\\% success in 90-degree turns and 60\\% in double-bend sequences, with feasibility further demonstrated in challenging triple-bend segments. The project page is available at: https://Adamhu1.github.io/ColoACT/.",
+  "authors": [
+   "Jian Hu",
+   "Shujing He",
+   "Leixin Chang",
+   "Zongze Li",
+   "Ding Huang",
+   "Chaoyang Shi",
+   "Chengzhi Hu"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Jian Hu",
+  "pdf_url": "http://arxiv.org/pdf/2610.01258",
+  "primary_category": "cs.RO",
+  "published": "2026-10-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "ColoACT: Multi-Cue Action Chunking for Smooth Autonomous Colon Navigation on a Self-Propelled Endoscopic Robot",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01432": {
+  "abstract": "Simulating microstructure evolution requires quantum-mechanical accuracy and mesoscopic reach in length and time scales, a combination that no current method achieves. Classical phase-field models provide this reach, but their accuracy is limited by phenomenological free energies and mobilities. Here we develop a framework for learning ab initio phase-field models, where the mesoscopic equation is not postulated but derived from a Mori-Zwanzig projection of molecular dynamics onto species-density fields under explicit assumptions. The nonlocal free energy and mobility left unspecified by this equation are parametrized by neural networks and learned from short molecular dynamics trajectories generated with machine-learning interatomic potentials of ab initio accuracy. We demonstrate the framework on an iron-boron melt and on hydrogen-helium mixtures under planetary conditions. For iron-boron, the model shows that the melt at the FeB$_4$ composition is spinodally unstable at ambient pressure but stabilized at 10 GPa, offering a thermodynamic rationale for why FeB$_4$ has been synthesized only under high pressure. For hydrogen-helium, the model predicts the immiscibility boundary and captures droplet nucleation and growth in helium-rain simulations of a column corresponding to 2.2 million atoms, far beyond the scale of atomistic modeling at comparable accuracy. Trained across compositions and conditions, such models could provide a mesoscopic counterpart to ab initio molecular dynamics.",
+  "authors": [
+   "Mengyi Chen",
+   "Peichen Zhong",
+   "Zihan Zhang",
+   "Qianxiao Li"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.mtrl-sci",
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Mengyi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.01432",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-10-01",
+  "tags": [
+   "molecular-dynamics",
+   "polymer-morphology"
+  ],
+  "title": "Learning ab initio phase-field models",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01487": {
+  "abstract": "We study an incompressible visco-morphoelastic system in three dimensions in which the Eulerian effective strain is transported by the Zaremba-Jaumann rate and coupled to a Navier-Stokes momentum balance through a Kelvin-Voigt stress. The strain remains symmetric and splits into a scalar transport-relaxation equation for its trace and a deviatoric equation containing the nonlinear stretching and Jaumann terms. We regularize both equations by diffusion of order $\\varepsilon$, which admits a mechanical interpretation as weakly nonlocal remodeling with a characteristic length scale. For fixed $\\varepsilon>0$ we construct Leray-Hopf type weak solutions by a truncated Galerkin scheme and remove the truncation a posteriori using a maximum principle for the scalar variable. As $\\varepsilon\\to0$, the scalar variable converges strongly in $L^p((0,T)\\timesΩ)$ for every $1\\le p<\\infty$, by a DiPerna-Lions commutator argument on bounded Lipschitz domains, allowing the stretching term to be identified in the limit. In contrast, the Jaumann commutator is a product of two weakly convergent sequences, and its limit cannot be identified from the available estimates. We therefore obtain a defect \\[\\boldsymbol{\\mathcal{D}}\\in L^2(0,T;(H^2(Ω;\\mathbb{S}_0))^\\ast)\\] in the limiting deviatoric equation. We give two sufficient conditions for $\\boldsymbol{\\mathcal{D}}=0$. The energy-level cancellation used in related corotational viscoelastic models does not close here because the coefficient of the stretching term is itself an unknown.",
+  "authors": [
+   "Swarupananda Banerjee",
+   "Amartya Chakrabortty",
+   "Hari Shankar Mahato",
+   "Raja Sekhar G P"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "30 pages",
+  "first_author": "Swarupananda Banerjee",
+  "pdf_url": "http://arxiv.org/pdf/2610.01487",
+  "primary_category": "math.AP",
+  "published": "2026-10-01",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "The Vanishing-Diffusion Limit of an Incompressible Visco-Morphoelastic System: Weak Solutions and a Jaumann Defect",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01576": {
+  "abstract": "Phyllosilicate clays are widely used in polymer nanocomposites owing to their high anisotropy and tunable surface polarity. Their distribution and interface localization in polymer blends can be used to tune the properties of polymer-clay nanocomposites (PCNCs). A coarse-grained (CG) force field for clays can aid molecular simulations in PCNC development. Here, we developed MARTINI-3 parameters, a CG force field with high chemical specificity, for phyllosilicate clays with diverse surface polarities. Initial interactions for the clay functional groups were determined from hydration free energies, obtained by applying the Lifshitz theory to experimental surface tension data. These were fine-tuned using the structural, thermodynamic, and dynamic properties of thermoplastic starch (TPS)-clay composites from all-atom (AA) molecular dynamics (MD) simulations. The radial distribution function and two-body excess entropy of TPS components, not used in CG parameterization, were accurately estimated, establishing the robustness of the parameters. We investigated the effect of clay surface polarity on polymer segmental dynamics and structure-property relationships. The CG parameters were then used to study the effect of dodecyltrimethylammonium (C12TAB)-modified montmorillonite (MMT), an organically-modified MMT, on TPS-polyethylene (PE) blend morphology using large time- and length-scale MD simulations. We observed compatibilization of the TPS-PE interphase by the amphiphilic clay particle, reducing the TPS-PE interfacial tension from 45 mN/m to 13.06 mN/m. We found good agreement between MARTINI-3 estimates for properties of model MMT-based PCNCs and those from AA simulations and experimental data, establishing grounds for the transferability of the parameters to other systems.",
+  "authors": [
+   "Ankit Patidar",
+   "Gaurav Goel"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Ankit Patidar",
+  "pdf_url": "http://arxiv.org/pdf/2610.01576",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-01",
+  "tags": [
+   "coarse-grained",
+   "composites",
+   "mlff",
+   "molecular-dynamics",
+   "nanocomposites",
+   "polymer-morphology"
+  ],
+  "title": "Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays",
+  "topics": [
+   "Processing, Manufacturing & Composites",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01621": {
+  "abstract": "Dense melts of nonconcatenated ring polymers exhibit anomalous dynamics and nonlinear rheology, in some cases linked to long-lived inter-ring threading entanglement. Detecting these geometric constraints remains computationally demanding, with different methods being based on different geometric features tuned to specific models. Here, we introduce a machine-learning framework that detects threading directly from the writhe of ring conformations and we demonstrate its broad generalisability. Trained on simulations of isolated, distance-constrained pairs of short rings, a one-dimensional convolutional neural network (CNN1D) operating on the writhe profile classifies threading states with over 98% accuracy on held-out ring pairs. Remarkably, this model generalises without retraining to equilibrium dense melts spanning a wide range of densities and chain lengths (N = 100 to 1600), maintaining true-positive rates above 91% with false-positive rates near zero. Misclassified conformations are limited to physically ambiguous, shallow threading events which are arguably not impacting the dynamics of the rings. Effectively, writhe captures the interaction between the two rings, allowing writhe-based classifiers to improve the topological analysis of large ring-polymer systems with a 3-fold speed-up over the state-of-the-art minimal-surface detection. These results establish the writhe-trained neural networks as an accurate, scalable tool for characterising entanglement in ring polymer melts.",
+  "authors": [
+   "Filippo Conforto",
+   "Roman Staňo",
+   "Jan Smrek",
+   "Davide Michieletto"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.dis-nn"
+  ],
+  "comment": null,
+  "first_author": "Filippo Conforto",
+  "pdf_url": "http://arxiv.org/pdf/2610.01621",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-01",
+  "tags": [
+   "rheology"
+  ],
+  "title": "Learning to Classify Threading in Melts of Rings",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01672": {
+  "abstract": "The active Brownian particle (ABP) model is one of the most widely used particle-based models in studies of scalar active fluids. A collection of interacting ABPs is known to exhibit intriguing phenomena that are absent in equilibrium counterparts. A prominent example is spontaneous phase separation, known as motility-induced phase separation (MIPS), which occurs even in the absence of explicit attractive interactions. In parallel, the large-scale behavior of scalar active fluids is often modeled using continuum descriptions, namely, scalar field theories. Such scalar active field theories are usually formulated in a top-down manner, and establishing their connections to particle-based models remains challenging, with these connections not yet fully understood. To advance the microscopic derivation of scalar active field theories, we revisit the connection between ABPs interacting via a two-body potential in two dimensions and scalar field theories that include all possible terms up to fourth order in spatial gradients. Our approach is based on a pressure expansion and the renormalization group (RG) method in the context of singular perturbation theory. The RG method provides a systematic way to eliminate fast variables and identify the dynamics on the slow invariant manifold. Within this framework, scalar field theories can be obtained as RG flow equations. We also apply this method to a chiral variant of the ABP model, the chiral ABP (cABP) model, in which a constant torque biases particle rotation to the left or right. We show that the scalar field theory corresponding to the cABP model contains two ``odd'' terms in addition to those present in the scalar field theory for ABPs. The method developed here may also be useful for deriving hydrodynamic descriptions of other types of active matter systems.",
+  "authors": [
+   "Yuta Kuroda",
+   "Thomas Speck"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "41 pages, 3 figures",
+  "first_author": "Yuta Kuroda",
+  "pdf_url": "http://arxiv.org/pdf/2610.01672",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-10-01",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Scalar field theory for (chiral) active Brownian particles: bottom-up derivation revisited",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01851": {
+  "abstract": "In the primary drying step of pharmaceutical freeze drying, it is well known that amorphous excipients are prone to \"microcollapse\" as they approach their glass transition temperature. Existing modeling approaches for this phenomenon generally entail either avoidance of this regime or an experimentally burdensome empirical assessment of the resulting drop in resistance to mass transfer. In this work, we approach the phenomenon head-on by developing a population balance model for the pore size distribution of a freeze-dried cake during microcollapse and relating the pore size to mass transfer resistance. By treating the population balance with the method of moments and an interpolative closure, we keep the model's computational burden on par with the literature-standard model for primary drying.   For a literature example when mass transfer resistance clearly varies as a function of product temperature during drying, we fit the population balance model to cases with high and low product temperature and show that it can then simulate intermediate cases with equal accuracy. The validity of the expression for mass transfer resistance is demonstrated with another literature data set, where pore size distributions were measured after the fact for a formulation without microcollapse; only a single parameter from this model needs to be fit to those cases to yield predictive accuracy in product temperature on par with post-hoc empirical assessment. Finally, a sophisticated multi-experiment fit for one formulation across a range of conditions yields quantitative agreement in product temperatures, suggesting that the rate constant for microcollapse behavior may be a material parameter and independent of the precise porous geometry.",
+  "authors": [
+   "Isaac Stonewall Wheeler",
+   "Vivek Narsimhan",
+   "Alina A. Alexeenko",
+   "Davide Fissore"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "31 pages and 18 figures (counting graphical abstract). Originally submitted to International Journal of Heat and Mass Transfer",
+  "first_author": "Isaac Stonewall Wheeler",
+  "pdf_url": "http://arxiv.org/pdf/2610.01851",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-10-01",
+  "tags": [
+   "glass-transition"
+  ],
+  "title": "Direct Modeling of Pore Size Evolution and Microcollapse in Lyophilization by Population Balance",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.01856": {
+  "abstract": "Vision-language-action (VLA) models unify visual perception, language understanding, and action generation, offering new opportunities for automation in additive manufacturing (AM). However, deployment in AM remains challenging because adapting these models to unseen robot embodiments is costly, and performance can degrade under environment changes. In this work, we present a framework for deploying OpenVLA-OFT on a FAIRINO FR3 robot in a fixed AM workcell. A data pipeline converts monocular real-world demonstrations into OpenVLA-compatible TFDS/RLDS datasets to support adaptation to the FR3 embodiment. At runtime, each inference request predicts an eight-step chunk of 7-D actions. The FR3 executes each chunk open loop before capturing a new observation, providing closed-loop feedback between chunks. The system uses a cloud-edge architecture in which the FR3 client streams observations to a remote inference server through a FastAPI interface. In 42 physical A-to-B object-transfer trials, evenly split between red and blue targets, the system succeeded in 39 (92.9%). All three failures occurred during final placement, when insufficient release-height control caused the object to topple. An illumination sweep identified a low-error luminance range of 85-125 on a 0-255 scale, with the lowest mean spatial error at 95.",
+  "authors": [
+   "Zhugang Liu",
+   "Kaichuang Zhang",
+   "Jinman Zhang",
+   "Pu Sun",
+   "Martha Asare",
+   "Jose Hernandez",
+   "Maxim Ermolinsky",
+   "Efren Saenz",
+   "Qi Lu",
+   "Jinghao Yang"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Zhugang Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.01856",
+  "primary_category": "cs.RO",
+  "published": "2026-10-01",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-10-01"
+ },
+ "2610.02026": {
+  "abstract": "Layered viscoelastic interiors control the frequency dependence of planetary tidal dissipation, but repeated layered Love-number calculations are expensive in long-term orbital and spin integrations. Equivalent homogeneous rheologies provide a cheaper representation of the same response, but their effective parameters do not by themselves identify the interior layers they represent. We develop a local interpretation of such parameters by differentiating the layered-to-homogeneous construction about a fixed-geometry baseline, perturbing only selected layer rigidities and viscosities. We use the pole-residue representation of the degree-two Love number to construct a physical-to-effective transfer matrix. We then use its singular values, resolution matrix, and mode-dominance matrix to determine which physical perturbations are visible in the Love-number response and how they appear in effective-rheology coordinates. Applied to a five-layer lunar model, the full degree-two response is sensitive to seven of eight solid-layer rheological parameters. The single near-null direction is the inner-core rigidity, consistent with shielding by the fluid outer core and with the weak dependence of Love numbers on core elastic structure. Over the LLR frequency interval, fewer physical directions are visible. To first order, the elastic spring, isolated dashpot, and two Voigt elements reproduce the nine-pole response over this interval. Finite perturbations confirm the tangent prediction to within a few percent, with the validity radius limited by a nearly degenerate pair of long-timescale modes.",
+  "authors": [
+   "Yeva Gevorgyan"
+  ],
+  "categories": [
+   "astro-ph.EP"
+  ],
+  "comment": "11 pages, 5 figures",
+  "first_author": "Yeva Gevorgyan",
+  "pdf_url": "http://arxiv.org/pdf/2610.02026",
+  "primary_category": "astro-ph.EP",
+  "published": "2026-10-01",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Interpreting effective homogeneous rheologies through a local differential map with application to the Moon",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-01"
+ }
+}

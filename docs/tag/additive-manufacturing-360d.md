@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01856.html">ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing</a></div></td>
+<td>Zhugang Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01856">2610.01856</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Lauren Bogo et al.</td>
@@ -1112,11 +1118,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06474.html">In-space manufacturing of optical lenses: Fluidic Shaping aboard the International Space Station</a></div><div class="paper-tags"><a href="polymerization-360d.html">polymerization</a></div></td>
 <td>Omer Luria et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06474">2510.06474</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.22451.html">Piezoelectric truss metamaterials: data-driven design and additive manufacturing</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Saurav Sharma et al.</td>
-<td><a href="http://arxiv.org/abs/2506.22451">2506.22451</a></td>
 </tr>
 </tbody></table>

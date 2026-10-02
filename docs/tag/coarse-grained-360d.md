@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">175 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Ankit Patidar et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-25</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30970.html">Large-deviations theory for growing chemical reaction networks</a></div></td>
@@ -1052,17 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04221.html">Topological Mixed States: Phases of Matter from Axiomatic Approaches</a></div></td>
 <td>Tai-Hsuan Yang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.04221">2506.04221</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.10237.html">FreeBird.jl: An Extensible Toolbox for Simulating Interfacial Phase Equilibria</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Ray Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2508.10237">2508.10237</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04892.html">Effect of ice nucleating proteins on the structure-property relationships of ice: A molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>A. K. Shargh et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04892">2510.04892</a></td>
 </tr>
 </tbody></table>

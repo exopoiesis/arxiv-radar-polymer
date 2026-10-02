@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-design — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <a href="inverse-design-90d.html">90d</a> <strong>360d</strong> <a href="inverse-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12075.html">Generative Deep Learning Framework for Inverse Design of Fuels</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="qspr-360d.html">qspr</a></div></td>
 <td>Kiran K. Yalamanchi et al.</td>
 <td><a href="http://arxiv.org/abs/2504.12075">2504.12075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.04632.html">The PPP model - a minimal viable parametrisation of conjugated chemistry for modern computing applications</a></div><div class="paper-tags"><a href="high-throughput-screening-360d.html">high-throughput-screening</a></div></td>
-<td>Marcel David Fabian et al.</td>
-<td><a href="http://arxiv.org/abs/2510.04632">2510.04632</a></td>
 </tr>
 </tbody></table>

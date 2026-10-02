@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">41 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00892.html">Polymer viscoelasticity from an orientational closure with implicit stretch</a></div></td>
+<td>Souta Miyamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.00892">2610.00892</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01015.html">Initial condition recovery in nonlinear damped viscous photoacoustic tomography using a convolutional neural network-guided gradient-free optimization framework</a></div></td>
+<td>Madhu Gupta et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01015">2610.01015</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01258.html">ColoACT: Multi-Cue Action Chunking for Smooth Autonomous Colon Navigation on a Self-Propelled Endoscopic Robot</a></div></td>
+<td>Jian Hu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01258">2610.01258</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01487.html">The Vanishing-Diffusion Limit of an Incompressible Visco-Morphoelastic System: Weak Solutions and a Jaumann Defect</a></div></td>
+<td>Swarupananda Banerjee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01487">2610.01487</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02026.html">Interpreting effective homogeneous rheologies through a local differential map with application to the Moon</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2610.02026">2610.02026</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30359.html">Comment on &quot;Note on the start-up of Couette flow for viscoelastic fluids&quot; [Phys. Fluids 35, 113108 (2023)]</a></div></td>
@@ -242,23 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02696.html">A viscoelastic theory for ultrasound-induced intracellular streaming</a></div></td>
 <td>Niels Gieseler et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02696">2609.02696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00635.html">A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Souta Miyamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00635">2609.00635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01883.html">Fractional oscillators with fractional damping in the presence of external forces</a></div></td>
-<td>Fernando Olivar-Romero et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01883">2609.01883</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01907.html">Yielded-region connectivity governs the onset of gravity-driven spreading in elastoviscoplastic drops</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Alice Woodbridge et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01907">2609.01907</a></td>
 </tr>
 </tbody></table>

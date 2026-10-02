@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01621.html">Learning to Classify Threading in Melts of Rings</a></div></td>
+<td>Filippo Conforto et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01621">2610.01621</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02026.html">Interpreting effective homogeneous rheologies through a local differential map with application to the Moon</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Yeva Gevorgyan</td>
+<td><a href="http://arxiv.org/abs/2610.02026">2610.02026</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Muhammed Muhsin Abdul Azeez et al.</td>
@@ -86,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05373.html">Molecular interfacial rheology: Lipid membrane shear viscosity</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Zhi-Xun Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05373">2609.05373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.00635.html">A deviatoric-stress closure for constitutive modeling of viscoelastic dynamics</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Souta Miyamoto et al.</td>
-<td><a href="http://arxiv.org/abs/2609.00635">2609.00635</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01907.html">Yielded-region connectivity governs the onset of gravity-driven spreading in elastoviscoplastic drops</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Alice Woodbridge et al.</td>
-<td><a href="http://arxiv.org/abs/2609.01907">2609.01907</a></td>
 </tr>
 </tbody></table>

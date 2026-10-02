@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">84 papers</span>
+  <span class="paper-count">85 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01051.html">Anisotropic medium-range order uncovers dynamic crossovers in glass-forming liquids</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Kamlesh Mishra et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01051">2610.01051</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01851.html">Direct Modeling of Pore Size Evolution and Microcollapse in Lyophilization by Population Balance</a></div></td>
+<td>Isaac Stonewall Wheeler et al.</td>
+<td><a href="http://arxiv.org/abs/2610.01851">2610.01851</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26442.html">Reinterpreting ultrafast experiments on supercooled water: Glass transition versus liquid-liquid criticality</a></div></td>
@@ -512,11 +524,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.08497.html">Average-case quantum complexity from glassiness</a></div></td>
 <td>Alexander Zlokapa et al.</td>
 <td><a href="http://arxiv.org/abs/2510.08497">2510.08497</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05262.html">Tuning Steady Shear Rheology through Active Dopants</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Amir Shee et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05262">2506.05262</a></td>
 </tr>
 </tbody></table>
