@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>dielectric-properties — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <strong>360d</strong> <a href="dielectric-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07548.html">Static Dielectric Permittivity Profiles and Coarse-graining Approaches for Water in Graphene Slit Pores</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Philipp Stärk et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07548">2512.07548</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06402.html">Multihyperuniform Particle Composites Inspired by Avian Photoreceptor Patterns for Optical Applications</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>David Keeney et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06402">2510.06402</a></td>
 </tr>
 </tbody></table>

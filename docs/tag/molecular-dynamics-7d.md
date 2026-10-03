@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,17 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="composites-7d.html">composites</a> · <a href="mlff-7d.html">mlff</a> · <a href="nanocomposites-7d.html">nanocomposites</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
 <td>Ankit Patidar et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31143.html">Shape enantiomerism in semi-rigid polymer liquid crystals</a></div></td>
-<td>S. Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31143">2609.31143</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.31270.html">Multiscale computational study of the dielectric response of semi-crystalline polyethylene with chemical defects</a></div><div class="paper-tags"><a href="crystallinity-7d.html">crystallinity</a> · <a href="dielectric-properties-7d.html">dielectric-properties</a></div></td>
-<td>Roshal Perepadan Shaju et al.</td>
-<td><a href="http://arxiv.org/abs/2609.31270">2609.31270</a></td>
 </tr>
 </tbody></table>

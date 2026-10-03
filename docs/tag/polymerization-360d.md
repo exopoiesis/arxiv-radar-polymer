@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymerization — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <strong>360d</strong> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.03572.html">Structure and dynamics of a Rouse polymer in a fluctuating correlated medium</a></div></td>
 <td>Pietro Luigi Muzzeddu et al.</td>
 <td><a href="http://arxiv.org/abs/2503.03572">2503.03572</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06474.html">In-space manufacturing of optical lenses: Fluidic Shaping aboard the International Space Station</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Omer Luria et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06474">2510.06474</a></td>
 </tr>
 </tbody></table>

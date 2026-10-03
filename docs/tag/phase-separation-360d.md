@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">304 papers</span>
+  <span class="paper-count">300 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1814,29 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.14817.html">A phase field model of Cahn-Hilliard type for tumour growth with mechanical effects and damage</a></div></td>
 <td>Giulia Cavalleri</td>
 <td><a href="http://arxiv.org/abs/2409.14817">2409.14817</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.13919.html">Synthetic Quorum Sensing and Absorbing Phase Transitions in Colloidal Active Matter</a></div></td>
-<td>Thibault Lefranc et al.</td>
-<td><a href="http://arxiv.org/abs/2502.13919">2502.13919</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05988.html">Commensurate-incommensurate Mott transition without magnetic field: emergence of nematic Luttinger liquid in XXZ chain</a></div></td>
-<td>Julien Fitouchi et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05988">2510.05988</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06037.html">Unveiling the entropic role of hydration water in SOD1 partitioning within FUS condensate</a></div></td>
-<td>Luis Enrique Coronas et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06037">2510.06037</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06399.html">Phase segregation of liquid-vapor systems with a gravitational field</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>A. Lamura</td>
-<td><a href="http://arxiv.org/abs/2510.06399">2510.06399</a></td>
 </tr>
 </tbody></table>

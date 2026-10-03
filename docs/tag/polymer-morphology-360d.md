@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">208 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1262,23 +1262,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06904.html">Microstructure sensitive recurrent neural network surrogate model of crystal plasticity</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
 <td>Michael D. Atkinson et al.</td>
 <td><a href="http://arxiv.org/abs/2510.06904">2510.06904</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="tem-360d.html">tem</a></div></td>
-<td>Pavel Souček et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06075.html">Colorimetry and Tribology of Ultrapure Copper Surface Micromodification</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Aleksandra Szczupak et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06075">2510.06075</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06399.html">Phase segregation of liquid-vapor systems with a gravitational field</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>A. Lamura</td>
-<td><a href="http://arxiv.org/abs/2510.06399">2510.06399</a></td>
 </tr>
 </tbody></table>

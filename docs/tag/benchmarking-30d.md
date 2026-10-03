@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03284.html">A Silicon-Compatible Uncooled Compact Broadband Infrared Spectrometer</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>A. Nomezine et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03284">2609.03284</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02637.html">The 2024 MRSI Data Processing and Quantification Challenge Synthetic Dataset</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>John T. LaMaster et al.</td>
-<td><a href="http://arxiv.org/abs/2609.02637">2609.02637</a></td>
 </tr>
 </tbody></table>

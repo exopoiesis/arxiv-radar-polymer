@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">487 papers</span>
+  <span class="paper-count">485 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2924,17 +2924,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07166.html">Viscoelastic flow of an Oldroyd-B fluid through a slowly varying contraction-expansion channel: pressure drop and elastic stress relaxation</a></div></td>
 <td>Yali Kedem et al.</td>
 <td><a href="http://arxiv.org/abs/2510.07166">2510.07166</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.05928.html">High- and medium-entropy nitride coatings from the Cr-Hf-Mo-Ta-W-N system: properties and high-temperature stability</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="tem-360d.html">tem</a></div></td>
-<td>Pavel Souček et al.</td>
-<td><a href="http://arxiv.org/abs/2510.05928">2510.05928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06061.html">Effect of viscoelasticity on electrohydrodynamic drop deformation</a></div></td>
-<td>Santanu Kumar Das et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06061">2510.06061</a></td>
 </tr>
 </tbody></table>

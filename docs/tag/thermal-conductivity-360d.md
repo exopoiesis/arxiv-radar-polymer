@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <strong>360d</strong> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.12124.html">Engineering Nonporous Polymer Hybrids with Suppressed Heat Conduction and Enhanced Flame Retardancy via Molecular and Filler Design</a></div></td>
 <td>Henry Worden et al.</td>
 <td><a href="http://arxiv.org/abs/2510.12124">2510.12124</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06075.html">Colorimetry and Tribology of Ultrapure Copper Surface Micromodification</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Aleksandra Szczupak et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06075">2510.06075</a></td>
 </tr>
 </tbody></table>
