@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>spectroscopy — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <strong>30d</strong> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.04929.html">Liquid-liquid phase separation precedes crystallization in supercooled water-glycerol solutions</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a> · <a href="saxs-30d.html">saxs</a></div></td>
 <td>Iason Andronis et al.</td>
 <td><a href="http://arxiv.org/abs/2609.04929">2609.04929</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03284.html">A Silicon-Compatible Uncooled Compact Broadband Infrared Spectrometer</a></div><div class="paper-tags"><a href="band-gap-30d.html">band-gap</a> · <a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>A. Nomezine et al.</td>
-<td><a href="http://arxiv.org/abs/2609.03284">2609.03284</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">182 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1106,11 +1106,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.02865.html">An Open-Sourced, Community-Driven Volumetric Additive Manufacturing Printer and Post-Processor</a></div></td>
 <td>Taylor Waddell et al.</td>
 <td><a href="http://arxiv.org/abs/2509.02865">2509.02865</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07599.html">Magnetically Responsive Microprintable Soft Nanocomposites with Tunable Nanoparticle Loading</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
-<td>Rachel M. Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07599">2510.07599</a></td>
 </tr>
 </tbody></table>

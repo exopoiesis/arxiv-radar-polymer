@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">485 papers</span>
+  <span class="paper-count">481 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2900,29 +2900,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.09453.html">Self-Consistent Fourier-Tschebyshev Representations of the First Normal Stress Difference in Large Amplitude Oscillatory Shear</a></div></td>
 <td>Nicholas King et al.</td>
 <td><a href="http://arxiv.org/abs/2510.09453">2510.09453</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.11340.html">Toughness of double network hydrogels: the role of reduced stress propagation</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Samuel B. Walker et al.</td>
-<td><a href="http://arxiv.org/abs/2503.11340">2503.11340</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06686.html">Elasto-viscous regime in coalescence of viscoelastic droplets</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Pallavi Katre et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06686">2510.06686</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.06720.html">SAOS and LAOS rheology for differentiating chemical and physical crosslinking: A case study on PVA hydrogels</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>David Kogan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.06720">2510.06720</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.07166.html">Viscoelastic flow of an Oldroyd-B fluid through a slowly varying contraction-expansion channel: pressure drop and elastic stress relaxation</a></div></td>
-<td>Yali Kedem et al.</td>
-<td><a href="http://arxiv.org/abs/2510.07166">2510.07166</a></td>
 </tr>
 </tbody></table>
