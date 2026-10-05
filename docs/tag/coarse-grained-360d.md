@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">172 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1046,17 +1046,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.08433.html">Fixation and extinction in time-fluctuating spatially structured metapopulations</a></div></td>
 <td>Matthew Asker et al.</td>
 <td><a href="http://arxiv.org/abs/2504.08433">2504.08433</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14293.html">Upper Bounded Current Fluctuations in One-Dimensional Driven Transport Systems</a></div></td>
-<td>Jiayin Gu et al.</td>
-<td><a href="http://arxiv.org/abs/2412.14293">2412.14293</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04221.html">Topological Mixed States: Phases of Matter from Axiomatic Approaches</a></div></td>
-<td>Tai-Hsuan Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04221">2506.04221</a></td>
 </tr>
 </tbody></table>

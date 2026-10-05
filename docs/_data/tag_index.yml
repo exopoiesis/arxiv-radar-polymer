@@ -8,19 +8,19 @@
   total: 369
   group: morphology
 - name: phase-separation
-  count: 16
+  count: 15
   total: 573
   group: morphology
 - name: molecular-dynamics
-  count: 14
+  count: 13
   total: 263
   group: simulation
 - name: rheology
-  count: 14
+  count: 13
   total: 202
   group: processing
 - name: coarse-grained
-  count: 12
+  count: 11
   total: 295
   group: simulation
 - name: additive-manufacturing
@@ -40,11 +40,11 @@
   total: 167
   group: applications
 - name: monte-carlo
-  count: 6
+  count: 5
   total: 203
   group: simulation
 - name: spectroscopy
-  count: 6
+  count: 5
   total: 117
   group: characterization
 - name: glass-transition
@@ -123,10 +123,6 @@
   count: 1
   total: 13
   group: informatics
-- name: saxs
-  count: 1
-  total: 13
-  group: characterization
 - name: active-learning
   count: 0
   total: 19
@@ -231,6 +227,10 @@
   count: 0
   total: 3
   group: synthesis
+- name: saxs
+  count: 0
+  total: 13
+  group: characterization
 - name: selfies
   count: 0
   total: 34
