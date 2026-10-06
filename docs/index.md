@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-05._
+_Updated 2026-10-06._
 
-**3675** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3676** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -85,6 +85,12 @@ _Updated 2026-10-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02026.html">Interpreting effective homogeneous rheologies through a local differential map with application to the Moon</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
 <td>Yeva Gevorgyan</td>
 <td><a href="http://arxiv.org/abs/2610.02026">2610.02026</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.02566.html">triangulax: Differentiable Simulations with Triangular Meshes across Soft Matter Physics</a></div><div class="paper-tags"><a href="tag/inverse-design-30d.html">inverse-design</a> · <a href="tag/membranes-30d.html">membranes</a></div></td>
+<td>Samuel Silliman et al.</td>
+<td><a href="http://arxiv.org/abs/2610.02566">2610.02566</a></td>
 </tr>
 <tr class="paper">
 <td>2026-09-25</td>
@@ -187,11 +193,5 @@ _Updated 2026-10-05._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26469.html">The nanoscopic submyelin space mediates efficient K$^+$ uptake and shapes nodal action potentials</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
 <td>T. M. Kamsma et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26469">2609.26469</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26547.html">Topology-Stratified Materials Discovery with A Flow-Based Generative Model</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/generative-model-30d.html">generative-model</a></div></td>
-<td>Jingyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26547">2609.26547</a></td>
 </tr>
 </tbody></table>
