@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">37 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -218,23 +218,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
 <td>Xingyu Dang et al.</td>
 <td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07113.html">Density-Induced Reentrant Coarsening in a Two-Temperature System</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Partha Sarathi Mondal et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07113">2607.07113</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07453.html">Collaborate to decorrelate in path space: Hamiltonian replica exchange transition interface sampling (HRETIS)</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Sina Safaei et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07453">2607.07453</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.07561.html">DNA handles bias force-dependent looping times</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Wout Laeremans et al.</td>
-<td><a href="http://arxiv.org/abs/2607.07561">2607.07561</a></td>
 </tr>
 </tbody></table>

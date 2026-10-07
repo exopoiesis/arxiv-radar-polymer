@@ -24,7 +24,7 @@
   total: 295
   group: simulation
 - name: additive-manufacturing
-  count: 9
+  count: 8
   total: 361
   group: processing
 - name: benchmarking
