@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>nanocomposites — 90d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <strong>90d</strong> <a href="nanocomposites-360d.html">360d</a> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.15301.html">Thermo-elastic properties of hydrated epoxy-graphene nanocomposites from ensemble-based molecular dynamics simulations</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Maxime Vassaux et al.</td>
 <td><a href="http://arxiv.org/abs/2607.15301">2607.15301</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08868.html">Grain-boundary-mediated kinetic arrest in graphite-to-diamond transformation</a></div><div class="paper-tags"><a href="crystallinity-90d.html">crystallinity</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Zuzanna Malinowska-Trzmielak et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08868">2607.08868</a></td>
 </tr>
 </tbody></table>

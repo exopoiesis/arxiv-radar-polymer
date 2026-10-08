@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.19984.html">Hydrodynamics of a hard-core active lattice gas</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Ritwik Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2405.19984">2405.19984</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10784.html">Modelling Territorial Dynamics through Statistical Mechanics: An Application to Resident Foreign Population</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Pierpaolo Massoli</td>
-<td><a href="http://arxiv.org/abs/2510.10784">2510.10784</a></td>
 </tr>
 </tbody></table>

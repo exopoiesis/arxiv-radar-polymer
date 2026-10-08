@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,17 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10204.html">Direct separation of intra- and inter-molecular contributions in pulse dipolar EPR experiments</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Olga Vojtiskova et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10204">2609.10204</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07572.html">Aggressive Phase Separation in Dense Mixtures of Passive and Active Particles</a></div></td>
-<td>Purnendu Pathak et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07572">2609.07572</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07764.html">Directional memory of early spectral selection during spinodal decomposition in finite systems</a></div></td>
-<td>Boliang Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07764">2609.07764</a></td>
 </tr>
 </tbody></table>

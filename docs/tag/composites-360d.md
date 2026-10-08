@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">142 papers</span>
+  <span class="paper-count">141 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -860,11 +860,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.16789.html">Networks of neural networks: more is different</a></div></td>
 <td>Elena Agliari et al.</td>
 <td><a href="http://arxiv.org/abs/2501.16789">2501.16789</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10784.html">Modelling Territorial Dynamics through Statistical Mechanics: An Application to Resident Foreign Population</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Pierpaolo Massoli</td>
-<td><a href="http://arxiv.org/abs/2510.10784">2510.10784</a></td>
 </tr>
 </tbody></table>

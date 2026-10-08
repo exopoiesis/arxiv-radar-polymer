@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">478 papers</span>
+  <span class="paper-count">476 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2870,17 +2870,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11906.html">Modelling of magnetic vortex microdisc dynamics under varying magnetic field in biological viscoelastic environments</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Andrea Visonà et al.</td>
 <td><a href="http://arxiv.org/abs/2510.11906">2510.11906</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.15201.html">Phase-separated lipid vesicles: continuum modeling, simulation, and validation</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Maxim Olshanskii et al.</td>
-<td><a href="http://arxiv.org/abs/2504.15201">2504.15201</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.10686.html">A Bioinspired Aquatic Machine Mimicking Water Caltrop</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Yuanquan Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.10686">2510.10686</a></td>
 </tr>
 </tbody></table>

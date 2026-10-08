@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">57 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,11 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.09387.html">Dispersion Polymerization in an Elastomeric Solvent</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
 <td>Senthilkumar Duraivel et al.</td>
 <td><a href="http://arxiv.org/abs/2607.09387">2607.09387</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.08176.html">Scalable Simulation of Strongly Correlated Electron-Phonon Systems via Non-Gaussian Matrix Product States</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Siyuan Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.08176">2607.08176</a></td>
 </tr>
 </tbody></table>

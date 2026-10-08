@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.22268.html">Efficient spectral Galerkin framework for nonlinear transient heat transfer in finite domains</a></div></td>
 <td>Théo Andrieux et al.</td>
 <td><a href="http://arxiv.org/abs/2609.22268">2609.22268</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07337.html">Elastoplastic inherent strain-based topology optimization for residual stress reduction in metal additive manufacturing</a></div></td>
-<td>Takao Miki et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07337">2609.07337</a></td>
 </tr>
 </tbody></table>

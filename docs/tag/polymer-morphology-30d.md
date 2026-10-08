@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08451.html">A finite-strain logarithmic viscoelastic model for Antarctic ice shelves based on an additive split</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Maxime Nutte et al.</td>
 <td><a href="http://arxiv.org/abs/2609.08451">2609.08451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.07973.html">Substrate-induced crystallisation in polymers: Exceptional impact of prefreezing versus heterogeneous nucleation on kinetics and morphology</a></div></td>
-<td>Marthinus van Niekerk et al.</td>
-<td><a href="http://arxiv.org/abs/2609.07973">2609.07973</a></td>
 </tr>
 </tbody></table>
