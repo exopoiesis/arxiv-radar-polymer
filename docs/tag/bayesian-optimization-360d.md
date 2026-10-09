@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,17 +86,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00070.html">Benchmarking Generative AI Against Bayesian Optimization for Constrained Multi-Objective Inverse Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Muhammad Bilal Awan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00070">2511.00070</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.09900.html">In-vitro measurements coupled with in-silico simulations for stochastic calibration and uncertainty quantification of the mechanical response of biological materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Mahmut Pekedis</td>
-<td><a href="http://arxiv.org/abs/2503.09900">2503.09900</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.11960.html">Multi-objective Bayesian optimization for blocking in extreme value analysis and its application in additive manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Shehzaib Irfan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.11960">2510.11960</a></td>
 </tr>
 </tbody></table>

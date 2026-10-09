@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,11 +194,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20407.html">Neutral gas phase distribution from HI morphology: phase separation with scattering spectra and variational autoencoders</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Minjie Lei et al.</td>
 <td><a href="http://arxiv.org/abs/2505.20407">2505.20407</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12075.html">Generative Deep Learning Framework for Inverse Design of Fuels</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="qspr-360d.html">qspr</a></div></td>
-<td>Kiran K. Yalamanchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12075">2504.12075</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -194,23 +194,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10908.html">A virtual element method for Kelvin--Voigt viscoelasticity</a></div></td>
 <td>Utkarsh Rajput et al.</td>
 <td><a href="http://arxiv.org/abs/2609.10908">2609.10908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08202.html">Viscoelasticity reshapes the frequency response of a rotating magnetic particle</a></div></td>
-<td>Zhiyuan Zhao et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08202">2609.08202</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08451.html">A finite-strain logarithmic viscoelastic model for Antarctic ice shelves based on an additive split</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Maxime Nutte et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08451">2609.08451</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.08986.html">Well-posedness and exponential stability for abstract evolution equations with delay in the nonlinear source: frictional and viscoelastic cases</a></div></td>
-<td>Houria Chellaoua et al.</td>
-<td><a href="http://arxiv.org/abs/2609.08986">2609.08986</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qspr — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><a href="qspr-7d.html">7d</a> <a href="qspr-30d.html">30d</a> <a href="qspr-90d.html">90d</a> <strong>360d</strong> <a href="qspr-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00204.html">Transfer learning discovery of molecular modulators for perovskite solar cells</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Haoming Yan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00204">2511.00204</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.12075.html">Generative Deep Learning Framework for Inverse Design of Fuels</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
-<td>Kiran K. Yalamanchi et al.</td>
-<td><a href="http://arxiv.org/abs/2504.12075">2504.12075</a></td>
 </tr>
 </tbody></table>
