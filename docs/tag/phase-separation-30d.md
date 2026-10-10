@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,17 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.17504.html">Enhanced thermal stability of SiGeSn by suppressing surface-mediated degradation</a></div><div class="paper-tags"><a href="polymer-degradation-30d.html">polymer-degradation</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Anis Attiaoui et al.</td>
 <td><a href="http://arxiv.org/abs/2609.17504">2609.17504</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10014.html">Effect of Spherical Confinement on the 2-TIPS of Soft Repulsive Spherocylinders</a></div></td>
-<td>Jaydeep Mandal et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10014">2609.10014</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.10204.html">Direct separation of intra- and inter-molecular contributions in pulse dipolar EPR experiments</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Olga Vojtiskova et al.</td>
-<td><a href="http://arxiv.org/abs/2609.10204">2609.10204</a></td>
 </tr>
 </tbody></table>
