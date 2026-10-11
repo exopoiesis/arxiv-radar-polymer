@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16586.html">Reciprocal swimming in viscoelastic granular hydrogels</a></div></td>
 <td>Hongyi Xiao et al.</td>
 <td><a href="http://arxiv.org/abs/2510.16586">2510.16586</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13490.html">Molecularly imprinted nanopores for multiplexed sensing, release, and in-edge computing</a></div></td>
-<td>Ali Douaki et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13490">2510.13490</a></td>
 </tr>
 </tbody></table>

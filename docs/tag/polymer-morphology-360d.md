@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">206 papers</span>
+  <span class="paper-count">205 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1244,11 +1244,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
 <td>Yongliang Ou et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20407.html">Neutral gas phase distribution from HI morphology: phase separation with scattering spectra and variational autoencoders</a></div><div class="paper-tags"><a href="generative-model-360d.html">generative-model</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Minjie Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20407">2505.20407</a></td>
 </tr>
 </tbody></table>

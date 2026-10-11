@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlff — 360d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <strong>360d</strong> <a href="mlff-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -146,11 +146,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06551.html">Machine learning intermolecular transfer integrals with compact atomic cluster representations</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Keerati Keeratikarn et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06551">2511.06551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.13696.html">SimPoly: Simulation of Polymers with Machine Learning Force Fields Derived from First Principles</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="glass-transition-360d.html">glass-transition</a></div></td>
-<td>Gregor N. C. Simm et al.</td>
-<td><a href="http://arxiv.org/abs/2510.13696">2510.13696</a></td>
 </tr>
 </tbody></table>

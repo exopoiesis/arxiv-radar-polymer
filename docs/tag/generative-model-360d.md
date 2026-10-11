@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02769.html">STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="selfies-360d.html">selfies</a></div></td>
 <td>Bum Chul Kwon et al.</td>
 <td><a href="http://arxiv.org/abs/2511.02769">2511.02769</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.20407.html">Neutral gas phase distribution from HI morphology: phase separation with scattering spectra and variational autoencoders</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Minjie Lei et al.</td>
-<td><a href="http://arxiv.org/abs/2505.20407">2505.20407</a></td>
 </tr>
 </tbody></table>

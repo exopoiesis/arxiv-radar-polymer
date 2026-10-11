@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">171 papers</span>
+  <span class="paper-count">170 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1034,11 +1034,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15713.html">Real-Time Modeling of Skyrmion Dynamics in Arbitrary 2D Spatially Dependent Pinning Potential Landscapes</a></div></td>
 <td>Simon M. Fröhlich et al.</td>
 <td><a href="http://arxiv.org/abs/2510.15713">2510.15713</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.13327.html">Two-field theory for phase coexistence of active Brownian particles</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Pablo Perez-Bastías et al.</td>
-<td><a href="http://arxiv.org/abs/2504.13327">2504.13327</a></td>
 </tr>
 </tbody></table>
