@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>inverse-design — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <strong>90d</strong> <a href="inverse-design-360d.html">360d</a> <a href="inverse-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13199.html">Towards stealthy hyperuniform networks with optimal isotropic complete photonic band gaps using a novel inverse design procedure</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="band-gap-90d.html">band-gap</a></div></td>
 <td>Joel Steinegger et al.</td>
 <td><a href="http://arxiv.org/abs/2607.13199">2607.13199</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.11209.html">Uncertainty-Aware Structure-Property Mapping of Spinodoid Metamaterials via Heteroscedastic Gaussian Process Regression</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Minwoo Park et al.</td>
-<td><a href="http://arxiv.org/abs/2607.11209">2607.11209</a></td>
 </tr>
 </tbody></table>

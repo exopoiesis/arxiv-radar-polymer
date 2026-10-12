@@ -345,5 +345,36 @@
    "Generative Design & Inverse Design"
   ],
   "updated": "2026-10-01"
+ },
+ "2610.07063": {
+  "abstract": "Resonant nanostructures are powerful for chiral control of light, but widely assumed to require achiral geometry. Here we demonstrate that optical chirality can emerge in geometrically achiral nanostructures, through the misalignment of independent linear responses. By rotating the conductivity tensor of an anisotropic plasmonic medium relative to a geometrically symmetric nanostructure, we generate a spin-selective optical response that can be continuously tuned both in magnitude and handedness, including reversible switching between left- and right-handed behaviour. We experimentally realize this concept using an aligned plasmonic conducting polymer and by controlling the orientation of its polymer backbone relative to otherwise identical rectangular nanoantennas. This leads to strong planar chirality that can also be reversibly modulated by varying the carrier density of the polymer. Moreover, the rotation angle of rectangular meta-atoms made through this principle encodes no longer only the local geometric phase but simultaneously the local optical chirality. This enables a new design paradigm for phase-gradient metasurfaces , enabling simultaneous control of optical chirality and wavefronts through a single rotational degree of freedom.",
+  "authors": [
+   "Yulong Duan",
+   "Longzhu Liu",
+   "Suraya Kazi",
+   "Harry Miyosi Silalahi",
+   "Roger Magnusson",
+   "Xing Xing",
+   "Zhe Zhang",
+   "Dongqing Lin",
+   "Wanlin Wang",
+   "Magnus P. Jonsson"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Yulong Duan",
+  "pdf_url": "http://arxiv.org/pdf/2610.07063",
+  "primary_category": "physics.optics",
+  "published": "2026-10-05",
+  "tags": [
+   "conducting-polymers"
+  ],
+  "title": "Conductivity-driven chirality in geometrically achiral plasmonic nanostructures and metasurfaces",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers"
+  ],
+  "updated": "2026-10-05"
  }
 }

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">294 papers</span>
+  <span class="paper-count">293 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1772,11 +1772,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16150.html">Absorbed power in ultracold polarized Fermi mixtures at normal-superfluid separation phase: Mass-imbalanced effect</a></div></td>
 <td>Neda Ebrahimian</td>
 <td><a href="http://arxiv.org/abs/2510.16150">2510.16150</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.14280.html">Flux Jamming, Phase Transitions and Layering in Turbulent Magnetized Plasma</a></div></td>
-<td>P. H. Diamond et al.</td>
-<td><a href="http://arxiv.org/abs/2510.14280">2510.14280</a></td>
 </tr>
 </tbody></table>

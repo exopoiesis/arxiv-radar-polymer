@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">178 papers</span>
+  <span class="paper-count">177 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1076,11 +1076,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18233.html">Zero-Dimensional Stacking Domains Enable Strong-Ductile Synergy in Additive Manufactured Titanium</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Wenjing Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18233">2510.18233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.15075.html">Physics-informed data-driven machine health monitoring for two-photon lithography</a></div></td>
-<td>Sixian Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2510.15075">2510.15075</a></td>
 </tr>
 </tbody></table>

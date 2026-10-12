@@ -4,11 +4,11 @@
   total: 860
   group: properties
 - name: polymer-morphology
-  count: 13
+  count: 12
   total: 369
   group: morphology
 - name: molecular-dynamics
-  count: 12
+  count: 11
   total: 263
   group: simulation
 - name: phase-separation
@@ -19,18 +19,14 @@
   count: 9
   total: 202
   group: processing
-- name: coarse-grained
-  count: 8
-  total: 295
-  group: simulation
 - name: additive-manufacturing
   count: 6
   total: 361
   group: processing
-- name: benchmarking
+- name: coarse-grained
   count: 6
-  total: 210
-  group: informatics
+  total: 295
+  group: simulation
 - name: composites
   count: 6
   total: 269
@@ -39,10 +35,10 @@
   count: 6
   total: 167
   group: applications
-- name: membranes
-  count: 4
-  total: 88
-  group: applications
+- name: benchmarking
+  count: 5
+  total: 210
+  group: informatics
 - name: spectroscopy
   count: 4
   total: 117
@@ -51,6 +47,10 @@
   count: 3
   total: 152
   group: properties
+- name: membranes
+  count: 3
+  total: 88
+  group: applications
 - name: monte-carlo
   count: 3
   total: 203
@@ -59,6 +59,10 @@
   count: 3
   total: 56
   group: sustainability
+- name: conducting-polymers
+  count: 2
+  total: 29
+  group: applications
 - name: crystallinity
   count: 2
   total: 29
@@ -91,10 +95,6 @@
   count: 1
   total: 12
   group: morphology
-- name: conducting-polymers
-  count: 1
-  total: 28
-  group: applications
 - name: dielectric-properties
   count: 1
   total: 18

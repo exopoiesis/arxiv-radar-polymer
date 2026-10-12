@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-11._
+_Updated 2026-10-12._
 
-**3676** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3677** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.07063.html">Conductivity-driven chirality in geometrically achiral plasmonic nanostructures and metasurfaces</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a></div></td>
+<td>Yulong Duan et al.</td>
+<td><a href="http://arxiv.org/abs/2610.07063">2610.07063</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.00892.html">Polymer viscoelasticity from an orientational closure with implicit stretch</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-10-11._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26442.html">Reinterpreting ultrafast experiments on supercooled water: Glass transition versus liquid-liquid criticality</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
 <td>Florian Pabst et al.</td>
 <td><a href="http://arxiv.org/abs/2609.26442">2609.26442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26469.html">The nanoscopic submyelin space mediates efficient K$^+$ uptake and shapes nodal action potentials</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
-<td>T. M. Kamsma et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26469">2609.26469</a></td>
 </tr>
 </tbody></table>
