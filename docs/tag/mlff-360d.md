@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlff — 360d</h1>
-  <span class="paper-count">22 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <strong>360d</strong> <a href="mlff-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="composites-360d.html">composites</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>

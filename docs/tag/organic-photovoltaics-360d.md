@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>organic-photovoltaics — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="organic-photovoltaics-7d.html">7d</a> <a href="organic-photovoltaics-30d.html">30d</a> <a href="organic-photovoltaics-90d.html">90d</a> <strong>360d</strong> <a href="organic-photovoltaics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09389.html">Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Houssam Metni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09389">2610.09389</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26717.html">Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>

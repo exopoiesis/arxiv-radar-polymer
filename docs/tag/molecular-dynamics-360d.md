@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">145 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12132.html">A structure-preserving neural density functional for the ions of a polymer electrolyte</a></div><div class="paper-tags"><a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
+<td>Liyao Lyu</td>
+<td><a href="http://arxiv.org/abs/2610.12132">2610.12132</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01051.html">Anisotropic medium-range order uncovers dynamic crossovers in glass-forming liquids</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
@@ -872,11 +884,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Yongliang Ou et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06457.html">Deep learning reveals key predictors of thermal conductivity in covalent organic frameworks</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Prakash Thakolkaran et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06457">2409.06457</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-design — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <a href="inverse-design-90d.html">90d</a> <strong>360d</strong> <a href="inverse-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18860.html">An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Harikrishna Sahu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18860">2510.18860</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.04233.html">polyBART: A Chemical Linguist for Polymer Property Prediction and Generative Design</a></div><div class="paper-tags"><a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="selfies-360d.html">selfies</a></div></td>
-<td>Anagha Savit et al.</td>
-<td><a href="http://arxiv.org/abs/2506.04233">2506.04233</a></td>
 </tr>
 </tbody></table>

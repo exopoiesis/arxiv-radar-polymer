@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.14586.html">A New Framework for Interfacial Statistics: Exact n-Point Correlations of Gaussian Level Sets</a></div></td>
 <td>Aleksei M. Cherkasov et al.</td>
 <td><a href="http://arxiv.org/abs/2609.14586">2609.14586</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.13715.html">Event-Time Order-Flow Memory, Operational-Time Impact, and Subordinated Market Observables</a></div></td>
-<td>Christopher Angstmann et al.</td>
-<td><a href="http://arxiv.org/abs/2609.13715">2609.13715</a></td>
 </tr>
 </tbody></table>

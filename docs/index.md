@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-12._
+_Updated 2026-10-13._
 
-**3677** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3682** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11837.html">Elastic polymer networks of exceptional strength by deconcentrating tension</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Yu Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.11837">2610.11837</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.12132.html">A structure-preserving neural density functional for the ions of a polymer electrolyte</a></div><div class="paper-tags"><a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-electrolytes-30d.html">polymer-electrolytes</a></div></td>
+<td>Liyao Lyu</td>
+<td><a href="http://arxiv.org/abs/2610.12132">2610.12132</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.12297.html">The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/polymer-electrolytes-30d.html">polymer-electrolytes</a></div></td>
+<td>Katarina Kretschmer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12297">2610.12297</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.12799.html">Drude, Where&#x27;s My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes</a></div><div class="paper-tags"><a href="tag/mlff-30d.html">mlff</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-electrolytes-30d.html">polymer-electrolytes</a></div></td>
+<td>Artur Lyssenko et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12799">2610.12799</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.09389.html">Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a> · <a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a></div></td>
+<td>Houssam Metni et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09389">2610.09389</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.07063.html">Conductivity-driven chirality in geometrically achiral plasmonic nanostructures and metasurfaces</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a></div></td>
@@ -163,35 +193,5 @@ _Updated 2026-10-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28655.html">Bayesian Monitoring of a Diffusive Particle in One Dimension</a></div></td>
 <td>Federico Gerbino et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28655">2609.28655</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Lauren Bogo et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28734">2609.28734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25663.html">Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Zijian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25663">2609.25663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.25997.html">Interplay of Composition, Crystallinity, and Chemical Structure in CoHCF and NiHCF Thin Films Prepared at Different Temperatures</a></div><div class="paper-tags"><a href="tag/crystallinity-30d.html">crystallinity</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Larissa de O. Garcia et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25997">2609.25997</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Muhammed Muhsin Abdul Azeez et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26431">2609.26431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.26442.html">Reinterpreting ultrafast experiments on supercooled water: Glass transition versus liquid-liquid criticality</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
-<td>Florian Pabst et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26442">2609.26442</a></td>
 </tr>
 </tbody></table>

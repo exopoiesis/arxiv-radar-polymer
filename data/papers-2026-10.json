@@ -373,8 +373,140 @@
   ],
   "title": "Conductivity-driven chirality in geometrically achiral plasmonic nanostructures and metasurfaces",
   "topics": [
-   "Conducting, Responsive & Compartment Polymers"
+   "Conducting, Responsive & Compartment Polymers",
+   "Sustainability & Functional Applications"
   ],
   "updated": "2026-10-05"
+ },
+ "2610.09389": {
+  "abstract": "Predicting the dynamic polarizability tensor of organic molecules is essential for simulating light-matter interactions in optoelectronic devices, yet conventional quantum-chemical methods such as time-dependent density functional theory (TD-DFT) are computationally expensive and limit large-scale screening. We present an equivariant graph neural network architecture that predicts frequency-dependent, complex-valued dynamic polarizability tensors directly from readily available molecular information, such as 3D geometry and UV-vis spectra. The model learns to approximate the shape and magnitude of the dynamic polarizability tensor, capturing both dispersive and absorptive features that define the molecular optical response. We evaluate the model on molecules from both the QM9 dataset and the Harvard organic photovoltaic dataset using various metrics, including the earth mover's distance, which is suitable for comparing spectral quantities. For both datasets, the model successfully reproduces the main features of the dynamic polarizability tensor and generalizes across diverse molecules. To assess the applicability, we further validated the model using a downstream workflow to calculate the optical properties of organic photovoltaic devices. We used the model-predicted polarizabilities to perform device-level optical simulations, yielding charge carrier generation rates in agreement with TD-DFT-based results ($R^2 = 0.94$). Our approach offers a promising complement, or even an alternative, to conventional methods such as TD-DFT, enabling faster and more efficient screening of photoactive organic molecules for optoelectronic applications.",
+  "authors": [
+   "Houssam Metni",
+   "Maria Kraus",
+   "Marie Louise Schubert",
+   "Marjan Krstic",
+   "Carsten Rockstuhl",
+   "Pascal Friederich"
+  ],
+  "categories": [
+   "physics.chem-ph",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Houssam Metni",
+  "pdf_url": "http://arxiv.org/pdf/2610.09389",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-07",
+  "tags": [
+   "gnn",
+   "organic-photovoltaics"
+  ],
+  "title": "Accelerating dynamic polarizability calculations of organic molecules using equivariant graph neural networks",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-07"
+ },
+ "2610.11837": {
+  "abstract": "The strength of a polymer network is orders of magnitude below that of a polymer chain, because the network concentrates high tension in a small fraction of polymer strands. Here we show that the strength of a network can be greatly amplified by recruiting a larger fraction of strands to bear high tension. We develop approaches to fabricate hydrogels of exceptional strength while maintaining low hysteresis. The strength of the hydrogel increases from ~0.05 MPa for a regular network, to ~1 MPa for a highly entangled network, and further to ~10 MPa for a prestretched interpenetrating network. Similar amplifications of strength are achieved for elastomers. Furthermore, experimental data suggest a scaling relation between strength and strand length. This work provides design principles for creating elastic and strong polymer networks.",
+  "authors": [
+   "Yu Zhou",
+   "Chenghai Li",
+   "Zheqi Chen",
+   "Xianyang Bao",
+   "Zhigang Suo"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "15 pages, 9 figures",
+  "first_author": "Yu Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2610.11837",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-08",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Elastic polymer networks of exceptional strength by deconcentrating tension",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.12132": {
+  "abstract": "Predicting the structure and response of inhomogeneous polymer electrolytes requires a description of ion correlations that retains molecular-scale accuracy while remaining transferable across spatial scales and geometries. We develop a neural density functional for electrolytes that preserves spatial symmetries, thermodynamic integrability and the Noether identities, with perfect screening recovered in stable, noncritical bulk states. Its nonlinear density dependence captures the concentration-dependent correlations missed by a pair closure, including a crossover from enhanced to suppressed long-wavelength number fluctuations at strong coupling. The functional describes density profiles at an untrained salt concentration and predicts bulk structure factors and the long-wavelength number response. Trained solely on planar density and internal-force profiles from molecular dynamics, the functional predicts ionic structure in larger domains and in two-dimensional external fields. On the same ion data, it is more accurate than three other neural density-functional architectures and keeps its accuracy with a quarter of the training runs, where the errors of the best alternative grow by about two thirds. The spatial transferability provides a necessary foundation for connecting molecular correlations to continuum predictions at larger scales.",
+  "authors": [
+   "Liyao Lyu"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cs.LG",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Liyao Lyu",
+  "pdf_url": "http://arxiv.org/pdf/2610.12132",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-08",
+  "tags": [
+   "molecular-dynamics",
+   "polymer-electrolytes"
+  ],
+  "title": "A structure-preserving neural density functional for the ions of a polymer electrolyte",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.12297": {
+  "abstract": "Polymer electrolyte water electrolysis is considered as a pivotal technology for green hydrogen production. Iridium dioxide (IrO2) serves as the benchmark electrocatalyst for the anodic oxygen evolution reaction (OER) in these cells. However, the scarcity and cost of iridium drives efforts to find durable and cost-effective replacements or drastically reduce the iridium loading. While ruthenium dioxide (RuO2) offers comparable activity, its practical utility is impacted by its stability being inferior to IrO2. The presented computational study analyzes the metal-oxygen bond strengths in bulk IrO2 and RuO2 to provide insights into the electronic origins of their differing stabilities. Through a comparative analysis of the electronic structure of bulk rutile IrO2, RuO2, and selected MO2 systems, it is able to discriminate the covalent and ionic contributions to the metal-oxygen bond using crystal-orbital-derived electronic descriptors.",
+  "authors": [
+   "Katarina Kretschmer",
+   "Michael H. Eikerling",
+   "Tobias Binninger"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Katarina Kretschmer",
+  "pdf_url": "http://arxiv.org/pdf/2610.12297",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "benchmarking",
+   "polymer-electrolytes"
+  ],
+  "title": "The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-08"
+ },
+ "2610.12799": {
+  "abstract": "Molecular dynamics simulations of solid polymer electrolytes require force fields that are fast enough to converge ion transport over hundreds of nanoseconds, yet accurately describe the ion-polymer interactions that govern it. Fixed-charge force fields meet the first requirement but neglect electronic polarization, an effect often approximated by scaling ionic charges using empirically chosen factors. Here we present AutoDrude, a differentiable framework that parametrizes polarizable Drude force fields directly from DFT energies, forces, and dipoles, with no empirical tuning and at only 1.20 times the cost of a fixed-charge simulation. For PEO-LiTFSI, the dipole-constrained (hard-constraint) AutoDrude model reproduces the experimental ionic conductivity as accurately as the best charge-scaled model (17% versus 16% mean absolute percentage error). We compare the polarizable forcefield to fixed charge ones models by fitting a fixed charge model. Unlike the charge-scaled models tested here, however, AutoDrude also reproduces the dilute-limit cation transference number, its increase with salt concentration, and the absence of Li-TFSI contact ion pairs at low concentration. A penalty-based (soft-constraint) variant yields a closer fit to the DFT reference yet underestimates the conductivity by up to an order of magnitude, demonstrating that closer agreement with DFT training data alone does not guarantee accurate ion transport. These results indicate that although charge scaling can reproduce ionic conductivity the explicit inclusion of polarization is necessary to capture the concentration dependence of cation transport in PEO-LiTFSI.",
+  "authors": [
+   "Artur Lyssenko",
+   "KyuJung Jun",
+   "Rafael Gomez-Bombarelli"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Artur Lyssenko",
+  "pdf_url": "http://arxiv.org/pdf/2610.12799",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-08",
+  "tags": [
+   "mlff",
+   "molecular-dynamics",
+   "polymer-electrolytes"
+  ],
+  "title": "Drude, Where's My Charge? End-to-End Learning of Polarizable Drude Force Fields for Polymer Electrolytes",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-08"
  }
 }

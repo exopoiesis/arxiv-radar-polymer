@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,17 +182,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14287.html">XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Md Mahedi Hasan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14287">2607.14287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13174.html">Towards end-to-end optimization in multimaterial 3D printing</a></div></td>
-<td>Xue-Ling Luo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13174">2607.13174</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.13199.html">Towards stealthy hyperuniform networks with optimal isotropic complete photonic band gaps using a novel inverse design procedure</a></div><div class="paper-tags"><a href="band-gap-90d.html">band-gap</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
-<td>Joel Steinegger et al.</td>
-<td><a href="http://arxiv.org/abs/2607.13199">2607.13199</a></td>
 </tr>
 </tbody></table>

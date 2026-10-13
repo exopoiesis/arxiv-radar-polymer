@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12297.html">The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors</a></div><div class="paper-tags"><a href="polymer-electrolytes-90d.html">polymer-electrolytes</a></div></td>
+<td>Katarina Kretschmer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.12297">2610.12297</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.27036.html">An open benchmark for machine learning-based polymer property prediction</a></div><div class="paper-tags"><a href="inverse-design-90d.html">inverse-design</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Robert W. Learsch et al.</td>
@@ -194,11 +200,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.14287.html">XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Md Mahedi Hasan et al.</td>
 <td><a href="http://arxiv.org/abs/2607.14287">2607.14287</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.12771.html">Learning Mechanistic Reasoning for Chemical Reactions with Large Language Models</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
-<td>Xingyu Dang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.12771">2607.12771</a></td>
 </tr>
 </tbody></table>
