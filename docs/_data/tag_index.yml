@@ -4,7 +4,7 @@
   total: 860
   group: properties
 - name: molecular-dynamics
-  count: 13
+  count: 11
   total: 265
   group: simulation
 - name: phase-separation
@@ -12,7 +12,7 @@
   total: 573
   group: morphology
 - name: polymer-morphology
-  count: 11
+  count: 10
   total: 369
   group: morphology
 - name: rheology
@@ -27,14 +27,14 @@
   count: 6
   total: 361
   group: processing
-- name: benchmarking
-  count: 6
-  total: 211
-  group: informatics
 - name: composites
   count: 6
   total: 269
   group: processing
+- name: benchmarking
+  count: 5
+  total: 211
+  group: informatics
 - name: coarse-grained
   count: 5
   total: 295
@@ -63,10 +63,6 @@
   count: 3
   total: 20
   group: applications
-- name: conducting-polymers
-  count: 2
-  total: 29
-  group: applications
 - name: crystallinity
   count: 2
   total: 29
@@ -83,10 +79,6 @@
   count: 2
   total: 51
   group: simulation
-- name: nanocomposites
-  count: 2
-  total: 75
-  group: processing
 - name: soft-matter
   count: 2
   total: 87
@@ -103,6 +95,10 @@
   count: 1
   total: 12
   group: morphology
+- name: conducting-polymers
+  count: 1
+  total: 29
+  group: applications
 - name: dielectric-properties
   count: 1
   total: 18
@@ -123,13 +119,13 @@
   count: 1
   total: 5
   group: sustainability
+- name: nanocomposites
+  count: 1
+  total: 75
+  group: processing
 - name: organic-photovoltaics
   count: 1
   total: 34
-  group: applications
-- name: pedot-pss
-  count: 1
-  total: 7
   group: applications
 - name: polymer-informatics
   count: 1
@@ -194,6 +190,10 @@
 - name: oect
   count: 0
   total: 10
+  group: applications
+- name: pedot-pss
+  count: 0
+  total: 7
   group: applications
 - name: photoresponsive-polymers
   count: 0

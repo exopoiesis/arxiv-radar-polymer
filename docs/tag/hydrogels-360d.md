@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">87 papers</span>
+  <span class="paper-count">86 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -530,11 +530,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.08918.html">When and How Ultrasound Enhances Nanoparticle Diffusion in Hydrogels: A Stick-and-Release Mechanism</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Pablo M. Blanco et al.</td>
 <td><a href="http://arxiv.org/abs/2508.08918">2508.08918</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.16586.html">Reciprocal swimming in viscoelastic granular hydrogels</a></div></td>
-<td>Hongyi Xiao et al.</td>
-<td><a href="http://arxiv.org/abs/2510.16586">2510.16586</a></td>
 </tr>
 </tbody></table>
