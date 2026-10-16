@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">289 papers</span>
+  <span class="paper-count">288 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1742,11 +1742,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18331.html">Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
 <td>Ahmed Yousef Mohamed et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18331">2510.18331</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18076.html">Transitions driven by multibody interactions in an effective model of active matter</a></div></td>
-<td>Thibaut Arnoulx de Pirey et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18076">2510.18076</a></td>
 </tr>
 </tbody></table>

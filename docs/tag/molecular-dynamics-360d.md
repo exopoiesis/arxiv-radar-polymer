@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">145 papers</span>
+  <span class="paper-count">144 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -878,11 +878,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.12143.html">Asymmetric Effects Underlying Dynamic Heterogeneity in Miscible Blends of Poly(methyl methacrylate) with Poly(ethylene oxide)</a></div></td>
 <td>Shannon Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2506.12143">2506.12143</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
 </tr>
 </tbody></table>

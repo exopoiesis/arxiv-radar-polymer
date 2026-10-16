@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>multiscale-modeling — 360d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="multiscale-modeling-7d.html">7d</a> <a href="multiscale-modeling-30d.html">30d</a> <a href="multiscale-modeling-90d.html">90d</a> <strong>360d</strong> <a href="multiscale-modeling-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,11 +128,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26100.html">Applications of Machine Learning in Polymer Materials: Property Prediction, Material Design, and Systematic Processes</a></div><div class="paper-tags"><a href="polymer-informatics-360d.html">polymer-informatics</a></div></td>
 <td>Hongtao Guo Shuai Li Shu Li</td>
 <td><a href="http://arxiv.org/abs/2510.26100">2510.26100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
 </tr>
 </tbody></table>

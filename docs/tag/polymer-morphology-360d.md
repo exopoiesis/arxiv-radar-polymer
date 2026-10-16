@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">205 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,11 +1238,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18233.html">Zero-Dimensional Stacking Domains Enable Strong-Ductile Synergy in Additive Manufactured Titanium</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Wenjing Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2510.18233">2510.18233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18630.html">Non-Arrhenius Li-ion transport and grain-size effects in argyrodite solid electrolytes</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
-<td>Yongliang Ou et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18630">2510.18630</a></td>
 </tr>
 </tbody></table>

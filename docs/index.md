@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-15._
+_Updated 2026-10-16._
 
-**3682** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3683** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.20374.html">Effective Graph Neural Representation of Chain Architectures of Block Copolymers Tested by Predicting RPA Instability Limits</a></div><div class="paper-tags"><a href="tag/gnn-30d.html">gnn</a></div></td>
+<td>Xiyue Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20374">2610.20374</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.11837.html">Elastic polymer networks of exceptional strength by deconcentrating tension</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-10-15._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28244.html">Modularity is Not Enough: Demonstration of a Solderless 400 V DC, 2.5 kW Three-Phase Inverter</a></div><div class="paper-tags"><a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="tag/polymer-degradation-30d.html">polymer-degradation</a></div></td>
 <td>Luc Imperiali et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28244">2609.28244</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2609.28655.html">Bayesian Monitoring of a Diffusive Particle in One Dimension</a></div></td>
-<td>Federico Gerbino et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28655">2609.28655</a></td>
 </tr>
 </tbody></table>
