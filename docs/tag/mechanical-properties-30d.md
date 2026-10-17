@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">21 papers</span>
+  <span class="paper-count">19 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -128,17 +128,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20721.html">Quantum Simulation of Dissipative Non-Markovian Coupled Classical Oscillators</a></div></td>
 <td>Malte Schade et al.</td>
 <td><a href="http://arxiv.org/abs/2609.20721">2609.20721</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18364.html">A Scaling Framework for Mechanical Memristance: Dimensionless Metrics and Material Design Maps</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
-<td>Abdulla Alhembar et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18364">2609.18364</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.18636.html">From powder to part: influence of virgin and recovered Inconel 625 powders on the DED-LP processability, microstructure and mechanical properties</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Romain Deloffre et al.</td>
-<td><a href="http://arxiv.org/abs/2609.18636">2609.18636</a></td>
 </tr>
 </tbody></table>

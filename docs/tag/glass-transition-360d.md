@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">83 papers</span>
+  <span class="paper-count">82 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -506,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20465.html">An interpretable molecular descriptor for machine learning predictions in atmospheric science</a></div></td>
 <td>Linus Lind et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20465">2510.20465</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18860.html">An Encoder-Decoder Foundation Chemical Language Model for Generative Polymer Design</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
-<td>Harikrishna Sahu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18860">2510.18860</a></td>
 </tr>
 </tbody></table>

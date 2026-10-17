@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">467 papers</span>
+  <span class="paper-count">464 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2798,23 +2798,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20599.html">Dynamic crack growth in viscoelastic materials with memory</a></div></td>
 <td>Federico Cianci</td>
 <td><a href="http://arxiv.org/abs/2510.20599">2510.20599</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.10920.html">Minimal dissipation with viscoelastic baths in weakly driven processes</a></div></td>
-<td>Pierre Nazé et al.</td>
-<td><a href="http://arxiv.org/abs/2503.10920">2503.10920</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18233.html">Zero-Dimensional Stacking Domains Enable Strong-Ductile Synergy in Additive Manufactured Titanium</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Wenjing Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18233">2510.18233</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18504.html">Dynamical boundary value problem for a viscoelastic half-space with cut</a></div></td>
-<td>N. Shavlakadze et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18504">2510.18504</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">288 papers</span>
+  <span class="paper-count">286 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1730,17 +1730,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20553.html">Dynamic principles of concentration buffering through liquid-liquid phase separation</a></div></td>
 <td>Logan de Monchaux-Irons et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20553">2510.20553</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.05264.html">Geometric and Nonequilibrium Criticality in Run-and-Tumble Particles with Competing Motility and Attraction</a></div></td>
-<td>Abir Bhowmick et al.</td>
-<td><a href="http://arxiv.org/abs/2506.05264">2506.05264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.18331.html">Chemical States and Local Structure in Cu-Deficient CuInSe2 Thin Films: Insights into Engineering and Bandgap Narrowing</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a></div></td>
-<td>Ahmed Yousef Mohamed et al.</td>
-<td><a href="http://arxiv.org/abs/2510.18331">2510.18331</a></td>
 </tr>
 </tbody></table>
