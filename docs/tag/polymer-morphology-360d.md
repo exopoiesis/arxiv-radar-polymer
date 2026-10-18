@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">202 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1226,11 +1226,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16590.html">FDTRImageEnhancer: Combining Physics-Informed Deconvolution and Microstructure-Aware Deep Learning to Enhance Thermal Images</a></div><div class="paper-tags"><a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Alesanmi Richmond Rerelope Odufisan</td>
 <td><a href="http://arxiv.org/abs/2508.16590">2508.16590</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.08852.html">Hydrodynamics in a villi-patterned channel due to pendular-wave activity</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Rohan Vernekar et al.</td>
-<td><a href="http://arxiv.org/abs/2503.08852">2503.08852</a></td>
 </tr>
 </tbody></table>

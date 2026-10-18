@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1058,17 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24994.html">Defect Mitigation for Robot Arm-based Additive Manufacturing Utilizing Intelligent Control and IOT</a></div><div class="paper-tags"><a href="extrusion-360d.html">extrusion</a></div></td>
 <td>Matsive Ali et al.</td>
 <td><a href="http://arxiv.org/abs/2510.24994">2510.24994</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.19309.html">Neuromorphic computing for anomaly detection in a laser powder bed fusion process</a></div></td>
-<td>Shreyan Banerjee et al.</td>
-<td><a href="http://arxiv.org/abs/2510.19309">2510.19309</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20079.html">Design of a Bed Rotation Mechanism to Facilitate In-Situ Photogrammetric Reconstruction of Printed Parts</a></div></td>
-<td>Travis A. Roberts et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20079">2510.20079</a></td>
 </tr>
 </tbody></table>

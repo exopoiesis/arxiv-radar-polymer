@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.23611.html">Uni-Macro-FRPN: Full-Resolution and Cross-Scale Learning for Polymers</a></div><div class="paper-tags"><a href="bigsmiles-30d.html">bigsmiles</a> · <a href="block-copolymer-30d.html">block-copolymer</a> · <a href="polymer-informatics-30d.html">polymer-informatics</a></div></td>
 <td>Jintao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.23611">2609.23611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20461.html">Correlation-Free Transition Path Sampling through Shooting Point Generation Guided by Committor Learning</a></div><div class="paper-tags"><a href="enhanced-sampling-30d.html">enhanced-sampling</a></div></td>
-<td>Maximilian Negedly et al.</td>
-<td><a href="http://arxiv.org/abs/2609.20461">2609.20461</a></td>
 </tr>
 </tbody></table>
