@@ -509,6 +509,110 @@
   ],
   "updated": "2026-10-08"
  },
+ "2610.14398": {
+  "abstract": "Biomolecular condensates are micron-scale, membraneless compartments that concentrate proteins and nucleic acids by liquid-liquid phase separation (LLPS). Condensates play critical roles in transcription, mRNA metabolism, stress responses, and signaling across the cell, with their dysregulation increasingly correlated with several pathologies spanning neurodegeneration, cancer, cardiometabolic disease, and viral infections. The emergent biology of condensates can be cohesively viewed through the framework of colloidal, interfacial, and transport phenomena. Here we review the condensate literature through this joint lens, treating each condensate as a biological colloid whose behavior is captured by four measurable physical quantities: a Flory--Huggins interaction parameter that determines whether the dense phase forms at all, a partition coefficient that dictates the degree of client molecule accumulation, a viscoelastic relaxation time that sets whether the dense phase responds as a liquid or a solid, and an interfacial tension that governs droplet shape and interfacial dynamics. Each quantity is traced to its physical origin, its measured range in biological condensates, and the techniques that quantify it, for both three-dimensional droplets and two-dimensional membrane-tethered condensates. Interpreting disease as the displacement of these physical quantities from their functional ranges, we reorganize condensate pathologies into a small set of physical failure modes --- saturation concentration dysregulation, aberrant aging and liquid-to-solid transitions, disrupted partitioning, interfacial aggregation, and pathogen hijacking --- and show how the same parameters become design variables for condensate-targeted drugs and engineered coacervate delivery vehicles. The review concludes with open questions at the interface of condensate biology and colloidal and interfacial science.",
+  "authors": [
+   "Vineeth Godavarti",
+   "Vinny Chandran Suja"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "22 pages, 4 figures",
+  "first_author": "Vineeth Godavarti",
+  "pdf_url": "http://arxiv.org/pdf/2610.14398",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-09",
+  "tags": [
+   "coacervates",
+   "mechanical-properties",
+   "phase-separation"
+  ],
+  "title": "Biomolecular condensates and their pathologies: A colloidal, interfacial, and transport perspective",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-09"
+ },
+ "2610.15552": {
+  "abstract": "A covalent polymer network is orders of magnitude weaker than individual covalent bonds. This large gap reveals an unrealized potential. The weakness of a network comes not from individual covalent bonds, but from how they are connected. Here we unlock this potential by identifying a topological criterion, involving optimally sparse crosslinks, long chains, and dense entanglements. Optimizing each topological variable alone is insufficient for high strength, yet exceptional strength emerges when they are combined within a narrow regime. We describe the physics of this synergy, and use the criterion to strengthen networks widely used but known to be weak. For example, we prepare a polyacrylamide hydrogel of 90 wt% water, amplifying strength from a commonly reported value of ~0.1 MPa to ~6.5 MPa. The exceptional strength is achieved without sacrificing other properties, such as softness, toughness, and elasticity. The criterion establishes topology as a general design principle for strong polymer networks.",
+  "authors": [
+   "Zheqi Chen",
+   "Yu Zhou",
+   "Chenghai Li",
+   "Ho Cheung Shum",
+   "Zhigang Suo"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Zheqi Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.15552",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-11",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties"
+  ],
+  "title": "Unlocking the potential of polymer networks for high strength through topology",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-11"
+ },
+ "2610.18022": {
+  "abstract": "This work proposes an exciton-kinetics coupled drift-diffusion (EKDD) model that bridges device-level charge transport with singlet and triplet excited-state kinetics. State populations and reversible photophysical transitions are solved self-consistently, enabling transient and steady-state device response calculations. We investigate how LE-CT, CT-CS, and LE-T energy offsets, together with triplet-transfer kinetics, govern charge generation, recombination, voltage loss, and extraction in organic photovoltaics. We identify CT-CS offset as a primary, largely overlooked factor controlling charge generation and voltage loss. A positive offset makes CT3-CS separation exothermic and improves generation, but lowers CS energy and increases voltage loss; a negative offset makes separation endothermic and highly temperature-sensitive. The model reproduces triplet-mediated recombination in PM6:Y6 and material-dependent triplet recycling in D18:NFA blends. We propose design rules for balanced generation and voltage loss via two charge-transfer channels: the LE-CT-CS pathway favors a moderate LE-CT offset of about 0.15-0.20 eV and a weakly exothermic CT-CS offset of about 0.05-0.075 eV; the T-CT3-CS pathway requires the same CT-CS alignment plus a small CT-T offset, no more than about 0.1 eV, corresponding to a recycling factor K greater than about 10^-2, to maintain fast T-to-CT3 recycling. CT-CS alignment is the main determinant of the charge-generation-voltage-loss trade-off, while triplet-recycling kinetics determines whether this balance survives at the device level. This work provides a unified theoretical description from exciton generation to free charge collection, offering a convenient tool for transient and steady-state analysis in organic photovoltaics.",
+  "authors": [
+   "Jun Du",
+   "Liming Liu",
+   "Jun Yan"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": "23 pages, 12 figures",
+  "first_author": "Jun Du",
+  "pdf_url": "http://arxiv.org/pdf/2610.18022",
+  "primary_category": "physics.app-ph",
+  "published": "2026-10-13",
+  "tags": [
+   "organic-photovoltaics"
+  ],
+  "title": "Device Model Linking Singlet and Triplet Spin-State Properties to Organic Photovoltaic Device Characteristics",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-13"
+ },
+ "2610.20330": {
+  "abstract": "Synthetic active surfaces are usually designed to attain a prescribed static configuration, with dynamic shape changes typically requiring modulation of the actuation. We show that thin active shells can instead sustain dynamic morphing under a steady stimulus by harnessing flutter instability. We focus on polyelectrolyte hydrogel shells immersed in a viscous fluid and subjected to a constant and uniform electric field, and specialize the non-Euclidean framework for thin structures to account for field-induced activity through a spontaneous curvature evolving in time with the system configuration. Examining elliptic plates and cylindrical shells as test cases, we integrate linear stability analyses with nonlinear simulations to first locate the onset of flutter and then unveil the resulting dynamics, characterized by thrust-generating shape changes. In all cases, the emergent behavior stems from the interplay between active reconfiguration and elasticity in the fluid environment. For plates, the problem is purely flexural in the linear regime, while the competition between bending and stretching becomes crucial in selecting the ensuing shapes and swimming trajectories at large deformations. Conversely, for cylindrical shells bending and stretching are coupled at all levels, with the latter becoming essential to sustain flutter. Experiments on millimeter-sized hydrogel plates provide tangible support for our theoretical findings through shape reconstructions performed by combining digital image correlation with optical stereo microscopy. Flutter thus offers a route to untethered soft robotic and microfluidic devices based on active shells and operating under a stimulus carrying neither an intrinsic frequency nor a characteristic length scale.",
+  "authors": [
+   "Roberto Marchello",
+   "Pietro Maria Santucci",
+   "Giovanni Noselli"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "40 pages, 9 figures, 6 supplementary videos",
+  "first_author": "Roberto Marchello",
+  "pdf_url": "http://arxiv.org/pdf/2610.20330",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-14",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Dynamic morphing of non-Euclidean active shells enabled by flutter under a steady stimulus",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-14"
+ },
  "2610.20374": {
   "abstract": "Advances in polymer synthesis and computational modeling are expanding the block-copolymer architecture space accessible for phase-behavior design. Machine learning can accelerate this exploration, yet a common representation capable of learning across diverse chain topologies remains lacking. Here, we present a graph neural network (GNN) representation of acyclic AB multiblock architectures, tested by random-phase approximation (RPA) instability prediction. Each chain is represented as a graph, enabling a common model to learn across diverse topologies. This representation, which organizes RPA-related information, retains predictive capability when extrapolated to architectures with more blocks and demonstrates its potential for reuse across tasks through transfer to instability-wavenumber prediction. By effectively linking block-copolymer chain architecture to field-theoretic response, this graph representation not only reconstructs stability-limit curves but also provides a practical route for future self-consistent field theory exploration of ordered phase space across complex topologies.",
   "authors": [
@@ -533,5 +637,30 @@
    "Representation & Foundation Models"
   ],
   "updated": "2026-10-14"
+ },
+ "2610.23147": {
+  "abstract": "With growing interest in environmental conservation, polymer composites incorporating wood-derived materials have attracted significant attention. While research has focused extensively on hard composites utilizing delignified wood or cellulose nanofibers (CNF) and soft composites reinforced with CNF, there have been a limited number of studies on the development of soft composites that utilize the porous cellular structure of wood, with few exceptions. In this study, we fabricated soft composites by infiltrating delignified wood with polyacrylamide hydrogel and subjected them to uniaxial compression tests. The results demonstrated that these materials exhibited far superior strength and toughness compared to either delignified wood or polyacrylamide hydrogel alone. Through systematic investigation and theoretical analysis, we identified the mechanisms underlying these enhancements in strength and toughness. Specifically, in addition to the sacrificial bond breakage known to enhance toughness in double-network hydrogels, we propose that mechanical confinement, arising from the soft, incompressible hydrogel filling the hollow cell lumens, generates excess stress and acts to resist compressive deformation. This approach, which utilizes the cellular structure as a filler, suggests the potential for creating a new class of high-toughness composite materials.",
+  "authors": [
+   "Kohei Shimogata",
+   "Tetsuo Yamaguchi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Kohei Shimogata",
+  "pdf_url": "http://arxiv.org/pdf/2610.23147",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-16",
+  "tags": [
+   "composites",
+   "hydrogels",
+   "mechanical-properties"
+  ],
+  "title": "Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-16"
  }
 }

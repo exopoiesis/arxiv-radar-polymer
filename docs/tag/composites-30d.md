@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Kohei Shimogata et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23147">2610.23147</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Ankit Patidar et al.</td>
@@ -26,11 +32,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30162.html">From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Sourin Chatterjee et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30162">2609.30162</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.21204.html">Simulation and Network Assembly Pipelines for Dynamically Bonded Soft Materials</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="rheology-30d.html">rheology</a></div></td>
-<td>Tanner A. Wilcoxson et al.</td>
-<td><a href="http://arxiv.org/abs/2609.21204">2609.21204</a></td>
 </tr>
 </tbody></table>

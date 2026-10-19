@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">80 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -494,17 +494,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17490.html">General Two-Parameter Model of Alpha-Relaxation in Glasses</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Valeriy V. Ginzburg et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17490">2507.17490</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.13668.html">Viscosity, breakdown of Stokes-Einstein relation and dynamical heterogeneity in supercooled liquid Ge$_2$Sb$_2$Te$_5$ from simulations with a neural network potential</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Simone Marcorini et al.</td>
-<td><a href="http://arxiv.org/abs/2506.13668">2506.13668</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20465.html">An interpretable molecular descriptor for machine learning predictions in atmospheric science</a></div></td>
-<td>Linus Lind et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20465">2510.20465</a></td>
 </tr>
 </tbody></table>

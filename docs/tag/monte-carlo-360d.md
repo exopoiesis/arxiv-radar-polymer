@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,11 +674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18262.html">Monte Carlo simulations of 2D flat-sheet membrane filters for constant-pressure water purification</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
 <td>Abigail Rose Drumm et al.</td>
 <td><a href="http://arxiv.org/abs/2508.18262">2508.18262</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2506.11433.html">Compressed self-avoiding walks in two and three dimensions</a></div></td>
-<td>C J Bradly et al.</td>
-<td><a href="http://arxiv.org/abs/2506.11433">2506.11433</a></td>
 </tr>
 </tbody></table>

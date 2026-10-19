@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td>Kohei Shimogata et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23147">2610.23147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15552.html">Unlocking the potential of polymer networks for high strength through topology</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
+<td>Zheqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15552">2610.15552</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14398.html">Biomolecular condensates and their pathologies: A colloidal, interfacial, and transport perspective</a></div><div class="paper-tags"><a href="coacervates-90d.html">coacervates</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Vineeth Godavarti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14398">2610.14398</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00892.html">Polymer viscoelasticity from an orientational closure with implicit stretch</a></div></td>
 <td>Souta Miyamoto et al.</td>
@@ -530,23 +548,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.19060.html">Deep learning-based prediction of time-resolved adhesive forces in viscoelastic Hertzian contacts</a></div></td>
 <td>Ali Maghami et al.</td>
 <td><a href="http://arxiv.org/abs/2607.19060">2607.19060</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.17549.html">Universal Jamming Criticality and Self-Organizing Principles from Disorder to the Limit of Perfect Crystalline Order</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
-<td>Jianhua Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2607.17549">2607.17549</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18463.html">Viscoelastic and thermal response on nuclear pasta states at finite baryon density</a></div></td>
-<td>Nicolás Grandi et al.</td>
-<td><a href="http://arxiv.org/abs/2607.18463">2607.18463</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.18547.html">The Stefan problem for complete melting of finitely strained solids into viscoelastic fluids</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Tomáš Roubíček</td>
-<td><a href="http://arxiv.org/abs/2607.18547">2607.18547</a></td>
 </tr>
 </tbody></table>

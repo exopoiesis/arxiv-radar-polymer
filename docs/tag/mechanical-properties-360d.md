@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">464 papers</span>
+  <span class="paper-count">465 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Kohei Shimogata et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23147">2610.23147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15552.html">Unlocking the potential of polymer networks for high strength through topology</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Zheqi Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15552">2610.15552</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14398.html">Biomolecular condensates and their pathologies: A colloidal, interfacial, and transport perspective</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Vineeth Godavarti et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14398">2610.14398</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.00892.html">Polymer viscoelasticity from an orientational closure with implicit stretch</a></div></td>
@@ -2786,17 +2804,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23268.html">Memory-controlled random bit generator</a></div></td>
 <td>Mateusz Wiśniewski et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23268">2510.23268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20391.html">Contrast-enhanced X-ray imaging of articular cartilage: reliability of a cationic contrast agent in combination with high-resolution peripheral quantitative computed tomography system</a></div></td>
-<td>S. Fantoni et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20391">2510.20391</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20599.html">Dynamic crack growth in viscoelastic materials with memory</a></div></td>
-<td>Federico Cianci</td>
-<td><a href="http://arxiv.org/abs/2510.20599">2510.20599</a></td>
 </tr>
 </tbody></table>
