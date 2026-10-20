@@ -23,10 +23,6 @@
   count: 4
   total: 211
   group: informatics
-- name: rheology
-  count: 4
-  total: 202
-  group: processing
 - name: additive-manufacturing
   count: 3
   total: 361
@@ -47,6 +43,10 @@
   count: 3
   total: 20
   group: applications
+- name: rheology
+  count: 3
+  total: 202
+  group: processing
 - name: crystallinity
   count: 2
   total: 29
@@ -75,10 +75,6 @@
   count: 2
   total: 35
   group: applications
-- name: soft-matter
-  count: 2
-  total: 87
-  group: simulation
 - name: bigsmiles
   count: 1
   total: 1
@@ -119,6 +115,10 @@
   count: 1
   total: 13
   group: informatics
+- name: soft-matter
+  count: 1
+  total: 87
+  group: simulation
 - name: spectroscopy
   count: 1
   total: 117

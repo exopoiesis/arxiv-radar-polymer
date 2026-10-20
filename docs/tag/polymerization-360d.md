@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymerization — 360d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">28 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <strong>360d</strong> <a href="polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -182,11 +182,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04704.html">AI-assisted design of chemically recyclable polymers for food packaging</a></div><div class="paper-tags"><a href="polymer-informatics-360d.html">polymer-informatics</a> · <a href="ring-opening-polymerization-360d.html">ring-opening-polymerization</a> · <a href="sustainable-polymers-360d.html">sustainable-polymers</a></div></td>
 <td>Brandon K. Phan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04704">2511.04704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.08232.html">Experimental demonstration of kinetic proofreading inherited in ligation-based information replication</a></div></td>
-<td>Hiroyuki Aoyanagi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.08232">2505.08232</a></td>
 </tr>
 </tbody></table>

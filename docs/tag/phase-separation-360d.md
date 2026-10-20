@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">285 papers</span>
+  <span class="paper-count">283 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1712,17 +1712,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23017.html">Mastering energy landscapes via liquid liquid phase separation to program active supramolecular coassembly from the nano to macro scale</a></div></td>
 <td>Yuanhao Wu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.23017">2510.23017</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.02766.html">Computational Modelling of Thixotropic Multiphase Fluids</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Andres Santiago Espinosa-Moreno et al.</td>
-<td><a href="http://arxiv.org/abs/2507.02766">2507.02766</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07630.html">Spinning mixtures: nonreciprocity transfers chirality across scales in scalar densities</a></div></td>
-<td>Giulia Pisegna et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07630">2509.07630</a></td>
 </tr>
 </tbody></table>
