@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">19 papers</span>
+  <span class="paper-count">26 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,52 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28709.html">STAR-XPC: Set Transformer for Estimating X-ray Transmission in Polymer Composites</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Can Erer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28709">2610.28709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13584.html">Altermagnetic Control of Charge-4e Superconductivity</a></div></td>
+<td>Yan-Guang Yue et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13584">2610.13584</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Kohei Shimogata et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23147">2610.23147</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18320.html">Charge-selective topological locking and ultraslow coarsening in magnetoelastic media</a></div></td>
+<td>Tirthankar Banerjee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18320">2610.18320</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17245.html">Willis-type thermal homogenization for particulate composites under harmonic heat transfer</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
+<td>Chunlin Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.17245">2610.17245</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13151.html">Stability of composite waves consisting of a non-classical Liu shock and a rarefaction wave for a non-convex viscoelastic system</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Feimin Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13151">2610.13151</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10011.html">Topological and kinetic origins of fractional thermal conductance at the topological insulator--superconductor interface</a></div></td>
+<td>Laurence A. Jacobs et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10011">2610.10011</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10874.html">Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Jairo Rondon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10874">2610.10874</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-01</td>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">361 papers</span>
+  <span class="paper-count">370 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,60 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Reza T Batley et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25565">2610.25565</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22741.html">SAMS: A Structured Graph Framework for Securing Additive Manufacturing Systems</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a></div></td>
+<td>Sarah Roscoe et al.</td>
+<td><a href="http://arxiv.org/abs/2610.22741">2610.22741</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18730.html">Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains</a></div><div class="paper-tags"><a href="extrusion-all.html">extrusion</a></div></td>
+<td>Muhammad Umar Farooq et al.</td>
+<td><a href="http://arxiv.org/abs/2610.18730">2610.18730</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15301.html">Design for Machinability: Topology Optimization for Subtractive Machining Using Trimmed Neural Fields</a></div></td>
+<td>Hongrui Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15301">2610.15301</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13533.html">Re-emergence of fingering in solidifying liquid-metal drops</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Siyu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13533">2610.13533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10874.html">Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Jairo Rondon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10874">2610.10874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08607.html">An FE2 model for shear-deformable beams considering periodic lattice-like truss mesostructures</a></div></td>
+<td>Julian Ochs et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08607">2610.08607</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09126.html">Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Hyeonsu Lee et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09126">2610.09126</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06973.html">Event Cameras for Melt-Pool Monitoring in Additive Manufacturing: A Benchmark and a Cross-Machine Transfer Analysis</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Mohamad Yazan Sadoun et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06973">2610.06973</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01856.html">ChunkVLA-AM: Parallel Action Chunking for Vision-Language-Action Robot Control in Additive Manufacturing</a></div></td>

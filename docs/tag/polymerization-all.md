@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymerization — all</h1>
-  <span class="paper-count">53 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="polymerization-7d.html">7d</a> <a href="polymerization-30d.html">30d</a> <a href="polymerization-90d.html">90d</a> <a href="polymerization-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15238.html">Localized Joule heating and carbonization process optimization of 3D printed polymer structures for lab-on-CMOS applications</a></div><div class="paper-tags"><a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Mohammad Aminul Haque et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15238">2610.15238</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="mlff-all.html">mlff</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="ring-opening-polymerization-all.html">ring-opening-polymerization</a></div></td>
+<td>Yizhi Song et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03484.html">Design, Fabrication, and Free-Space Characterization of a Two-Photon-Polymerized Nano-printed Photonic Lantern</a></div></td>
+<td>Kyra Watts et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03484">2610.03484</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21741.html">First-Principles Atomistic Structure and Dynamics of Polyethylene During High-Pressure Radical Polymerization via Machine Learning Force Fields</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="radical-polymerization-all.html">radical-polymerization</a></div></td>

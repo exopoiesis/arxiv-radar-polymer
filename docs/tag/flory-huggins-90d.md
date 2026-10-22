@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>flory-huggins — 90d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">5 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <strong>90d</strong> <a href="flory-huggins-360d.html">360d</a> <a href="flory-huggins-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21917.html">Phase coexistence and nucleation of aging condensates</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Yicheng Qiang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.21917">2610.21917</a></td>
+</tr>
 <tr class="paper">
 <td>2026-08-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21264.html">LCST and Closed-Loop Phase Behavior in Non-Associating Fully Symmetric Multicomponent Polymer Systems</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>

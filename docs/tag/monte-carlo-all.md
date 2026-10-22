@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">203 papers</span>
+  <span class="paper-count">210 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,48 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28709.html">STAR-XPC: Set Transformer for Estimating X-ray Transmission in Polymer Composites</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
+<td>Can Erer et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28709">2610.28709</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23433.html">Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="generative-model-all.html">generative-model</a> · <a href="membranes-all.html">membranes</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
+<td>Xuanyu Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23433">2610.23433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20971.html">Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
+<td>Jan Pyrzowski et al.</td>
+<td><a href="http://arxiv.org/abs/2610.20971">2610.20971</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14433.html">Fluctuation-based evaluation of thermal conductivity using deviational phonon Monte Carlo simulations</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
+<td>Takuma Hori et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14433">2610.14433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08958.html">Phase diagram of a semiflexible magnetic polymer in three dimensions</a></div></td>
+<td>Linda Delimi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.08958">2610.08958</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06498.html">Self-assembly Monte Carlo reveals localized entanglement in giant polymer melts</a></div></td>
+<td>Enrico Fornasa et al.</td>
+<td><a href="http://arxiv.org/abs/2610.06498">2610.06498</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03893.html">Efficient Quantum Monte Carlo through Cluster Expansions</a></div></td>
+<td>Jorge Sánchez-Segovia et al.</td>
+<td><a href="http://arxiv.org/abs/2610.03893">2610.03893</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30162.html">From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>ring-opening-polymerization — 360d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><a href="ring-opening-polymerization-7d.html">7d</a> <a href="ring-opening-polymerization-30d.html">30d</a> <a href="ring-opening-polymerization-90d.html">90d</a> <strong>360d</strong> <a href="ring-opening-polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="polymerization-360d.html">polymerization</a></div></td>
+<td>Yizhi Song et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
+</tr>
 <tr class="paper">
 <td>2025-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04704.html">AI-assisted design of chemically recyclable polymers for food packaging</a></div><div class="paper-tags"><a href="polymer-informatics-360d.html">polymer-informatics</a> · <a href="polymerization-360d.html">polymerization</a> · <a href="sustainable-polymers-360d.html">sustainable-polymers</a></div></td>

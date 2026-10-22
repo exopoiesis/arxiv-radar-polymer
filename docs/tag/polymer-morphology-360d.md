@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">202 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,78 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
+<td>K. Starkey et al.</td>
+<td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25243.html">Enhancement of liquid-liquid phase transition under shear flow</a></div></td>
+<td>Kyohei Takae</td>
+<td><a href="http://arxiv.org/abs/2610.25243">2610.25243</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25442.html">Probing Flow-Induced Chain Scission in Shear-Banding Wormlike Micelles</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Alfredo Scigliani et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25442">2610.25442</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Reza T Batley et al.</td>
+<td><a href="http://arxiv.org/abs/2610.25565">2610.25565</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23285.html">When Cooling Meets Flow: Advection-Driven Orientation Selection in Phase Separation around a Moving Cooling Source</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Lakshmipriya K et al.</td>
+<td><a href="http://arxiv.org/abs/2610.23285">2610.23285</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14433.html">Fluctuation-based evaluation of thermal conductivity using deviational phonon Monte Carlo simulations</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
+<td>Takuma Hori et al.</td>
+<td><a href="http://arxiv.org/abs/2610.14433">2610.14433</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Danilo de Araújo Moura et al.</td>
+<td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13418.html">VN-GraphGG: von Neumann--Mullins--based graph grain growth simulation</a></div><div class="paper-tags"><a href="gnn-360d.html">gnn</a></div></td>
+<td>Yuntong Huang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13418">2610.13418</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13533.html">Re-emergence of fingering in solidifying liquid-metal drops</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Siyu Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.13533">2610.13533</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="mlff-360d.html">mlff</a> · <a href="polymerization-360d.html">polymerization</a> · <a href="ring-opening-polymerization-360d.html">ring-opening-polymerization</a></div></td>
+<td>Yizhi Song et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10874.html">Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="composites-360d.html">composites</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td>Jairo Rondon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.10874">2610.10874</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04373.html">Activated coarsening of motility-induced phase separation in random environments</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Parameshwaran A et al.</td>
+<td><a href="http://arxiv.org/abs/2610.04373">2610.04373</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01432.html">Learning ab initio phase-field models</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

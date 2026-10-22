@@ -7,9 +7,18 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>ring-opening-polymerization — 90d</h1>
-  <span class="paper-count">0 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><a href="ring-opening-polymerization-7d.html">7d</a> <a href="ring-opening-polymerization-30d.html">30d</a> <strong>90d</strong> <a href="ring-opening-polymerization-360d.html">360d</a> <a href="ring-opening-polymerization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
 
-_No papers in this window._
+<table class="papers">
+<thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
+<tbody>
+<tr class="paper">
+<td>2026-10-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09388.html">Bottom-Up Prediction of Amorphous Poly(1,3-dioxolane) using Ab Initio Reactive Machine-Learning Force Fields</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="mlff-90d.html">mlff</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="polymerization-90d.html">polymerization</a></div></td>
+<td>Yizhi Song et al.</td>
+<td><a href="http://arxiv.org/abs/2610.09388">2610.09388</a></td>
+</tr>
+</tbody></table>
