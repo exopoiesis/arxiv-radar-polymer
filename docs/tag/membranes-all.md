@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>membranes — all</h1>
-  <span class="paper-count">93 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
+<td>Heather Jin Hee Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23433.html">Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration</a></div><div class="paper-tags"><a href="band-gap-all.html">band-gap</a> · <a href="generative-model-all.html">generative-model</a> · <a href="monte-carlo-all.html">monte-carlo</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>

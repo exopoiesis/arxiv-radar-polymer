@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Heather Jin Hee Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23433.html">Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Xuanyu Zhou et al.</td>
@@ -320,11 +326,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25881.html">Solutions to Second-Order Nonlocal Evolution Equations Governed by Non-Autonomous Forms</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Sajid Ullah et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25881">2510.25881</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18262.html">Monte Carlo simulations of 2D flat-sheet membrane filters for constant-pressure water purification</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Abigail Rose Drumm et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18262">2508.18262</a></td>
 </tr>
 </tbody></table>

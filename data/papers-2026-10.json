@@ -3645,5 +3645,224 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-10-21"
+ },
+ "2610.30287": {
+  "abstract": "Non-destructive early detection of water stress is critical for precision agriculture, yet current detection methods are often labor-intensive or destructive. We propose a rapid, non-invasive method based on Spectral Submanifold (SSM) reduction to analyze the nonlinear vibration dynamics of soybean plants. Unlike traditional linear modal analysis, our data-driven approach reveals a distinct transition in the dominant dynamics of the plant stem as drought progresses. Specifically, we uncover a sign reversal in the nonlinear damping coefficient within SSM-reduced models of full plants. Our finding reveals a fundamental transition in the plant's dissipative mechanics from a pressurized, fluid-rich vessel exhibiting superlinear (viscoelastic) damping to a dry, cellular solid dominated by sublinear (frictional) damping. This transition is closely correlated with the onset of physiological stress indicated by a significant decrease in the values of mature-leaf soil plant analysis development (SPAD) and colorimetric metrics. In contrast, traditional metrics, such as linear frequency and leaf wilting, do not provide consistent statistical signals of water stress. This study provides the first experimental evidence that SSM-based nonlinear model reduction can detect the changing internal state of a living organism, offering a physics-based metric for high-throughput plant phenotyping.",
+  "authors": [
+   "Sunghwan Jung",
+   "Isabella Thiel",
+   "Jisoo Yuk",
+   "George Haller"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "q-bio.QM"
+  ],
+  "comment": "Includes supplementary information and one supplementary video. This manuscript has been submitted",
+  "first_author": "Sunghwan Jung",
+  "pdf_url": "http://arxiv.org/pdf/2610.30287",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-21",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Non-Destructive Detection of Early Drought Stress via Spectral Submanifold Analysis",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30404": {
+  "abstract": "Metal additive manufacturing (AM) offers substantial advantages to the fabrication of complex structural components, but its widespread adoption is slowed due to complexities in the process-structure-property relations which is the cause for uncertainty and drives risk. Accurately quantifying these complex relations solely via experimental workflows is time consuming and costly. Integrated computational materials and engineering (ICME) frameworks address this challenge by leveraging advanced computational tools, such as crystal plasticity finite element models (CPFEM), to predict critical mechanical properties directly from microstructural data. However, these frameworks require a large datasets that are often difficult to obtain, and their predictive accuracy depends on the availability of realistic AM microstructure representations. Generative deep learning models are a promising approach towards synthesizing AM microstructures which contain complex morphological and crystallographic features. Denoising diffusion probabilistic models (DDPMs), in particular, show a strong potential to capture the inherent complexities of AM structures. In this work, we demonstrate that DDPMs can reliably synthesize digital-twin orientation-imaging micrographs, and we support this claim with quantitative evidence of the fidelity of the generated samples. Additionally, we establish a classifier-free guidance framework for solving complex inverse problems such as property-to-structure and process-to-structure mappings, and we showcase a potential application on a qualification-relevant uncertainty quantification problem. Our work highlights the potential of AI-based generative modeling as a key component of computational frameworks for accelerating AM materials qualification and certification.",
+  "authors": [
+   "Pablo Luna Falcon",
+   "Jason Mayeur",
+   "Amirkoushyar Ziabari",
+   "Vincent Paquit",
+   "Patxi Fernandez-Zelaia"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Pablo Luna Falcon",
+  "pdf_url": "http://arxiv.org/pdf/2610.30404",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-21",
+  "tags": [
+   "additive-manufacturing",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30411": {
+  "abstract": "Recent work in additive manufacturing and neural inverse design enables the creation of complex three-dimensional structures to manipulate physical fields, yet these designs must also adhere to discrete, non-differentiable fabrication constraints. Current methods limit the design space by imposing differentiable soft manufacturability loss penalties, or by fixing structures through post-processing, causing a discrepancy between the geometry optimized by the physics model and the final fabricated result. Thus, we present AcoustiPrint, a physics-informed neural architecture for constrained inverse design that represents three-dimensional geometries with an implicit neural representation (INR) and passes each candidate through a printability operator before evaluating its final response. The printability operator executes layer-wise self-support, discrete material selection, and whole-body connectivity, assuring fabrication feasibility. To allow for backpropagation through the discrete non-differentiable operations, we use surrogate gradients for the backward pass and a self-supervised printability objective that progressively drives the INR toward a valid design domain. We demonstrate AcoustiPrint for personalized transcranial focused ultrasound, where inter-patient differences in acoustic properties and head geometry deform wave propagation and requires patient-specific acoustic focusing. AcoustiPrint jointly optimizes three-dimensional geometry and material composition through differentiable wave physics while ensuring manufacturability. Experiments show manufacturable acoustic structures with enhanced focal accuracy and over density-based and phase-based baselines, demonstrating a generalized methodology for neural design through non-differentiable manufacturing constraints and differentiable physics.",
+  "authors": [
+   "Shanmuka Sadhu",
+   "Harshvardhan C. Takawale",
+   "Yehia Zakaria",
+   "Ahmed Allam",
+   "Nirupam Roy"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.AI"
+  ],
+  "comment": null,
+  "first_author": "Shanmuka Sadhu",
+  "pdf_url": "http://arxiv.org/pdf/2610.30411",
+  "primary_category": "cs.LG",
+  "published": "2026-10-21",
+  "tags": [
+   "additive-manufacturing",
+   "inverse-design"
+  ],
+  "title": "AcoustiPrint: Physics-Guided Neural Design of Manufacturable Acoustic Structures",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-10-21"
+ },
+ "2610.30624": {
+  "abstract": "Statistical modeling of heavy-tailed data with bounded or finite body behaviour often relies on composite or spliced distributions characterized by structural thresholds. Because the probability density function features a sharp directional shift (a cusp) at the join point, the classical log-likelihood function exhibits a discontinuity in its first derivative, causing standard Cramér-Rao regularity conditions and maximum likelihood frameworks to break down. To overcome this non-regularity, we develop a robust, log-transformed asymmetric Huber M-estimation framework for the structural threshold, coupled with conditional shape maximum likelihood estimators. We derive a closed-form parameter-balancing condition that analytically guarantees Fisher consistency under structural tail asymmetry. Furthermore, we establish the joint asymptotic normality of the hybrid Maximum Likelihood and M-estimator system and derive its explicit sandwich covariance structure. A computationally efficient profiled Z-estimation algorithm is implemented to reduce the joint estimation to a one-dimensional root-finding problem. Finite-sample properties are validated through Monte Carlo simulations, and the practical utility of the framework is demonstrated on the benchmark Danish Fire Insurance claims dataset.",
+  "authors": [
+   "N Balakrishna"
+  ],
+  "categories": [
+   "stat.ME"
+  ],
+  "comment": "16 pages including two figures",
+  "first_author": "N Balakrishna",
+  "pdf_url": "http://arxiv.org/pdf/2610.30624",
+  "primary_category": "stat.ME",
+  "published": "2026-10-22",
+  "tags": [
+   "benchmarking",
+   "composites",
+   "monte-carlo"
+  ],
+  "title": "Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.30749": {
+  "abstract": "Chemical reactions can sustain polymer motion without necessarily generating the compression required for buckling. Theory and simulations show that tension-dependent chemical transitions coupled to bond elasticity generate finite-wavelength traveling strain waves in a semiflexible polymer. In the straight chain at fixed axial span, the waves reduce mean active contraction while leaving mean elastic tension unchanged, generating compression that drives bending above a threshold. Releasing the mean load allows longitudinal waves to persist while transverse perturbations decay.",
+  "authors": [
+   "Wen-de Tian",
+   "Kang Chen",
+   "Tianhui Zhang"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "nlin.AO",
+   "physics.bio-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Wen-de Tian",
+  "pdf_url": "http://arxiv.org/pdf/2610.30749",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-22",
+  "tags": [],
+  "title": "Strain Waves Generate Compression and Trigger Buckling in Active Polymers",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.30958": {
+  "abstract": "Active phase separation in living systems is ubiquitous, yet the microscopic origins of the non-equilibrium terms in active field theories remain largely unknown. Here, starting from stochastic mass-conserving reaction-diffusion dynamics of two interacting chemical species, we perform a systematic slow-mode reduction and derive the complete Active Model B+ field theory, with all phenomenological coefficients expressed in terms of microscopic parameters. We identify concentration-dependent diffusivities and asymmetric inter-species chemotactic couplings as the minimal microscopic ingredients generating the genuinely non-equilibrium coefficient responsible for microphase separation, cluster phases, and arrested coarsening. Our framework recovers the equilibrium limit consistently and is validated by stochastic numerical simulations. These results establish a direct, bottom-up link between the architecture of chemical reaction networks and the universality class of their emergent large-scale dynamics.",
+  "authors": [
+   "Giulia Pisegna",
+   "Ramin Golestanian"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "6 pages, 2 figures",
+  "first_author": "Giulia Pisegna",
+  "pdf_url": "http://arxiv.org/pdf/2610.30958",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-10-22",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Active phase separation from concentration-dependent diffusion in chemical networks",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31157": {
+  "abstract": "Biomedical devices, wearable interfaces, and soft robots require compliant soft materials with reliable mechanical performance, yet the molecular principles needed to design such materials are not always fully understood. Thus, there is an urgent need to understand how to design novel stretchable and soft hydrogels with enhanced toughness, i.e. resistance to breakage. Slide-ring gels (SRGs) are a class of unconventional soft materials formed by polyrotaxanes (PR) building blocks whereby sliding cyclodextrins (CD) replace traditional chemical and physical crosslinks and in turn enhance toughness and stretchability by several orders of magnitude. The rational design of SRGs re- mains challenging due to a lack of a mechanistic understanding of the role played by individual components. In this work, we implement simple synthetic perturbations that individually target polymer-CD and CD-CD interactions in unstoppered pseudopolyrotaxanes (pPR) solutions and measure the consequent changes in viscoelastic properties. Weakening the intermolecular interaction between CDs abolishes crystallisation and significantly weakens the gel. At the same time, thermodynamically favouring threading by using azobenzene-modified PEG chains favours the formation of stable and long-lived networks even at remarkably low CD stoichiometries. We rationalise these observations with coarse-grained Molecular Dynamics simulations which clarify the structure-function relationship of the components forming these materials. Our work contributes to guiding the rational design and development of enhanced SRG hydrogels and elastomers.",
+  "authors": [
+   "Ella Sapsford",
+   "Andrea Bonato",
+   "Simon Weir",
+   "Nawar Zebari",
+   "Paul J. Lusby",
+   "Chenfeng Ke",
+   "Davide Michieletto"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Ella Sapsford",
+  "pdf_url": "http://arxiv.org/pdf/2610.31157",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-22",
+  "tags": [
+   "coarse-grained",
+   "hydrogels",
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "Functional understanding of structural components in polypseudorotaxane gels",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-22"
+ },
+ "2610.31567": {
+  "abstract": "Objective: Iontophoretic drug delivery has primarily relied on current modulation to regulate drug transport. Here, we investigate hydrogel geometry, microstructure, and local electric fields as alternative mechanisms for controlling transdermal delivery. Methods: Bovine serum albumin (BSA) was encapsulated in polypyrrole-polyvinyl alcohol (PPy-PVA) hydrogels. Five geometries, including Hilbert curve-based designs, were fabricated to vary pore architecture and local electric field distributions. We optimized PPy content, drug loading, and current density. Electric fields were evaluated using finite element analysis, and microstructures were characterized by scanning electron microscopy. Drug transport was assessed using Franz diffusion cells with artificial membranes. Results: Hydrogel geometries exhibited distinct microstructures and electric field distributions. Iontophoresis substantially enhanced permeability compared with passive diffusion, while individual geometries produced different cumulative release, flux, and permeability profiles. The average iontophoretic permeability was (3.80 +/- 1.93) x 10^-5, exceeding previously reported values using artificial membranes. Conclusion: Geometry-driven fabrication of drug-loaded hydrogels enables tunable transport characteristics under both iontophoretic and passive conditions. Significance: Geometry-mediated control offers an alternative approach to regulating iontophoretic drug delivery without requiring individual current-density modulation.",
+  "authors": [
+   "Heather Jin Hee Kim",
+   "Mohsen Alishahi",
+   "Kyuin Park",
+   "Mikaila K. Roncevich",
+   "Larissa M. Shepherd",
+   "Cara M. Nunez"
+  ],
+  "categories": [
+   "cs.RO",
+   "physics.med-ph"
+  ],
+  "comment": null,
+  "first_author": "Heather Jin Hee Kim",
+  "pdf_url": "http://arxiv.org/pdf/2610.31567",
+  "primary_category": "cs.RO",
+  "published": "2026-10-22",
+  "tags": [
+   "hydrogels",
+   "membranes",
+   "polymer-morphology"
+  ],
+  "title": "Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-22"
  }
 }

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>hydrogels — 7d</h1>
-  <span class="paper-count">1 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 7d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Ella Sapsford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="membranes-7d.html">membranes</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
+<td>Heather Jin Hee Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>

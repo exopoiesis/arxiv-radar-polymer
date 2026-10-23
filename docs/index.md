@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-22._
+_Updated 2026-10-23._
 
-**3803** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3811** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>N Balakrishna</td>
+<td><a href="http://arxiv.org/abs/2610.30624">2610.30624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30749.html">Strain Waves Generate Compression and Trigger Buckling in Active Polymers</a></div></td>
+<td>Wen-de Tian et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30749">2610.30749</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Giulia Pisegna et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30958">2610.30958</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ella Sapsford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/membranes-30d.html">membranes</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Heather Jin Hee Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.29653.html">Construction of highly coarse-grained molecular models for aqueous electrolytes</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/dielectric-properties-30d.html">dielectric-properties</a></div></td>
@@ -25,6 +55,24 @@ _Updated 2026-10-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Ritesh Bhola et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30077">2610.30077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30287.html">Non-Destructive Detection of Early Drought Stress via Spectral Submanifold Analysis</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Sunghwan Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30287">2610.30287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30411.html">AcoustiPrint: Physics-Guided Neural Design of Manufacturable Acoustic Structures</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
+<td>Shanmuka Sadhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30411">2610.30411</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -145,53 +193,5 @@ _Updated 2026-10-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25243.html">Enhancement of liquid-liquid phase transition under shear flow</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Kyohei Takae</td>
 <td><a href="http://arxiv.org/abs/2610.25243">2610.25243</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25442.html">Probing Flow-Induced Chain Scission in Shear-Banding Wormlike Micelles</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Alfredo Scigliani et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25442">2610.25442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Reza T Batley et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25565">2610.25565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26939.html">Phase-dependent THz yield in two-color laser plasmas: nonlinear propagation and Coulomb-modified recollision</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Yange Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26939">2610.26939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.24340.html">Maximum-Temperature Theorem for a Nanothermometer</a></div><div class="paper-tags"><a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
-<td>Taras Plakhotnik</td>
-<td><a href="http://arxiv.org/abs/2610.24340">2610.24340</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.24361.html">Microphase Separation and Ionic Aggregation in Oppositely Charged End-Functionalized Polymer Blends</a></div></td>
-<td>Chao Duan et al.</td>
-<td><a href="http://arxiv.org/abs/2610.24361">2610.24361</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.19602.html">Seismology of Glasses</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Zhiyu Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19602">2610.19602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Kohei Shimogata et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23147">2610.23147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.23163.html">Stability and Error Estimates for Convolution Quadrature under Radial Symbol Bounds</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Jingchuang Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23163">2610.23163</a></td>
 </tr>
 </tbody></table>

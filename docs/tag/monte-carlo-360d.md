@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="composites-360d.html">composites</a></div></td>
+<td>N Balakrishna</td>
+<td><a href="http://arxiv.org/abs/2610.30624">2610.30624</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28709.html">STAR-XPC: Set Transformer for Estimating X-ray Transmission in Polymer Composites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Can Erer et al.</td>
@@ -710,11 +716,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26949.html">Protein-protein interaction networks can be highly sensitive to the membrane phase transition</a></div></td>
 <td>Taylor Schaffner et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26949">2510.26949</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.18262.html">Monte Carlo simulations of 2D flat-sheet membrane filters for constant-pressure water purification</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a></div></td>
-<td>Abigail Rose Drumm et al.</td>
-<td><a href="http://arxiv.org/abs/2508.18262">2508.18262</a></td>
 </tr>
 </tbody></table>

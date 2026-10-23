@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,28 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="hydrogels-30d.html">hydrogels</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ella Sapsford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Ritesh Bhola et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30077">2610.30077</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30287.html">Non-Destructive Detection of Early Drought Stress via Spectral Submanifold Analysis</a></div></td>
+<td>Sunghwan Jung et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30287">2610.30287</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>
@@ -272,29 +290,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Lauren Bogo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28734">2609.28734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.25663.html">Structural identifiability and stress reconstruction from incomplete optical maps with velocimetry</a></div></td>
-<td>Zijian Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.25663">2609.25663</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26431.html">Linear and nonlinear active microrheology of viscous, viscoelastic, and elastic media: A fluid particle dynamics approach</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Muhammed Muhsin Abdul Azeez et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26431">2609.26431</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26734.html">Entropy-Driven Initiation and Cytoskeletal Viscoelasticity in Endocytosis: An Onsager Variational Framework</a></div></td>
-<td>Jinjie Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26734">2609.26734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
-<td>Sushma SP et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
 </tr>
 </tbody></table>

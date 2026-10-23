@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
+<td>Giulia Pisegna et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30958">2610.30958</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Ritesh Bhola et al.</td>
@@ -140,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18882.html">Phase separating microdomains in highly coarse-grained lipids</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>S. Siva Nasarayya Chari</td>
 <td><a href="http://arxiv.org/abs/2610.18882">2610.18882</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26983.html">Control of filament network rigidity by the condensation of crowding molecules</a></div></td>
-<td>Jiyong Cheon et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26983">2609.26983</a></td>
 </tr>
 </tbody></table>

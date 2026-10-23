@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="composites-90d.html">composites</a></div></td>
+<td>N Balakrishna</td>
+<td><a href="http://arxiv.org/abs/2610.30624">2610.30624</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28709.html">STAR-XPC: Set Transformer for Estimating X-ray Transmission in Polymer Composites</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>Can Erer et al.</td>
@@ -164,11 +170,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23135.html">Multi-User Diversity Scaling in Heavy-Tailed Fading</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>Yonathan Murin et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23135">2607.23135</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.22439.html">Highly indistinguishable photons from a tin-vacancy spin qubit in diamond</a></div></td>
-<td>Dennis Herrmann et al.</td>
-<td><a href="http://arxiv.org/abs/2607.22439">2607.22439</a></td>
 </tr>
 </tbody></table>

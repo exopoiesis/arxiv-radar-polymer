@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">302 papers</span>
+  <span class="paper-count">301 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
+<td>Giulia Pisegna et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30958">2610.30958</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
@@ -1814,17 +1820,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25493.html">Associative and Segregative Liquid-Liquid Phase Separation in Macromolecular Solutions</a></div></td>
 <td>Remco Tuinier et al.</td>
 <td><a href="http://arxiv.org/abs/2510.25493">2510.25493</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.20964.html">Active Hydrodynamic Theory of Euchromatin and Heterochromatin</a></div></td>
-<td>S. Alex Rautu et al.</td>
-<td><a href="http://arxiv.org/abs/2503.20964">2503.20964</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.23017.html">Mastering energy landscapes via liquid liquid phase separation to program active supramolecular coassembly from the nano to macro scale</a></div></td>
-<td>Yuanhao Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2510.23017">2510.23017</a></td>
 </tr>
 </tbody></table>

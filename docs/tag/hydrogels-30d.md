@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ella Sapsford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="membranes-30d.html">membranes</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Heather Jin Hee Kim et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Kohei Shimogata et al.</td>
@@ -44,17 +56,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29904.html">Extracting hydrogel properties by watching hydrogel particles moving through solid ice</a></div></td>
 <td>Yanxia Feng et al.</td>
 <td><a href="http://arxiv.org/abs/2609.29904">2609.29904</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26681.html">Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Victoria Byelova et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26681">2609.26681</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26943.html">Viscous Dissipation Governs Bubble Morphology and Failure in Soft Matter</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="soft-matter-30d.html">soft-matter</a></div></td>
-<td>Sushma SP et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26943">2609.26943</a></td>
 </tr>
 </tbody></table>

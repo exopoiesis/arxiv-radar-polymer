@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Pablo Luna Falcon et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30411.html">AcoustiPrint: Physics-Guided Neural Design of Manufacturable Acoustic Structures</a></div><div class="paper-tags"><a href="inverse-design-30d.html">inverse-design</a></div></td>
+<td>Shanmuka Sadhu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30411">2610.30411</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
@@ -80,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28734.html">Iterative Learning Control of the Cooling Rate in a Dual-Laser Powder Bed Fusion Process</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Lauren Bogo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.28734">2609.28734</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26547.html">Topology-Stratified Materials Discovery with A Flow-Based Generative Model</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a></div></td>
-<td>Jingyi Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26547">2609.26547</a></td>
 </tr>
 </tbody></table>

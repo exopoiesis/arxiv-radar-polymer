@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
+<td>Giulia Pisegna et al.</td>
+<td><a href="http://arxiv.org/abs/2610.30958">2610.30958</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Ritesh Bhola et al.</td>
@@ -56,11 +62,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23285.html">When Cooling Meets Flow: Advection-Driven Orientation Selection in Phase Separation around a Moving Cooling Source</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
 <td>Lakshmipriya K et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23285">2610.23285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21917.html">Phase coexistence and nucleation of aging condensates</a></div><div class="paper-tags"><a href="flory-huggins-7d.html">flory-huggins</a></div></td>
-<td>Yicheng Qiang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21917">2610.21917</a></td>
 </tr>
 </tbody></table>

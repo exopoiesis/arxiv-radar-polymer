@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-22</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Ella Sapsford et al.</td>
+<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29653.html">Construction of highly coarse-grained molecular models for aqueous electrolytes</a></div><div class="paper-tags"><a href="dielectric-properties-30d.html">dielectric-properties</a></div></td>
 <td>Michael A. Seaton et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30970.html">Large-deviations theory for growing chemical reaction networks</a></div></td>
 <td>Praful Gagrani et al.</td>
 <td><a href="http://arxiv.org/abs/2609.30970">2609.30970</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.26681.html">Mesoscale heterogeneity in protein hydrogels induced by dynamic unfolding and post-gelation rearrangements</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
-<td>Victoria Byelova et al.</td>
-<td><a href="http://arxiv.org/abs/2609.26681">2609.26681</a></td>
 </tr>
 </tbody></table>
