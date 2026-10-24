@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">82 papers</span>
+  <span class="paper-count">81 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -500,11 +500,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04695.html">AI-Driven Design of poly(ethylene terephthalate)-replacement copolymers</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
 <td>Chiho Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04695">2511.04695</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24867.html">Spin Glass Dynamics on Complex Hardware Topologies: A Bond-Correlated Percolation Approach</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Viviana Gómez et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24867">2510.24867</a></td>
 </tr>
 </tbody></table>

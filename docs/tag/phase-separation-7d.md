@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>phase-separation — 7d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">7 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -56,11 +56,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26939.html">Phase-dependent THz yield in two-color laser plasmas: nonlinear propagation and Coulomb-modified recollision</a></div></td>
 <td>Yange Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26939">2610.26939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23285.html">When Cooling Meets Flow: Advection-Driven Orientation Selection in Phase Separation around a Moving Cooling Source</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Lakshmipriya K et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23285">2610.23285</a></td>
 </tr>
 </tbody></table>

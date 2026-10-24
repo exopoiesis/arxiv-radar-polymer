@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">25 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -164,11 +164,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23812.html">Electrolytes confined between polarizable surfaces in slit pores with anisotropic permittivity tensor</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Alexandre P. dos Santos et al.</td>
 <td><a href="http://arxiv.org/abs/2607.23812">2607.23812</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.23135.html">Multi-User Diversity Scaling in Heavy-Tailed Fading</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
-<td>Yonathan Murin et al.</td>
-<td><a href="http://arxiv.org/abs/2607.23135">2607.23135</a></td>
 </tr>
 </tbody></table>

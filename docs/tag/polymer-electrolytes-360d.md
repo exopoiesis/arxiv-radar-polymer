@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-electrolytes — 360d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="polymer-electrolytes-7d.html">7d</a> <a href="polymer-electrolytes-30d.html">30d</a> <a href="polymer-electrolytes-90d.html">90d</a> <strong>360d</strong> <a href="polymer-electrolytes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11180.html">Prognostics and Health Management in Polymer Electrolyte Fuel Cells: Current Trends, Challenges, and Future Directions</a></div><div class="paper-tags"><a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
 <td>Farideh Abdollahi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11180">2511.11180</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24580.html">Breaking Ion Clusters: Size Asymmetry for Faster Ion Transport in Polymer Electrolytes</a></div></td>
-<td>Ganesh K Rajahmundry et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24580">2510.24580</a></td>
 </tr>
 </tbody></table>

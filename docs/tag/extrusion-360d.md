@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>extrusion — 360d</h1>
-  <span class="paper-count">17 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="extrusion-7d.html">7d</a> <a href="extrusion-30d.html">30d</a> <a href="extrusion-90d.html">90d</a> <strong>360d</strong> <a href="extrusion-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -110,11 +110,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07264.html">edible polysaccharides as stabilizers and carriers for the delivery of phenolic compounds and pigments in food formulations</a></div><div class="paper-tags"><a href="coacervates-360d.html">coacervates</a></div></td>
 <td>Liliane Siqueira de Oliveira et al.</td>
 <td><a href="http://arxiv.org/abs/2511.07264">2511.07264</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.24994.html">Defect Mitigation for Robot Arm-based Additive Manufacturing Utilizing Intelligent Control and IOT</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Matsive Ali et al.</td>
-<td><a href="http://arxiv.org/abs/2510.24994">2510.24994</a></td>
 </tr>
 </tbody></table>

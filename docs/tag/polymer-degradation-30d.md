@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-degradation — 30d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <strong>30d</strong> <a href="polymer-degradation-90d.html">90d</a> <a href="polymer-degradation-360d.html">360d</a> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10874.html">Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="composites-30d.html">composites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Jairo Rondon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10874">2610.10874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28244.html">Modularity is Not Enough: Demonstration of a Solderless 400 V DC, 2.5 kW Three-Phase Inverter</a></div><div class="paper-tags"><a href="generative-model-30d.html">generative-model</a> · <a href="life-cycle-assessment-30d.html">life-cycle-assessment</a></div></td>
-<td>Luc Imperiali et al.</td>
-<td><a href="http://arxiv.org/abs/2609.28244">2609.28244</a></td>
 </tr>
 </tbody></table>

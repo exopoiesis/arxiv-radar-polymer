@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,29 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25442.html">Probing Flow-Induced Chain Scission in Shear-Banding Wormlike Micelles</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
 <td>Alfredo Scigliani et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25442">2610.25442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19602.html">Seismology of Glasses</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a></div></td>
-<td>Zhiyu Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.19602">2610.19602</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23147.html">Confinement-induced toughening in delignified wood-polyacrylamide composite hydrogels</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="hydrogels-7d.html">hydrogels</a></div></td>
-<td>Kohei Shimogata et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23147">2610.23147</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23163.html">Stability and Error Estimates for Convolution Quadrature under Radial Symbol Bounds</a></div></td>
-<td>Jingchuang Ren et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23163">2610.23163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23762.html">An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
-<td>Xiyuan Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23762">2610.23762</a></td>
 </tr>
 </tbody></table>
