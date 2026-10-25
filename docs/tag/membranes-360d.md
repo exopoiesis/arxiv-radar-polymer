@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membranes — 360d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <strong>360d</strong> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -320,11 +320,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26659.html">Enzyme Active Bath Affects Protein Condensation</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Kevin Ching et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26659">2510.26659</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25881.html">Solutions to Second-Order Nonlocal Evolution Equations Governed by Non-Autonomous Forms</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Sajid Ullah et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25881">2510.25881</a></td>
 </tr>
 </tbody></table>

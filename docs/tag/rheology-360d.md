@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,11 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01212.html">Rheological Behavior of Colloidal Silica Dispersion: Irreversible Aging and Thixotropy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Vivek Kumar et al.</td>
 <td><a href="http://arxiv.org/abs/2511.01212">2511.01212</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00070.html">Benchmarking Generative AI Against Bayesian Optimization for Constrained Multi-Objective Inverse Design</a></div><div class="paper-tags"><a href="bayesian-optimization-360d.html">bayesian-optimization</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
-<td>Muhammad Bilal Awan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00070">2511.00070</a></td>
 </tr>
 </tbody></table>

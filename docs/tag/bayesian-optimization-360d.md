@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>bayesian-optimization — 360d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="bayesian-optimization-7d.html">7d</a> <a href="bayesian-optimization-30d.html">30d</a> <a href="bayesian-optimization-90d.html">90d</a> <strong>360d</strong> <a href="bayesian-optimization-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11739.html">Noise-Aware Optimization in Nominally Identical Manufacturing and Measuring Systems for High-Throughput Parallel Workflows</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Christina Schenk et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11739">2511.11739</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00070.html">Benchmarking Generative AI Against Bayesian Optimization for Constrained Multi-Objective Inverse Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Muhammad Bilal Awan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00070">2511.00070</a></td>
 </tr>
 </tbody></table>

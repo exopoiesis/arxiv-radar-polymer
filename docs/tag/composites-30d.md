@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Ankit Patidar et al.</td>
 <td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.30162.html">From dimensional reduction to tetramerization in mixed ferro-antiferro breathing pyrochlores</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>Sourin Chatterjee et al.</td>
-<td><a href="http://arxiv.org/abs/2609.30162">2609.30162</a></td>
 </tr>
 </tbody></table>

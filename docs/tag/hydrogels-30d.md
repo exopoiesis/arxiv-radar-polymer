@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>hydrogels — 30d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <strong>30d</strong> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.11837.html">Elastic polymer networks of exceptional strength by deconcentrating tension</a></div></td>
 <td>Yu Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2610.11837">2610.11837</a></td>
-</tr>
-<tr class="paper">
-<td>2026-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.29904.html">Extracting hydrogel properties by watching hydrogel particles moving through solid ice</a></div></td>
-<td>Yanxia Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2609.29904">2609.29904</a></td>
 </tr>
 </tbody></table>
