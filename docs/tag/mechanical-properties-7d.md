@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a> · <a href="spectroscopy-7d.html">spectroscopy</a></div></td>
+<td>Isaac Y. Miranda-Valdez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="hydrogels-7d.html">hydrogels</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
 <td>Ella Sapsford et al.</td>
@@ -68,11 +74,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26688.html">Elastic theory of ideal liquid crystal elastomers</a></div></td>
 <td>Zumrat Usmanova et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26688">2610.26688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25442.html">Probing Flow-Induced Chain Scission in Shear-Banding Wormlike Micelles</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Alfredo Scigliani et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25442">2610.25442</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-informatics — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="polymer-informatics-7d.html">7d</a> <a href="polymer-informatics-30d.html">30d</a> <a href="polymer-informatics-90d.html">90d</a> <strong>360d</strong> <a href="polymer-informatics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04704.html">AI-assisted design of chemically recyclable polymers for food packaging</a></div><div class="paper-tags"><a href="polymerization-360d.html">polymerization</a> · <a href="ring-opening-polymerization-360d.html">ring-opening-polymerization</a> · <a href="sustainable-polymers-360d.html">sustainable-polymers</a></div></td>
 <td>Brandon K. Phan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04704">2511.04704</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26100.html">Applications of Machine Learning in Polymer Materials: Property Prediction, Material Design, and Systematic Processes</a></div><div class="paper-tags"><a href="multiscale-modeling-360d.html">multiscale-modeling</a></div></td>
-<td>Hongtao Guo Shuai Li Shu Li</td>
-<td><a href="http://arxiv.org/abs/2510.26100">2510.26100</a></td>
 </tr>
 </tbody></table>

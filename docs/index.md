@@ -5,15 +5,33 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-25._
+_Updated 2026-10-26._
 
-**3811** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3814** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32456.html">Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers</a></div><div class="paper-tags"><a href="tag/qspr-30d.html">qspr</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Zihao Liu et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32456">2610.32456</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32527.html">The upper bounds on occupancy fraction and variance fraction for linear regular uniform hypergraphs</a></div></td>
+<td>Weiyuan Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32527">2610.32527</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
+<td>Isaac Y. Miranda-Valdez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/composites-30d.html">composites</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
@@ -175,23 +193,5 @@ _Updated 2026-10-25._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26782.html">RESIN: Multi-Chain Reasoning with Entity-Structured Indexing</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
 <td>Xuanyu Meng et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26782">2610.26782</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26996.html">Tailoring Dielectric Relaxation and Charge Transport in Amorphous Ge-Te-Se Phase-Change Materials through Yttrium Incorporation</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Surbhi Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26996">2610.26996</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.27136.html">Ammonia-Hydrogen Phase Equilibria in Planetary Envelopes from First-Principles-Based Machine-Learning Molecular Dynamics</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Akash Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2610.27136">2610.27136</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.25243.html">Enhancement of liquid-liquid phase transition under shear flow</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Kyohei Takae</td>
-<td><a href="http://arxiv.org/abs/2610.25243">2610.25243</a></td>
 </tr>
 </tbody></table>

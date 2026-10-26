@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">498 papers</span>
+  <span class="paper-count">497 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
+<td>Isaac Y. Miranda-Valdez et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
@@ -2990,17 +2996,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00333.html">Broadband traveling wave generation using acoustic black holes</a></div></td>
 <td>Amirhossein Omidi Soroor et al.</td>
 <td><a href="http://arxiv.org/abs/2511.00333">2511.00333</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26366.html">$Λ$vCF: Extending $Λ$CDM into a Unified Model with Particle Creation</a></div></td>
-<td>Vishnu A Pai et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26366">2510.26366</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Jingchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
 </tbody></table>

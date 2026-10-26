@@ -3864,5 +3864,91 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-10-22"
+ },
+ "2610.32456": {
+  "abstract": "High-efficiency vertical charge transport in multilayer organic optoelectronic devices highly depends on molecular structure and arrangement. Using two T2-(NDI-T2)2 conjugated oligomers with ethylhexyl (EH) and octyldodecyl (OD) side chains as a model system, their effects on electron transport are investigated using, among other techniques, atomic force microscopy (AFM), conductive atomic force microscopy (C-AFM), grazing-incidence wide-angle X-ray scattering (GIWAXS), steady-state optical spectroscopy, and time-dependent density functional theory (TDDFT) calculations. The oligomers of both materials exhibit relatively disordered structures in the as-cast state, whereas annealing enhances structural order and leads to side-chain-dependent changes in molecular stacking. EH-based films show a smaller annealing-induced photoluminescence shift than OD-based films, suggesting less pronounced stacking and conformational rearrangements, consistent with TDDFT-supported exciton analysis. The current-voltage characteristics are analyzed using the space-charge-limited current (SCLC) model. After annealing, both materials exhibit improved vertical electron mobility. The EH-based films reach a maximum mobility of 1.2 x 10^-4 cm^2 V^-1 s^-1. The combined results suggest that the shorter EH side chains modify the out-of-plane packing environment and facilitate vertical electron transport. These results establish a structure-property relationship between side-chain structure, molecular order, exciton coupling and vertical mobility, providing a molecular design basis for optimising organic semiconductors through side-chain engineering.",
+  "authors": [
+   "Zihao Liu",
+   "Hajar Komekoz",
+   "Nisarg Trivedi",
+   "Max Dorfner",
+   "Lokesh Rasabathina",
+   "Rico Ehrler",
+   "Mike Hambsch",
+   "Chen Wang",
+   "Dietrich R. T. Zahn",
+   "Jörg Matysik",
+   "Stefan C. B. Mannsfeld",
+   "Carsten Deibel",
+   "Olav Hellwig",
+   "Frank Ortmann",
+   "Michael Sommer",
+   "Georgeta Salvan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "19 pages, 5 figures, 3 tables. Supporting Information included as an ancillary PDF",
+  "first_author": "Zihao Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.32456",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-23",
+  "tags": [
+   "qspr",
+   "spectroscopy"
+  ],
+  "title": "Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.32527": {
+  "abstract": "The hard-core model can be used to understand the number of independent sets in graphs in extremal graph theory. The occupancy and variance fractions are the expectation and variance, respectively, of the independent-set size, normalized by the number of vertices. We provide upper bounds on the occupancy and variance fractions of linear $d$-regular $r$-uniform hypergraphs for small positive fugacities. In proving these results, we use the cluster expansion and the abstract polymer models, two tools from statistical physics, to analyse auxiliary functions associated with independence polynomials, comparing their low-order coefficients and controlling the remainders uniformly in the number of vertices.",
+  "authors": [
+   "Weiyuan Zhang",
+   "Kexiang Xu"
+  ],
+  "categories": [
+   "math.CO"
+  ],
+  "comment": null,
+  "first_author": "Weiyuan Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2610.32527",
+  "primary_category": "math.CO",
+  "published": "2026-10-23",
+  "tags": [],
+  "title": "The upper bounds on occupancy fraction and variance fraction for linear regular uniform hypergraphs",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.32895": {
+  "abstract": "Inferring constitutive laws from transient response data is a central inverse problem in soft condensed-matter physics, particularly when the relevant relaxation spectrum extends beyond the time window of a single experiment. Time-temperature superposition (TTS) constrains this problem for thermorheologically simple materials in the linear viscoelastic regime by allowing temperature to rescale the characteristic relaxation time without changing the underlying shape of the relaxation spectrum. We incorporate this constraint into a physics-informed machine-learning framework for time-resolved mechanical spectroscopy via chirp rheometry. We encode compact fractional viscoelastic models as causal convolutional features derived from the Boltzmann superposition principle, and we jointly fit multi-temperature chirp records using sparse variational Gaussian process regression. The model infers horizontal shift factors, constitutive parameters, and an observational-noise scale directly from time-domain stress-strain signals measured in the linear viscoelastic regime, without first extracting frequency-domain spectra or manually shifting separate curves. For synthetic Fractional Maxwell data, the method recovers the generating constitutive law from a prescribed model library and latent shifts over stress-noise levels from 3% to 25%. Applied to a DGEBA-IPDA epoxy dataset spanning the glass-transition regime, the pooled likelihood distinguishes competing fractional rheology models using the Bayesian information criterion. These results recast TTS master-curve construction as probabilistic inference over latent time rescaling and linear viscoelasticity, while also identifying limitations, such as homoscedastic noise and weakly informative spectral regimes.",
+  "authors": [
+   "Isaac Y. Miranda-Valdez",
+   "Kourosh Mobredi",
+   "Juha Koivisto",
+   "Mikko J. Alava"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Isaac Y. Miranda-Valdez",
+  "pdf_url": "http://arxiv.org/pdf/2610.32895",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-23",
+  "tags": [
+   "mechanical-properties",
+   "rheology",
+   "spectroscopy"
+  ],
+  "title": "Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-23"
  }
 }

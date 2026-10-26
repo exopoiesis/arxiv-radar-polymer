@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">212 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1286,11 +1286,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.27283.html">Domain Growth and Aging in a Phase Separating Binary Fluid Confined Inside a Nanopore</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
 <td>Saikat Basu et al.</td>
 <td><a href="http://arxiv.org/abs/2510.27283">2510.27283</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="crystallinity-360d.html">crystallinity</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
-<td>Jingchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
 </tbody></table>

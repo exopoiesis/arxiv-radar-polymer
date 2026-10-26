@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09260.html">Study of a Compact Device for Water Attenuation Length Measurements</a></div></td>
 <td>Junyou Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2509.09260">2509.09260</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26949.html">Protein-protein interaction networks can be highly sensitive to the membrane phase transition</a></div></td>
-<td>Taylor Schaffner et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26949">2510.26949</a></td>
 </tr>
 </tbody></table>

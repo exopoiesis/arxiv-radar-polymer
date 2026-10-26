@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>crystallinity — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="crystallinity-7d.html">7d</a> <a href="crystallinity-30d.html">30d</a> <a href="crystallinity-90d.html">90d</a> <strong>360d</strong> <a href="crystallinity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07640.html">Optimization for growth condition of ultrathin hexagonal boron nitride on dielectric substrates via LPCVD</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Meryem Bozkaya et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07640">2512.07640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26916.html">Nanomechanics of Shear Rate-Dependent Stiffening in Micellar Electrically Conductive Polymers</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="conducting-polymers-360d.html">conducting-polymers</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Jingchen Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2510.26916">2510.26916</a></td>
 </tr>
 </tbody></table>
