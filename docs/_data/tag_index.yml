@@ -12,17 +12,21 @@
   total: 383
   group: morphology
 - name: additive-manufacturing
-  count: 12
-  total: 372
+  count: 13
+  total: 373
   group: processing
 - name: benchmarking
-  count: 12
-  total: 222
+  count: 13
+  total: 223
   group: informatics
 - name: coarse-grained
   count: 12
   total: 306
   group: simulation
+- name: rheology
+  count: 11
+  total: 211
+  group: processing
 - name: composites
   count: 10
   total: 278
@@ -31,10 +35,10 @@
   count: 10
   total: 270
   group: simulation
-- name: rheology
-  count: 10
-  total: 210
-  group: processing
+- name: membranes
+  count: 8
+  total: 95
+  group: applications
 - name: monte-carlo
   count: 8
   total: 211
@@ -43,10 +47,6 @@
   count: 8
   total: 90
   group: properties
-- name: membranes
-  count: 7
-  total: 94
-  group: applications
 - name: spectroscopy
   count: 7
   total: 124
@@ -63,6 +63,10 @@
   count: 5
   total: 155
   group: properties
+- name: nanocomposites
+  count: 4
+  total: 78
+  group: processing
 - name: polymer-degradation
   count: 4
   total: 60
@@ -75,10 +79,6 @@
   count: 3
   total: 38
   group: representation
-- name: nanocomposites
-  count: 3
-  total: 77
-  group: processing
 - name: polymer-electrolytes
   count: 3
   total: 20

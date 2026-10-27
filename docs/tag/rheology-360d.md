@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">121 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Isaac Y. Miranda-Valdez et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33345.html">Elasto-Plastocapillarity: Surface-Tension-Driven Flows of Yield-Stress Fluids</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
+<td>Maziyar Jalaal</td>
+<td><a href="http://arxiv.org/abs/2610.33345">2610.33345</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-20</td>

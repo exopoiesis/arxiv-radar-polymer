@@ -16,15 +16,15 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="membranes-7d.html">membranes</a> · <a href="nanocomposites-7d.html">nanocomposites</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="monte-carlo-7d.html">monte-carlo</a></div></td>
 <td>N Balakrishna</td>
 <td><a href="http://arxiv.org/abs/2610.30624">2610.30624</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26782.html">RESIN: Multi-Chain Reasoning with Entity-Structured Indexing</a></div></td>
-<td>Xuanyu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26782">2610.26782</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,29 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28254.html">Dramatic pressure-induced slowdown and the soft glassy rheology of water at 2D material interface</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
 <td>Guilhem Mariette et al.</td>
 <td><a href="http://arxiv.org/abs/2610.28254">2610.28254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26075.html">evaluating local viscoelastic properties of artery-mimicking phantoms using high-resolution flexural wavenumber analysis</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Max Gattin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26075">2610.26075</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26150.html">Superstability of micrometer viscous jets surrounded by weakly-elastic viscous shells</a></div></td>
-<td>A. Rubio-González et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26150">2610.26150</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26157.html">A unified Carleman approach to inverse problems for coupled parabolic and hyperbolic-ODE equations</a></div></td>
-<td>Jone Apraiz et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26157">2610.26157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26688.html">Elastic theory of ideal liquid crystal elastomers</a></div></td>
-<td>Zumrat Usmanova et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26688">2610.26688</a></td>
 </tr>
 </tbody></table>

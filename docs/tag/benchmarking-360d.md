@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>N Balakrishna</td>
@@ -926,11 +932,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16246.html">Vibrational Spectra of Materials and Molecules from Partially-Adiabatic Elevated-Temperature Centroid Molecular Dynamics</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jorge Castro et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16246">2508.16246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00204.html">Transfer learning discovery of molecular modulators for perovskite solar cells</a></div><div class="paper-tags"><a href="qspr-360d.html">qspr</a></div></td>
-<td>Haoming Yan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00204">2511.00204</a></td>
 </tr>
 </tbody></table>

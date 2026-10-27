@@ -22,15 +22,15 @@ current_window: 7d
 <td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
 </tr>
 <tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33345.html">Elasto-Plastocapillarity: Surface-Tension-Driven Flows of Yield-Stress Fluids</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
+<td>Maziyar Jalaal</td>
+<td><a href="http://arxiv.org/abs/2610.33345">2610.33345</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28254.html">Dramatic pressure-induced slowdown and the soft glassy rheology of water at 2D material interface</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Guilhem Mariette et al.</td>
 <td><a href="http://arxiv.org/abs/2610.28254">2610.28254</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26075.html">evaluating local viscoelastic properties of artery-mimicking phantoms using high-resolution flexural wavenumber analysis</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
-<td>Max Gattin et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26075">2610.26075</a></td>
 </tr>
 </tbody></table>

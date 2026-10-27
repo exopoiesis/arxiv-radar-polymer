@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Heather Jin Hee Kim et al.</td>
@@ -92,11 +98,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06413.html">Competing Energetics Govern Gas Permeation in Polymer of Intrinsic Microporosity (PIM) Membranes</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
 <td>Jianhao Qian et al.</td>
 <td><a href="http://arxiv.org/abs/2608.06413">2608.06413</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25767.html">Critical Ripples and Dirac Fermions in Crystalline Membranes</a></div></td>
-<td>Sebastián Bahamondes et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25767">2607.25767</a></td>
 </tr>
 </tbody></table>

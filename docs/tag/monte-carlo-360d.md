@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">116 papers</span>
+  <span class="paper-count">115 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -704,11 +704,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.11027.html">From Heteropolymer Stiffness Distributions to Effective Homopolymers: A Conformational Analysis of Intrinsically Disordered Proteins</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Yannick Witzky et al.</td>
 <td><a href="http://arxiv.org/abs/2504.11027">2504.11027</a></td>
-</tr>
-<tr class="paper">
-<td>2025-10-31</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09260.html">Study of a Compact Device for Water Attenuation Length Measurements</a></div></td>
-<td>Junyou Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09260">2509.09260</a></td>
 </tr>
 </tbody></table>

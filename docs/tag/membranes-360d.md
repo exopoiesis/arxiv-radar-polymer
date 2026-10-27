@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>membranes — 360d</h1>
-  <span class="paper-count">50 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <strong>360d</strong> <a href="membranes-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>

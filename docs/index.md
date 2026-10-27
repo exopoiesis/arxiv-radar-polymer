@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-26._
+_Updated 2026-10-27._
 
-**3814** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3816** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/membranes-30d.html">membranes</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32456.html">Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers</a></div><div class="paper-tags"><a href="tag/qspr-30d.html">qspr</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
@@ -31,6 +37,12 @@ _Updated 2026-10-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Isaac Y. Miranda-Valdez et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.33345.html">Elasto-Plastocapillarity: Surface-Tension-Driven Flows of Yield-Stress Fluids</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
+<td>Maziyar Jalaal</td>
+<td><a href="http://arxiv.org/abs/2610.33345">2610.33345</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-22</td>
@@ -181,17 +193,5 @@ _Updated 2026-10-26._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26657.html">Dynamic clustering of active chemotactic Janus particles</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Joël Mabillard et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26657">2610.26657</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26688.html">Elastic theory of ideal liquid crystal elastomers</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Zumrat Usmanova et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26688">2610.26688</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26782.html">RESIN: Multi-Chain Reasoning with Entity-Structured Indexing</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Xuanyu Meng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26782">2610.26782</a></td>
 </tr>
 </tbody></table>

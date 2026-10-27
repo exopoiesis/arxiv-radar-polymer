@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>nanocomposites — 360d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="nanocomposites-7d.html">7d</a> <a href="nanocomposites-30d.html">30d</a> <a href="nanocomposites-90d.html">90d</a> <strong>360d</strong> <a href="nanocomposites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="membranes-360d.html">membranes</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13509.html">Energy-dependent trapping of backscattered helium during magnetron sputtering growth: A molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>

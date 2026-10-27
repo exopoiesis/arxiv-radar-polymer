@@ -3947,8 +3947,59 @@
   ],
   "title": "Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes",
   "topics": [
+   "Processing, Manufacturing & Composites",
    "Property Prediction & QSPR"
   ],
   "updated": "2026-10-23"
+ },
+ "2610.33345": {
+  "abstract": "In this perspective article, we introduce elasto-plastocapillarity: surface-tension-driven free-surface flows of yield-stress fluids in which capillary stresses compete with yielding and elastic relaxation. We frame the relevant parameter space, and highlight representative problems (drops, bubbles, jets/filaments, thin films, and porous media) that are central to applications ranging from additive manufacturing and coatings to biological flows. We then outline a set of timely open challenges, including surface-tension measurements, breakdown of scale separation near the microstructures, coupled bulk-interface flow experimental diagnosis, interfacial rheology and surface stresses, history dependence, constitutive models and boundary conditions, reduced theoretical models, and the emerging opportunity provided by artificial intelligence and microgravity; aimed at guiding future experiments, theory, and computation.",
+  "authors": [
+   "Maziyar Jalaal"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Maziyar Jalaal",
+  "pdf_url": "http://arxiv.org/pdf/2610.33345",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-23",
+  "tags": [
+   "additive-manufacturing",
+   "rheology"
+  ],
+  "title": "Elasto-Plastocapillarity: Surface-Tension-Driven Flows of Yield-Stress Fluids",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.34014": {
+  "abstract": "This paper presents a novel framework for simulating load-transfer mechanisms in nanocomposites reinforced by thin, stiff, and prestressed reinforcements, such as, e.g., nanosheets or nanoplatelets. The reinforcements are modeled as open material surfaces treated as membranes endowed with their own elastic properties and residual surface tension; the matrix is assumed to be isotropic elastic. In the two-dimensional plane-strain setting considered here, each material surface is represented by a sufficiently smooth curve of otherwise arbitrary shape. The theoretical part of the framework is based on the Gurtin--Murdoch theory in which the surfaces are represented by traction jumps across them. The elastic fields in the matrix are exactly expressed by the integral representations written in terms of the unknown traction jumps that are functions of the second-order derivatives of the displacements. The computational part is based on the isogeometric boundary element method (IGABEM) that utilizes non-uniform rational B-splines (NURBS). The unknown traction jumps are found from the numerical solutions of the coupled system of singular boundary integral equations, after which the elastic fields in the matrix are evaluated. The procedure of extracting the values of the stress intensity factors (SIFs) at the tips of the surfaces is described. The proposed algorithm is validated against available benchmark solutions for multiple surfaces located along either straight segments or circular arcs. Selected parametric studies are performed to examine the influence of surface curvatures, relative spacing, orientation, and interactions. An example involving a graphene nanoplatelet-reinforced epoxy is presented.",
+  "authors": [
+   "Rohit Satish Patil",
+   "Zhilin Han",
+   "Sofia G. Mogilevskaya"
+  ],
+  "categories": [
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Rohit Satish Patil",
+  "pdf_url": "http://arxiv.org/pdf/2610.34014",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-25",
+  "tags": [
+   "benchmarking",
+   "membranes",
+   "nanocomposites"
+  ],
+  "title": "Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-10-25"
  }
 }

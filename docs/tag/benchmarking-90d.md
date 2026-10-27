@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="membranes-90d.html">membranes</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
+<td>Rohit Satish Patil et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>N Balakrishna</td>
@@ -218,11 +224,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26992.html">Generation of representative powder particle packing in 2D/3D: which tool for which application?</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Antoine Tainturier et al.</td>
 <td><a href="http://arxiv.org/abs/2607.26992">2607.26992</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.25892.html">Bosonic Condensed Phase Real-time Dynamics from Ring Polymer Molecular Dynamics</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Yotam M. Y. Feldman et al.</td>
-<td><a href="http://arxiv.org/abs/2607.25892">2607.25892</a></td>
 </tr>
 </tbody></table>
