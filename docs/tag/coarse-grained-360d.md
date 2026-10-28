@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">175 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1064,11 +1064,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16246.html">Vibrational Spectra of Materials and Molecules from Partially-Adiabatic Elevated-Temperature Centroid Molecular Dynamics</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Jorge Castro et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16246">2508.16246</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07819.html">Growth of Structural Lengthscale in Kob Andersen Binary Mixtures: Role of medium range order</a></div></td>
-<td>Sanket Kumawat et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07819">2507.07819</a></td>
 </tr>
 </tbody></table>

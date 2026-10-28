@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">62 papers</span>
+  <span class="paper-count">61 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Miriam Diamond et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
@@ -374,17 +380,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20404.html">Robust Discovery of Coarse-Grained Continuum Equations from Microscopic Dynamics</a></div></td>
 <td>Partha Sarathi Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2608.20404">2608.20404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.26920.html">Boundary-Driven Anisotropic Coarsening in Conserved Phase Separation</a></div></td>
-<td>Emilio N. M. Cirillo et al.</td>
-<td><a href="http://arxiv.org/abs/2607.26920">2607.26920</a></td>
-</tr>
-<tr class="paper">
-<td>2026-07-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2607.27108.html">Formation of $\mathrm{L}1_2$-ordered $γ&#x27;$-$\mathrm{Ni}_3\mathrm{Al}$ precipitates in ternary Cu-Ni-Al alloys modelled using an ab initio concentration wave theory and atomistic simulations</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
-<td>Christopher D. Woodgate et al.</td>
-<td><a href="http://arxiv.org/abs/2607.27108">2607.27108</a></td>
 </tr>
 </tbody></table>

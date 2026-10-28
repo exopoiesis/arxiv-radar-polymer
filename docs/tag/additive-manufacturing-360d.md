@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">184 papers</span>
+  <span class="paper-count">183 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1112,11 +1112,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05551.html">In-Context-Learning-Assisted Quality Assessment Vision-Language Models for Metal Additive Manufacturing</a></div></td>
 <td>Qiaojie Zheng et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05551">2511.05551</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00593.html">Digital Twin of Aerosol Jet Printing</a></div></td>
-<td>Aayushya Agarwal et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00593">2511.00593</a></td>
 </tr>
 </tbody></table>

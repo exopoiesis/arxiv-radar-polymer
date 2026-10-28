@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Miriam Diamond et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
 <td>Giulia Pisegna et al.</td>
@@ -1796,11 +1802,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.05422.html">The elusive fluid-and-crystal coexistence state in simulations of monodisperse, hard-sphere colloids</a></div></td>
 <td>J. Galen Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2412.05422">2412.05422</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.00445.html">Phase Separation Dynamics and Active Turbulence in a Binary Fluid Mixture</a></div></td>
-<td>Sohail Ahmed et al.</td>
-<td><a href="http://arxiv.org/abs/2511.00445">2511.00445</a></td>
 </tr>
 </tbody></table>

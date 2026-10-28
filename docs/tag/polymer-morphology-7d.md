@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>polymer-morphology — 7d</h1>
-  <span class="paper-count">3 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,11 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Pablo Luna Falcon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="multiscale-modeling-7d.html">multiscale-modeling</a></div></td>
-<td>K. Starkey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a></div></td>
+<td>Miriam Diamond et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
 <td>Giulia Pisegna et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
 <td>Ritesh Bhola et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30077">2610.30077</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26149.html">Motility-Induced Phase Separation of Run-and-Tumble Particles under Local Stochastic Resetting</a></div></td>
-<td>Pascal Grange</td>
-<td><a href="http://arxiv.org/abs/2610.26149">2610.26149</a></td>
 </tr>
 </tbody></table>

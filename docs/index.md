@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-27._
+_Updated 2026-10-28._
 
-**3816** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3817** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -19,6 +19,12 @@ _Updated 2026-10-27._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/membranes-30d.html">membranes</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a></div></td>
 <td>Rohit Satish Patil et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Miriam Diamond et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-23</td>
@@ -187,11 +193,5 @@ _Updated 2026-10-27._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26569.html">Phase Diagram of the Two-Dimensional Vicsek Model</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Yu Duan et al.</td>
 <td><a href="http://arxiv.org/abs/2610.26569">2610.26569</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.26657.html">Dynamic clustering of active chemotactic Janus particles</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Joël Mabillard et al.</td>
-<td><a href="http://arxiv.org/abs/2610.26657">2610.26657</a></td>
 </tr>
 </tbody></table>

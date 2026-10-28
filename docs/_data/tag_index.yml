@@ -4,21 +4,21 @@
   total: 899
   group: properties
 - name: phase-separation
-  count: 22
-  total: 594
+  count: 23
+  total: 595
   group: morphology
 - name: polymer-morphology
   count: 16
   total: 383
   group: morphology
+- name: benchmarking
+  count: 14
+  total: 224
+  group: informatics
 - name: additive-manufacturing
   count: 13
   total: 373
   group: processing
-- name: benchmarking
-  count: 13
-  total: 223
-  group: informatics
 - name: coarse-grained
   count: 12
   total: 306

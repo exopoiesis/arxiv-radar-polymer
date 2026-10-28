@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">153 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Rohit Satish Patil et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Miriam Diamond et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
 </tr>
 <tr class="paper">
 <td>2026-10-22</td>
