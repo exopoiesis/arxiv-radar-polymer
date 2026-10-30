@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>qspr — 360d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="qspr-7d.html">7d</a> <a href="qspr-30d.html">30d</a> <a href="qspr-90d.html">90d</a> <strong>360d</strong> <a href="qspr-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.16041.html">Explainable Molecular Property Prediction: Aligning Chemical Concepts with Predictions via Language Models</a></div><div class="paper-tags"><a href="selfies-360d.html">selfies</a></div></td>
 <td>Zhenzhong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2405.16041">2405.16041</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.01949.html">Edge Irregularity Strength: A Complementary Descriptor to Topological Indices in QSPR and QSAR Studies</a></div></td>
-<td>U. Vijaya Chandra Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2511.01949">2511.01949</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">26 papers</span>
+  <span class="paper-count">30 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38504.html">Extraordinary stiffening and reciprocal control in a DNA condensate/actin composite</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Sam Wilken et al.</td>
+<td><a href="http://arxiv.org/abs/2610.38504">2610.38504</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37322.html">Microscopic constitutive freedom in metamaterials</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
+<td>Zhongjian Mei et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37322">2610.37322</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36005.html">Evaluation of upper-scale mechanical parameters of particulate aluminum-based nanocomposites from molecular simulations</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>
+<td>Bartosz Bucholc et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36005">2610.36005</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33459.html">Polarization-resolved haze in transparent wood - towards wooden glass</a></div></td>
+<td>Zheheng Song et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33459">2610.33459</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalyst-design — 360d</h1>
-  <span class="paper-count">8 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <strong>360d</strong> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33981.html">Tau creates spatially moving hotspots of amyloid-$β$ secondary nucleation: a reaction-diffusion model</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
+<td>Andrey V. Kuznetsov</td>
+<td><a href="http://arxiv.org/abs/2610.33981">2610.33981</a></td>
+</tr>
 <tr class="paper">
 <td>2026-04-08</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.07203.html">Photo-Assisted Pd-Nb2O5/Carbon Nanocomposites for Enhanced Ethanol Electro-Oxidation Kinetics and CO Tolerance in Alkaline Media</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>

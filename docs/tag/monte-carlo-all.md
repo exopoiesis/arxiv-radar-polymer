@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">211 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39039.html">Response of Hydrogels and Microgels to Nanoparticle Crowding</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>
+<td>Mahesh Aryal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39039">2610.39039</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37076.html">Perimeter shell properties of branched polymer adsorbents in various conformational states</a></div></td>
+<td>Viktoria Blavatska et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37076">2610.37076</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34472.html">Reliability Assessment of FRP-RC Columns Using AK-MCS with a Piecewise Two-Branch Approach</a></div></td>
+<td>Arndt Goldack et al.</td>
+<td><a href="http://arxiv.org/abs/2610.34472">2610.34472</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30624.html">Robust M-Estimation for Spliced Power-Law Models Under Cusp-Type Non-Regularity</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="composites-all.html">composites</a></div></td>

@@ -3865,6 +3865,60 @@
   ],
   "updated": "2026-10-22"
  },
+ "2610.32186": {
+  "abstract": "Liquid crystal elastomers (LCEs) are active materials capable of large, reversible thermally induced actuation, offering significant potential for applications such as artificial muscles and soft robotics. However, their broader deployment is hindered by the lack of a unified design-to-fabrication framework, the strong coupling among geometry, director fields, and manufacturing constraints, and the difficulty of reliably translating complex designs into physically realizable architectures. Here, we present an autonomous and monolithic integration of co-optimization and 4D printing that enables the end-to-end design-to-realization of versatile programmable LCE architectures with superior precision, complexity, and versatility. The proposed framework establishes a unified design strategy that co-optimizes the freeform multilayer geometry and fully continuous layer-specific director distributions, and subsequently translates the optimized fields into fabrication-ready DIW toolpaths through an automated manufacturing-aware pipeline. To bridge computation and realization, we develop an optimization-centered 4D printing approach with automated, fabrication-aware toolpath generation tailored for direct ink writing of LCEs. With the proposed design-to-fabrication paradigm, we experimentally realize architectures that exhibit complex, non-intuitive thermo-mechanical behaviors. Experiments achieve highly challenging prescribed functionalities beyond the reach of intuition-based approaches and show excellent agreement with numerical simulations across all samples. This work establishes a generalizable inverse design and physical realization of freeform programmable LCE systems, enabling function-oriented and optimization-driven intelligent LCE applications for next-generation soft robotic and responsive material engineering.",
+  "authors": [
+   "Yibo Wang",
+   "Asad Farooq Ahmed",
+   "Weichen Li",
+   "Weiyun Xu",
+   "Xiaojia Shelly Zhang"
+  ],
+  "categories": [
+   "cs.CE",
+   "math.OC"
+  ],
+  "comment": null,
+  "first_author": "Yibo Wang",
+  "pdf_url": "http://arxiv.org/pdf/2610.32186",
+  "primary_category": "cs.CE",
+  "published": "2026-10-23",
+  "tags": [
+   "inverse-design"
+  ],
+  "title": "Freeform Programmable Liquid Crystal Elastomers via Monolithic Integration of Co-Optimization and 4D-Printing",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.32188": {
+  "abstract": "Contact angle (CA) is a common parameter measured in the development of novel contact lens materials and surface coating technologies. Existing literature on in vitro CA of contact lenses via the sessile drop method is hindered in repeatability, reliability, and comparability due to inter-laboratory and inter-operator protocol variation. In this work, the Robotic Autonomous Imaging Surface Evaluator for vision applications (RAISE-Vision) is introduced as an automated platform for CA measurement on curved hydrogel surfaces, with specific application to in vitro contact lens wettability analysis throughout air exposure. Customized 3D printed hardware, such as lens mounts, camera holders and drying apparatuses, was designed to facilitate an automated repeated sessile drop workflow within a liquid handler. Collected images were directly fed to a custom open-source image processing script for CA determination on a curved surface that combines the elliptical fit and tangent methods to allow for variations in droplet shape. The CA of senofilcon A contact lenses measured using the RAISE-Vision platform increased from $62.6 \\pm 5.5^\\circ$ to $83.4 \\pm 2.1^\\circ$ over 10 sequential measurements in air and was able to replicate results obtained using an analogous manual protocol ($p = 0.470$). The custom image processing script was also separately demonstrated to generate comparable results to a commercially available CA determination software ($p = 0.343$). Aside from minimizing operator variability for CA measurement, RAISE-Vision provides a platform for standardized in vitro contact lens wettability analysis and understanding of surface wetting behaviour during air exposure.",
+  "authors": [
+   "Erin Ng",
+   "Mohammad Nazeri",
+   "Julie S Liu",
+   "Tithi Choksi",
+   "Lyndon Jones",
+   "Frank Gu"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "27 pages, 7 figures",
+  "first_author": "Erin Ng",
+  "pdf_url": "http://arxiv.org/pdf/2610.32188",
+  "primary_category": "cs.RO",
+  "published": "2026-10-23",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-23"
+ },
  "2610.32456": {
   "abstract": "High-efficiency vertical charge transport in multilayer organic optoelectronic devices highly depends on molecular structure and arrangement. Using two T2-(NDI-T2)2 conjugated oligomers with ethylhexyl (EH) and octyldodecyl (OD) side chains as a model system, their effects on electron transport are investigated using, among other techniques, atomic force microscopy (AFM), conductive atomic force microscopy (C-AFM), grazing-incidence wide-angle X-ray scattering (GIWAXS), steady-state optical spectroscopy, and time-dependent density functional theory (TDDFT) calculations. The oligomers of both materials exhibit relatively disordered structures in the as-cast state, whereas annealing enhances structural order and leads to side-chain-dependent changes in molecular stacking. EH-based films show a smaller annealing-induced photoluminescence shift than OD-based films, suggesting less pronounced stacking and conformational rearrangements, consistent with TDDFT-supported exciton analysis. The current-voltage characteristics are analyzed using the space-charge-limited current (SCLC) model. After annealing, both materials exhibit improved vertical electron mobility. The EH-based films reach a maximum mobility of 1.2 x 10^-4 cm^2 V^-1 s^-1. The combined results suggest that the shorter EH side chains modify the out-of-plane packing environment and facilitate vertical electron transport. These results establish a structure-property relationship between side-chain structure, molecular order, exciton coupling and vertical mobility, providing a molecular design basis for optimising organic semiconductors through side-chain engineering.",
   "authors": [
@@ -3952,6 +4006,29 @@
   ],
   "updated": "2026-10-23"
  },
+ "2610.32912": {
+  "abstract": "Controlling the folding of biopolymers in crowded and confined environments, such as the interior of biological cells, remains a significant challenge. Macromolecular crowding and spatial confinement can strongly influence transition pathways between folded and unfolded states of proteins. Such environments can be mimicked in experiments by confining polymers within soft, tunable media, such as hydrogels -- cross-linked polymer networks that swell by absorbing solvent and exhibit stimulus-dependent responsiveness. Here, we develop a self-consistent mean-field theory for the equilibrium swelling and internal composition of a hydrogel immersed in a solution of free polymer coils. The theory extends the Flory-Rehner framework by incorporating free polymer coils, modeled as fluctuating ellipsoids, whose sizes and shapes are characterized by the eigenvalues of the gyration tensor. Confinement of the coils within gel pores is characterized by an effective free-volume fraction, parametrized from numerical calculations for self-avoiding-walk chains between hard walls. Coupled chemical potential equilibrium conditions are solved numerically over ranges of coil molecular weight and free polymer concentration. We find that free polymers drive a non-monotonic swelling response of hydrogels, with osmotic swelling at low concentrations followed by deswelling at higher concentrations, in qualitative agreement with experiment. We further demonstrate that confinement within gel pores reduces the radius of gyration and asphericity of embedded polymer coils, driving them toward compact, globular conformations analogous to folded protein states. These results establish a theoretical foundation for using responsive hydrogels as tunable, artificial chaperone-like systems capable of inducing and controlling biopolymer folding.",
+  "authors": [
+   "Mahesh Aryal",
+   "Alan R. Denton"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "14 pages, 11 figures",
+  "first_author": "Mahesh Aryal",
+  "pdf_url": "http://arxiv.org/pdf/2610.32912",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-23",
+  "tags": [
+   "hydrogels"
+  ],
+  "title": "Folding of Free Polymers Under Confinement by Responsive Hydrogels",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-23"
+ },
  "2610.33345": {
   "abstract": "In this perspective article, we introduce elasto-plastocapillarity: surface-tension-driven free-surface flows of yield-stress fluids in which capillary stresses compete with yielding and elastic relaxation. We frame the relevant parameter space, and highlight representative problems (drops, bubbles, jets/filaments, thin films, and porous media) that are central to applications ranging from additive manufacturing and coatings to biological flows. We then outline a set of timely open challenges, including surface-tension measurements, breakdown of scale separation near the microstructures, coupled bulk-interface flow experimental diagnosis, interfacial rheology and surface stresses, history dependence, constitutive models and boundary conditions, reduced theoretical models, and the emerging opportunity provided by artificial intelligence and microgravity; aimed at guiding future experiments, theory, and computation.",
   "authors": [
@@ -3975,6 +4052,121 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-10-23"
+ },
+ "2610.33369": {
+  "abstract": "We investigate whether acoustic stimulation combined with phase-locked optical diffraction tomography (ODT) could measure the mechanical responses of the nucleus and cytoplasm separately in adherent cells. A megahertz ultrasound carrier is amplitude-modulated at low frequencies, while angle-scanned holography provides a route to reconstruct the first-harmonic refractive-index response in three dimensions. We built a computational model connecting viscoelastic finite-element simulations of MDA-MB-231 cells with a refractive-index phantom, hologram formation, camera noise and ODT reconstruction. Under an assumed 0.1 Pa harmonic shear traction at 10 Hz, the model predicts 3.6 to 9.2 nm of nuclear shear and 6.6 to 15.1 nm of apical motion. The nuclear-to-cytoplasmic amplitude ratio (R_A) is primarily sensitive to stiffness contrast in the tested scenarios, while the relative phase (Delta phi) responds to differences in dissipation. A simulated protocol using 100 illumination angles and 16 phase visits per angle recovered an imposed stiffening and recovery trajectory after averaging four acquisitions. We also obtained initial 3D tomograms of adherent MDA-MB-231 cells and report preliminary regional measurements from five cells. Their mean amplitude ratio was 0.616 plus or minus 0.098, and their mean relative phase was -1.91 plus or minus 0.58 degrees (mean and between-cell sample standard deviation). All five amplitude ratios were below unity, and all phase differences were negative, consistent with the qualitative directions of selected model scenarios. The small cohort and the absence of independently quantified experimental phase noise prevent a claim of quantitative mechanical validation. Together, these results support further evaluation of phase-locked acoustic ODT and identify experimental requirements for a controlled validation study.",
+  "authors": [
+   "Yagmur Isik",
+   "Merve Sevgi",
+   "Esmahan Caglar",
+   "Aysenur Akgun",
+   "Hasan Berkay Abdioglu",
+   "Gokhan Bora Esmer",
+   "Huseyin Uvet"
+  ],
+  "categories": [
+   "physics.optics",
+   "q-bio.CB"
+  ],
+  "comment": null,
+  "first_author": "Yagmur Isik",
+  "pdf_url": "http://arxiv.org/pdf/2610.33369",
+  "primary_category": "physics.optics",
+  "published": "2026-10-23",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Contact-Free Nuclear and Cytoplasmic Mechanophenotyping by Amplitude-Modulated Ultrasound and Phase-Locked Optical Diffraction Tomography: Computational Feasibility and Initial Experimental Readouts",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.33459": {
+  "abstract": "Transparent wood (TW) composites possess residual haze that limits image clarity despite their high light transmission, yet the physical origin of this scattering has not been established. Here, polarization-resolved measurements reveal a pronounced polarization dependence of scattering by a wood-polymer composite with improved refractive index matching. Polarization- and spectrally-resolved haze as low as 21% (40-45% at 550 nm for unpolarized light) with transmittance of approximately 92% for polarization perpendicular to the fibers was detected. It is found that the low-haze spectrum closely follows an inverse-square relation over the 400-800 nm range, well described by a weak-index-contrast Rayleigh-Gans-Debye (RGD) model invoking subwavelength birefringent heterogeneities within the cell wall. This physical mechanism was previously obscured by haze-limiting strong scattering from debonding gaps or refraction at the lumen-cell wall interface. Scanning electron diffraction independently reveals spatially distinct domains with markedly different cellulose diffraction responses within the infiltrated cell walls. The observed polarization-dependent refractive-index mismatch is attributed to inherent cellulose birefringence. Time-resolved measurements further support nearly scattering-free quasi-ballistic transport of the sampled transmitted light. It is demonstrated that selecting only a preferential polarization markedly improves image visibility through TW without further material modification. These findings connect polarization-dependent haze to the internal structure of transparent wood and identify ways to engineer a refractive-index match in hierarchical anisotropic composites towards glass-like clarity.",
+  "authors": [
+   "Zheheng Song",
+   "Hui Chen",
+   "Mathias Nero",
+   "Jingjian Zhou",
+   "Ravi Shanker",
+   "Tom Willhammar",
+   "Lars Berglund",
+   "Ilya Sychugov"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": "22 pages, 5 figures",
+  "first_author": "Zheheng Song",
+  "pdf_url": "http://arxiv.org/pdf/2610.33459",
+  "primary_category": "physics.optics",
+  "published": "2026-10-24",
+  "tags": [
+   "composites"
+  ],
+  "title": "Polarization-resolved haze in transparent wood - towards wooden glass",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-10-24"
+ },
+ "2610.33682": {
+  "abstract": "Aqueous dispersions of hydrophobic carbon black (CB) particles can be stabilized by carboxymethylcellulose (CMC), forming CB-CMC hydrogels whose microstructure is controlled by the relative CB-to-polymer content. At low CMC content, CB particles form a percolated, electrically conductive network, whereas at higher polymer content, CB particles act as isolated physical crosslinkers within an electrically insulating polymer matrix [see Legrand \\textit{et al.}, Macromolecules 56, 2298-2308 (2023)]. Combining rheology and electrical impedance spectroscopy, we show that these two regimes exhibit markedly different aging dynamics. Conductive hydrogels exhibit logarithmic elastic recovery associated with a percolated CB network, whereas insulating hydrogels exhibit a combination of logarithmic and power-law stiffening, accompanied by dielectric polarization associated with confined ionic motion. The insulating hydrogels further exhibit a time-aging superposition principle, as their viscoelastic spectra measured in a time-resolved fashion can collapse onto a single master curve. Under steady shear, the viscoelastic response measured perpendicular to the flow also obeys a time--shear-rate superposition principle. Remarkably, the scaling between the shift factors under shear is reminiscent of critical-gel behavior, unlike that observed during aging at rest. Finally, time-resolved rheo-USAXS measurements performed during shear-rate cycles reveal structural rearrangements of CB particles and clusters that correlate with rheological hysteresis. These results provide a microstructural basis for understanding the nonlinear rheology of insulating CB-CMC hydrogels and establish generalized superposition principles as a unifying framework for their aging and flow behavior.",
+  "authors": [
+   "Gauthier Legrand",
+   "Guilhem P. Baeza",
+   "Jarno L. Waeterloos",
+   "Christian Clasen",
+   "Sébastien Manneville",
+   "Thibaut Divoux"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "physics.app-ph"
+  ],
+  "comment": "18 pages, 12 figures",
+  "first_author": "Gauthier Legrand",
+  "pdf_url": "http://arxiv.org/pdf/2610.33682",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-24",
+  "tags": [
+   "hydrogels",
+   "mechanical-properties",
+   "polymer-morphology",
+   "rheology",
+   "spectroscopy"
+  ],
+  "title": "Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-24"
+ },
+ "2610.33981": {
+  "abstract": "Tau-amyloid-$β$ cross-seeding creates a spatial paradox. Bioavailable tau can promote A$β$42 nucleation, thereby increasing local fibril number and catalytic-site burden; yet the same fibrils consume the free A$β$ monomer required for homotypic secondary nucleation. The region containing the most tau or fibrillar material therefore need not be the region with the highest secondary-nucleation rate. We test this idea with a reaction-diffusion model that tracks a propagating effective tau catalyst, free A$β$ monomer, elongation-competent fibrils, fibril mass, and the catalytic sites exposed to monomer. The model reduces the spatial competition to two quantities: accessible catalytic sites and free monomer. Their balance yields an exact condition for an interior kinetic maximum: the logarithmic decrease in accessible catalytic sites must equal twice the logarithmic increase in free monomer. Two Damkohler numbers then separate the relevant competitions-elongation versus clearance, and elongation versus diffusive redistribution-while a monomer screening length sets the physical scale over which depletion can persist. Independent transport and turnover estimates place this length near 0.44-0.54 mm. Simulations show that tau first raises secondary nucleation near its source; continued fibril growth then produces a monomer-depleted wake, and the maximum shifts to a region with fewer catalytic sites but more available monomer. Oligomer transport and sustained reversible exchange can weaken or eliminate this contrast, whereas growth-history-dependent site density can strengthen it. The robust prediction is therefore a spatial separation among tau burden, fibril-mass growth, and instantaneous A$β$ secondary-nucleation activity, rather than a universal hotspot speed.",
+  "authors": [
+   "Andrey V. Kuznetsov"
+  ],
+  "categories": [
+   "q-bio.SC"
+  ],
+  "comment": null,
+  "first_author": "Andrey V. Kuznetsov",
+  "pdf_url": "http://arxiv.org/pdf/2610.33981",
+  "primary_category": "q-bio.SC",
+  "published": "2026-10-25",
+  "tags": [
+   "catalyst-design",
+   "diffusion-model"
+  ],
+  "title": "Tau creates spatially moving hotspots of amyloid-$β$ secondary nucleation: a reaction-diffusion model",
+  "topics": [
+   "Generative Design & Inverse Design"
+  ],
+  "updated": "2026-10-25"
  },
  "2610.34014": {
   "abstract": "This paper presents a novel framework for simulating load-transfer mechanisms in nanocomposites reinforced by thin, stiff, and prestressed reinforcements, such as, e.g., nanosheets or nanoplatelets. The reinforcements are modeled as open material surfaces treated as membranes endowed with their own elastic properties and residual surface tension; the matrix is assumed to be isotropic elastic. In the two-dimensional plane-strain setting considered here, each material surface is represented by a sufficiently smooth curve of otherwise arbitrary shape. The theoretical part of the framework is based on the Gurtin--Murdoch theory in which the surfaces are represented by traction jumps across them. The elastic fields in the matrix are exactly expressed by the integral representations written in terms of the unknown traction jumps that are functions of the second-order derivatives of the displacements. The computational part is based on the isogeometric boundary element method (IGABEM) that utilizes non-uniform rational B-splines (NURBS). The unknown traction jumps are found from the numerical solutions of the coupled system of singular boundary integral equations, after which the elastic fields in the matrix are evaluated. The procedure of extracting the values of the stress intensity factors (SIFs) at the tips of the surfaces is described. The proposed algorithm is validated against available benchmark solutions for multiple surfaces located along either straight segments or circular arcs. Selected parametric studies are performed to examine the influence of surface curvatures, relative spacing, orientation, and interactions. An example involving a graphene nanoplatelet-reinforced epoxy is presented.",
@@ -4030,5 +4222,571 @@
    "Conducting, Responsive & Compartment Polymers"
   ],
   "updated": "2026-10-25"
+ },
+ "2610.34472": {
+  "abstract": "Slender concrete columns reinforced with fiber-reinforced polymer (FRP) bars fail at medium to high axial load levels either by concrete crushing or by loss of stability, while the tensile strains in the reinforcement remain far below the rupture strain. Each non-linear finite element (FE) analysis yields only the capacity of the governing failure mode, and the governing mode changes over a broad zone in which both capacities are nearly equal. Both characteristics conflict with active-learning Kriging-assisted Monte Carlo simulation (AK-MCS), which assumes a single, smooth limit-state function. This paper proposes a piecewise, two-branch AK-MCS framework in which each failure mode is represented by its own Kriging model, trained only on the FE analyses in which that mode governs, and the governing prediction is the minimum of both. Safeguards against data starvation keep rarely governing branches usable. After convergence, additional FE analyses are placed based on a leave-one-out calibration check and on the width of the confidence interval on the reliability index. A design-point search on the surrogate and importance sampling at the design points provide the reliability index even where direct Monte Carlo simulation finds no failure. For an FRP-reinforced concrete column example with mixed failure, 79% and 62% of the training points lie near the mode boundary. The reliability index from the design-point search agrees with the Monte Carlo estimate to within 0.05, and an FE analysis at the design point confirms the surrogate to within 0.6%.",
+  "authors": [
+   "Arndt Goldack",
+   "Richard Koehler",
+   "Ahmed Usama Syed"
+  ],
+  "categories": [
+   "cs.CE",
+   "stat.AP",
+   "stat.CO"
+  ],
+  "comment": "22 pages, 5 figures",
+  "first_author": "Arndt Goldack",
+  "pdf_url": "http://arxiv.org/pdf/2610.34472",
+  "primary_category": "cs.CE",
+  "published": "2026-10-25",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Reliability Assessment of FRP-RC Columns Using AK-MCS with a Piecewise Two-Branch Approach",
+  "topics": [
+   "Generative Design & Inverse Design",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-25"
+ },
+ "2610.34864": {
+  "abstract": "Fluorescence from fluorophore-polymer overlayers reflects an interplay between molecular photo-physics and thickness dependent optical propagation. Combining spectrally resolved single mole-cule measurements, transition dipole moment orientation analysis and ensemble fluorescence, we show that structurally and photophysically distinct fluorophores can exhibit similar red shifted emission profiles under thick polymer overlayers even without additional reflecting surface. This similarity indicates a common optical transfer function imposed by the overlayer rather than a pure-ly fluorophore specific molecular response. Although local molecular interactions, excited state dy-namics and vibronic coupling govern intrinsic emission, the overlayer modifies detected spectra through refractive index contrast, dielectric boundary reflections, cavity effects and collection ge-ometry. Vibronic energy spacing distributions remain largely preserved as thickness changes, whereas spectral positions and relative intensities vary systematically. Thus, polymer thickness pri-marily reshapes detected spectrum through optical propagation and outcoupling while retaining vi-brational modes. Time dependent density functional theory identifies candidate Franck-Condon and Herzberg-Teller active dye modes contributing to spectral fluctuations and dipole reorientation.",
+  "authors": [
+   "Vinayak Kumar Tiwari",
+   "Srishti Batra",
+   "Aranyak Sarkar",
+   "Vinu Namboodiri",
+   "Ravindra Venka-tramani",
+   "Manoj Kumbhakar"
+  ],
+  "categories": [
+   "physics.optics",
+   "physics.chem-ph"
+  ],
+  "comment": "102 Pages, 46 Figures, 39 Tables",
+  "first_author": "Vinayak Kumar Tiwari",
+  "pdf_url": "http://arxiv.org/pdf/2610.34864",
+  "primary_category": "physics.optics",
+  "published": "2026-10-26",
+  "tags": [],
+  "title": "Why Emission Spectral Profile of Diverse Fluoro-phores Look Alike with Thick Polymer Overlayers?",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.35481": {
+  "abstract": "We examine the linear stability and nonlinear evolution of a heated falling film containing a soluble surfactant and a weakly viscoelastic liquid. The stress response is described by the short-memory Walters model, while surface tension depends on temperature and surface concentration. An Orr--Sommerfeld analysis and its long-wave limit determine how elastic memory and the two Marangoni stresses enter the instability threshold. A five-field weighted-residual model is then derived to describe finite-amplitude disturbances. The bulk and surface transport equations are written with compatible fluxes, which conserve their combined projected surfactant inventory in a periodic domain. The numerical examples show that solutal Marangoni stress suppresses disturbance growth and reduces the amplitude of the nonlinear waves. Thermal Marangoni stress increases the maximum growth rate, although its effect on the width of the unstable wavenumber band is different. Elastic memory changes both the onset and the finite-wavelength response. The nonlinear profiles develop a main hump and capillary ripples, accompanied by variations in bulk concentration, surface concentration, and interfacial temperature. These results describe the competition between thermocapillary forcing, surfactant redistribution and elastic stress within the retained long-wave model. The larger elastic parameters are interpreted as formal predictions of the truncated constitutive equations, rather than as a controlled extension to strongly elastic flow.",
+  "authors": [
+   "Sanghasri Mukhopadhyay",
+   "Severine Millet",
+   "Bastien Di Pierro",
+   "Asim Mukhopadhyay"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Sanghasri Mukhopadhyay",
+  "pdf_url": "http://arxiv.org/pdf/2610.35481",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-10-26",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Thermosolutal Marangoni instabilities in a weakly viscoelastic falling film with soluble surfactant",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.35769": {
+  "abstract": "Self-intersection local times serve as the Hamiltonian in the Gibbs measure of continuous polymer models, for which the end-to-end distance is a key quantity. We study multiple self-intersection local times of Volterra Gaussian bridges, \\emph{i.e.}, Volterra Gaussian processes conditioned on their final location $a$, as $\\|a\\|\\to\\infty$. For $d$-dimensional $(2,ζ)$-locally nondeterministic processes with $ζ\\in(0,2/d)$, we prove that these local times exist in every $L^p$. Under two further conditions on the kernel, the $p$-th moment of the $m$-multiple self-intersection local time of the bridge is of exact order $\\|a\\|^{-γ}$ for every integer $p\\geqslant1$, with $γ=p(m-1)(2-ζd)/(2-ζ)$. In the plane, for kernels $k(t-s)$ with $k(0)\\neq0$ and under strong local nondeterminism, we restrict the double self-intersection local time to $\\{t_2-t_1\\geqslant\\|a\\|^{-α}\\}$, $α>0$, and establish a phase transition: its expectation decays like $\\exp(-c\\|a\\|^{2-α})$, converges to an explicit positive limit, or grows logarithmically, for $α<2$, $α=2$ and $α>2$ respectively.",
+  "authors": [
+   "Olga Izyumtseva",
+   "Wasiur R. KhudaBukhsh"
+  ],
+  "categories": [
+   "math.PR",
+   "math-ph",
+   "math.FA"
+  ],
+  "comment": "37 pages, no figures",
+  "first_author": "Olga Izyumtseva",
+  "pdf_url": "http://arxiv.org/pdf/2610.35769",
+  "primary_category": "math.PR",
+  "published": "2026-10-26",
+  "tags": [],
+  "title": "Self-intersection local times of Volterra Gaussian bridges with large end-to-end distance",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.35946": {
+  "abstract": "Designing sustainable alloys must reconcile high performance with real-world constraints, including feedstock scarcity and variability, processing and energy requirements, regulatory thresholds, and economic limitations. Addressing these constraints reaches far beyond today's conventional performance-focused frameworks. It needs to consider not only complex property-processing-performance trade-offs but also sustainable production pathways. Here, we propose a physics-informed ensemble (PIE) learning framework that integrates fundamental structure-property relationships with processing routes and sustainability criteria for mechanism-based alloy design. It predicts properties from composition-microstructure relationships and infers processing routes under sustainability constraints, establishing an interdisciplinary approach to identifying sustainable alloy solutions. We validate the approach for Mg alloys, a lightweight yet energy-intensive metallic material class, considering performance, cost, and carbon emissions. Trained on a benchmark dataset, the PIE model systematically explores plausible alloy compositions and microstructures to construct a digital library of millions of candidate alloys. From this space, we identify two sustainable Mg alloy solutions that overcome the conventional performance-cost-emission trade-off: a rare-earth-containing alloy increases yield and tensile strength by 72.8 percent and 61.1 percent, respectively, over alloys from the same family at comparable cost and emissions; and a rare-earth-free alloy reduces cost and carbon emissions by 40.4 percent and 88.9 percent, respectively, relative to its primary-feedstock counterpart, without compromising mechanical performance. This work introduces a general, physics-informed, and quantifiable framework for designing sustainable alloys under real-world constraints.",
+  "authors": [
+   "Quan Li",
+   "Zhilong Wang",
+   "Lei Shi",
+   "Baojing Feng",
+   "Changhui Liu",
+   "Jie Wang",
+   "Jingya Wang",
+   "Weisen Zheng",
+   "Matic JovicevicKlug",
+   "Ziyuan Rao",
+   "Jinjin Li",
+   "Dierk Raabe",
+   "Xiaoqin Zeng"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "26 pages",
+  "first_author": "Quan Li",
+  "pdf_url": "http://arxiv.org/pdf/2610.35946",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-10-23",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Machine learning enabled design of sustainable alloys considering real world constraints",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-23"
+ },
+ "2610.36005": {
+  "abstract": "This paper focuses on the numerical and analytical determination of the mechanical parameters of aluminum-matrix nanocomposites using atomistic-scale simulations within a multiscale modeling framework. Molecular statics simulations were employed to evaluate the tensile and compressive behavior of Al based composites reinforced with nanosized alumina particles. Two classes of atomistic models were investigated. First, a unit-cell model containing a single Al2O3 monocrystal embedded in an aluminum matrix was used to examine the influence of the volume fraction of the ceramic inclusion on the effective mechanical properties. Second, a polycrystalline RVE model comprising an alumina particle was analyzed to assess the effect of the number of Al grains on effective properties. For each case, the mechanical response was characterized by stress-strain curves, enabling the identification of upper-scale material parameters associated with the elastic regime (bulk, shear and Young's modulus) and the damage stage (ultimate strength, ultimate strain, and failure strain). The isotropized elastic constants evaluated from molecular simulations were compared with classical Voigt-Reuss-Hill bounds to assess their applicability in the elastic regime. Finally, atomistic-scale simulation outputs provided insight into the dominant deformation/damage mechanisms (brittle versus ductile) and fracture modes (transgranular versus intergranular).",
+  "authors": [
+   "Bartosz Bucholc",
+   "Marcin Maździarz",
+   "Szymon Nosewicz"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cond-mat.mes-hall",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "50 pages, 15 figures",
+  "first_author": "Bartosz Bucholc",
+  "pdf_url": "http://arxiv.org/pdf/2610.36005",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-10-26",
+  "tags": [
+   "composites",
+   "mechanical-properties",
+   "multiscale-modeling",
+   "nanocomposites"
+  ],
+  "title": "Evaluation of upper-scale mechanical parameters of particulate aluminum-based nanocomposites from molecular simulations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.36318": {
+  "abstract": "Swarmalators are particles which have internal degrees of freedom in the form of phase oscillators that can synchronize and change the dynamics of the particles. We explore the active matter disk swarmalator model proposed by Adorjáni [Phys. Rev. E 109, 024607 (2024)] where there is an additional attraction or repulsion determined by whether the phases of particles within a certain radius synchronize or anti-synchronize. This model in the absence of swarmalator rules forms a motility-induced phase-separated (MIPS) state at high activity, but when the swarmalator rules are present, a number of additional states appear including an active gel, labyrinth state, frustrated MIPS, and frustrated fluid states. Here we examine ratchet effects for the Adorjáni model coupled to asymmetric substrates. We find that swarmalator interactions can strongly enhance or suppress active matter ratcheting depending on the structural state of the system, and show that the ratchet efficiency depends on the substrate strength, substrate lattice spacing, and the motor force on the particles. The gel state exhibits the weakest ratcheting for small substrate spacing and can even produce a reversed ratchet motion, but shows the strongest ratcheting for large motor forces. The labyrinth state exhibits the strongest ratcheting over a wide range of parameters since the quasi-one-dimensional labyrinth morphology can match the substrate geometry well.",
+  "authors": [
+   "B. Albert",
+   "A. Libal",
+   "C. J. O. Reichhardt",
+   "C. Reichhardt"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "13 pages, 17 figures",
+  "first_author": "B. Albert",
+  "pdf_url": "http://arxiv.org/pdf/2610.36318",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-10-26",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "Ratchet Effects for Swarmalators on Asymmetric Substrates",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.36349": {
+  "abstract": "Nearly incompressible materials arise in soft tissues, elastomers, gels, and other soft solids. Yet, numerical modeling remains challenging because displacement-based formulations can exhibit volumetric locking near incompressibility. Mixed displacement-pressure formulations address this difficulty but require compatible approximation spaces satisfying the inf-sup condition. In mixed formulations, discontinuous pressure spaces are attractive since pressure degrees of freedom can be condensed locally. In high-order isogeometric analysis, however, their Galerkin stability requires pressure-grid coarsening that increases with polynomial degree. Here, we develop a variational multiscale (VMS) stabilized mixed isogeometric formulation that retains this locality while substantially relaxing the restriction. The key observation is that VMS stabilization controls nonconstant elementwise pressure modes and is unconditionally stable with respect to its parameter, provided the elementwise constant pressure component satisfies the inf-sup condition. Consequently, for maximally continuous displacement splines, a pressure grid coarsened by a factor of two satisfies the constant-mode inf-sup criterion independently of polynomial degree. Local condensation then yields a displacement-only system, facilitating use in existing displacement solvers. The formulation is further extended to immersed isogeometric analysis with extended B-splines, pressure-cell aggregation, subdivision-based cut-cell quadrature, and weak enforcement of essential boundary conditions. Discrete inf-sup studies and convergence analyses in the Kirsch and Cook's membrane benchmarks demonstrate stability and show that the immersed treatment preserves mixed stability properties. The proposed framework therefore provides a local, high-order, and robust approach for nearly incompressible problems in mesh-conforming and immersed settings.",
+  "authors": [
+   "Ashkan Ali Madadi",
+   "Thomas J. R. Hughes"
+  ],
+  "categories": [
+   "cs.CE",
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Ashkan Ali Madadi",
+  "pdf_url": "http://arxiv.org/pdf/2610.36349",
+  "primary_category": "cs.CE",
+  "published": "2026-10-26",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "A Local Stabilized Isogeometric Formulation with Discontinuous Pressure for Mesh-Conforming and Immersed Analysis of Nearly Incompressible Elasticity",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-10-26"
+ },
+ "2610.36482": {
+  "abstract": "To address the complex interplay of microstructural evolution, phase separation, superconductivity coherence and quantum fluctuations, we prepared Cuxwt%Nb series of granular samples by rapidly cooling, where the niobium concentration varied (x = 3, 5, 15, 20). By employing this method, we successfully obtained samples characterized by well-defined precipitates of niobium, featuring regular sizes and grain spacing. The goal was to establish a systematic and robust method approach for obtaining samples with different of sub-micrometric precipitates distributions but also to investigate their superconducting properties. Structural characterization by optical and Scanning Electron Microscopy, dc Mdc[H,T] ac inductive , as well the magneto-transport measures rhodc[H,T], Rdc[V,I.H,T], I[V,H,T] and [H,T,I] were done. Also, using a micro Hall sensor with 10 measuring transverse voltage bridges regularly distributed, we were able to obtain the real external applied magnetic field value inside of the chamber sample space. Thus e studied the dependence of configuration of the Nb grains in the superconducting coupling order parameter properties that connects the grains superconductors to the normal Cu matrix. We verify through magnetization and transport measures the signature of the double transition. This, when we apply current of different intensities, in the transport measures, and different field values, in the inductive measures. This behavior is an indication that our system is made up of by a collection of superconducting grains immersed in a well-organized in a non-superconducting matrix. The results indicate that the superconducting properties of these systems are manifested usually through two transition temperatures Tc(H) e TcJ(H).",
+  "authors": [
+   "R. L. de Almeida",
+   "J. Albino Aguiar",
+   "J. A. H. Coaquira"
+  ],
+  "categories": [
+   "cond-mat.supr-con"
+  ],
+  "comment": "Preprint; 3D Josephson junction arrays; granular superconductivity; Cu-Nb alloys, 26 figures",
+  "first_author": "R. L. de Almeida",
+  "pdf_url": "http://arxiv.org/pdf/2610.36482",
+  "primary_category": "cond-mat.supr-con",
+  "published": "2026-10-27",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Nano-Nb Superconducting 3D Josephson Junctions Arrays in Cu-Normal Matrix: Superconducting Phase Coherence and Quantum Fluctuations Properties",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.36515": {
+  "abstract": "Learned flow surrogates are applied recursively, so errors in phase, amplitude and transport accumulate as each prediction feeds the next. During training, however, the realized next state is known. We propose Future-Aligned Motion Inference for Recursive Physical Forecasting (FAMIR), which uses this realized future to shape the signal that drives the update, not only the predicted state. On the latent grid of a frozen autoencoder, a future-conditioned teacher and a history-only student infer motion tensors that condition one shared residual transition. Posterior--Prior Motion Alignment (PPMA) jointly aligns the teacher (posterior) and student (prior) motions, prediction-fed multistep objectives train the student on its own rollouts, and only the student is deployed. On viscoelastic channel flow, Rayleigh--Bénard convection and planetary shallow-water flow, FAMIR achieves lower complete-prefix normalized root-mean-square error than three direct latent predictors of comparable size and a delay-embedded linear reference at ten steps (1.003\\%, 1.055%, 0.620%) and twenty steps (1.661%, 1.683%, 1.036%). Its advantage is largest at the first step in the viscoelastic flow and grows with lead time in the other flows. Over forty-step forecasts, FAMIR keeps fluctuation profiles and probability densities closer to the reference than the direct predictors. Without the teacher, the motion-conditioned student already outperforms the direct predictors; in the shallow-water flow, prediction-fed rollouts are decisive and joint alignment is far more effective than distillation toward a fixed teacher (1.036% against 1.874%). Fixed-state interventions show that the trained update relies on the state-specific motion, and the deployed student matches the one-step accuracy of the future-informed teacher.",
+  "authors": [
+   "Yuxuan Chen",
+   "Yan Wang",
+   "Haotian Cheng",
+   "Hongna Zhang",
+   "Wenhua Zhang",
+   "Yuke Li",
+   "Xiaobin Li",
+   "Fengchen Li"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": "29 pages, 11 figures, 3 tables",
+  "first_author": "Yuxuan Chen",
+  "pdf_url": "http://arxiv.org/pdf/2610.36515",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-10-27",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "FAMIR: Future-aligned latent dynamics for complex-flow forecasting",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37020": {
+  "abstract": "Mechanical stress is one of the main characteristics of viscoelastic molecular systems, including vitrifying liquids and amorphous solids which are known to show long-range dynamical heterogeneities. It is therefore important to deal with time- and space-resolved local stress whose correlations can be used to obtain viscoelastic memory functions of such systems, in particular, their wave-vector dependent shear and compression relaxation moduli. However, such memory functions are not directly accessible within standard molecular dynamics (MD) simulations. Here we discuss a new method called the constrained molecular dynamics (CMD) which allows for a direct evaluation of the wave-vector and time dependent viscoelastic moduli. The study is focused, in particular, on the stability analysis of different variants of the CMD, revealing the most efficient stabilization algorithm. Our theoretical predictions for the time-dependence of the most important parameters (like the wave-vector resolved mass current) during the stabilization stage are compared with the simulation data using different CMD algorithms. An excellent agreement is observed, thus confirming the validity of our theoretical approach and its ability to accurately predict the most important initial part of CMD trajectories.",
+  "authors": [
+   "Olivier Benzerara",
+   "Jörg Baschnagel",
+   "Alexander N. Semenov"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "34 pages, 4 figures",
+  "first_author": "Olivier Benzerara",
+  "pdf_url": "http://arxiv.org/pdf/2610.37020",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-27",
+  "tags": [
+   "mechanical-properties",
+   "molecular-dynamics"
+  ],
+  "title": "The constrained molecular dynamics (CMD) to obtain spatio-temporal memory functions of viscoelastic liquids: stability analysis of equations of motion",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37076": {
+  "abstract": "The structural accessibility and perimeter shell properties of branched macromolecules are studied using Monte Carlo simulations on a simple cubic lattice. Constituent polymer chains of these macromolecules are constructed in an algorithmic way as: a set of collinear monomers; a self-avoiding walk (SAW); tigthly packed monomers. These mimic the ground states for a rigid rod, flexible chain, and collapsed chain conformational states, respectively. We analyzed the set of observables that are related to adsorption, such as perimeter shell size (number of available sites for particle adsorption) per monomer $\\langle \\bar{n}_a \\rangle$, mean coordination number of perimeter shell $\\langle n_{\\rm bond} \\rangle$ (average number of contacts per adsorbed particle), and coordination accessibility per monomer $\\langle \\bar{n}_s \\rangle$. Our results demonstrate that branching reduces the perimeter shell size while it increases mean coordination number of perimeter shell across all conformational states, due to higher local monomer density near branching cores and formation of shared adsorption sites or microcages. Stiff extended structures yield the highest values for $\\langle \\bar{n}_a \\rangle$ (approaching $4$ in the limit of long chains), whereas the flexible ones provide the largest values for $\\langle n_{\\rm bond} \\rangle$. We can note that the collinearity of monomers in constituent chains works in the same direction as reduction of branching ($\\langle \\bar{n}_a \\rangle$ grows), whereas the { tight packing of them} -- in the same direction as the increase of branching ($\\langle \\bar{n}_a \\rangle$ decreases)",
+  "authors": [
+   "Viktoria Blavatska",
+   "Jaroslav Ilnytskyi"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Viktoria Blavatska",
+  "pdf_url": "http://arxiv.org/pdf/2610.37076",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-27",
+  "tags": [
+   "monte-carlo"
+  ],
+  "title": "Perimeter shell properties of branched polymer adsorbents in various conformational states",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37193": {
+  "abstract": "We carried out molecular dynamics simulations of a mixture of self-propelled particles (SPPs) and passive particles. When the self-propulsion speed was sufficiently high, the system separated into two phases. One phase consists of ordered passive particles, and the other is a disordered mixture of both particle types. The separation arises from the interplay between the self-propelled motion of SPPs and thermal motion of the passive particles, since phase separation does not appear with either particle type alone. As the self-propulsion speed increases, the SPPs push surrounding particles away, effectively increasing their excluded size. As a result, the increase in the effective excluded sizes promotes the accumulation of passive particles and the segregation of SPPs into the dilute phase through a mechanism analogous to the depletion interaction. This mechanism explains the phase separation observed in the present study. Our findings provide insights into the potential applications of SPPs and contribute to our understanding of natural systems composed of elements with different levels of motility.",
+  "authors": [
+   "Reo Arakaki",
+   "Tetsuya Hiraiwa",
+   "Ryo Akiyama"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "10 pages, 10 figures",
+  "first_author": "Reo Arakaki",
+  "pdf_url": "http://arxiv.org/pdf/2610.37193",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-27",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Phase Separation in a Mixture System of Active and Passive Particles",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37213": {
+  "abstract": "Macromolecular pool fraction (MPF) is a quantitative imaging biomarker sensitive to myelin integrity and other changes in tissue macromolecular content, but specialized acquisitions and reconstruction methods limit its use in large-scale studies. We present a physics-guided, self-supervised deep learning framework for retrospectively estimating MPF directly from conventional clinical brain MRI ($T_1$-weighted, $T_2$-weighted, and fluid-attenuated inversion recovery [FLAIR]) without paired quantitative reference scans. The framework embeds an analytical two-pool magnetization transfer signal model that related sequence-averaged radiofrequency transmit power to apparent longitudinal relaxation. To accommodate heterogeneous clinical protocols, the network conditions intermediate features on acquisition parameters via adaptive instance normalization. It was trained and evaluated on a multisite, multivendor, multiprotocol dataset of 7,705 MRI sessions (3 T). Across 1,237 test sessions, mean MPF was $0.182 \\pm 0.007$ in white matter and $0.144 \\pm 0.009$ in gray matter, with limited variation across vendor-by-protocol groups (between-group coefficient of variation: 2.65% and 5.63%, respectively). In 70 sessions with demyelinating-disease labels, MPF was 35.6% lower in segmented lesions than in normal-appearing white matter. MPF maps from two different clinical protocols acquired in a healthy volunteer showed a mean voxel-wise absolute percentage difference of 7.7% and a concordance correlation coefficient of $0.888$, indicating good cross-protocol consistency. These results suggest that magnetization transfer-informed self-supervised learning enables stable MPF mapping from conventional clinical MRI, providing a scalable approach to investigate demyelinating pathology in both existing imaging archives and prospectively acquired conventional clinical scans without dedicated qMT acquisitions.",
+  "authors": [
+   "Jelmer van Lune",
+   "Miha Fuderer",
+   "Oscar van der Heide",
+   "Matteo Maspero",
+   "Martin B. Schilder",
+   "Jan Willem Dankbaar",
+   "Stefano Mandija",
+   "Alessandro Sbrizzi"
+  ],
+  "categories": [
+   "physics.med-ph",
+   "cs.CV",
+   "cs.LG"
+  ],
+  "comment": "38 pages, 24 figures",
+  "first_author": "Jelmer van Lune",
+  "pdf_url": "http://arxiv.org/pdf/2610.37213",
+  "primary_category": "physics.med-ph",
+  "published": "2026-10-27",
+  "tags": [],
+  "title": "Retrospective macromolecular pool fraction mapping from conventional clinical MRI: a physics-guided self-supervised deep learning framework",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37322": {
+  "abstract": "Metamaterials expand the range of accessible macroscopic responses through architectural design. Here, a cross-scale design strategy is introduced that combines microscopic control of static constitutive properties with spectral engineering through macroscopic architecture. Beyond shaping frequency-dependent responses, this strategy modifies the corresponding broadband performance bounds in passive systems by engineering the static parameters entering causal constraints. The concept is realized in granular activated carbon, where reversible sorption enhances equilibrium compressibility. Extrapolation of a multiscale model supported by low-frequency measurements to the zero-frequency limit yields an effective static bulk modulus approximately half the conventional nonsorbing isothermal reference value. This reduction substantially lowers the corresponding causal minimum-thickness bound for rigidly backed absorbers. A cascaded hierarchical composite architecture further redistributes absorption toward the target frequency band, achieving near-perfect absorption with a normal-incidence absorption coefficient above 0.9 across most of the 40--6400 Hz range. Together, static constitutive control and macroscopic spectral design enable ultrabroadband sound absorption beyond the conventional isothermal thickness benchmark without violating causality. This strategy offers a new approach to extending the attainable performance of metamaterials.",
+  "authors": [
+   "Zhongjian Mei",
+   "Chuanhao Ge",
+   "Nengyin Wang",
+   "J. Stuart Bolton",
+   "Tongyang Shi",
+   "Yong Li",
+   "Jun Yang"
+  ],
+  "categories": [
+   "physics.app-ph"
+  ],
+  "comment": null,
+  "first_author": "Zhongjian Mei",
+  "pdf_url": "http://arxiv.org/pdf/2610.37322",
+  "primary_category": "physics.app-ph",
+  "published": "2026-10-27",
+  "tags": [
+   "benchmarking",
+   "composites"
+  ],
+  "title": "Microscopic constitutive freedom in metamaterials",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37606": {
+  "abstract": "The behavior of biomolecular complexes is governed by chemically specific interactions and often involves rare events that atomistic molecular dynamics struggle to capture within accessible timescales. Here we introduce AMARO v2.0, a coarse-grained neural network potential that retains all heavy atoms and treats solvent implicitly. Hydrogen-aware bead types and total-charge conditioning provide a shared representation for proteins, drug-like molecules, and their complexes, including ternary protein-protein-ligand systems. The model preserves folded proteins and captures key features of protein conformational free-energy landscapes. Across 262 complexes spanning 11 targets, the learned potential retains most ligand poses, although quaternary structure reorientation is observed for the HIF2A ternary complex. In targeted case studies, AMARO v2.0 distinguishes the two protonation states of trypsin-benzamidine and reaches the crystal binding pose in 3.3-fold more trajectories than all-atom molecular mechanics at a fixed estimated GPU-time budget. The same framework also recovers a reference binding pose in TYK2 and supports binding free-energy estimation for both trypsin-benzamidine and TYK2-EJM31, although the resulting values are more energetically favorable than the experimental references. SHP2 and CDK8 systems expose remaining limitations in binding-pose recovery and site specificity, respectively. Together, these results support AMARO v2.0 as a shared heavy-atom potential for biomolecular complex dynamics.",
+  "authors": [
+   "Antonio Mirarchi",
+   "Stephen E. Farr",
+   "Adrià Peréz",
+   "Gianni De Fabritiis"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": null,
+  "first_author": "Antonio Mirarchi",
+  "pdf_url": "http://arxiv.org/pdf/2610.37606",
+  "primary_category": "q-bio.BM",
+  "published": "2026-10-27",
+  "tags": [
+   "coarse-grained",
+   "mlff",
+   "molecular-dynamics"
+  ],
+  "title": "A unified coarse-grained neural network potential for the dynamics of biomolecular complexes",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.37812": {
+  "abstract": "Self-propelled particles moving through structured anisotropic media such as smectic liquid crystals exhibit transport properties that differ qualitatively from those in isotropic environments. Here we introduce a minimal model of an active Brownian particle whose propulsion axis is coupled to the layer-normal field of a smectic liquid crystal. Using numerical simulations complemented by approximate analytical calculations, we investigate the dynamics of an active particle in three representative two-dimensional smectic microstructures: a uniform planar texture, an isolated toroidal focal conic domain, and a periodic array of toroidal focal conic domains. For the planar and isolated focal-conic geometries, we characterize the crossover from short-time superdiffusion to long-time normal diffusion. In periodic focal-conic arrays, however, transport is controlled by two distinct persistence mechanisms whose relative importance depends on the Péclet number ($\\mathrm{Pe}$) and the coupling strength $\\varepsilon$ between the particle orientation and the smectic layer-normal field. At small $\\varepsilon$, long-time diffusion is governed by the intrinsic persistence time of the active Brownian dynamics. At large $\\varepsilon$, repeated scattering by smectic defects generates an emergent persistence time that dominates the transport. These results demonstrate that the competition between the intrinsic persistence of active motion and the mean free time between encounters with smectic defects provides a simple physical mechanism for the emergence of nontrivial diffusive behavior in structured anisotropic media.",
+  "authors": [
+   "Yhony M. Arce",
+   "William G. C. Oropesa",
+   "Alef R. Siqueira",
+   "Hartmut Löwen",
+   "André P. Vieira",
+   "Danilo B. Liarte"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 7 figures (5 pdf and 2 png)",
+  "first_author": "Yhony M. Arce",
+  "pdf_url": "http://arxiv.org/pdf/2610.37812",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-27",
+  "tags": [],
+  "title": "Geometry-controlled active transport in smectic textures",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-27"
+ },
+ "2610.38166": {
+  "abstract": "We develop a rigorous mathematical framework for the nonequilibrium thermodynamics of semilinear stochastic partial differential equations. The invariant Gaussian measure of the associated Ornstein-Uhlenbeck process, which need not be time-reversible, serves as the reference measure. We define thermodynamic quantities in terms of probability densities and derive the entropy balance equation. We obtain explicit expressions for the entropy production rate and prove that its vanishing in the stationary state is equivalent to time reversibility. Sample-path entropy production is identified with the logarithm of the Radon-Nikodym derivative of the forward path measure with respect to the time-reversed path measure and is shown to satisfy fluctuation theorems. For nonstationary systems, sample-path entropy production decomposes into housekeeping heat and free-energy dissipation, each satisfying an integral fluctuation theorem. Both have nonnegative expectations, and the mean free-energy dissipation equals the decrease in relative entropy with respect to the stationary distribution. The theory is applied to semilinear stochastic heat equations with spatially correlated noise, a random polymer model, a nonlinear model with a divergence-free drift, and two coupled stochastic heat equations in contact with heat baths at different temperatures.",
+  "authors": [
+   "Zelin Liu",
+   "Hao Ge"
+  ],
+  "categories": [
+   "math-ph",
+   "cond-mat.stat-mech",
+   "math.PR"
+  ],
+  "comment": "69 pages, no figure",
+  "first_author": "Zelin Liu",
+  "pdf_url": "http://arxiv.org/pdf/2610.38166",
+  "primary_category": "math-ph",
+  "published": "2026-10-28",
+  "tags": [],
+  "title": "Nonequilibrium Thermodynamics of Semilinear Stochastic Partial Differential Equations",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.38504": {
+  "abstract": "Soft composites, materials consisting of inclusions within a polymeric matrix, offer a broad design space with diverse mechanical properties. Composite stiffness is normally set by the volume fraction of filler, and classical theory predicts at most ~25% stiffening when inclusions occupy 10% of the volume. Here we introduce a composite of phase-separated DNA droplets that occupy <10% of an entangled actin network, yet stiffen it 25-fold, reversibly. Microscopy reveals that actin penetrates the DNA droplets, leading network elasticity to determine their size; thus the system exhibits reciprocal control between matrix and droplet properties. We attribute the extraordinary stiffening to entrainment of actin by the droplets, which enlarges the effective inclusions until their contact network dominates the mechanics. This shows that liquid-liquid phase separation can control not only local compositions, but also mechanics, achieving exceptional stiffening at modest filler fractions through local geometries that constrain the matrix beyond the inclusions themselves.",
+  "authors": [
+   "Sam Wilken",
+   "Austin Hopkins",
+   "Kyu Hwan Choi",
+   "John Berezney",
+   "Matthew E. Helgeson",
+   "M. Cristina Marchetti",
+   "Sho Takatori",
+   "Zvonimir Dogic",
+   "Omar A. Saleh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci",
+   "physics.bio-ph"
+  ],
+  "comment": null,
+  "first_author": "Sam Wilken",
+  "pdf_url": "http://arxiv.org/pdf/2610.38504",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-28",
+  "tags": [
+   "composites",
+   "mechanical-properties",
+   "phase-separation"
+  ],
+  "title": "Extraordinary stiffening and reciprocal control in a DNA condensate/actin composite",
+  "topics": [
+   "Conducting, Responsive & Compartment Polymers",
+   "Microstructure, Morphology & Characterization",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.38843": {
+  "abstract": "Data-driven polymer discovery remains fragmented across databases, models, screening, literature, and simulations. We present PolyDiscover, a platform unifying multi-source property lookup, graph-neural-network prediction, trust-aware multi-objective screening, literature extraction, generative candidate exploration, and automated handoff to molecular-dynamics validation. Building on published ADEPT-PolyGraphMT, it harmonizes experimental, molecular-dynamics, density-functional-theory, and group-contribution data spanning 28 properties across about 13,000 real and one million virtual polymers. Its engine combines feasibility filtering and exact Pareto ranking with a trust score integrating similarity to known polymers, physical consistency, predictive uncertainty, and synthesizability, followed by diversity-aware shortlisting. Two case studies on lightweight, thermally stable structural materials and thermally stable electrical insulators, using monomer HOMO-LUMO gap as an insulation proxy, reduced a million-polymer search space to 30 chemically diverse candidates per task. Higher-fidelity molecular-dynamics and density-functional-theory calculations, interpreted after correcting systematic density underestimation by the molecular-dynamics protocol, showed retention of targeted property combinations. Ablation showed that trust-aware ranking shifted about one fifth of each shortlist toward more synthesizable chemistry closer to known polymers. A constrained natural-language interface translated a free-text request into a validated specification matching expert screening exactly, while staged literature evidence corroborated high glass-transition temperatures in polyimide-dominated shortlists against published experiments. PolyDiscover offers a traceable route from design intent to simulation-validated candidates, easing exploration of polymer chemical space.",
+  "authors": [
+   "Sobin Alosious",
+   "Guoyue Xu",
+   "Yuhan Liu",
+   "Renzheng Zhang",
+   "Meng Jiang",
+   "Tengfei Luo"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Sobin Alosious",
+  "pdf_url": "http://arxiv.org/pdf/2610.38843",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-10-28",
+  "tags": [],
+  "title": "PolyDiscover: an integrated trust-aware platform for multi-objective polymer discovery and simulation validation",
+  "topics": [
+   "Property Prediction & QSPR",
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-10-28"
+ },
+ "2610.39039": {
+  "abstract": "Internal degrees of freedom of cross-linked polymer networks enable compressible hydrogels and microgels to swell or deswell by absorbing or expelling solvent in response to environmental changes. Macromolecules in solution can influence the swelling response by acting as crowding agents, with practical relevance for drug delivery and biosensing. We extend the Flory-Rehner theory of polymer network swelling to incorporate nanoparticle crowders as another implicit species that can perturb a gel through volume exclusion, including the entropic cost of crowder penetration from polymer field theory. Within the free energy landscape of asymmetric ternary mixtures, we numerically solve equilibrium relations equating solvent and crowder chemical potentials inside and outside the gel. Independently, we perform Monte Carlo simulations, including trial moves that allow gels to swell and take up crowders. We investigate how crowder size, solution concentration, cross-link density, and solvent quality influence swelling of polymeric gels, partitioning of crowders between inside and outside, and structural properties of microgel suspensions governed by Hertzian elastic pair interactions. Our results show that nanoparticle crowding promotes deswelling, thereby weakening interparticle correlations, and that, with increasing the concentration of crowders, polymeric gels reach a maximum loading capacity, dependent on crowder size and polymer cross-link density.",
+  "authors": [
+   "Mahesh Aryal",
+   "Alan R. Denton"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "16 pages, 17 figures",
+  "first_author": "Mahesh Aryal",
+  "pdf_url": "http://arxiv.org/pdf/2610.39039",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-10-28",
+  "tags": [
+   "hydrogels",
+   "monte-carlo"
+  ],
+  "title": "Response of Hydrogels and Microgels to Nanoparticle Crowding",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-10-28"
  }
 }

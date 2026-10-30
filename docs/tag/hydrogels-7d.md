@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>hydrogels — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,15 +16,27 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ella Sapsford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+<td>2026-10-28</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39039.html">Response of Hydrogels and Microgels to Nanoparticle Crowding</a></div><div class="paper-tags"><a href="monte-carlo-7d.html">monte-carlo</a></div></td>
+<td>Mahesh Aryal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39039">2610.39039</a></td>
 </tr>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="membranes-7d.html">membranes</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Heather Jin Hee Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
+<td>2026-10-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="rheology-7d.html">rheology</a> · <a href="spectroscopy-7d.html">spectroscopy</a></div></td>
+<td>Gauthier Legrand et al.</td>
+<td><a href="http://arxiv.org/abs/2610.33682">2610.33682</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32188.html">RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization</a></div></td>
+<td>Erin Ng et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32188">2610.32188</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32912.html">Folding of Free Polymers Under Confinement by Responsive Hydrogels</a></div></td>
+<td>Mahesh Aryal et al.</td>
+<td><a href="http://arxiv.org/abs/2610.32912">2610.32912</a></td>
 </tr>
 </tbody></table>

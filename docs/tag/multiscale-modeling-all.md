@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multiscale-modeling — all</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">39 papers</span>
   <nav class="window-nav"><a href="multiscale-modeling-7d.html">7d</a> <a href="multiscale-modeling-30d.html">30d</a> <a href="multiscale-modeling-90d.html">90d</a> <a href="multiscale-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-26</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36005.html">Evaluation of upper-scale mechanical parameters of particulate aluminum-based nanocomposites from molecular simulations</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="nanocomposites-all.html">nanocomposites</a></div></td>
+<td>Bartosz Bucholc et al.</td>
+<td><a href="http://arxiv.org/abs/2610.36005">2610.36005</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>

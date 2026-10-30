@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Ella Sapsford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="mlff-7d.html">mlff</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
+<td>Antonio Mirarchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
 </tr>
 </tbody></table>

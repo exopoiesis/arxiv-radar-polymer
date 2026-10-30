@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 360d</h1>
-  <span class="paper-count">144 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <a href="molecular-dynamics-90d.html">90d</a> <strong>360d</strong> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37020.html">The constrained molecular dynamics (CMD) to obtain spatio-temporal memory functions of viscoelastic liquids: stability analysis of equations of motion</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Olivier Benzerara et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37020">2610.37020</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37193.html">Phase Separation in a Mixture System of Active and Passive Particles</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Reo Arakaki et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37193">2610.37193</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-27</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mlff-360d.html">mlff</a></div></td>
+<td>Antonio Mirarchi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-22</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
@@ -872,11 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04266.html">Revealing the innate sub-nanometer porous structure of carbon nanomembranes with molecular dynamics simulations and highly charged ion spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Filip Vuković et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04266">2511.04266</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16246.html">Vibrational Spectra of Materials and Molecules from Partially-Adiabatic Elevated-Temperature Centroid Molecular Dynamics</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Jorge Castro et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16246">2508.16246</a></td>
 </tr>
 </tbody></table>
