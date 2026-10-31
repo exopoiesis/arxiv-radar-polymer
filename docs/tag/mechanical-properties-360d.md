@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">502 papers</span>
+  <span class="paper-count">499 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40298.html">Structural signatures of primary and secondary relaxation during physical aging of a metallic glass</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
+<td>Beatrice Baraldi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40298">2610.40298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38504.html">Extraordinary stiffening and reciprocal control in a DNA condensate/actin composite</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
@@ -3002,29 +3008,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16651.html">Investigating the roles of hydrophobicity and electrostatics in the particle-scale dynamics and rheology of dense microgel suspensions</a></div></td>
 <td>Sayantan Chanda et al.</td>
 <td><a href="http://arxiv.org/abs/2509.16651">2509.16651</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.05217.html">Topology optimization of isotropic viscoelastic microstructures based on periodic homogenization</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Hiroaki Deguchi et al.</td>
-<td><a href="http://arxiv.org/abs/2505.05217">2505.05217</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16697.html">Thermal History Asymmetry and Dissipation in Dense Colloidal Microgel Glasses</a></div><div class="paper-tags"><a href="polymerization-360d.html">polymerization</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Sonali Vasant Kawale et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16697">2509.16697</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02308.html">Simulation of a Non-Newtonian drop impact on a rigid surface: A mess-free approach</a></div></td>
-<td>Tapan Jana et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02308">2511.02308</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02959.html">A physics-augmented neural network framework for finite strain incompressible viscoelasticity</a></div></td>
-<td>Karl A. Kalina et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02959">2511.02959</a></td>
 </tr>
 </tbody></table>

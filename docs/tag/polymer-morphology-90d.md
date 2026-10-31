@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
+<td>Riccardo Cristoferi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39643">2610.39643</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36318.html">Ratchet Effects for Swarmalators on Asymmetric Substrates</a></div></td>
 <td>B. Albert et al.</td>
@@ -332,11 +338,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00988.html">Exactly solvable model for the diffusive price-dynamics paradox under long-range correlated market-order flow</a></div></td>
 <td>Yuki Sato et al.</td>
 <td><a href="http://arxiv.org/abs/2608.00988">2608.00988</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.00707.html">Conditional grain-graph diffusion for property-guided inverse design of polycrystalline microstructures</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="gnn-90d.html">gnn</a> · <a href="inverse-design-90d.html">inverse-design</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Yuheng Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2608.00707">2608.00707</a></td>
 </tr>
 </tbody></table>

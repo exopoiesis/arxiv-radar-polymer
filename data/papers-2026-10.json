@@ -4788,5 +4788,61 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-10-28"
+ },
+ "2610.39643": {
+  "abstract": "We investigate a Modica-Mortola energy in heterogeneous materials with a quasi-crystalline microstructure, described by a suitable notion of almost periodicity. In the regime where phase separation occurs at a finer scale than homogenization, we establish compactness and $Γ$-convergence results in one dimension for vector-valued phases. The main novelty lies in the explicit characterization of the effective surface energy, which reveals the interplay between phase separation and homogenization. In particular, we prove that heterogeneities can promote the splitting of a phase separation into several energetically favorable microscopic transitions.",
+  "authors": [
+   "Riccardo Cristoferi",
+   "Lorenza D'Elia"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": null,
+  "first_author": "Riccardo Cristoferi",
+  "pdf_url": "http://arxiv.org/pdf/2610.39643",
+  "primary_category": "math.AP",
+  "published": "2026-10-29",
+  "tags": [
+   "phase-separation",
+   "polymer-morphology"
+  ],
+  "title": "Quasi-crystalline phase separation in one dimension",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-10-29"
+ },
+ "2610.40298": {
+  "abstract": "Physical aging drives glasses toward equilibrium and changes their thermodynamic and mechanical properties, but the accompanying microscopic structural evolution remains poorly understood. Here, using our recently developed low-background setup combining fast scanning calorimetry with \\emph{in-situ} X-ray total scattering, we investigate microscopic structural changes during physical aging in Pd$_{42.5}$Cu$_{30}$Ni$_{7.5}$P$_{20}$ metallic glass. The measurements span an unprecedented six orders of magnitude in time and a temperature range extending from above the glass transition temperature to more than 150\\,K below it. We observe dominant structural changes near the first and second peaks of the structure factor. Near and above the glass transition temperature, changes in the first sharp diffraction peak closely follow enthalpy relaxation and are associated predominantly with increasing degrees of medium-range ordering. At lower temperatures, the enthalpy evolution can no longer be described by this contribution alone, revealing an additional, faster relaxation process that correlates with changes near the second diffraction peak and thus short-range structural rearrangements, including increased Pd--Pd correlations. These results establish a direct connection between thermodynamic relaxation and structural evolution, providing strong evidence that primary and secondary aging processes are associated with distinct structural length scales.",
+  "authors": [
+   "Beatrice Baraldi",
+   "Stefano Marchesin",
+   "Davide Marchesi",
+   "Lara Piemontese",
+   "Francesco Dallari",
+   "Søren S. Sørensen",
+   "Eloi Pineda",
+   "Marco Di Michiel",
+   "Giulio Monaco",
+   "Peihao Sun"
+  ],
+  "categories": [
+   "cond-mat.dis-nn"
+  ],
+  "comment": "12 pages, 8 figures",
+  "first_author": "Beatrice Baraldi",
+  "pdf_url": "http://arxiv.org/pdf/2610.40298",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-10-29",
+  "tags": [
+   "glass-transition",
+   "mechanical-properties"
+  ],
+  "title": "Structural signatures of primary and secondary relaxation during physical aging of a metallic glass",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-10-29"
  }
 }

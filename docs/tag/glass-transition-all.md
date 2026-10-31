@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">156 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40298.html">Structural signatures of primary and secondary relaxation during physical aging of a metallic glass</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
+<td>Beatrice Baraldi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40298">2610.40298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.26996.html">Tailoring Dielectric Relaxation and Charge Transport in Amorphous Ge-Te-Se Phase-Change Materials through Yttrium Incorporation</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>

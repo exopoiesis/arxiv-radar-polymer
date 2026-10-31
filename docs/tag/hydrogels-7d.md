@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>hydrogels — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,17 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="polymer-morphology-7d.html">polymer-morphology</a> · <a href="rheology-7d.html">rheology</a> · <a href="spectroscopy-7d.html">spectroscopy</a></div></td>
 <td>Gauthier Legrand et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33682">2610.33682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32188.html">RAISE-Vision: An Automated Contact Angle Measurement Platform for Contact Lens Wettability Characterization</a></div></td>
-<td>Erin Ng et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32188">2610.32188</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32912.html">Folding of Free Polymers Under Confinement by Responsive Hydrogels</a></div></td>
-<td>Mahesh Aryal et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32912">2610.32912</a></td>
 </tr>
 </tbody></table>

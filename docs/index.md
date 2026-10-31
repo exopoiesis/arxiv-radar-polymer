@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-10-30._
+_Updated 2026-10-31._
 
-**3845** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3847** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Riccardo Cristoferi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39643">2610.39643</a></td>
+</tr>
+<tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.40298.html">Structural signatures of primary and secondary relaxation during physical aging of a metallic glass</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Beatrice Baraldi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.40298">2610.40298</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.38166.html">Nonequilibrium Thermodynamics of Semilinear Stochastic Partial Differential Equations</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-10-30._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32456.html">Side-Chain Engineering Controls Molecular Packing and Vertical Electron Transport in Discrete n-Type NDI-T2 Oligomers</a></div><div class="paper-tags"><a href="tag/qspr-30d.html">qspr</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Zihao Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2610.32456">2610.32456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32527.html">The upper bounds on occupancy fraction and variance fraction for linear regular uniform hypergraphs</a></div></td>
-<td>Weiyuan Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32527">2610.32527</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Isaac Y. Miranda-Valdez et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
 </tr>
 </tbody></table>

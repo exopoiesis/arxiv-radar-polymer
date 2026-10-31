@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Riccardo Cristoferi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39643">2610.39643</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38504.html">Extraordinary stiffening and reciprocal control in a DNA condensate/actin composite</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Sam Wilken et al.</td>
@@ -1808,11 +1814,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04181.html">Nonequilibrium dynamics of membraneless active droplets</a></div></td>
 <td>Chenxi Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04181">2511.04181</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.14930.html">Emergence of unidirectionality and phase separation in optically dense emitter ensembles</a></div></td>
-<td>Kasper J. Kusmierek et al.</td>
-<td><a href="http://arxiv.org/abs/2412.14930">2412.14930</a></td>
 </tr>
 </tbody></table>

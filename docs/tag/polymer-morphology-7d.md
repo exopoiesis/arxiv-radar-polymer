@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-10-29</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="phase-separation-7d.html">phase-separation</a></div></td>
+<td>Riccardo Cristoferi et al.</td>
+<td><a href="http://arxiv.org/abs/2610.39643">2610.39643</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-26</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36318.html">Ratchet Effects for Swarmalators on Asymmetric Substrates</a></div></td>
 <td>B. Albert et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-7d.html">hydrogels</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a> · <a href="rheology-7d.html">rheology</a> · <a href="spectroscopy-7d.html">spectroscopy</a></div></td>
 <td>Gauthier Legrand et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33682">2610.33682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35946.html">Machine learning enabled design of sustainable alloys considering real world constraints</a></div><div class="paper-tags"><a href="benchmarking-7d.html">benchmarking</a> · <a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
-<td>Quan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35946">2610.35946</a></td>
 </tr>
 </tbody></table>

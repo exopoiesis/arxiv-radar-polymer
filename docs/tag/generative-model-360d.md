@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08080.html">Hierarchical Structure-Property Alignment for Data-Efficient Molecular Generation and Editing</a></div></td>
 <td>Ziyu Fan et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08080">2511.08080</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.02769.html">STAR-VAE: Latent Variable Transformers for Scalable and Controllable Molecular Generation</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="selfies-360d.html">selfies</a></div></td>
-<td>Bum Chul Kwon et al.</td>
-<td><a href="http://arxiv.org/abs/2511.02769">2511.02769</a></td>
 </tr>
 </tbody></table>
