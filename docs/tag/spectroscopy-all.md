@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>spectroscopy — all</h1>
-  <span class="paper-count">125 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <a href="spectroscopy-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -746,23 +746,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06598.html">Order in disorder: oxygen vacancy driven electronic phase separation of LaNiO3-x epitaxial thin film surface investigated by scanning probe microscopy</a></div><div class="paper-tags"><a href="catalyst-design-all.html">catalyst-design</a> · <a href="phase-separation-all.html">phase-separation</a> · <a href="polymer-degradation-all.html">polymer-degradation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Michael Verhage et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06598">2410.06598</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15842.html">Correlation between Electrochemical Relaxations and Morphologies of Conducting Polymer Dendrites</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Antoine Baron et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15842">2409.15842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07963.html">Nanoporosity imaging by positronium lifetime tomography</a></div></td>
-<td>K. Dulski et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07963">2409.07963</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01471.html">Modeling the Dielectric Relaxation in Semicrystalline Polymers -- Understanding the Role of the Interphase between the Amorphous and Crystalline Domains</a></div><div class="paper-tags"><a href="glass-transition-all.html">glass-transition</a></div></td>
-<td>Valeriy V. Ginzburg</td>
-<td><a href="http://arxiv.org/abs/2409.01471">2409.01471</a></td>
 </tr>
 </tbody></table>

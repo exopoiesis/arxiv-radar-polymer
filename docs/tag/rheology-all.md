@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>rheology — all</h1>
-  <span class="paper-count">212 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1250,41 +1250,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04270.html">Spatio-Temporal Instabilities of Blood Flow in a Model Capillary Network</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Mathieu Alonzo et al.</td>
 <td><a href="http://arxiv.org/abs/2410.04270">2410.04270</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13633.html">The role of compressional dynamics in setting the scale-dependent rheology of granular flows: Application to the emergence of thin layer stability</a></div></td>
-<td>Christopher Harper et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13633">2409.13633</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09864.html">Understanding Polymer-Colloid Gels: A Solvent Perspective Using Low-Field NMR</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
-<td>Léo Hervéou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09864">2409.09864</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09450.html">Hydrodynamics in Semidilute Polyelectrolyte Solutions and Complex Coacervates</a></div><div class="paper-tags"><a href="coacervates-all.html">coacervates</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shensheng Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09450">2409.09450</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05765.html">Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Vinay Kopnar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05765">2409.05765</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05240.html">A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="benchmarking-all.html">benchmarking</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05240">2409.05240</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01229.html">Thermo-elastodynamics of nonlinearly viscous solids</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>S. Almi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01229">2409.01229</a></td>
 </tr>
 </tbody></table>

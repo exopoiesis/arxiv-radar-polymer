@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>multiscale-modeling — all</h1>
-  <span class="paper-count">39 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="multiscale-modeling-7d.html">7d</a> <a href="multiscale-modeling-30d.html">30d</a> <a href="multiscale-modeling-90d.html">90d</a> <a href="multiscale-modeling-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,17 +236,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03378.html">Neural networks meet anisotropic hyperelasticity: A framework based on generalized structure tensors and isotropic tensor functions</a></div></td>
 <td>Karl A. Kalina et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03378">2410.03378</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15508.html">Multi-Scale Fiber Remodeling in HCM Using a Stress-Based Fiber Reorientation Law</a></div></td>
-<td>Mohammad Mehri et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15508">2409.15508</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05281.html">Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials</a></div><div class="paper-tags"><a href="composites-all.html">composites</a></div></td>
-<td>Sifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05281">2410.05281</a></td>
 </tr>
 </tbody></table>

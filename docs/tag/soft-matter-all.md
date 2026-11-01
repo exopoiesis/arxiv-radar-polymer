@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>soft-matter — all</h1>
-  <span class="paper-count">90 papers</span>
+  <span class="paper-count">84 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <a href="soft-matter-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -518,41 +518,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04569.html">3D printed mesoporous superconductors with periodic order on three length scales and enhanced properties via block copolymer directed self-assembly</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="block-copolymer-all.html">block-copolymer</a></div></td>
 <td>Fei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2410.04569">2410.04569</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18683.html">Density of states in neural networks: an in-depth exploration of learning in parameter space</a></div><div class="paper-tags"><a href="enhanced-sampling-all.html">enhanced-sampling</a></div></td>
-<td>Margherita Mele et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18683">2409.18683</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18929.html">The ion activated attractive patchy particles model and its application to the liquid-vapour phase transitions</a></div></td>
-<td>Furio Surfaro et al.</td>
-<td><a href="http://arxiv.org/abs/2409.18929">2409.18929</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17940.html">Intrinsic statistical regularity of topological charges revealed in dynamical disk model</a></div></td>
-<td>Ranzhi Sun et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17940">2409.17940</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09864.html">Understanding Polymer-Colloid Gels: A Solvent Perspective Using Low-Field NMR</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Léo Hervéou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09864">2409.09864</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04603.html">Colloidoscope: Detecting Dense Colloids in 3d with Deep Learning</a></div></td>
-<td>Abdelwahab Kawafi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04603">2409.04603</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04646.html">Stripe and Bubble Ratchets on Asymmetric Substrates</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>C. Reichhardt et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04646">2409.04646</a></td>
 </tr>
 </tbody></table>

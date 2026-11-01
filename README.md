@@ -2,7 +2,7 @@
 
 > Top 50 most recent papers per topic. For full filtering by date or tag, see [GitHub Pages](./docs/).
 
-**Total corpus:** 3847 papers across 26 months.
+**Total corpus:** 3736 papers across 25 months.
 
 <details>
   <summary>Table of Contents</summary>
@@ -12,21 +12,21 @@
     <li><a href=#generative-design--inverse-design>Generative Design & Inverse Design</a> (50)</li>
     <li><a href=#molecular-dynamics--multiscale-modeling>Molecular Dynamics & Multiscale Modeling</a> (50)</li>
     <li><a href=#microstructure-morphology--characterization>Microstructure, Morphology & Characterization</a> (50)</li>
-    <li><a href=#synthesis-kinetics--automation>Synthesis, Kinetics & Automation</a> (25)</li>
+    <li><a href=#synthesis-kinetics--automation>Synthesis, Kinetics & Automation</a> (24)</li>
     <li><a href=#processing-manufacturing--composites>Processing, Manufacturing & Composites</a> (50)</li>
     <li><a href=#sustainability--functional-applications>Sustainability & Functional Applications</a> (50)</li>
     <li><a href=#conducting-responsive--compartment-polymers>Conducting, Responsive & Compartment Polymers</a> (50)</li>
     <li><a href=#informatics--data-infrastructure>Informatics & Data Infrastructure</a> (50)</li>
-    <li><a href=#viaauthor-whitelistsoft-matter-active-matter>via:author-whitelist:soft matter, active matter</a> (9)</li>
-    <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (19)</li>
-    <li><a href=#viaauthor-whitelistpolymer-ml-materials-informatics>via:author-whitelist:polymer ML, materials informatics</a> (9)</li>
-    <li><a href=#viaauthor-whitelistpolymer-thermodynamics>via:author-whitelist:polymer thermodynamics</a> (2)</li>
+    <li><a href=#viaauthor-whitelistsoft-matter-active-matter>via:author-whitelist:soft matter, active matter</a> (8)</li>
+    <li><a href=#viaauthor-whitelistpolymer-informatics-polymer-genome>via:author-whitelist:polymer informatics, Polymer Genome</a> (17)</li>
     <li><a href=#viaauthor-whitelistpolymer-property-prediction>via:author-whitelist:polymer property prediction</a> (5)</li>
     <li><a href=#viaauthor-whitelistpolymer-composites-ml-for-materials>via:author-whitelist:polymer composites, ML for materials</a> (7)</li>
     <li><a href=#viaauthor-whitelistpolymer-md-free-energy>via:author-whitelist:polymer MD, free energy</a> (8)</li>
+    <li><a href=#viaauthor-whitelistpolymer-ml-materials-informatics>via:author-whitelist:polymer ML, materials informatics</a> (8)</li>
     <li><a href=#viaauthor-whitelistpolymer-dynamics-glass-transition>via:author-whitelist:polymer dynamics, glass transition</a> (4)</li>
     <li><a href=#viaauthor-whitelistpolymer-dynamics-hydrodynamics>via:author-whitelist:polymer dynamics, hydrodynamics</a> (3)</li>
     <li><a href=#viaauthor-whitelistpolymer-simulation-soft-matter>via:author-whitelist:polymer simulation, soft matter</a> (1)</li>
+    <li><a href=#viaauthor-whitelistpolymer-thermodynamics>via:author-whitelist:polymer thermodynamics</a> (1)</li>
   </ol>
 </details>
 
@@ -343,7 +343,6 @@
 |**2025-04-15**|**Automated Retrosynthesis Planning of Macromolecules Using Large Language Models and Knowledge Graphs**|Qinyu Ma et al.|[2501.08897](http://arxiv.org/abs/2501.08897)|[md](abstracts/2501.08897.md)|
 |**2025-04-04**|**A greener process for poly-L-lactic acid production and chemical upcycling under mild conditions using highly active alkali-metal based catalysts**|Christian Rentero et al.|[2504.03811](http://arxiv.org/abs/2504.03811)|[md](abstracts/2504.03811.md)|
 |**2025-01-26**|**BoTier: Multi-Objective Bayesian Optimization with Tiered Composite Objectives**|Mohammad Haddadnia et al.|[2501.15554](http://arxiv.org/abs/2501.15554)|[md](abstracts/2501.15554.md)|
-|**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -587,7 +586,6 @@
 |**2025-07-10**|**Active phase separation: new phenomenology from non-equilibrium physics**|M. E. Cates et al.|[2412.02854](http://arxiv.org/abs/2412.02854)|[md](abstracts/2412.02854.md)|
 |**2025-03-14**|**Hamiltonian Heat Baths, Coarse-Graining and Irreversibility: A Microscopic Dynamical Entropy from Classical Mechanics**|Mingnan Ding et al.|[2503.11334](http://arxiv.org/abs/2503.11334)|[md](abstracts/2503.11334.md)|
 |**2024-10-24**|**Statistical properties of microphase and bubbly phase-separated active fluids**|Giordano Fausti et al.|[2410.18770](http://arxiv.org/abs/2410.18770)|[md](abstracts/2410.18770.md)|
-|**2024-09-10**|**Hyperuniformity in phase ordering: the roles of activity, noise, and non-constant mobility**|Filippo De Luca et al.|[2405.00508](http://arxiv.org/abs/2405.00508)|[md](abstracts/2405.00508.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -612,33 +610,6 @@
 |**2024-12-23**|**A Tale of Three: Magnetic Fields along the Orion Integral-Shaped Filament as Revealed by JCMT BISTRO survey**|Jintai Wu et al.|[2412.17716](http://arxiv.org/abs/2412.17716)|[md](abstracts/2412.17716.md)|
 |**2024-12-11**|**Polymer Composites Informatics for Flammability, Thermal, Mechanical and Electrical Property Predictions**|Huan Tran et al.|[2412.08407](http://arxiv.org/abs/2412.08407)|[md](abstracts/2412.08407.md)|
 |**2024-11-15**|**DECaPS and SMA discovery of a highly-inclined class I YSO with an outflow: IRAS 08235-4316**|Joshua Bennett Lovell et al.|[2411.10518](http://arxiv.org/abs/2411.10518)|[md](abstracts/2411.10518.md)|
-|**2024-09-13**|**An Informatics Framework for the Design of Sustainable, Chemically Recyclable, Synthetically-Accessible and Durable Polymers**|Joseph Kern et al.|[2409.15354](http://arxiv.org/abs/2409.15354)|[md](abstracts/2409.15354.md)|
-|**2024-09-08**|**A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity**|Ayush Jain et al.|[2409.05240](http://arxiv.org/abs/2409.05240)|[md](abstracts/2409.05240.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:polymer ML, materials informatics
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-10-28**|**Breaking Ion Clusters: Size Asymmetry for Faster Ion Transport in Polymer Electrolytes**|Ganesh K Rajahmundry et al.|[2510.24580](http://arxiv.org/abs/2510.24580)|[md](abstracts/2510.24580.md)|
-|**2025-09-07**|**Packing, Phase Separation and Interface Compatibility in Reversibly Crosslinked Polymers**|Abhishek S. Chankapure et al.|[2509.05969](http://arxiv.org/abs/2509.05969)|[md](abstracts/2509.05969.md)|
-|**2025-08-08**|**Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water**|Sandeep Parma et al.|[2508.16591](http://arxiv.org/abs/2508.16591)|[md](abstracts/2508.16591.md)|
-|**2025-07-23**|**Molecular Mechanisms of Polymer Crosslinking via Thermal Activation**|Javed Akhtar et al.|[2507.21143](http://arxiv.org/abs/2507.21143)|[md](abstracts/2507.21143.md)|
-|**2025-06-26**|**Microphase Separation Controls the Dynamics of Associative Vitrimers**|Rahul Karmakar et al.|[2506.21066](http://arxiv.org/abs/2506.21066)|[md](abstracts/2506.21066.md)|
-|**2025-03-07**|**Thickening of liquids using copolymer grafted nanoparticles**|Prama Adhya et al.|[2503.05230](http://arxiv.org/abs/2503.05230)|[md](abstracts/2503.05230.md)|
-|**2025-02-27**|**Rouse Mode Analysis of Chain Relaxation in Reversibly Crosslinked Polymer Melts**|Rahul Karmakar et al.|[2503.09609](http://arxiv.org/abs/2503.09609)|[md](abstracts/2503.09609.md)|
-|**2025-02-24**|**An Explainable AI Model for Binary LJ Fluids**|Israrul H Hashmi et al.|[2502.17357](http://arxiv.org/abs/2502.17357)|[md](abstracts/2502.17357.md)|
-|**2024-09-15**|**Extrapolative ML Models for Copolymers**|Israrul H. Hashmi et al.|[2409.09691](http://arxiv.org/abs/2409.09691)|[md](abstracts/2409.09691.md)|
-
-<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
-
-## via:author-whitelist:polymer thermodynamics
-
-|Publish Date|Title|Authors|arXiv|Abstract|
-|---|---|---|---|---|
-|**2025-10-10**|**Simulating dynamic bonding in soft materials**|Tyla R. Holoman et al.|[2510.08879](http://arxiv.org/abs/2510.08879)|[md](abstracts/2510.08879.md)|
-|**2024-09-23**|**Plasmonic Metal Oxide Nanocrystals as Building Blocks for Infrared Metasurfaces**|Woo Je Chang et al.|[2409.15573](http://arxiv.org/abs/2409.15573)|[md](abstracts/2409.15573.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
@@ -683,6 +654,21 @@
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
 
+## via:author-whitelist:polymer ML, materials informatics
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-10-28**|**Breaking Ion Clusters: Size Asymmetry for Faster Ion Transport in Polymer Electrolytes**|Ganesh K Rajahmundry et al.|[2510.24580](http://arxiv.org/abs/2510.24580)|[md](abstracts/2510.24580.md)|
+|**2025-09-07**|**Packing, Phase Separation and Interface Compatibility in Reversibly Crosslinked Polymers**|Abhishek S. Chankapure et al.|[2509.05969](http://arxiv.org/abs/2509.05969)|[md](abstracts/2509.05969.md)|
+|**2025-08-08**|**Sequence-Defined Phase Behavior of Poly(N-Isopropylacrylamide-co-Acrylamide) in Water**|Sandeep Parma et al.|[2508.16591](http://arxiv.org/abs/2508.16591)|[md](abstracts/2508.16591.md)|
+|**2025-07-23**|**Molecular Mechanisms of Polymer Crosslinking via Thermal Activation**|Javed Akhtar et al.|[2507.21143](http://arxiv.org/abs/2507.21143)|[md](abstracts/2507.21143.md)|
+|**2025-06-26**|**Microphase Separation Controls the Dynamics of Associative Vitrimers**|Rahul Karmakar et al.|[2506.21066](http://arxiv.org/abs/2506.21066)|[md](abstracts/2506.21066.md)|
+|**2025-03-07**|**Thickening of liquids using copolymer grafted nanoparticles**|Prama Adhya et al.|[2503.05230](http://arxiv.org/abs/2503.05230)|[md](abstracts/2503.05230.md)|
+|**2025-02-27**|**Rouse Mode Analysis of Chain Relaxation in Reversibly Crosslinked Polymer Melts**|Rahul Karmakar et al.|[2503.09609](http://arxiv.org/abs/2503.09609)|[md](abstracts/2503.09609.md)|
+|**2025-02-24**|**An Explainable AI Model for Binary LJ Fluids**|Israrul H Hashmi et al.|[2502.17357](http://arxiv.org/abs/2502.17357)|[md](abstracts/2502.17357.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
 ## via:author-whitelist:polymer dynamics, glass transition
 
 |Publish Date|Title|Authors|arXiv|Abstract|
@@ -709,5 +695,13 @@
 |Publish Date|Title|Authors|arXiv|Abstract|
 |---|---|---|---|---|
 |**2025-05-16**|**Structure and dynamics of ionic liquids under shear flow**|Abbas Gholami et al.|[2505.11007](http://arxiv.org/abs/2505.11007)|[md](abstracts/2505.11007.md)|
+
+<p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>
+
+## via:author-whitelist:polymer thermodynamics
+
+|Publish Date|Title|Authors|arXiv|Abstract|
+|---|---|---|---|---|
+|**2025-10-10**|**Simulating dynamic bonding in soft materials**|Tyla R. Holoman et al.|[2510.08879](http://arxiv.org/abs/2510.08879)|[md](abstracts/2510.08879.md)|
 
 <p align=right>(<a href=#updated-on-20261101>back to top</a>)</p>

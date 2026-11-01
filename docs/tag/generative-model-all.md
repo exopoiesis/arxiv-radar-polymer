@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>generative-model — all</h1>
-  <span class="paper-count">60 papers</span>
+  <span class="paper-count">59 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <a href="generative-model-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -368,11 +368,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12515.html">Thermal analysis of GaN-based photonic membranes for optoelectronics</a></div><div class="paper-tags"><a href="membranes-all.html">membranes</a> · <a href="spectroscopy-all.html">spectroscopy</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Wilken Seemann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.12515">2410.12515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02824.html">Inverse Design of Copolymers Including Stoichiometry and Chain Architecture</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a></div></td>
-<td>Gabriel Vogel et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02824">2410.02824</a></td>
 </tr>
 </tbody></table>

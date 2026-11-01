@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>hydrogels — all</h1>
-  <span class="paper-count">177 papers</span>
+  <span class="paper-count">171 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <a href="hydrogels-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1040,41 +1040,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.06766.html">Deformation of hydrogel during freezing</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
 <td>Lila Séguy et al.</td>
 <td><a href="http://arxiv.org/abs/2410.06766">2410.06766</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16169.html">Auricular Bioelectronic Devices for Health, Medicine, and Human-Computer Interfaces</a></div></td>
-<td>William J. Tyler</td>
-<td><a href="http://arxiv.org/abs/2409.16169">2409.16169</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09864.html">Understanding Polymer-Colloid Gels: A Solvent Perspective Using Low-Field NMR</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="rheology-all.html">rheology</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
-<td>Léo Hervéou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09864">2409.09864</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07066.html">Weak solutions to a model for phase separation coupled with finite-strain viscoelasticity subject to external distortion</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Thomas Eiter et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07066">2409.07066</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05765.html">Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Vinay Kopnar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05765">2409.05765</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02419.html">Diffusion-limited settling of highly porous particles in density-stratified fluids</a></div></td>
-<td>Robert Hunt et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02419">2409.02419</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01533.html">Double-network-inspired mechanical metamaterials</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>James Utama Surjadi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.01533">2409.01533</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>additive-manufacturing — all</h1>
-  <span class="paper-count">373 papers</span>
+  <span class="paper-count">364 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2198,59 +2198,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.18326.html">Automated Segmentation and Analysis of Microscopy Images of Laser Powder Bed Fusion Melt Tracks</a></div></td>
 <td>Aagam Shah et al.</td>
 <td><a href="http://arxiv.org/abs/2409.18326">2409.18326</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13908.html">Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier</a></div><div class="paper-tags"><a href="diffusion-model-all.html">diffusion-model</a> · <a href="inverse-design-all.html">inverse-design</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Jaewan Park et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13908">2409.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17973.html">Manufacturing, processing, applications, and advancements of Fe-based shape memory alloys</a></div></td>
-<td>Anwar Algamal et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17973">2409.17973</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17293.html">A two-scale computational homogenization approach for elastoplastic truss-based lattice structures</a></div></td>
-<td>Hooman Danesh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17293">2409.17293</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12785.html">Investigation on domain adaptation of additive manufacturing monitoring systems to enhance digital twin reusability</a></div></td>
-<td>Jiarui Xie et al.</td>
-<td><a href="http://arxiv.org/abs/2409.12785">2409.12785</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04800.html">A High-Temperature Thermocouple Development by Additive Manufacturing: Tungsten-Nickel (W-Ni) and Molybdenum (Mo) Integration with Ceramic Structures</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Azizul Islam et al.</td>
-<td><a href="http://arxiv.org/abs/2408.04800">2408.04800</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11712.html">Revolutionizing Pharmaceutical Manufacturing: Advances and Challenges of 3D Printing System and Control</a></div></td>
-<td>Rahul Kumar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11712">2409.11712</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10463.html">Kolmogorov-Arnold Networks in Low-Data Regimes: A Comparative Study with Multilayer Perceptrons</a></div></td>
-<td>Farhad Pourkamali-Anaraki</td>
-<td><a href="http://arxiv.org/abs/2409.10463">2409.10463</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.10778.html">Towards the Feasibility Analysis and Additive Manufacturing of a Novel Flexible Pedicle Screw for Spinal Fixation Procedures</a></div></td>
-<td>Yash Kulkarni et al.</td>
-<td><a href="http://arxiv.org/abs/2409.10778">2409.10778</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05240.html">A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05240">2409.05240</a></td>
 </tr>
 </tbody></table>

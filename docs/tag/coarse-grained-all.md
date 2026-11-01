@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">307 papers</span>
+  <span class="paper-count">299 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1808,53 +1808,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00594.html">Domain Growth Kinetics in Active Binary Mixtures</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
 <td>Sayantan Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00594">2410.00594</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2407.13707.html">Dissipation at limited resolutions: Power law and detection of hidden dissipative scales</a></div></td>
-<td>Qiwei Yu et al.</td>
-<td><a href="http://arxiv.org/abs/2407.13707">2407.13707</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18316.html">General theory for localizing the where and when of entropy production meets single-molecule experiments</a></div></td>
-<td>Julius Degünther et al.</td>
-<td><a href="http://arxiv.org/abs/2405.18316">2405.18316</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.12429.html">Temporal coarse-graining and elimination of slow dynamics with the generalized Langevin equation for time-filtered observables</a></div></td>
-<td>Roland R. Netz</td>
-<td><a href="http://arxiv.org/abs/2409.12429">2409.12429</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.11519.html">On the generalization ability of coarse-grained molecular dynamics models for non-equilibrium processes</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Liyao Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.11519">2409.11519</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.20266.html">Hyperuniformity in Ashkin-Teller model</a></div></td>
-<td>Indranil Mukherjee et al.</td>
-<td><a href="http://arxiv.org/abs/2405.20266">2405.20266</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.05070.html">Equivalence analysis between Quasi-coarse-grained and Atomistic Simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Dong-Dong Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2405.05070">2405.05070</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05510.html">Systematic Coarse-Graining of Sequence-Dependent Structure and Elasticity of Double-Stranded DNA</a></div></td>
-<td>Enrico Skoruppa et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05510">2409.05510</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-04</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.02461.html">Phase separation in soft repulsive polymer mixtures: foundation and implication for chromatin organization</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Naoki Iso et al.</td>
-<td><a href="http://arxiv.org/abs/2409.02461">2409.02461</a></td>
 </tr>
 </tbody></table>

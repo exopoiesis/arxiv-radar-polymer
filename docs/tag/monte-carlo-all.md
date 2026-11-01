@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">204 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1238,65 +1238,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.03899.html">Phycobilisome core architecture influences photoprotective quenching by the Orange Carotenoid Protein</a></div></td>
 <td>Ayesha Ejaz et al.</td>
 <td><a href="http://arxiv.org/abs/2410.03899">2410.03899</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00092.html">Bionic fractionalization in the trimer model of twisted bilayer graphene</a></div></td>
-<td>Kevin Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.00092">2410.00092</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15856.html">High-dose long-time defect evolution in tungsten studied by atomistically informed Object Kinetic Monte Carlo simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Jintong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15856">2409.15856</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15223.html">Off-Lattice Markov Chain Monte Carlo Simulations of Mechanically Driven Polymers</a></div></td>
-<td>Lijie Ding et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15223">2409.15223</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13166.html">Morphology and Behavior Co-Optimization of Modular Satellites for Attitude Control</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Yuxing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13166">2409.13166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07288.html">General Methods for Evaluating Collision Probability of Different Types of Theta-phi Positioners</a></div></td>
-<td>Baolong Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07288">2409.07288</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07443.html">Programmable self-assembly of core-shell ellipsoids at liquid interfaces</a></div></td>
-<td>Jack Eatson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07443">2409.07443</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.11287.html">Phase behaviour and self-assembly of semiflexible polymers in poor-solvent solutions</a></div></td>
-<td>Tobia Arcangeli et al.</td>
-<td><a href="http://arxiv.org/abs/2405.11287">2405.11287</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04748.html">Dissipative self-assembly of patchy particles under nonequilibrium drive: a computational study</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Shubhadeep Nag et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04748">2409.04748</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04141.html">Re-entrant percolation in active Brownian hard disks</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>David Evans et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04141">2409.04141</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.03882.html">Free-energy landscape of a polymer in the presence of two nanofluidic entropic traps</a></div></td>
-<td>James M. Polson et al.</td>
-<td><a href="http://arxiv.org/abs/2409.03882">2409.03882</a></td>
 </tr>
 </tbody></table>

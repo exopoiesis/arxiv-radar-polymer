@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">387 papers</span>
+  <span class="paper-count">376 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2270,71 +2270,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.00594.html">Domain Growth Kinetics in Active Binary Mixtures</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="phase-separation-all.html">phase-separation</a></div></td>
 <td>Sayantan Mondal et al.</td>
 <td><a href="http://arxiv.org/abs/2410.00594">2410.00594</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.08628.html">Chemical-motif characterization of short-range order with E(3)-equivariant graph neural networks</a></div><div class="paper-tags"><a href="gnn-all.html">gnn</a></div></td>
-<td>Killian Sheriff et al.</td>
-<td><a href="http://arxiv.org/abs/2405.08628">2405.08628</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19124.html">Generative deep learning for the inverse design of materials</a></div><div class="paper-tags"><a href="inverse-design-all.html">inverse-design</a></div></td>
-<td>Teng Long et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19124">2409.19124</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15842.html">Correlation between Electrochemical Relaxations and Morphologies of Conducting Polymer Dendrites</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a> · <a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Antoine Baron et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15842">2409.15842</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15856.html">High-dose long-time defect evolution in tungsten studied by atomistically informed Object Kinetic Monte Carlo simulations</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Jintong Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15856">2409.15856</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13166.html">Morphology and Behavior Co-Optimization of Modular Satellites for Attitude Control</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
-<td>Yuxing Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13166">2409.13166</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09728.html">Predicting the Realizable Maximum Power Factor using the Jonker and Ioffe formulation: Al-doped ZnO Triangular Microcrystals with Graphite Inclusion Case Study</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="composites-all.html">composites</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Soumya Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09728">2409.09728</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16318.html">Thermo-mechanical Properties of Hierarchical Biocomposite Materials from Photosynthetic Microorganisms</a></div><div class="paper-tags"><a href="extrusion-all.html">extrusion</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Israel Kellersztein et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16318">2409.16318</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09864.html">Understanding Polymer-Colloid Gels: A Solvent Perspective Using Low-Field NMR</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="rheology-all.html">rheology</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
-<td>Léo Hervéou et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09864">2409.09864</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08679.html">Effects of quenched disorder on the kinetics and pathways of phase transition in a soft colloidal system</a></div></td>
-<td>Gadha Ramesh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08679">2409.08679</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08209.html">Shape, temperature and density interplay in depletion forces</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Itay Azizi</td>
-<td><a href="http://arxiv.org/abs/2409.08209">2409.08209</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.04646.html">Stripe and Bubble Ratchets on Asymmetric Substrates</a></div><div class="paper-tags"><a href="soft-matter-all.html">soft-matter</a></div></td>
-<td>C. Reichhardt et al.</td>
-<td><a href="http://arxiv.org/abs/2409.04646">2409.04646</a></td>
 </tr>
 </tbody></table>

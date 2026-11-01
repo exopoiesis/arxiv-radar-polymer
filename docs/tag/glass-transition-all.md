@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>glass-transition — all</h1>
-  <span class="paper-count">156 papers</span>
+  <span class="paper-count">150 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -914,41 +914,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.18093.html">Dynamic Heterogeneity of Short Semi-crystalline Polymer Chains during Recrystallization</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Maziar Heidari et al.</td>
 <td><a href="http://arxiv.org/abs/2410.18093">2410.18093</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16725.html">Flow of supercooled liquids under dipolar force field</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
-<td>Kento Maeda et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16725">2409.16725</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15775.html">Avalanche criticality emerges by thermal fluctuation in a quiescent glass</a></div></td>
-<td>Yuki Takaha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15775">2409.15775</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.08654.html">Structural and dynamical investigation of glassforming smectogen by X-ray diffraction and infra-red spectroscopy aided by density functional theory calculations</a></div></td>
-<td>Aleksandra Deptuch et al.</td>
-<td><a href="http://arxiv.org/abs/2409.08654">2409.08654</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.06370.html">Hydrodynamic model for laser swelling</a></div></td>
-<td>Nikita Bityurin et al.</td>
-<td><a href="http://arxiv.org/abs/2409.06370">2409.06370</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05917.html">Unified scaling model for viscosity of crude oil over extended temperature range</a></div></td>
-<td>Bulat Galimzyanov et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05917">2409.05917</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.01471.html">Modeling the Dielectric Relaxation in Semicrystalline Polymers -- Understanding the Role of the Interphase between the Amorphous and Crystalline Domains</a></div><div class="paper-tags"><a href="spectroscopy-all.html">spectroscopy</a></div></td>
-<td>Valeriy V. Ginzburg</td>
-<td><a href="http://arxiv.org/abs/2409.01471">2409.01471</a></td>
 </tr>
 </tbody></table>

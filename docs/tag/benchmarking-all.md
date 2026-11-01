@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>benchmarking — all</h1>
-  <span class="paper-count">227 papers</span>
+  <span class="paper-count">225 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1364,17 +1364,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.01754.html">Constant pH Simulation with FMM Electrostatics in GROMACS. (B) GPU Accelerated Hamiltonian Interpolation</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Bartosz Kohnke et al.</td>
 <td><a href="http://arxiv.org/abs/2410.01754">2410.01754</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09728.html">Predicting the Realizable Maximum Power Factor using the Jonker and Ioffe formulation: Al-doped ZnO Triangular Microcrystals with Graphite Inclusion Case Study</a></div><div class="paper-tags"><a href="composites-all.html">composites</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Soumya Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09728">2409.09728</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05240.html">A Physics-Enforced Neural Network to Predict Polymer Melt Viscosity</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Ayush Jain et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05240">2409.05240</a></td>
 </tr>
 </tbody></table>

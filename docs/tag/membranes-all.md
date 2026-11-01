@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>membranes — all</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="membranes-7d.html">7d</a> <a href="membranes-30d.html">30d</a> <a href="membranes-90d.html">90d</a> <a href="membranes-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,11 +578,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.12515.html">Thermal analysis of GaN-based photonic membranes for optoelectronics</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="spectroscopy-all.html">spectroscopy</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
 <td>Wilken Seemann et al.</td>
 <td><a href="http://arxiv.org/abs/2410.12515">2410.12515</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.15102.html">Shape dynamics of nearly spherical, multicomponent vesicles under shear flow</a></div><div class="paper-tags"><a href="phase-separation-all.html">phase-separation</a></div></td>
-<td>Anirudh Venkatesh et al.</td>
-<td><a href="http://arxiv.org/abs/2409.15102">2409.15102</a></td>
 </tr>
 </tbody></table>

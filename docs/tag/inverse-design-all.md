@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>inverse-design — all</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <a href="inverse-design-90d.html">90d</a> <a href="inverse-design-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,23 +290,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.22111.html">Inverse Design Method with Enhanced Sampling for Complex Open Crystals: Application to Novel Zeolite Self-Assembly in a Coarse-Grained Model</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
 <td>Chaohong Wang et al.</td>
 <td><a href="http://arxiv.org/abs/2410.22111">2410.22111</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02824.html">Inverse Design of Copolymers Including Stoichiometry and Chain Architecture</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a></div></td>
-<td>Gabriel Vogel et al.</td>
-<td><a href="http://arxiv.org/abs/2410.02824">2410.02824</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.13908.html">Nonlinear Inverse Design of Mechanical Multi-Material Metamaterials Enabled by Video Denoising Diffusion and Structure Identifier</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="diffusion-model-all.html">diffusion-model</a> · <a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Jaewan Park et al.</td>
-<td><a href="http://arxiv.org/abs/2409.13908">2409.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.19124.html">Generative deep learning for the inverse design of materials</a></div><div class="paper-tags"><a href="polymer-morphology-all.html">polymer-morphology</a></div></td>
-<td>Teng Long et al.</td>
-<td><a href="http://arxiv.org/abs/2409.19124">2409.19124</a></td>
 </tr>
 </tbody></table>

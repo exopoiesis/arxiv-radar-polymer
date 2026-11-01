@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>composites — all</h1>
-  <span class="paper-count">282 papers</span>
+  <span class="paper-count">275 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1664,47 +1664,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.02245.html">Fast response and highly sensitive flexible humidity sensor based on nanocomposite film of MoS2 and graphene oxide</a></div></td>
 <td>Gengwu Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2410.02245">2410.02245</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.16250.html">Interfacial performance evolution of ceramics-in-polymer composite electrolyte in solid-state lithium metal batteries</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Ao Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2409.16250">2409.16250</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.05281.html">Micrometer: Micromechanics Transformer for Predicting Mechanical Responses of Heterogeneous Materials</a></div><div class="paper-tags"><a href="multiscale-modeling-all.html">multiscale-modeling</a></div></td>
-<td>Sifan Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2410.05281">2410.05281</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.09728.html">Predicting the Realizable Maximum Power Factor using the Jonker and Ioffe formulation: Al-doped ZnO Triangular Microcrystals with Graphite Inclusion Case Study</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="polymer-morphology-all.html">polymer-morphology</a> · <a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Soumya Biswas et al.</td>
-<td><a href="http://arxiv.org/abs/2409.09728">2409.09728</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.07735.html">Large-scale database analysis of anomalous thermal conductivity of quasicrystals and its application to thermal diodes</a></div><div class="paper-tags"><a href="thermal-conductivity-all.html">thermal-conductivity</a></div></td>
-<td>Takashi Kurono et al.</td>
-<td><a href="http://arxiv.org/abs/2409.07735">2409.07735</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05382.html">Detections of He-3 in Ni-based binary metal nanocomposites with Cu in zirconia exposed to hydrogen gas at elevated temperatures</a></div></td>
-<td>Tomoya Yamauchi et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05382">2409.05382</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05472.html">Integral transform technique for determining stress intensity factor in wave propagation through functionally graded piezoelectric-viscoelastic structure</a></div><div class="paper-tags"><a href="mechanical-properties-all.html">mechanical-properties</a></div></td>
-<td>Diksha et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05472">2409.05472</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.05765.html">Mechanistic Origins of Yielding in Hybrid Double Network Hydrogels</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a> · <a href="mechanical-properties-all.html">mechanical-properties</a> · <a href="rheology-all.html">rheology</a></div></td>
-<td>Vinay Kopnar et al.</td>
-<td><a href="http://arxiv.org/abs/2409.05765">2409.05765</a></td>
 </tr>
 </tbody></table>

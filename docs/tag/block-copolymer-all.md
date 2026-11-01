@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>block-copolymer — all</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="block-copolymer-7d.html">7d</a> <a href="block-copolymer-30d.html">30d</a> <a href="block-copolymer-90d.html">90d</a> <a href="block-copolymer-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.04569.html">3D printed mesoporous superconductors with periodic order on three length scales and enhanced properties via block copolymer directed self-assembly</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="soft-matter-all.html">soft-matter</a></div></td>
 <td>Fei Yu et al.</td>
 <td><a href="http://arxiv.org/abs/2410.04569">2410.04569</a></td>
-</tr>
-<tr class="paper">
-<td>2024-09-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.17585.html">Anomalous Conformations and Dynamics of Active Block Copolymers</a></div></td>
-<td>Suman Majumder et al.</td>
-<td><a href="http://arxiv.org/abs/2409.17585">2409.17585</a></td>
 </tr>
 </tbody></table>
