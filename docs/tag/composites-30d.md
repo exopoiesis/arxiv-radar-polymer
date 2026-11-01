@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -92,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10874.html">Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-degradation-30d.html">polymer-degradation</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Jairo Rondon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10874">2610.10874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.01576.html">Characterization and Quantification of Immiscible Polymer Blend Compatibilization by Phyllosilicate Clays</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="nanocomposites-30d.html">nanocomposites</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Ankit Patidar et al.</td>
-<td><a href="http://arxiv.org/abs/2610.01576">2610.01576</a></td>
 </tr>
 </tbody></table>

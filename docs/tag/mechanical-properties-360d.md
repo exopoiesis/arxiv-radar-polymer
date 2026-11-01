@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">499 papers</span>
+  <span class="paper-count">498 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -3002,11 +3002,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04395.html">Matching frequency response measurements and reduced order models for the inverse identification of viscoelastic properties</a></div></td>
 <td>Linus Taenzer et al.</td>
 <td><a href="http://arxiv.org/abs/2511.04395">2511.04395</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.16651.html">Investigating the roles of hydrophobicity and electrostatics in the particle-scale dynamics and rheology of dense microgel suspensions</a></div></td>
-<td>Sayantan Chanda et al.</td>
-<td><a href="http://arxiv.org/abs/2509.16651">2509.16651</a></td>
 </tr>
 </tbody></table>

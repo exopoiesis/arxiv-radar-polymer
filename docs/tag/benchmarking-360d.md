@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">155 papers</span>
+  <span class="paper-count">154 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -938,11 +938,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.02729.html">Automated split Hopkinson pressure bar for high throughput dynamic experiments</a></div></td>
 <td>Mouliswar Ramakumaresan et al.</td>
 <td><a href="http://arxiv.org/abs/2502.02729">2502.02729</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.07272.html">A physics-informed neural network for modeling fracture without gradient damage: formulation, application, and assessment</a></div></td>
-<td>Aditya Konale et al.</td>
-<td><a href="http://arxiv.org/abs/2507.07272">2507.07272</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">117 papers</span>
+  <span class="paper-count">116 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -710,11 +710,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05748.html">Cluster percolation in the three-dimensional $\pm J$ random-bond Ising model</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a></div></td>
 <td>Lambert Münster et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05748">2511.05748</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.06614.html">Enhanced superconductivity via layer differentiation in trilayer Hubbard model</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>Xun Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2507.06614">2507.06614</a></td>
 </tr>
 </tbody></table>
