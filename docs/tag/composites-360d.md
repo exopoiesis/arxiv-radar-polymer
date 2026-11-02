@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">149 papers</span>
+  <span class="paper-count">148 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -902,11 +902,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2408.04428.html">Localized RG flows on composite defects and $\mathcal{C}$-theorem</a></div></td>
 <td>Dongsheng Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2408.04428">2408.04428</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08977.html">Symmetries in stochastic homogenization and adjustments for the RVE method</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
-<td>Binh Huy Nguyen et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08977">2509.08977</a></td>
 </tr>
 </tbody></table>

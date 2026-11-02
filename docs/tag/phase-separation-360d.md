@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">300 papers</span>
+  <span class="paper-count">299 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1808,11 +1808,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05214.html">Phase separation with non-local interactions</a></div></td>
 <td>Filipe C. Thewes et al.</td>
 <td><a href="http://arxiv.org/abs/2511.05214">2511.05214</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04181.html">Nonequilibrium dynamics of membraneless active droplets</a></div></td>
-<td>Chenxi Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04181">2511.04181</a></td>
 </tr>
 </tbody></table>

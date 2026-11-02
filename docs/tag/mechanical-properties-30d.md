@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,17 +284,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04612.html">An End-to-End Framework for Modelling Pneumatic Soft Robots Based on Differentiable Finite Element Methods</a></div></td>
 <td>Shaohong Zhong et al.</td>
 <td><a href="http://arxiv.org/abs/2610.04612">2610.04612</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.02634.html">A hybrid CNN-adjoint optimization framework for reconstruction of viscoelastic tissue properties in magnetic resonance elastography</a></div></td>
-<td>Anwesa Dey et al.</td>
-<td><a href="http://arxiv.org/abs/2610.02634">2610.02634</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03317.html">Fully mixed finite element methods for the coupling of viscoelasticity and reaction-diffusion models</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Alonso J. Bustos et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03317">2610.03317</a></td>
 </tr>
 </tbody></table>

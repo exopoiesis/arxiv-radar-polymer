@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">182 papers</span>
+  <span class="paper-count">180 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1094,17 +1094,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.26586.html">Physics-Informed Mixture Models and Surrogate Models for Precision Additive Manufacturing</a></div></td>
 <td>Sebastian Basterrech et al.</td>
 <td><a href="http://arxiv.org/abs/2510.26586">2510.26586</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.04025.html">Shellular Metamaterial Design via Compact Electric Potential Parametrization</a></div></td>
-<td>Chang Liu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.04025">2511.04025</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.05604.html">In-process 3D Deviation Mapping and Defect Monitoring (3D-DM2) in High Production-rate Robotic Additive Manufacturing</a></div></td>
-<td>Subash Gautam et al.</td>
-<td><a href="http://arxiv.org/abs/2511.05604">2511.05604</a></td>
 </tr>
 </tbody></table>

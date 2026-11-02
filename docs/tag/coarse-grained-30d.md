@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>coarse-grained — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <strong>30d</strong> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -74,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06626.html">Confined Riesz gas: From Newtonian Dynamics to Emergent Hydrodynamics</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Indranil Mukherjee et al.</td>
 <td><a href="http://arxiv.org/abs/2610.06626">2610.06626</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.03355.html">Stochastic thermodynamics and predictability of Ornstein-Uhlenbeck processes: an application to the Madden-Julian Oscillation</a></div></td>
-<td>Roberta Benincasa et al.</td>
-<td><a href="http://arxiv.org/abs/2610.03355">2610.03355</a></td>
 </tr>
 </tbody></table>
