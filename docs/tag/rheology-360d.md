@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">120 papers</span>
+  <span class="paper-count">119 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -728,11 +728,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08484.html">The viscoelastic rheology of transient diffusion creep</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>John F. Rudge</td>
 <td><a href="http://arxiv.org/abs/2507.08484">2507.08484</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10332.html">MIPS is a Maxwell fluid with an extended and non-monotonic crossover</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>José Martín-Roca et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10332">2504.10332</a></td>
 </tr>
 </tbody></table>

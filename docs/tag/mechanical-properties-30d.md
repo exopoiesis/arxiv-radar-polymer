@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">45 papers</span>
+  <span class="paper-count">43 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -272,17 +272,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06281.html">Note on the Exponential Stability of the Viscoelastic Wave Equation</a></div></td>
 <td>Ludovick Gagnon</td>
 <td><a href="http://arxiv.org/abs/2610.06281">2610.06281</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04336.html">A differentiable Lagrangian-coupled 3D Gaussian Splatting-SPH model for forward simulation and inverse analysis in solid mechanics</a></div></td>
-<td>Tian Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04336">2610.04336</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04612.html">An End-to-End Framework for Modelling Pneumatic Soft Robots Based on Differentiable Finite Element Methods</a></div></td>
-<td>Shaohong Zhong et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04612">2610.04612</a></td>
 </tr>
 </tbody></table>

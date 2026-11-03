@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">24 papers</span>
+  <span class="paper-count">23 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -152,11 +152,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07443.html">A Shape-Adaptive Architecture with Disaggregated Quantization for Efficient LLM Serving</a></div></td>
 <td>Cong Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2610.07443">2610.07443</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.04373.html">Activated coarsening of motility-induced phase separation in random environments</a></div><div class="paper-tags"><a href="mlff-30d.html">mlff</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Parameshwaran A et al.</td>
-<td><a href="http://arxiv.org/abs/2610.04373">2610.04373</a></td>
 </tr>
 </tbody></table>

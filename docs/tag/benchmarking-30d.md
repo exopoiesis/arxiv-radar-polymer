@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01889.html">Numerical Verification Limits of Asymmetric Intrastromal Hydrogel Reinforcement for Decentered Keratoconus</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
+<td>Juan Sumaya-Martínez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01889">2611.01889</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37322.html">Microscopic constitutive freedom in metamaterials</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
 <td>Zhongjian Mei et al.</td>
@@ -104,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07037.html">Inference-Time Projection for Physically Valid Biomolecular Diffusion Models</a></div><div class="paper-tags"><a href="diffusion-model-30d.html">diffusion-model</a></div></td>
 <td> Qurat-ul-ain et al.</td>
 <td><a href="http://arxiv.org/abs/2610.07037">2610.07037</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.06973.html">Event Cameras for Melt-Pool Monitoring in Additive Manufacturing: A Benchmark and a Cross-Machine Transfer Analysis</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Mohamad Yazan Sadoun et al.</td>
-<td><a href="http://arxiv.org/abs/2610.06973">2610.06973</a></td>
 </tr>
 </tbody></table>

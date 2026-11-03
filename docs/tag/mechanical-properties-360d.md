@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">495 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2984,11 +2984,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06014.html">Variable-order fractional wave equation: Analysis, numerical approximation, and fast algorithm</a></div></td>
 <td>Jinhong Jia et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06014">2511.06014</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.10332.html">MIPS is a Maxwell fluid with an extended and non-monotonic crossover</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>José Martín-Roca et al.</td>
-<td><a href="http://arxiv.org/abs/2504.10332">2504.10332</a></td>
 </tr>
 </tbody></table>
