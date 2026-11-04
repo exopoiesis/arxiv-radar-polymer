@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">30 papers</span>
+  <span class="paper-count">29 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -188,11 +188,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13233.html">Manufacturing Complex Airtight Soft Pneumatic Actuators for Soft Robotics: Process Evaluation and Optimization</a></div><div class="paper-tags"><a href="extrusion-90d.html">extrusion</a></div></td>
 <td>Mohammed Abboodi</td>
 <td><a href="http://arxiv.org/abs/2608.13233">2608.13233</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.05347.html">Overcoming Scattering in High-Cell-Density Tomographic Volumetric Bioprinting Using Computational Light Optimization</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
-<td>Qianyi Zhang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.05347">2608.05347</a></td>
 </tr>
 </tbody></table>

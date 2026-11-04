@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">495 papers</span>
+  <span class="paper-count">494 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2978,11 +2978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06515.html">Koopman global linearization of contact dynamics for robot locomotion and manipulation enables elaborate control</a></div></td>
 <td>Cormac O&#x27;Neill et al.</td>
 <td><a href="http://arxiv.org/abs/2511.06515">2511.06515</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.06014.html">Variable-order fractional wave equation: Analysis, numerical approximation, and fast algorithm</a></div></td>
-<td>Jinhong Jia et al.</td>
-<td><a href="http://arxiv.org/abs/2511.06014">2511.06014</a></td>
 </tr>
 </tbody></table>

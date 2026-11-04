@@ -12,7 +12,7 @@
   total: 376
   group: morphology
 - name: benchmarking
-  count: 16
+  count: 15
   total: 226
   group: informatics
 - name: composites
@@ -31,10 +31,6 @@
   count: 10
   total: 299
   group: simulation
-- name: molecular-dynamics
-  count: 10
-  total: 263
-  group: simulation
 - name: monte-carlo
   count: 10
   total: 204
@@ -43,6 +39,10 @@
   count: 10
   total: 206
   group: processing
+- name: molecular-dynamics
+  count: 9
+  total: 263
+  group: simulation
 - name: spectroscopy
   count: 8
   total: 122
@@ -71,10 +71,6 @@
   count: 4
   total: 59
   group: sustainability
-- name: diffusion-model
-  count: 3
-  total: 43
-  group: design
 - name: generative-model
   count: 3
   total: 59
@@ -95,6 +91,10 @@
   count: 2
   total: 20
   group: properties
+- name: diffusion-model
+  count: 2
+  total: 43
+  group: design
 - name: inverse-design
   count: 2
   total: 46
