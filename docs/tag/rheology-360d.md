@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">119 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04115.html">Multi-Fidelity Machine Learning for Predicting Startup Stress Growth and Strain Hardening in Wormlike Micellar Solutions</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Saghar Zolfaghari et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04115">2611.04115</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04584.html">Derivation of a bending model for rods from finite viscoelasticity</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Stefan Neukamm et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04584">2611.04584</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02541.html">Topological origin of the Gutenberg-Richter law: Dynamic decoupling of fault cascades and energy dissipation</a></div></td>
+<td>Bin Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02541">2611.02541</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03949.html">Thermodynamically consistent thixotropic viscoelastic modeling of human blood from a conformational free energy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Thomas Martinod et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03949">2611.03949</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
@@ -722,11 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04830.html">X-ray particle tracking velocimetry for steady-state rheological characterization: Case study of a complex polymer melt flow in material extrusion additive manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
 <td>Julian Kattinger et al.</td>
 <td><a href="http://arxiv.org/abs/2504.04830">2504.04830</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.08484.html">The viscoelastic rheology of transient diffusion creep</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>John F. Rudge</td>
-<td><a href="http://arxiv.org/abs/2507.08484">2507.08484</a></td>
 </tr>
 </tbody></table>

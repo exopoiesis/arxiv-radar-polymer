@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07704.html">Towards Track Height Control in Additive Manufacturing on Porous Substrates: An Approach for System Identification and Controller Selection</a></div></td>
+<td>Amelie Schatull et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07704">2611.07704</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06898.html">3D Printed Monolithic Optomechanical Chassis for an Unbalanced Field-Widened Interferometer</a></div></td>
+<td>Ramy Tannous et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06898">2611.06898</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05434.html">From Early Concepts to Lunar Hypertelescopes Roadmap for Next-Generation Optical Astronomy on the Moon</a></div></td>
+<td>M. Hadjara et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05434">2611.05434</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33345.html">Elasto-Plastocapillarity: Surface-Tension-Driven Flows of Yield-Stress Fluids</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
@@ -68,17 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.10874.html">Ceramic Materials: From Atomic Bonding and Processing to Microstructure, Functional Properties, and Biomedical Applications</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="polymer-degradation-30d.html">polymer-degradation</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Jairo Rondon et al.</td>
 <td><a href="http://arxiv.org/abs/2610.10874">2610.10874</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08607.html">An FE2 model for shear-deformable beams considering periodic lattice-like truss mesostructures</a></div></td>
-<td>Julian Ochs et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08607">2610.08607</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09126.html">Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Hyeonsu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09126">2610.09126</a></td>
 </tr>
 </tbody></table>

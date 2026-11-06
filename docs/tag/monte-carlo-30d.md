@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">10 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="life-cycle-assessment-30d.html">life-cycle-assessment</a> · <a href="membranes-30d.html">membranes</a></div></td>
+<td>Elizabeth Aigaje-Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04117">2611.04117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02184.html">Modeling Crystallization in Concentrated Suspensions of Compressible Microgels</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Oreoluwa E. Alade et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02184">2611.02184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39039.html">Response of Hydrogels and Microgels to Nanoparticle Crowding</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
@@ -62,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14433.html">Fluctuation-based evaluation of thermal conductivity using deviational phonon Monte Carlo simulations</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Takuma Hori et al.</td>
 <td><a href="http://arxiv.org/abs/2610.14433">2610.14433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08958.html">Phase diagram of a semiflexible magnetic polymer in three dimensions</a></div></td>
-<td>Linda Delimi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08958">2610.08958</a></td>
 </tr>
 </tbody></table>

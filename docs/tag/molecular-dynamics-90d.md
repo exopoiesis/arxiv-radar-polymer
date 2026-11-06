@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>MD Tanzib Ehsan Sanglap et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37020.html">The constrained molecular dynamics (CMD) to obtain spatio-temporal memory functions of viscoelastic liquids: stability analysis of equations of motion</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
@@ -218,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11261.html">Temperature-Driven Sequential Modeling for the Prediction of Annual Power Conversion Efficiency Profiles of Organic Photovoltaic Materials: Douala Case Study</a></div><div class="paper-tags"><a href="gnn-90d.html">gnn</a> · <a href="organic-photovoltaics-90d.html">organic-photovoltaics</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Steve Cabrel Teguia Kouam et al.</td>
 <td><a href="http://arxiv.org/abs/2608.11261">2608.11261</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="coarse-grained-90d.html">coarse-grained</a></div></td>
-<td>Joohee Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
 </tr>
 </tbody></table>

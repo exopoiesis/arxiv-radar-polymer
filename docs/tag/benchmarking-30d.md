@@ -16,6 +16,18 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07998.html">Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction</a></div></td>
+<td>Makoto Takamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07998">2611.07998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07139.html">The lattice Boltzmann machine</a></div><div class="paper-tags"><a href="soft-matter-30d.html">soft-matter</a></div></td>
+<td>Hua-Dong Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07139">2611.07139</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01889.html">Numerical Verification Limits of Asymmetric Intrastromal Hydrogel Reinforcement for Decentered Keratoconus</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a></div></td>
 <td>Juan Sumaya-Martínez et al.</td>
@@ -92,17 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12297.html">The Stability of Rutile Oxides for Oxygen Evolution Catalysis: From Mechanistic Understanding to New Descriptors</a></div><div class="paper-tags"><a href="polymer-electrolytes-30d.html">polymer-electrolytes</a></div></td>
 <td>Katarina Kretschmer et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12297">2610.12297</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.07838.html">Improved Density Functionals for Predicting Block Copolymer Domain Structure and Phase Behavior</a></div></td>
-<td>Yi-Xin Liu</td>
-<td><a href="http://arxiv.org/abs/2610.07838">2610.07838</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.09126.html">Domain-informed Adaptive Sampling for Generalizable PINNs in Metal Additive Manufacturing via Conditional Flow Matching</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Hyeonsu Lee et al.</td>
-<td><a href="http://arxiv.org/abs/2610.09126">2610.09126</a></td>
 </tr>
 </tbody></table>

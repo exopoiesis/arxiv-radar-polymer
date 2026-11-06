@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07998.html">Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction</a></div></td>
+<td>Makoto Takamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07998">2611.07998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07139.html">The lattice Boltzmann machine</a></div><div class="paper-tags"><a href="soft-matter-90d.html">soft-matter</a></div></td>
+<td>Hua-Dong Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07139">2611.07139</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01889.html">Numerical Verification Limits of Asymmetric Intrastromal Hydrogel Reinforcement for Decentered Keratoconus</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
@@ -224,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Amjad El-Mellouhi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08116">2608.08116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Joohee Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
 </tr>
 </tbody></table>

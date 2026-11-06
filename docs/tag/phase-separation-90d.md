@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08296.html">Active model B+ from run-and-tumble particles on a triangular lattice</a></div></td>
+<td>Abir Bhowmick et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08296">2611.08296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06882.html">Odd Capillarity</a></div></td>
+<td>Nadia Bihari Padhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06882">2611.06882</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02176.html">Phase behavior of a two-dimensional suspension of active pentagons</a></div></td>
+<td>R. Fernández-Quevedo García et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02176">2611.02176</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Riccardo Cristoferi et al.</td>
@@ -350,23 +368,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.09478.html">Energy consistent hyperbolic approximation for a class of fourth-order partial differential equations</a></div></td>
 <td>Rahul Barthwal et al.</td>
 <td><a href="http://arxiv.org/abs/2608.09478">2608.09478</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div><div class="paper-tags"><a href="oect-90d.html">oect</a> · <a href="pedot-pss-90d.html">pedot-pss</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Siqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07450.html">Numerical analysis and coarsening dynamics of the Active Cahn-Hilliard equation</a></div></td>
-<td>Abramo Agosti et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07450">2608.07450</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07644.html">Reply to Smallenburg: Near-melting nucleation and the exponential growth of hard-sphere nucleation times</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Roseanna N. Zia</td>
-<td><a href="http://arxiv.org/abs/2608.07644">2608.07644</a></td>
 </tr>
 </tbody></table>

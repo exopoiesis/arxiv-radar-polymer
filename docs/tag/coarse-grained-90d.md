@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>coarse-grained — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <strong>90d</strong> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="saxs-90d.html">saxs</a></div></td>
+<td>Eoin Quinn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01991.html">Weak-Signal Amplification through Stochastic Resetting</a></div></td>
+<td>Wei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01991">2611.01991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02184.html">Modeling Crystallization in Concentrated Suspensions of Compressible Microgels</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>Oreoluwa E. Alade et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02184">2611.02184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="mlff-90d.html">mlff</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
@@ -224,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12208.html">Dynamics of fluctuating populations in multi-state switching environments</a></div></td>
 <td>Mauro Mobilia</td>
 <td><a href="http://arxiv.org/abs/2608.12208">2608.12208</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06694.html">A Multi-Agent Framework for Automated Coarse-Grained Molecular Dynamics of Polymers</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
-<td>Joohee Choi et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06694">2608.06694</a></td>
 </tr>
 </tbody></table>

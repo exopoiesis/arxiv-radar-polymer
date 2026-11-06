@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">31 papers</span>
+  <span class="paper-count">32 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="saxs-360d.html">saxs</a></div></td>
+<td>Eoin Quinn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23433.html">Hydrogen Ion-Cut Single-Crystal Diamond Membranes for Wide and Ultrawide Bandgap Semiconductor Heterointegration</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="membranes-360d.html">membranes</a> · <a href="monte-carlo-360d.html">monte-carlo</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>

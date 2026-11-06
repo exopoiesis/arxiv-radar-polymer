@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="glass-transition-360d.html">glass-transition</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a></div></td>
 <td>Gauthier Legrand et al.</td>
@@ -458,11 +464,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19440.html">Fast spectral solver for viscoelastic structures under oscillatory flow in free space or wall-bounded domains: applications to quartz crystal microbalance and force spectroscopy</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Pablo Palacios Alonso et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19440">2511.19440</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07921.html">Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="oect-360d.html">oect</a> · <a href="pedot-pss-360d.html">pedot-pss</a></div></td>
-<td>Lukas M. Bongartz et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07921">2412.07921</a></td>
 </tr>
 </tbody></table>

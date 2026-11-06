@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>glass-transition — 90d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <strong>90d</strong> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07438.html">PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design</a></div><div class="paper-tags"><a href="inverse-design-90d.html">inverse-design</a> · <a href="polymer-electrolytes-90d.html">polymer-electrolytes</a></div></td>
+<td>Tanmay Sarkar Akash et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07438">2611.07438</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="spectroscopy-90d.html">spectroscopy</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.40298.html">Structural signatures of primary and secondary relaxation during physical aging of a metallic glass</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
@@ -98,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08358.html">A Shared Observation Shields Collective Fluctuations while Preserving Local Independence</a></div></td>
 <td>Hu Cang</td>
 <td><a href="http://arxiv.org/abs/2608.08358">2608.08358</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07320.html">Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of Organic Semiconductors</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>
-<td>Shinian Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07320">2608.07320</a></td>
 </tr>
 </tbody></table>

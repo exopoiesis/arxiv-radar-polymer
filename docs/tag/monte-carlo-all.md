@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>monte-carlo — all</h1>
-  <span class="paper-count">204 papers</span>
+  <span class="paper-count">206 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="life-cycle-assessment-all.html">life-cycle-assessment</a> · <a href="membranes-all.html">membranes</a></div></td>
+<td>Elizabeth Aigaje-Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04117">2611.04117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02184.html">Modeling Crystallization in Concentrated Suspensions of Compressible Microgels</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
+<td>Oreoluwa E. Alade et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02184">2611.02184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39039.html">Response of Hydrogels and Microgels to Nanoparticle Crowding</a></div><div class="paper-tags"><a href="hydrogels-all.html">hydrogels</a></div></td>

@@ -16,6 +16,18 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="life-cycle-assessment-90d.html">life-cycle-assessment</a> · <a href="membranes-90d.html">membranes</a></div></td>
+<td>Elizabeth Aigaje-Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04117">2611.04117</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02184.html">Modeling Crystallization in Concentrated Suspensions of Compressible Microgels</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Oreoluwa E. Alade et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02184">2611.02184</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39039.html">Response of Hydrogels and Microgels to Nanoparticle Crowding</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a></div></td>
 <td>Mahesh Aryal et al.</td>
@@ -134,17 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.08116.html">Multiphysics Modeling of Thermo-Viscoelastic Damage in Functionally Graded Abradable Coatings with Probabilistic Geometric Tolerance Analysis</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Amjad El-Mellouhi et al.</td>
 <td><a href="http://arxiv.org/abs/2608.08116">2608.08116</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07195.html">Distribution of the Radius of Gyration for an ISAW</a></div></td>
-<td>Antony Lesage et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07195">2608.07195</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07266.html">Homojunction-induced thermopower enhancement in polymer films</a></div><div class="paper-tags"><a href="conducting-polymers-90d.html">conducting-polymers</a></div></td>
-<td>Zhen Xu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07266">2608.07266</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-90d.html">hydrogels</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="rheology-90d.html">rheology</a></div></td>
 <td>Gauthier Legrand et al.</td>
@@ -122,11 +128,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26717.html">Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections</a></div><div class="paper-tags"><a href="organic-photovoltaics-90d.html">organic-photovoltaics</a></div></td>
 <td>Stefan Goppelt et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26717">2608.26717</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07320.html">Surface Equilibration Mechanism Controls the Stability of a Model Co-deposited Glass Mixture of Organic Semiconductors</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
-<td>Shinian Cheng et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07320">2608.07320</a></td>
 </tr>
 </tbody></table>

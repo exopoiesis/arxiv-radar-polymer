@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>life-cycle-assessment — all</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><a href="life-cycle-assessment-7d.html">7d</a> <a href="life-cycle-assessment-30d.html">30d</a> <a href="life-cycle-assessment-90d.html">90d</a> <a href="life-cycle-assessment-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="membranes-all.html">membranes</a> · <a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Elizabeth Aigaje-Espinosa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04117">2611.04117</a></td>
+</tr>
 <tr class="paper">
 <td>2026-09-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.28244.html">Modularity is Not Enough: Demonstration of a Solderless 400 V DC, 2.5 kW Three-Phase Inverter</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="polymer-degradation-all.html">polymer-degradation</a></div></td>

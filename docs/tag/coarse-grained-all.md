@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">299 papers</span>
+  <span class="paper-count">302 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="generative-model-all.html">generative-model</a> · <a href="saxs-all.html">saxs</a></div></td>
+<td>Eoin Quinn et al.</td>
+<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01991.html">Weak-Signal Amplification through Stochastic Resetting</a></div></td>
+<td>Wei Wang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.01991">2611.01991</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02184.html">Modeling Crystallization in Concentrated Suspensions of Compressible Microgels</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Oreoluwa E. Alade et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02184">2611.02184</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-27</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>

@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03910.html">Non-Hermitian effective dynamics from post-selection protocols</a></div></td>
+<td>Apostolos Siskou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.03910">2611.03910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>MD Tanzib Ehsan Sanglap et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02204.html">Learning from high-resolution 2D images to reconstruct 3D microstructures</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Wenbo Sui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02204">2611.02204</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-28</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.38504.html">Extraordinary stiffening and reciprocal control in a DNA condensate/actin composite</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>

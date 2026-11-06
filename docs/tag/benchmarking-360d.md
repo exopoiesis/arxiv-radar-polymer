@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">154 papers</span>
+  <span class="paper-count">155 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07998.html">Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction</a></div></td>
+<td>Makoto Takamoto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07998">2611.07998</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07139.html">The lattice Boltzmann machine</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a></div></td>
+<td>Hua-Dong Yao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.07139">2611.07139</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01889.html">Numerical Verification Limits of Asymmetric Intrastromal Hydrogel Reinforcement for Decentered Keratoconus</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
@@ -932,11 +944,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17208.html">Active Learning for Machine Learning Driven Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kevin Bachelor et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17208">2509.17208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2412.07921.html">Electron-Ion Coupling Breaks Energy Symmetry in Bistable Organic Electrochemical Transistors</a></div><div class="paper-tags"><a href="oect-360d.html">oect</a> · <a href="pedot-pss-360d.html">pedot-pss</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Lukas M. Bongartz et al.</td>
-<td><a href="http://arxiv.org/abs/2412.07921">2412.07921</a></td>
 </tr>
 </tbody></table>

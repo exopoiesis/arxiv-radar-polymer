@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">22 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-05</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.08296.html">Active model B+ from run-and-tumble particles on a triangular lattice</a></div></td>
+<td>Abir Bhowmick et al.</td>
+<td><a href="http://arxiv.org/abs/2611.08296">2611.08296</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-04</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06882.html">Odd Capillarity</a></div></td>
+<td>Nadia Bihari Padhan et al.</td>
+<td><a href="http://arxiv.org/abs/2611.06882">2611.06882</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02176.html">Phase behavior of a two-dimensional suspension of active pentagons</a></div></td>
+<td>R. Fernández-Quevedo García et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02176">2611.02176</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
@@ -128,11 +146,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12449.html">Bi-FORK: Generative Modeling of High-Dimensional Bifurcating Systems</a></div></td>
 <td>Anna Zimmel et al.</td>
 <td><a href="http://arxiv.org/abs/2610.12449">2610.12449</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.08154.html">Fluctuating chemically active droplets</a></div></td>
-<td>Guido L. A. Kusters et al.</td>
-<td><a href="http://arxiv.org/abs/2610.08154">2610.08154</a></td>
 </tr>
 </tbody></table>

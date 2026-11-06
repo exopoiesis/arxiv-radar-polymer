@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04428.html">Topology Does Not Determine Defect Mobility in Active Polar Matter</a></div></td>
+<td>Abhra Puitandy et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04428">2611.04428</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-02</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>MD Tanzib Ehsan Sanglap et al.</td>
+<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-01</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.02204.html">Learning from high-resolution 2D images to reconstruct 3D microstructures</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Wenbo Sui et al.</td>
+<td><a href="http://arxiv.org/abs/2611.02204">2611.02204</a></td>
+</tr>
+<tr class="paper">
 <td>2026-10-29</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.39643.html">Quasi-crystalline phase separation in one dimension</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Riccardo Cristoferi et al.</td>
@@ -302,23 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>Sameer Kumar</td>
 <td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.06877.html">Autonomous Optimization of Complex Oxides for Thermochemical Fuel Production</a></div><div class="paper-tags"><a href="automated-synthesis-90d.html">automated-synthesis</a></div></td>
-<td>Shuiping Gong et al.</td>
-<td><a href="http://arxiv.org/abs/2608.06877">2608.06877</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07130.html">Morphology Engineering of Mixed Ionic Electronic Conductors through Aqueous Phase Separation</a></div><div class="paper-tags"><a href="oect-90d.html">oect</a> · <a href="pedot-pss-90d.html">pedot-pss</a> · <a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Siqi Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.07130">2608.07130</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.07644.html">Reply to Smallenburg: Near-melting nucleation and the exponential growth of hard-sphere nucleation times</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Roseanna N. Zia</td>
-<td><a href="http://arxiv.org/abs/2608.07644">2608.07644</a></td>
 </tr>
 </tbody></table>
