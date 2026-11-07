@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -908,11 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08858.html">Information Processing in Quantum Thermodynamic Systems: an Autonomous Hamiltonian Approach</a></div><div class="paper-tags"><a href="catalyst-design-360d.html">catalyst-design</a></div></td>
 <td>Shou-I Tang et al.</td>
 <td><a href="http://arxiv.org/abs/2511.08858">2511.08858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.12518.html">Multi-loop spectra in general scalar EFTs and CFTs</a></div></td>
-<td>Johan Henriksson et al.</td>
-<td><a href="http://arxiv.org/abs/2507.12518">2507.12518</a></td>
 </tr>
 </tbody></table>

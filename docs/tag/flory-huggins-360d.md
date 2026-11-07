@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>flory-huggins — 360d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="flory-huggins-7d.html">7d</a> <a href="flory-huggins-30d.html">30d</a> <a href="flory-huggins-90d.html">90d</a> <strong>360d</strong> <a href="flory-huggins-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,11 +98,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06911.html">Surface-directed spinodal decomposition in binary fluid mixtures on an amorphous wall: A molecular dynamics study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Syed Shuja Hasan Zaidi et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06911">2512.06911</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07754.html">Fusion of two critical points and accelerated phase dynamics in orientational ternary mixtures</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Hiroshi Yokota</td>
-<td><a href="http://arxiv.org/abs/2511.07754">2511.07754</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">299 papers</span>
+  <span class="paper-count">296 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1790,23 +1790,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10174.html">M3Scope a 3D multimode multiplane microscope for imaging nanoscale dynamics in soft matter</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Steven Huysecom et al.</td>
 <td><a href="http://arxiv.org/abs/2511.10174">2511.10174</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.07754.html">Fusion of two critical points and accelerated phase dynamics in orientational ternary mixtures</a></div><div class="paper-tags"><a href="flory-huggins-360d.html">flory-huggins</a></div></td>
-<td>Hiroshi Yokota</td>
-<td><a href="http://arxiv.org/abs/2511.07754">2511.07754</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08123.html">(Dis-)appearance of liquid-liquid phase transitions in a heterogeneous activated patchy particle model and experiment</a></div></td>
-<td>Furio Surfaro et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08123">2511.08123</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08478.html">Phase behaviour and dynamical features of a two-dimensional binary mixture of active/passive spherical particles</a></div></td>
-<td>Diego Rogel Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08478">2511.08478</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,11 +740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17355.html">pH-dependent interfacial rheology of polymer membranes assembled at liquid-liquid interfaces using hydrogen bonds</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="membranes-360d.html">membranes</a></div></td>
 <td>Julien Dupré de Baubigny et al.</td>
 <td><a href="http://arxiv.org/abs/2507.17355">2507.17355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.04830.html">X-ray particle tracking velocimetry for steady-state rheological characterization: Case study of a complex polymer melt flow in material extrusion additive manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a></div></td>
-<td>Julian Kattinger et al.</td>
-<td><a href="http://arxiv.org/abs/2504.04830">2504.04830</a></td>
 </tr>
 </tbody></table>

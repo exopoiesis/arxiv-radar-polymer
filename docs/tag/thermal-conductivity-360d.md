@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 360d</h1>
-  <span class="paper-count">46 papers</span>
+  <span class="paper-count">45 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <strong>360d</strong> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -284,11 +284,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07640.html">Optimization for growth condition of ultrathin hexagonal boron nitride on dielectric substrates via LPCVD</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="crystallinity-360d.html">crystallinity</a></div></td>
 <td>Meryem Bozkaya et al.</td>
 <td><a href="http://arxiv.org/abs/2512.07640">2512.07640</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08758.html">High-Purity Diamond Integration on $β$-Ga$_2$O$_3$ via Microwave Plasma CVD for Enhanced Thermal Management</a></div><div class="paper-tags"><a href="band-gap-360d.html">band-gap</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Saleh Ahmed Khan et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08758">2511.08758</a></td>
 </tr>
 </tbody></table>

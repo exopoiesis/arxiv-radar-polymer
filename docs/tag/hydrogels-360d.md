@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">95 papers</span>
+  <span class="paper-count">94 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -578,11 +578,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09520.html">Photo-Switchable Cross-Linking in Polymer Gels: Effects on Surface Creasing and Network Relaxation during Swelling</a></div></td>
 <td>Alyssa VanZanten et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09520">2511.09520</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.08490.html">A Supervised Autonomous Resection and Retraction Framework for Transurethral Enucleation of the Prostatic Median Lobe</a></div></td>
-<td>Mariana Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2511.08490">2511.08490</a></td>
 </tr>
 </tbody></table>
