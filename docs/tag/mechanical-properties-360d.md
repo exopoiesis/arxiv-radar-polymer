@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">494 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2978,17 +2978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09514.html">Force-induced Elastic Softening and Conformational Transitions in a Polyampholyte Chain</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Rakesh Palariya et al.</td>
 <td><a href="http://arxiv.org/abs/2511.09514">2511.09514</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09037.html">Sound impact of simple viscoelastic damping changes due to aging and the role of the double bentside on soundboard tension in a 1755 Dulcken harpsichord</a></div></td>
-<td>Rolf Bader et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09037">2511.09037</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19440.html">Fast spectral solver for viscoelastic structures under oscillatory flow in free space or wall-bounded domains: applications to quartz crystal microbalance and force spectroscopy</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Pablo Palacios Alonso et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19440">2511.19440</a></td>
 </tr>
 </tbody></table>
