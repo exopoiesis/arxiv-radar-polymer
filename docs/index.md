@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-08._
+_Updated 2026-11-09._
 
-**3770** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3771** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09456.html">Increased Crystal Nucleation in the Glassy State of a Polymer/Water Mixture</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
+<td>Mika Kobayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09456">2611.09456</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.07438.html">PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design</a></div><div class="paper-tags"><a href="tag/glass-transition-30d.html">glass-transition</a> · <a href="tag/inverse-design-30d.html">inverse-design</a> · <a href="tag/polymer-electrolytes-30d.html">polymer-electrolytes</a></div></td>
@@ -187,11 +193,5 @@ _Updated 2026-11-08._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01432.html">Variational learning of energy-stable macroscopic flow equations from microscopic laws</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Pei Ge et al.</td>
 <td><a href="http://arxiv.org/abs/2611.01432">2611.01432</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01889.html">Numerical Verification Limits of Asymmetric Intrastromal Hydrogel Reinforcement for Decentered Keratoconus</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
-<td>Juan Sumaya-Martínez et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01889">2611.01889</a></td>
 </tr>
 </tbody></table>

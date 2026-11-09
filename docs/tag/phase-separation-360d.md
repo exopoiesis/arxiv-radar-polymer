@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">296 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1766,29 +1766,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11363.html">Global attractor for a Cahn-Hilliard-chemotaxis model with logistic degradation</a></div></td>
 <td>Giulio Schimperna et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11363">2511.11363</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2501.13639.html">Physics of droplet regulation in biological cells</a></div></td>
-<td>David Zwicker et al.</td>
-<td><a href="http://arxiv.org/abs/2501.13639">2501.13639</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.09069.html">Critical Motility-Induced Phase Separation in Three Dimensions is Consistent with Ising Universality</a></div></td>
-<td>Jiechao Feng et al.</td>
-<td><a href="http://arxiv.org/abs/2502.09069">2502.09069</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09928.html">mRNA-protein assembly reduces fluctuations in a system with bursty transcription</a></div></td>
-<td>Xinke Lyu et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09928">2511.09928</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10174.html">M3Scope a 3D multimode multiplane microscope for imaging nanoscale dynamics in soft matter</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Steven Huysecom et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10174">2511.10174</a></td>
 </tr>
 </tbody></table>

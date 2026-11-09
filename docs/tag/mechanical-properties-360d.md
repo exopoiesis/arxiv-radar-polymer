@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">494 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,17 +2966,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11858.html">Mechanosensitive polymer matrices of biologically-relevant compliance based on upconverting nanoparticles</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Cindy H. Shi et al.</td>
 <td><a href="http://arxiv.org/abs/2511.11858">2511.11858</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.17355.html">pH-dependent interfacial rheology of polymer membranes assembled at liquid-liquid interfaces using hydrogen bonds</a></div><div class="paper-tags"><a href="membranes-360d.html">membranes</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Julien Dupré de Baubigny et al.</td>
-<td><a href="http://arxiv.org/abs/2507.17355">2507.17355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.09514.html">Force-induced Elastic Softening and Conformational Transitions in a Polyampholyte Chain</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Rakesh Palariya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.09514">2511.09514</a></td>
 </tr>
 </tbody></table>

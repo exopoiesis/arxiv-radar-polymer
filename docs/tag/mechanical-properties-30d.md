@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">43 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -254,23 +254,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Danilo de Araújo Moura et al.</td>
 <td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.12846.html">Global Well-Posedness and Energy Decay for an Abstract Viscoelastic Wave Equation with Nonlocal or Friction Damping</a></div></td>
-<td>Jun Zhou et al.</td>
-<td><a href="http://arxiv.org/abs/2610.12846">2610.12846</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.13151.html">Stability of composite waves consisting of a non-classical Liu shock and a rarefaction wave for a non-convex viscoelastic system</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
-<td>Feimin Huang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.13151">2610.13151</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14398.html">Biomolecular condensates and their pathologies: A colloidal, interfacial, and transport perspective</a></div><div class="paper-tags"><a href="coacervates-30d.html">coacervates</a> · <a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Vineeth Godavarti et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14398">2610.14398</a></td>
 </tr>
 </tbody></table>

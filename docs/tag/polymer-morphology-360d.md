@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">216 papers</span>
+  <span class="paper-count">214 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1298,17 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12310.html">Electric field-dependent conductivity as probe for charge carrier delocalization and morphology in organic semiconductors</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Morteza Shokrani et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12310">2511.12310</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.06513.html">Sub-nanosecond structural dynamics of the martensitic transformation in Ni-Mn-Ga</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Yuru Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2509.06513">2509.06513</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.10174.html">M3Scope a 3D multimode multiplane microscope for imaging nanoscale dynamics in soft matter</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Steven Huysecom et al.</td>
-<td><a href="http://arxiv.org/abs/2511.10174">2511.10174</a></td>
 </tr>
 </tbody></table>

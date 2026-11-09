@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09456.html">Increased Crystal Nucleation in the Glassy State of a Polymer/Water Mixture</a></div></td>
+<td>Mika Kobayashi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09456">2611.09456</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07438.html">PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
 <td>Tanmay Sarkar Akash et al.</td>
@@ -500,11 +506,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13508.html">Smoothed-Cubic Spin-Glass Model of Random Lasers</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Marcello Benedetti et al.</td>
 <td><a href="http://arxiv.org/abs/2511.13508">2511.13508</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21639.html">Replicated liquid theory in $1+\infty$ dimensions</a></div></td>
-<td>Yukihiro Tomita et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21639">2508.21639</a></td>
 </tr>
 </tbody></table>
