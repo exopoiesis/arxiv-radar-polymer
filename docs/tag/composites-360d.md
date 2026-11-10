@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">148 papers</span>
+  <span class="paper-count">146 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -890,17 +890,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17202.html">Ferroelectric Nematic Liquid Crystals as Charge Boosters for Triboelectric Nanogenerators</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a></div></td>
 <td>Jia-Yao Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17202">2511.17202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.07733.html">The Carbon Footprint Wizard: A Knowledge-Augmented AI Interface for Streamlining Food Carbon Footprint Analysis</a></div><div class="paper-tags"><a href="life-cycle-assessment-360d.html">life-cycle-assessment</a></div></td>
-<td>Mustafa Kaan Aslan et al.</td>
-<td><a href="http://arxiv.org/abs/2509.07733">2509.07733</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11858.html">Mechanosensitive polymer matrices of biologically-relevant compliance based on upconverting nanoparticles</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Cindy H. Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11858">2511.11858</a></td>
 </tr>
 </tbody></table>

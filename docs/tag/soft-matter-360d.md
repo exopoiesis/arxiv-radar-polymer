@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17202.html">Ferroelectric Nematic Liquid Crystals as Charge Boosters for Triboelectric Nanogenerators</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Jia-Yao Ye et al.</td>
 <td><a href="http://arxiv.org/abs/2511.17202">2511.17202</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.25367.html">Self-organization, Memory and Learning: From Driven Disordered Systems to Living Matter</a></div></td>
-<td>Muhittin Mungan et al.</td>
-<td><a href="http://arxiv.org/abs/2510.25367">2510.25367</a></td>
 </tr>
 </tbody></table>

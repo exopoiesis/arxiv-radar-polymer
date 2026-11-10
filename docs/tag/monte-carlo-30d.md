@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>monte-carlo — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <strong>30d</strong> <a href="monte-carlo-90d.html">90d</a> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20971.html">Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Jan Pyrzowski et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20971">2610.20971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14433.html">Fluctuation-based evaluation of thermal conductivity using deviational phonon Monte Carlo simulations</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
-<td>Takuma Hori et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14433">2610.14433</a></td>
 </tr>
 </tbody></table>

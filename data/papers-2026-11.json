@@ -906,5 +906,31 @@
    "Property Prediction & QSPR"
   ],
   "updated": "2026-11-06"
+ },
+ "2611.09991": {
+  "abstract": "The scaling of electrical conductance with the number of nanopores, $N$, in an array is of fundamental importance for applications in membrane separation and ion transport across biological membranes, and has been the subject of longstanding disagreement in the field. Combining finite element calculations with theory, we resolve this disagreement for pores with negligible surface charge by showing that two previously conflicting predictions are each correct in their own limiting reservoir geometry: cuboidal reservoirs commensurate with the interpore spacing, for which the conductance scales linearly with $N$, and infinite reservoirs, for which the scaling is sublinear in $N$ for closely spaced pores. We show the transition between these limits with increasing reservoir size and, for infinite reservoirs, we show that a simple analytical model from electrical contact theory is mathematically equivalent to an existing point-charge capacitance model for nanopore arrays and validate its applicability against finite element and method-of-moments calculations. Using this model, we derive a characteristic coupling length, $\\ell_\\mathrm{c,95}$, the interpore spacing at which the array conductance reaches $95\\%$ of that of the same number of independent pores. $\\ell_\\mathrm{c,95}$ scales linearly with pore diameter $d$, and grows with $N$ as $\\sim\\log N$ for linear arrays and $\\sim\\sqrt{N}$ for square arrays, so that pore coupling persists to surprisingly large separations in large arrays. Our work provides a general framework for predicting nanopore array conductance as a function of pore arrangement and reservoir geometry, of importance to nanofluidics research and the targeted design of functional devices.",
+  "authors": [
+   "Jacob Bair",
+   "Zachery Gottshall",
+   "Matthias Kuehne"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.class-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Jacob Bair",
+  "pdf_url": "http://arxiv.org/pdf/2611.09991",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-03",
+  "tags": [
+   "membranes"
+  ],
+  "title": "Conductance scaling in nanopore arrays: disentangling roles of pore arrangement and reservoir geometry",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-11-03"
  }
 }

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>polymer-morphology — 7d</h1>
-  <span class="paper-count">2 papers</span>
+  <span class="paper-count">1 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,11 +20,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04428.html">Topology Does Not Determine Defect Mobility in Active Polar Matter</a></div></td>
 <td>Abhra Puitandy et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04428">2611.04428</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="composites-7d.html">composites</a> · <a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>MD Tanzib Ehsan Sanglap et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
 </tr>
 </tbody></table>

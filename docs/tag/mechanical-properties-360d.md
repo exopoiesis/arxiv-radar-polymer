@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">492 papers</span>
+  <span class="paper-count">489 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2948,23 +2948,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12252.html">Pulsed heterodyne Brillouin microscopy enables high-specificity, low-phototoxicity biomechanical imaging with single-ended access</a></div></td>
 <td>Zi-Xuan Du et al.</td>
 <td><a href="http://arxiv.org/abs/2511.12252">2511.12252</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.08988.html">Active Learning and Explainable AI for Multi-Objective Optimization of Spin Coated Polymers</a></div></td>
-<td>Brendan Young et al.</td>
-<td><a href="http://arxiv.org/abs/2509.08988">2509.08988</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11013.html">Chiral active gyrator: Memory induced direction reversal of rotational motion</a></div></td>
-<td>S Deion et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11013">2511.11013</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11858.html">Mechanosensitive polymer matrices of biologically-relevant compliance based on upconverting nanoparticles</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Cindy H. Shi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11858">2511.11858</a></td>
 </tr>
 </tbody></table>

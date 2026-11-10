@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>phase-separation — 90d</h1>
-  <span class="paper-count">58 papers</span>
+  <span class="paper-count">56 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <strong>90d</strong> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -350,17 +350,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Sameer Kumar</td>
 <td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.10759.html">Scalable Size- and Shape-Selective Purification of Colloidal Building Blocks via Excluded Volume Interactions</a></div></td>
-<td>Thomas Kainz et al.</td>
-<td><a href="http://arxiv.org/abs/2608.10759">2608.10759</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-11</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11184.html">Microscopic derivation of a field equation for active Brownian particles</a></div></td>
-<td>Martín Pinto-Goldberg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.11184">2608.11184</a></td>
 </tr>
 </tbody></table>

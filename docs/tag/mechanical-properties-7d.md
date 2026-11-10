@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">3 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -32,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04584.html">Derivation of a bending model for rods from finite viscoelasticity</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
 <td>Stefan Neukamm et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04584">2611.04584</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03949.html">Thermodynamically consistent thixotropic viscoelastic modeling of human blood from a conformational free energy</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Thomas Martinod et al.</td>
-<td><a href="http://arxiv.org/abs/2611.03949">2611.03949</a></td>
 </tr>
 </tbody></table>

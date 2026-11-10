@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">292 papers</span>
+  <span class="paper-count">291 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1760,11 +1760,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20100.html">Coarsening dynamics of chemotactic aggregates</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Henrik Weyer et al.</td>
 <td><a href="http://arxiv.org/abs/2409.20100">2409.20100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11363.html">Global attractor for a Cahn-Hilliard-chemotaxis model with logistic degradation</a></div></td>
-<td>Giulio Schimperna et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11363">2511.11363</a></td>
 </tr>
 </tbody></table>

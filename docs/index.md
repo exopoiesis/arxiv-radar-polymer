@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-09._
+_Updated 2026-11-10._
 
-**3771** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3772** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -153,6 +153,12 @@ _Updated 2026-11-09._
 <td><a href="http://arxiv.org/abs/2611.05721">2611.05721</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-03</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09991.html">Conductance scaling in nanopore arrays: disentangling roles of pore arrangement and reservoir geometry</a></div><div class="paper-tags"><a href="tag/membranes-30d.html">membranes</a></div></td>
+<td>Jacob Bair et al.</td>
+<td><a href="http://arxiv.org/abs/2611.09991">2611.09991</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.02541.html">Topological origin of the Gutenberg-Richter law: Dynamic decoupling of fault cascades and energy dissipation</a></div><div class="paper-tags"><a href="tag/rheology-30d.html">rheology</a></div></td>
 <td>Bin Chen et al.</td>
@@ -187,11 +193,5 @@ _Updated 2026-11-09._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.04008.html">Triboelectric nanogenerators across length scales: linking materials, multiscale modelling and applications</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>MD Tanzib Ehsan Sanglap et al.</td>
 <td><a href="http://arxiv.org/abs/2611.04008">2611.04008</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.01432.html">Variational learning of energy-stable macroscopic flow equations from microscopic laws</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Pei Ge et al.</td>
-<td><a href="http://arxiv.org/abs/2611.01432">2611.01432</a></td>
 </tr>
 </tbody></table>

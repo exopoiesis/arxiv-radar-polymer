@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">14 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -98,17 +98,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23285.html">When Cooling Meets Flow: Advection-Driven Orientation Selection in Phase Separation around a Moving Cooling Source</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Lakshmipriya K et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23285">2610.23285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.14433.html">Fluctuation-based evaluation of thermal conductivity using deviational phonon Monte Carlo simulations</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
-<td>Takuma Hori et al.</td>
-<td><a href="http://arxiv.org/abs/2610.14433">2610.14433</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.15214.html">Transition-Metal Chalcogenide Nanowires: A First-Principles Study of Stability, Electronic Structure, and Mechanical Response</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="mlff-30d.html">mlff</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Danilo de Araújo Moura et al.</td>
-<td><a href="http://arxiv.org/abs/2610.15214">2610.15214</a></td>
 </tr>
 </tbody></table>

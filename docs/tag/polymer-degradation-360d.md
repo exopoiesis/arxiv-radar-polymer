@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-degradation — 360d</h1>
-  <span class="paper-count">38 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="polymer-degradation-7d.html">7d</a> <a href="polymer-degradation-30d.html">30d</a> <a href="polymer-degradation-90d.html">90d</a> <strong>360d</strong> <a href="polymer-degradation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -236,11 +236,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20392.html">Mechano-chemical modeling of glia initiated secondary injury of neurons under mechanical load</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>Debabrata Auddya et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20392">2511.20392</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.11180.html">Prognostics and Health Management in Polymer Electrolyte Fuel Cells: Current Trends, Challenges, and Future Directions</a></div><div class="paper-tags"><a href="polymer-electrolytes-360d.html">polymer-electrolytes</a></div></td>
-<td>Farideh Abdollahi et al.</td>
-<td><a href="http://arxiv.org/abs/2511.11180">2511.11180</a></td>
 </tr>
 </tbody></table>
