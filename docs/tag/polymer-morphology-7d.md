@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04428.html">Topology Does Not Determine Defect Mobility in Active Polar Matter</a></div></td>
-<td>Abhra Puitandy et al.</td>
-<td><a href="http://arxiv.org/abs/2611.04428">2611.04428</a></td>
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div><div class="paper-tags"><a href="mechanical-properties-7d.html">mechanical-properties</a></div></td>
+<td>Lianghao Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11805">2611.11805</a></td>
 </tr>
 </tbody></table>

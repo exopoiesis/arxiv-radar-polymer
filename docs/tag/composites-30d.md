@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>composites — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <strong>30d</strong> <a href="composites-90d.html">90d</a> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-08</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11594.html">Liberation in the Heavy Limit</a></div></td>
+<td>Sridip Pal et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11594">2611.11594</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10666.html">Parameterized Physics-Informed Neural Networks for Efficient Simulation of Embedded Microfluidic Chip Cooling</a></div></td>
+<td>Weiheng Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10666">2611.10666</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-02</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03910.html">Non-Hermitian effective dynamics from post-selection protocols</a></div></td>

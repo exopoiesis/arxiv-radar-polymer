@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>benchmarking — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">40 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <strong>90d</strong> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,36 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13536.html">Adaptive catalyst discovery emerges from composable scientific intelligence</a></div><div class="paper-tags"><a href="catalyst-design-90d.html">catalyst-design</a></div></td>
+<td>Wentao Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.13536">2611.13536</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11958.html">OriDynamics: Towards a World Model for Biomolecular Dynamics</a></div></td>
+<td>Jiahao Yang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11958">2611.11958</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10517.html">Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="diffusion-model-90d.html">diffusion-model</a> · <a href="mlff-90d.html">mlff</a> · <a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Yang Nie et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10517">2611.10517</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09667.html">Cavity-QED Molecular Dynamics: An eT-i-PI Interface for Ab Initio Cavity Born-Oppenheimer Dynamics and Joint Nuclear-Photon Path-Integral Sampling</a></div><div class="paper-tags"><a href="molecular-dynamics-90d.html">molecular-dynamics</a></div></td>
+<td>Giuseppe Cassone</td>
+<td><a href="http://arxiv.org/abs/2611.09667">2611.09667</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10267.html">Match the Geometry Before the Surrogate: Extreme Low-Budget Optimization in High Dimensions</a></div><div class="paper-tags"><a href="bayesian-optimization-90d.html">bayesian-optimization</a> · <a href="generative-model-90d.html">generative-model</a> · <a href="selfies-90d.html">selfies</a></div></td>
+<td>Michal Průšek et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10267">2611.10267</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-05</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07998.html">Towards Multiscale Molecular Representation Learning through Geometry-Based Fragmentation for Polymer Property Prediction</a></div></td>
@@ -224,11 +254,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15570.html">Neural-Embedded Graphical Model for Self-Consistent Hierarchical Upscaling of Complex Composites</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="multiscale-modeling-90d.html">multiscale-modeling</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Nuo Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15570">2608.15570</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.16943.html">PocketCaBER and PocketDoS: Low-cost open-source tools for teaching and learning advanced topics in fluid mechanics</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a></div></td>
-<td>Zhaofeng Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2608.16943">2608.16943</a></td>
 </tr>
 </tbody></table>

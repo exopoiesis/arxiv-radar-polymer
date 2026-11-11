@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-03</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05055.html">Ablating Design Choices for Protein Ensemble Generators Across Structural Regimes</a></div><div class="paper-tags"><a href="coarse-grained-7d.html">coarse-grained</a> · <a href="saxs-7d.html">saxs</a></div></td>
-<td>Eoin Quinn et al.</td>
-<td><a href="http://arxiv.org/abs/2611.05055">2611.05055</a></td>
+<td>2026-11-06</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10267.html">Match the Geometry Before the Surrogate: Extreme Low-Budget Optimization in High Dimensions</a></div><div class="paper-tags"><a href="bayesian-optimization-7d.html">bayesian-optimization</a> · <a href="benchmarking-7d.html">benchmarking</a> · <a href="selfies-7d.html">selfies</a></div></td>
+<td>Michal Průšek et al.</td>
+<td><a href="http://arxiv.org/abs/2611.10267">2611.10267</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Lianghao Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11805">2611.11805</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04428.html">Topology Does Not Determine Defect Mobility in Active Polar Matter</a></div></td>
 <td>Abhra Puitandy et al.</td>
@@ -1292,11 +1298,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.14658.html">Thermally Activated Snap-through Transitions Controlled by Tunable Metastability</a></div><div class="paper-tags"><a href="enhanced-sampling-360d.html">enhanced-sampling</a></div></td>
 <td>Renjie Zhao et al.</td>
 <td><a href="http://arxiv.org/abs/2508.14658">2508.14658</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.12310.html">Electric field-dependent conductivity as probe for charge carrier delocalization and morphology in organic semiconductors</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Morteza Shokrani et al.</td>
-<td><a href="http://arxiv.org/abs/2511.12310">2511.12310</a></td>
 </tr>
 </tbody></table>

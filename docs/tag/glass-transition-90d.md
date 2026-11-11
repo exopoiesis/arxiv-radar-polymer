@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11826.html">How Path Integral Diffusion Decides a Finite Spin Glass</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Michael Chertkov</td>
+<td><a href="http://arxiv.org/abs/2611.11826">2611.11826</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-06</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09456.html">Increased Crystal Nucleation in the Glassy State of a Polymer/Water Mixture</a></div></td>
 <td>Mika Kobayashi et al.</td>
@@ -104,11 +110,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
 <td>Leonardo dos Santos Vitoria et al.</td>
 <td><a href="http://arxiv.org/abs/2608.14853">2608.14853</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.12288.html">Revisiting Safe Temperature for Environmental Accelerated Aging of Additively Manufactured Polymers</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>Keven Alkhoury et al.</td>
-<td><a href="http://arxiv.org/abs/2608.12288">2608.12288</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-09</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Lianghao Cao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.11805">2611.11805</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04428.html">Topology Does Not Determine Defect Mobility in Active Polar Matter</a></div></td>
 <td>Abhra Puitandy et al.</td>
@@ -314,11 +320,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13230.html">Substrate-Directed Wetting Layers in Bicontinuous Particle-Stabilised Emulsions</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
 <td>Jesse M. Steenhoff et al.</td>
 <td><a href="http://arxiv.org/abs/2608.13230">2608.13230</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.11851.html">Effect of Weak Non-Conservative Dynamics on Pattern Formation in Scalar Active Matter</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>Sameer Kumar</td>
-<td><a href="http://arxiv.org/abs/2608.11851">2608.11851</a></td>
 </tr>
 </tbody></table>

@@ -880,6 +880,30 @@
   ],
   "updated": "2026-11-05"
  },
+ "2611.09287": {
+  "abstract": "We present here a numerical study of the Toda lattice Hamiltonian dynamics showing how, despite model integrability, it is possible to find many macroscopic observables which display standard equilibrium behavior. In particular, we study numerically the energy time correlation of certain coarse-grained variables, showing that it decays with either exponential or stretched exponential behaviour, thus indicating good thermalization properties. The spirit of our observation is complementary to that of standard Fermi-Pasta-Ulam-Tsingou-like numerical experiments, in which the breaking of integrability is regarded as the key ingredient for relaxation to thermal equilibrium. The present communication corroborates, on the contrary, the view that integrability is not an obstacle to thermalization, provided that a sufficiently weak definition of the latter is accepted. In the Toda lattice we have introduced several kinds of coarse-grained variables, constructed with the purpose to maintain a thermodynamic relevance also for large system sizes, which all show good thermalization properties.",
+  "authors": [
+   "Martina Giachello",
+   "Cesare Vianello",
+   "Giacomo Gradenigo"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "26 pages, 8 figures",
+  "first_author": "Martina Giachello",
+  "pdf_url": "http://arxiv.org/pdf/2611.09287",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-06",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Thermalization of coarse-grained variables in the Toda lattice: a numerical study",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-06"
+ },
  "2611.09456": {
   "abstract": "Within classical nucleation theory, crystal nucleation requires sufficient supersaturation, but is suppressed at low temperatures due to reduced molecular mobility, leading to a maximum nucleation rate typically above the glass transition temperature $T_g$. Here, we experimentally show that this conventional picture breaks down in a biocompatible polymer poly(2-methoxyethyl acrylate)(PMEA)/water mixture. We find that the number of nuclei increases dramatically below $T_g$, with the effective nucleation rate exhibiting an unusual maximum at approximately $T_g-10$ K. Calorimetric experiments reveal a strong temperature-history dependence of cold crystallization of water in hydrated PMEA, which is explained by the observed nucleation behavior. We propose that the unusual enhancement of nucleation below $T_g$ provides a key mechanism linking high glass-forming ability and cold crystallization upon heating, thereby explaining the striking asymmetry in crystallization behavior between cooling and heating. Our findings suggest that a hidden nucleation-rate maximum below $T_g$ may also underlie cold crystallization in other glass-forming liquids.",
   "authors": [
@@ -902,6 +926,128 @@
    "glass-transition"
   ],
   "title": "Increased Crystal Nucleation in the Glassy State of a Polymer/Water Mixture",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09537": {
+  "abstract": "In this work we study the discrete Smoluchowski equation with a multiplicative kernel and an additional term describing the spontaneous shattering of each particle into monomers at a constant rate $λ$. We show that the introduction of fragmentation suppresses gelation for $λ\\ge 4$. We derive analytical expressions for the second moment and the monomer concentration $n_1(t)$. These expressions lead to a recurrence relation allowing the steady-state particle size distribution for $λ\\ge 4$ to be calculated with machine precision. We validate our analytical and semi-analytical results via numerical simulations using a solver that employs the Fast Fourier Transform for computation of the right-hand side and a second-order Runge-Kutta method with adaptive time steps.",
+  "authors": [
+   "Sergey Matveev"
+  ],
+  "categories": [
+   "math.DS",
+   "cond-mat.stat-mech"
+  ],
+  "comment": null,
+  "first_author": "Sergey Matveev",
+  "pdf_url": "http://arxiv.org/pdf/2611.09537",
+  "primary_category": "math.DS",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "Suppression of gel formation by spontaneous fragmentation",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09667": {
+  "abstract": "Simulating molecules in quantum electrodynamic (QED) cavities requires a consistent description of electronic response, nuclear motion, and electromagnetic-field fluctuations. Here, I present Cavity-QED Molecular Dynamics, an interface connecting eT and i-PI for atomistic simulations of finite molecular systems coupled to a single photon mode. The code evaluates a self-consistent cavity Born-Oppenheimer Hartree-Fock (CBO-HF) energy surface and supports classical-nuclei dynamics under canonical (NVT) and microcanonical (NVE) ensembles, as well as canonical joint nuclear-photon path-integral sampling including nuclear quantum effects (NQEs). A fixed-displacement gradient correction provides nuclear and photon forces consistent with the same energy surface as the photon coordinate evolves independently. OpenMP threading, concurrent bead evaluations, and analysis utilities support practical simulations. Water-monomer benchmarks assess both dynamical propagation and equilibrium sampling. Energy-derivative checks and NVE timestep tests demonstrate consistent force evaluation and integration, while path integral molecular dynamics (PIMD) simulations with PILE-L thermostatting reproduce analytic finite-bead photon second moments, including their centroid and internal contributions, within sampling uncertainties. At the tested parameters, cavity coupling produces a small but statistically resolved increase in photon fluctuations, while changes in mean molecular geometry remain within sampling uncertainty. The resulting Cavity-QED Molecular Dynamics framework enables controlled investigations of how coupled quantum fluctuations of matter and the electromagnetic field influence molecular equilibrium properties within the CBO-HF approximation, providing a foundation for future studies of cavity-modified hydrogen bonding, vibrational spectra, and molecular polaritonic phenomena.",
+  "authors": [
+   "Giuseppe Cassone"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Giuseppe Cassone",
+  "pdf_url": "http://arxiv.org/pdf/2611.09667",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-06",
+  "tags": [
+   "benchmarking",
+   "molecular-dynamics"
+  ],
+  "title": "Cavity-QED Molecular Dynamics: An eT-i-PI Interface for Ab Initio Cavity Born-Oppenheimer Dynamics and Joint Nuclear-Photon Path-Integral Sampling",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09696": {
+  "abstract": "In this contribution, we review existing multivalent models of Influenza A Virus (IAV) systems to study virion dynamics and design of multivalent entry blockers. We review existing biochemical estimations of the dissociation constants and catalytic activities of the two virion ligands [hemagglutinin (HA) and neuraminidase (NA)], which can be used to develop quantitative theories and experiments. Multivalent models are statistical mechanics frameworks for studying the simultaneous interaction of multiple reversible ligand-receptor bonds. They quantify the effects of both combinatorial entropy terms and single-molecule ligand-receptor affinities. Multivalent frameworks led to the rationale of superselectivity, the ability of probes to sense specific concentrations of conjugated receptors. Multivalent models guided the design of antiviral nanomedicines constituted by polymeric scaffolds conjugated with small molecules such as sialic acid receptors targeting the ligands on the surface of the virion. Importantly, neuraminidase is an enzyme that limits the number of host-guest bonds through receptor desialylation. Like active particles, neuraminidase activity enhances virion motility in the extracellular medium. Modeling the dynamics of Influenza A virions requires developing out-of-equilibrium multivalent models.",
+  "authors": [
+   "Sumati Bhatia",
+   "Andreas Herrmann",
+   "Thomas Kolbe",
+   "Lalan Kumar",
+   "Daniel Lauster",
+   "Susanne Liese",
+   "Bortolo Matteo Mognetti"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph"
+  ],
+  "comment": "Review article. Authors listed in alphabetical order",
+  "first_author": "Sumati Bhatia",
+  "pdf_url": "http://arxiv.org/pdf/2611.09696",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-06",
+  "tags": [],
+  "title": "Influenza A Virus as a Multivalent Active Particle: Statistical Mechanics of Binding, Motility, and Antiviral Design",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09759": {
+  "abstract": "Chain-of-thought (CoT) reasoning has emerged as a powerful paradigm for extending the computational capabilities of transformer-based models. A growing body of recent work has begun to uncover the fine-grained computational power of transformers augmented with CoT, as well as their connections to classical complexity theory.   In this work, we advance this line of research by establishing the first hierarchy theorem for CoT-based computation. Our main result shows that for any reasonable resource bound $r(n) \\geq n$ and any $\\varepsilon > 0$, \\[ \\mathrm{CoT}(r(n)) \\subsetneq \\mathrm{CoT}(r(n)^{1+\\varepsilon}), \\] where $\\mathrm{CoT}(r(n))$ denotes the class of decision problems solvable by transformers using $O(r(n))$ CoT reasoning steps on inputs of length $n$. Our result shows that increasing the number of CoT reasoning steps provably yields strictly greater computational power, establishing CoT steps as a fundamental resource in transformer-based computation.   Unlike classical hierarchy theorems, which are typically proved via diagonalization, our approach leverages known coarse-grained simulations between CoT-augmented transformers and Turing machines in both directions. Building on these connections, we adapt the classical padding technique from complexity theory to this setting to obtain a tight hierarchy. A key technical contribution of our work is the implementation of padding within the transformer-based CoT model.",
+  "authors": [
+   "Thanh Le",
+   "A. Pavan",
+   "N. V. Vinodchandran"
+  ],
+  "categories": [
+   "cs.LG",
+   "cs.CC"
+  ],
+  "comment": null,
+  "first_author": "Thanh Le",
+  "pdf_url": "http://arxiv.org/pdf/2611.09759",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "A Tight Hierarchy for Chain of Thought",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.09810": {
+  "abstract": "The modulus plateau is widely regarded as a hallmark of topological entanglement in homopolymer melts and has been used to identify entanglement in semiflexible conjugated polymers. Using regiorandom poly(3-alkylthiophenes) as a model system, we show that their plateau elasticity relaxes through an Arrhenius process decoupled from segmental and terminal dynamics, reorganizes persistently under mechanical perturbation, and varies systematically with side-chain length. These behaviors are hard to reconcile with a purely topological-entanglement picture and instead support a transient network dominated by reversible interchain associations, consistent with π-π interactions between conjugated backbone segments. The results thus demonstrate that plateau elasticity alone does not uniquely identify topological entanglement in conjugated polymers. More broadly, they identify the strength and lifetime of interchain association as molecular design parameters linking backbone packing to stress relaxation, viscoelastic properties, and processability in conjugated polymers, complementing their established role in electronic structure and charge transport.",
+  "authors": [
+   "Juncheng Zheng",
+   "Xiaobing Zuo",
+   "Xiaodan Gu",
+   "Shiwang Cheng"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "32 Pages, 5 Figures",
+  "first_author": "Juncheng Zheng",
+  "pdf_url": "http://arxiv.org/pdf/2611.09810",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-06",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Reversible Interchain Associations Dominate Plateau Elasticity in Conjugated Polymers",
   "topics": [
    "Property Prediction & QSPR"
   ],
@@ -932,5 +1078,678 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-11-03"
+ },
+ "2611.10267": {
+  "abstract": "Low-budget molecular optimization is often framed as Bayesian optimization in a learned latent space, but standard benchmarks typically allow hundreds or thousands of evaluations, whereas a realistic wet-lab round may allow only a few dozen. We revisit this regime using a SELFIES molecular variational autoencoder (VAE) with a Gaussian prior and GuacaMol objectives at N = 30 evaluations. The main finding is not a new surrogate model, but an interaction in candidate generation. The encoder means of a reference set of molecules concentrate near a narrow spherical shell, while many high-dimensional optimizers propose candidates from boxes or box-shaped trust regions. We study a simple constraint, the on-sphere scaffold, that restricts candidate generation to this shell. We then introduce two minimal optimizers to probe what remains useful once the support is fixed. GeoWalk performs geodesic local search on the shell without a surrogate. After 30 evaluations, it shows no detected difference from a Gaussian-process (GP) surrogate on the shell, which is ahead earlier in the budget. GeoCMA adds covariance learning in a random subspace. It does not improve on GeoWalk in the molecular benchmark. On LassoBench it has a lower mean loss than GeoWalk, but full-dimensional CMA-ES remains stronger on most tasks. A factorial experiment with a single GP crosses the candidate support (shell or box) with the acquisition maximizer (a finite candidate set or a continuous optimizer). In this benchmark, shell candidates outperformed box candidates when acquisition was maximized over a candidate set, but not with continuous maximization by L-BFGS-B. These results come from a controlled study of one Gaussian-prior VAE benchmark and do not recommend VAEs for molecular optimization. The practical lesson is to control the candidate support and the acquisition maximizer before attributing a gain to the surrogate.",
+  "authors": [
+   "Michal Průšek",
+   "Adam Novozámský",
+   "Filip Šroubek"
+  ],
+  "categories": [
+   "cs.LG",
+   "stat.ML"
+  ],
+  "comment": "NeurIPS 2026 (camera-ready). 10 pages of main text plus appendices and the NeurIPS paper checklist, 38 pages in total. Code and result files: https://github.com/michalprusek/geometry-before-surrogates-neurips2026 . Project page: https://staff.utia.cas.cz/novozada/geo",
+  "first_author": "Michal Průšek",
+  "pdf_url": "http://arxiv.org/pdf/2611.10267",
+  "primary_category": "cs.LG",
+  "published": "2026-11-06",
+  "tags": [
+   "bayesian-optimization",
+   "benchmarking",
+   "generative-model",
+   "selfies"
+  ],
+  "title": "Match the Geometry Before the Surrogate: Extreme Low-Budget Optimization in High Dimensions",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-11-06"
+ },
+ "2611.10365": {
+  "abstract": "Charged amphiphilic surfactants are versatile polymorphic molecules which can form supramolecular structures, such as wormlike micelles. We study the rheology and non-Newtonian fluid dynamics of the cationic surfactant trimethyltetradecylammonium chloride (TTAC) combined with the aromatic counter-ion sodium salicylate (NaSal). In the non-dilute regime, this solution exhibits a linear viscoelastic response consistent with a single-mode Jeffreys model, and in capillary pinch-off experiments, fluid filaments form extended cylindrical threads, indicating strong strain-stiffening. In the dilute regime the linear viscoelasticity and extensional rheology become immeasurably small, but the TTAC/NaSal mixture develops flow-induced structures at high shear rates, as the result of an end-to-end concatenation of micelles produced by shear-induced flow alignment. These flow-induced structures augment both the measured viscosity and the viscous drag in laminar flows at high shear rates (by as much as 50 %). In turbulent Taylor-Couette flow, the flow-induced structures produce a sudden and dramatic destabilizing influence on the stable toroidal Taylor vortices, resulting in upwards of a 200 % enhancement in turbulent drag. However, with increasing Reynolds number, the turbulent flow transitions smoothly to a state of drag reduction, generating up to a 30 % reduction in fluid frictional drag but without the shear-induced degradation that plagues drag reduction strategies based on solutions of high molecular weight polymer, such as polyacrylamide. These results show that surfactants are a unique and effective modifier of fluid frictional drag in both laminar and turbulent flow regimes, capable of producing both significant levels of drag enhancement and drag reduction by tuning the composition and operating conditions.",
+  "authors": [
+   "Lucas Warwaruk",
+   "Amanda Tiano",
+   "Berith Isaac",
+   "Gareth H. McKinley"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "35 pages, 16 figures",
+  "first_author": "Lucas Warwaruk",
+  "pdf_url": "http://arxiv.org/pdf/2611.10365",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-07",
+  "tags": [
+   "mechanical-properties",
+   "polymer-degradation",
+   "rheology"
+  ],
+  "title": "Tuning fluid frictional drag through flow-induced aggregation of wormlike micelles",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.10517": {
+  "abstract": "Coarse-grained molecular dynamics (CGMD) extends molecular simulations to length and time scales inaccessible to atomistic models, but building thermodynamically faithful CG potentials remains a longstanding challenge. Energy-based diffusion models (EBDMs) provide a promising route for learning CG potentials through their zero-time energy. However, CGMD driven by diffusion-learned potentials can produce equilibrium ensembles that deviate substantially from the target distribution. We show that the zero-time distribution error is bounded by the sum of the spatial score error and temporal energy-derivative error, whereas conventional diffusion objectives directly supervise only the spatial component. Based on this finding, we introduce Spatiotemporal Energy Consistency (STEC) supervision, which complements spatial score matching by explicitly constraining temporal energy derivatives. We derive an exact and tractable objective for this temporal component, avoiding the substantial computational overhead associated with previous regularization schemes. Across peptide and fast-folding protein systems, STEC-trained EBDMs accurately reproduce equilibrium distributions with free-energy errors within chemical accuracy, while supporting stable long-time simulations that recover key metastable transition patterns. On held-out octapeptides, STEC reduces free-energy errors by more than 5-fold relative to the strongest competing baseline, while achieving a median production-cost reduction of approximately 1,700-fold relative to atomistic molecular dynamics under a defined structural-coverage benchmark. These results establish STEC as a scalable framework for learning thermodynamically reliable CG force fields for increasingly complex biomolecular systems.",
+  "authors": [
+   "Yang Nie",
+   "Lingyun Wang",
+   "He Zhang",
+   "Chang Liu",
+   "Dan Hu"
+  ],
+  "categories": [
+   "physics.chem-ph"
+  ],
+  "comment": "45 pages, 5 main-text figures and 6 appendix figures",
+  "first_author": "Yang Nie",
+  "pdf_url": "http://arxiv.org/pdf/2611.10517",
+  "primary_category": "physics.chem-ph",
+  "published": "2026-11-07",
+  "tags": [
+   "benchmarking",
+   "coarse-grained",
+   "diffusion-model",
+   "mlff",
+   "molecular-dynamics"
+  ],
+  "title": "Spatiotemporal Energy Consistency Enables Reliable Coarse-Grained Molecular Dynamics from Diffusion Models",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.10621": {
+  "abstract": "We investigate the coarsening and aging dynamics of vapor bubbles during liquid-vapor phase separation in a three-dimensional single-component Lennard-Jones fluid using large-scale molecular dynamics simulations. Following a temperature quench from a homogeneous high-temperature state into the two-phase coexistence region, vapor bubbles nucleate and grow in the liquid background. The characteristic bubble size follows a power-law growth, $\\ell(t)\\sim t^α$, with a growth exponent $α\\simeq 2/3$, characteristic of inertial hydrodynamic coarsening. We also investigate the two-time autocorrelation function $C_{ag}(t,t_w)$ which follows waiting-time dependent relaxation, revealing aging. Furthermore, data at different waiting times collapse onto a scaling function when plotted as a function of the length ratio $\\ell(t)/\\ell(t_w)$, demonstrating dynamical scaling during aging. The corresponding scaling function exhibits an algebraic decay with an exponent $λ\\simeq 3$. Interestingly, bubble and droplet growth exhibit distinctly different domain-growth and aging exponents despite both being disconnected morphologies.",
+  "authors": [
+   "Sutapa Roy"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "8 pages, 7 figures",
+  "first_author": "Sutapa Roy",
+  "pdf_url": "http://arxiv.org/pdf/2611.10621",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-07",
+  "tags": [
+   "molecular-dynamics",
+   "phase-separation"
+  ],
+  "title": "Dynamic Scaling and Aging in Hydrodynamic Coarsening of Vapor Bubbles in a Lennard-Jones Fluid",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.10666": {
+  "abstract": "Embedded microfluidic cooling is a promising technology for dissipating the intense heat generated by high-performance electronic chips. However, the design and optimization of such coolers impose prohibitive computational costs when using conventional numerical solvers. Here, we present a parameterized physics-informed neural network (PINN) as a deep learning framework for rapidly and accurately predicting the thermohydraulic performance of embedded manifold microchannels. By incorporating four geometric dimensions along with three spatial coordinates as the network inputs, the proposed model enables multiphysics prediction across a continuous design space. Remarkably, our predicted velocity and temperature fields differ from finite-element simulations by relative errors of only 8.1% and 5.6%, respectively, while reducing the computational time and cost by over four orders of magnitude. Key to this framework is a composite strategy combining geometric ansatz embedding, the SOAP optimizer, and a thermal-conductivity-based curriculum learning scheme, which helps overcome the convergence challenges inherent in training PINNs for complex three-dimensional flows. Notably, by leveraging a highly optimized JAX backend, the network achieves convergence on a single consumer-grade GPU in less than four hours. Our approach offers a physics-consistent, real-time surrogate model that can substantially accelerate innovations in advanced microfluidic cooling of future electronics.",
+  "authors": [
+   "Weiheng Li",
+   "Zhiyao Jiang",
+   "Bai Song"
+  ],
+  "categories": [
+   "physics.app-ph",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Weiheng Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.10666",
+  "primary_category": "physics.app-ph",
+  "published": "2026-11-07",
+  "tags": [
+   "composites"
+  ],
+  "title": "Parameterized Physics-Informed Neural Networks for Efficient Simulation of Embedded Microfluidic Chip Cooling",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.10780": {
+  "abstract": "We revisit the protocol known as Exponential Shear (ES), first proposed by Doshi and Dealy in 1986. This is a transient strong flow that can be readily imposed in the laboratory using commercial strain-controlled (separate motor and transducer) rheometers which accurately measure both the (exponentially) time-varying torque and normal force exerted by the sample. Numerous studies over the years have proposed competing definitions of an appropriate material function for reporting data obtained from the exponentially time-varying imposed deformation. We revisit this unresolved challenge and carefully reconsider the exponential material kinematics involved and the proper definition of the corresponding material functions. We show that by understanding the time-varying eigenvalues and eigenvectors of both the shearing kinematics and the evolving state of stress in the sample it is, in fact, possible to use an exponential shear test to quantitatively map out \\textit{both} the full flow curve (of shear viscosity vs. shear rate) and the steady planar extensional viscosity curve as a function of deformation rate. These findings are supported by numerical simulations of a number of nonlinear viscoelastic constitutive models, asymptotic analysis, as well as experiments with several polymeric liquids.",
+  "authors": [
+   "Nicholas King",
+   "Eugene Pashkovski",
+   "Reid Patterson",
+   "Gareth H. McKinley"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Nicholas King",
+  "pdf_url": "http://arxiv.org/pdf/2611.10780",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-07",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "A new approach to measuring both the steady flow curve and the planar extensional viscosity of complex fluids using exponential shear",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-07"
+ },
+ "2611.11594": {
+  "abstract": "We study CFT four-point functions of identical scalar primaries as their dimension $Δ$ grows for fixed $0<z, \\bar z<1$, and call them liberated if they grow at the same exponential rate as those of a generalized free field (GFF), as is the case for heavy free particles propagating along geodesics in AdS. We show that the correlator is liberated at the crossing symmetric point if and only if the light spectrum is sparse, and that liberation then holds wherever $z$ and $\\bar z$ lie on the same side of $1/2$. If the low twist states are also sparse, liberation holds everywhere except in an explicit band around $z+\\bar z=1$. In particular, if the primary twist gap lies above $\\sqrt{2}Δ$, then the correlator is liberated everywhere. For twist cutoffs below $Δ$, composites of two spinning generalized free fields fail to be liberated in a region that fills the band near the double lightcone limit. In two dimensions, Virasoro primaries cannot be liberated unless the central charge grows faster than $Δ$. The same framework sharpens the universality of large-$c$ torus partition functions of two-dimensional CFTs.",
+  "authors": [
+   "Sridip Pal",
+   "Gordon Rogelberg"
+  ],
+  "categories": [
+   "hep-th",
+   "cond-mat.stat-mech",
+   "math-ph"
+  ],
+  "comment": "52 pages, 7 figures",
+  "first_author": "Sridip Pal",
+  "pdf_url": "http://arxiv.org/pdf/2611.11594",
+  "primary_category": "hep-th",
+  "published": "2026-11-08",
+  "tags": [
+   "composites"
+  ],
+  "title": "Liberation in the Heavy Limit",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-08"
+ },
+ "2611.11805": {
+  "abstract": "We study the learning of homogenized constitutive laws for inelastic heterogeneous materials, aiming to replace costly concurrent unit-cell simulations with surrogates that generalize across loading histories and microstructures. We focus on the recurrent neural operator framework, motivated by the explicit form of homogenized Kelvin--Voigt linear viscoelasticity. In this framework, internal variables enable a Markovian approximation of loading-history dependence, and neural operators represent the microstructure-dependent constitutive response. For periodic Kelvin--Voigt viscoelasticity, we prove a universal approximation theorem showing that the model can approximate the homogenized constitutive law to any prescribed accuracy, uniformly in time and over a wide set of admissible strain trajectories and microstructural property fields, in two and three dimensions. This comprises a significant extension of the existing, somewhat limited, one-dimensional theory that uses explicit solutions for piecewise constant materials. Instead, in two and three dimensions, we adopt a more versatile approximation based on the spectral representation of the memory kernel that arises from homogenization. This also enables us to give an explicit bound on the internal-variable dimension, sufficient for approximation, exhibiting logarithmic growth in the inverse relative stress error and in material contrast. Numerical experiments on viscoelasticity and crystal plasticity complement the theory, illustrating the roles of internal-variable dimension and sample complexity in learning homogenized responses from unit-cell data. Theoretical results are formally verified in Lean 4.",
+  "authors": [
+   "Lianghao Cao",
+   "George Stepaniants",
+   "Andrew M. Stuart"
+  ],
+  "categories": [
+   "math.NA",
+   "cond-mat.mtrl-sci",
+   "cs.LG",
+   "math.DS"
+  ],
+  "comment": "52 pages, 12 figures, including appendices",
+  "first_author": "Lianghao Cao",
+  "pdf_url": "http://arxiv.org/pdf/2611.11805",
+  "primary_category": "math.NA",
+  "published": "2026-11-09",
+  "tags": [
+   "mechanical-properties",
+   "polymer-morphology"
+  ],
+  "title": "Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.11826": {
+  "abstract": "When an AI diffusion-type generator samples a frustrated spin glass, which macroscopic alternatives does it decide first, and when? We study this for bridge-diffusion models of the Path Integral Diffusion (PID) type started from a point source. We show that every isotropic PID is a time-changed Gaussian stochastic localization, and conversely every signal-to-noise schedule is realized by a PID protocol. What a continuous-time generator decides therefore does not depend on the protocol, which only sets when and at what cost. We describe the generator's state by its partial commitments: the probabilities it assigns, at each moment, to nested classes of configurations fixed by the target. The partial commitments are martingales that move only along class contrasts. Their ensemble average gives the information about each level at an exact rate set by squared magnetization contrasts. Each split is decided, approximately, like a binary Gaussian channel at signal-to-noise ratio 1.04/λ_P, with λ_P the leading eigenvalue of the parent's correlation matrix. The theory is applied to Bethe-lattice and Sherrington--Kirkpatrick (SK) glasses with up to 64 spins. It is observed generically that a trajectory first shifts its weight to one of the two mirror halves of the zero-field measure and then to the glassy classes inside it. These classes appear near the glass transition and keep their identity on cooling. Nested glassy levels have similar λ_P and are decided together, so a trajectory commits in one or two distinct events---the mirror choice and a compound glassy decision---which separate further with coupling and size, as the spectra predict. For a generator that takes finitely many steps, the protocol matters through the late, local stage rather than the macroscopic decisions.",
+  "authors": [
+   "Michael Chertkov"
+  ],
+  "categories": [
+   "cond-mat.dis-nn",
+   "cond-mat.stat-mech",
+   "cs.AI",
+   "stat.ML"
+  ],
+  "comment": "42 pages, 15 figures",
+  "first_author": "Michael Chertkov",
+  "pdf_url": "http://arxiv.org/pdf/2611.11826",
+  "primary_category": "cond-mat.dis-nn",
+  "published": "2026-11-09",
+  "tags": [
+   "diffusion-model",
+   "glass-transition"
+  ],
+  "title": "How Path Integral Diffusion Decides a Finite Spin Glass",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.11939": {
+  "abstract": "Building on our previous work on thermal nonaffine metrics and thermal strain fields, we examine how local steric geometry controls thermally driven rearrangements in an amorphous glass-forming solid. As a structural descriptor, we employ the topological steric \"theta-mismatch\" order parameter, which quantifies local deviations of bond angles from the steric reference geometry and is used to distinguish low- and high-mismatch particle populations. We then compare their thermal nonaffine response, thermal deviatoric strain, and thermal volumetric strain over a broad temperature range at several state points. High-Delta-theta sites preferentially exhibit larger thermal nonaffine motion and stronger thermal deviatoric strain, particularly in the deeply jammed regime, indicating that geometrically frustrated regions are preferentially associated with localized mechanical distortions. The thermal volumetric response exhibits a distinct mismatch-dependent crossover: low-Delta-theta sites predominantly contribute to the small-strain response, whereas high-Delta-theta sites contribute more strongly to the large-strain tail. The contrast between low- and high-mismatch populations is most pronounced in the deeply jammed regime, remains identifiable through the intermediate viscoelastic regime, and progressively weakens upon heating toward the liquid state. These results establish a direct connection between local steric frustration and thermally activated mechanical response, showing that thermal nonaffine metrics and thermal strain fields provide a physically transparent bridge between local structure and thermally driven rearrangements in amorphous glasses.",
+  "authors": [
+   "Avinash Kumar Jha"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "Submitted to Physica A: Statistical Mechanics and its Applications",
+  "first_author": "Avinash Kumar Jha",
+  "pdf_url": "http://arxiv.org/pdf/2611.11939",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Topology to Elasticity Mapping in Thermal Glass",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling",
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.11953": {
+  "abstract": "Most turbulent flows are sustained by inertia, which transfers energy across scales and produces characteristic power-law spectra. Yet dilute polymer solutions also exhibit turbulence when inertia is negligible: in this state, known as elastic turbulence, the velocity field remains spatially smooth while both the velocity and the polymer conformation exhibit robust power-law spectra. How a smooth flow, lacking a hierarchy of eddies, generates such multiscale structure has remained unexplained. Here we show that the missing mechanism is elastic frontogenesis, whereby the flow spontaneously organizes polymer stress into thin sheets that are stretched within their plane and compressed across their thickness, causing their amplitude to grow as they become thinner. Because the fronts are sheet-like structures, this amplification-thinning law uniquely determines the polymer conformation spectrum, while the Stokes response transfers the same geometric scaling to the velocity field, reconciling broadband spectra with spatial smoothness. Being geometric rather than model-specific, elastic frontogenesis provides an organizing principle for viscoelastic flows and the viscoelastic analogue of vortex stretching in inertial turbulence.",
+  "authors": [
+   "Marco Edoardo Rosti",
+   "Andrea Mazzino"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Marco Edoardo Rosti",
+  "pdf_url": "http://arxiv.org/pdf/2611.11953",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-09",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Elastic frontogenesis sets the spectra of smooth elastic turbulence",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.11958": {
+  "abstract": "Biomolecular recognition and regulation depend on atomic interactions that change as molecular partners fluctuate and adopt alternative conformations. Modeling these processes requires ensembles that capture both conformational diversity and coordinated atomic fluctuations between interacting molecules. Here we present OriDynamics, a unified framework for all-atom ensemble generation across protein monomers and complexes with small molecules or protein partners. OriDynamics introduces a latent ensemble decomposition that couples broad conformational exploration in a compact structural latent space with local all-atom sampling around generated proposals. Ensemble-level supervision constrains mean positions, fluctuation amplitudes and joint coordinate covariance to capture coordinated atomic variability within and between molecular partners. Across benchmarks of proteins and their complexes, OriDynamics demonstrates superior overall performance in conformational coverage, atomic fluctuation fidelity and interaction geometry compared with leading baselines. Application studies further demonstrate recovery of alternative functional conformations and partner-dependent changes in conformational ensembles alongside sampling of configurations associated with ligand dissociation. These capabilities provide a foundation for a biomolecular world model that represents accessible molecular states and their dependence on interaction context.",
+  "authors": [
+   "Jiahao Yang",
+   "Dong Liu",
+   "Hongliang Li",
+   "Ji Chen",
+   "Yuehua Liu",
+   "Daoyun Ding",
+   "Duo An",
+   "Jun Li",
+   "Jiahua Rao",
+   "Ziqiao Zhang",
+   "Peicong Lin",
+   "Shuangjia Zheng"
+  ],
+  "categories": [
+   "q-bio.BM"
+  ],
+  "comment": "29 pages, 6 main figures and 5 supplementary figures. Includes supplementary information",
+  "first_author": "Jiahao Yang",
+  "pdf_url": "http://arxiv.org/pdf/2611.11958",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-09",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "OriDynamics: Towards a World Model for Biomolecular Dynamics",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12298": {
+  "abstract": "Instability phenomena are ubiquitous in multi-fluid flows. For binary fluid mixtures, phase separation may occur under specific conditions, in which a homogeneous state becomes unstable and spontaneously segregates into different phases, leading to the formation of distinct patterns. Furthermore, when a heavier fluid is superposed over a lighter one in a gravitational field, the fluid interface can be sensitive to perturbations that trigger the Rayleigh--Taylor (RT) instability, i.e., the lighter fluid penetrates upward into the heavier fluid against gravity. We investigate such instability phenomena and the inhibiting conditions for incompressible, immiscible two-phase flows with unmatched densities, within the framework of a diffuse-interface model, which is called the Abels--Garcke--Grün (AGG) model. More precisely, we adopt energy methods to establish several stability/instability conditions for the perturbed system of the AGG model, which is obtained by slightly perturbing the equilibrium profile $(\\mathbf{0},\\overline{\\varphi})$, where $\\overline{\\varphi}=\\overline{\\varphi}(x_3)$ depends solely on the vertical coordinate $x_3$. Notably, for a constant equilibrium profile $\\overline{\\varphi}=α\\in(-1,1)$ satisfying $Ψ''(α)<0$, we establish a threshold for stability and instability of the phase-separation problem.Similar stability results are also established for the perturbed system with $\\overline{\\varphi}$ satisfying the RT instability condition in the presence of gravity. In particular, if the phase-separation condition fails and $\\partial_{x_3}\\overline{\\varphi}$ is a constant, a larger value of $\\partial_{x_3}\\overline{\\varphi}$, a greater interfacial thickness and a higher surface energy density contribute to inhibiting RT instability.",
+  "authors": [
+   "Fei Jiang",
+   "Maoyin Lv",
+   "Hao Wu"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "43 pages",
+  "first_author": "Fei Jiang",
+  "pdf_url": "http://arxiv.org/pdf/2611.12298",
+  "primary_category": "math.AP",
+  "published": "2026-11-09",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "On the Abels--Garcke--Grün Model for Incompressible Two-Phase Flows with Unmatched Densities: Phase Separation and Rayleigh--Taylor Instability",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12322": {
+  "abstract": "Y6-based homojunction organic photovoltaic devices have recently achieved exceptional power conversion efficiencies, surpassing those of conventional organic photovoltaic materials. Although unusually long exciton diffusion lengths and efficient exciton dissociation have been reported, the fundamental mechanism underlying this outstanding performance remains under debate. Here, we report that structurally distinct aggregates in Y6 thin films exhibit complementary charge-transfer (CT) characters that enable directional energy transfer and enhanced exciton delocalization. Using ultrafast spectroscopy, we identify highly efficient Förster resonance energy transfer (FRET) between Y6 aggregates, with an ensemble-averaged efficiency of 65% occurring on a sub-picosecond timescale (<1 ps). This aggregate-mediated energy-transfer pathway drives long-range energy migration in Y6 thin films and accounts for the remarkable external quantum efficiencies observed in homojunction devices, even in the absence of conventional donor-acceptor bulk heterojunction morphologies and despite substantial fractions of weak-CT components. Here, using Y6 as a model non-fullerene acceptor (NFA) system, we show that structurally distinct aggregates coexisting in NFA thin films possess complementary CT characters, which are expected to enable directional energy transfer and enhanced exciton delocalization. We establish a general multi-component FRET framework that quantitatively links molecular aggregation, CT character, and excited-state dynamics in systems with multiple packing motifs. This work provides insight into the development of next-generation high-performance organic electronic materials and devices.",
+  "authors": [
+   "Shanchao Ouyang",
+   "Hang Yuen Ho",
+   "Sudhi Mahadevan",
+   "Ziyao Yue",
+   "Haochen Liu",
+   "Zhiqiang Guan",
+   "Chun-Sing Lee",
+   "Shu Kong So",
+   "Sai-Wing Tsang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Shanchao Ouyang",
+  "pdf_url": "http://arxiv.org/pdf/2611.12322",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-09",
+  "tags": [
+   "organic-photovoltaics",
+   "spectroscopy"
+  ],
+  "title": "Ultrafast Inter-Aggregate Energy Transfer Drives Efficient Charge Generation in Organic Homojunctions",
+  "topics": [
+   "Sustainability & Functional Applications"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12578": {
+  "abstract": "We present a class of numerical collocation methods to solve a typical inverse problem that arises in the stress-controlled rheology of complex fluids with pronounced history-dependent response, where the relation between stress and flow rate is given by an integral constitutive equation as the material law. We demonstrate the method by calculating the creep response of a nontrivial model of a shear-thinning viscoelastic fluid where a stress overshoot in rate-controlled startup flow leads to ``sudden yielding'' in stress-controlled creep. Our method is able to address the long-time behavior of the model, distinguishing the amorphous solid from the stress-induced yielded fluid, and from the in-between case of infinite deformation that never achieves a stationary shear rate (proper creep). To this end, we implement a method with flexible time-stepping, and prove uniqueness of the solution and convergence of the methods for a broad class of highly viscoelastic non-linear rheological laws in integral form.",
+  "authors": [
+   "Stephan Domann",
+   "Thomas Voigtmann"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "math.NA"
+  ],
+  "comment": "45 pages, 5 figures, for an implementation that also has been used to create the figures see https://doi.org/10.5281/zenodo.22978793",
+  "first_author": "Stephan Domann",
+  "pdf_url": "http://arxiv.org/pdf/2611.12578",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-09",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Nonlinear integral equations for stress-controlled rheology: Collocation methods for Volterra equations with functional kernels",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.12735": {
+  "abstract": "Catalysis can drive phase separation by coupling local chemical composition to molecular transport, even in the absence of attractive interactions. Here, we demonstrate such catalysis-induced phase separation in a microscopic particle-based model of enzymes catalyzing the interconversion of substrate and product molecules with different diffusivities. We derive an analytical instability criterion in the dilute limit, showing that a homogeneous mixture becomes unstable when the nonequilibrium chemical drive and the diffusivity contrast are sufficiently large, and the substrate and product concentration exceeds a threshold set by the enzyme volume. Brownian-dynamics simulations confirm the predicted instability and reveal macroscopic coexistence of enzyme-rich and enzyme-poor phases, including in regimes where equilibrium depletion interactions cannot account for demixing. Finally, we show that, upon eliminating the fast chemical degrees of freedom, the reactive ternary mixture maps onto an effective binary mixture nonreciprocal interactions. Our results establish an explicit microscopic mechanism for catalysis-induced phase separation and connect chemically driven phase separation to the physics of motility-regulated and nonreciprocal matter.",
+  "authors": [
+   "Marie Jardat",
+   "Jacques Fries",
+   "Vincent Dahirel",
+   "Jaime Agudo-Canalejo",
+   "Pierre Illien"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "physics.chem-ph"
+  ],
+  "comment": null,
+  "first_author": "Marie Jardat",
+  "pdf_url": "http://arxiv.org/pdf/2611.12735",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-09",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Catalysis-induced phase separation of enzymes via diffusivity contrast",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13088": {
+  "abstract": "A central question in holography is how different boundary observables encode and reconstruct the geometry of the gravitational dual. In this work, we uncover an exact geometric correspondence between two seemingly distinct aspects of strongly coupled dynamics: the dissipative drag force experienced by a moving heavy particle(quark) and the entanglement membrane governing the propagation of quantum information. We show that both constructions retain the same underlying structure of the geometry, leading to an invertible transformation between the finite-velocity drag force and the geometric membrane tension. This correspondence reveals that nonlinear momentum loss encodes detailed information about entanglement dynamics: the leading nonlinear correction determines the butterfly velocity, while higher-order terms successively probe the local geometry of the membrane near the horizon. We further connect this hierarchy to scalar pole-skipping, establishing an all-order relation between nonlinear dissipation and near-horizon spectral data. The shared geometric structure also has implications for quantum information recovery, with the quintic drag coefficient determining the leading dependence of information velocity on initial entanglement. Conversely, the complete information-velocity curve provides a reconstruction of the reduced bulk geometry along the physical interior membrane branch, complementing the exterior reconstruction from drag. We show that stochastic momentum broadening supplies the additional radial information needed to reconstruct the complete exterior metric up to an overall scale. Our results thus reveal how dissipation, entanglement dynamics, and spectral properties provide complementary access to holographic geometry, establishing a unified framework for understanding the geometric information encoded in distinct boundary observables.",
+  "authors": [
+   "Dmitry S. Ageev"
+  ],
+  "categories": [
+   "hep-th",
+   "cond-mat.stat-mech",
+   "gr-qc",
+   "hep-ph",
+   "quant-ph"
+  ],
+  "comment": "64 pages, comments and references are welcome;",
+  "first_author": "Dmitry S. Ageev",
+  "pdf_url": "http://arxiv.org/pdf/2611.13088",
+  "primary_category": "hep-th",
+  "published": "2026-11-09",
+  "tags": [],
+  "title": "Holographic Drag Force and the Entanglement Membrane: Geometric Reconstruction and Information Spreading",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13101": {
+  "abstract": "Quantum-chaotic systems share the same coarse-grained features characteristic of random matrices, such as Wigner-Dyson level-spacing statistics, yet can exhibit strikingly different eigenstate structure and many-body dynamics, including relaxation, transport, scrambling, and entanglement growth. This raises the fundamental question of whether these finer-grained features probe genuinely distinct aspects of quantum chaos or, instead, reflect different manifestations of a common underlying structure---and whether such structure provides a meaningful basis for regarding one many-body quantum system as \"more chaotic\" than another. Here, we address this question by introducing a quantum geometric framework that quantifies the susceptibility of many-body eigenstates to physically allowed deformations of the Hamiltonian, as constrained by spatial locality, symmetries, and conservation laws. The resulting geometric susceptibility is quantitative, providing a metric of chaos beyond traditional binary diagnostics; intrinsic, as it depends on the manifold of allowed Hamiltonian deformations rather than on the way the system is probed; and unifying, as it directly connects eigenstate structure with dynamics. For canonical models of quantum chaos, we find that minimal geometric susceptibility, maximal eigenstate randomness, broad spectral response of local operators, and the suppression of nonhydrodynamic slow structure coalesce in the same region of Hamiltonian control space. This suggests that these seemingly distinct signatures of chaos are different manifestations of a common underlying geometric structure. Our framework provides a route toward understanding the limits of relaxation and scrambling under physical constraints; in applications, it offers a means to engineer strongly chaotic regimes in programmable quantum systems with restricted controls.",
+  "authors": [
+   "Mahmoud Abdelshafy",
+   "Joaquin F. Rodriguez-Nieva"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "quant-ph"
+  ],
+  "comment": "18 pages, 9 figures; main text 14 pages, 7 figures",
+  "first_author": "Mahmoud Abdelshafy",
+  "pdf_url": "http://arxiv.org/pdf/2611.13101",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-09",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Quantum Control Geometry as a Metric of Chaos",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13110": {
+  "abstract": "Coarse-grained measurements provide a lower bound on entropy production, but how much microscopic irreversibility can they conceal? We construct a driven quantum system in which an imperfect counter registers a finite, strictly positive arrow of time while the microscopic entropy production is infinite. The system is a degenerate parametric oscillator below threshold, coupled to a thermal reservoir through repeated interactions with bosonic ancillas. The oscillator sustains a finite, positive heat current into the vacuum bath, where absorption is forbidden and forward and reverse trajectory laws have different supports. A photon counter with finite collection efficiency, gated time bins, and independent dark counts defines a common coarse-graining of the aligned trajectory laws. For fixed observation duration $\\mathcal T$ and detector parameters, we prove that the observed relative entropy remains uniformly bounded as the bath temperature $T_b$ vanishes and is strictly positive at vacuum. The hidden contribution obeys $Σ_{\\mathrm{hid}}(\\mathcal T,T_b)=\\mathcal T\\dot Q_0/(k_BT_b)+O(1)$, where $\\dot Q_0>0$ is the stationary vacuum heat current. False positives conceal the support mismatch while preserving measurable time asymmetry. Thus, finite and informative measurements of entropy production can coexist with infinite microscopic irreversibility.",
+  "authors": [
+   "Hieu Nguyen"
+  ],
+  "categories": [
+   "quant-ph",
+   "cond-mat.stat-mech"
+  ],
+  "comment": "Submitted to Physical Review E",
+  "first_author": "Hieu Nguyen",
+  "pdf_url": "http://arxiv.org/pdf/2611.13110",
+  "primary_category": "quant-ph",
+  "published": "2026-11-09",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Finite Measured Entropy Production Does Not Imply Finite Microscopic Irreversibility",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-09"
+ },
+ "2611.13536": {
+  "abstract": "Catalysis underpins chemical manufacturing, yet knowledge for catalyst design remains dispersed across experimental observations, computational data and catalysis subdisciplines. To overcome this challenge, we present Composable Catalytic Intelligence (CatAI), a physics-grounded modular AI framework that learns 1.8 million structure-property relations and organizes them into 30 physicochemical encoders. This reusable intermediate layer enables task-specific models to guide catalyst discovery for targeted reactions and objectives. Across benchmark tasks, CatAI achieves a 7.8% lower task-averaged prediction error than the next-best models. In experimental validation, CatAI identified a new confined-passable pocket catalyst applicable in industrial homogeneous polymer synthesis with 9 times the activity of the commercial benchmark. In parallel, it guided autonomous closed-loop optimization of a highly active Cu-based geminal-atom photocatalyst for C-O coupling reactions surpassing the traditional Ni-based systems. This approach connects property-level data to catalytic objectives, supporting physicochemical knowledge reuse across mechanistically distinct systems through computational screening and iterative model-experiment feedback.",
+  "authors": [
+   "Wentao Li",
+   "Qilong Cai",
+   "Qi Lei",
+   "Jinxing Chen",
+   "Ruixuan Chen",
+   "Jiangjie Qiu",
+   "Botian Wang",
+   "Kai Zhao",
+   "Honghao Chen",
+   "Leyi Zhao",
+   "Zemeng Wang",
+   "Yijun Li",
+   "Jun Yin",
+   "Fangfang Li",
+   "Hongxuan Liu",
+   "Yingdong Lu",
+   "Yawen Ouyang",
+   "Manu Suvarna",
+   "Wei-Ying Ma",
+   "Ya-Qin Zhang",
+   "Kostya S. Novoselov",
+   "Hao Zhou",
+   "Jiong Lu",
+   "Xiaonan Wang"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "29 pages, 8 figures",
+  "first_author": "Wentao Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.13536",
+  "primary_category": "cs.LG",
+  "published": "2026-11-10",
+  "tags": [
+   "benchmarking",
+   "catalyst-design"
+  ],
+  "title": "Adaptive catalyst discovery emerges from composable scientific intelligence",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.13622": {
+  "abstract": "We study the stochastic dynamics of a system of $N$ polymer rings on an infinite cylinder with only excluded volume interaction, using simulations and also analytically. The strings can diffuse in the transverse direction by local Rouse-like moves where an up-kink changes to a down -kink, or vice versa. The motion is biased if the rates of flip are not equal. In the initial state, we start with a step initial condition: all the sites with a positive $y$ coordinate are empty, and the sites with $y \\leq 0$ are occupied with a uniform density. We study the scaling form of the density profile in the hydrodynamic limit. The scaling form is a function of $y/\\sqrt{t}$ in the unbiased case, and a function of $y/t$ in the biased case. In the unbiased case, in the steady state on a torus, the marginal probability distribution of the positions of the strings on a line with fixed $x$-coordinate is exactly same as that in the ground state of quantum-mechanical spin-less fermions on a line. The biased problem is equivalent to a growing surface in $2+1$ dimension, which is expected to be in the Kardar-Parisi-Zhang universality class.",
+  "authors": [
+   "S. S. Manna",
+   "Deepak Dhar"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "10 page, 13 figures",
+  "first_author": "S. S. Manna",
+  "pdf_url": "http://arxiv.org/pdf/2611.13622",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "Stochastic evolution of interacting directed strings",
+  "topics": [
+   "Informatics & Data Infrastructure",
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.13800": {
+  "abstract": "Transferring atomic quantum sensors from laboratory-scale physics packages to compact, alignment-free sensor heads suitable for field and space deployment requires a structural platform that combines mechanical, thermal, and optical functionality within a single, manufacturable component. We present such a platform based on additively manufactured technical ceramics: lithography-based ceramic manufacturing is used to fabricate monolithic micro-optical benches with application-specific mounting geometries, while high-precision active alignment and adhesive bonding realize long-term stable optical assemblies through micro-integration. As a first system-level demonstrator, we present a micro-integrated optical frequency reference based on Doppler-free spectroscopy of the rubidium D2 line, integrated within a 6 mL Al2O3 module. A laser stabilized to the reference reaches a fractional frequency instability of $3\\times10^{-12}$ at 1 s. We extend the platform to a compact optically pumped magnetometer, exploiting the magnetic cleanliness and tailored thermal properties of high-purity ceramics for a 7 mL sensor head with picotesla sensitivity aimed at space-borne biomagnetometry, and to a micro-integrated optical dipole trap with active MEMS-mirror beam steering for cold-atom manipulation. Together, these demonstrators show that ceramic additive manufacturing and optical micro-integration form a versatile, robust platform for compact atomic sensor systems in field and space applications.",
+  "authors": [
+   "Marc Christ",
+   "Sascha Neinert",
+   "Conrad Zimmermann",
+   "Klaus Döringshoff",
+   "Markus Krutzik"
+  ],
+  "categories": [
+   "physics.atom-ph",
+   "physics.app-ph",
+   "physics.optics"
+  ],
+  "comment": "10 pages, 4 figures. Presented at the International Conference on Space Optics (ICSO) 2026; to be published in the ICSO 2026 Proceedings, SPIE Digital Library",
+  "first_author": "Marc Christ",
+  "pdf_url": "http://arxiv.org/pdf/2611.13800",
+  "primary_category": "physics.atom-ph",
+  "published": "2026-11-10",
+  "tags": [
+   "additive-manufacturing",
+   "spectroscopy"
+  ],
+  "title": "Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.13969": {
+  "abstract": "The design and control of rheological properties in active systems are crucial for developing functional materials with novel properties. While significant attention has been devoted to odd viscosity and odd elasticity, comprehensive odd rheological models remain scarce. Here, we introduce and characterise a platform-agnostic odd viscoelastic material, where complex responses arise from parametric control of internal rotational degrees of freedom and are triggered by coupling between normal and shear stresses. Such control can be achieved through either parametric driving or a parametric nonlinear feedback. We further show that this coupling can induce rotation-driven fluidisation, transitioning the material from an elasticity-dominated to a viscosity-dominated regime. Lastly, we show that the interplay between odd and even sectors enhances the nonlinear material response under large-amplitude oscillatory shear (LAOS). The findings outline a route to Floquet-engineered metafluids with programmable, non-reciprocal rheology.",
+  "authors": [
+   "Pedro Cosme",
+   "Maziyar Jalaal"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Pedro Cosme",
+  "pdf_url": "http://arxiv.org/pdf/2611.13969",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-10",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Rheology of Parametric Odd Materials",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.13983": {
+  "abstract": "Robotic additive manufacturing requires joint paths that reconcile robot feasibility with process-specific geometry. We develop an offline optimization-based path planner that combines joint-path regularity and self-collision penalties with process costs and constraints, so that a new process enters through its own reference, residuals, and tolerances. Full-path and boundary-coupled chunked optimization handle references of different lengths. Iterative Weight Tuning (IWT) determines the cost weights from the gaps between Key Performance Indicators (KPIs) and their targets. In carbon-fiber winding and robotic 3D printing, the planned paths meet the geometric tolerances and all KPI targets, and both paths are executed on a UR10e, without extrusion for printing, with joint-level tracking recorded during execution.",
+  "authors": [
+   "Shiva Ganesh Murali",
+   "Valentin Bhend",
+   "Deepak Ingole",
+   "Gabriele Fadini",
+   "Alisa Rupenyan"
+  ],
+  "categories": [
+   "cs.RO",
+   "math.OC"
+  ],
+  "comment": "Submitted for the review in ECC 2027",
+  "first_author": "Shiva Ganesh Murali",
+  "pdf_url": "http://arxiv.org/pdf/2611.13983",
+  "primary_category": "cs.RO",
+  "published": "2026-11-10",
+  "tags": [
+   "additive-manufacturing",
+   "extrusion"
+  ],
+  "title": "Optimization-Based Path Planning for Industrial Manipulators: Experimental Validation in Additive Manufacturing",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14039": {
+  "abstract": "We introduce the word thermalization hypothesis according to which in a literary work there are effective interactions between words that drive them to thermalization where their word frequency distribution is the same as for the phenomenon of Rayleigh-Jeans (RJ) thermalization and condensation. In this concept, the different words play a role of classical oscillators (particles) and their word frequencies, or related tokens, are analogous to certain filling factors over energy state levels. The thermalization process is characterized by the conservation of total system energy, or total number of words/tokens, and total probability norm, or total number of different words. We apply this approach to analyze 16 literary works, including Bible, complete works of Shakespeare, and data from American National Corpus. We show that for these cases the effective system energy is very low and thus there is the RJ condensation phenomenon with a big fraction of total probability concentrated at the lowest energy states corresponding to a big fraction of rare words appearing only once or twice in the whole text. Such a RJ condensation is observed for light propagation in multimode optical fibers and other physical systems. We relate the thermalization of words to the recently proposed wealth thermalization for households in world countries. The economy concepts of Lorenz and Pareto curves, and also Zipf curves, are applied to the word frequency distributions of the selected 16 cases and it is shown that the thermalization theory gives a strikingly good description of real data.",
+  "authors": [
+   "Klaus M. Frahm",
+   "Dima L. Shepelyansky"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cs.CL",
+   "physics.soc-ph"
+  ],
+  "comment": "30 pages, 6 main figures, 14 appendix figures, journal style file and bbl file for references provided",
+  "first_author": "Klaus M. Frahm",
+  "pdf_url": "http://arxiv.org/pdf/2611.14039",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "Thermodynamics of words",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-10"
  }
 }
