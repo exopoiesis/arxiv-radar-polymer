@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">44 papers</span>
+  <span class="paper-count">41 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -260,23 +260,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.19171.html">A direct theory of strain-gradient special Cosserat rods via the principle of virtual work</a></div><div class="paper-tags"><a href="mlff-30d.html">mlff</a></div></td>
 <td>R. S. Hallyburton et al.</td>
 <td><a href="http://arxiv.org/abs/2610.19171">2610.19171</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16237.html">Defining Thixotropy</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Yogesh M. Joshi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16237">2610.16237</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.16739.html">Impact of shear and dilational membrane viscosities on capsule shape and dynamics under shear flow: a theoretical study</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Paul Regazzi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.16739">2610.16739</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-12</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.17082.html">DeboRheo v2.0: Improved Robustness for Geometrical VOF Simulations of Viscoelastic Two-Phase Flows</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="rheology-30d.html">rheology</a></div></td>
-<td>Daulet Izbassarov et al.</td>
-<td><a href="http://arxiv.org/abs/2610.17082">2610.17082</a></td>
 </tr>
 </tbody></table>
