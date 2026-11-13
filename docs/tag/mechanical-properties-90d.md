@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>mechanical-properties — 90d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <strong>90d</strong> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,17 +740,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.15320.html">Growth-Induced Transitions in Viscoelastic Matter</a></div></td>
 <td>Valentin Slepukhin et al.</td>
 <td><a href="http://arxiv.org/abs/2608.15320">2608.15320</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.13908.html">Elastic wakes mediate collective viscoelastic fluid-structure interactions in side-by-side cantilever arrays</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
-<td>Arisa Yokokoji et al.</td>
-<td><a href="http://arxiv.org/abs/2608.13908">2608.13908</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14118.html">Contact Formation and Viscoelastic Detachment in Non-Circular Soft Adhesive Contacts</a></div></td>
-<td>Sonu Dhiman et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14118">2608.14118</a></td>
 </tr>
 </tbody></table>

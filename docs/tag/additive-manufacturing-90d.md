@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">33 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15656.html">Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method</a></div></td>
+<td>Oliver Kuster et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15656">2611.15656</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13800.html">Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems</a></div><div class="paper-tags"><a href="spectroscopy-90d.html">spectroscopy</a></div></td>

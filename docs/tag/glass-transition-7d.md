@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>glass-transition — 7d</h1>
-  <span class="paper-count">4 papers</span>
+  <span class="paper-count">2 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <a href="glass-transition-360d.html">360d</a> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -26,17 +26,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09456.html">Increased Crystal Nucleation in the Glassy State of a Polymer/Water Mixture</a></div></td>
 <td>Mika Kobayashi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09456">2611.09456</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07438.html">PolyGPT: A Decoder-Only Transformer for Polymer Electrolyte Design</a></div><div class="paper-tags"><a href="inverse-design-7d.html">inverse-design</a> · <a href="polymer-electrolytes-7d.html">polymer-electrolytes</a></div></td>
-<td>Tanmay Sarkar Akash et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07438">2611.07438</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07623.html">Reduced Glass Transition Temperature with Preserved Super-Arrhenius Dynamics in Nanoconfined Glass-Forming Nematic</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a> · <a href="spectroscopy-7d.html">spectroscopy</a></div></td>
-<td>Aleksandra Deptuch et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07623">2611.07623</a></td>
 </tr>
 </tbody></table>

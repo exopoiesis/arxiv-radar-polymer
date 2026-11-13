@@ -5,15 +5,21 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-12._
+_Updated 2026-11-13._
 
-**3803** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3805** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.15656.html">Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Oliver Kuster et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15656">2611.15656</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13536.html">Adaptive catalyst discovery emerges from composable scientific intelligence</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/catalyst-design-30d.html">catalyst-design</a></div></td>
@@ -49,6 +55,12 @@ _Updated 2026-11-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14039.html">Thermodynamics of words</a></div></td>
 <td>Klaus M. Frahm et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14039">2611.14039</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>J. Matthew Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14720">2611.14720</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -181,17 +193,5 @@ _Updated 2026-11-12._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09667.html">Cavity-QED Molecular Dynamics: An eT-i-PI Interface for Ab Initio Cavity Born-Oppenheimer Dynamics and Joint Nuclear-Photon Path-Integral Sampling</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Giuseppe Cassone</td>
 <td><a href="http://arxiv.org/abs/2611.09667">2611.09667</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09696.html">Influenza A Virus as a Multivalent Active Particle: Statistical Mechanics of Binding, Motility, and Antiviral Design</a></div></td>
-<td>Sumati Bhatia et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09696">2611.09696</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-06</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.09759.html">A Tight Hierarchy for Chain of Thought</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Thanh Le et al.</td>
-<td><a href="http://arxiv.org/abs/2611.09759">2611.09759</a></td>
 </tr>
 </tbody></table>

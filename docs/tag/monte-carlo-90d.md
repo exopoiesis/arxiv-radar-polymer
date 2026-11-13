@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>J. Matthew Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14720">2611.14720</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-03</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.04117.html">Life Cycle Sustainability Assessment of Fossil- and Bio-Based Membrane Manufacturing</a></div><div class="paper-tags"><a href="life-cycle-assessment-90d.html">life-cycle-assessment</a> · <a href="membranes-90d.html">membranes</a></div></td>
 <td>Elizabeth Aigaje-Espinosa et al.</td>
@@ -134,11 +140,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21627.html">Electrostatic Persistence Length Revisited. II. Simulations and Comparison to Experiment</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
 <td>Alexey A. Gavrilov et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21627">2608.21627</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-14</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.14853.html">Physics-Informed Symbolic Regression for Predicting the Glass Transition Temperature of Alkali Borate Glasses</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
-<td>Leonardo dos Santos Vitoria et al.</td>
-<td><a href="http://arxiv.org/abs/2608.14853">2608.14853</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
+<td>J. Matthew Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14720">2611.14720</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13101.html">Quantum Control Geometry as a Metric of Chaos</a></div></td>
 <td>Mahmoud Abdelshafy et al.</td>
@@ -86,11 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.20971.html">Statistical Mechanics of Spike Trains: Self-Consistent Activity Ensembles and Phase Transitions</a></div><div class="paper-tags"><a href="monte-carlo-30d.html">monte-carlo</a></div></td>
 <td>Jan Pyrzowski et al.</td>
 <td><a href="http://arxiv.org/abs/2610.20971">2610.20971</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18500.html">Macroscopic fluctuation theory of stochastic systems undergoing monitoring</a></div></td>
-<td>João Costa et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18500">2610.18500</a></td>
 </tr>
 </tbody></table>

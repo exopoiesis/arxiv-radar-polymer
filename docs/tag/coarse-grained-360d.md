@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">176 papers</span>
+  <span class="paper-count">174 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>J. Matthew Smith et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14720">2611.14720</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13101.html">Quantum Control Geometry as a Metric of Chaos</a></div></td>
@@ -1052,23 +1058,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15368.html">Shaping the aggregates of discotic particles with directional pair interactions</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>B. Martínez-Haya et al.</td>
 <td><a href="http://arxiv.org/abs/2511.15368">2511.15368</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.18660.html">Weak (non)conservation and stochastic dynamics of angular momentum</a></div></td>
-<td>Ashot Matevosyan</td>
-<td><a href="http://arxiv.org/abs/2405.18660">2405.18660</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2409.20100.html">Coarsening dynamics of chemotactic aggregates</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Henrik Weyer et al.</td>
-<td><a href="http://arxiv.org/abs/2409.20100">2409.20100</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17208.html">Active Learning for Machine Learning Driven Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="benchmarking-360d.html">benchmarking</a> · <a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kevin Bachelor et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17208">2509.17208</a></td>
 </tr>
 </tbody></table>

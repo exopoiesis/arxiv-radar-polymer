@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15656.html">Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method</a></div></td>
+<td>Oliver Kuster et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15656">2611.15656</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13800.html">Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems</a></div><div class="paper-tags"><a href="spectroscopy-7d.html">spectroscopy</a></div></td>
 <td>Marc Christ et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13983.html">Optimization-Based Path Planning for Industrial Manipulators: Experimental Validation in Additive Manufacturing</a></div><div class="paper-tags"><a href="extrusion-7d.html">extrusion</a></div></td>
 <td>Shiva Ganesh Murali et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13983">2611.13983</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-05</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.07704.html">Towards Track Height Control in Additive Manufacturing on Porous Substrates: An Approach for System Identification and Controller Selection</a></div></td>
-<td>Amelie Schatull et al.</td>
-<td><a href="http://arxiv.org/abs/2611.07704">2611.07704</a></td>
 </tr>
 </tbody></table>

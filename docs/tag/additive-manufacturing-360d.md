@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15656.html">Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method</a></div></td>
+<td>Oliver Kuster et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15656">2611.15656</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13800.html">Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems</a></div><div class="paper-tags"><a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Marc Christ et al.</td>
@@ -1094,11 +1100,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19821.html">Effect of cohesion on the gravity-driven evacuation of metal powder through Triply-Periodic Minimal Surface structures</a></div></td>
 <td>Aashish K Gupta et al.</td>
 <td><a href="http://arxiv.org/abs/2511.19821">2511.19821</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.13178.html">Real-time distortion prediction in metallic additive manufacturing via a physics-informed neural operator approach</a></div></td>
-<td>Mingxuan Tian et al.</td>
-<td><a href="http://arxiv.org/abs/2511.13178">2511.13178</a></td>
 </tr>
 </tbody></table>

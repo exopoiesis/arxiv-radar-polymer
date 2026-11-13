@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15656.html">Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method</a></div></td>
+<td>Oliver Kuster et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15656">2611.15656</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13800.html">Additively manufactured ceramic platforms for miniaturized optical frequency references and robust atomic sensor systems</a></div><div class="paper-tags"><a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Marc Christ et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22741.html">SAMS: A Structured Graph Framework for Securing Additive Manufacturing Systems</a></div><div class="paper-tags"><a href="polymer-degradation-30d.html">polymer-degradation</a></div></td>
 <td>Sarah Roscoe et al.</td>
 <td><a href="http://arxiv.org/abs/2610.22741">2610.22741</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.18730.html">Learning When to Transfer: Reinforcement Learning for Carbon-Footprint Modeling in New Manufacturing Domains</a></div><div class="paper-tags"><a href="extrusion-30d.html">extrusion</a></div></td>
-<td>Muhammad Umar Farooq et al.</td>
-<td><a href="http://arxiv.org/abs/2610.18730">2610.18730</a></td>
 </tr>
 </tbody></table>

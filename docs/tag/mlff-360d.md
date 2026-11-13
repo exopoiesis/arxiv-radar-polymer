@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mlff — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="mlff-7d.html">7d</a> <a href="mlff-30d.html">30d</a> <a href="mlff-90d.html">90d</a> <strong>360d</strong> <a href="mlff-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23248.html">Quantifying surfactant adsorption at fluid interfaces by combining X-ray reflection and simulation</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Kay-Robert Dormann et al.</td>
 <td><a href="http://arxiv.org/abs/2511.23248">2511.23248</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-17</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17208.html">Active Learning for Machine Learning Driven Molecular Dynamics</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a> · <a href="benchmarking-360d.html">benchmarking</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kevin Bachelor et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17208">2509.17208</a></td>
 </tr>
 </tbody></table>

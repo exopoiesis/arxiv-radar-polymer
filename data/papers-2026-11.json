@@ -1751,5 +1751,53 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-11-10"
+ },
+ "2611.14720": {
+  "abstract": "Manipulating polymer chains by means of experimental instruments such as optical tweezers has helped understand better the effects of molecular forces in macromolecular structures. In this study, we simulate the influence of a pulling force on structural phases of a coarse-grained model for flexible polymers using generalized-ensemble Monte Carlo methodologies. The recently introduced microcanonical inflection-point analysis method is employed to identify and classify structural phases of the system. Specific order parameters help characterize the transition behavior in response to the present pulling force. We show that, upon increasing the pulling strength, the coil-globule transition turns from second to first order, then merges with the liquid-solid transition. An intermediate phase, separating the coil and globule phases, is identified for certain force strengths. Clear evidence of the Gough-Joule effect is found as well. Transitions do not occur at all if the pulling force exceeds a certain threshold value.",
+  "authors": [
+   "J. Matthew Smith",
+   "Michael Bachmann"
+  ],
+  "categories": [
+   "cond-mat.stat-mech"
+  ],
+  "comment": "11 pages, 7 figures",
+  "first_author": "J. Matthew Smith",
+  "pdf_url": "http://arxiv.org/pdf/2611.14720",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-10",
+  "tags": [
+   "coarse-grained",
+   "monte-carlo"
+  ],
+  "title": "Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.15656": {
+  "abstract": "Advances in 3D nanophotonic additive manufacturing enable increasingly complex, almost free-form devices for manipulating light at sub-wavelength scales. Extending nanophotonic designs into three dimensions introduces additional degrees of freedom. Exploiting this freedom requires inverse-design methods that can efficiently navigate this large design space while accommodating fabrication constraints. Here, we combine gradient-free optimization with the level-set method (LSM) to provide such an approach for 3D additive manufacturing. Representing the 3D geometry as a level set constructed from Gaussian radial basis functions retains substantial geometric freedom with only a few hundred design variables. This compact representation makes gradient-free optimization practical for fully 3D nanophotonic devices, eliminating the need for adjoint calculations. This unlocks the use of any Maxwell solver or auxiliary algorithms that should express fabrication constraints for which the required derivatives are unavailable or impractical to obtain, and enables embarrassingly parallel workflows. Consequently, binary fabrication requirements, such as structural connectivity, can be rigorously enforced, avoiding the differentiable approximations commonly used in gradient-based optimization. Here, we demonstrate the combination of the gradient-free LSM with a connected-component analysis algorithm to enforce the structural integrity of the design. We demonstrate the applicability of the gradient-free LSM by optimizing a Y-splitter while strictly enforcing the structural integrity of the material and the void in the design.",
+  "authors": [
+   "Oliver Kuster",
+   "Carsten Rockstuhl",
+   "Thomas Jebb Sturges"
+  ],
+  "categories": [
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Oliver Kuster",
+  "pdf_url": "http://arxiv.org/pdf/2611.15656",
+  "primary_category": "physics.optics",
+  "published": "2026-11-11",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-11-11"
  }
 }
