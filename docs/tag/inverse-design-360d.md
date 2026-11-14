@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>inverse-design — 360d</h1>
-  <span class="paper-count">28 papers</span>
+  <span class="paper-count">27 papers</span>
   <nav class="window-nav"><a href="inverse-design-7d.html">7d</a> <a href="inverse-design-30d.html">30d</a> <a href="inverse-design-90d.html">90d</a> <strong>360d</strong> <a href="inverse-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -176,11 +176,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05138.html">polyRETRO: a Language Model Approach to predict Polymerization Class and Monomer(s) for a Target Polymer</a></div><div class="paper-tags"><a href="polymerization-360d.html">polymerization</a></div></td>
 <td>Sakshi Agarwal et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05138">2512.05138</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14268.html">Statistically controllable microstructure reconstruction framework for heterogeneous materials using sliced-Wasserstein metric and neural networks</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Zhenchuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14268">2511.14268</a></td>
 </tr>
 </tbody></table>

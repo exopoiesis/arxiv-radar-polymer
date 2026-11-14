@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">498 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,40 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16468.html">Physics-constrained differentiable causal discovery of constitutive mechanisms through boundary value problems</a></div></td>
+<td>Michael A. Kraus</td>
+<td><a href="http://arxiv.org/abs/2611.16468">2611.16468</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16740.html">Near-Threshold Kink Trapping Enhances Defect Healing in an Adaptive $\boldsymbol{φ^4}$ Chain</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
+<td>Sh. Minapoor et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16740">2611.16740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14872.html">Soft material mechanical property degradation at high strain rates</a></div><div class="paper-tags"><a href="polymer-degradation-360d.html">polymer-degradation</a></div></td>
+<td>Victor Sanchez et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14872">2611.14872</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13969.html">Rheology of Parametric Odd Materials</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
 <td>Pedro Cosme et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13969">2611.13969</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14104.html">Purely elastic centre-mode instability in channel and pipe flows of a simplified Phan-Thien-Tanner fluid</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
+<td>Calum S. Skene et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14104">2611.14104</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14341.html">Numerical analysis of coupled flow, deformation and frictional contact mechanics in a fractured porous medium</a></div></td>
+<td>Marius Nevland et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14341">2611.14341</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -2972,23 +3002,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16794.html">Hierarchical Bayesian constitutive model selection for high-strain-rate soft material characterization</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
 <td>Victor Sanchez et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16794">2511.16794</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03350.html">A Simplified Model for the Forced Libration of Icy Moons with Subsurface Oceans: Application to Enceladus and Mimas</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Yeva Gevorgyan</td>
-<td><a href="http://arxiv.org/abs/2405.03350">2405.03350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02239.html">Shear-driven memory effects in carbon black gels</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="rheology-360d.html">rheology</a> · <a href="saxs-360d.html">saxs</a></div></td>
-<td>Julien Bauland et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02239">2508.02239</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.09347.html">Universality in the velocity jump in the crack propagation observed for food-wrapping films for daily use</a></div></td>
-<td>Aoi Nohara et al.</td>
-<td><a href="http://arxiv.org/abs/2509.09347">2509.09347</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">123 papers</span>
+  <span class="paper-count">122 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.13969.html">Rheology of Parametric Odd Materials</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Pedro Cosme et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13969">2611.13969</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14104.html">Purely elastic centre-mode instability in channel and pipe flows of a simplified Phan-Thien-Tanner fluid</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
+<td>Calum S. Skene et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14104">2611.14104</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -740,17 +746,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20155.html">Noninvasive rheological inference from stable flows in confined tissues</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Marc Karnat et al.</td>
 <td><a href="http://arxiv.org/abs/2511.20155">2511.20155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2405.03350.html">A Simplified Model for the Forced Libration of Icy Moons with Subsurface Oceans: Application to Enceladus and Mimas</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Yeva Gevorgyan</td>
-<td><a href="http://arxiv.org/abs/2405.03350">2405.03350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02239.html">Shear-driven memory effects in carbon black gels</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="saxs-360d.html">saxs</a></div></td>
-<td>Julien Bauland et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02239">2508.02239</a></td>
 </tr>
 </tbody></table>

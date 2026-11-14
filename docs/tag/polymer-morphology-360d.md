@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">213 papers</span>
+  <span class="paper-count">211 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-10</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14165.html">Universal Multichannel Coherence-Mediated Thermal Transport in Carbon Allotropes: Experimental Evidence and Scaling Laws</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
+<td>A. Jeżowski et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14165">2611.14165</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
@@ -1274,23 +1280,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21492.html">Control of growth morphology of deposited fcc metals through tuning substrate-metal interactions</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>Samuel Aldana et al.</td>
 <td><a href="http://arxiv.org/abs/2508.21492">2508.21492</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.02239.html">Shear-driven memory effects in carbon black gels</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a> · <a href="saxs-360d.html">saxs</a></div></td>
-<td>Julien Bauland et al.</td>
-<td><a href="http://arxiv.org/abs/2508.02239">2508.02239</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14268.html">Statistically controllable microstructure reconstruction framework for heterogeneous materials using sliced-Wasserstein metric and neural networks</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a></div></td>
-<td>Zhenchuan Ma et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14268">2511.14268</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.14627.html">Recent advances in stimulus-assisted nanoprecipitation for nanoparticle synthesis</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
-<td>Mingbo Li et al.</td>
-<td><a href="http://arxiv.org/abs/2511.14627">2511.14627</a></td>
 </tr>
 </tbody></table>

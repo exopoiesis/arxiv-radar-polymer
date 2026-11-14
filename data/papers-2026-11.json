@@ -1752,6 +1752,115 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14104": {
+  "abstract": "Recent work identified spatially localised midplane stress structures as the building blocks of chaotic behaviour in pressure-driven parallel shear flows of viscoelastic fluids. Such coherent structures are thought to originate from a linear centre-mode instability of the laminar state. In the absence of inertia, however, the Oldroyd-B and FENE-P constitutive models predict that this instability is confined to ultra-dilute polymer solutions and very large Weissenberg numbers in channel flow, while no purely elastic instability has been reported in pipe flow. Here, we study numerically the linear stability of channel and pipe flows of a simplified Phan-Thien-Tanner (sPTT) fluid and find a purely elastic centre-mode instability in both geometries across a wide range of polymer concentrations and at much lower Weissenberg numbers. Since the sPTT and FENE-P models have identical steady rheology and laminar profiles, their contrasting predictions indicate that the existence of the centre-mode instability is governed by the transient rheological response of the fluid. Our results suggest that the purely elastic centre-mode instability should be observable under realistic flow conditions. They also offer a means of discriminating between constitutive models.",
+  "authors": [
+   "Calum S. Skene",
+   "Jeffrey S. Oishi",
+   "Keaton J. Burns",
+   "Moritz Linkmann",
+   "Geoffrey M. Vasil",
+   "Alexander Morozov"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft"
+  ],
+  "comment": "10 pages, 5 figures",
+  "first_author": "Calum S. Skene",
+  "pdf_url": "http://arxiv.org/pdf/2611.14104",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-10",
+  "tags": [
+   "mechanical-properties",
+   "rheology"
+  ],
+  "title": "Purely elastic centre-mode instability in channel and pipe flows of a simplified Phan-Thien-Tanner fluid",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14165": {
+  "abstract": "Understanding thermal transport in structurally disordered carbon materials remains a fundamental challenge because conventional models based on a single coherence contribution cannot accurately describe heat conduction over a broad temperature range. In this work, the thermal conductivity of graphene oxide (GO), thermally reduced graphene oxide (trGO), GO-hydrated fullerene composites (GO-HyFn), expanded graphite (EG), and EG-multiwalled carbon nanotube (MWCNT) composites was measured between 4.5 and 300 K. Despite substantial differences in density, porosity, graphitic ordering, and microstructure, all materials exhibit glass-like temperature dependence of thermal conductivity.   The experimental results demonstrate that the conventional two-channel model, comprising a Peierls contribution and a single thermally activated coherence term, systematically fails to reproduce the observed temperature dependence. To resolve this discrepancy, we propose a generalized multichannel phenomenological model in which the coherence contribution consists of up to three Arrhenius-type channels with distinct activation energies. Depending on the structural state, two or three coherence channels are required to accurately describe the thermal conductivity.   A key finding is the reproducible hierarchy of activation energies across diverse carbon allotropes, following approximately (E2 ~ 4E1 and E3 ~ (12-25)E1). While the channel amplitudes increase with material density, the activation energies remain nearly invariant, indicating universal vibrational energy scales. The proposed framework also consistently describes published data for other disordered carbon materials. These results provide experimental evidence for multichannel coherence-mediated heat transport and establish a unified phenomenological bridge between structural hierarchy with thermal transport in disordered carbon solids.",
+  "authors": [
+   "A. Jeżowski",
+   "A. I. Krivchikov",
+   "O. A. Korolyuk",
+   "V. V. Sagan",
+   "Y. V. Horbatenko",
+   "S. V. Cherednychenko",
+   "A. V. Dolbin",
+   "N. A. Vinnikov",
+   "O. Bezkrovnyi",
+   "D. Szewczyk"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "cond-mat.dis-nn"
+  ],
+  "comment": "29 pages, 7 figures, 2 tables; experimental and theoretical analysis of thermal transport in carbon allotropes",
+  "first_author": "A. Jeżowski",
+  "pdf_url": "http://arxiv.org/pdf/2611.14165",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-10",
+  "tags": [
+   "composites",
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Universal Multichannel Coherence-Mediated Thermal Transport in Carbon Allotropes: Experimental Evidence and Scaling Laws",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14167": {
+  "abstract": "For $K\\ge4$ let $E_K(N)$ be the number of integers $2\\le n\\le N$ for which $K/n=1/x+1/y+1/z$ has no solution in positive integers; $K=4$ is the Erdős-Straus equation. We prove that $E_K(N)\\le N\\exp(-c((\\log N)^3/K)^{1/4})$ with absolute constants $c,B>0$, uniformly for $4\\le K\\le(\\log N)^3/B$. This improves the exponent $2/3$ of Vaughan's bound of 1970. The bound is non-trivial for $K$ up to a constant times $(\\log N)^3$, which is, up to a factor $(\\log\\log N)^{2+o(1)}$, the scale at which, by work of Pomerance and Weingartner, exceptional primes become common. The sieve is combinatorial: a truncated inclusion-exclusion over the classes of parametric solutions, whose second moment is the partition function of a two-copy polymer gas, bounded by a real form of the Kotecký-Preiss criterion. Averaging over the residue classes of the small primes gives the family its full mass, and summing each cluster in a random order bounds the cluster sums. Since a divisor of an exception is an exception, nothing about the small primes themselves is needed, and the sieve can use the classes of the whole family of parametric solutions, one triple per class. All constants are explicit, and the whole proof has been checked in the proof assistant Lean 4.",
+  "authors": [
+   "Dmytro Trybushnyi"
+  ],
+  "categories": [
+   "math.NT"
+  ],
+  "comment": "36 pages, 1 figure. Lean 4 formalization: doi:10.5281/zenodo.24017156",
+  "first_author": "Dmytro Trybushnyi",
+  "pdf_url": "http://arxiv.org/pdf/2611.14167",
+  "primary_category": "math.NT",
+  "published": "2026-11-10",
+  "tags": [],
+  "title": "The exponent $3/4$ for the exceptional sets of the equations $K/n=1/x+1/y+1/z$",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-10"
+ },
+ "2611.14341": {
+  "abstract": "This paper studies the numerical approximation of a mathematical model of coupled flow and viscoelastic deformation in a fractured porous medium including fracture contact mechanics. We consider a mixed-dimensional model, where the fracture is modeled as a co-dimension one object within the porous medium. This model couples Darcy flow in the matrix and fracture, linear viscoelasticity of the matrix and frictional contact mechanics of the fracture surfaces; the contact conditions include normal compliance and a Coulomb friction law. We propose and analyze a fully discrete numerical scheme for this problem, using conformal finite elements in space and the implicit Euler method in time. Existence and uniqueness of the discrete solution is established, and stability and a priori error estimates are derived. A numerical experiment is performed in which numerical error estimates are computed and compared to the theoretical results.",
+  "authors": [
+   "Marius Nevland",
+   "Kundan Kumar",
+   "Inga Berre",
+   "Jakub Wiktor Both",
+   "Eirik Keilegavlen"
+  ],
+  "categories": [
+   "math.NA"
+  ],
+  "comment": null,
+  "first_author": "Marius Nevland",
+  "pdf_url": "http://arxiv.org/pdf/2611.14341",
+  "primary_category": "math.NA",
+  "published": "2026-11-10",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Numerical analysis of coupled flow, deformation and frictional contact mechanics in a fractured porous medium",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-10"
+ },
  "2611.14720": {
   "abstract": "Manipulating polymer chains by means of experimental instruments such as optical tweezers has helped understand better the effects of molecular forces in macromolecular structures. In this study, we simulate the influence of a pulling force on structural phases of a coarse-grained model for flexible polymers using generalized-ensemble Monte Carlo methodologies. The recently introduced microcanonical inflection-point analysis method is employed to identify and classify structural phases of the system. Specific order parameters help characterize the transition behavior in response to the present pulling force. We show that, upon increasing the pulling strength, the coil-globule transition turns from second to first order, then merges with the liquid-solid transition. An intermediate phase, separating the coil and globule phases, is identified for certain force strengths. Clear evidence of the Gough-Joule effect is found as well. Transitions do not occur at all if the pulling force exceeds a certain threshold value.",
   "authors": [
@@ -1776,6 +1885,36 @@
   ],
   "updated": "2026-11-10"
  },
+ "2611.14872": {
+  "abstract": "The rheometry of soft, tissue-like materials at ultra-high strain rates is critical to biomechanics, materials science, and medical engineering. One approach for characterizing high-rate material response is Inertial Microcavitation Rheometry (IMR), which infers viscoelastic constitutive behavior from the measured radius-time history of a laser-induced cavitation bubble. At these rates, materials may exhibit history-dependent behavior, including damage, fracture, and plasticity. However, conventional IMR analyses typically assume constant material properties throughout the cavitation event, limiting their ability to capture such changes. We present an IMR framework for identifying effective time varying material properties from measured cavitation radius histories. The framework allows the shear modulus, viscosity, or both to evolve during the event using normalized sigmoid histories. Synthetic tests recover prescribed constant and time varying material histories. Application to polyacrylamide and gelatin datasets yields effective material-property histories across formulations and experimental conditions. Viscosity decreased across the datasets, while the extent of shear modulus reduction varied with material and formulation. When both properties decreased, their reductions could occur at different stages of cavitation. This distinction in mechanical property degradation depends on both the property and its evolution during high-strain events.",
+  "authors": [
+   "Victor Sanchez",
+   "Joseph Beckett",
+   "Aryan Shah",
+   "Sicong Wang",
+   "Jin Yang",
+   "Jonathan B. Estrada",
+   "Mauro Rodriguez"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Victor Sanchez",
+  "pdf_url": "http://arxiv.org/pdf/2611.14872",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-11",
+  "tags": [
+   "mechanical-properties",
+   "polymer-degradation"
+  ],
+  "title": "Soft material mechanical property degradation at high strain rates",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-11"
+ },
  "2611.15656": {
   "abstract": "Advances in 3D nanophotonic additive manufacturing enable increasingly complex, almost free-form devices for manipulating light at sub-wavelength scales. Extending nanophotonic designs into three dimensions introduces additional degrees of freedom. Exploiting this freedom requires inverse-design methods that can efficiently navigate this large design space while accommodating fabrication constraints. Here, we combine gradient-free optimization with the level-set method (LSM) to provide such an approach for 3D additive manufacturing. Representing the 3D geometry as a level set constructed from Gaussian radial basis functions retains substantial geometric freedom with only a few hundred design variables. This compact representation makes gradient-free optimization practical for fully 3D nanophotonic devices, eliminating the need for adjoint calculations. This unlocks the use of any Maxwell solver or auxiliary algorithms that should express fabrication constraints for which the required derivatives are unavailable or impractical to obtain, and enables embarrassingly parallel workflows. Consequently, binary fabrication requirements, such as structural connectivity, can be rigorously enforced, avoiding the differentiable approximations commonly used in gradient-based optimization. Here, we demonstrate the combination of the gradient-free LSM with a connected-component analysis algorithm to enforce the structural integrity of the design. We demonstrate the applicability of the gradient-free LSM by optimizing a Y-splitter while strictly enforcing the structural integrity of the material and the void in the design.",
   "authors": [
@@ -1799,5 +1938,124 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-11-11"
+ },
+ "2611.15719": {
+  "abstract": "We study a three-dimensional dynamic thermoplastic system with a temperature-dependent convex yield set whose deviatoric section may collapse completely at a finite temperature. The underlying constitutive model is rate-independent Prandtl-Reuss perfect plasticity, without Kelvin-Voigt viscosity, hardening, or a safe-load condition. We construct global approximation-generated relaxed entropy-energy states by a one-parameter Temam-Norton-Hoff-Galerkin scheme with an undiscretized heat equation and untruncated plastic heat production. The logarithmic temperature is strongly compact in $L^2(0,T;L^q(Ω))$ for every $q<6$ and in $L^p((0,T)\\timesΩ)$ for every $p<8/3$. An entropy-weighted work estimate yields convergence of the overstress at rate $O(\\sqrt{\\log n/n})$ in every fixed finite Lebesgue space and identifies stress admissibility. The constitutive limit comprises a distributional plastic balance, finite support-weighted measures, and compact-fibre lifts carrying exact normality and maximum plastic work. A locally finite lift on the positive-radius fibres unifies the level-restricted limits at every continuity level. At the macroscopic level, however, the available compactness does not identify a canonical stress-plastic-flow pairing. Moreover, an explicit smooth state satisfying the intrinsic relaxed balance conditions shows that these conditions do not imply macroscopic Prandtl-Reuss normality. In the fully collapsed regime, an energy-entropy rigidity argument determines the evolution and yields approximation-generated examples in which the plastic flow need not be a finite measure or the displacement need not retain its full boundary trace. Thermal concentration and plastic entropy production remain explicit throughout.",
+  "authors": [
+   "Sebastian Owczarek"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "43 pages, 1 figure",
+  "first_author": "Sebastian Owczarek",
+  "pdf_url": "http://arxiv.org/pdf/2611.15719",
+  "primary_category": "math.AP",
+  "published": "2026-11-11",
+  "tags": [],
+  "title": "Dynamic Prandtl-Reuss Thermoplasticity with Degenerating Yield Constraints",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-11"
+ },
+ "2611.16468": {
+  "abstract": "Data-driven constitutive model discovery is recast as causal discovery of mechanism parent sets using time-unrolled structural causal models. Hard-coding balance laws and constitutive skeletons, candidate graphs score environment--mechanism and state--state edges via weak-form equilibrium gaps evaluated from full-field displacements, avoiding the need to measure stresses or internal variables. An adaptive lasso and a NOTEARS-type constraint ensure graph acyclicity and an explicit evaluation order, treating climate-chamber protocols as interventions. Automatic differentiation yields the score's Gauss--Newton matrix as a local identifiability certificate, driving greedy D-optimal test design. In a synthetic study on a hygro-thermo-viscoelastic damaging plate (8 true edges among 13 candidates), interventional data recover the exact true graph in 7 of 10 runs (0.01px displacement noise) with zero attribution error. Conversely, observational data with a temperature--moisture correlation of $-0.998$ fail entirely because confounded scores are 250--380 times flatter. Observationally discovered models reproduce training climates (3.6% error) but mispredict hot and humid climates by up to 41.5% (16.9% average), whereas interventionally discovered models stay within 3.2%. A correlation sweep shows the certificate successfully predicts attribution errors, though weak-form score noise bias remains a primary limitation. Computed without knowledge of the truth, the D-optimal design selects test sets ranked second or third out of 126 candidates.",
+  "authors": [
+   "Michael A. Kraus"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Michael A. Kraus",
+  "pdf_url": "http://arxiv.org/pdf/2611.16468",
+  "primary_category": "math-ph",
+  "published": "2026-11-12",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Physics-constrained differentiable causal discovery of constitutive mechanisms through boundary value problems",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.16740": {
+  "abstract": "We study the scattering of topological kinks in a discrete $φ^4$ chain with a localized, adaptive defect, motivated by autonomous self-healing mechanisms in fibrous and polymeric chains. The defect represents damaged flanking bonds whose coupling stiffness evolves dynamically via an internal healing variable, driven by the local energy density and moderated by a viscoelastic relaxation rate $β$. Using high-resolution numerical simulations, we identify a sharp transition at a critical impact velocity $v_c$ separating kink reflection from transmission ($v_c \\simeq 0.4183$ for the benchmark initial defect stiffness $C_{\\min} = 0.2$). While subcritical kinks ($v_i < v_c$) bounce back with little energy deposition and supercritical ones ($v_i > v_c$) cross the defect too quickly to induce noticeable recovery, kinks near the threshold ($v_i \\simeq v_c$) undergo resonant trapping. This prolonged dwell time transfers substantial vibrational energy into the defect, driving the healing variable to nearly full restoration ($h_{\\max} \\approx 0.98$). Notably, while $v_c$ and the peak defect energy $E_{d,\\max}$ depend strongly on $C_{\\min}$ and are largely unaffected by $β$, non-zero relaxation ($β> 0$) shortens the trapping window and reduces the final recovery efficiency. Our results show that energy-driven self-healing in discrete lattices is controlled by the cumulative dwell time and time-integrated energy excitation rather than the instantaneous impact peak alone.",
+  "authors": [
+   "Sh. Minapoor",
+   "Sergey V. Dmitriev",
+   "A. Moradi Marjaneh"
+  ],
+  "categories": [
+   "nlin.PS"
+  ],
+  "comment": "8 pages, 4 figures",
+  "first_author": "Sh. Minapoor",
+  "pdf_url": "http://arxiv.org/pdf/2611.16740",
+  "primary_category": "nlin.PS",
+  "published": "2026-11-12",
+  "tags": [
+   "benchmarking",
+   "mechanical-properties"
+  ],
+  "title": "Near-Threshold Kink Trapping Enhances Defect Healing in an Adaptive $\\boldsymbol{φ^4}$ Chain",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17283": {
+  "abstract": "Ceramic materials that maintain structural integrity and resist thermal-shock under extreme conditions are critical for many applications. Here we show that spark plasma sintered composites containing equal weight fractions of hexagonal silicon carbide (6H-SiC) and boron nitride (h-BN) exhibit exceptional stability under extreme high-temperature oxidizing conditions and unusually stable temperature-independent thermal conductivity across a broad temperature range. Under high-velocity oxygen-fuel torch exposure in air, it withstands prolonged heating and thermal-cycling at surface temperatures reaching >1500 °C, whereas pure 6H-SiC and h-BN rapidly fractures or erodes. Microstructural evaluation shows the formation of a multi-phase surface silica layer that further protects the material from oxidation. Finite-element analysis heat-flux map shows that intrinsic porosity mitigates thermal stress, while ReaxFF molecular dynamics simulations reveal thermally driven interfacial reconstruction and the formation of a Si-N/C-B-rich bonding network, enhancing the interfacial cohesion at elevated temperatures. This lightweight, easily machinable ceramic composite will be a promising structural material in extreme environment applications.",
+  "authors": [
+   "Abhijit Biswas",
+   "Eugenio Garcia-Granados",
+   "Saman Zare",
+   "Mozhdeh Mirakhory",
+   "JungHun Park",
+   "Shuvodeep De",
+   "Jessica Reyes",
+   "Hunter B. Schonfeld",
+   "Noah A. Burke",
+   "William Riffe",
+   "Michael S. Lafferty",
+   "Sudaice Kazibwe",
+   "Maryam Amiri",
+   "Shreyasi Chattopadhyay",
+   "Mingrui Xu",
+   "Gelu Costin",
+   "Tanguy Terlier",
+   "Jianhua Li",
+   "Ching-Wu Chu",
+   "Liangzi Deng",
+   "Bharat K. Jasthi",
+   "Manoj Tripathi",
+   "Venkataramana Gadhamshetty",
+   "Gi-Dong Sim",
+   "Kathy Lu",
+   "Adri C. T. van Duin",
+   "Patrick E. Hopkins",
+   "Sanjay Sampath",
+   "Pulickel M. Ajayan"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "76 Pages, 4 Main Figures, 30 SI Figures, 8 Tables, Authors version, Comments are welcome",
+  "first_author": "Abhijit Biswas",
+  "pdf_url": "http://arxiv.org/pdf/2611.17283",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "composites",
+   "molecular-dynamics",
+   "thermal-conductivity"
+  ],
+  "title": "SiC-BN composites with extreme thermal and environmental stability",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-12"
  }
 }
