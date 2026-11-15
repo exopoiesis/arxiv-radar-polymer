@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16535.html">Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution</a></div></td>
+<td>Divya Nalajala et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16535">2611.16535</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-11</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15656.html">Gradient-Free Inverse Design of 3D Nanophotonic Devices Using the Level-Set-Method</a></div></td>
 <td>Oliver Kuster et al.</td>
@@ -74,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Reza T Batley et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25565">2610.25565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.22741.html">SAMS: A Structured Graph Framework for Securing Additive Manufacturing Systems</a></div><div class="paper-tags"><a href="polymer-degradation-30d.html">polymer-degradation</a></div></td>
-<td>Sarah Roscoe et al.</td>
-<td><a href="http://arxiv.org/abs/2610.22741">2610.22741</a></td>
 </tr>
 </tbody></table>

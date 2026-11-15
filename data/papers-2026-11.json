@@ -1981,6 +1981,32 @@
   ],
   "updated": "2026-11-12"
  },
+ "2611.16535": {
+  "abstract": "Single-crystal processing of Ni-based superalloys using laser-directed energy deposition (L-DED) is extremely challenging, given the interplay of a number of processing parameters. In this work, we develop strategies to maintain single-crystal growth in long cylindrical rod geometries by combining dynamic adjustment of laser power, informed by in-situ infrared thermal feedback, with a simulation-guided external cooling system. This combined approach ensures optimal heat extraction during additive manufacturing, maintaining near-steady-state conditions at the solidification interface and extending continuous epitaxial growth to nearly twice the build height achievable through process control alone. The developed strategy results in continuous single-crystal growth, as validated by electron backscatter diffraction (EBSD). The steady-state nature of solidification is revealed through the near-constant primary dendritic arm spacing. Further, the heat-treatment is optimized by reducing the solutionizing time (by 47\\%), resulting in faster eutectic dissolution. Comparison of the aged microstructures reveals a similar distribution of precipitates between the classical Bridgman- and L-DED-processed samples.",
+  "authors": [
+   "Divya Nalajala",
+   "Swapnil Bhure",
+   "R. Ajithkannan",
+   "Shubhang Galagali",
+   "Abhik Choudhury"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Divya Nalajala",
+  "pdf_url": "http://arxiv.org/pdf/2611.16535",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-12",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-11-12"
+ },
  "2611.16740": {
   "abstract": "We study the scattering of topological kinks in a discrete $φ^4$ chain with a localized, adaptive defect, motivated by autonomous self-healing mechanisms in fibrous and polymeric chains. The defect represents damaged flanking bonds whose coupling stiffness evolves dynamically via an internal healing variable, driven by the local energy density and moderated by a viscoelastic relaxation rate $β$. Using high-resolution numerical simulations, we identify a sharp transition at a critical impact velocity $v_c$ separating kink reflection from transmission ($v_c \\simeq 0.4183$ for the benchmark initial defect stiffness $C_{\\min} = 0.2$). While subcritical kinks ($v_i < v_c$) bounce back with little energy deposition and supercritical ones ($v_i > v_c$) cross the defect too quickly to induce noticeable recovery, kinks near the threshold ($v_i \\simeq v_c$) undergo resonant trapping. This prolonged dwell time transfers substantial vibrational energy into the defect, driving the healing variable to nearly full restoration ($h_{\\max} \\approx 0.98$). Notably, while $v_c$ and the peak defect energy $E_{d,\\max}$ depend strongly on $C_{\\min}$ and are largely unaffected by $β$, non-zero relaxation ($β> 0$) shortens the trapping window and reduces the final recovery efficiency. Our results show that energy-driven self-healing in discrete lattices is controlled by the cumulative dwell time and time-integrated energy excitation rather than the instantaneous impact peak alone.",
   "authors": [
@@ -2003,6 +2029,36 @@
   "title": "Near-Threshold Kink Trapping Enhances Defect Healing in an Adaptive $\\boldsymbol{φ^4}$ Chain",
   "topics": [
    "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-12"
+ },
+ "2611.17254": {
+  "abstract": "Demixing through liquid-liquid phase separation is relevant to nanoparticle (NP) aggregation in polymer nanocomposites (PNCs), biomolecular compartmentalization, and liquids embedded in elastic networks. Mixing-demixing phase behavior depends on factors, such as particle size distribution, system dimen-sionality, intermolecular interactions, and relative concentrations. Here, using Langevin Dynamics simu-lations, we systematically investigate the effect of inter-nanoparticle repulsion on the self-assembly of PNCs under extreme confinement. A nanoparticle assembly, in the form of a compact droplet, is immersed in a polymer matrix of semiflexible, rod-like chains. By varying the nanoparticle-nanoparticle repulsion strength, while fixing all other interactions, we identify four distinct regimes with respect to the self-assembled NP morphologies: droplet, slab, crystalline droplet, and dispersed. Cluster-based analysis reveals a progressive loss of nanoparticle droplet integrity, leading to fragmentation within the dispersed regime. Local order of the nanoparticle assembly and global order of polymer chains are gauged through refined descriptors, quantifying the degrees of crystallinity and of nematic order, respectively. Interest-ingly, the slab regime exhibits negligible nanoparticle crystallization yet demonstrates the strongest polymer nematic ordering. In contrast, the crystalline droplet displays extensive triangular close-packed crystallites accompanied by a significant reduction in polymer nematic order, owing to its rhomboid shape. In the dispersed regime, nanoparticle fragmentation facilitates efficient mixing and local smectic-like ordering of the polymer chains. These findings demonstrate that fine-tuning inter-NP repulsions can control self-organization and the resulting morphologies, providing insights into PNCs with tailored functionality.",
+  "authors": [
+   "Paawan Chandrakanth",
+   "Nikos Ch. Karayiannis",
+   "Subhalaxmi Das",
+   "Supriya Roy"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.chem-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Paawan Chandrakanth",
+  "pdf_url": "http://arxiv.org/pdf/2611.17254",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-12",
+  "tags": [
+   "crystallinity",
+   "nanocomposites",
+   "phase-separation"
+  ],
+  "title": "Inter-Nanoparticle Repulsion Effect on Self-Organization in Polymer Nanocomposites: A Langevin Dynamics Simulation Study",
+  "topics": [
+   "Microstructure, Morphology & Characterization",
+   "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-11-12"
  },

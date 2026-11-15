@@ -5,9 +5,9 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-14._
+_Updated 2026-11-15._
 
-**3814** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3816** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
@@ -22,9 +22,21 @@ _Updated 2026-11-14._
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16535.html">Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Divya Nalajala et al.</td>
+<td><a href="http://arxiv.org/abs/2611.16535">2611.16535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16740.html">Near-Threshold Kink Trapping Enhances Defect Healing in an Adaptive $\boldsymbol{φ^4}$ Chain</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Sh. Minapoor et al.</td>
 <td><a href="http://arxiv.org/abs/2611.16740">2611.16740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17254.html">Inter-Nanoparticle Repulsion Effect on Self-Organization in Polymer Nanocomposites: A Langevin Dynamics Simulation Study</a></div><div class="paper-tags"><a href="tag/crystallinity-30d.html">crystallinity</a> · <a href="tag/nanocomposites-30d.html">nanocomposites</a> · <a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Paawan Chandrakanth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17254">2611.17254</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -181,17 +193,5 @@ _Updated 2026-11-14._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13101.html">Quantum Control Geometry as a Metric of Chaos</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
 <td>Mahmoud Abdelshafy et al.</td>
 <td><a href="http://arxiv.org/abs/2611.13101">2611.13101</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13110.html">Finite Measured Entropy Production Does Not Imply Finite Microscopic Irreversibility</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Hieu Nguyen</td>
-<td><a href="http://arxiv.org/abs/2611.13110">2611.13110</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-08</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11594.html">Liberation in the Heavy Limit</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a></div></td>
-<td>Sridip Pal et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11594">2611.11594</a></td>
 </tr>
 </tbody></table>

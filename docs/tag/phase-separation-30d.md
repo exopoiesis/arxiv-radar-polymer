@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17254.html">Inter-Nanoparticle Repulsion Effect on Self-Organization in Polymer Nanocomposites: A Langevin Dynamics Simulation Study</a></div><div class="paper-tags"><a href="crystallinity-30d.html">crystallinity</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
+<td>Paawan Chandrakanth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17254">2611.17254</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12298.html">On the Abels--Garcke--Grün Model for Incompressible Two-Phase Flows with Unmatched Densities: Phase Separation and Rayleigh--Taylor Instability</a></div></td>
 <td>Fei Jiang et al.</td>
@@ -128,11 +134,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23285.html">When Cooling Meets Flow: Advection-Driven Orientation Selection in Phase Separation around a Moving Cooling Source</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Lakshmipriya K et al.</td>
 <td><a href="http://arxiv.org/abs/2610.23285">2610.23285</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.21917.html">Phase coexistence and nucleation of aging condensates</a></div><div class="paper-tags"><a href="flory-huggins-30d.html">flory-huggins</a></div></td>
-<td>Yicheng Qiang et al.</td>
-<td><a href="http://arxiv.org/abs/2610.21917">2610.21917</a></td>
 </tr>
 </tbody></table>

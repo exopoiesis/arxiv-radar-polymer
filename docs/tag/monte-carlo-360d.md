@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">115 papers</span>
+  <span class="paper-count">114 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -698,11 +698,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16371.html">Modeling adsorption processes on the core-shell-like polymer structures: star and comb topologies</a></div></td>
 <td>V. Blavatska et al.</td>
 <td><a href="http://arxiv.org/abs/2511.16371">2511.16371</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15368.html">Shaping the aggregates of discotic particles with directional pair interactions</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>B. Martínez-Haya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15368">2511.15368</a></td>
 </tr>
 </tbody></table>

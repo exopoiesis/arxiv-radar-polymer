@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>catalyst-design — 360d</h1>
-  <span class="paper-count">9 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="catalyst-design-7d.html">7d</a> <a href="catalyst-design-30d.html">30d</a> <a href="catalyst-design-90d.html">90d</a> <strong>360d</strong> <a href="catalyst-design-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -62,11 +62,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.19774.html">Rapid reduction of nitrophenols using reusable magnetic \textit{h}-BN/Ni--NiO nanocomposites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a> · <a href="spectroscopy-360d.html">spectroscopy</a> · <a href="tem-360d.html">tem</a></div></td>
 <td>Anjali Varshney et al.</td>
 <td><a href="http://arxiv.org/abs/2512.19774">2512.19774</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15042.html">Integrating Atomic Scale Catalyst Design with Transport Engineering for Stable and Efficient CO2 Electrolysis to CO in a Membrane Electrode Assembly</a></div></td>
-<td>Zahra Teimouri et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15042">2511.15042</a></td>
 </tr>
 </tbody></table>

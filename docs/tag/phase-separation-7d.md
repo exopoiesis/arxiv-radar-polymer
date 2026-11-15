@@ -16,6 +16,12 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17254.html">Inter-Nanoparticle Repulsion Effect on Self-Organization in Polymer Nanocomposites: A Langevin Dynamics Simulation Study</a></div><div class="paper-tags"><a href="crystallinity-7d.html">crystallinity</a> · <a href="nanocomposites-7d.html">nanocomposites</a></div></td>
+<td>Paawan Chandrakanth et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17254">2611.17254</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-09</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12298.html">On the Abels--Garcke--Grün Model for Incompressible Two-Phase Flows with Unmatched Densities: Phase Separation and Rayleigh--Taylor Instability</a></div></td>
 <td>Fei Jiang et al.</td>
@@ -26,11 +32,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12735.html">Catalysis-induced phase separation of enzymes via diffusivity contrast</a></div></td>
 <td>Marie Jardat et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12735">2611.12735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-07</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.10621.html">Dynamic Scaling and Aging in Hydrodynamic Coarsening of Vapor Bubbles in a Lennard-Jones Fluid</a></div><div class="paper-tags"><a href="molecular-dynamics-7d.html">molecular-dynamics</a></div></td>
-<td>Sutapa Roy</td>
-<td><a href="http://arxiv.org/abs/2611.10621">2611.10621</a></td>
 </tr>
 </tbody></table>

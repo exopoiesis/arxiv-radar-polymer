@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">174 papers</span>
+  <span class="paper-count">173 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1052,11 +1052,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17631.html">Linear Viscoelasticity of Semiflexible Polymers with Hydrodynamic Interactions</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Amit Varakhedkar et al.</td>
 <td><a href="http://arxiv.org/abs/2509.17631">2509.17631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-19</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.15368.html">Shaping the aggregates of discotic particles with directional pair interactions</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>B. Martínez-Haya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.15368">2511.15368</a></td>
 </tr>
 </tbody></table>
