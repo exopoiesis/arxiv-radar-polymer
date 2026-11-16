@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">498 papers</span>
+  <span class="paper-count">497 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2996,11 +2996,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.03485.html">Linear viscoelasticity: Mechanics, analysis and approximation</a></div></td>
 <td>Michael Ortiz</td>
 <td><a href="http://arxiv.org/abs/2509.03485">2509.03485</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16794.html">Hierarchical Bayesian constitutive model selection for high-strain-rate soft material characterization</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Victor Sanchez et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16794">2511.16794</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">114 papers</span>
+  <span class="paper-count">112 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -686,17 +686,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13846.html">Extension of Dynamic Network Biomarker using the propensity score method: Simulation of causal effects on variance and correlation coefficient</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Satoru Shinoda et al.</td>
 <td><a href="http://arxiv.org/abs/2505.13846">2505.13846</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.21492.html">Control of growth morphology of deposited fcc metals through tuning substrate-metal interactions</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Samuel Aldana et al.</td>
-<td><a href="http://arxiv.org/abs/2508.21492">2508.21492</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.16371.html">Modeling adsorption processes on the core-shell-like polymer structures: star and comb topologies</a></div></td>
-<td>V. Blavatska et al.</td>
-<td><a href="http://arxiv.org/abs/2511.16371">2511.16371</a></td>
 </tr>
 </tbody></table>

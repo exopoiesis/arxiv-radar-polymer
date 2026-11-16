@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">18 papers</span>
+  <span class="paper-count">17 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -116,11 +116,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Reza T Batley et al.</td>
 <td><a href="http://arxiv.org/abs/2610.25565">2610.25565</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-16</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.23762.html">An exact finite-state representation of viscoelastic memory for accelerated sea-level modeling: SLEvolve v1.0</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Xiyuan Bao et al.</td>
-<td><a href="http://arxiv.org/abs/2610.23762">2610.23762</a></td>
 </tr>
 </tbody></table>
