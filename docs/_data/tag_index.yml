@@ -8,17 +8,21 @@
   total: 585
   group: morphology
 - name: benchmarking
-  count: 17
-  total: 234
+  count: 18
+  total: 235
   group: informatics
+- name: additive-manufacturing
+  count: 15
+  total: 375
+  group: processing
+- name: composites
+  count: 15
+  total: 283
+  group: processing
 - name: polymer-morphology
   count: 15
   total: 381
   group: morphology
-- name: composites
-  count: 14
-  total: 282
-  group: processing
 - name: rheology
   count: 13
   total: 214
@@ -27,22 +31,18 @@
   count: 12
   total: 308
   group: simulation
-- name: additive-manufacturing
-  count: 11
-  total: 371
-  group: processing
 - name: molecular-dynamics
   count: 11
   total: 269
   group: simulation
+- name: hydrogels
+  count: 9
+  total: 174
+  group: applications
 - name: monte-carlo
   count: 8
   total: 207
   group: simulation
-- name: hydrogels
-  count: 7
-  total: 172
-  group: applications
 - name: spectroscopy
   count: 7
   total: 125
@@ -56,12 +56,12 @@
   total: 97
   group: applications
 - name: diffusion-model
-  count: 3
-  total: 45
+  count: 4
+  total: 46
   group: design
 - name: inverse-design
-  count: 3
-  total: 47
+  count: 4
+  total: 48
   group: design
 - name: mlff
   count: 3
@@ -75,10 +75,6 @@
   count: 3
   total: 85
   group: simulation
-- name: thermal-conductivity
-  count: 3
-  total: 86
-  group: properties
 - name: catalyst-design
   count: 2
   total: 23
@@ -95,6 +91,10 @@
   count: 2
   total: 61
   group: sustainability
+- name: thermal-conductivity
+  count: 2
+  total: 86
+  group: properties
 - name: bayesian-optimization
   count: 1
   total: 29

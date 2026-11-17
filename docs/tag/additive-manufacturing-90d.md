@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">35 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20624.html">Miniaturized Low-Cost 3-D Printed High-Permittivity Dielectric Transmissive LP-to-CP Converter for L-Band Satellite Communications</a></div></td>
+<td>Gazali Bashir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20624">2611.20624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a></div></td>
+<td>Xinghao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="inverse-design-90d.html">inverse-design</a></div></td>
+<td>Amirul Islam Saimon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18447.html">Nesting in additive manufacturing using quantum annealing</a></div></td>
+<td>Xiangqian Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18447">2611.18447</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16535.html">Bulk CMSX-4 Single-Crystal Builds via Laser-Directed Energy Deposition: Epitaxial Stability and Microstructure Evolution</a></div></td>
@@ -218,11 +242,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21190.html">Shaping liquids into space structures - microgravity-assisted design and manufacturing of minimal surfaces</a></div></td>
 <td>Erez Hochman et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21190">2608.21190</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17248.html">Information fusion and machine learning for sensitivity analysis using physics knowledge and experimental data</a></div></td>
-<td>Berkcan Kapusuzoglu et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17248">2608.17248</a></td>
 </tr>
 </tbody></table>

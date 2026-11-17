@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>hydrogels — 90d</h1>
-  <span class="paper-count">23 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <strong>90d</strong> <a href="hydrogels-360d.html">360d</a> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20857.html">Will it bend? Modelling hydrogel box hinges with a gel Lattice Spring Method</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Ellen M Jolley et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20857">2611.20857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-07</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14565.html">Hands-on fabrication of 2D material field-effect transistors for the classroom using off-the-shelf ionic gel</a></div></td>
+<td>Yigit Sozen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.14565">2611.14565</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-01</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.01889.html">Numerical Verification Limits of Asymmetric Intrastromal Hydrogel Reinforcement for Decentered Keratoconus</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a></div></td>
@@ -146,11 +158,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.19810.html">A Central Disulfide Junction Drives Transient Network Formation in Elastin-Like Polypeptides, Enabling Low-Concentration Hydrogels</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a> · <a href="saxs-90d.html">saxs</a> · <a href="tem-90d.html">tem</a></div></td>
 <td>Tingting Zhang et al.</td>
 <td><a href="http://arxiv.org/abs/2608.19810">2608.19810</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.17581.html">Modelling flow-driven pore closure of weakening poroelastic media</a></div></td>
-<td>Matthew V. Ghosh et al.</td>
-<td><a href="http://arxiv.org/abs/2608.17581">2608.17581</a></td>
 </tr>
 </tbody></table>

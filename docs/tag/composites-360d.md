@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>composites — 360d</h1>
-  <span class="paper-count">150 papers</span>
+  <span class="paper-count">149 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <a href="composites-90d.html">90d</a> <strong>360d</strong> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20857.html">Will it bend? Modelling hydrogel box hinges with a gel Lattice Spring Method</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
+<td>Ellen M Jolley et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20857">2611.20857</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
@@ -902,17 +908,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18650.html">Performance of the High-Angle Time Projection Chambers in the Upgraded T2K Off-Axis Near Detector</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
 <td>K. Aivazelis et al.</td>
 <td><a href="http://arxiv.org/abs/2511.18650">2511.18650</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.13846.html">Extension of Dynamic Network Biomarker using the propensity score method: Simulation of causal effects on variance and correlation coefficient</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
-<td>Satoru Shinoda et al.</td>
-<td><a href="http://arxiv.org/abs/2505.13846">2505.13846</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.17202.html">Ferroelectric Nematic Liquid Crystals as Charge Boosters for Triboelectric Nanogenerators</a></div><div class="paper-tags"><a href="soft-matter-360d.html">soft-matter</a></div></td>
-<td>Jia-Yao Ye et al.</td>
-<td><a href="http://arxiv.org/abs/2511.17202">2511.17202</a></td>
 </tr>
 </tbody></table>

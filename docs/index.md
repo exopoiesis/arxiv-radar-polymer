@@ -5,15 +5,45 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-16._
+_Updated 2026-11-17._
 
-**3816** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3822** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20624.html">Miniaturized Low-Cost 3-D Printed High-Permittivity Dielectric Transmissive LP-to-CP Converter for L-Band Satellite Communications</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Gazali Bashir et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20624">2611.20624</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20857.html">Will it bend? Modelling hydrogel box hinges with a gel Lattice Spring Method</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Ellen M Jolley et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20857">2611.20857</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
+<td>Xinghao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
+<td>Amirul Islam Saimon et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.18447.html">Nesting in additive manufacturing using quantum annealing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Xiangqian Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18447">2611.18447</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.16468.html">Physics-constrained differentiable causal discovery of constitutive mechanisms through boundary value problems</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
@@ -163,35 +193,5 @@ _Updated 2026-11-16._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12298.html">On the Abels--Garcke--Grün Model for Incompressible Two-Phase Flows with Unmatched Densities: Phase Separation and Rayleigh--Taylor Instability</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
 <td>Fei Jiang et al.</td>
 <td><a href="http://arxiv.org/abs/2611.12298">2611.12298</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12322.html">Ultrafast Inter-Aggregate Energy Transfer Drives Efficient Charge Generation in Organic Homojunctions</a></div><div class="paper-tags"><a href="tag/organic-photovoltaics-30d.html">organic-photovoltaics</a> · <a href="tag/spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Shanchao Ouyang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12322">2611.12322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12578.html">Nonlinear integral equations for stress-controlled rheology: Collocation methods for Volterra equations with functional kernels</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/rheology-30d.html">rheology</a></div></td>
-<td>Stephan Domann et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12578">2611.12578</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12735.html">Catalysis-induced phase separation of enzymes via diffusivity contrast</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Marie Jardat et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12735">2611.12735</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13088.html">Holographic Drag Force and the Entanglement Membrane: Geometric Reconstruction and Information Spreading</a></div></td>
-<td>Dmitry S. Ageev</td>
-<td><a href="http://arxiv.org/abs/2611.13088">2611.13088</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.13101.html">Quantum Control Geometry as a Metric of Chaos</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a></div></td>
-<td>Mahmoud Abdelshafy et al.</td>
-<td><a href="http://arxiv.org/abs/2611.13101">2611.13101</a></td>
 </tr>
 </tbody></table>

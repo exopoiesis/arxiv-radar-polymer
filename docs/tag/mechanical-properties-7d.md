@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,29 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14341.html">Numerical analysis of coupled flow, deformation and frictional contact mechanics in a fractured porous medium</a></div></td>
 <td>Marius Nevland et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14341">2611.14341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div><div class="paper-tags"><a href="polymer-morphology-7d.html">polymer-morphology</a></div></td>
-<td>Lianghao Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11805">2611.11805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11939.html">Topology to Elasticity Mapping in Thermal Glass</a></div></td>
-<td>Avinash Kumar Jha</td>
-<td><a href="http://arxiv.org/abs/2611.11939">2611.11939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11953.html">Elastic frontogenesis sets the spectra of smooth elastic turbulence</a></div></td>
-<td>Marco Edoardo Rosti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11953">2611.11953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.12578.html">Nonlinear integral equations for stress-controlled rheology: Collocation methods for Volterra equations with functional kernels</a></div><div class="paper-tags"><a href="rheology-7d.html">rheology</a></div></td>
-<td>Stephan Domann et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12578">2611.12578</a></td>
 </tr>
 </tbody></table>

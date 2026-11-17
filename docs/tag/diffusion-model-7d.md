@@ -16,9 +16,9 @@ current_window: 7d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.11826.html">How Path Integral Diffusion Decides a Finite Spin Glass</a></div><div class="paper-tags"><a href="glass-transition-7d.html">glass-transition</a></div></td>
-<td>Michael Chertkov</td>
-<td><a href="http://arxiv.org/abs/2611.11826">2611.11826</a></td>
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="additive-manufacturing-7d.html">additive-manufacturing</a></div></td>
+<td>Xinghao Dong et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
 </tr>
 </tbody></table>
