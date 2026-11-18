@@ -2083,6 +2083,7 @@
   ],
   "title": "Inter-Nanoparticle Repulsion Effect on Self-Organization in Polymer Nanocomposites: A Langevin Dynamics Simulation Study",
   "topics": [
+   "Conducting, Responsive & Compartment Polymers",
    "Microstructure, Morphology & Characterization",
    "Processing, Manufacturing & Composites",
    "Sustainability & Functional Applications"
@@ -2193,6 +2194,29 @@
   ],
   "updated": "2026-11-13"
  },
+ "2611.18783": {
+  "abstract": "We present a unified continuum framework that combines chemotactic feedback with motility-induced phase separation (MIPS) to investigate the physical origin of aggregation in self-secreting cell populations. While classical Keller-Segel theory attributes pattern formation to chemotactic instabilities, we show that this mechanism breaks down in systems with proportional density-dependent (autocrine) production and uptake: linear stability analysis reveals that chemical fluctuations decouple from density, eliminating chemotactic aggregation at leading order. In contrast, introducing density-dependent motility restores instability through a purely mechanical mechanism corresponding to MIPS. Our results demonstrate that chemotactic feedback does not alter the nature of this instability, but instead enhances its growth rate and accelerates aggregation. This unifies two central paradigms of biological self-organization and revises the role of chemotaxis in collective cell migration.",
+  "authors": [
+   "Letong Xu",
+   "Robert G. Endres"
+  ],
+  "categories": [
+   "q-bio.CB"
+  ],
+  "comment": "10 pages, 6 figures, 1 table. Manuscript is submitted and currently under review",
+  "first_author": "Letong Xu",
+  "pdf_url": "http://arxiv.org/pdf/2611.18783",
+  "primary_category": "q-bio.CB",
+  "published": "2026-11-12",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Motility-induced phase separation drives aggregation in chemotactic systems",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-12"
+ },
  "2611.19676": {
   "abstract": "Stochastic closure modeling is an emerging area in reduced-order modeling of large and complex (e.g., multiscale, multi-physics) systems, for which the computationally affordable reduced-order physical descriptions (e.g., digital twins for additive manufacturing, world models for AI agents) in numerical simulations inevitably lead to information losses that cannot be well addressed by classical deterministic closures. However, learning stochastic closures typically requires closure data that are difficult to obtain from measurements or often prohibitively expensive to compute using first-principles simulations. In this work, we develop a stochastic closure modeling framework that builds on score-based diffusion models, leveraging indirect offline training and online data assimilation without requiring the direct data of closures. Numerical experiments on two-dimensional turbulent flows demonstrate that indirect offline learning captures key closure statistics and improves predictions of system state. In addition, combining the learned closure with known physical dynamics leads to better generalization capability across different regimes than purely data-driven models that directly predict system state. Compared to standard data assimilation methods with a Gaussian assumption, the posterior-score assimilation better represents non-Gaussian features of the learned closure, and its combination with state-level data assimilation further improves prediction of the system state. The proposed framework enables stochastic closure modeling in realistic and challenging scenarios of complex dynamical systems in mechanics and engineering problems, where non-Gaussian statistics of model-form uncertainties are non-negligible (e.g., due to the nonlinearities of the system dynamics and/or the observations) and true closure data are not available, for both offline learning and online assimilation.",
   "authors": [
@@ -2219,6 +2243,54 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-11-15"
+ },
+ "2611.19693": {
+  "abstract": "Coherent interfacial energies govern the formation and evolution of multiphase microstructures, but their calculation is complicated by the elastic energy required to accommodate lattice mismatch. Here, we construct a high-throughput DFT database of 365 coherent FCC/FCC, BCC/BCC, and HCP/HCP interfaces involving 41 metallic elements and lattice mismatches of up to 25%. We use the supercell approach, consisting of constructing superlattices of different thicknesses to separate the coherency strain energy from the chemical contribution to the interfacial energy. We classify the results according to the long-range ordering tendency of each binary system and the sign of the calculated interfacial energy. Most phase-separating systems exhibit positive interfacial energies, whereas most compound-ordering systems exhibit negative values, reflecting favorable unlike-atom bonding. Exceptions show that the chemical preference at a particular interface need not coincide with bulk phase behavior: coherency strain can oppose ordering, and stable compounds can adopt structures distinct from the calculated superlattices. No clear correlation of interfacial energy with lattice mismatch is observed, whereas coherency strain energy increases with mismatch. For phase-separating systems, the lowest interfacial energies generally occur along the closest-packed orientations, while this trend is absent for ordering systems. Comparisons with reported interfacial energies and binary phase diagrams show qualitative consistency, although quantitative agreement varies with reference states, structural constraints, and temperature. The database provides a systematic reference for metallic coherent heterophase interfaces and demonstrates the importance of separating strain and chemical energy contributions when interpreting alloy behavior.",
+  "authors": [
+   "Adolfo Salgado-Casanova",
+   "Jacob Pietryga",
+   "Yi Xia",
+   "Chris Wolverton"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "Main manuscript: 32 pages, 8 figures, 1 table. Supporting Information: 31 pages, 22 figures, 4 tables",
+  "first_author": "Adolfo Salgado-Casanova",
+  "pdf_url": "http://arxiv.org/pdf/2611.19693",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-15",
+  "tags": [],
+  "title": "Energetics of Coherent Heterophase Interfaces: Separating Chemical and Strain Contributions",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.20555": {
+  "abstract": "Many biological and engineered filaments exhibit internal structure or fluidity that alters their elastic behavior. We study the elasticity of microscale filamentous smectic condensates, grown during liquid-liquid crystal phase separation. We use a Fourier analysis of their thermal bend fluctuations to measure their persistence length, which follows a non-classic linear scaling with their cross-sectional area, in contrast to the classic quadratic scaling for elastic filaments. We rationalize this scaling using the Helfrich energy to compute the free energy of bending a filament with internal smectic fluid ordering. Our analysis then provides a direct method to measure the bend modulus K, which quantifies the rigidity of smectic layers; providing the first method to directly measure K for dispersed smectic phases. We quantify the softening of filaments in the presence of shorter alkyl-tail mesogen dopants, decreasing K by up to ~35%. Out results suggest how nanoscale smectic organization and molecular composition determine filament-scale elasticity, informing the control of filament mechanics and self-assembly in biomimetic and engineered materials.",
+  "authors": [
+   "Haotian Long",
+   "Shamiah A. Williams",
+   "Chinedum O. Osuji",
+   "Christopher A. Browne"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Haotian Long",
+  "pdf_url": "http://arxiv.org/pdf/2611.20555",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-16",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Bending Rigidity of Smectic Filaments",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-16"
  },
  "2611.20624": {
   "abstract": "A low-cost, miniaturized, additively manufactured transmissive linear-to-circular polarization converter for L-band air and space communication systems is presented. The proposed polarizer employs an in-house-fabricated high-permittivity dielectric medium, realized using a 3-D printed polylactic acid (PLA) enclosure filled with a TiO$_2$--water mixture. Variation in the effective permittivity is achieved by adjusting the mixture filling fraction. The selected 60\\% filling fraction corresponds to an effective relative permittivity of 11.3 at 1 GHz. The high-permittivity loading enables miniaturization of the polarizer height and area by reducing the anisotropic dielectric unit-cell dimensions to $\\boldsymbol{0.037λ_0 \\times 0.037λ_0 \\times 0.22λ_0}$. An additively manufactured polarizer with overall dimensions $\\boldsymbol{0.83λ_0 \\times 0.77λ_0 \\times 0.22λ_0}$ is experimentally validated using a compact linearly polarized feed source. The measured results demonstrate LP-to-CP conversion, with a 3 dB axial ratio of 12\\% and insertion loss of less than 0.6 dB. Radiation-pattern measurements at 1 GHz show LHCP-to-RHCP discrimination levels of 19 and 24 dB in the \\textbf{\\textit{xz}}- and \\textbf{\\textit{yz}}-planes, respectively. The proposed configuration combines miniaturization, LP-to-CP conversion, and low-cost additive manufacturing, making it promising for UAV-mounted and other size-constrained L-band satellite communication terminals.",
@@ -2272,5 +2344,103 @@
    "Sustainability & Functional Applications"
   ],
   "updated": "2026-11-16"
+ },
+ "2611.21022": {
+  "abstract": "The degree of polarisation correlation of the two annihilation photons, measured by Compton polarimetry, has been proposed as a PET biomarker of tissue microstructure, but the statistics it requires have not been quantified. We parameterise the measurement by the linear-polarisation correlation coefficient $κ$ ($κ=1$ maximally entangled, $1/2$ separable), derive the classical Fisher information of double-Compton events and compare it with the quantum Fisher information, relate $κ$ to the annihilation channels of positronium in tissue, and simulate pixelated CdZnTe (CZT) rings. The model is checked against three published measurements and an independent GATE/Geant4 simulation. A double-Compton event carries at most 0.12-0.14 units of Fisher information about $κ$ and 0.015 on average, 0.1-0.6% of the quantum limit. Event-wise maximum likelihood reaches the Cramer-Rao bound, whereas the conventional ratio R needs 1.2-2.3 times more events. The observed coefficient is $κ_{obs}=1-α(1-κ_{pick})$, with a pick-off share $α$ of 0.13-0.29 in tissue; it is sensitive to lipid fraction but not to oxygen, and carries no tissue information if pick-off photons are maximally entangled. Published porous-polymer data imply $κ_{pick}$ = 0.34-0.58. In a 15-mm CZT module, ordering ambiguity, position errors and electron transport roughly halve the information per event, and sequence reconstruction of multi-site events recovers this loss. With $^{18}$F and an eight-module ring, $κ$ can be measured to $\\pm0.01$ in a 10-mm tumour, but separating tissues by $κ$ alone requires 6-74 times more decays than are available.",
+  "authors": [
+   "Haitao Zhou",
+   "Ruonan Wang",
+   "Jianyong Hu",
+   "Zhifang Wu",
+   "Sijin Li"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": "27 pages, 8 figures, 8 tables",
+  "first_author": "Haitao Zhou",
+  "pdf_url": "http://arxiv.org/pdf/2611.21022",
+  "primary_category": "quant-ph",
+  "published": "2026-11-16",
+  "tags": [
+   "polymer-morphology"
+  ],
+  "title": "How many events does entanglement-based positronium imaging need? Information limits of Compton polarimetry with CZT detectors",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21898": {
+  "abstract": "Aggregate molecular systems are routinely understood by decomposing them into local structural units, such as monomers in J/H-aggregates, chemical moieties, motifs, and functional groups. Implicit in such decompositions is the assumption that these local structures remain meaningful within the aggregate. Here, we ask how the symmetries of constituent structures relate to aggregate symmetry, and how this relation determines the constraints that global symmetry imposes on transitions between local symmetry sectors. We construct a covariant local-to-global representation from framed local symmetry data and show that its reconstruction map intertwines with a global quantum representation. By identifying which global symmetry sectors overlap each local symmetry sector, we resolve symmetry-enforced dynamical exclusions into site-resolved pathways. Through Frobenius reciprocity, these exclusions can be determined from standard character tables of the local and global symmetry groups, with the character values in the inner product paired according to the relative positions and orientations of local structures within the aggregate. Although motivated by molecular aggregates, the construction is formulated for arbitrary geometries modeled by a homogeneous space of an ambient transformation group.",
+  "authors": [
+   "Connor Terry Weatherly",
+   "Roel Tempelaar"
+  ],
+  "categories": [
+   "quant-ph",
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Connor Terry Weatherly",
+  "pdf_url": "http://arxiv.org/pdf/2611.21898",
+  "primary_category": "quant-ph",
+  "published": "2026-11-16",
+  "tags": [],
+  "title": "A Geometric Framework for Local-to-Global Symmetry: Global Constraints on Local Dynamics",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.22902": {
+  "abstract": "Molecular size alters spatial distributions, reaction equilibria, and transport in crowded mixtures, but resolving individual particle encounters can make large stochastic simulations computationally costly. We developed a lattice-based framework for simulating reaction-drift-diffusion systems with volume exclusion captured as a free energy functional in each voxel. Changes in this free energy, together with external one-body potentials, modify diffusion and reaction propensities. Our framework accommodates mixtures of particle sizes without resolving each particle's position within a voxel. We implemented our framework in an operator splitting scheme and compared our predictions with off-lattice interacting-particle simulations. Inclusion of the local free energy functional improved spatial occupancies and shifts in reaction equilibria relative to point-particle simulations. With separate approximations for larger spheres and polymers, we simulated crowding-induced slowing and spatial segregation. We then modeled motor proteins' traffic jams on a structured track representing a microtubule. Our results demonstrate how local composition can inform stochastic reaction and transport rates without resolving individual encounters.",
+  "authors": [
+   "R. M. Acda",
+   "A. Parvez",
+   "A. T. Apsley",
+   "H. Youk",
+   "Z. Luthey-Schulten"
+  ],
+  "categories": [
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "R. M. Acda",
+  "pdf_url": "http://arxiv.org/pdf/2611.22902",
+  "primary_category": "physics.bio-ph",
+  "published": "2026-11-17",
+  "tags": [],
+  "title": "A free-energy approach for stochastic reaction-drift-diffusion lattice simulations of crowded biological systems",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-17"
+ },
+ "2611.22983": {
+  "abstract": "Additive manufacturing (3D printing) enables complex multi-layer microfluidic devices, but the physical synthesis of passive-flow designs remains a key bottleneck. In such systems, designers must encode timing synchronization and target dosing directly into channel geometry, even though the available routing space across multiple 3D layers is often highly congested, which makes scaling to complex designs difficult. Existing approaches formulate placement, routing, and fluidic constraints as a single monolithic optimization, leading to combinatorial explosion and poor performance on complex designs. This paper presents a volumetric-aware two-stage synthesis framework that decouples global structure from routing detail. A Mixed-Integer Programming (MIP) model first computes a compact multi-layer placement, followed by a dynamic 3D routing engine that enforces timing and volumetric constraints during path construction. To further improve routability in dense layouts, we introduce a hierarchical conflict resolution strategy combining local rip-up-and-reroute with controlled global expansion. Experimental results show that, under timing and volumetric constraints, 3D-VASE consistently improves synthesis speed and, in most test cases, also improves layout quality. Notably, for difficult large-scale cases where prior methods often failed to return any solution within the time limit, 3D-VASE produces feasible high-quality layouts within practical runtimes. These advances enable fast, iterative design-space exploration for complex 3D-printed microfluidic systems.",
+  "authors": [
+   "Yushen Zhang",
+   "Jiashuo Chen",
+   "Tsun-Ming Tseng",
+   "Ulf Schlichtmann"
+  ],
+  "categories": [
+   "cs.ET"
+  ],
+  "comment": "Accepted for publication in the 32nd Asia and South Pacific Design Automation Conference (ASP-DAC 2027)",
+  "first_author": "Yushen Zhang",
+  "pdf_url": "http://arxiv.org/pdf/2611.22983",
+  "primary_category": "cs.ET",
+  "published": "2026-11-17",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "3D-VASE: Volumetric-Aware Scalable and Efficient Multi-Layer Design Synthesis for 3D-Printed Microfluidics",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-11-17"
  }
 }

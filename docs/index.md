@@ -5,15 +5,33 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-17._
+_Updated 2026-11-18._
 
-**3822** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3829** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22902.html">A free-energy approach for stochastic reaction-drift-diffusion lattice simulations of crowded biological systems</a></div></td>
+<td>R. M. Acda et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22902">2611.22902</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.22983.html">3D-VASE: Volumetric-Aware Scalable and Efficient Multi-Layer Design Synthesis for 3D-Printed Microfluidics</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
+<td>Yushen Zhang et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22983">2611.22983</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20555.html">Bending Rigidity of Smectic Filaments</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Haotian Long et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20555">2611.20555</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.20624.html">Miniaturized Low-Cost 3-D Printed High-Permittivity Dielectric Transmissive LP-to-CP Converter for L-Band Satellite Communications</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
@@ -27,10 +45,28 @@ _Updated 2026-11-17._
 <td><a href="http://arxiv.org/abs/2611.20857">2611.20857</a></td>
 </tr>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21022.html">How many events does entanglement-based positronium imaging need? Information limits of Compton polarimetry with CZT detectors</a></div><div class="paper-tags"><a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Haitao Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21022">2611.21022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.21898.html">A Geometric Framework for Local-to-Global Symmetry: Global Constraints on Local Dynamics</a></div></td>
+<td>Connor Terry Weatherly et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21898">2611.21898</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-15</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/diffusion-model-30d.html">diffusion-model</a></div></td>
 <td>Xinghao Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.19693.html">Energetics of Coherent Heterophase Interfaces: Separating Chemical and Strain Contributions</a></div></td>
+<td>Adolfo Salgado-Casanova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19693">2611.19693</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-13</td>
@@ -73,6 +109,12 @@ _Updated 2026-11-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="tag/composites-30d.html">composites</a> · <a href="tag/molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="tag/thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Abhijit Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.18783.html">Motility-induced phase separation drives aggregation in chemotactic systems</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
+<td>Letong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18783">2611.18783</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-11</td>
@@ -151,47 +193,5 @@ _Updated 2026-11-17._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14341.html">Numerical analysis of coupled flow, deformation and frictional contact mechanics in a fractured porous medium</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Marius Nevland et al.</td>
 <td><a href="http://arxiv.org/abs/2611.14341">2611.14341</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-10</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="tag/coarse-grained-30d.html">coarse-grained</a> · <a href="tag/monte-carlo-30d.html">monte-carlo</a></div></td>
-<td>J. Matthew Smith et al.</td>
-<td><a href="http://arxiv.org/abs/2611.14720">2611.14720</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11805.html">Operator Learning of Microstructure-Dependent Internal-Variable Models for Inelastic Homogenization: Approximation and Complexity</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Lianghao Cao et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11805">2611.11805</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11826.html">How Path Integral Diffusion Decides a Finite Spin Glass</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/glass-transition-30d.html">glass-transition</a></div></td>
-<td>Michael Chertkov</td>
-<td><a href="http://arxiv.org/abs/2611.11826">2611.11826</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11939.html">Topology to Elasticity Mapping in Thermal Glass</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Avinash Kumar Jha</td>
-<td><a href="http://arxiv.org/abs/2611.11939">2611.11939</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11953.html">Elastic frontogenesis sets the spectra of smooth elastic turbulence</a></div><div class="paper-tags"><a href="tag/mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Marco Edoardo Rosti et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11953">2611.11953</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.11958.html">OriDynamics: Towards a World Model for Biomolecular Dynamics</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
-<td>Jiahao Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.11958">2611.11958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-09</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.12298.html">On the Abels--Garcke--Grün Model for Incompressible Two-Phase Flows with Unmatched Densities: Phase Separation and Rayleigh--Taylor Instability</a></div><div class="paper-tags"><a href="tag/phase-separation-30d.html">phase-separation</a></div></td>
-<td>Fei Jiang et al.</td>
-<td><a href="http://arxiv.org/abs/2611.12298">2611.12298</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">290 papers</span>
+  <span class="paper-count">291 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -16,10 +16,22 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20555.html">Bending Rigidity of Smectic Filaments</a></div></td>
+<td>Haotian Long et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20555">2611.20555</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17254.html">Inter-Nanoparticle Repulsion Effect on Self-Organization in Polymer Nanocomposites: A Langevin Dynamics Simulation Study</a></div><div class="paper-tags"><a href="crystallinity-360d.html">crystallinity</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
 <td>Paawan Chandrakanth et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17254">2611.17254</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-12</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18783.html">Motility-induced phase separation drives aggregation in chemotactic systems</a></div></td>
+<td>Letong Xu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18783">2611.18783</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>
@@ -1748,11 +1760,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22300.html">Molecular simulations of phase separation in elastic polymer networks</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
 <td>Takahiro Yokoyama et al.</td>
 <td><a href="http://arxiv.org/abs/2511.22300">2511.22300</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18077.html">Active motility and wetting cooperatively regulate liquid-liquid phase separation</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Dixi Yang et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18077">2511.18077</a></td>
 </tr>
 </tbody></table>

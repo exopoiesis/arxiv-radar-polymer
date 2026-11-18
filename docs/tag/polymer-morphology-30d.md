@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">13 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21022.html">How many events does entanglement-based positronium imaging need? Information limits of Compton polarimetry with CZT detectors</a></div></td>
+<td>Haitao Zhou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21022">2611.21022</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14165.html">Universal Multichannel Coherence-Mediated Thermal Transport in Carbon Allotropes: Experimental Evidence and Scaling Laws</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
@@ -86,23 +92,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.28493.html">Multiscale Modeling of Zr Corrosion: Predicting Microstructures of Oxide Films</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a> · <a href="multiscale-modeling-30d.html">multiscale-modeling</a></div></td>
 <td>K. Starkey et al.</td>
 <td><a href="http://arxiv.org/abs/2610.28493">2610.28493</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25243.html">Enhancement of liquid-liquid phase transition under shear flow</a></div></td>
-<td>Kyohei Takae</td>
-<td><a href="http://arxiv.org/abs/2610.25243">2610.25243</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25442.html">Probing Flow-Induced Chain Scission in Shear-Banding Wormlike Micelles</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Alfredo Scigliani et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25442">2610.25442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.25565.html">Concurrent two-scale topology optimization of printable bone scaffolds via rectified-flow generation and exact latent-space refinement</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="benchmarking-30d.html">benchmarking</a></div></td>
-<td>Reza T Batley et al.</td>
-<td><a href="http://arxiv.org/abs/2610.25565">2610.25565</a></td>
 </tr>
 </tbody></table>
