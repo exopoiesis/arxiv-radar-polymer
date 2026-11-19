@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -302,11 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.21540.html">Automated Analysis to Reveal Grain Boundary Phase Microstructures</a></div></td>
 <td>R. Daniel Moore et al.</td>
 <td><a href="http://arxiv.org/abs/2608.21540">2608.21540</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-20</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.20151.html">A Zoology of Quantum Turing Patterns</a></div></td>
-<td>Kazuki Ikeda</td>
-<td><a href="http://arxiv.org/abs/2608.20151">2608.20151</a></td>
 </tr>
 </tbody></table>

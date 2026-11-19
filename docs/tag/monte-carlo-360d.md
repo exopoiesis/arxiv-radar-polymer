@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">111 papers</span>
+  <span class="paper-count">110 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -674,11 +674,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21036.html">Self-avoiding walks pulled at an angle</a></div></td>
 <td>C J Bradly et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21036">2511.21036</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.18650.html">Performance of the High-Angle Time Projection Chambers in the Upgraded T2K Off-Axis Near Detector</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
-<td>K. Aivazelis et al.</td>
-<td><a href="http://arxiv.org/abs/2511.18650">2511.18650</a></td>
 </tr>
 </tbody></table>
