@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>generative-model — 360d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="generative-model-7d.html">7d</a> <a href="generative-model-30d.html">30d</a> <a href="generative-model-90d.html">90d</a> <strong>360d</strong> <a href="generative-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,11 +200,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.15746.html">A Unified Generative-Predictive Framework for Deterministic Inverse Design</a></div><div class="paper-tags"><a href="inverse-design-360d.html">inverse-design</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Reza T. Batley et al.</td>
 <td><a href="http://arxiv.org/abs/2512.15746">2512.15746</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19198.html">Three-Dimensional Anatomical Data Generation Based on Artificial Neural Networks</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Ann-Sophia Müller et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19198">2511.19198</a></td>
 </tr>
 </tbody></table>
