@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">496 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,29 +2966,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21645.html">The hydrodynamic limit of viscoelastic granular gases</a></div></td>
 <td>R. Alonso et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21645">2511.21645</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.17631.html">Linear Viscoelasticity of Semiflexible Polymers with Hydrodynamic Interactions</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
-<td>Amit Varakhedkar et al.</td>
-<td><a href="http://arxiv.org/abs/2509.17631">2509.17631</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20155.html">Noninvasive rheological inference from stable flows in confined tissues</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Marc Karnat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20155">2511.20155</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20208.html">A finite element method for a non-Newtonian dilute polymer fluid</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
-<td>Ben S. Ashby et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20208">2511.20208</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20392.html">Mechano-chemical modeling of glia initiated secondary injury of neurons under mechanical load</a></div><div class="paper-tags"><a href="polymer-degradation-360d.html">polymer-degradation</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
-<td>Debabrata Auddya et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20392">2511.20392</a></td>
 </tr>
 </tbody></table>

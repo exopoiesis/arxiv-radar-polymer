@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
 <td>Giulia Pisegna et al.</td>
 <td><a href="http://arxiv.org/abs/2610.30958">2610.30958</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30077.html">A linear, second-order, unconditionally energy-stable scalar-auxiliary-variable scheme for the CHQ viscoelastic phase-separation model</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Ritesh Bhola et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30077">2610.30077</a></td>
 </tr>
 </tbody></table>

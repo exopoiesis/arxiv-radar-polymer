@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>coarse-grained — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <strong>30d</strong> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Ella Sapsford et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29653.html">Construction of highly coarse-grained molecular models for aqueous electrolytes</a></div><div class="paper-tags"><a href="dielectric-properties-30d.html">dielectric-properties</a></div></td>
-<td>Michael A. Seaton et al.</td>
-<td><a href="http://arxiv.org/abs/2610.29653">2610.29653</a></td>
 </tr>
 </tbody></table>

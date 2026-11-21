@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 360d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <a href="additive-manufacturing-90d.html">90d</a> <strong>360d</strong> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,11 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23306.html">First Steps towards Machine Learning for Prediction and Pre-Correction in Direct Laser Writing</a></div><div class="paper-tags"><a href="polymerization-360d.html">polymerization</a></div></td>
 <td>Sven Enns et al.</td>
 <td><a href="http://arxiv.org/abs/2511.23306">2511.23306</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.19821.html">Effect of cohesion on the gravity-driven evacuation of metal powder through Triply-Periodic Minimal Surface structures</a></div></td>
-<td>Aashish K Gupta et al.</td>
-<td><a href="http://arxiv.org/abs/2511.19821">2511.19821</a></td>
 </tr>
 </tbody></table>

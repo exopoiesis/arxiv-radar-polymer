@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">121 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -740,11 +740,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20430.html">The impact of pressure oscillations on bubble rising in shear-thinning fluids</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Mario Riccio et al.</td>
 <td><a href="http://arxiv.org/abs/2510.20430">2510.20430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20155.html">Noninvasive rheological inference from stable flows in confined tissues</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Marc Karnat et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20155">2511.20155</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">12 papers</span>
+  <span class="paper-count">11 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -80,11 +80,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="membranes-30d.html">membranes</a></div></td>
 <td>Heather Jin Hee Kim et al.</td>
 <td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-21</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30404.html">Microstructural Generative Inverse Models for Additive Manufacturing Digital Twins</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Pablo Luna Falcon et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30404">2610.30404</a></td>
 </tr>
 </tbody></table>

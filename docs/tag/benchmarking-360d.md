@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">160 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -974,11 +974,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.24970.html">ChromRec: Self-Assembly of Nucleosomes Driven by Directional Recognition</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Hesam Arabzadeh et al.</td>
 <td><a href="http://arxiv.org/abs/2509.24970">2509.24970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.20208.html">A finite element method for a non-Newtonian dilute polymer fluid</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Ben S. Ashby et al.</td>
-<td><a href="http://arxiv.org/abs/2511.20208">2511.20208</a></td>
 </tr>
 </tbody></table>
