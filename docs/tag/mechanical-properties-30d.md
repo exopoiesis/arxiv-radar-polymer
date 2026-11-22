@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">29 papers</span>
+  <span class="paper-count">34 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24008.html">Modelling the human-exoskeleton interaction interface - Benchmarking MuJoCo&#x27;s deformable model</a></div></td>
+<td>Lisette Masselink et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24008">2611.24008</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20525.html">Effects of elasticity on the stability of viscoelastic boundary layers</a></div></td>
+<td>Shengxin Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20525">2611.20525</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21087.html">Experimental Evidence of Elastic Instability in Viscoelastic Kolmogorov Flow</a></div></td>
+<td>Christophe Brouzet et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21087">2611.21087</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21322.html">RevealLO: Global-Scale FWI Including Long-Period Major-Arc Surface Wave and Multi-Orbit Body Wave Data</a></div></td>
+<td>C. J. Schiller et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21322">2611.21322</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20281.html">Resolvent-based modeling of turbulent flow over multilayer compliant surfaces</a></div></td>
+<td>Rutvij Bhagwat et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20281">2611.20281</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19591.html">Extracting Damping Ratio and Shear Wave Velocity through Joint Inversion of Rayleigh Wave Attenuation and Phase Velocity Data</a></div></td>
+<td>Mrinal Bhaumik et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19591">2611.19591</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.16468.html">Physics-constrained differentiable causal discovery of constitutive mechanisms through boundary value problems</a></div></td>
@@ -182,11 +218,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35946.html">Machine learning enabled design of sustainable alloys considering real world constraints</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
 <td>Quan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35946">2610.35946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="hydrogels-30d.html">hydrogels</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
-<td>Ella Sapsford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
 </tr>
 </tbody></table>

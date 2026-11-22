@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>monte-carlo — 360d</h1>
-  <span class="paper-count">110 papers</span>
+  <span class="paper-count">109 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <a href="monte-carlo-90d.html">90d</a> <strong>360d</strong> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -668,11 +668,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21987.html">Interferometric view into RT Pav&#x27;s long secondary period. binary vs oscillatory convective modes</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
 <td>B. Courtney-Barrer et al.</td>
 <td><a href="http://arxiv.org/abs/2511.21987">2511.21987</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21036.html">Self-avoiding walks pulled at an angle</a></div></td>
-<td>C J Bradly et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21036">2511.21036</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>thermal-conductivity — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">51 papers</span>
   <nav class="window-nav"><a href="thermal-conductivity-7d.html">7d</a> <a href="thermal-conductivity-30d.html">30d</a> <a href="thermal-conductivity-90d.html">90d</a> <strong>360d</strong> <a href="thermal-conductivity-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Xin Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25779">2611.25779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24414.html">On the thermal behavior of composites embedding extended general interfaces</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
+<td>Soheil Firooz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24414">2611.24414</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22573.html">Targeted material doping to enable the formation and coherent propagation of Laser Induced Periodic Surface Structures (LIPSS): the ZnO paradigm</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Gonzalo Gomez-Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22573">2611.22573</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18795.html">Lower Bound of Thermal Conductivity in Graphene</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Yan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18795">2611.18795</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>

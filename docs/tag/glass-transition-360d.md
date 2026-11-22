@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>glass-transition — 360d</h1>
-  <span class="paper-count">80 papers</span>
+  <span class="paper-count">79 papers</span>
   <nav class="window-nav"><a href="glass-transition-7d.html">7d</a> <a href="glass-transition-30d.html">30d</a> <a href="glass-transition-90d.html">90d</a> <strong>360d</strong> <a href="glass-transition-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -488,11 +488,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08896.html">Open Polymer Challenge: Post-Competition Report</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="polymer-informatics-360d.html">polymer-informatics</a> · <a href="sustainable-polymers-360d.html">sustainable-polymers</a> · <a href="thermal-conductivity-360d.html">thermal-conductivity</a></div></td>
 <td>Gang Liu et al.</td>
 <td><a href="http://arxiv.org/abs/2512.08896">2512.08896</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.21368.html">The 2/3 Rule of Glass Physics Implies Universalities in Crystal Melting</a></div></td>
-<td>Peter Lunkenheimer et al.</td>
-<td><a href="http://arxiv.org/abs/2511.21368">2511.21368</a></td>
 </tr>
 </tbody></table>

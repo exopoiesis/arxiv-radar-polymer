@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>phase-separation — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">16 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <strong>30d</strong> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26236.html">Flux-induced condensation in a radial geometry</a></div></td>
+<td>Yoav Tsori</td>
+<td><a href="http://arxiv.org/abs/2611.26236">2611.26236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23915.html">Semi-Implicit and Convex Splitting Schemes for the Surface Cahn--Hilliard Equation on Curved Closed Surfaces</a></div></td>
+<td>Harri Hakula et al.</td>
+<td><a href="http://arxiv.org/abs/2611.23915">2611.23915</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20555.html">Bending Rigidity of Smectic Filaments</a></div></td>
@@ -98,11 +110,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a></div></td>
 <td>Miriam Diamond et al.</td>
 <td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.30958.html">Active phase separation from concentration-dependent diffusion in chemical networks</a></div></td>
-<td>Giulia Pisegna et al.</td>
-<td><a href="http://arxiv.org/abs/2610.30958">2610.30958</a></td>
 </tr>
 </tbody></table>

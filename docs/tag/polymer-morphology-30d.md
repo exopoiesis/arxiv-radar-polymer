@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>polymer-morphology — 30d</h1>
-  <span class="paper-count">11 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <strong>30d</strong> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-19</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Xin Qian et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25779">2611.25779</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-17</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22573.html">Targeted material doping to enable the formation and coherent propagation of Laser Induced Periodic Surface Structures (LIPSS): the ZnO paradigm</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Gonzalo Gomez-Munoz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.22573">2611.22573</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21022.html">How many events does entanglement-based positronium imaging need? Information limits of Compton polarimetry with CZT detectors</a></div></td>
@@ -74,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35946.html">Machine learning enabled design of sustainable alloys considering real world constraints</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Quan Li et al.</td>
 <td><a href="http://arxiv.org/abs/2610.35946">2610.35946</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31567.html">Geometry-Dependent Properties of Physically Crosslinked PPy-PVA Hydrogels Enable Tunable Iontophoretic Drug Delivery</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="membranes-30d.html">membranes</a></div></td>
-<td>Heather Jin Hee Kim et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31567">2610.31567</a></td>
 </tr>
 </tbody></table>

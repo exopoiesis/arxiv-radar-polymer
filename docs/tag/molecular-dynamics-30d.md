@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18795.html">Lower Bound of Thermal Conductivity in Graphene</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
+<td>Yan Gao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18795">2611.18795</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-12</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Abhijit Biswas et al.</td>
@@ -68,11 +74,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37606.html">A unified coarse-grained neural network potential for the dynamics of biomolecular complexes</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mlff-30d.html">mlff</a></div></td>
 <td>Antonio Mirarchi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37606">2610.37606</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-22</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.31157.html">Functional understanding of structural components in polypseudorotaxane gels</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="hydrogels-30d.html">hydrogels</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Ella Sapsford et al.</td>
-<td><a href="http://arxiv.org/abs/2610.31157">2610.31157</a></td>
 </tr>
 </tbody></table>

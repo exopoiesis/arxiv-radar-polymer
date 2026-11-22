@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>diffusion-model — 90d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">8 papers</span>
   <nav class="window-nav"><a href="diffusion-model-7d.html">7d</a> <a href="diffusion-model-30d.html">30d</a> <strong>90d</strong> <a href="diffusion-model-360d.html">360d</a> <a href="diffusion-model-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -20,6 +20,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19676.html">Score-Based Stochastic Closure Modeling via Offline Indirect Learning and Online Data Assimilation</a></div><div class="paper-tags"><a href="additive-manufacturing-90d.html">additive-manufacturing</a></div></td>
 <td>Xinghao Dong et al.</td>
 <td><a href="http://arxiv.org/abs/2611.19676">2611.19676</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17650.html">Classifier-Guided Latent Diffusion for Small-Molecule Generation</a></div><div class="paper-tags"><a href="generative-model-90d.html">generative-model</a> · <a href="selfies-90d.html">selfies</a></div></td>
+<td>Ali Forooghi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17650">2611.17650</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-09</td>

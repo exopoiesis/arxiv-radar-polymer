@@ -2142,6 +2142,58 @@
   ],
   "updated": "2026-11-12"
  },
+ "2611.17638": {
+  "abstract": "Personalized bioelectronic devices for wound therapy require not only conformal fabrication on complex body surfaces but also functional adaptation of their electrical characteristics to individual wound geometries. Here, we present an AI-guided robotic in situ printing platform for fabricating wireless wound electrotherapy devices directly on transparent wound dressings. The system integrates a 3D vision camera, a six-degree-of-freedom robotic arm, direct-ink-writing, and geometry-aware RF design optimization. AI-based wound segmentation is used to determine wound dimensions and local surface curvature, while the reconstructed three-dimensional geometry is incorporated into the electromagnetic design of the receiving coil and interdigitated electrodes. In contrast to conventional approaches that use surface geometry only for trajectory generation, the proposed method accounts for both anatomical curvature and tissue dielectric loading to compensate for geometry-induced shifts in resonant behavior. A printable silver ink was characterized in terms of rheology, dimensional reproducibility, electrical resistance, and electromechanical stability, and was used to fabricate multilayer wireless devices directly on curved polyurethane dressings. Wireless power transfer, impedance characteristics, and electric-field delivery were evaluated experimentally and numerically. Finally, robotic in situ fabrication was demonstrated on an anthropomorphic tissue-equivalent forearm phantom, where the measured dielectric properties of the phantom were incorporated into the RF optimization, enabling resonant operation near the target frequency of 25 MHz. This work establishes a perception-to-design-to-fabrication framework for geometry-adaptive wireless bioelectronics and provides a technological foundation for future physical-AI-enabled manufacturing of personalized on-body electrotherapy devices.",
+  "authors": [
+   "Hiroyuki Tetsuka",
+   "Jiaju Ma",
+   "Naomi Kumano",
+   "Minoru Hirano"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Hiroyuki Tetsuka",
+  "pdf_url": "http://arxiv.org/pdf/2611.17638",
+  "primary_category": "cs.RO",
+  "published": "2026-11-13",
+  "tags": [
+   "dielectric-properties",
+   "rheology"
+  ],
+  "title": "AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.17650": {
+  "abstract": "Diffusion models have emerged as a promising class of generative models for molecular design because of their ability to learn complex chemical distributions and support conditional or guided generation. In this work, we investigate a latent diffusion pipeline for property-guided small-molecule generation. The proposed framework represents canonicalized SMILES strings using a frozen ChemBERTa encoder, trains a Transformer-based decoder to reconstruct SELFIES strings from molecular latent embeddings, and learns an unconditional denoising diffusion model in the ChemBERTa latent space. To enable property-directed generation, a differentiable latent property predictor is used to guide the diffusion sampling process. Generated SELFIES strings are converted to SMILES, validated using RDKit, and evaluated using molecular validity, uniqueness, novelty, and predicted property scores. We study guidance toward two drug-relevant binary endpoints: blood--brain barrier permeability and inhibition of human $β$-secretase 1. The results suggest that latent diffusion over pretrained molecular embeddings can generate chemically valid and novel molecules while enabling controllable steering toward desired molecular properties.",
+  "authors": [
+   "Ali Forooghi",
+   "Luis Rueda",
+   "Alioune Ngom"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": null,
+  "first_author": "Ali Forooghi",
+  "pdf_url": "http://arxiv.org/pdf/2611.17650",
+  "primary_category": "cs.LG",
+  "published": "2026-11-13",
+  "tags": [
+   "diffusion-model",
+   "generative-model",
+   "selfies"
+  ],
+  "title": "Classifier-Guided Latent Diffusion for Small-Molecule Generation",
+  "topics": [
+   "Representation & Foundation Models"
+  ],
+  "updated": "2026-11-13"
+ },
  "2611.17794": {
   "abstract": "In additive manufacturing (AM), each change in part geometry requires a new thermal simulation, which makes design evaluation over many candidates costly. Geometry-aware models reduce this cost by predicting thermal fields on unseen parts with a single learned model, but they assume that diverse geometries are available centrally. This assumption is restrictive when each manufacturing site holds only a limited set of proprietary part designs that it cannot share. We propose Fed-PIGANO, a federated framework that trains physics-informed geometry-aware neural operator (PI-GANO) models at individual sites and aggregates their geometry encoders and prediction networks without sharing part geometries. We evaluate the framework on a 2D steady-state thermal benchmark for metal AM, with geometries from five polygonal families distributed across three sites under four scenarios that range from identical to strongly different family compositions. Over seven replications, Fed-PIGANO achieves mean relative L2 errors of 1.83% to 2.04% across all 12 scenario-site cases, compared with up to 20.46% for local-only training, and consistently yields lower PDE residuals. Its prediction accuracy is comparable to that of a centralized model trained on the pooled geometries of all sites. These results demonstrate that federated learning lets manufacturing sites benefit from each other's geometries without sharing them, enabling rapid thermal prediction on new part designs for tasks such as shape optimization, inverse design, and uncertainty quantification.",
   "authors": [
@@ -2217,6 +2269,62 @@
   ],
   "updated": "2026-11-12"
  },
+ "2611.18795": {
+  "abstract": "The intrinsic thermal conductivity ($κ$) of graphene remains highly controversial because of physical and metrological complexities. Although the thermal bridge method enables reliable measurements, sample fabrication remains challenging. Here, we develop a highly efficient patterning and transfer technique to systematically fabricate and characterize suspended bilayer graphene (BLG) thermal bridges with lengths of 1-30 $μ$m. Suspended BLG with unavoidable polymer residues exhibits length-independent thermal conductivity of approximately 570 W/(m K) at room temperature, remaining nearly constant from 250 to 350 K and robust to rigorous surface cleaning and amorphous silicon nitride substrates. Homogeneous non-equilibrium molecular dynamics (HNEMD) simulations show that amorphous carbon coverage of only approximately 0.01 monolayer is sufficient to suppress out-of-plane flexural acoustic (ZA) phonons. These findings challenge the prevailing view that rigid substrates suppress ZA phonons more strongly than surface contamination and identify a robust lower bound of $κ$ governed by amorphous surface scattering. This lower bound reflects heat conduction in graphene under realistic device conditions and provides a reference for fundamental phonon transport studies and the integration of graphene into thermal management applications in electronic devices and chips.",
+  "authors": [
+   "Yan Gao",
+   "Yafei Ding",
+   "Hongbin Xu",
+   "Zhaoxuan Tang",
+   "Fuqing Duan",
+   "Wenmei Luo",
+   "Zhensheng Zhang",
+   "Xiaohang Zhang",
+   "Guimei Zhu",
+   "Yahui Xue",
+   "Baowen Li"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "4 figures in the main text; Supporting Information included in the PDF",
+  "first_author": "Yan Gao",
+  "pdf_url": "http://arxiv.org/pdf/2611.18795",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-13",
+  "tags": [
+   "molecular-dynamics",
+   "thermal-conductivity"
+  ],
+  "title": "Lower Bound of Thermal Conductivity in Graphene",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-13"
+ },
+ "2611.19591": {
+  "abstract": "Methods for reliable in-situ estimation of small-strain damping ratio remain far less developed than those for in-situ shear wave velocity (Vs) measurements. For surface wave-based approaches, challenges with extracting damping ratios are caused by both difficulties associated with developing attenuation coefficients from recorded wavefields and complexities involved when interpreting their multimodal irregularities during inversion. This study presents a joint inversion framework for extracting shear damping ratio (Ds0) and Vs profiles from Rayleigh-wave attenuation and phase velocity data using a viscoelastic predominant-mode approach. Unlike conventional inversion, the proposed formulation identifies the mode contributing most strongly to the measured wavefield, allowing multimodal attenuation and dispersion data to be incorporated without explicit modal indexing. This approach has significant benefits for inverting attenuation data, whose modal behavior is much more irregular than phase velocity. A coupled inversion strategy is adopted to jointly estimate the Vs and Ds0 while addressing their different sensitivities to phase velocity and attenuation. The predominant-mode attenuation concept is first validated against two synthetic ground models of increasing complexity. The synthetic inversion results demonstrate the framework's ability to recover the Ds0 and Vs profiles and capture modal transitions associated with a low-velocity layer. The framework is then applied to active-source field data from Mirandola, Italy, where the fundamental mode dominates, and Bird's Landing, California, where a soft peat layer produces significant higher-modes. At both sites, the inverted Vs profiles agreed well with independent site characterization data, while the damping estimates exhibit physically plausible trends and provide site-specific information that complements empirical estimates.",
+  "authors": [
+   "Mrinal Bhaumik",
+   "Brady Cox"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "Mrinal Bhaumik",
+  "pdf_url": "http://arxiv.org/pdf/2611.19591",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-11-14",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Extracting Damping Ratio and Shear Wave Velocity through Joint Inversion of Rayleigh Wave Attenuation and Phase Velocity Data",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-14"
+ },
  "2611.19676": {
   "abstract": "Stochastic closure modeling is an emerging area in reduced-order modeling of large and complex (e.g., multiscale, multi-physics) systems, for which the computationally affordable reduced-order physical descriptions (e.g., digital twins for additive manufacturing, world models for AI agents) in numerical simulations inevitably lead to information losses that cannot be well addressed by classical deterministic closures. However, learning stochastic closures typically requires closure data that are difficult to obtain from measurements or often prohibitively expensive to compute using first-principles simulations. In this work, we develop a stochastic closure modeling framework that builds on score-based diffusion models, leveraging indirect offline training and online data assimilation without requiring the direct data of closures. Numerical experiments on two-dimensional turbulent flows demonstrate that indirect offline learning captures key closure statistics and improves predictions of system state. In addition, combining the learned closure with known physical dynamics leads to better generalization capability across different regimes than purely data-driven models that directly predict system state. Compared to standard data assimilation methods with a Gaussian assumption, the posterior-score assimilation better represents non-Gaussian features of the learned closure, and its combination with state-level data assimilation further improves prediction of the system state. The proposed framework enables stochastic closure modeling in realistic and challenging scenarios of complex dynamical systems in mechanics and engineering problems, where non-Gaussian statistics of model-form uncertainties are non-negligible (e.g., due to the nonlinearities of the system dynamics and/or the observations) and true closure data are not available, for both offline learning and online assimilation.",
   "authors": [
@@ -2266,6 +2374,54 @@
    "Microstructure, Morphology & Characterization"
   ],
   "updated": "2026-11-15"
+ },
+ "2611.20281": {
+  "abstract": "Compliant coatings offer a passive approach to modifying near-wall turbulence and potentially reducing skin-friction drag, but high-fidelity exploration of the coupled parameter space is costly. We develop a two-way coupled resolvent-Galerkin framework for turbulent channel flow over finite-thickness, layered viscoelastic coatings. The fluid is modeled using the Navier-Stokes equations linearized about a turbulent mean state, while the solid is represented by a through-thickness Galerkin discretization of the elastodynamic equations. The solid response is condensed into a spectral surface-impedance operator at the fluid-solid interface. At $Re_τ= 180$, stiff panels approach the rigid-wall response, whereas more compliant panels modify the low-rank response associated with the near-wall cycle. A Reynolds-number study shows that panels with fixed nondimensional material stiffness can produce different responses depending on whether their thickness scales with inner or outer flow length scales. The influence of viscoelastic damping is examined across low- and high-frequency regimes, where stiffness-proportional damping alters the high-frequency fractional-energy distribution, while the low-frequency distribution remains relatively insensitive to damping. For multilayer panels, the fluid-facing material determines the interfacial wave speed, while the subsurface stiffness distribution modifies the panel's effective thickness. Temporal stability analysis identifies regions of parameter space where a steady harmonic response is relevant and regions where instabilities grow. Finally, a leading-order, covariance-based drag-estimation framework relates the coupled response to changes in the mean flow and to the estimated skin-friction drag. Together, these tools provide a basis for screening coating designs and selecting candidates for high-fidelity simulations and experiments.",
+  "authors": [
+   "Rutvij Bhagwat",
+   "Kourosh Shoele"
+  ],
+  "categories": [
+   "physics.flu-dyn"
+  ],
+  "comment": null,
+  "first_author": "Rutvij Bhagwat",
+  "pdf_url": "http://arxiv.org/pdf/2611.20281",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-15",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Resolvent-based modeling of turbulent flow over multilayer compliant surfaces",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-15"
+ },
+ "2611.20525": {
+  "abstract": "The elastic effect on the stability of boundary layers is studied for incompressible elastic fluids in the half-plane. It is known from [33] that if the deformation tensor matrix is nonsingular near the boundary, elasticity can prevent the formation of a boundary layer. In this paper, we prove stability properties when the deformation tensor degenerates. Our results are twofold: (1) when the first row of the deformation tensor has a non-degenerate projection onto a fixed direction, the initial-boundary value problem for the two-dimensional viscoelastic Prandtl boundary layer equations in the half-plane admits local well-posedness in Sobolev spaces, without any monotonicity condition on the velocity profile; (2) when the first row of the deformation tensor vanishes simultaneously at one point, the linearized Prandtl boundary layer system is ill-posed. The first result reveals the stabilizing effect of elasticity against the classical Prandtl instability. The second result shows that elastic effects cannot suppress the Prandtl-type instability associated with a non-degenerate critical point of the velocity profile.",
+  "authors": [
+   "Shengxin Li",
+   "Dehua Wang",
+   "Feng Xie",
+   "Zhu Zhang"
+  ],
+  "categories": [
+   "math.AP"
+  ],
+  "comment": "27 pages",
+  "first_author": "Shengxin Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.20525",
+  "primary_category": "math.AP",
+  "published": "2026-11-16",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Effects of elasticity on the stability of viscoelastic boundary layers",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-16"
  },
  "2611.20555": {
   "abstract": "Many biological and engineered filaments exhibit internal structure or fluidity that alters their elastic behavior. We study the elasticity of microscale filamentous smectic condensates, grown during liquid-liquid crystal phase separation. We use a Fourier analysis of their thermal bend fluctuations to measure their persistence length, which follows a non-classic linear scaling with their cross-sectional area, in contrast to the classic quadratic scaling for elastic filaments. We rationalize this scaling using the Helfrich energy to compute the free energy of bending a filament with internal smectic fluid ordering. Our analysis then provides a direct method to measure the bend modulus K, which quantifies the rigidity of smectic layers; providing the first method to directly measure K for dispersed smectic phases. We quantify the softening of filaments in the presence of shorter alkyl-tail mesogen dopants, decreasing K by up to ~35%. Out results suggest how nanoscale smectic organization and molecular composition determine filament-scale elasticity, informing the control of filament mechanics and self-assembly in biomimetic and engineered materials.",
@@ -2371,6 +2527,86 @@
   ],
   "updated": "2026-11-16"
  },
+ "2611.21087": {
+  "abstract": "Inertialess elastic instabilities can profoundly affect transport in complex-fluid flows, from mixing in microfluidic devices and displacement through porous media to polymer processing. While such instabilities are well understood in flows with curved streamlines, their origin in rectilinear flows like the prototypical Kolmogorov flow remains unresolved. Here, we report the first experimental evidence of the center-mode elastic instability, at vanishing inertia, in a confined quasi-two-dimensional viscoelastic Kolmogorov flow, driven by electromagnetic forcing. The instability is characterized by the emergence of \"arrow-shaped\" structures in the velocity field, which fluctuates chaotically as the forcing strength increases. We reproduce these observations in simulations of the Oldroyd-B model and trace the dynamics in the confined flow to the travelling arrowhead structures that emerge from the center-mode instability of unbounded Kolmogorov flow. Our work establishes a generic route to purely elastic instability in rectilinear flows, broadening the conditions under which elastic turbulence and enhanced mixing can arise.",
+  "authors": [
+   "Christophe Brouzet",
+   "Mayank Chopra",
+   "Dario Vincenzi",
+   "Jason R. Picardo",
+   "Atul Varshney"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "cond-mat.soft",
+   "nlin.CD"
+  ],
+  "comment": "9 pages, 10 figures, including end matter",
+  "first_author": "Christophe Brouzet",
+  "pdf_url": "http://arxiv.org/pdf/2611.21087",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-16",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Experimental Evidence of Elastic Instability in Viscoelastic Kolmogorov Flow",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21281": {
+  "abstract": "Solar-matter interactions are important in many scientific and engineering applications. Modeling them needs consistent optical and thermal-radiative properties over the full solar spectrum. Here we present SpaderOptics, a database for 21 materials: metals, oxides, semiconductors, polymers, ceramics, and carbon. It compiles wavelength-dependent refractive indices and extinction coefficients from the literature. Each literature source is kept separate, together with its original conditions. One physics-based calculation chain turns these data into reflectivity, transmissivity, absorptivity, and emissivity for different incidence angles, slab thicknesses, and temperatures. Combined with the Air Mass Zero (AM0) solar spectrum, the properties give absorbed, reflected, and transmitted solar flux for concentrated sunlight. Equilibrium temperatures are given for both a theoretical lumped body and for a slab body, in which thermal conduction is considered. All data are limited to the solid state, up to a material-specific upper temperature limit. Currently, the database applies to extraterrestrial (AM0) sunlight only. A graphical App is also provided for exploring and visualizing the database.",
+  "authors": [
+   "Vasiliki E. Alexopoulou",
+   "Nikolaos Karalis",
+   "Konstantinos Asimakopoulos",
+   "Andrei Totu",
+   "Constantin Sandu",
+   "Paul-Peter Sotiriadis"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.optics"
+  ],
+  "comment": null,
+  "first_author": "Vasiliki E. Alexopoulou",
+  "pdf_url": "http://arxiv.org/pdf/2611.21281",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-16",
+  "tags": [],
+  "title": "A database of optical and thermal-radiative behaviour of materials under solar radiation",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-16"
+ },
+ "2611.21322": {
+  "abstract": "Global full-waveform inversion (FWI) has matured significantly in recent years, but resolution in the southern hemisphere often remains limited due to sparse receiver coverage. To address this problem, we constructed RevealLO, a global-scale FWI model that updates its predecessor REVEAL by expanding the inversion time window from 1 hour to 3.5 hours. The extended time window incorporates both minor-arc ($R_1, G_1$) and major-arc ($R_2, G_2$) surface wave arrivals, as well as late-arriving multi-orbit body waves, thereby increasing azimuthal coverage beneath ocean basins and the southern hemisphere. We simulate 3-D viscoelastic wavefields using the spectral-element solver Salvus on global fourth-order cubed-sphere meshes, and update velocity structure by successively broadening the period band from 100 - 200 s to 60 - 200 s. Measurements and adjoint sources are based on time-frequency phase misfits, which are suitable for both large-amplitude surface and low-amplitude multiply-reflected body waves. For iterative optimization, we employ a mini-batch stochastic trust-region L-BFGS algorithm, followed by mesh reprojection onto the $33~s$ REVEAL baseline mesh and lowermost-mantle regularization. RevealLO preserves short-period whole-Earth body wave fits while improving azimuthal sampling and mitigating trade-offs between unmodeled azimuthal anisotropy and isotropic structure in the upper and mid mantle.",
+  "authors": [
+   "C. J. Schiller",
+   "Scott Keating",
+   "Michael Afanasiev",
+   "Patrick Marty",
+   "Andreas Fichtner"
+  ],
+  "categories": [
+   "physics.geo-ph"
+  ],
+  "comment": null,
+  "first_author": "C. J. Schiller",
+  "pdf_url": "http://arxiv.org/pdf/2611.21322",
+  "primary_category": "physics.geo-ph",
+  "published": "2026-11-16",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "RevealLO: Global-Scale FWI Including Long-Period Major-Arc Surface Wave and Multi-Orbit Body Wave Data",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-16"
+ },
  "2611.21898": {
   "abstract": "Aggregate molecular systems are routinely understood by decomposing them into local structural units, such as monomers in J/H-aggregates, chemical moieties, motifs, and functional groups. Implicit in such decompositions is the assumption that these local structures remain meaningful within the aggregate. Here, we ask how the symmetries of constituent structures relate to aggregate symmetry, and how this relation determines the constraints that global symmetry imposes on transitions between local symmetry sectors. We construct a covariant local-to-global representation from framed local symmetry data and show that its reconstruction map intertwines with a global quantum representation. By identifying which global symmetry sectors overlap each local symmetry sector, we resolve symmetry-enforced dynamical exclusions into site-resolved pathways. Through Frobenius reciprocity, these exclusions can be determined from standard character tables of the local and global symmetry groups, with the character values in the inner product paired according to the relative positions and orientations of local structures within the aggregate. Although motivated by molecular aggregates, the construction is formulated for arbitrary geometries modeled by a homogeneous space of an ambient transformation group.",
   "authors": [
@@ -2392,6 +2628,39 @@
    "Informatics & Data Infrastructure"
   ],
   "updated": "2026-11-16"
+ },
+ "2611.22573": {
+  "abstract": "This work explores how the initial free carrier density governs the formation and coherent propagation of Low Spatial Frequency Laser-Induced Periodic Surface Structures (LSF-LIPSS). As a paradigm we have analyzed the behavior of ad-hoc-doped ZnO films. ZnO is a multifunctional Transparent Conducting Oxide (TCO) with many scientific and technologic uses including applications in biomedicine, photonics, sensing or photocatalysis. Many of them would benefit from the use of large area, electrically anisotropic surfaces. By introducing small amounts of Yb3+ as donor dopant in ZnO films grown by Pulse Laser Deposition (PLD), we have substantially improved its carrier density at room temperature (RT) and its electrical conductivity while preserving the functional properties of pure ZnO. For RT carrier densities ne > 1019 cm-3, coherent propagation of LSF-LIPSS has been successfully achieved upon irradiation with 350 fs laser pulses at 1030 nm at high repetition rate (500 kHz) and for laser scanning speeds well above 1 m/s. However, the ablation mechanism (ZnO sublimation at the LIPSS valleys) and the large melting temperature of ZnO, make the thermal conductivity of the substrate, the film thickness and the irradiation pulse duration to play a crucial role in determining the morphology of the LSF-LIPPS propagated over large areas, especially in avoiding film cracking. The results achieved upon optimization fully confirm the role of free carrier density in the large-scale propagation of high quality LSF-LIPSS in doped ZnO and enable using these structures to easily generate large electrical anisotropies over macroscopic regions with conductivities along the LIPSS several times larger than transversally.",
+  "authors": [
+   "Gonzalo Gomez-Munoz",
+   "Rocio Ariza",
+   "Juan Francisco Ramos-Justicia",
+   "Fatima Cabello Pardos",
+   "Antonio Pablo Pérez-Marín",
+   "Jose Gonzalo",
+   "Belén Sotillo",
+   "Binbing Xia",
+   "Paloma Fernandez",
+   "Javier Solis"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci",
+   "physics.optics"
+  ],
+  "comment": "22 pages, 8 figures",
+  "first_author": "Gonzalo Gomez-Munoz",
+  "pdf_url": "http://arxiv.org/pdf/2611.22573",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-17",
+  "tags": [
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Targeted material doping to enable the formation and coherent propagation of Laser Induced Periodic Surface Structures (LIPSS): the ZnO paradigm",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-17"
  },
  "2611.22902": {
   "abstract": "Molecular size alters spatial distributions, reaction equilibria, and transport in crowded mixtures, but resolving individual particle encounters can make large stochastic simulations computationally costly. We developed a lattice-based framework for simulating reaction-drift-diffusion systems with volume exclusion captured as a free energy functional in each voxel. Changes in this free energy, together with external one-body potentials, modify diffusion and reaction propensities. Our framework accommodates mixtures of particle sizes without resolving each particle's position within a voxel. We implemented our framework in an operator splitting scheme and compared our predictions with off-lattice interacting-particle simulations. Inclusion of the local free energy functional improved spatial occupancies and shifts in reaction equilibria relative to point-particle simulations. With separate approximations for larger spheres and polymers, we simulated crowding-induced slowing and spatial segregation. We then modeled motor proteins' traffic jams on a structured track representing a microtubule. Our results demonstrate how local composition can inform stochastic reaction and transport rates without resolving individual encounters.",
@@ -2442,5 +2711,257 @@
    "Processing, Manufacturing & Composites"
   ],
   "updated": "2026-11-17"
+ },
+ "2611.23915": {
+  "abstract": "The surface Cahn--Hilliard equation describes phase separation and coarsening of a conserved composition field on fixed curved surfaces. We study a mixed $hp$-surface finite element discretization with curvilinear high-order elements, primarily on the sphere, with the stabilized semi-implicit BDF2 integrator and a stabilized convex-splitting variant solved with the same factorization. For the semi-implicit scheme with a quadratic-growth potential and a truncated nonlinear bulk chemical-potential term, we prove exact discrete mass conservation, energy decay for the start-up steps, an exact per-step energy balance for the BDF2 phase, and a conditional monotone law for a modified Lyapunov functional. A manufactured solution with analytic forcing verifies second order in time and the expected $h$- and $p$-convergence. Torus tests include controlled equal-area bands, whose diffuse energies reproduce sharp-interface perimeters within $1\\%$, deterministic coarsening, and a viscous R{ä}tz--Voigt model. Genus-two and genus-three calculations on implicit surfaces conserve mass to roundoff, and their unstable-mode counts agree with area-based Weyl estimates within $1\\%$.",
+  "authors": [
+   "Harri Hakula",
+   "Antti Rasila",
+   "Xinpeng Xu"
+  ],
+  "categories": [
+   "math.NA",
+   "math.AP"
+  ],
+  "comment": "31 pages, 10 figures",
+  "first_author": "Harri Hakula",
+  "pdf_url": "http://arxiv.org/pdf/2611.23915",
+  "primary_category": "math.NA",
+  "published": "2026-11-18",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Semi-Implicit and Convex Splitting Schemes for the Surface Cahn--Hilliard Equation on Curved Closed Surfaces",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24008": {
+  "abstract": "The human-exoskeleton interaction interface, consisting of the exoskeleton attachment and the underlying human soft tissue, can affect the transfer of assistance. MuJoCo's \\textit{flexcomp} has been previously used to model the soft tissue, but its accuracy has not been benchmarked against a finite element model. We benchmarked the \\textit{flexcomp} Saint Venant-Kirchhoff (StVK) and Stable Neo-Hookean (SNH) models against COMSOL's Yeoh model in three cases: \\textit{case 1}) spherical indentation, \\textit{case 2}) compression, and \\textit{case 3}) compression of a thigh. We compared force and strain energy as a function of indentation depth, hysteresis and computation time. MuJoCo's models capture force trends with a correlation of 0.97-0.99, but showed a stiffer response, which could be attributed to the volumetric locking of the linear finite elements. The MuJoCo models systematically underestimated hysteresis as MuJoCo's Rayleigh damping could not substitute a viscoelastic model. Moreover, MuJoCo's computational advantage was speed dependent: it was 2-2.5 times faster for spherical indentation, but COMSOL was faster for the other cases, which have more degrees of freedom and contacts. Although MuJoCo's \\textit{flexcomp} offers a combination of soft-tissue modelling and multibody dynamics, the limitations regarding the stiffening and hysteresis should be addressed to be used for the analysis of the human-exoskeleton interaction interface.",
+  "authors": [
+   "Lisette Masselink",
+   "Xiaolong Zhu Thomas George Thuruthel",
+   "Mohamed Irfan Refai"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": null,
+  "first_author": "Lisette Masselink",
+  "pdf_url": "http://arxiv.org/pdf/2611.24008",
+  "primary_category": "cs.RO",
+  "published": "2026-11-18",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Modelling the human-exoskeleton interaction interface - Benchmarking MuJoCo's deformable model",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24369": {
+  "abstract": "Time-bin entanglement is promising for satellite Quantum Key Distribution (QKD) due to its compatibility with telecom fiber networks, but its phase-sensitive measurements are vulnerable to Doppler effects induced by satellite motion. We present a spectral-temporal framework for time-bin-entangled photon pairs generated onboard a satellite via Spontaneous Parametric Down Conversion (SPDC) and distributed to two Optical Ground Stations (OGSs) over independent downlinks with distinct Doppler shifts. Each OGS is equipped with an Unbalanced Mach-Zehnder Interferometer (UMZI) used to perform Bennett-Brassard-Mermin 1992 (BBM92) entangled-photon QKD. In a simulated Low Earth Orbit (LEO) pass with matched 400 ps analyzer delays, the received time-bin separation changes by at most 8.8 fs per link, while the combined carrier phase shifts by about 38 rad, which primarily degrades phase-basis correlations. After zero-Doppler calibration, this phase separates into independent signal-and idler-link contributions, allowing each station to correct its link Doppler phase shift locally, without real-time phase exchange between the stations. We propose an ephemeris-assisted feed-forward architecture, in which an auxiliary interferometer analyzes a co-propagating classical witness field to reconstruct the local Doppler-induced phase, which a phase modulator then compensates on the quantum channel. In a noise-free model, a 1 Hz sample-and-hold correction rate keeps the phase-basis Quantum Bit Error Rate (QBER) below 2% and retains 93% of the ideal asymptotic key yield. After 18 accumulated passes, the corrected finite secret key reaches 95% of its ideal length, whereas relabeling the parity from the ephemeris without optical correction reaches only about 8%.",
+  "authors": [
+   "Sacha Gressani",
+   "Luca Furfaro",
+   "Erik Kerstel",
+   "Jean-Marc Merolla"
+  ],
+  "categories": [
+   "quant-ph"
+  ],
+  "comment": null,
+  "first_author": "Sacha Gressani",
+  "pdf_url": "http://arxiv.org/pdf/2611.24369",
+  "primary_category": "quant-ph",
+  "published": "2026-11-18",
+  "tags": [],
+  "title": "Doppler effect on dual-downlink time-bin quantum key distribution and a proposed ephemeris-assisted witness-field correction",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24391": {
+  "abstract": "The microscopic mechanisms of heat transport in structurally disordered polymer-carbon composites remain incompletely understood, particularly over the broad temperature range extending from cryogenic to ambient conditions. Here, we investigate the relationship between structural organization and thermal transport in epoxy-graphene oxide (GO) composites with nominal GO contents of 0.25-10 wt.% relative to the resin (0.21-6.1 wt.% of the total composite mass). X-ray diffraction reveals predominantly amorphous scattering without a detectable GO(001) reflection, suggesting substantial suppression of ordered GO stacking within the cured epoxy matrix. Raman spectroscopy confirms the increasing contribution of the carbon phase while revealing no pronounced changes in the characteristic vibrational bands of the epoxy network. Thermal-conductivity measurements (4.5-300 K) demonstrate that GO incorporation modifies the temperature dependence of heat transport rather than producing a simple conductivity enhancement. The experimental data are described by a phenomenological multichannel model comprising a temperature-independent plateau term and two or three effective Arrhenius-type contributions characterized by distinct temperature scales ranging from a few to several hundred kelvin. The low-temperature conductivity plateau observed at lower GO concentrations is no longer resolved in GO-6 and GO-10, indicating a qualitative change in the temperature dependence of heat transport. These results establish a correlation between structural organization and the redistribution of effective thermal-transport contributions in epoxy-GO composites, providing an experimental basis for further microscopic interpretation within the framework of unified vibrational thermal-transport theory.",
+  "authors": [
+   "A. Jeżowski",
+   "A. I. Krivchikov",
+   "O. A. Korolyuk",
+   "V. V. Sagan",
+   "Y. V. Horbatenko",
+   "S. V. Cherednychenko",
+   "D. Szewczyk"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "21 pages, 7 figures, 4 tables; XRD, Raman spectroscopy, and thermal conductivity measurements from 4.5 to 300 K",
+  "first_author": "A. Jeżowski",
+  "pdf_url": "http://arxiv.org/pdf/2611.24391",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-18",
+  "tags": [
+   "composites",
+   "spectroscopy"
+  ],
+  "title": "Structure and Thermal Conductivity of Epoxy-Graphene Oxide Composites from 4.5 to 300 K",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.24414": {
+  "abstract": "In heterogeneous materials, surface roughness, chemical incompatibility, mechanical mismatch or manufacturing defects result in imperfect bonding between the constituents. Such imperfections introduce a finite-thickness interphase zone between the constituents that possess a graded or inhomogeneous micro-structure. It is virtually impossible to resolve the behavior of such interphases. Instead, a well-established approach is to replace the interphase by a zero-thickness interface endowed with its own energetic structure. Conventional interface models define the interface temperature as an average of the temperatures of the surrounding bulk phases. However, this assumption is only adequate to represent uniform homogeneous interphases and it fails to accurately capture the behavior of graded or inhomogeneous interphases. In this work, we address this limitation by allowing for unequal contributions of the surrounding bulk phases to the interface temperature. We systematically revisit the resulting balance equations and present the computational framework for the finite element implementation of the model. We further incorporate the proposed model within the homogenization framework and derive closed-form analytical expressions for the effective thermal conductivity of fiber- and particle-reinforced composites, accouting for the influence of the extended general interface. Finally, through a series of numerical examples, we demonstrate the capabilities of the proposed model and investigate the influence of its parameters on the size-dependent thermal behavior of composites.",
+  "authors": [
+   "Soheil Firooz",
+   "Kashish Veda Eluri",
+   "Ali Javili",
+   "Paul Steinmann"
+  ],
+  "categories": [
+   "math-ph"
+  ],
+  "comment": null,
+  "first_author": "Soheil Firooz",
+  "pdf_url": "http://arxiv.org/pdf/2611.24414",
+  "primary_category": "math-ph",
+  "published": "2026-11-18",
+  "tags": [
+   "composites",
+   "thermal-conductivity"
+  ],
+  "title": "On the thermal behavior of composites embedding extended general interfaces",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-18"
+ },
+ "2611.25528": {
+  "abstract": "Branched macromolecular architectures are ubiquitous in living systems and synthetic polymeric systems, create topologically complex media that strongly influence tracer dynamics beyond simple packing fraction-driven crowding effects. Motivated by biological systems such as amoebae, astrocytes, cytoskeletal assemblies, and cyclic bottlebrushes, we investigate active and passive tracer transport in polymeric environments of topologically distinct architectures. Here, using Langevin dynamics simulations, we focus on how polymer topology alters diffusion behavior in a branched-ring polymeric (BRP) environment. To isolate the role of intramolecular topology from monomer density, we specifically benchmark the BRP dynamics against an unlinked linear-ring polymer mixture (LRM). In general, we find that while passive tracers are largely unaffected by the polymer connectivity and bending rigidity, the self-propelled active tracers strongly distinguish between the two architectures. Increasing chain rigidity facilitates active diffusion in the unlinked LRM but strongly restricts mobility in the BRP matrix, driving a transition to pronounced long-time subdiffusion that becomes more prominent with propulsion strength. Different physical observables reveal that interconnected topological cages are formed in the stiff limit, leading to transient weak ergodicity breaking and leptokurtic displacement statistics. Further, the self-intermediate scattering function confirms that the short-range dynamics remain unaltered by the matrix connectivity, while relaxation at large spatial length scales is governed by the topological caging. Finally, varying the branch length and number, we identified an optimal branch architecture that maximizes active trapping. Our results establish that macromolecular connectivity and stiffness dominate the active transport even in the system of identical packing fraction.",
+  "authors": [
+   "Rahul Bag",
+   "Baburao Simma",
+   "Vrinda Garg",
+   "Surya K. Ghosh"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "physics.bio-ph",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Rahul Bag",
+  "pdf_url": "http://arxiv.org/pdf/2611.25528",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-19",
+  "tags": [
+   "benchmarking"
+  ],
+  "title": "Topological trapping of active tracers in branched ring polymer matrices",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.25779": {
+  "abstract": "The ability to measure thermal properties and visualize heat transport processes with high spatial resolution is becoming increasingly important for materials discovery, next-generation electronics, and advanced manufacturing. As critical dimensions and architectures of novel materials and high performance electronics shrink and become more heterogeneous, thermal transport is no longer governed by bulk material properties alone, but by local variations in microstructure, such as interfaces and defects, while the operating conditions can also play a role. With the development of non-contact pump-probe thermoreflectance techniques, specific heat, thermal conductivity, and interface conductance can be mapped either through wide-field thermos-reflectance images or by scanning technique. However, key challenges remain such as the balance between imaging throughput and measurement accuracy, the extraction of multiple parameters with high confidence, and non-intrusive subsurface characterization, etc. This Review highlights recent advancements in artificial intelligence (AI)-assistance in high-throughput data processing, visualizing interfacial thermal transport, and nonintrusive subsurface analysis, and offers outlooks for future research directions such as spectral mapping of heat carriers, three-dimensional property mapping, and AI-agentic experimental designs. We anticipate this Review will motivate future efforts in combining AI with experimental techniques to achieve unprecedented capabilities for thermal characterization of nanoscale materials and device characterization, facilitating materials discovery and electronics revolution.",
+  "authors": [
+   "Xin Qian",
+   "Te-Huan Liu",
+   "Xiaobo Li",
+   "Ronggui Yang"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Xin Qian",
+  "pdf_url": "http://arxiv.org/pdf/2611.25779",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-19",
+  "tags": [
+   "polymer-morphology",
+   "thermal-conductivity"
+  ],
+  "title": "Intelligent Imaging of Thermal Transport in Nanostructures",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.25991": {
+  "abstract": "Crash simulations of glass-fiber-reinforced plastic parts are highly sensitive to the fiber-orientation field supplied to the material model. In conventional workflows, that field comes from resin-flow analysis, which requires molding-specialist support and takes about 25 hours of work per part. We previously proposed a surrogate model that addresses this bottleneck by predicting the orientation field in about 3 minutes. This paper reports the implementation, validation, and operational design that turned the model into an engineering tool for Honda design workflows. We present staged validation from 2D plates to production parts, evaluation against a predefined engineering angular-error criterion, and the expert review that approved design use in March 2025; the system has since been transferred to the crash-safety group and is in initial, limited use in directed fracture-prediction scenarios. The developed system combines injection-gate setting support for cases in which gates are unknown (90% gate-count accuracy, mean position error 11% of flow length), voxelization, surrogate inference, automatic mapping to the crash CAE model, and report generation in a single GUI. The complete orientation-preparation workflow takes about 0.1 hours, a 99.6% reduction from the conventional 25-hour flow-analysis route, and can be run directly by crash CAE engineers without molding-specialist support. As evidence of practical impact, component-level crash analysis using the predicted orientation field reduced the absolute peak-force error from 19.0% with an isotropic baseline to 11.4%, while confining predicted fracture to the test-observed region. The deployment lesson is that a surrogate model alone is not enough for practical adoption: gate-setting support, automatic data conversion, and shareable reporting are what make the model usable as a design tool.",
+  "authors": [
+   "Osamu Ito",
+   "Yoshikazu Nakagawa",
+   "Tomoaki Tatsukawa"
+  ],
+  "categories": [
+   "cs.AI"
+  ],
+  "comment": "Extended version of the paper accepted at IAAI-27 (AAAI 2027), with technical appendices. 10 pages, 10 figures, 2 tables",
+  "first_author": "Osamu Ito",
+  "pdf_url": "http://arxiv.org/pdf/2611.25991",
+  "primary_category": "cs.AI",
+  "published": "2026-11-19",
+  "tags": [],
+  "title": "From AI Surrogate to Engineering Tool: Toward Production Use of Fiber-Orientation Prediction in Crash CAE",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.26128": {
+  "abstract": "Single-particle cryo-electron microscopy (cryo-EM) determines macromolecular structures from noisy particle images. However, rare, transient compositional states and subtle, continuous conformational variation are difficult to resolve. We present CryoGaussian, a Gaussian splatting method for heterogeneous cryo-EM reconstruction that fits an explicit Gaussian density representation directly to the particle images through a differentiable rasterizer rendering orthographic line integrals modulated by the contrast transfer function. The Gaussians are initialized randomly, with their number derived from the estimated spatial support of the molecular density and their minimum size bounded by the Nyquist frequency of the particle images. To capture the compositional and conformational variation across particle images, we learn particle-image and per-Gaussian latents that jointly modulate the base position, amplitude, and scale of each Gaussian. Each structural state is then reconstructed by fitting the Gaussians conditioned on its inferred latent. On CryoBench, CryoGaussian achieves state-of-the-art reconstruction accuracy for both compositional and conformational heterogeneity. On experimental data, it resolves a rare compositional state of the 50S ribosomal subunit (class C4, 1.3% of particles) with rRNA helix 68 docked in the absence of the central protuberance, and continuous conformational motion of the SF3b and helicase subcomplexes of the pre-catalytic spliceosome. We further optimize the rasterizer for additive cryo-EM projection, reducing training time by 12.8-28.0$\\times$.",
+  "authors": [
+   "Ziwen Wang",
+   "Jiajun Fan",
+   "Chaoran Cheng",
+   "Ruihan Guo",
+   "Yanru Qu",
+   "Juexiao Zhou",
+   "Ge Liu"
+  ],
+  "categories": [
+   "cs.CV"
+  ],
+  "comment": "59 pages, 25 figures, 15 tables",
+  "first_author": "Ziwen Wang",
+  "pdf_url": "http://arxiv.org/pdf/2611.26128",
+  "primary_category": "cs.CV",
+  "published": "2026-11-19",
+  "tags": [],
+  "title": "CryoGaussian: Heterogeneous Cryo-EM Reconstruction Made Explicit with Gaussian Splatting",
+  "topics": [
+   "Informatics & Data Infrastructure"
+  ],
+  "updated": "2026-11-19"
+ },
+ "2611.26236": {
+  "abstract": "Stirring and shear usually suppress phase separation, but transport through a boundary can induce it. We study a binary mixture that is stable everywhere at rest and fills a two-dimensional annulus. The inner boundary is semipermeable and exchanges material with a permeate held at a fixed chemical potential, so that a steady flux of one component crosses the annulus. Although this driven system carries a steady current and produces entropy, within Model B dynamics its steady state is an equilibrium profile in an effective external field that is logarithmic in the distance from the center. Its strength is not imposed from outside but set by the permeate and the permeability of the boundary. Above a threshold driving flux, a condensed annulus forms around the inner boundary. It is bounded by a stationary front whose radius depends exponentially on the ratio of the bulk driving force to the flux. The front is pinned by the effective field and does not coarsen, and the threshold flux decreases only as the inverse logarithm of the system size. The driving flux shifts the phase lines but leaves the critical temperature unchanged. Interfacial tension gives rise to a critical nucleus and to a fold, at which the condensed state ceases to exist, with a threshold that we obtain in closed form. Numerical solutions confirm these predictions and reveal a hysteresis loop bounded by two saddle-node bifurcations. By symmetry, the theory also describes cavitation around a sink.",
+  "authors": [
+   "Yoav Tsori"
+  ],
+  "categories": [
+   "physics.flu-dyn",
+   "math-ph",
+   "nlin.PS"
+  ],
+  "comment": "11 pages, 6 figures",
+  "first_author": "Yoav Tsori",
+  "pdf_url": "http://arxiv.org/pdf/2611.26236",
+  "primary_category": "physics.flu-dyn",
+  "published": "2026-11-19",
+  "tags": [
+   "phase-separation"
+  ],
+  "title": "Flux-induced condensation in a radial geometry",
+  "topics": [
+   "Microstructure, Morphology & Characterization"
+  ],
+  "updated": "2026-11-19"
  }
 }

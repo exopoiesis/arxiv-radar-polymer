@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>dielectric-properties — all</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">21 papers</span>
   <nav class="window-nav"><a href="dielectric-properties-7d.html">7d</a> <a href="dielectric-properties-30d.html">30d</a> <a href="dielectric-properties-90d.html">90d</a> <a href="dielectric-properties-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17638.html">AI-guided robotic in situ fabrication of curvature- and tissue-adaptive wireless bioelectronics</a></div><div class="paper-tags"><a href="rheology-all.html">rheology</a></div></td>
+<td>Hiroyuki Tetsuka et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17638">2611.17638</a></td>
+</tr>
 <tr class="paper">
 <td>2026-10-21</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.29653.html">Construction of highly coarse-grained molecular models for aqueous electrolytes</a></div><div class="paper-tags"><a href="coarse-grained-all.html">coarse-grained</a></div></td>
