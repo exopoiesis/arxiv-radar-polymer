@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>mechanical-properties — 7d</h1>
-  <span class="paper-count">5 papers</span>
+  <span class="paper-count">4 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -38,11 +38,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21322.html">RevealLO: Global-Scale FWI Including Long-Period Major-Arc Surface Wave and Multi-Orbit Body Wave Data</a></div></td>
 <td>C. J. Schiller et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21322">2611.21322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-15</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20281.html">Resolvent-based modeling of turbulent flow over multilayer compliant surfaces</a></div></td>
-<td>Rutvij Bhagwat et al.</td>
-<td><a href="http://arxiv.org/abs/2611.20281">2611.20281</a></td>
 </tr>
 </tbody></table>

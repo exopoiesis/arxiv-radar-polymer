@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27644.html">A nonlinear transient finite element analysis of coupled solvent diffusion and large deformation of magneto-elastic hydrogel balloon</a></div></td>
+<td>Nadeem Karim Shaikh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27644">2611.27644</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-16</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20857.html">Will it bend? Modelling hydrogel box hinges with a gel Lattice Spring Method</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a></div></td>
 <td>Ellen M Jolley et al.</td>
@@ -560,11 +566,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16862.html">Subtleties of UV-crosslinking in microfluidic particle fabrication: UV dosage and intensity matter</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Sabrina Marnoto et al.</td>
 <td><a href="http://arxiv.org/abs/2508.16862">2508.16862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2410.19089.html">Self-organized homogenization of flow networks</a></div></td>
-<td>Julien Bouvard et al.</td>
-<td><a href="http://arxiv.org/abs/2410.19089">2410.19089</a></td>
 </tr>
 </tbody></table>

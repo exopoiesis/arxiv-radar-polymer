@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27480.html">Sprouting Fields of Conducting Polymer Dendrites as Evolving Organic Electrochemical Frameworks to Interconnect Electrode Arrays</a></div><div class="paper-tags"><a href="conducting-polymers-30d.html">conducting-polymers</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27480">2611.27480</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Xin Qian et al.</td>
@@ -80,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="rheology-30d.html">rheology</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Gauthier Legrand et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33682">2610.33682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35946.html">Machine learning enabled design of sustainable alloys considering real world constraints</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
-<td>Quan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35946">2610.35946</a></td>
 </tr>
 </tbody></table>

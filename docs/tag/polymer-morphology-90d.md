@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">49 papers</span>
+  <span class="paper-count">48 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27480.html">Sprouting Fields of Conducting Polymer Dendrites as Evolving Organic Electrochemical Frameworks to Interconnect Electrode Arrays</a></div><div class="paper-tags"><a href="conducting-polymers-90d.html">conducting-polymers</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27480">2611.27480</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25779.html">Intelligent Imaging of Thermal Transport in Nanostructures</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
@@ -296,17 +302,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
 <td>Piyush Garg et al.</td>
 <td><a href="http://arxiv.org/abs/2608.26479">2608.26479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23076.html">From Maxwell Fluid to Kelvin Voigt Solid: A Transient Network Model of Condensate Aging and Morphology Transition in Phase Separation</a></div><div class="paper-tags"><a href="phase-separation-90d.html">phase-separation</a></div></td>
-<td>Bhanjan Debnath</td>
-<td><a href="http://arxiv.org/abs/2608.23076">2608.23076</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.23190.html">Toward a Foundation Plug-and-Play Prior for Computed Tomography Reconstruction via a Multimodal Diffusion Model</a></div><div class="paper-tags"><a href="diffusion-model-90d.html">diffusion-model</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
-<td>Haley Duba-Sullivan et al.</td>
-<td><a href="http://arxiv.org/abs/2608.23190">2608.23190</a></td>
 </tr>
 </tbody></table>

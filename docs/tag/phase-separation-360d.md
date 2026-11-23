@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>phase-separation — 360d</h1>
-  <span class="paper-count">293 papers</span>
+  <span class="paper-count">292 papers</span>
   <nav class="window-nav"><a href="phase-separation-7d.html">7d</a> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <strong>360d</strong> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1766,11 +1766,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01990.html">Dilute Limit Coarsening with an Anisotropic Surface Tension</a></div></td>
 <td>Arjun R. Anand et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01990">2512.01990</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22300.html">Molecular simulations of phase separation in elastic polymer networks</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Takahiro Yokoyama et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22300">2511.22300</a></td>
 </tr>
 </tbody></table>

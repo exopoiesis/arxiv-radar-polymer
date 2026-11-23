@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">13 papers</span>
+  <span class="paper-count">12 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -86,11 +86,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.05434.html">From Early Concepts to Lunar Hypertelescopes Roadmap for Next-Generation Optical Astronomy on the Moon</a></div></td>
 <td>M. Hadjara et al.</td>
 <td><a href="http://arxiv.org/abs/2611.05434">2611.05434</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33345.html">Elasto-Plastocapillarity: Surface-Tension-Driven Flows of Yield-Stress Fluids</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a></div></td>
-<td>Maziyar Jalaal</td>
-<td><a href="http://arxiv.org/abs/2610.33345">2610.33345</a></td>
 </tr>
 </tbody></table>

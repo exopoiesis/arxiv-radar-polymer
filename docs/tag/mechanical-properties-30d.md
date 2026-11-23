@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">31 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -200,23 +200,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="rheology-30d.html">rheology</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
 <td>Gauthier Legrand et al.</td>
 <td><a href="http://arxiv.org/abs/2610.33682">2610.33682</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.32895.html">Time-temperature superposition from multi-temperature chirp rheometry of thermorheologically simple materials via physics-informed Gaussian processes</a></div><div class="paper-tags"><a href="rheology-30d.html">rheology</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Isaac Y. Miranda-Valdez et al.</td>
-<td><a href="http://arxiv.org/abs/2610.32895">2610.32895</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33369.html">Contact-Free Nuclear and Cytoplasmic Mechanophenotyping by Amplitude-Modulated Ultrasound and Phase-Locked Optical Diffraction Tomography: Computational Feasibility and Initial Experimental Readouts</a></div></td>
-<td>Yagmur Isik et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33369">2610.33369</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-23</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35946.html">Machine learning enabled design of sustainable alloys considering real world constraints</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
-<td>Quan Li et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35946">2610.35946</a></td>
 </tr>
 </tbody></table>

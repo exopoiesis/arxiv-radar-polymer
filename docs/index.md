@@ -5,15 +5,27 @@ title: "Polymer arxiv-radar"
 
 # Polymer arxiv-radar
 
-_Updated 2026-11-22._
+_Updated 2026-11-23._
 
-**3849** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
+**3851** polymer-relevant papers across **26** months. Pre-curated tag pages with 5 time windows (7d / 30d / 90d / 360d / all). Browse the **tag list →** in the right sidebar.
 
 ## Recent papers (top 30)
 
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27480.html">Sprouting Fields of Conducting Polymer Dendrites as Evolving Organic Electrochemical Frameworks to Interconnect Electrode Arrays</a></div><div class="paper-tags"><a href="tag/conducting-polymers-30d.html">conducting-polymers</a> · <a href="tag/polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Antoine Baron et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27480">2611.27480</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.27644.html">A nonlinear transient finite element analysis of coupled solvent diffusion and large deformation of magneto-elastic hydrogel balloon</a></div><div class="paper-tags"><a href="tag/hydrogels-30d.html">hydrogels</a></div></td>
+<td>Nadeem Karim Shaikh et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27644">2611.27644</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.25528.html">Topological trapping of active tracers in branched ring polymer matrices</a></div><div class="paper-tags"><a href="tag/benchmarking-30d.html">benchmarking</a></div></td>
@@ -181,17 +193,5 @@ _Updated 2026-11-22._
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17650.html">Classifier-Guided Latent Diffusion for Small-Molecule Generation</a></div><div class="paper-tags"><a href="tag/diffusion-model-30d.html">diffusion-model</a> · <a href="tag/generative-model-30d.html">generative-model</a> · <a href="tag/selfies-30d.html">selfies</a></div></td>
 <td>Ali Forooghi et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17650">2611.17650</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="tag/benchmarking-30d.html">benchmarking</a> · <a href="tag/inverse-design-30d.html">inverse-design</a></div></td>
-<td>Amirul Islam Saimon et al.</td>
-<td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-13</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="abstracts/2611.18447.html">Nesting in additive manufacturing using quantum annealing</a></div><div class="paper-tags"><a href="tag/additive-manufacturing-30d.html">additive-manufacturing</a></div></td>
-<td>Xiangqian Wu et al.</td>
-<td><a href="http://arxiv.org/abs/2611.18447">2611.18447</a></td>
 </tr>
 </tbody></table>

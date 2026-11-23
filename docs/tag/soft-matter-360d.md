@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>soft-matter — 360d</h1>
-  <span class="paper-count">47 papers</span>
+  <span class="paper-count">46 papers</span>
   <nav class="window-nav"><a href="soft-matter-7d.html">7d</a> <a href="soft-matter-30d.html">30d</a> <a href="soft-matter-90d.html">90d</a> <strong>360d</strong> <a href="soft-matter-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -290,11 +290,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.07772.html">Universal bounds on entropy production from fluctuating coarse-grained trajectories</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Udo Seifert</td>
 <td><a href="http://arxiv.org/abs/2512.07772">2512.07772</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.22589.html">Active flow-driven DNA remodeling generates millimeter-scale mechanical oscillations</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Maya Levanon et al.</td>
-<td><a href="http://arxiv.org/abs/2511.22589">2511.22589</a></td>
 </tr>
 </tbody></table>
