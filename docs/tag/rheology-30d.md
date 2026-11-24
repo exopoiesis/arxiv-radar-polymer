@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>rheology — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">9 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <strong>30d</strong> <a href="rheology-90d.html">90d</a> <a href="rheology-360d.html">360d</a> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -68,11 +68,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.03949.html">Thermodynamically consistent thixotropic viscoelastic modeling of human blood from a conformational free energy</a></div><div class="paper-tags"><a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
 <td>Thomas Martinod et al.</td>
 <td><a href="http://arxiv.org/abs/2611.03949">2611.03949</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-24</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.33682.html">Aging dynamics and generalized superposition principles in carbon black-carboxymethylcellulose hydrogels</a></div><div class="paper-tags"><a href="hydrogels-30d.html">hydrogels</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="spectroscopy-30d.html">spectroscopy</a></div></td>
-<td>Gauthier Legrand et al.</td>
-<td><a href="http://arxiv.org/abs/2610.33682">2610.33682</a></td>
 </tr>
 </tbody></table>

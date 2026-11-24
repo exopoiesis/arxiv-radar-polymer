@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">494 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,17 +2966,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02064.html">Neural Networks as Physics-Consistent Surrogates: An \textit{Explainable AI} Validation Framework for Learning Constitutive Relations</a></div></td>
 <td>Chandana Pati et al.</td>
 <td><a href="http://arxiv.org/abs/2512.02064">2512.02064</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2510.20430.html">The impact of pressure oscillations on bubble rising in shear-thinning fluids</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Mario Riccio et al.</td>
-<td><a href="http://arxiv.org/abs/2510.20430">2510.20430</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-28</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2511.23248.html">Quantifying surfactant adsorption at fluid interfaces by combining X-ray reflection and simulation</a></div><div class="paper-tags"><a href="mlff-360d.html">mlff</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Kay-Robert Dormann et al.</td>
-<td><a href="http://arxiv.org/abs/2511.23248">2511.23248</a></td>
 </tr>
 </tbody></table>
