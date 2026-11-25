@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 90d</h1>
-  <span class="paper-count">32 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <a href="molecular-dynamics-30d.html">30d</a> <strong>90d</strong> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20429.html">FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a> · <a href="mlff-90d.html">mlff</a></div></td>
+<td>Hugo D. Hernández R. et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20429">2611.20429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20002.html">Self-assembly of dipolar nanoclusters on an attractive substrate: A coarse-grained simulation approach</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Denis Gessert et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20002">2611.20002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19658.html">Mesoscale Neural Operators: Learning Nonlinear Constitutive Laws from Molecular Dynamics for Scalable Fracture Predictions</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>Yue Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19658">2611.19658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="coarse-grained-90d.html">coarse-grained</a> · <a href="enhanced-sampling-90d.html">enhanced-sampling</a> · <a href="generative-model-90d.html">generative-model</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18795.html">Lower Bound of Thermal Conductivity in Graphene</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
@@ -26,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a> · <a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
 <td>Abhijit Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15806.html">Heterogeneous ice nucleation with TIP4P/Ice: the role of lattice mismatch</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>
+<td>M. Camarillo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15806">2611.15806</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-07</td>
@@ -200,11 +230,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.05373.html">Molecular interfacial rheology: Lipid membrane shear viscosity</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Zhi-Xun Xu et al.</td>
 <td><a href="http://arxiv.org/abs/2609.05373">2609.05373</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25242.html">Dynamical and conformational behavior of a polymer in a crowded solution</a></div></td>
-<td>Setarehalsadat Changizrezaei et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25242">2608.25242</a></td>
 </tr>
 </tbody></table>

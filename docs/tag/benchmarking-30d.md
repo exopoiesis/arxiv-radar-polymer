@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>benchmarking — 30d</h1>
-  <span class="paper-count">15 papers</span>
+  <span class="paper-count">18 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <strong>30d</strong> <a href="benchmarking-90d.html">90d</a> <a href="benchmarking-360d.html">360d</a> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31964.html">Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
+<td>Ruiqi Shu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31964">2611.31964</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32822.html">DED-Agent: An agentic AI method for autonomous thermal simulation model development and calibration in laser directed energy deposition</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
+<td>Michael Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32822">2611.32822</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28961.html">Estimating Extrapolation Factors in Time-Resolved Crystallography</a></div></td>
+<td>Sebastian Bielfeldt et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28961">2611.28961</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29010.html">Parallel Two-Photon Lithography: From Optical Nonlinearities to Energy Limits, Dose Control and Throughput Benchmarks</a></div></td>
+<td>Michalis Stavrou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29010">2611.29010</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25528.html">Topological trapping of active tracers in branched ring polymer matrices</a></div></td>
@@ -26,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-30d.html">additive-manufacturing</a> · <a href="inverse-design-30d.html">inverse-design</a></div></td>
 <td>Amirul Islam Saimon et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="generative-model-30d.html">generative-model</a> · <a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>
@@ -92,17 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36349.html">A Local Stabilized Isogeometric Formulation with Discontinuous Pressure for Mesh-Conforming and Immersed Analysis of Nearly Incompressible Elasticity</a></div></td>
 <td>Ashkan Ali Madadi et al.</td>
 <td><a href="http://arxiv.org/abs/2610.36349">2610.36349</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="membranes-30d.html">membranes</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Rohit Satish Patil et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34442.html">MATHUSLA: A Proposed Long-Lived Particle Detector for High-Luminosity LHC</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
-<td>Miriam Diamond et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34442">2610.34442</a></td>
 </tr>
 </tbody></table>

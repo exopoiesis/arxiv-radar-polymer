@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>benchmarking — 360d</h1>
-  <span class="paper-count">161 papers</span>
+  <span class="paper-count">166 papers</span>
   <nav class="window-nav"><a href="benchmarking-7d.html">7d</a> <a href="benchmarking-30d.html">30d</a> <a href="benchmarking-90d.html">90d</a> <strong>360d</strong> <a href="benchmarking-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31964.html">Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators</a></div><div class="paper-tags"><a href="phase-separation-360d.html">phase-separation</a></div></td>
+<td>Ruiqi Shu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.31964">2611.31964</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32822.html">DED-Agent: An agentic AI method for autonomous thermal simulation model development and calibration in laser directed energy deposition</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="polymer-morphology-360d.html">polymer-morphology</a></div></td>
+<td>Michael Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32822">2611.32822</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28961.html">Estimating Extrapolation Factors in Time-Resolved Crystallography</a></div></td>
+<td>Sebastian Bielfeldt et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28961">2611.28961</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.29010.html">Parallel Two-Photon Lithography: From Optical Nonlinearities to Energy Limits, Dose Control and Throughput Benchmarks</a></div></td>
+<td>Michalis Stavrou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.29010">2611.29010</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-19</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25528.html">Topological trapping of active tracers in branched ring polymer matrices</a></div></td>
@@ -26,6 +50,12 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17794.html">Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing</a></div><div class="paper-tags"><a href="additive-manufacturing-360d.html">additive-manufacturing</a> · <a href="inverse-design-360d.html">inverse-design</a></div></td>
 <td>Amirul Islam Saimon et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17794">2611.17794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a> · <a href="enhanced-sampling-360d.html">enhanced-sampling</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-12</td>

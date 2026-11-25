@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">492 papers</span>
+  <span class="paper-count">494 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,42 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32818.html">Data-driven Reduced-order Modeling of a Multistable Viscoelastic Flow</a></div></td>
+<td>Shaoxuan Chen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32818">2611.32818</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32832.html">Snap-Through Symmetry Breaking in Multicellular Aggregates</a></div></td>
+<td>Martí Planasdemunt-Hospital et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32832">2611.32832</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32897.html">Discretely self-similar solutions to coupled fluid systems with locally $L^2$ data</a></div></td>
+<td>Chen-Chih Lai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32897">2611.32897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27259.html">Decoupling Entropic and Enthalpic Elasticity in Crosslinked Polymer Nanocomposites</a></div><div class="paper-tags"><a href="composites-360d.html">composites</a> · <a href="nanocomposites-360d.html">nanocomposites</a></div></td>
+<td>Chiranjit Majhi et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27259">2611.27259</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27292.html">Two-phase visco-elastic FENE-P model: Thermodynamically consistent modeling, sharp interface limit analysis and unconditionally energy stable numerical scheme</a></div></td>
+<td>Yuzhe Qin et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27292">2611.27292</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28322.html">Moment-Based Transient Network Models for Finite-Strain Viscoelasticity</a></div></td>
+<td>Stephen T. Castonguay et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28322">2611.28322</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24008.html">Modelling the human-exoskeleton interaction interface - Benchmarking MuJoCo&#x27;s deformable model</a></div></td>
@@ -2942,29 +2978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01526.html">Cytoplasmic flow induced by a rotating wire in living cells: Magnetic rotational spectroscopy and finite element simulations</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
 <td>Charles Paul Moore et al.</td>
 <td><a href="http://arxiv.org/abs/2512.01526">2512.01526</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00257.html">Bend Instabilities and Topological Turbulence in Shear-Aligned Living Liquid Crystal</a></div></td>
-<td>Hend Baza et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00257">2512.00257</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00507.html">Inverse spectral problem for glassy state relaxation approximated by Prony series</a></div></td>
-<td>Shuli Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00507">2512.00507</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00667.html">Active Learning of Fractional-Order Viscoelastic Model Parameters for Realistic Haptic Rendering</a></div><div class="paper-tags"><a href="active-learning-360d.html">active-learning</a></div></td>
-<td>Harun Tolasa et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00667">2512.00667</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.02064.html">Neural Networks as Physics-Consistent Surrogates: An \textit{Explainable AI} Validation Framework for Learning Constitutive Relations</a></div></td>
-<td>Chandana Pati et al.</td>
-<td><a href="http://arxiv.org/abs/2512.02064">2512.02064</a></td>
 </tr>
 </tbody></table>

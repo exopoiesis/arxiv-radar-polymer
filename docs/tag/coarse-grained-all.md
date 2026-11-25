@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>coarse-grained — all</h1>
-  <span class="paper-count">308 papers</span>
+  <span class="paper-count">320 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <a href="coarse-grained-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,78 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30058.html">Solids activated by multi-body nonreciprocity</a></div></td>
+<td>Brady Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30058">2611.30058</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30910.html">Statistical mechanics of noisy collisions in active matter: Dyson-Landau theory</a></div></td>
+<td>Horst-Holger Boltz et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30910">2611.30910</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27581.html">Disentangling Lengthscales in Disordered Fracture</a></div></td>
+<td>Matthaios Chouzouris et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27581">2611.27581</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-20</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27923.html">The Fiscal and Economic Implications of Green Mandates: a Boltzmann Approach to Public Governance</a></div></td>
+<td>Katerina Savvaidou et al.</td>
+<td><a href="http://arxiv.org/abs/2611.27923">2611.27923</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24141.html">From dynamic strain aging to Alessandro--Beatrice--Bertotti--Montorsi dynamics of propagating Portevin--Le Chatelier bands</a></div></td>
+<td>Tero Mäkinen et al.</td>
+<td><a href="http://arxiv.org/abs/2611.24141">2611.24141</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20429.html">FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials</a></div><div class="paper-tags"><a href="mlff-all.html">mlff</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Hugo D. Hernández R. et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20429">2611.20429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20002.html">Self-assembly of dipolar nanoclusters on an attractive substrate: A coarse-grained simulation approach</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Denis Gessert et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20002">2611.20002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19342.html">Tunable topological droplets on supercoiled DNA under tension</a></div></td>
+<td>Enrico Skoruppa et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19342">2611.19342</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19658.html">Mesoscale Neural Operators: Learning Nonlinear Constitutive Laws from Molecular Dynamics for Scalable Fracture Predictions</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Yue Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19658">2611.19658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="benchmarking-all.html">benchmarking</a> · <a href="enhanced-sampling-all.html">enhanced-sampling</a> · <a href="generative-model-all.html">generative-model</a> · <a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15806.html">Heterogeneous ice nucleation with TIP4P/Ice: the role of lattice mismatch</a></div><div class="paper-tags"><a href="molecular-dynamics-all.html">molecular-dynamics</a></div></td>
+<td>M. Camarillo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15806">2611.15806</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15845.html">Potts Order Preempts Emergence of 2-Form U(1) Spin Liquidity in Three-Dimensional Spin Vorticity Models</a></div><div class="paper-tags"><a href="membranes-all.html">membranes</a></div></td>
+<td>Michael D. Burke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15845">2611.15845</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>

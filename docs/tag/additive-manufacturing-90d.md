@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 90d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">37 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <a href="additive-manufacturing-30d.html">30d</a> <strong>90d</strong> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32822.html">DED-Agent: An agentic AI method for autonomous thermal simulation model development and calibration in laser directed energy deposition</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Michael Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32822">2611.32822</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-21</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.28772.html">MM-Open5x: Practical Conformal Electronics via Multi-Material Multi-Axis Additive Manufacturing</a></div></td>
+<td>Iván Revenga Riesco et al.</td>
+<td><a href="http://arxiv.org/abs/2611.28772">2611.28772</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.22983.html">3D-VASE: Volumetric-Aware Scalable and Efficient Multi-Layer Design Synthesis for 3D-Printed Microfluidics</a></div></td>
@@ -224,11 +236,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.03163.html">Uncertainty quantification of fatigue initiation life for powder bed fusion metal additive manufacturing</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
 <td>Yulin Guo et al.</td>
 <td><a href="http://arxiv.org/abs/2609.03163">2609.03163</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.25928.html">AI Agentic Selective Laser Sintering Process Optimization</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Peter Pak et al.</td>
-<td><a href="http://arxiv.org/abs/2608.25928">2608.25928</a></td>
 </tr>
 </tbody></table>

@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15845.html">Potts Order Preempts Emergence of 2-Form U(1) Spin Liquidity in Three-Dimensional Spin Vorticity Models</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Michael D. Burke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15845">2611.15845</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-04</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.06237.html">SO3LR Tauri: Generally Applicable Force Fields for Reactive (Bio)Molecular Simulations Covering the Periodic Table</a></div><div class="paper-tags"><a href="mlff-30d.html">mlff</a></div></td>
 <td>Adil Kabylda et al.</td>
@@ -32,11 +38,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.09991.html">Conductance scaling in nanopore arrays: disentangling roles of pore arrangement and reservoir geometry</a></div></td>
 <td>Jacob Bair et al.</td>
 <td><a href="http://arxiv.org/abs/2611.09991">2611.09991</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-25</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.34014.html">Two-dimensional framework for modeling load transfer in nanocomposites with thin, stiff, and prestressed reinforcements</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Rohit Satish Patil et al.</td>
-<td><a href="http://arxiv.org/abs/2610.34014">2610.34014</a></td>
 </tr>
 </tbody></table>

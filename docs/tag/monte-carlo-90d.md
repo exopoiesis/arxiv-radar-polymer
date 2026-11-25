@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>monte-carlo — 90d</h1>
-  <span class="paper-count">20 papers</span>
+  <span class="paper-count">24 papers</span>
   <nav class="window-nav"><a href="monte-carlo-7d.html">7d</a> <a href="monte-carlo-30d.html">30d</a> <strong>90d</strong> <a href="monte-carlo-360d.html">360d</a> <a href="monte-carlo-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-23</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30794.html">Pulse-to-pulse Power Fluctuations in Ultra-Fast Fiber Amplifiers with Gain-Managed Nonlinearity</a></div></td>
+<td>Maksim Kozlov et al.</td>
+<td><a href="http://arxiv.org/abs/2611.30794">2611.30794</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-18</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.25176.html">Reliability-based Sizing of Energy Storage for Large Load Integration</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
+<td>Atri Bera et al.</td>
+<td><a href="http://arxiv.org/abs/2611.25176">2611.25176</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21855.html">Shortest-path percolation and structural robustness of quantum internet networks</a></div><div class="paper-tags"><a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
+<td>Victor H. F. Francheto et al.</td>
+<td><a href="http://arxiv.org/abs/2611.21855">2611.21855</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19060.html">Interplay of interfacial energetics and selective Ni segregation in the morphology of co-precipitates in low-alloy steels</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
+<td>Jia-Hong Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19060">2611.19060</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-10</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.14720.html">Force-Dependent Change of Structural Behavior Upon Pulling a Grafted Flexible Polymer</a></div><div class="paper-tags"><a href="coarse-grained-90d.html">coarse-grained</a></div></td>

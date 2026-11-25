@@ -16,6 +16,12 @@ current_window: 360d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a> · <a href="coarse-grained-360d.html">coarse-grained</a> · <a href="generative-model-360d.html">generative-model</a> · <a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
+</tr>
+<tr class="paper">
 <td>2026-09-17</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.20461.html">Correlation-Free Transition Path Sampling through Shooting Point Generation Guided by Committor Learning</a></div><div class="paper-tags"><a href="benchmarking-360d.html">benchmarking</a></div></td>
 <td>Maximilian Negedly et al.</td>
@@ -44,11 +50,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2604.27136.html">Stepping up enhanced rate calculations with EATR-flooding</a></div><div class="paper-tags"><a href="coarse-grained-360d.html">coarse-grained</a></div></td>
 <td>Nicodemo Mazzaferro et al.</td>
 <td><a href="http://arxiv.org/abs/2604.27136">2604.27136</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-29</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.00407.html">Free Energy and Diffusivity in the Fokker-Planck Theory of Polymer Translocation</a></div></td>
-<td>Bhavesh R. Sarode et al.</td>
-<td><a href="http://arxiv.org/abs/2512.00407">2512.00407</a></td>
 </tr>
 </tbody></table>

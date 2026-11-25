@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>molecular-dynamics — 30d</h1>
-  <span class="paper-count">10 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="molecular-dynamics-7d.html">7d</a> <strong>30d</strong> <a href="molecular-dynamics-90d.html">90d</a> <a href="molecular-dynamics-360d.html">360d</a> <a href="molecular-dynamics-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-16</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20429.html">FiuMD: Heterogeneous Batching for Coarse-Grained Molecular Dynamics with Neural Network Potentials</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a> · <a href="mlff-30d.html">mlff</a></div></td>
+<td>Hugo D. Hernández R. et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20429">2611.20429</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-15</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.20002.html">Self-assembly of dipolar nanoclusters on an attractive substrate: A coarse-grained simulation approach</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Denis Gessert et al.</td>
+<td><a href="http://arxiv.org/abs/2611.20002">2611.20002</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19658.html">Mesoscale Neural Operators: Learning Nonlinear Constitutive Laws from Molecular Dynamics for Scalable Fracture Predictions</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>Yue Yu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19658">2611.19658</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18236.html">Deciphering multiple binding modes in large protein complexes via Enhanced Sampling and beta-VAE: the CYFIP1-eIF4E case</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="coarse-grained-30d.html">coarse-grained</a> · <a href="enhanced-sampling-30d.html">enhanced-sampling</a> · <a href="generative-model-30d.html">generative-model</a></div></td>
+<td>Francesco Pignotti et al.</td>
+<td><a href="http://arxiv.org/abs/2611.18236">2611.18236</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-13</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.18795.html">Lower Bound of Thermal Conductivity in Graphene</a></div><div class="paper-tags"><a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
@@ -26,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17283.html">SiC-BN composites with extreme thermal and environmental stability</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="thermal-conductivity-30d.html">thermal-conductivity</a></div></td>
 <td>Abhijit Biswas et al.</td>
 <td><a href="http://arxiv.org/abs/2611.17283">2611.17283</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-11</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.15806.html">Heterogeneous ice nucleation with TIP4P/Ice: the role of lattice mismatch</a></div><div class="paper-tags"><a href="coarse-grained-30d.html">coarse-grained</a></div></td>
+<td>M. Camarillo et al.</td>
+<td><a href="http://arxiv.org/abs/2611.15806">2611.15806</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-07</td>

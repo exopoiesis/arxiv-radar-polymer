@@ -7,7 +7,7 @@ current_window: all
 
 <header class="tag-header">
   <h1>polymer-morphology — all</h1>
-  <span class="paper-count">385 papers</span>
+  <span class="paper-count">389 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <a href="polymer-morphology-360d.html">360d</a> <strong>all</strong></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: all
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32535.html">Odd Viscosity-Driven Phase Separation in Chiral Active Mixtures</a></div></td>
+<td>Xiaoyi Wu et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32535">2611.32535</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32822.html">DED-Agent: An agentic AI method for autonomous thermal simulation model development and calibration in laser directed energy deposition</a></div><div class="paper-tags"><a href="additive-manufacturing-all.html">additive-manufacturing</a> · <a href="benchmarking-all.html">benchmarking</a></div></td>
+<td>Michael Song et al.</td>
+<td><a href="http://arxiv.org/abs/2611.32822">2611.32822</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27480.html">Sprouting Fields of Conducting Polymer Dendrites as Evolving Organic Electrochemical Frameworks to Interconnect Electrode Arrays</a></div><div class="paper-tags"><a href="conducting-polymers-all.html">conducting-polymers</a></div></td>
@@ -38,6 +50,18 @@ current_window: all
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.21022.html">How many events does entanglement-based positronium imaging need? Information limits of Compton polarimetry with CZT detectors</a></div></td>
 <td>Haitao Zhou et al.</td>
 <td><a href="http://arxiv.org/abs/2611.21022">2611.21022</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-14</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.19060.html">Interplay of interfacial energetics and selective Ni segregation in the morphology of co-precipitates in low-alloy steels</a></div><div class="paper-tags"><a href="monte-carlo-all.html">monte-carlo</a></div></td>
+<td>Jia-Hong Ke et al.</td>
+<td><a href="http://arxiv.org/abs/2611.19060">2611.19060</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-13</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.17976.html">A Multiobjective Optimization Framework for Sensor Array Design in Magnetocardiography</a></div></td>
+<td>Kesavaraja C et al.</td>
+<td><a href="http://arxiv.org/abs/2611.17976">2611.17976</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-10</td>
