@@ -16,6 +16,12 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34286.html">Collective relaxation dynamics and vitrification in hexatic smectic binary equimolar mixtures containing component with varying C$_3$F$_7$CH$_2$OC$_m$H$_{2m}$- chain length</a></div><div class="paper-tags"><a href="glass-transition-90d.html">glass-transition</a></div></td>
+<td>Aleksandra Deptuch et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34286">2611.34286</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-18</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.24391.html">Structure and Thermal Conductivity of Epoxy-Graphene Oxide Composites from 4.5 to 300 K</a></div><div class="paper-tags"><a href="composites-90d.html">composites</a></div></td>
 <td>A. Jeżowski et al.</td>
@@ -140,11 +146,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.02645.html">XPCS-Echo and broad relaxation measurements using a bunch-mode data acquisition scheme</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="polymer-degradation-90d.html">polymer-degradation</a></div></td>
 <td>William Chèvremont et al.</td>
 <td><a href="http://arxiv.org/abs/2609.02645">2609.02645</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26717.html">Circular Dichroism Spectroscopy of Single Objects: Problems, Artifacts, and Corrections</a></div><div class="paper-tags"><a href="organic-photovoltaics-90d.html">organic-photovoltaics</a></div></td>
-<td>Stefan Goppelt et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26717">2608.26717</a></td>
 </tr>
 </tbody></table>

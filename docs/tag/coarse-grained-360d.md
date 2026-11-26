@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">183 papers</span>
+  <span class="paper-count">187 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,30 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33569.html">Noise-induced Extinction in Hierarchical Food Webs</a></div></td>
+<td>Varun Nevash et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33569">2611.33569</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33740.html">Exclusion and internal structure in the association/dissociation kinetics of DNA-binding proteins in the fast diffusion limit</a></div></td>
+<td>Xiangting Li et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33740">2611.33740</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33807.html">Controlling truncation errors in loop tensor network renormalization</a></div></td>
+<td>Rikuto Fushio et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33807">2611.33807</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33988.html">Exploring Physical Mechanisms Underlying the Emergence of Collective Order</a></div></td>
+<td>Yitong Cai et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33988">2611.33988</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-23</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.30058.html">Solids activated by multi-body nonreciprocity</a></div></td>

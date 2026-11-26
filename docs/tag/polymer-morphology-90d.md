@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>polymer-morphology — 90d</h1>
-  <span class="paper-count">52 papers</span>
+  <span class="paper-count">53 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <strong>90d</strong> <a href="polymer-morphology-360d.html">360d</a> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34194.html">Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Koduvayur A. Ramya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34194">2611.34194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34496.html">A search and multi-frequency study of curved parsec-scale jets in active galaxies</a></div><div class="paper-tags"><a href="monte-carlo-90d.html">monte-carlo</a></div></td>
+<td>V. A. Makeev et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34496">2611.34496</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32535.html">Odd Viscosity-Driven Phase Separation in Chiral Active Mixtures</a></div></td>
@@ -320,11 +332,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01159.html">Chemotaxis-induced linear instabilities and pattern formation in a reaction-diffusion model</a></div></td>
 <td>Mintu Karmakar et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01159">2609.01159</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
-<td>Piyush Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26479">2608.26479</a></td>
 </tr>
 </tbody></table>

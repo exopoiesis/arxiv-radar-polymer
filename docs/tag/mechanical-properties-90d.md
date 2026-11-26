@@ -16,6 +16,24 @@ current_window: 90d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34194.html">Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a> · <a href="rheology-90d.html">rheology</a></div></td>
+<td>Koduvayur A. Ramya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34194">2611.34194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34310.html">Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="composites-90d.html">composites</a></div></td>
+<td>Kanhaiya Lal Chaurasiya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34310">2611.34310</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34670.html">Autonomous Ergodic Robotic Palpation for Elastic Mapping of Curved Soft Tissues</a></div></td>
+<td>Luca Beber et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34670">2611.34670</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32818.html">Data-driven Reduced-order Modeling of a Multistable Viscoelastic Flow</a></div></td>
 <td>Shaoxuan Chen et al.</td>
@@ -32,6 +50,12 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32897.html">Discretely self-similar solutions to coupled fluid systems with locally $L^2$ data</a></div></td>
 <td>Chen-Chih Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32897">2611.32897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33416.html">Large-deformation constitutive modeling of viscoelastic foams: Application to an open-cell foam material</a></div></td>
+<td>Jialiang Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33416">2611.33416</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-20</td>
@@ -758,29 +782,5 @@ current_window: 90d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2609.01907.html">Yielded-region connectivity governs the onset of gravity-driven spreading in elastoviscoplastic drops</a></div><div class="paper-tags"><a href="rheology-90d.html">rheology</a></div></td>
 <td>Alice Woodbridge et al.</td>
 <td><a href="http://arxiv.org/abs/2609.01907">2609.01907</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26479.html">The ultimate state of elastic turbulence</a></div><div class="paper-tags"><a href="polymer-morphology-90d.html">polymer-morphology</a></div></td>
-<td>Piyush Garg et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26479">2608.26479</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26611.html">Resolvent analysis to inform viscoelastic coatings for turbulent drag reduction</a></div></td>
-<td>Soumen Chakravarty et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26611">2608.26611</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26622.html">Relaxation-Aware Multimodal Sensing of Soft Gripper Driven by Structure-Perception-Learning</a></div></td>
-<td>Yanzhe Wang et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26622">2608.26622</a></td>
-</tr>
-<tr class="paper">
-<td>2026-08-27</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2608.26625.html">A stable DG-POD reduced-order method for dynamic linear viscoelasticity</a></div></td>
-<td>Byeong-Chun Shin et al.</td>
-<td><a href="http://arxiv.org/abs/2608.26625">2608.26625</a></td>
 </tr>
 </tbody></table>

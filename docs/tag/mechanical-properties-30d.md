@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>mechanical-properties — 30d</h1>
-  <span class="paper-count">36 papers</span>
+  <span class="paper-count">38 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <strong>30d</strong> <a href="mechanical-properties-90d.html">90d</a> <a href="mechanical-properties-360d.html">360d</a> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,24 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34194.html">Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology</a></div><div class="paper-tags"><a href="polymer-morphology-30d.html">polymer-morphology</a> · <a href="rheology-30d.html">rheology</a></div></td>
+<td>Koduvayur A. Ramya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34194">2611.34194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34310.html">Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="composites-30d.html">composites</a></div></td>
+<td>Kanhaiya Lal Chaurasiya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34310">2611.34310</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34670.html">Autonomous Ergodic Robotic Palpation for Elastic Mapping of Curved Soft Tissues</a></div></td>
+<td>Luca Beber et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34670">2611.34670</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32818.html">Data-driven Reduced-order Modeling of a Multistable Viscoelastic Flow</a></div></td>
@@ -32,6 +50,12 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32897.html">Discretely self-similar solutions to coupled fluid systems with locally $L^2$ data</a></div></td>
 <td>Chen-Chih Lai et al.</td>
 <td><a href="http://arxiv.org/abs/2611.32897">2611.32897</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33416.html">Large-deformation constitutive modeling of viscoelastic foams: Application to an open-cell foam material</a></div></td>
+<td>Jialiang Tao et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33416">2611.33416</a></td>
 </tr>
 <tr class="paper">
 <td>2026-11-20</td>
@@ -218,17 +242,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37020.html">The constrained molecular dynamics (CMD) to obtain spatio-temporal memory functions of viscoelastic liquids: stability analysis of equations of motion</a></div><div class="paper-tags"><a href="molecular-dynamics-30d.html">molecular-dynamics</a></div></td>
 <td>Olivier Benzerara et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37020">2610.37020</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.35481.html">Thermosolutal Marangoni instabilities in a weakly viscoelastic falling film with soluble surfactant</a></div></td>
-<td>Sanghasri Mukhopadhyay et al.</td>
-<td><a href="http://arxiv.org/abs/2610.35481">2610.35481</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36005.html">Evaluation of upper-scale mechanical parameters of particulate aluminum-based nanocomposites from molecular simulations</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="multiscale-modeling-30d.html">multiscale-modeling</a> · <a href="nanocomposites-30d.html">nanocomposites</a></div></td>
-<td>Bartosz Bucholc et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36005">2610.36005</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 7d
 
 <header class="tag-header">
   <h1>phase-separation — 7d</h1>
-  <span class="paper-count">7 papers</span>
+  <span class="paper-count">6 papers</span>
   <nav class="window-nav"><strong>7d</strong> <a href="phase-separation-30d.html">30d</a> <a href="phase-separation-90d.html">90d</a> <a href="phase-separation-360d.html">360d</a> <a href="phase-separation-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -50,11 +50,5 @@ current_window: 7d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.26236.html">Flux-induced condensation in a radial geometry</a></div></td>
 <td>Yoav Tsori</td>
 <td><a href="http://arxiv.org/abs/2611.26236">2611.26236</a></td>
-</tr>
-<tr class="paper">
-<td>2026-11-18</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.23915.html">Semi-Implicit and Convex Splitting Schemes for the Surface Cahn--Hilliard Equation on Curved Closed Surfaces</a></div></td>
-<td>Harri Hakula et al.</td>
-<td><a href="http://arxiv.org/abs/2611.23915">2611.23915</a></td>
 </tr>
 </tbody></table>

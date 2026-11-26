@@ -16,6 +16,12 @@ current_window: 30d
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
 <tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34310.html">Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a> · <a href="mechanical-properties-30d.html">mechanical-properties</a></div></td>
+<td>Kanhaiya Lal Chaurasiya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34310">2611.34310</a></td>
+</tr>
+<tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.31964.html">Sounding the Black Box: Online Training of Embedded Neural Networks in Forward-Only Physical Simulators</a></div><div class="paper-tags"><a href="phase-separation-30d.html">phase-separation</a></div></td>
 <td>Ruiqi Shu et al.</td>
@@ -116,11 +122,5 @@ current_window: 30d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.37322.html">Microscopic constitutive freedom in metamaterials</a></div><div class="paper-tags"><a href="composites-30d.html">composites</a></div></td>
 <td>Zhongjian Mei et al.</td>
 <td><a href="http://arxiv.org/abs/2610.37322">2610.37322</a></td>
-</tr>
-<tr class="paper">
-<td>2026-10-26</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2610.36349.html">A Local Stabilized Isogeometric Formulation with Discontinuous Pressure for Mesh-Conforming and Immersed Analysis of Nearly Incompressible Elasticity</a></div></td>
-<td>Ashkan Ali Madadi et al.</td>
-<td><a href="http://arxiv.org/abs/2610.36349">2610.36349</a></td>
 </tr>
 </tbody></table>

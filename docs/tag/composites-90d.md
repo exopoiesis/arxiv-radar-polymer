@@ -7,7 +7,7 @@ current_window: 90d
 
 <header class="tag-header">
   <h1>composites — 90d</h1>
-  <span class="paper-count">34 papers</span>
+  <span class="paper-count">36 papers</span>
   <nav class="window-nav"><a href="composites-7d.html">7d</a> <a href="composites-30d.html">30d</a> <strong>90d</strong> <a href="composites-360d.html">360d</a> <a href="composites-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 90d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34310.html">Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements</a></div><div class="paper-tags"><a href="benchmarking-90d.html">benchmarking</a> · <a href="mechanical-properties-90d.html">mechanical-properties</a></div></td>
+<td>Kanhaiya Lal Chaurasiya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34310">2611.34310</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-24</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33381.html">Magnetically Guided Sequential Multi-Filler Alignment Enables Anisotropic Heat Pathways in Stretchable Composites for Soft Electronics</a></div><div class="paper-tags"><a href="thermal-conductivity-90d.html">thermal-conductivity</a></div></td>
+<td>Altynay Kaidarova et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33381">2611.33381</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-20</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.27259.html">Decoupling Entropic and Enthalpic Elasticity in Crosslinked Polymer Nanocomposites</a></div><div class="paper-tags"><a href="mechanical-properties-90d.html">mechanical-properties</a> · <a href="nanocomposites-90d.html">nanocomposites</a></div></td>

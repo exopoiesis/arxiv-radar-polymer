@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">214 papers</span>
+  <span class="paper-count">215 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,18 @@ current_window: 360d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34194.html">Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
+<td>Koduvayur A. Ramya et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34194">2611.34194</a></td>
+</tr>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.34496.html">A search and multi-frequency study of curved parsec-scale jets in active galaxies</a></div><div class="paper-tags"><a href="monte-carlo-360d.html">monte-carlo</a></div></td>
+<td>V. A. Makeev et al.</td>
+<td><a href="http://arxiv.org/abs/2611.34496">2611.34496</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32535.html">Odd Viscosity-Driven Phase Separation in Chiral Active Mixtures</a></div></td>
@@ -1292,11 +1304,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08970.html">Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations</a></div></td>
 <td>Saurabh et al.</td>
 <td><a href="http://arxiv.org/abs/2512.08970">2512.08970</a></td>
-</tr>
-<tr class="paper">
-<td>2025-11-30</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2509.15022.html">Mapping Microstructure: Manifold Construction for Accelerated Materials Exploration</a></div></td>
-<td>Simon A. Mason et al.</td>
-<td><a href="http://arxiv.org/abs/2509.15022">2509.15022</a></td>
 </tr>
 </tbody></table>

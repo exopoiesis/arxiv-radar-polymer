@@ -4160,5 +4160,445 @@
    "Molecular Dynamics & Multiscale Modeling"
   ],
   "updated": "2026-11-24"
+ },
+ "2611.33381": {
+  "abstract": "Stretchable, skin-conformal electronics demand thermal interface materials that combine high through-plane heat transport with mechanical softness and lateral electrical insulation. In particle-filled composites, these requirements are typically antagonistic. Heat transport is governed not only by the intrinsic thermal conductivity of the fillers but, more critically, by thermal resistance at the interparticle interface. As the interparticle distance is reduced by increasing the particle content, mechanical reinforcement and in-plane electrical conductivity become unavoidable. The existing particle alignment processing strategies result in inefficient uncoupling of multifunctionality. Here, we present a hierarchical two-step process strategy to induce strong conductivity anisotropy in a soft composite. First, an align-before-blend process forms a scaffold of magnetically aligned nickel (Ni) microparticles in air before polymer infiltration. The absence of the viscous elastomer matrix during the particle alignment facilitates handling large amounts of particles, which assemble into highly ordered and densely packed vertical heat-conduction pathways. Second, a liquid metal (LM)/Ni mixture is infiltrated into the aligned scaffold to bridge interparticle gaps, minimizing interparticle thermal resistance. The composite reaches 7.5 W/(m K) through-plane thermal conductivity with lateral electrical conductivity below $10^{-12}$ S/m and ultrasoft mechanical compliance (approximately 160 kPa), enabling coupling layers in thermoelectric generators and finger-mounted heat-spreading pads for wearable technologies.",
+  "authors": [
+   "Altynay Kaidarova",
+   "Viktor Naenen",
+   "Isidro Florenciano",
+   "Ruben Windey",
+   "Xiaoyan Qing",
+   "Laurens Snels",
+   "Juhyung Park",
+   "Tom Van der Donck",
+   "Jeroen Soete",
+   "David Seveno",
+   "Francisco Molina-Lopez"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": "77 pages, 6 main figures, including Supporting Information",
+  "first_author": "Altynay Kaidarova",
+  "pdf_url": "http://arxiv.org/pdf/2611.33381",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-24",
+  "tags": [
+   "composites",
+   "thermal-conductivity"
+  ],
+  "title": "Magnetically Guided Sequential Multi-Filler Alignment Enables Anisotropic Heat Pathways in Stretchable Composites for Soft Electronics",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.33416": {
+  "abstract": "Open-cell elastomeric foams are widely utilized for impact protection and cushioning applications. These foams can demonstrate remarkable elastic compressibility and rate sensitivity over a wide range of force and acceleration protection levels. They often exhibit volumetric-distortional coupling in their mechanical response and potentially compaction banding when subjected to dynamic loads. Here, a phenomenological modeling framework, adopted previously for closed-cell foams, is specified using an experimental characterization-based approach for calibrating and validating the large-deformation, viscoelastic material model. Homogeneous simple compression and tension experiments were performed on isotropic, open-cell viscoelastic foam materials, and stress-strain and lateral-axial strain data were used for model calibration. Data were collected at decadal strain rates to inform the rate-sensitive aspects of the model. The modeling approach involved decomposing the total material response into an equilibrium hyperelastic contribution and several nonlinear, Maxwell-like contributions and utilized invariants of the logarithmic strain to account for large deformations and the strong volumetric-distortional coupling effect. A new strain localization detection algorithm was developed and used to check for the formation of compaction bands, which would invalidate modeling assumptions for the calibration experiments. To validate the predictive capability of the constitutive model, experiments were conducted that involved intentionally inhomogeneous deformations over a spectrum of strain rates and deformation types. The consistency between the measured responses from the validation experiments and the model predictions obtained from finite-element-based numerical simulations was largely within the experimental uncertainty bounds, demonstrating the predictive capability of the model.",
+  "authors": [
+   "Jialiang Tao",
+   "Alexander K. Landauer",
+   "Zicheng Yan",
+   "Xiuqi Li",
+   "Christian Franck",
+   "David L Henann"
+  ],
+  "categories": [
+   "cond-mat.soft",
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Jialiang Tao",
+  "pdf_url": "http://arxiv.org/pdf/2611.33416",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-24",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Large-deformation constitutive modeling of viscoelastic foams: Application to an open-cell foam material",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.33534": {
+  "abstract": "The universe below 20 MHz remains one of space science's last unexplored frontiers, inaccessible from Earth due to its ionosphere and terrestrial radio frequency interference (RFI). We present the mission concept for the Moon Radio Interferometer for Science and Exploration (MoonRISE), an all-sky imaging, low-frequency radio telescope operating from 100 kHz-30 MHz from the lunar farside, the quietest radio environment in the inner Solar System. If realized, MoonRISE would be the first radio interferometer on the Moon and the first connected-element radio interferometer in space. Its science objectives are to (1) determine how solar wind turbulence drives plasma heating, acceleration, and space weather evolution in the inner heliosphere, by measuring the scattering of type III solar radio bursts between 2-20 solar radii; (2) constrain the density, structure, and variability of the lunar ionosphere and its effects on surface communication; and (3) resolve the plasma sources and magnetospheric dynamics that power Uranian Kilometric Radiation, observable for the first time since Voyager 2 in 1986. The same observations would yield all-sky maps of the low-frequency sky, subsurface structure at the landing site, and a characterization of the farside RF environment. The Radio Interferometer concept consists of nine 3.5 m dipoles embedded in a 1.5 km optical-fiber tether deployed by a rover, with power- and RF-over-fiber enabling RFI-free mapping. A rover-mounted Ground Penetrating Radar (300-2000 MHz) would measure regolith dielectric properties and bedrock depth to characterize the dipoles' RF performance. We describe the science objectives, a reference landing site in Lacus Luxuriae, a notional concept of operations, and the payload design and technology maturity. The concept builds on SunRISE and OVRO-LWA heritage and could serve as a basis for a future selected mission.",
+  "authors": [
+   "Saptarshi Bandyopadhyay",
+   "Marin Anderson",
+   "Alexander Hegedus",
+   "Kalind Carpenter",
+   "Jack Burns",
+   "Andrew Romero-Wolf",
+   "Nivedita Mahesh",
+   "Olga Verkhoglyadova",
+   "Gregor Steinbrügge",
+   "Benjamin Byron",
+   "Garth Franklin",
+   "Mark Haynes",
+   "Adrian Tang",
+   "Nacer Chahat",
+   "Christine Gebara",
+   "David Bugby",
+   "Roxanne Arellano",
+   "Malcolm Wright",
+   "Clara MacFarland",
+   "Matthew Keyawa",
+   "Gaurangi Gupta",
+   "Ashish Goel",
+   "Travis Brown",
+   "Ansel Barchowsky",
+   "James Stone",
+   "Gregg Hallinan",
+   "Judd Bowman",
+   "James Lux",
+   "Kathryn Plant"
+  ],
+  "categories": [
+   "astro-ph.IM",
+   "astro-ph.CO",
+   "astro-ph.EP",
+   "astro-ph.SR"
+  ],
+  "comment": null,
+  "first_author": "Saptarshi Bandyopadhyay",
+  "pdf_url": "http://arxiv.org/pdf/2611.33534",
+  "primary_category": "astro-ph.IM",
+  "published": "2026-11-24",
+  "tags": [
+   "dielectric-properties"
+  ],
+  "title": "Moon Radio Interferometer for Science and Exploration (MoonRISE): A Mission Concept for a Low-Frequency Radio Interferometer on the Lunar Farside",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-24"
+ },
+ "2611.33557": {
+  "abstract": "Computational retrosynthesis prediction has the potential to reduce development time for newly discovered drugs by automatically generating potential reactions for a target product. Data-driven approaches commonly treat this as a sequence-to-sequence generation task on SMILES strings. In this work, we construct ensembles of discrete-time and continuous-time diffusion models for molecular generation and incorporate guidance mechanisms for improved output diversity. We propose an adaptation of particle guidance to SMILES sequence generation which significantly improves the number of unique molecules generated by diffusion ensembles while increasing top-k accuracy. These results further expand the efficacy of discrete diffusion for SMILES generation, and our empirical analyses offer new insights into the capabilities of diffusion models for chemical retrosynthesis.",
+  "authors": [
+   "Sean Current",
+   "Daniel Adu-Ampratwum",
+   "Xia Ning",
+   "Srinivasan Parthasarathy"
+  ],
+  "categories": [
+   "cs.LG"
+  ],
+  "comment": "27 pages, 9 figures, 6 tables",
+  "first_author": "Sean Current",
+  "pdf_url": "http://arxiv.org/pdf/2611.33557",
+  "primary_category": "cs.LG",
+  "published": "2026-11-25",
+  "tags": [
+   "diffusion-model"
+  ],
+  "title": "DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance",
+  "topics": [
+   "Synthesis, Kinetics & Automation"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.33569": {
+  "abstract": "Every finite population is eventually driven to extinction by demographic noise, even when the deterministic dynamics have a stable coexistence state. We develop a large-deviation theory of this process for hierarchical food webs of arbitrary size. In a community of $N$ species, the basal species $X_1$ reproduces intrinsically and every consumer may prey on all species below it, so that omnivory is built into the interaction graph. For unit conversion efficiency and self-limitation confined to the basal species, the mean-field dynamics have at most $2^{N-1}+1$ feasible fixed points. We prove that the sign of each passive eigenvalue equals the sign of the extinct species' density in the enlarged community, that every partial community containing $X_1$ is a saddle with one unstable direction for each extinct consumer, and that the coexistence state is the only stable fixed point. A WKB treatment of the master equation gives a $2N$-dimensional Hamiltonian whose fluctuational fixed points are obtained in closed form. The resulting extinction network has $3^{N-1}$ fluctuation-driven transitions, and its coarse-grained dynamics yield an exact recursion for every mean extinction time. We analyse the three-species omnivory module in full, including a minimal set of existence conditions, global stability of coexistence, numerical instanton actions for all nine transitions and the most probable extinction route, which we confirm with stochastic simulations. Finally, we show how deleting a single trophic link reshapes the extinction network.",
+  "authors": [
+   "Varun Nevash",
+   "Eric Forgoston",
+   "M. Ani Hsieh"
+  ],
+  "categories": [
+   "q-bio.PE",
+   "cond-mat.stat-mech",
+   "math.DS",
+   "math.PR",
+   "nlin.AO"
+  ],
+  "comment": null,
+  "first_author": "Varun Nevash",
+  "pdf_url": "http://arxiv.org/pdf/2611.33569",
+  "primary_category": "q-bio.PE",
+  "published": "2026-11-25",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Noise-induced Extinction in Hierarchical Food Webs",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.33740": {
+  "abstract": "In many canonical biophysical and biochemical contexts, complex diffusing DNA-binding proteins undergoing nonspecific adsorption and desorption can exist in different conformational states. Equilibrium binding theories and kinetic models of competing ligands provide a basis for describing these systems. Coupling the internal conformational kinetics of bound proteins to exclusion and diffusion requires tracking both protein positions and binding states. Closed-form, tractable mathematical models that accurately describe the stochastic dynamics of structured proteins that bind to and diffuse along DNA are lacking. Here, we develop a new coarse-grained stochastic model of nonspecific DNA-protein binding in the fast diffusion regime, from which we derive an effective Markov model and its corresponding mean-field approximation that incorporates protein footprint size and conformational switching. We fit our new model quantitatively to previously measured dynamics of Replication Protein A (RPA) binding to ssDNA. Finally, by including multisegment binding states, our analysis captures facilitated exchange, revealing how multisegment architecture balances high affinity with rapid remodeling. Our theoretical model applies broadly to many other DNA-binding protein systems, including nucleosomes, ssDNA-binding proteins, and other multisegment complexes, providing accurate predictions and new strategies for evaluating experimental data.",
+  "authors": [
+   "Xiangting Li",
+   "Tom Chou"
+  ],
+  "categories": [
+   "q-bio.BM",
+   "cond-mat.soft",
+   "cond-mat.stat-mech",
+   "q-bio.QM"
+  ],
+  "comment": "18pp, 13 figures",
+  "first_author": "Xiangting Li",
+  "pdf_url": "http://arxiv.org/pdf/2611.33740",
+  "primary_category": "q-bio.BM",
+  "published": "2026-11-25",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Exclusion and internal structure in the association/dissociation kinetics of DNA-binding proteins in the fast diffusion limit",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.33770": {
+  "abstract": "Vitrimers are dynamic polymer networks characterized by associative bond exchange, which enables topological rearrangement while preserving the overall network connectivity. However, how this dynamic connectivity evolves in the presence of a solvent, particularly as a function of temperature, remains poorly understood. Here, we employ hybrid molecular dynamics Monte Carlo simulations to elucidate the temperature-dependent restructuring and dissociation of vitrimer networks in solution. By constructing temperature composition phase diagrams, we demonstrate that the critical temperature for network dissolution increases nonlinearly with crosslink concentration. We find that the network disintegration begins well below the critical dissolution temperature, indicating that the loss of network connectivity can occur even before the onset of macroscopic dissolution. However, the network undergoes extensive restructuring around the critical temperature for a highly crosslinked system, resulting in the formation of numerous smaller, disconnected networks. Concurrently, the number of intrachain dynamic bonds increases with temperature. Interestingly, complete disintegration into individual polymer chains is not observed; instead, the solution comprises a broad distribution of smaller network fragments. These findings reveal the complex interplay between solvent-induced network disintegration and dynamic bond redistribution, providing molecular level insights into the dissolution of vitrimer networks and their potential for solvent assisted recycling.",
+  "authors": [
+   "Manoj K Patel",
+   "Tarak K Patra"
+  ],
+  "categories": [
+   "cond-mat.mtrl-sci"
+  ],
+  "comment": null,
+  "first_author": "Manoj K Patel",
+  "pdf_url": "http://arxiv.org/pdf/2611.33770",
+  "primary_category": "cond-mat.mtrl-sci",
+  "published": "2026-11-25",
+  "tags": [
+   "molecular-dynamics",
+   "monte-carlo"
+  ],
+  "title": "Solvent-Mediated Disintegration of a Vitrimer Network",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.33807": {
+  "abstract": "At finite bond dimension $χ$, tensor network renormalization (TNR) of a critical model eventually becomes gapped. For LoopTNR with $O(2)$ symmetry on the $c=1$ critical line of the six-vertex model, parametrized by the Luttinger parameter $K$, we show that the correlation length $ξ$ of the gapped phase is set by the seed of the dimerization injected by the truncation, and depends on $χ$ only through it. Read from a weak-coupling window early in the same run, the seed predicts $ξ=10^3$-$10^{16}$ via the sine-Gordon mass-coupling relation with no free parameter, to within a few percent for $K\\le1.5$ and about 10% at $K=1.75$; since the seed fluctuates strongly with $χ$, $ξ$ is not monotonic in $χ$. An alternation of the vertex weights shifts the seed; with its sign read from a $π$ twist, one short calibration predicts a counterterm that delays the breakdown in 16 of the 17 compensated groups of a campaign fixed in advance. A correction of the coarse-grained tensors, repeated during the flow, keeps the runs at $K=1$ and $1.5$ critical up to step 160, the last step computed, and exposes the marginal truncation error that remains. Our findings illustrate a systematic procedure for controlling the relevant truncation error, and thereby extending the critical window, in tensor network renormalization at finite bond dimension.",
+  "authors": [
+   "Rikuto Fushio",
+   "Kokin Cho",
+   "Yuta Yamamoto",
+   "Akira Otsuki",
+   "Masahito Yamazaki"
+  ],
+  "categories": [
+   "cond-mat.str-el",
+   "cond-mat.stat-mech",
+   "hep-th"
+  ],
+  "comment": "29 pages, 15 figures",
+  "first_author": "Rikuto Fushio",
+  "pdf_url": "http://arxiv.org/pdf/2611.33807",
+  "primary_category": "cond-mat.str-el",
+  "published": "2026-11-25",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Controlling truncation errors in loop tensor network renormalization",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.33961": {
+  "abstract": "Classical dimensional analysis defines admissible dimensionless representations but does not determine which combinations capture the dominant physical dependence, whether it changes across physical regimes, or when dependent-variable rescaling is required. We present AI Buckingham, an agentic framework for autonomous dimensionless discovery from natural-language descriptions of physical problems and observational data. It couples reasoning and planning by a large language model (LLM) with predefined symbolic and numerical tools. Literature-based knowledge retrieval supports dimensional checking, gradient-based clustering identifies physical regimes, and mutual information provides an objective, reparameterization-invariant criterion for identifying dominant dimensionless groups. Explicit numerical criteria determine the group count and assess simplification. Across ten physical systems spanning fluid dynamics, magnetohydrodynamics, thermal convection and additive manufacturing, AI Buckingham recovers established similarity representations and resolves regime-dependent scalings. For the longstanding challenge of predicting turbulent drag on rough surfaces, it identifies informative reparameterizations of surface statistics that improve equivalent sand-grain roughness estimates for engineering-oriented drag modelling.",
+  "authors": [
+   "Ao Cheng",
+   "Lei Zhang",
+   "Guowei He"
+  ],
+  "categories": [
+   "physics.comp-ph",
+   "cs.AI",
+   "physics.flu-dyn"
+  ],
+  "comment": "7 main figures; Supplementary Information included (7 figures and 30 tables)",
+  "first_author": "Ao Cheng",
+  "pdf_url": "http://arxiv.org/pdf/2611.33961",
+  "primary_category": "physics.comp-ph",
+  "published": "2026-11-25",
+  "tags": [
+   "additive-manufacturing"
+  ],
+  "title": "AI Buckingham: Agentic Discovery of Dimensionless Scaling Laws Across Physical Regimes",
+  "topics": [
+   "Processing, Manufacturing & Composites"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.33988": {
+  "abstract": "Emergence of collective order from disordered constituents is a hallmark of active matter, and the Vicsek model (VM) serves as a paradigmatic system for its study. However, whether density-induced emergence in the VM differs between angular (intrinsic) and vectorial (extrinsic) noise, and what mechanisms govern the transitions, remain largely unexplored. Remarkably, we uncover that collective order emerges from a disordered state in a continuous-like manner under intrinsic noise but abruptly under extrinsic noise. Combining nonequilibrium landscape-flux theory with a coarse-grained mapping method, we show that the landscape evolves continuously from a single basin to two and back to one under intrinsic noise, but the two-basin landscape appears abruptly under extrinsic noise across the critical transition to flocking. The counterclockwise nonequilibrium flux sustains global circular motion, providing the driving force for reshaping the landscape. The mean flux and entropy production rate change steeply near the emergence threshold and exhibit pronounced peaks within the coexistence region, identifying them as the dynamical and thermodynamic origins of emergence. Our findings reveal a distinct abrupt emergence under extrinsic noise and offer deeper mechanistic insight, practical applications (e.g., locating phase boundaries and distinguishing transition types), and extensibility to other nonequilibrium collective systems.",
+  "authors": [
+   "Yitong Cai",
+   "Ruizhe Yan",
+   "Dongrun Jian",
+   "Jie Su",
+   "Jin Wang"
+  ],
+  "categories": [
+   "cond-mat.stat-mech",
+   "cond-mat.soft"
+  ],
+  "comment": "19 pages, 11 figures (7 pages, 4 figures for main text; 12 pages, 7 figures for Supplemental Material)",
+  "first_author": "Yitong Cai",
+  "pdf_url": "http://arxiv.org/pdf/2611.33988",
+  "primary_category": "cond-mat.stat-mech",
+  "published": "2026-11-25",
+  "tags": [
+   "coarse-grained"
+  ],
+  "title": "Exploring Physical Mechanisms Underlying the Emergence of Collective Order",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.34194": {
+  "abstract": "A key structural parameter that dictates the textural properties of a particulate gel is the fractal dimension (Df) of the network indicating self-similarity within the spatial range defined by the correlation length (xi). In this study dairy gels are formed from reconstituted skim milk at defined CM volume fractions via two different mechanisms: acidification, and enzymatic (rennet)-induction. Oscillatory rheology is performed to obtain the gelation times, the time-scale for the maturation of mechanical properties of the gel, and the viscoelastic properties of the gel. A direct probe of gel structure is ultra-small-angle neutron scattering (USANS) examining length-scales from approximately 60 nm up to 15 microns. Structural information is extracted from USANS of matured gels by comparing the measured differential scattering cross-section with that calculated from a model constrained by the sample composition. Time-scales for structural equilibration from USANS perspective were shorter than the rheological gelation time for both gels. Rheological scaling theories are utilized to relate the microstructure to their bulk mechanical properties. We show that the fractal scaling at low-q (scattering vectors), due to aggregation of CM, extracted from the USANS at the longest timescales is described by a power-law density-density correlation function, and that rheology relates - through Shih-Wu-Morbidelli models - the local elasticity both within and between the fractal flocs formed by these particles over different size ranges to the bulk moduli of the gels. There are similar values of fractal dimensions from both techniques but different sizes attributed to the complex fractal evolution during dairy gelation, which leaves space to refinements of the models.",
+  "authors": [
+   "Koduvayur A. Ramya",
+   "Liliana de Campo",
+   "Markus Strobl",
+   "François Boué",
+   "Christopher J. Garvey"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": "under review Journal of Rheology",
+  "first_author": "Koduvayur A. Ramya",
+  "pdf_url": "http://arxiv.org/pdf/2611.34194",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-25",
+  "tags": [
+   "mechanical-properties",
+   "polymer-morphology",
+   "rheology"
+  ],
+  "title": "Length-scales and fractal scaling in dairy gels: comparisons of the insights from ultra-small angle neutron scattering and rheology",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.34286": {
+  "abstract": "Differential scanning calorimetry, polarizing optical microscopy, and broadband dielectric spectroscopy are applied for investigation of phase transitions in equimolar binary mixtures consisting of the MHPOBC liquid crystal as one component and 3FmHPhH6 homologs as a second component with different C$_3$F$_7$CH$_2$OC$_m$H$_{2m}$- chain length (m = 2-7). The paraelectric smectic A* - ferroelectric smectic C* - antiferroelectric smectic C$_A$* - hexatic smectic X$_A$* - glassy smectic X$_A$* sequence is observed for all mixtures. The appearance of the bond-orientational order in smectic X$_A$* is accompanied by an additional relaxation process P$_{hex}$ in dielectric spectra at the low-frequency side of the P$_H$ phason, consistent with its assignment to bond-orientational fluctuations. The empirical exponential-power relationship is proposed for the ratio between the relaxation times of P$_{hex}$ and P$_H$. The behavior of the structural $α$-relaxation and secondary $β$-relaxation in smectic X$_A$* depends on the m parameter, changing from overlapping $α$ and $β$ processes for m = 2 to well-separated for m = 6, 7. A double glass transition is observed by calorimetry on heating for m = 5-7. The calorimetric glass transition temperature shows a composition-dependent correspondence with temperatures at which either the P$_H$ or $α$-relaxation time reaches 100 s, suggesting that different relaxation processes may contribute to vitrification.",
+  "authors": [
+   "Aleksandra Deptuch",
+   "Mateusz Pączek",
+   "Anna Drzewicz",
+   "Marcin Piwowarczyk",
+   "Magdalena Urbańska",
+   "Ewa Juszyńska-Gałązka"
+  ],
+  "categories": [
+   "cond-mat.soft"
+  ],
+  "comment": null,
+  "first_author": "Aleksandra Deptuch",
+  "pdf_url": "http://arxiv.org/pdf/2611.34286",
+  "primary_category": "cond-mat.soft",
+  "published": "2026-11-25",
+  "tags": [
+   "glass-transition",
+   "spectroscopy"
+  ],
+  "title": "Collective relaxation dynamics and vitrification in hexatic smectic binary equimolar mixtures containing component with varying C$_3$F$_7$CH$_2$OC$_m$H$_{2m}$- chain length",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.34310": {
+  "abstract": "The inverse problem of identifying spatially varying material properties of heterogeneous solids using experimentally available displacement fields and boundary reaction forces alone remains challenging. Being able to characterize heterogeneous and graded solids would be advantageous in the design and manufacturing of functionally graded materials and composites. Additionally, an efficient technique for identifying heterogeneous material properties from in vivo measurements would be useful in biomedical contexts to characterize heterogeneous biological tissues. Although several techniques developed over the past two decades have addressed inverse identification for homogeneous materials, including linear elastic, hyperelastic, viscoelastic, and elastoplastic solids, comparatively fewer studies have considered heterogeneous and graded materials. Furthermore, several recent approaches to characterizing heterogeneous and graded materials employ parameter-heavy, deep learning-based frameworks trained to enforce force equilibrium at specified collocation points within the material. In this work, we propose an interpretable and time-efficient framework that predicts the three-dimensional relative spatial variation of a constitutive parameter field for multiple parameters of a heterogeneous hyperelastic material, using only displacement-field data. In this work, we validate our framework on 3D synthetic and 2D experimental benchmarks involving heterogeneous, graded, and anisotropic hyperelastic materials. By leveraging the linear nature of the inverse problem for hyperelastic materials and directly optimizing for the constitutive parameters at the finite-element level, we achieve acceptable prediction accuracy with significantly lower computational time compared to recently reported deep-learning-based frameworks.",
+  "authors": [
+   "Kanhaiya Lal Chaurasiya",
+   "Vaskar Halder",
+   "Prajyot Patil",
+   "Gaurav Navnath Shinde",
+   "Debashish Das",
+   "Akshay Joshi"
+  ],
+  "categories": [
+   "cs.LG",
+   "cond-mat.mtrl-sci",
+   "math.PR",
+   "physics.comp-ph"
+  ],
+  "comment": null,
+  "first_author": "Kanhaiya Lal Chaurasiya",
+  "pdf_url": "http://arxiv.org/pdf/2611.34310",
+  "primary_category": "cs.LG",
+  "published": "2026-11-25",
+  "tags": [
+   "benchmarking",
+   "composites",
+   "mechanical-properties"
+  ],
+  "title": "Interpretable identification of constitutive parameter field for three-dimensional heterogeneous and graded hyperelastic materials from full-field displacements",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.34496": {
+  "abstract": "Very long baseline interferometry (VLBI) observations show that a fraction of active galactic nucleus (AGN) jets exhibit pronounced apparent bending on parsec scales, potentially strongly enhanced by projection effects. While individual sources have been studied in detail, the statistical properties of curved jets and the physical mechanisms responsible for their morphology remain poorly constrained. We aim to select a statistically robust sample of AGNs with significantly curved parsec-scale jets and to constrain the physical mechanisms responsible for jet bending. We analyse 123 456 VLBI images of 17 478 AGNs collected by the public Astrogeo database. After filtering for extended structure, we extract and stack multi-epoch, multi-frequency (1.2--86 GHz) ridge lines. We fit linear and logarithmic helices representing jet precession and resonant Kelvin--Helmholtz instability mode. We combine model-fits and Monte Carlo simulations to further constrain these physical models. We robustly identify 586 AGNs (7.4% of sources with resolved jets) with curved parsec-scale jets. Compared to straight jets, curved ones are less common at low redshifts, possibly due to the sample-related selection effects. In the precession scenario, the inferred periods span $P \\sim$10--10 000 yr, with a logarithmic mean of $\\sim 220$ yr. Solid-body disc precession in supermassive black hole binaries is broadly consistent with these periods, whereas geodetic precession requires extremely tight, near-equal-mass systems. Lense--Thirring precession remains viable for both thin and thick discs. Kelvin--Helmholtz instability also provides a potential explanation. However, identifying the preferred model for each individual source requires further investigation, including temporal analysis and jet kinematics.",
+  "authors": [
+   "V. A. Makeev",
+   "A. B. Pushkarev",
+   "Y. Y. Kovalev"
+  ],
+  "categories": [
+   "astro-ph.HE",
+   "astro-ph.GA"
+  ],
+  "comment": "Accepted for publication in A&A. 15 pages, 14 figures, 4 tables",
+  "first_author": "V. A. Makeev",
+  "pdf_url": "http://arxiv.org/pdf/2611.34496",
+  "primary_category": "astro-ph.HE",
+  "published": "2026-11-25",
+  "tags": [
+   "monte-carlo",
+   "polymer-morphology"
+  ],
+  "title": "A search and multi-frequency study of curved parsec-scale jets in active galaxies",
+  "topics": [
+   "Molecular Dynamics & Multiscale Modeling"
+  ],
+  "updated": "2026-11-25"
+ },
+ "2611.34670": {
+  "abstract": "Autonomous robotic palpation offers repeatable, quantitative   estimates of tissue properties for stiff inclusion   localization. However, existing methods often rely on prior mesh   models or planar surface assumptions that do not generalize to   complex human anatomy. We propose an ergodic palpation framework that   operates directly on curved soft surfaces using point cloud   data. Central to our approach is the Laplace--Beltrami operator,   which grounds both online estimation and exploration in the surface   intrinsic geometry. We estimate local viscoelastic parameters using   an Unscented Kalman Filter (UKF) and fuse them into a surface-aware   Gaussian Process (GP). This probabilistic model drives a   diffusion-based ergodic motion planner, generating a continuous   exploration trajectory that feeds the new informative samples back   to the GP in a closed loop. Throughout this process, a hybrid   force-impedance controller regulates interaction forces to maintain   contact. We evaluate the approach against existing methods in   simulation and validate it in physical experiments on   tissue-mimicking silicone phantoms with varying geometries and   viscoelastic properties, demonstrating geometry-consistent mapping   and stiff inclusion localization under contact-rich conditions.",
+  "authors": [
+   "Luca Beber",
+   "Cem Bilaloglu",
+   "Edoardo Lamon",
+   "Matteo Saveriano",
+   "Daniele Fontanelli",
+   "Luigi Palopoli",
+   "Sylvain Calinon"
+  ],
+  "categories": [
+   "cs.RO"
+  ],
+  "comment": "Submitted to IJRR",
+  "first_author": "Luca Beber",
+  "pdf_url": "http://arxiv.org/pdf/2611.34670",
+  "primary_category": "cs.RO",
+  "published": "2026-11-25",
+  "tags": [
+   "mechanical-properties"
+  ],
+  "title": "Autonomous Ergodic Robotic Palpation for Elastic Mapping of Curved Soft Tissues",
+  "topics": [
+   "Property Prediction & QSPR"
+  ],
+  "updated": "2026-11-25"
  }
 }

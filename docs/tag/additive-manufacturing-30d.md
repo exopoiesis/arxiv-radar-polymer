@@ -7,7 +7,7 @@ current_window: 30d
 
 <header class="tag-header">
   <h1>additive-manufacturing — 30d</h1>
-  <span class="paper-count">14 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="additive-manufacturing-7d.html">7d</a> <strong>30d</strong> <a href="additive-manufacturing-90d.html">90d</a> <a href="additive-manufacturing-360d.html">360d</a> <a href="additive-manufacturing-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -15,6 +15,12 @@ current_window: 30d
 <table class="papers">
 <thead><tr><th>Date</th><th>Title</th><th>Authors</th><th>arXiv</th></tr></thead>
 <tbody>
+<tr class="paper">
+<td>2026-11-25</td>
+<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.33961.html">AI Buckingham: Agentic Discovery of Dimensionless Scaling Laws Across Physical Regimes</a></div></td>
+<td>Ao Cheng et al.</td>
+<td><a href="http://arxiv.org/abs/2611.33961">2611.33961</a></td>
+</tr>
 <tr class="paper">
 <td>2026-11-24</td>
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2611.32822.html">DED-Agent: An agentic AI method for autonomous thermal simulation model development and calibration in laser directed energy deposition</a></div><div class="paper-tags"><a href="benchmarking-30d.html">benchmarking</a> · <a href="polymer-morphology-30d.html">polymer-morphology</a></div></td>
