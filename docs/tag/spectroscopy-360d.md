@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>spectroscopy — 360d</h1>
-  <span class="paper-count">78 papers</span>
+  <span class="paper-count">77 papers</span>
   <nav class="window-nav"><a href="spectroscopy-7d.html">7d</a> <a href="spectroscopy-30d.html">30d</a> <a href="spectroscopy-90d.html">90d</a> <strong>360d</strong> <a href="spectroscopy-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -476,11 +476,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.14973.html">Expanding the reach of diffusing wave spectroscopy and tracer bead microrheology</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Manuel Helfer et al.</td>
 <td><a href="http://arxiv.org/abs/2502.14973">2502.14973</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01526.html">Cytoplasmic flow induced by a rotating wire in living cells: Magnetic rotational spectroscopy and finite element simulations</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="rheology-360d.html">rheology</a></div></td>
-<td>Charles Paul Moore et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01526">2512.01526</a></td>
 </tr>
 </tbody></table>

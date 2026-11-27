@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>hydrogels — 360d</h1>
-  <span class="paper-count">92 papers</span>
+  <span class="paper-count">90 papers</span>
   <nav class="window-nav"><a href="hydrogels-7d.html">7d</a> <a href="hydrogels-30d.html">30d</a> <a href="hydrogels-90d.html">90d</a> <strong>360d</strong> <a href="hydrogels-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -554,17 +554,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.06685.html">Surface energy-driven crumpling transition in a thin sheet under compression</a></div></td>
 <td>Aashna Chawla et al.</td>
 <td><a href="http://arxiv.org/abs/2512.06685">2512.06685</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2502.01355.html">Origin of slow earthquake statistics in low-friction soft granular shear</a></div></td>
-<td>Yuto Sasaki et al.</td>
-<td><a href="http://arxiv.org/abs/2502.01355">2502.01355</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16862.html">Subtleties of UV-crosslinking in microfluidic particle fabrication: UV dosage and intensity matter</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Sabrina Marnoto et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16862">2508.16862</a></td>
 </tr>
 </tbody></table>

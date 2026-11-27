@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">498 papers</span>
+  <span class="paper-count">494 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2978,29 +2978,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02619.html">Existence of solutions for time-dependent Signorini-type problems in linearised viscoelasticity</a></div></td>
 <td>Paolo Piersanti</td>
 <td><a href="http://arxiv.org/abs/2504.02619">2504.02619</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14149.html">Integral fractional viscoelastic models in SPH: LAOS simulations versus experimental data</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a></div></td>
-<td>Luca Santelli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14149">2507.14149</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2508.16862.html">Subtleties of UV-crosslinking in microfluidic particle fabrication: UV dosage and intensity matter</a></div><div class="paper-tags"><a href="hydrogels-360d.html">hydrogels</a></div></td>
-<td>Sabrina Marnoto et al.</td>
-<td><a href="http://arxiv.org/abs/2508.16862">2508.16862</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01524.html">Massart iron oxide nanoparticles in mechanobiology</a></div></td>
-<td>Myriam Reffay et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01524">2512.01524</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01526.html">Cytoplasmic flow induced by a rotating wire in living cells: Magnetic rotational spectroscopy and finite element simulations</a></div><div class="paper-tags"><a href="rheology-360d.html">rheology</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Charles Paul Moore et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01526">2512.01526</a></td>
 </tr>
 </tbody></table>

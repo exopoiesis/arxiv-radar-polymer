@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>selfies — 360d</h1>
-  <span class="paper-count">16 papers</span>
+  <span class="paper-count">15 papers</span>
   <nav class="window-nav"><a href="selfies-7d.html">7d</a> <a href="selfies-30d.html">30d</a> <a href="selfies-90d.html">90d</a> <strong>360d</strong> <a href="selfies-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -104,11 +104,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.10991.html">MolSculpt: Sculpting 3D Molecular Geometries from Chemical Syntax</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
 <td>Zhanpeng Chen et al.</td>
 <td><a href="http://arxiv.org/abs/2512.10991">2512.10991</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2505.23886.html">Generating Fit Check Videos with a Handheld Camera</a></div><div class="paper-tags"><a href="diffusion-model-360d.html">diffusion-model</a></div></td>
-<td>Bowei Chen et al.</td>
-<td><a href="http://arxiv.org/abs/2505.23886">2505.23886</a></td>
 </tr>
 </tbody></table>

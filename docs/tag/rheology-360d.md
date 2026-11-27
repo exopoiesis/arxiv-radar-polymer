@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>rheology — 360d</h1>
-  <span class="paper-count">122 papers</span>
+  <span class="paper-count">120 papers</span>
   <nav class="window-nav"><a href="rheology-7d.html">7d</a> <a href="rheology-30d.html">30d</a> <a href="rheology-90d.html">90d</a> <strong>360d</strong> <a href="rheology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -734,17 +734,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.05787.html">Nature of continuous spectra in wall-bounded shearing flows of FENE-P fluids</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
 <td>Pratyush Kumar Mohanty et al.</td>
 <td><a href="http://arxiv.org/abs/2512.05787">2512.05787</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2507.14149.html">Integral fractional viscoelastic models in SPH: LAOS simulations versus experimental data</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a></div></td>
-<td>Luca Santelli et al.</td>
-<td><a href="http://arxiv.org/abs/2507.14149">2507.14149</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-01</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.01526.html">Cytoplasmic flow induced by a rotating wire in living cells: Magnetic rotational spectroscopy and finite element simulations</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="spectroscopy-360d.html">spectroscopy</a></div></td>
-<td>Charles Paul Moore et al.</td>
-<td><a href="http://arxiv.org/abs/2512.01526">2512.01526</a></td>
 </tr>
 </tbody></table>
