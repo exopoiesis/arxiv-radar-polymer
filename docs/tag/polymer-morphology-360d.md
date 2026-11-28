@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>polymer-morphology — 360d</h1>
-  <span class="paper-count">215 papers</span>
+  <span class="paper-count">213 papers</span>
   <nav class="window-nav"><a href="polymer-morphology-7d.html">7d</a> <a href="polymer-morphology-30d.html">30d</a> <a href="polymer-morphology-90d.html">90d</a> <strong>360d</strong> <a href="polymer-morphology-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1292,17 +1292,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14702.html">On the relation between microstructure and impact toughness of 17-4__PH stainless steel produced by powder bed fusion laser beam (PBF-LB)</a></div><div class="paper-tags"><a href="mechanical-properties-360d.html">mechanical-properties</a> · <a href="tem-360d.html">tem</a></div></td>
 <td>Renata de Oliveira Melo et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14702">2512.14702</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03129.html">Taming the Tarantula: How Stellar Wind Feedback Shapes Gas and Dust in 30 Doradus</a></div></td>
-<td>Jennifer A. Rodriguez et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03129">2512.03129</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.08970.html">Probing jet base emission of M87* with the 2021 Event Horizon Telescope observations</a></div></td>
-<td>Saurabh et al.</td>
-<td><a href="http://arxiv.org/abs/2512.08970">2512.08970</a></td>
 </tr>
 </tbody></table>

@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>coarse-grained — 360d</h1>
-  <span class="paper-count">187 papers</span>
+  <span class="paper-count">186 papers</span>
   <nav class="window-nav"><a href="coarse-grained-7d.html">7d</a> <a href="coarse-grained-30d.html">30d</a> <a href="coarse-grained-90d.html">90d</a> <strong>360d</strong> <a href="coarse-grained-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -1130,11 +1130,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03380.html">Constraints on Reversing the Thermodynamic Arrow of Time from Black Hole Thermodynamics, Wormholes, and Time-Symmetric Quantum Mechanics</a></div></td>
 <td>Kevin Song et al.</td>
 <td><a href="http://arxiv.org/abs/2512.03380">2512.03380</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.03174.html">Interfacial Thermal Conductance Between a Polyethylene Glycol Polymer Chain and Water: A Molecular Dynamics Study</a></div><div class="paper-tags"><a href="molecular-dynamics-360d.html">molecular-dynamics</a></div></td>
-<td>Shadi Babaei et al.</td>
-<td><a href="http://arxiv.org/abs/2512.03174">2512.03174</a></td>
 </tr>
 </tbody></table>

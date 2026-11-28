@@ -7,7 +7,7 @@ current_window: 360d
 
 <header class="tag-header">
   <h1>mechanical-properties — 360d</h1>
-  <span class="paper-count">494 papers</span>
+  <span class="paper-count">492 papers</span>
   <nav class="window-nav"><a href="mechanical-properties-7d.html">7d</a> <a href="mechanical-properties-30d.html">30d</a> <a href="mechanical-properties-90d.html">90d</a> <strong>360d</strong> <a href="mechanical-properties-all.html">all</a></nav>
   <a class="back-link" href="../">← all tags</a>
 </header>
@@ -2966,17 +2966,5 @@ current_window: 360d
 <td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2512.14702.html">On the relation between microstructure and impact toughness of 17-4__PH stainless steel produced by powder bed fusion laser beam (PBF-LB)</a></div><div class="paper-tags"><a href="polymer-morphology-360d.html">polymer-morphology</a> · <a href="tem-360d.html">tem</a></div></td>
 <td>Renata de Oliveira Melo et al.</td>
 <td><a href="http://arxiv.org/abs/2512.14702">2512.14702</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2503.07350.html">Energy decay of nonlocal viscoelastic equations with nonlinear damping and polynomial nonlinearity</a></div></td>
-<td>Qingqing Peng et al.</td>
-<td><a href="http://arxiv.org/abs/2503.07350">2503.07350</a></td>
-</tr>
-<tr class="paper">
-<td>2025-12-02</td>
-<td><div class="paper-title"><a class="abstract-popup paper-title-link" href="../abstracts/2504.02619.html">Existence of solutions for time-dependent Signorini-type problems in linearised viscoelasticity</a></div></td>
-<td>Paolo Piersanti</td>
-<td><a href="http://arxiv.org/abs/2504.02619">2504.02619</a></td>
 </tr>
 </tbody></table>
